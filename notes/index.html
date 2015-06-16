@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Notes</title>
+    <style>
+      html { height: 100%; }
+      body { 
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        overflow: hidden;
+      }
+      textarea {
+        box-sizing: border-box;
+        margin: 0;
+        border: 0;
+        padding: 0.5em;
+        width: 100%;
+        height: 100%;
+        overflow-x: hidden;
+        overflow-y: scroll;
+        background: #000;
+        color: #0f0;
+      }
+    </style>
+  </head>
+  <body>
+    <textarea placeholder="notes here"></textarea>
+    <script>
+      var ta = document.querySelector('textarea'); 
+      var selStart = parseInt(localStorage['selectionStart'] || '0', 10);
+      var selEnd = parseInt(localStorage['selectionEnd'] || '0', 10);
+      ta.value = localStorage['notes'] || '';
+      ta.setSelectionRange(selStart, selEnd);
+      ta.focus();
+      function save() {
+        localStorage['notes'] = ta.value;
+        localStorage['selectionStart'] = ta.selectionStart;
+        localStorage['selectionEnd'] = ta.selectionEnd;
+      }
+      ta.addEventListener('change', save, true);
+      ta.addEventListener('select', save, true);
+    </script>
+  </body>
+</html>
