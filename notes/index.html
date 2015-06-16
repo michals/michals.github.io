@@ -28,19 +28,23 @@
   <body>
     <textarea placeholder="notes here"></textarea>
     <script>
-      var ta = document.querySelector('textarea'); 
-      var selStart = parseInt(localStorage['selectionStart'] || '0', 10);
-      var selEnd = parseInt(localStorage['selectionEnd'] || '0', 10);
-      ta.value = localStorage['notes'] || '';
+      var ta = document.querySelector('textarea'),
+          hash = location.hash,
+          selStart = parseInt(localStorage['selectionStart' + hash] || '0', 10),
+          selEnd = parseInt(localStorage['selectionEnd' + hash] || '0', 10);
+      ta.value = localStorage['notes' + hash] || '';
       ta.setSelectionRange(selStart, selEnd);
       ta.focus();
       function save() {
-        localStorage['notes'] = ta.value;
-        localStorage['selectionStart'] = ta.selectionStart;
-        localStorage['selectionEnd'] = ta.selectionEnd;
+        localStorage['notes' + hash] = ta.value;
+        localStorage['selectionStart' + hash] = ta.selectionStart;
+        localStorage['selectionEnd' + hash] = ta.selectionEnd;
       }
       ta.addEventListener('change', save, true);
       ta.addEventListener('blur', save, true);
+      window.addEventListener('hashchange', function() {
+        location.reload();
+      }, true);
     </script>
   </body>
 </html>
