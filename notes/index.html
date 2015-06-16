@@ -42,6 +42,7 @@
       }
       ta.addEventListener('change', save, true);
       ta.addEventListener('blur', save, true);
+      window.addEventListener('unload', save, true);
       window.addEventListener('hashchange', function() {
         location.reload();
       }, true);
