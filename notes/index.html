@@ -40,7 +40,7 @@
         localStorage['selectionEnd'] = ta.selectionEnd;
       }
       ta.addEventListener('change', save, true);
-      ta.addEventListener('select', save, true);
+      ta.addEventListener('blur', save, true);
     </script>
   </body>
 </html>
