@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 8px;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+#Zosia canvas {
+    border: 1px solid black;
+}
