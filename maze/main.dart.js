@@ -4097,7 +4097,7 @@ if(w>>>0!==w||w>=v.length)return H.d(v,w)
 if((v[w]&2)===0)F.aR(y.K(0,2))
 a.preventDefault()
 break
-case 32:F.dq()
+case 13:case 32:F.dq()
 a.preventDefault()
 break}z=a.keyCode
 if(typeof z!=="number")return z.dM()
