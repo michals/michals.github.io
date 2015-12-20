@@ -4007,12 +4007,12 @@ dY:{
 $1:function(a){return a.D(0,this.a)}}}],["","",,F,{
 "^":"",
 jy:[function(){var z,y
-z=new M.eS(8,10,null,null,null,null,null,null,null,null)
+z=new M.eS(9,12,null,null,null,null,null,null,null,null)
 z.e=[]
 z.z=[]
-z.r=new Uint8Array(H.bb(80))
-z.x=new Uint8Array(H.bb(80))
-z.y=new Uint8Array(H.bb(80))
+z.r=new Uint8Array(H.bb(108))
+z.x=new Uint8Array(H.bb(108))
+z.y=new Uint8Array(H.bb(108))
 z.bX(0)
 $.B=z
 z=document.querySelector("#maze canvas")
@@ -4931,8 +4931,8 @@ C.x=function(hooks) {
 }
 C.y=function(_, letter) { return letter.toUpperCase(); }
 C.h=I.aQ([1,2,4,8])
-C.A=I.aQ([2,2,3,3,2,2,3,3,1,1,0,0,1,1,0,0])
 C.B=I.aQ([2,1,2,1,3,0,3,0,2,1,2,1,3,0,3,0])
+C.A=I.aQ([2,2,3,3,2,2,3,3,1,1,0,0,1,1,0,0])
 $.cE="$cachedFunction"
 $.cF="$cachedInvocation"
 $.N=0
