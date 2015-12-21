@@ -10,6 +10,7 @@
         padding: 0;
         height: 100%;
         overflow: hidden;
+        background: #000;
       }
       textarea {
         box-sizing: border-box;
@@ -22,6 +23,20 @@
         overflow-y: scroll;
         background: #000;
         color: #0f0;
+      }
+      body::-webkit-scrollbar {
+        width: 0px;  /* for vertical scrollbars */
+        height: 0px; /* for horizontal scrollbars */
+      }
+      textarea::-webkit-scrollbar {
+        width: 12px;  /* for vertical scrollbars */
+        height: 12px; /* for horizontal scrollbars */
+      }
+      ::-webkit-scrollbar-track {
+        background: rgba(100, 0, 0, 0.1);
+      }
+      ::-webkit-scrollbar-thumb {
+        background: rgba(0, 100, 0, 0.5);
       }
     </style>
   </head>
