@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>P90X3 ICS Generator</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-datetimepicker.min.css" rel="stylesheet">
+    <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <div class="jumbotron"><h1>P90X3 ICS Generator</h1></div>
+    <div class="row">
+        <div class='col-md-4'>
+            <div class="form-group">
+                <label for="start">Start Date and Time:</label>
+
+                <div class='input-group date' id='datetimepicker1'>
+                    <input type='text' id="start" name="start" class="form-control"/>
+                    <span class="input-group-addon">
+                        <span class="glyphicon glyphicon-calendar"></span>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class='col-md-1'>
+            <button class="btn btn-default" id="generate">Generate</button>
+        </div>
+        <div id="link" class="col-md-1 hide">
+            <a class="btn btn-primary" id="download" href="#" download="p90x3-classic.ics">download</a>
+        </div>
+    </div>
+
+</div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/moment.min.js"></script>
+<script src="js/bootstrap-datetimepicker.min.js"></script>
+<script src="js/ics.js"></script>
+<script src="js/p90x3.js"></script>
+</body>
+</html>
