@@ -1,0 +1,168 @@
+<!doctype html>
+<html>
+<!-- 
+  Roll the dice.
+  author: michal@post.pl
+  license: MIT
+  (tested on chrome only for now - sorry)
+ -->
+<head>
+<style media="screen">
+body {
+	background: linear-gradient(135deg, rgba(200, 200, 255, 1) 0%,
+		rgba(229, 229, 229, 1) 100%);
+	height: 1000px;
+}
+
+.board {
+	width: 640px;
+	height: 480px;
+	background-image: url(img/board.jpg);
+	background-repeat: no-repeat;
+	margin: 0px auto 0px auto;
+	border-radius: 6px;
+	border: 5px solid #aaa;
+	box-shadow: 3px 3px 5px 0px rgba(50, 50, 50, 0.75), inset 1px 1px 3px
+		0px rgba(50, 50, 50, 0.75);
+}
+
+.world {
+	width: 200px;
+	height: 200px;
+	margin: auto auto;
+	-webkit-perspective: 800px;
+	background-repeat: no-repeat;
+}
+
+.die {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	-webkit-transform-style: preserve-3d;
+	-webkit-transition: -webkit-transform 0.5s;
+}
+
+.die .face {
+	display: block;
+	position: absolute;
+	border-radius: 10px;
+	width: 200px;
+	height: 200px;
+	background: url(dice-face1.png);
+	background-size: cover;
+	-webkit-backface-visibility: visible;
+	width: 200px;
+	height: 200px;
+}
+
+.die .f1 {
+	background-image: url(img/dice-face1.jpg);
+	-webkit-transform: translateZ(100px);
+}
+
+.die .f2 {
+	background-image: url(img/dice-face2.jpg);
+	-webkit-transform: rotateX(-90deg) translateZ(100px);
+}
+
+.die .f3 {
+	background-image: url(img/dice-face3.jpg);
+	-webkit-transform: rotateY(90deg) translateZ(100px);
+}
+
+.die .f4 {
+	background-image: url(img/dice-face4.jpg);
+	-webkit-transform: rotateY(-90deg) translateZ(100px);
+}
+
+.die .f5 {
+	background-image: url(img/dice-face5.jpg);
+	-webkit-transform: rotateX(90deg) translateZ(100px);
+}
+
+.die .f6 {
+	background-image: url(img/dice-face6.jpg);
+	-webkit-transform: rotateX(-180deg) translateZ(100px);
+}
+
+.note {
+	color: #888;
+}
+</style>
+
+</head>
+<body>
+	<h1>
+		Dice <span id="result"> - click board to roll</span>
+	</h1>
+	<div class="board">
+		<div class="world">
+			<div class="die">
+				<div class="face f1"></div>
+				<div class="face f6"></div>
+				<div class="face f3"></div>
+				<div class="face f4"></div>
+				<div class="face f5"></div>
+				<div class="face f2"></div>
+			</div>
+			<div class="die">
+				<div class="face f1"></div>
+				<div class="face f6"></div>
+				<div class="face f3"></div>
+				<div class="face f4"></div>
+				<div class="face f5"></div>
+				<div class="face f2"></div>
+			</div>
+		</div>
+	</div>
+	<p class="note">author: michal[at]post[dot]pl</p>
+	<script>
+        var die = Array.prototype.slice.apply(document.querySelectorAll('.die'));
+        var result = document.querySelector('#result');
+        var x = [ -800, -100 ], y = [ 500, 700 ], z = [ -3000, -3000 ]; // initial position
+        var show = [];
+        show[1] = "";
+        show[2] = "rotateX(90deg)";
+        show[3] = "rotateY(-90deg)";
+        show[4] = "rotateY(90deg)";
+        show[5] = "rotateX(-90deg)";
+        show[6] = "rotateX(-180deg)";
+        var radius = 200; // x,y random delta
+
+        // move to initial position
+        die.forEach(function(d, i) {
+            d.style.webkitTransform = 'translateZ(' + z[i] + 'px) translateX(' + x[i] + 'px) translateY(' + y[i]
+                    + 'px)';
+        });
+
+        function throwDice() {
+            var resultUp = [], resultDown = [];
+            die.forEach(function(d, i) {
+                resultUp[i] = Math.floor(Math.random() * 6) + 1;
+                resultDown[i] = 7 - resultUp[i]; // opposite
+                setTimeout(function() {
+                    var rZ = Math.floor(Math.random() * 360) - 180;
+                    die[i].style.webkitTransitionTimingFunction = 'cubic-bezier(0.390, 0.575, 0.565, 1.000)';
+                    die[i].style.webkitTransform = 'translateZ(100px) translateX(' + x[i] / 2 + 'px) translateY('
+                            + y[i] / 2 + 'px) rotateZ(' + rZ + 'deg)' + show[resultUp[i]];
+                    setTimeout(function() {
+                        var dx = Math.floor(Math.random() * 2 * radius) - radius;
+                        var dy = Math.floor(Math.random() * 2 * radius) - radius;
+                        rZ = rZ * 2; // continue rotation
+                        die[i].style.webkitTransitionTimingFunction = 'cubic-bezier(0.470, 0.000, 0.745, 0.715)';
+                        die[i].style.webkitTransform = 'translateZ(' + z[i] + 'px) translateX(' + (x[i] + dx)
+                                + 'px) translateY(' + (y[i] + dy) + 'px) rotateZ(' + rZ + 'deg)' + show[resultDown[i]];
+                    }, 500);
+                }, 100 * Math.random());
+            });
+            return resultDown;
+        }
+
+        document.querySelector('.board').onclick = function() {
+            var res = throwDice();
+            result.innerText = JSON.stringify(res);
+            console.log(res);
+        };
+    </script>
+</body>
+</html>
