@@ -1,86 +1,23 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="utf-8"/>
     <title>Fate</title>
+    <script src="fate.js"></script>
   </head>
   <body>
-    <a>Question</a>
+  <section>
+    <h1>Question</h1>
     <select>
     </select>
+  </section>
+  <p>
+    <a id="edit" href="create.html">Edit</a>
+  </p>
   <script>
-
-    class Option {
-      constructor(text, value) {
-        this.text = text;
-        this.value = value;
-        this.element = this.toElement();
-      }
-      toElement() {
-        var el = document.createElement("option");
-        el.value = this.value;
-        el.text = this.text;
-        return el;
-      }
-    }
-
-    class Form {
-      constructor(line) {
-        line = line.split('&');
-        this.question = "Question";
-        this.options = [];
-        this.sum = 0;
-        for (var i = 0; i < line.length; i++) {
-          var pair = line[i].split('=');
-          var text = decodeURIComponent(pair[0]);
-          var value = decodeURIComponent(pair[1]);
-          if (text == "-q") {
-            this.question = value;
-            continue;
-          }
-          var opt = new Option(text, parseFloat(value) || 1);
-          this.options.push(opt)
-          this.sum += opt.value;
-        }
-      }
-      
-      build(selectEl, questionEl) {
-        questionEl.innerText = this.question;
-        selectEl.innerHTML = "";
-        while (selectEl.firstChild) selectEl.removeChild(selectEl.firstChild);
-        for(var opt of this.options) {
-          selectEl.add(opt.element);
-        }
-      }
-
-      pick(fate) {
-        for(var i=0; i < this.options.length; i++) {
-          var opt = this.options[i];
-          if (fate < opt.value) {
-            return i;
-          } else {
-            fate -= opt.value;
-          }
-        }
-        return this.options.length - 1;
-      }
-
-      select() {
-        var idx = this.pick(Math.random() * this.sum);
-        this.options[idx].element.selected = true;
-      }
-
-      static fromUrl() {
-        var line = document.location.hash || document.location.search;
-        line = line.substring(1);
-        line = line || "yes&no&-q=Answers:";
-        var form = new Form(line);
-        form.build(document.querySelector('select'), document.querySelector('a'));
-        return form;
-      }
-    }
-
-    Form.fromUrl().select();
-
+    var form = Form.fromUrl()
+    form.build(document.querySelector('select'), document.querySelector('h1'), document.querySelector('#edit'));
+    form.select();
   </script>
   </body>
 </html>

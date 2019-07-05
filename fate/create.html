@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <style>
+    body { font-family: "Open Sans", "Helvetica", "Arial", sans-serif; }
+    #question { font-size: 150%; }
+    input.score { width:3em; }
+    label { font-weight: bold; }
+    a.del { font-size: 70%; }
+    a.del::before { content:'['; }
+    a.del::after { content:']'; }
+  </style>
+  <script src="fate.js"></script>
+</head>
+<body>
+  <form id="form" action="index.html" character_set="UTF-8">
+    <input id="question" name="-q" value="Should I?" placeholder="Question">
+    <ul id="options">
+    </ul>
+  </form>
+  <ul>
+    <li>
+      <input id="newScore" class="score" placeholder="Score">
+      <input id="newOption" placeholder="Add a new option" autofocus="true">
+    </li>
+  </ul>
+  <p>
+    <input type="submit" form="form" value="Create a fate picker" />
+  </p>
+  <script>
+    var questionEl = document.querySelector('#question');
+    var optionsEl = document.querySelector('#options');
+    var newOptionEl = document.querySelector('#newOption');
+    var newScoreEl = document.querySelector('#newScore');
+
+    function addOption(name, score) {
+      score = parseFloat(score) || '';
+      liEl = document.createElement("li");
+      var num = optionsEl.children.length + 1;
+      var html = ''
+      html += '<input class="score" id="option' + num + '" name="' + name + '" value="' + score + '" placeholder="score"> '
+      html += '<label for="option' + num + '">' + name + '</label>'
+      html += ' <a class="del" href="javascript:void(0)">Delete</a>';
+      liEl.innerHTML = html;
+      optionsEl.appendChild(liEl);
+      liEl.querySelector('a').onclick = function(event) {
+        event.target.parentElement.remove();
+      }
+    }
+
+    function onNewKeyPress(event) {
+      var value = newOptionEl.value;
+      if (event.charCode === 13 && value != "") {
+        addOption(value, newScoreEl.value);
+        newOptionEl.value = "";
+        newScoreEl.value = "";
+        newOptionEl.focus();
+      }
+    }
+
+    function setQuestion(value) {
+      questionEl.value = value;
+    }
+
+    newOptionEl.onkeypress = onNewKeyPress;
+    newScoreEl.onkeypress = onNewKeyPress;
+
+    var form = Form.fromUrl();
+    setQuestion(form.question);
+    form.options.forEach(function(option) { addOption(option.text, option.value); });
+
+  </script>
+</body>
+</html>
