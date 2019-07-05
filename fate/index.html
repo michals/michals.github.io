@@ -14,6 +14,18 @@
   <p>
     <a id="edit" href="create.html">Edit</a>
   </p>
+  <footer>
+    Examples:
+    <a href="?-q=The+Answer+is&Yes=&No=">Yes/No</a>
+    |
+    <a href="?-q=Coin+flip&Heads=&Tail=">Coin</a>
+    |
+    <a href="?-q=Dice&1=&2=&3=&4=&5=&6=">Dice</a>
+    |
+    <a href="?-q=Who+wash+the+dishes&You=&Me=">Dishes</a>
+    |
+    <a href="?-q=Who+wash+the+dishes&You=3&Me=2">Dishes (cheating)</a>
+  </footer>
   <script>
     var form = Form.fromUrl()
     form.build(document.querySelector('select'), document.querySelector('h1'), document.querySelector('#edit'));

@@ -22,13 +22,13 @@ class Form {
   constructor(line) {
     this.line = line;
     line = line.split('&');
-    this.question = "Question";
+    this.question = "";
     this.options = [];
     this.sum = 0;
     for (var i = 0; i < line.length; i++) {
       var pair = line[i].split('=');
       var text = decode(pair[0]);
-      var value = decode(pair[1]);
+      var value = decode(pair[1] || '');
       if (text == "-q") {
         this.question = decode(value);
         continue;
@@ -70,7 +70,7 @@ class Form {
   static fromUrl() {
     var line = document.location.hash || document.location.search;
     line = line.substring(1);
-    line = line || "yes&no&-q=Answer:";
+    line = line || "-q=The+Answer+is&Yes=&No=";
     var form = new Form(line);
     var qS = document.querySelector;
     return form;
