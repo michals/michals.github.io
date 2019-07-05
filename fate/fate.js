@@ -18,11 +18,33 @@ function decode(param) {
          .replace(/&#[0-9]+;/g, (match) => String.fromCharCode(parseInt(match.substring(2))));
 }
 
+/**
+ * Simple predictable, seeded PRNG
+ */
+class SimplePRNG {
+  constructor(seed=1) {
+    this.seed = seed;
+  }
+
+  seedByTime(changeEverySeconds) {
+    var ts = Math.floor(Date.now() / 1000);
+    this.seed = 1 + ts - (ts % changeEverySeconds);
+    return this;
+  }
+
+  /** Returns "random" float between 0.0 and 1.0 */
+  nextFloat() {
+    var x = Math.sin(this.seed++) * 10000;
+    return x - Math.floor(x);
+  }
+}
+
 class Form {
   constructor(line) {
     this.line = line;
     line = line.split('&');
     this.question = "";
+    this.timeUpdateSeconds = null;
     this.options = [];
     this.sum = 0;
     for (var i = 0; i < line.length; i++) {
@@ -31,6 +53,12 @@ class Form {
       var value = decode(pair[1] || '');
       if (text == "-q") {
         this.question = decode(value);
+        continue;
+      } else if (text == "-t") {
+        this.timeUpdateSeconds = parseInt(decode(value)) || null;
+        continue;
+      } else if (text == "-a" && value) {
+        this.setAutoUpdate(1000);
         continue;
       }
       var opt = new Option(text, parseFloat(value) || 1);
@@ -49,22 +77,48 @@ class Form {
     editEl.href = "create.html?" + this.line;
   }
 
-  pick(fate) {
+  /**
+   * Pick random option taking into account their scores.
+   * Side effects:
+   *  - updates this.fate float as value between (0, this.sum)
+   *  - updates this.idx - index of picked option
+   */
+  pick(rand01 = Math.random()) {
+    this.fate = rand01 * this.sum;
+    var fate = this.fate;
     for(var i=0; i < this.options.length; i++) {
       var opt = this.options[i];
       if (fate < opt.value) {
-        return i;
+        this.idx = i;
+        return this.idx;
       } else {
         fate -= opt.value;
       }
     }
-    return this.options.length - 1;
+    this.idx = this.options.length - 1;
+    return this.idx;
   }
 
+  /**
+   * Select random element and update view
+   */
   select() {
-    var idx = this.pick(Math.random() * this.sum);
-    var pickedEl = this.options[idx].element;
-    pickedEl.selected = true;
+    if (this.timeUpdateSeconds) {
+      this.pick(new SimplePRNG().seedByTime(this.timeUpdateSeconds).nextFloat());
+    } else {
+      this.pick(Math.random());
+    }
+    var option = this.options[this.idx];
+    option.element.selected = true;
+    return option
+  }
+
+  setAutoUpdate(autoupdate) {
+    if (autoupdate) {
+      this.interval = setInterval(function(){ form.select(); }, autoupdate);
+    } else {
+      clearInterval(this.interval)
+    }
   }
 
   static fromUrl() {
