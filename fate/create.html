@@ -2,6 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0" />
   <style>
     body { font-family: "Open Sans", "Helvetica", "Arial", sans-serif; }
     #question { font-size: 150%; }
@@ -21,12 +22,12 @@
   </form>
   <ul>
     <li>
-      <input id="newScore" class="score" placeholder="Score">
+      <input id="newScore" type="number" class="score" placeholder="Score">
       <input id="newOption" placeholder="Add a new option" autofocus="true">
     </li>
   </ul>
   <p>
-    <label>Sync by time every <input form="form" name="-t" class="score"> seconds</label></br>
+    <label>Sync by time every <input form="form" type="number" name="-t" class="score"> seconds</label></br>
     <label>Auto Update: <input form="form" name="-a" type="checkbox"></label></br>
     <input type="submit" form="form" value="Create a fate picker" />
   </p>
@@ -41,7 +42,7 @@
       liEl = document.createElement("li");
       var num = optionsEl.children.length + 1;
       var html = ''
-      html += '<input class="score" id="option' + num + '" name="' + name + '" value="' + score + '" placeholder="score"> '
+      html += '<input class="score" type="number" id="option' + num + '" name="' + name + '" value="' + score + '" placeholder="score"> '
       html += '<label for="option' + num + '">' + name + '</label>'
       html += ' <a class="del" href="javascript:void(0)">Delete</a>';
       liEl.innerHTML = html;
