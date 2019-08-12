@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <title>Babylon.js sample code</title>
+
+    <!-- Babylon.js -->
+    <script src="https://code.jquery.com/pep/0.4.2/pep.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.6.2/dat.gui.min.js"></script>
+    <script src="https://preview.babylonjs.com/ammo.js"></script>
+    <script src="https://preview.babylonjs.com/cannon.js"></script>
+    <script src="https://preview.babylonjs.com/Oimo.js"></script>
+    <script src="https://preview.babylonjs.com/gltf_validator.js"></script>
+    <script src="https://preview.babylonjs.com/earcut.min.js"></script>
+    <script src="https://preview.babylonjs.com/babylon.js"></script>
+    <script src="https://preview.babylonjs.com/inspector/babylon.inspector.bundle.js"></script>
+    <script src="https://preview.babylonjs.com/materialsLibrary/babylonjs.materials.min.js"></script>
+    <script src="https://preview.babylonjs.com/proceduralTexturesLibrary/babylonjs.proceduralTextures.min.js"></script>
+    <script src="https://preview.babylonjs.com/postProcessesLibrary/babylonjs.postProcess.min.js"></script>
+    <script src="https://preview.babylonjs.com/loaders/babylonjs.loaders.js"></script>
+    <script src="https://preview.babylonjs.com/serializers/babylonjs.serializers.min.js"></script>
+    <script src="https://preview.babylonjs.com/gui/babylon.gui.min.js"></script>
+
+    <style>
+        html,
+        body {
+            overflow: hidden;
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        #renderCanvas {
+            width: 100%;
+            height: 100%;
+            touch-action: none;
+        }
+    </style>
+</head>
+
+<body>
+    <canvas id="renderCanvas"></canvas>
+    <script>
+        var canvas = document.getElementById("renderCanvas");
+        var cam = null;
+        var scale = 2;
+        var width = 10;
+        var height = 8;
+
+        class Dir {
+            static NONE = 0;
+
+            static N = 1;
+            static E = 2;
+            static S = 4;
+            static W = 8;
+
+            static allAsList = [Dir.N, Dir.E, Dir.S, Dir.W];
+
+            static random(fromBitmap) {
+                let filtered = Dir.allAsList.filter((dir) => dir & fromBitmap);
+                let idx = Math.floor(Math.random() * filtered.length);
+                return Dir.allAsList[idx];
+            }
+
+            static opposite(dir) {
+                switch (dir) {
+                    case Dir.N: return Dir.S;
+                    case Dir.E: return Dir.W;
+                    case Dir.S: return Dir.N;
+                    case Dir.W: return Dir.E;
+                    default: Dir.NONE;
+                }
+            }
+        }
+
+        class Room {
+            constructor(x, y) {
+                this.x = x;
+                this.y = y;
+            }
+            on(dir) {
+                switch (dir) {
+                    case Dir.N:
+                        return new Room(this.x, this.y - 1);
+                    case Dir.E:
+                        return new Room(this.x + 1, this.y);
+                    case Dir.S:
+                        return new Room(this.x, this.y + 1);
+                    case Dir.W:
+                        return new Room(this.x - 1, this.y);
+                    default:
+                        throw "incorrect direction";
+                }
+            }
+            // what direction to go to get closer to otherRoom
+            directionTo(otherRoom) {
+                let dx = otherRoom.x - this.x;
+                let dy = otherRoom.y - this.y;
+                let ret = 0;
+                if (dx == 0 && dy == 0) {
+                    return Dir.NONE;
+                }
+                if (dx * dx > dy * dy) {
+                    return (dx > 0) ? Dir.RIGHT : Dir.LEFT;
+                } else {
+                    return (dy > 0) ? Dir.DOWN : Dir.UP;
+                }
+            }
+
+        }
+
+        /** room connecting two diggers paths */
+        class Bridge extends Room {
+            constructor(x, y, length, direction) {
+                /** length of the connected paths */
+                this.length = length;
+                /** door direction from one path to another */
+                this.direction = direction;
+            }
+        }
+
+        /** returned by maze builder methods */
+        class MazeStats {
+            constructor(shortests, picked, longest, options, bridge) {
+                this.shortests = shortests;
+                this.picked = picked;
+                this.longest = longest;
+                this.options = options;
+                this.bridge = bridge;
+            }
+        }
+
+        function shuffle(arr) {
+            var j, x, i;
+            for (i = arr.length - 1; i > 0; i--) {
+                j = Math.floor(Math.random() * (i + 1));
+                x = arr[i];
+                arr[i] = arr[j];
+                arr[j] = x;
+            }
+            return arr;
+        }
+
+        class MazeGenerator {
+            constructor(w, h) {
+                this.w = w;
+                this.h = h;
+                this.maze = [[]];
+                this.blocks = [[]];
+                for (let i = 0; i < h; i++) {
+                    this.maze[i] = [];
+                    for (let j = 0; j < w; j++) {
+                        this.maze[i][j] = Dir.NONE;
+                    }
+                }
+                this.generateFrom(new Room(0, 0));
+            }
+
+            inBounds(room) {
+                return (room.x >= 0 && room.y >= 0 && room.x < this.w && room.y < this.h);
+            }
+
+            generateFrom(room) {
+                let dirs = Dir.allAsList.slice(0);
+                shuffle(dirs);
+                for (let dir of dirs) {
+                    let next = room.on(dir);
+                    if (this.inBounds(next) && this.maze[next.y][next.x] == 0) {
+                        this.maze[room.y][room.x] |= dir;
+                        this.maze[next.y][next.x] |= Dir.opposite(dir);
+                        this.generateFrom(next);
+                    }
+                }
+            }
+        }
+
+        var addBox = function (scene, x, z) {
+            var box = new BABYLON.Mesh.CreateBox("crate", 1 * scale, scene);
+            box.material = new BABYLON.StandardMaterial("Mat", scene);
+            box.material.diffuseTexture = new BABYLON.Texture("textures/crate.png", scene);
+            box.material.diffuseTexture.hasAlpha = true;
+            box.position = new BABYLON.Vector3(x * scale, 0.5 * scale, z * scale);
+            box.checkCollisions = true;
+            return box;
+        }
+
+        var createScene = function () {
+            var scene = new BABYLON.Scene(engine);
+
+            // Lights
+            var light0 = new BABYLON.DirectionalLight("Omni", new BABYLON.Vector3(-140, -150, 50), scene);
+            var light1 = new BABYLON.DirectionalLight("Omni", new BABYLON.Vector3(120, -150, -50), scene);
+
+            // Need a free camera for collisions
+            var camera = new BABYLON.FreeCamera("FreeCamera", new BABYLON.Vector3(24, 3, 4), scene);
+            camera.rotation = new BABYLON.Vector3(0.194, -0.821, 0);
+            camera.attachControl(canvas, true);
+            camera.position.set(0, 2.8, 0);
+            camera.rotation.set(0.2, 2.1, 0);
+            // console.log(camera);
+            cam = camera;
+
+            //Ground
+
+            var ground = BABYLON.Mesh.CreatePlane("ground", 100.0, scene);
+            ground.material = new BABYLON.StandardMaterial("groundMat", scene);
+            ground.material.diffuseColor = new BABYLON.Color3(1, 1, 1);
+            ground.material.backFaceCulling = false;
+            ground.position = new BABYLON.Vector3(0, 0, 0);
+            ground.rotation = new BABYLON.Vector3(Math.PI / 2, 0, 0);
+
+            mg = new MazeGenerator(width, height);
+            mg.maze[height - 1][width - 1] |= Dir.E;
+            addBox(scene, width * 2 - 1, -(height * 2 - 1));
+            for (var x = 0; x < width; x++) {
+                for (var z = 0; z < height; z++) {
+                    addBox(scene, x * 2 - 1, -(z * 2 - 1));
+                    // console.log(mg.maze[z][x]);
+                    if ((mg.maze[z][x] & Dir.N) === 0) {
+                        addBox(scene, x * 2, -(z * 2 - 1));
+                    }
+                    if ((mg.maze[z][x] & Dir.W) === 0) {
+                        addBox(scene, x * 2 - 1, -(z * 2));
+                    }
+                }
+            }
+            for (var x = 0; x < width; x++) {
+                addBox(scene, x * 2 - 1, -(height * 2 - 1));
+                if ((mg.maze[height - 1][x] & Dir.S) === 0) {
+                    addBox(scene, x * 2, -(height * 2 - 1));
+                }
+            }
+            for (var z = 0; z < height; z++) {
+                addBox(scene, width * 2 - 1, -(z * 2 - 1));
+                if ((mg.maze[z][width - 1] & Dir.E) === 0) {
+                    addBox(scene, x * 2 - 1, -(z * 2));
+                }
+            }
+
+
+            //Set gravity for the scene (G force like, on Y-axis)
+            scene.gravity = new BABYLON.Vector3(0, -0.9, 0);
+
+            // Enable Collisions
+            scene.collisionsEnabled = true;
+
+            //Then apply collisions and gravity to the active camera
+            camera.checkCollisions = true;
+            camera.applyGravity = true;
+
+            //Set the ellipsoid around the camera (e.g. your player's size)
+            camera.ellipsoid = new BABYLON.Vector3(0.45 * scale, 0.7 * scale, 0.45 * scale);
+
+            //finally, say which mesh will be collisionable
+            ground.checkCollisions = true;
+
+            var storedCam = null;
+            var keyUpDown = function (event) {
+                if (event.keyCode === 32) {
+                    if (event.type === "keydown" && event.repeat === false) {
+                        storedCam = camera.clone();
+                        camera.position.y = 25;
+                        camera.rotation.x = 1.455;
+                        console.log('down');
+                    } else if (event.type === "keyup") {
+                        camera.position = storedCam.position;
+                        camera.rotation = storedCam.rotation;
+                        console.log('up');
+                    }
+                }
+            };
+            window.addEventListener("keydown", keyUpDown, false);
+            window.addEventListener("keyup", keyUpDown, false);
+
+            return scene;
+        }
+
+        var engine = new BABYLON.Engine(canvas, true, { preserveDrawingBuffer: true, stencil: true });
+        var scene = createScene();
+
+        engine.runRenderLoop(function () {
+            if (scene) {
+                scene.render();
+            }
+        });
+
+        // Resize
+        window.addEventListener("resize", function () {
+            engine.resize();
+        });
+    </script>
+</body>
+
+</html>
