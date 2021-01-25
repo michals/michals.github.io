@@ -1,9 +1,9 @@
 var cacheName = 'RC';
 var filesToCache = [
-    '/',
-    '/index.html',
-    '/css/style.css',
-    '/js/main.js'
+    '/rcui/',
+    '/rcui/index.html',
+    '/rcui/css/style.css',
+    '/rcui/js/main.js'
 ];
 
 /* Start the service worker and cache all of the app's content */
