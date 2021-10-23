@@ -1,0 +1,22 @@
+{
+  "name": "Składko-Apka",
+  "short_name": "Składka",
+  "start_url": "/skladka/index.html",
+  "display": "standalone",
+  "background_color": "#5900b3",
+  "theme_color": "black",
+  "scope": "/skladka/",
+  "description": "Składko-Apka",
+  "icons": [
+    {
+      "src": "/skladka/images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/skladka/images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
