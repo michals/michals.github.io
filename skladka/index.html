@@ -2,24 +2,29 @@
 <html lang="pl">
   <head>
     <meta charset="UTF-8" />
-    <!-- <base href="skladka/" /> -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Składko-Apka</title>
     <meta name="apple-mobile-web-app-status-bar" content="#aa7700" />
     <meta name="theme-color" content="black" />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="data:image/png;base64,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"
-    />
-    <link rel="manifest" href="/skladka/manifest.json" />
-    <script type="module" crossorigin src="/skladka/assets/index.157002fc.js"></script>
-    <link rel="modulepreload" href="/skladka/assets/vendor.af3dcd68.js">
-    <link rel="stylesheet" href="/skladka/assets/index.29843aa1.css">
-  </head>
+    <link rel="icon" type="image/png" sizes="32x32" href="img/icon-32x32.png" />
+    <script type="module" crossorigin src="/skladka/assets/index.f3c8f2ad.js"></script>
+    <link rel="modulepreload" href="/skladka/assets/vendor.70191cfc.js">
+    <link rel="stylesheet" href="/skladka/assets/index.42570637.css">
+  <link rel="manifest" href="/skladka/manifest.webmanifest"></head>
   <body>
     <div id="app"></div>
     
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-HSDDQK8W0N"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-HSDDQK8W0N");
+    </script>
   </body>
 </html>
