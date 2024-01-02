@@ -136,6 +136,17 @@ document.addEventListener("DOMContentLoaded", function () {
         previewCtx.fillRect(0, 0, previewCanvas.width, previewCanvas.height);
 
         if (showGridCheckbox.checked) drawGrid();
+
+        updateURL(canvasWidth, canvasHeight, pixelSize);
+    }
+
+    function updateURL(width, height, blockSize) {
+        const urlParams = new URLSearchParams();
+        urlParams.set('w', width);
+        urlParams.set('h', height);
+        urlParams.set('b', blockSize);
+
+        window.location.hash = urlParams.toString();
     }
 
     function handleImageUpload(event) {
@@ -172,6 +183,27 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     }
 
+    function setFormValuesFromURL() {
+        const urlParams = new URLSearchParams(window.location.hash.substring(1));
+        const widthParam = urlParams.get("w");
+        const heightParam = urlParams.get("h");
+        const pixelSizeParam = urlParams.get("b");
+
+        console.log(widthParam, heightParam, pixelSizeParam)
+        if (widthParam) {
+            canvasWidth.value = widthParam;
+        }
+
+        if (heightParam) {
+            canvasHeight.value = heightParam;
+        }
+
+        if (pixelSizeParam) {
+            pixelSize.value = pixelSizeParam;
+        }
+    }
+
+    setFormValuesFromURL();
     const uploadImageInput = document.getElementById('uploadImage');
     showGridCheckbox.addEventListener('change', redraw);
     uploadImageInput.addEventListener('change', handleImageUpload);
