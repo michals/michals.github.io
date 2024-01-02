@@ -23,11 +23,11 @@ canvas {
 #previewCanvas {
     margin-left: 10px;
     vertical-align: top;
+    transform: scale(2);
+    transform-origin: top left;
 }
 
-
 #selectedColor {
-    background-color: black;
     width: 32px;
     height: 32px;
     border: 2px dotted black;

@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const colorPaletteCtx = colorPaletteCanvas.getContext("2d");
     const selectedColorDiv = document.getElementById("selectedColor");
     const newCanvasButton = document.getElementById("newCanvasButton");
+    const saveButton = document.getElementById('saveButton');
     const showGridCheckbox = document.getElementById('showGrid');
     const canvasWidthInput = document.getElementById('canvasWidth');
     const canvasHeightInput = document.getElementById('canvasHeight');
@@ -12,6 +13,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const previewCanvas = document.getElementById("previewCanvas");
     const previewCtx = previewCanvas.getContext("2d");
+
+    let isDrawing = false;
 
 
     function generateColorPalette(colorsColumns, blockSize) {
@@ -80,17 +83,29 @@ document.addEventListener("DOMContentLoaded", function () {
         if (showGridCheckbox.checked) drawGrid();
     }
 
-    function drawPixel(x, y, color) {
-        previewCtx.fillStyle = color;
+    function drawPixel(x, y) {
+        const selectedColor = document.getElementById("selectedColor").style.backgroundColor;
+        previewCtx.fillStyle = selectedColor;
         previewCtx.fillRect(x, y, 1, 1);
         redraw();
     }
 
-    function handleClickOnPixelCanvas(event) {
-        const color = selectedColorDiv.style.backgroundColor;
+    pixelCanvas.addEventListener("mousedown", function (event) {
+        isDrawing = true;
         blockSize = getPixelSize();
-        drawPixel(Math.floor(event.offsetX / blockSize), Math.floor(event.offsetY / blockSize), color);
-    }
+        drawPixel(Math.floor(event.offsetX / blockSize), Math.floor(event.offsetY / blockSize));
+        // drawPixel(event.offsetX, event.offsetY);
+    });
+
+    pixelCanvas.addEventListener("mousemove", function (event) {
+        if (!isDrawing) return;
+        blockSize = getPixelSize();
+        drawPixel(Math.floor(event.offsetX / blockSize), Math.floor(event.offsetY / blockSize));
+    });
+
+    pixelCanvas.addEventListener("mouseup", function () {
+        isDrawing = false;
+    });
 
     function getPixelSize() {
         const pixelSizeInput = document.getElementById('pixelSize');
@@ -98,7 +113,6 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     function newGame() {
-        // Pobierz wartości z formularza
         const canvasWidthInput = document.getElementById('canvasWidth');
         const canvasHeightInput = document.getElementById('canvasHeight');
 
@@ -124,9 +138,6 @@ document.addEventListener("DOMContentLoaded", function () {
         if (showGridCheckbox.checked) drawGrid();
     }
 
-
-
-    // Funkcja pomocnicza do obsługi zdarzenia zmiany input type="file"
     function handleImageUpload(event) {
         const fileInput = event.target;
         const file = fileInput.files[0];
@@ -152,11 +163,21 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 
+    function saveCanvasAsImage() {
+        previewCanvas.toBlob(function (blob) {
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = 'canvas_image.png';
+            link.click();
+        });
+    }
+
     const uploadImageInput = document.getElementById('uploadImage');
     showGridCheckbox.addEventListener('change', redraw);
     uploadImageInput.addEventListener('change', handleImageUpload);
-    pixelCanvas.addEventListener("click", handleClickOnPixelCanvas);
+    saveButton.addEventListener('click', saveCanvasAsImage);
     newCanvasButton.addEventListener("click", newGame);
     generateColorPalette(12, 32);
+    selectedColorDiv.style.backgroundColor = "black"
     newGame();
 });
