@@ -1,0 +1,34 @@
+canvas {
+    border: 1px solid #ccc;
+}
+
+#controls {
+    margin-bottom: 10px;
+}
+
+#colorPaletteCanvas,
+#previewCanvas {
+    border: 1px solid #ccc;
+}
+
+#colorPaletteCanvas {
+    margin-bottom: 10px;
+}
+
+#canvasContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+#previewCanvas {
+    margin-left: 10px;
+    vertical-align: top;
+}
+
+
+#selectedColor {
+    background-color: black;
+    width: 32px;
+    height: 32px;
+    border: 2px dotted black;
+}

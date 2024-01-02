@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pixel Art Drawing Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="controls">
+        <label for="canvasWidth">Width: </label>
+        <input type="number" id="canvasWidth" min="8" max="64" value="16">
+
+        <label for="canvasHeight">Height: </label>
+        <input type="number" id="canvasHeight" min="8" max="64" value="16">
+
+        <label for="pixelSize">Pixel Size: </label>
+        <input type="number" id="pixelSize" min="8" max="32" value="16">
+
+        <button id="newCanvasButton">New</button>
+        <label for="showGrid">Show Grid:</label>
+        <input type="checkbox" id="showGrid" checked>
+    
+    </div>
+
+    <div id="canvasContainer">
+        <canvas id="colorPaletteCanvas" width="256" height="64"></canvas>
+        <div id="selectedColor"></div>
+    </div>
+
+    <canvas id="pixelCanvas" width="256" height="256"></canvas>
+    <canvas id="previewCanvas" width="16" height="16"></canvas>
+  
+
+    <script src="script.js"></script>
+</body>
+
+</html>
