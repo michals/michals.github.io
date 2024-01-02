@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     function generateColorPalette(colorsColumns, blockSize) {
         colorPaletteCanvas.width = colorsColumns * blockSize;
-        colorPaletteCanvas.height = 2 * 2 * blockSize; // Dwa rzędy (dla S=100% i S=50%)
+        colorPaletteCanvas.height = 2 * 2 * blockSize;
 
         const blockWidth = colorPaletteCanvas.width / colorsColumns;
         const blockHeight = colorPaletteCanvas.height / 4;
@@ -189,7 +189,6 @@ document.addEventListener("DOMContentLoaded", function () {
         const heightParam = urlParams.get("h");
         const pixelSizeParam = urlParams.get("b");
 
-        console.log(widthParam, heightParam, pixelSizeParam)
         if (widthParam) {
             canvasWidth.value = widthParam;
         }
