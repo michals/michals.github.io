@@ -4,6 +4,8 @@ document.addEventListener("DOMContentLoaded", function () {
     const selectedColorDiv = document.getElementById("selectedColor");
     const newCanvasButton = document.getElementById("newCanvasButton");
     const showGridCheckbox = document.getElementById('showGrid');
+    const canvasWidthInput = document.getElementById('canvasWidth');
+    const canvasHeightInput = document.getElementById('canvasHeight');
 
     const pixelCanvas = document.getElementById("pixelCanvas");
     const pixelCtx = pixelCanvas.getContext("2d");
@@ -70,16 +72,18 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 
-
-    function drawPixel(x, y, color) {
-        previewCtx.fillStyle = color;
-        previewCtx.fillRect(x, y, 1, 1);
-
+    function redraw() {
         pixelCtx.imageSmoothingEnabled = false;
         pixelCtx.drawImage(previewCanvas,
             0, 0, previewCanvas.width, previewCanvas.height,
             0, 0, pixelCanvas.width, pixelCanvas.height);
         if (showGridCheckbox.checked) drawGrid();
+    }
+
+    function drawPixel(x, y, color) {
+        previewCtx.fillStyle = color;
+        previewCtx.fillRect(x, y, 1, 1);
+        redraw();
     }
 
     function handleClickOnPixelCanvas(event) {
@@ -120,6 +124,37 @@ document.addEventListener("DOMContentLoaded", function () {
         if (showGridCheckbox.checked) drawGrid();
     }
 
+
+
+    // Funkcja pomocnicza do obsługi zdarzenia zmiany input type="file"
+    function handleImageUpload(event) {
+        const fileInput = event.target;
+        const file = fileInput.files[0];
+
+        if (file && file.type === 'image/png') {
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                const image = new Image();
+                image.src = e.target.result;
+                image.onload = function () {
+                    const imageWidth = Math.min(image.width, 64);
+                    const imageHeight = Math.min(image.height, 64);
+                    canvasWidthInput.value = imageWidth;
+                    canvasHeightInput.value = imageHeight;
+                    newGame();
+                    previewCanvas.width = imageWidth;
+                    previewCanvas.height = imageHeight;
+                    previewCtx.drawImage(image, 0, 0, imageWidth, imageHeight);
+                    redraw();
+                };
+            };
+            reader.readAsDataURL(file);
+        }
+    }
+
+    const uploadImageInput = document.getElementById('uploadImage');
+    showGridCheckbox.addEventListener('change', redraw);
+    uploadImageInput.addEventListener('change', handleImageUpload);
     pixelCanvas.addEventListener("click", handleClickOnPixelCanvas);
     newCanvasButton.addEventListener("click", newGame);
     generateColorPalette(12, 32);
