@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>icons</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 1em;
+            background-color: #fff;
+            background-repeat: repeat-y;
+            backdrop-filter: blur(3px) brightness(60%);
+            background-image: repeating-linear-gradient(-25deg, #fff, #fff 10px, #d99 10px, #d99 20px, #fff 20px, #fff 30px, #99d 30px, #99d 40px);
+        }
+        canvas {
+            border: 1px dashed black;
+        }
+        .bar {
+            background-color: white;
+            padding: 1em;
+            margin-bottom: 1em;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="bar">
+        <label for="name">Image base name:</label>
+        <input id="name" value="logo">
+    </div>
+    <div id="gen">
+        <canvas width="512" height="512" style="stroke:#fff7; stroke-width:96; background:transparent; color:black"></canvas>
+        <canvas width="192" height="192" style="stroke:#fff7; stroke-width:96; background:transparent; color:black"></canvas>
+        <canvas width="152" height="152" style="stroke:#fff7; stroke-width:96; background:transparent; color:black"></canvas>
+        <canvas width="144" height="144" style="stroke:#fff7; stroke-width:96; background:transparent; color:black"></canvas>
+        <canvas width="90" height="90" style="stroke:#fff7; stroke-width:96; background:transparent; color:black"></canvas>
+        <canvas width="32" height="32" style="stroke:#fff7; stroke-width:96; background:transparent; color:black"></canvas>
+        <canvas width="16" height="16" style="stroke:#fff7; stroke-width:96; background:transparent; color:black"></canvas>
+    </div>
+    <script>
+        const logo = new Path2D("M993 119h2548c176 0 320 144 320 320v2872c0 176-144 320-320 320H1156c-378 0-301 380-88 370h2448c226 0 276-251 276-251 0 527-439 477-439 477H1131c-533 0-461-449-458-596V440c0-176 144-320 320-320zm1228 650h257v593h566v257h-566v1359h-257V1619h-566v-257h566V769z");
+        const viewBox = [-128, -128, 4735, 4735];
+        const name = document.getElementById("name");
+
+        function drawOn(canvas) {
+            const ctx = canvas.getContext('2d');
+
+            // background
+            ctx.fillStyle = canvas.style.backgroundColor;
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            // apply viewBox transformations
+            const [minX, minY, width, height] = viewBox;
+            ctx.scale(canvas.width / width, canvas.height / height);
+            ctx.translate(-minX, -minY);
+
+            if (canvas.style.stroke && (+canvas.style.strokeWidth)) {
+                ctx.strokeStyle = canvas.style.stroke;
+                ctx.lineWidth = canvas.style.strokeWidth;
+                ctx.lineJoin = 'round';
+                ctx.stroke(logo);
+            }
+
+            // logo path fill color
+            ctx.fillStyle = canvas.style.color;
+            ctx.fill(logo, "evenodd");
+
+        }
+
+        function update() {
+            document.querySelectorAll("#gen canvas").forEach(canvas => {
+                canvas.title = `${name.value}-${canvas.width}x${canvas.height}.png`;
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            update();
+            name.onchange = update;
+            document.querySelectorAll("#gen canvas").forEach(canvas => {
+                canvas.title = `${name.value}-${canvas.width}x${canvas.height}.png`;
+                drawOn(canvas);
+                canvas.onclick = function() {
+                    const link = document.createElement('a');
+                    link.download = canvas.title;
+                    link.href = canvas.toDataURL('image/png');
+                    link.click();
+                };
+            });
+        });
+
+    </script>
+</body>
+
+</html>
