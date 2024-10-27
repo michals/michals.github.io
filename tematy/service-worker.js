@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.862fd4d466ce3fc36c4cd4d2e080284a.js"
+  "precache-manifest.46e24ce3ba97690dc933f367743c010d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tematy"});
