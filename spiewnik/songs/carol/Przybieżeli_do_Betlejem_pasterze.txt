@@ -1,0 +1,118 @@
+===
+title: "Przybieżeli do Betlejem pasterze"
+section: "carol"
+color: "carol"
+tone: "C"
+songid: "S708PrzybiezeliDoBetlejem"
+author:
+  - "tr"
+year: 1630
+address:
+  - what: "Łk"
+    where: "2, 8-18"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+knownas:
+  - "Chwała na wysokości"
+index:
+  - "anioł"
+  - "Bóg"
+  - "Betlejem"
+  - "cały"
+  - "chwała"
+  - "Dzieciąteczko"
+  - "Dziecię"
+  - "dzisiaj"
+  - "dziw"
+  - "dziwić"
+  - "grać"
+  - "gromada"
+  - "Józef"
+  - "kłaniać"
+  - "kochać"
+  - "król"
+  - "łaskawy"
+  - "lira"
+  - "żywy"
+  - "Mesyjasz"
+  - "muzyka"
+  - "myśleć"
+  - "napowietrzny"
+  - "narodzić"
+  - "ochotny"
+  - "oddawać"
+  - "ogłosić"
+  - "On"
+  - "osioł"
+  - "Pański"
+  - "Pan"
+  - "Panna"
+  - "pasterz"
+  - "piastować"
+  - "pilnować"
+  - "podarunek"
+  - "pokój"
+  - "pokora"
+  - "poznać"
+  - "prawy"
+  - "przeczysty"
+  - "przybieżeć"
+  - "sam"
+  - "serce"
+  - "skoczny"
+  - "słyszeć"
+  - "także"
+  - "trzy"
+  - "ukłony"
+  - "wół"
+  - "wszyscy"
+  - "wysokość"
+  - "Zbawca"
+  - "ziemia"
+  - "znać"
+footnote: "Polska kolęda z XVII wieku. Tekst figuruje w Symfoniach anielskich z 1630 r. jako symfonia trzydziesta pierwsza. Nie ma natomiast dzisiejszego refrenu. Ową pierwotną wersję tekstu zawierają rękopisy karmelitańskie BJ3642 i 3646 oraz kantyczka Chybińskiego w swej II części. Kiedy zaczęto śpiewać pastorałkę w dzisiejszej wersji, tzn. bez powtórzeń i z obecnym refrenem, nie wiemy. Tutaj tekst za: Siedlecki Jan, Śpiewniczek zawierający pieśni kościelne z melodyami dla użytku młodzieży szkolnej, Kraków, Księża Misjonarze na Kleparzu, 1908."
+===
+
+[C]Przybieżeli do Betlejem past[F]erz[C]e,
+grając skocznie Dzieciąteczku na l[F]irz[C]e.
+
+Chw[C]ała na w[A]ysokości,
+chw[d]ała na w[G]ysokości,
+[C]a p[F]ok[C]ój n[C]a z[G]iem[C]i.
+
+Oddawali swe ukłony w pokorze
+Tobie z serca ochotnego, o Boże!
+
+Chwała na wysokości …
+
+Anioł Pański sam ogłosił te dziwy,
+których oni nie słyszeli, jak żywi.
+
+Chwała na wysokości …
+
+Dziwili się napowietrznej muzyce
+i myśleli: „Co to będzie za Dziecię?
+
+Chwała na wysokości …
+
+Któremu się wół i osioł kłaniają,
+trzej królowie podarunki oddają?
+
+Chwała na wysokości …
+
+I Anieli gromadami pilnują,
+Panna Przeczysta z Józefem piastują?”
+
+Chwała na wysokości …
+
+Poznali Go Mesyjaszem być prawym,
+narodzonym dzisiaj Panem łaskawym
+
+Chwała na wysokości …
+
+My Go także Bogiem, Zbawcą już znamy
+i z całego serca wszyscy kochamy
+
+Chwała na wysokości …

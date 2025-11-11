@@ -1,0 +1,77 @@
+===
+title: "Córki jerozolimskie"
+subtitle: "Marsz żałobny"
+section: "precate"
+color: "communion"
+tone: "a"
+songid: "S104CorkiJerozolimskie"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Łk"
+    where: "23, 28.31.34.43.46"
+  - what: "*OWP"
+    where: ""
+  - what: "*LAM"
+    where: ""
+index:
+  - "aj"
+  - "córka"
+  - "czynić"
+  - "drzewo"
+  - "duch"
+  - "dziś"
+  - "jerozolimski"
+  - "Ojciec"
+  - "płakać"
+  - "powierzać"
+  - "przebaczyć"
+  - "raj"
+  - "ręka"
+  - "stanąć"
+  - "suchy"
+  - "wiedzieć"
+  - "zapewniać"
+  - "zielony"
+===
+
+KW:
+[a]Córki jerozolimskie,
+nie [F]płaczcie, nie płaczcie na[a]de mną.
+
+K:
+Jeśli się [F]czyni to z drzewem zielonym,
+[G]z suchym co się [a]stanie,
+[F]z suchym co się [E]stanie? [a]Aj!
+
+W:
+[a]Córki jerozolimskie,
+nie [F]płaczcie, nie płaczcie na[a]de mną.
+
+K:
+[a]Ojcze, przebacz im,
+bo nie [F]wiedzą, co [a]czynią;
+[F]przebacz im, [E]przebacz im! [a]Aj!
+
+W:
+[a]Córki jerozolimskie,
+nie [F]płaczcie, nie płaczcie na[a]de mną.
+
+K:
+[F]Ja cię za[E]pewniam:
+dziś będziesz [F]ze mną [E]w raju!
+
+W:
+[a]Córki jerozolimskie,
+nie [F]płaczcie, nie płaczcie na[a]de mną.
+
+K:
+[a]Ojcze, [F]Ojcze,
+w Twoje [G]ręce powierzam ducha [a]mego.
+∼
+[F]Aj, [E]aj, [a]aj!
+
+W:
+[a]Córki jerozolimskie,
+nie [F]płaczcie, nie płaczcie na[a]de mną.

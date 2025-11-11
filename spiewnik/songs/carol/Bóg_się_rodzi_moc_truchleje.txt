@@ -1,0 +1,160 @@
+===
+title: "Bóg się rodzi, moc truchleje"
+section: "carol"
+color: "carol"
+tone: "C"
+songid: "S701BogSieRodzi"
+author:
+  - "FK"
+  - "trm"
+year: 1787
+address:
+  - what: "Mt"
+    where: "2, 11"
+  - what: "Łk"
+    where: "2, 7"
+  - what: "J"
+    where: "1, 14a"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+knownas:
+  - "Podnieś rękę, Boże Dziecię"
+  - "Pieśń o Narodzeniu Pańskim"
+index:
+  - "Bóg"
+  - "Bóstwo"
+  - "błogosławić"
+  - "blask"
+  - "bogacz"
+  - "Boży"
+  - "bydło"
+  - "byt"
+  - "cały"
+  - "chwała"
+  - "ciało"
+  - "ciemnieć"
+  - "cierpieć"
+  - "cisnąć"
+  - "dać"
+  - "dań"
+  - "dar"
+  - "dobry"
+  - "dom"
+  - "Dziecię"
+  - "dzielić"
+  - "granica"
+  - "kadzidło"
+  - "kolebka"
+  - "król"
+  - "Król"
+  - "krzepnąć"
+  - "śmiertelny"
+  - "żłób"
+  - "lud"
+  - "majętność"
+  - "miasto"
+  - "między"
+  - "mieszkać"
+  - "miła"
+  - "mirra"
+  - "moc"
+  - "nędzny"
+  - "niebiosa"
+  - "niebo"
+  - "nieść"
+  - "niemały"
+  - "nieskończony"
+  - "obnażyć"
+  - "ofiara"
+  - "ogień"
+  - "ojczyzna"
+  - "okryć"
+  - "On"
+  - "otoczyć"
+  - "Pan"
+  - "pasterz"
+  - "podnieść"
+  - "porzucić"
+  - "potem"
+  - "prostota"
+  - "rada"
+  - "ręka"
+  - "razem"
+  - "rodzić"
+  - "sam"
+  - "siano"
+  - "siła"
+  - "Słowo"
+  - "spotkać"
+  - "stać"
+  - "szczęście"
+  - "szopa"
+  - "truchleć"
+  - "trud"
+  - "ubogi"
+  - "ukochany"
+  - "urodzony"
+  - "wejść"
+  - "widzieć"
+  - "wiek"
+  - "wieśniaczy"
+  - "winny"
+  - "wioska"
+  - "witać"
+  - "wspierać"
+  - "wszystek"
+  - "wzgardzić"
+  - "ziemianin"
+  - "złoto"
+  - "zmieszać"
+  - "znój"
+footnote: "Kolęda polska. Autorem słów jest Franciszek Karpiński - poeta doby stanisławowskiej. Poeta stworzył ją jako Pieśń o Narodzeniu Pańskim w 1787 r. w Białymstoku, gdzie spędzał wakacje zaproszony przez Elżbietę Branicką (pisze o tym w sierpniu 1787 r. do ks. Marcina Poczobuta: „… śpiewać wkrótce w kościele będą”). Jak przekazuje tradycja, melodię zaczerpnięto z poloneza koronacyjnego królów polskich. Najwcześniejszy jej zapis znamy z pastorałki z przełomu XVIII i XIX w., opracowanej na sopran, bas i dwoje skrzypiec (rękopis w bibliotece seminarium duchownego w Sandomierzu). W 1838 r. zapisuje melodię
+Mioduszewski (Śpiewnik kościelny). Tekst wydrukowano w Supraślu w 1792 r. w zbiorku Pieśni nabożnych."
+===
+
+[C]Bóg się r[CS]odzi, m[F]oc truchleje,*
+P[C]an niebiosów [AS]obnaż[GS]ony?
+[C]Ogień krz[CS]epnie, bl[F]ask ciemnieje,
+M[C]a granice N[AS]ieskończ[GS]ony:
+Wzg[G]ardzon[GS]y okr[C]yty chwałą,
+Śm[G]ierteln[GS]y Król n[C]ad wiekami?
+[G]A Słow[GS]o ciał[C]em się st[AS]ało,
+[d]I mieszkało m[G]iędzy n[GS]am[C]i.
+
+Cóż masz, niebo nad ziemiany?
+Bóg porzucił szczęście twoje** .
+Wszedł między lud ukochany
+Dzieląc z nim trudy i znoje.
+Niemało cierpiał, niemało,
+Żeśmy byli winni sami
+A Słowo ciałem się stało
+I mieszkało między nami.
+
+W nędznej szopie urodzony,
+Żłób Mu za kolebkę dano!
+Cóż jest, czym był otoczony?
+Bydło, pasterze i siano.
+Ubodzy, was to spotkało
+Witać Go przed bogaczami
+A Słowo ciałem się stało
+I mieszkało między nami.
+
+Potem i króle widziani
+Cisną się między prostotą
+Niosąc dary Panu w dani:
+Mirrę, kadzidło i złoto.
+Bóstwo to razem zmieszało
+Z wieśniaczymi ofiarami
+A Słowo ciałem się stało
+I mieszkało między nami.
+
+Podnieś rękę, Boże Dziecię,
+Błogosław ojczyznę†† miłą;
+W dobrych radach, dobrym bycie,
+Wspieraj Jej siłę Swą siłą.
+Dom nasz i majętność całą
+I wszystkie‡ wioski z miastami
+A Słowo ciałem się stało
+I mieszkało między nami.

@@ -1,0 +1,160 @@
+===
+title: "Litania do wszystkich świętych"
+subtitle: "Liturgia Chrzcielna"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "S000LitaniaDoWszystkichSwietych"
+author:
+  - "FD"
+year: 2016
+address:
+  - what: "*PAS"
+    where: ""
+knownas:
+  - "Panie zmiłuj się nad nami"
+  - "Kyrie eleison"
+index:
+  - "Agnieszka"
+  - "Andrzej"
+  - "anioł"
+  - "Antiocheński"
+  - "Atanazy"
+  - "Augustyn"
+  - "Bóg"
+  - "Bazyli"
+  - "Benedykt"
+  - "Boży"
+  - "Chrystus"
+  - "Chrzciciel"
+  - "chrzest"
+  - "Dominik"
+  - "Duch"
+  - "dziecko"
+  - "Felicyta"
+  - "Franciszek"
+  - "grzech"
+  - "Grzegorz"
+  - "grzesznik"
+  - "Ignacy"
+  - "Józef"
+  - "Jan"
+  - "Jezus"
+  - "każdy"
+  - "Katarzyna"
+  - "Ksawery"
+  - "łaska"
+  - "śmierć"
+  - "święta"
+  - "święty"
+  - "żywy"
+  - "Magdalena"
+  - "Marcin"
+  - "Maria"
+  - "Maryja"
+  - "matka"
+  - "Michał"
+  - "miłościwy"
+  - "modlić"
+  - "odrodzić"
+  - "Pan"
+  - "Paweł"
+  - "Perpetua"
+  - "Piotr"
+  - "prosić"
+  - "Sieneńska"
+  - "Stanisław"
+  - "Syn"
+  - "Szczepan"
+  - "Teresa"
+  - "uświęcić"
+  - "usłyszeć"
+  - "Vianney"
+  - "Wawrzyniec"
+  - "wcielenie"
+  - "wieczny"
+  - "woda"
+  - "Wojciech"
+  - "wszelki"
+  - "wszyscy"
+  - "wybawić"
+  - "wybrany"
+  - "wysłuchać"
+  - "zesłanie"
+  - "zło"
+  - "zmartwychwstać"
+  - "zmiłować"
+footnote: "Można śpiewać na melodię Ewangelii, akordy e, a, H7 (przyp. włoski). Tekst z Mszału. Litania po włosku pojawiła się dopiero w „Risuscitò 2023”, i tam, a za nim też w „Zmartwychwstał Pan 2025”, początek jest w grece: Kyrie, eleison, Christe, eleison, Kyrie, eleison. W „Resucitó 2023” wezwania początkowe i końcowe są w całości na akordzie tonicznym, i po hiszpańsku. (przyp. red.)"
+===
+
+KW:
+[C]Panie, zmiłuj się nad [e]nami.
+KW:
+Chryste, zmiłuj się nad nami.
+KW:
+Panie, zmiłuj się nad nami.
+K:
+[G]Święta Maryjo, Matko [D]Bo[e]ża,
+W:
+[C]módl się za [D]nami.
+K:
+Święty Michale, módl się za nami.
+↱Święci Aniołowie Boży, módlcie się za nami.
+Święty Janie Chrzcicielu, módl się za nami.
+Święty Józefie, módl się za nami.
+↱Święci Piotrze i Pawle, módlcie się za nami.
+Święty Andrzeju, módl się za nami.
+Święty Janie, módl się za nami.
+Święta Mario Magdaleno, módl się za nami.
+Święty Szczepanie, módl się za nami.
+Święty Ignacy Antiocheński, módl się za nami.
+Święty Wawrzyńcze, módl się za nami.
+↱Święci Wojciechu i Stanisławie, módlcie się za nami.
+↱Święte Perpetuo i Felicyto, módlcie się za nami.
+Święta Agnieszko, módl się za nami.
+Święty Grzegorzu, módl się za nami.
+Święty Augustynie, módl się za nami.
+Święty Atanazy, módl się za nami.
+Święty Bazyli, módl się za nami.
+Święty Marcinie, módl się za nami.
+Święty Benedykcie, módl się za nami.
+↱Święci Franciszku i Dominiku, módlcie się za nami.
+Święty Franciszku Ksawery, módl się za nami.
+Święty Janie Mario Vianney’u, módl się za nami.
+Święta Katarzyno Sieneńska, módl się za nami.
+Święta Tereso od Jezusa, módl się za nami.
+
+tu można dodać wezwania świętych,
+zwłaszcza Patronów kościoła,
+miejscowości i tych, którzy
+mają przyjąć chrzest.
+↱Wszyscy Święci                              i Święte Boże, módlcie się za nami.
+K:
+Bądź nam miłościw,
+W:
+Wybaw nas Panie.
+K:
+Od zła wszelkiego, wybaw nas Panie.
+Od każdego grzechu, wybaw nas Panie.
+Od śmierci wiecznej, wybaw nas Panie.
+Przez Twoje Wcielenie, wybaw nas Panie.
+Przez Twoją śmierć                           i Zmartwychwstanie, wybaw nas Panie.
+Przez Zesłanie Ducha Świętego, wybaw nas Panie.
+K:
+↱Prosimy Cię, my, grzesznicy,
+W:
+Wysłuchaj nas Panie.
+Jeśli są kandydaci do chrztu:
+↱Prosimy Cię, abyś tych wybranych        odrodził przez łaskę      chrztu świętego, wysłuchaj nas Panie.
+Jeśli nie ma kandydatów do chrztu:
+↱Prosimy Cię, abyś swoją łaskąuświęcił tę wodę,przez którą mają się odrodzićTwoje dzieci, wysłuchaj nas Panie.
+
+↱Prosimy Cię, Jezu,                         Synu Boga żywego, wysłuchaj nas Panie.
+K:
+[C]Chryste, usłysz [e]nas.
+W:
+Chryste, usłysz nas.
+K:
+Chryste, wysłuchaj nas.
+W:
+Chryste, wysłuchaj nas.

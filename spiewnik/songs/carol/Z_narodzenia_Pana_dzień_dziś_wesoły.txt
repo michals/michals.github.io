@@ -1,0 +1,150 @@
+===
+title: "Z narodzenia Pana dzień dziś wesoły"
+section: "carol"
+color: "carol"
+tone: "D"
+songid: "S716ZNarodzeniaPana"
+author:
+  - "tr"
+year: 1842
+address:
+  - what: "Łk"
+    where: "2, 8-20"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+  - what: "*DZI"
+    where: ""
+index:
+  - "anielski"
+  - "anioł"
+  - "Bóg"
+  - "bór"
+  - "Betlejem"
+  - "bić"
+  - "bieżeć"
+  - "budzić"
+  - "cały"
+  - "chcieć"
+  - "chwała"
+  - "ciało"
+  - "czy"
+  - "dać"
+  - "dar"
+  - "dnieć"
+  - "dolina"
+  - "dumać"
+  - "dzieje"
+  - "dzień"
+  - "dziś"
+  - "głos"
+  - "Izrael"
+  - "Jezus"
+  - "każdy"
+  - "kolano"
+  - "łuna"
+  - "świat"
+  - "świtać"
+  - "żłób"
+  - "żyć"
+  - "żywioł"
+  - "ludzie"
+  - "ludzki"
+  - "maleńki"
+  - "między"
+  - "miła"
+  - "miłować"
+  - "narodzić"
+  - "niebianin"
+  - "niebo"
+  - "nieustanny"
+  - "noc"
+  - "obłok"
+  - "odchodzić"
+  - "oddać"
+  - "ogień"
+  - "oko"
+  - "On"
+  - "paść"
+  - "Pan"
+  - "pasterz"
+  - "pastuszek"
+  - "pełny"
+  - "poklękać"
+  - "potem"
+  - "prośba"
+  - "prorok"
+  - "prosty"
+  - "przemiana"
+  - "przy"
+  - "pytać"
+  - "radość"
+  - "radować"
+  - "serce"
+  - "siebie"
+  - "skąd"
+  - "słynąć"
+  - "słyszeć"
+  - "ta"
+  - "tak"
+  - "taki"
+  - "trwać"
+  - "tylko"
+  - "wół"
+  - "wesele"
+  - "wesoły"
+  - "widok"
+  - "widzieć"
+  - "wieczny"
+  - "witać"
+  - "wśród"
+  - "wraz"
+  - "wszędzie"
+  - "wydać"
+  - "wykrzyknąć"
+  - "wyśpiewywać"
+  - "wypadać"
+  - "wysłuchać"
+  - "wziąć"
+  - "zaraz"
+  - "Zbawiciel"
+  - "zesłany"
+footnote: "Polska kolęda pochwalna, nawiązująca tekstem do najstarszych i pochodzących z łaciny pieśni okresu Bożego Narodzenia. Powstała najprawdopodobniej na przełomie XVIII i XIX wieku. Pierwsza wzmianka pochodzi z Dodatku do śpiewnika kościelnego, wydanego w 1842 roku przez księdza Mioduszewskiego. Dzisiaj najpopularniejsza melodia ma charakter skocznego i marszowego mazura."
+===
+
+[D]Z narodze[G]nia [D]Pa[A]na [D]dzień dziś [A]weso[D]ły.
+[D]Wyśpiewu[G]ją [D]chwa[A]łę [D]Bogu [A]żywio[D]ły.
+Radość ludzi [A]wszędzie słynie,
+[D]Anioł budzi [A]przy dolinie
+[D]pasterzów, [G]co [D]pa[A]śli [D]pod bo[A]rem wo[D]ły.
+
+Wypada wśród nocy ogień z obłoku,
+dumają pasterze w takim widoku.
+Każdy pyta: Co się dzieje?
+Czy nie świta? Czy nie dnieje?
+Skąd ta łuna bije tak miła oku?!
+
+Ale gdy Anielskie głosy słyszeli,
+zaraz do Betlejem prosto bieżeli.
+Tam witali w żłobie Pana,
+poklękali na kolana
+i oddali dary, co z sobą wzięli.
+
+Potem wykrzyknęli w głos, na przemiany,
+żyj, Jezu maleńki, na świat wydany:
+Bądź Ci, Panie, od nas chwała,
+nieustannie wiecznie trwała;
+żyj, żyj, Zbawicielu, z nieba zesłany.
+
+Odchodząc z Betlejem pełni wesela,
+że już Bóg wysłuchał próśb Izraela,
+gdyż tej nocy to widzieli,
+co Prorocy widzieć chcieli,
+w ciele ludzkim Boga i Zbawiciela.
+
+I my z pastuszkami dziś się radujmy,
+chwałę z Aniołami wraz wyśpiewujmy,
+bo ten Jezus z nieba dany,
+weźmie nas między niebiany,
+tylko Go z całego serca miłujmy.

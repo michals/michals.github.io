@@ -1,0 +1,162 @@
+===
+title: "Bracia patrzcie jeno"
+section: "carol"
+color: "carol"
+tone: "G"
+songid: "S702BraciaPatrzcieJeno"
+author:
+  - "FK"
+  - "trm"
+year: 1858
+address:
+  - what: "Łk"
+    where: "2, 8-12"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+knownas:
+  - "A my do Betlejem"
+index:
+  - "Bóg"
+  - "Betlejem"
+  - "biedny"
+  - "brat"
+  - "buda"
+  - "cały"
+  - "Chrystus"
+  - "chwila"
+  - "cieszyć"
+  - "coś"
+  - "cud"
+  - "czciciel"
+  - "czoło"
+  - "Dziecię"
+  - "dzieje"
+  - "dziwny"
+  - "goreć"
+  - "gwiazda"
+  - "jeno"
+  - "Juda"
+  - "każdy"
+  - "kraj"
+  - "krok"
+  - "ścigać"
+  - "śmiały"
+  - "śpieszyć"
+  - "świat"
+  - "światło"
+  - "żłób"
+  - "żłobek"
+  - "lud"
+  - "miasteczko"
+  - "migać"
+  - "niebo"
+  - "niechaj"
+  - "nowina"
+  - "obchodzić"
+  - "odwiedziny"
+  - "okryć"
+  - "pamiątka"
+  - "pamiętny"
+  - "Pan"
+  - "Panię"
+  - "Panna"
+  - "pasterz"
+  - "patrzeć"
+  - "pewnie"
+  - "powiedzieć"
+  - "prorok"
+  - "przy"
+  - "radość"
+  - "radować"
+  - "rzucić"
+  - "sławny"
+  - "stado"
+  - "stanąć"
+  - "Syn"
+  - "szczęśliwy"
+  - "szopa"
+  - "tenże"
+  - "ucieszyć"
+  - "uczcić"
+  - "uczeń"
+  - "uderzyć"
+  - "ujrzeć"
+  - "warta"
+  - "wesoły"
+  - "więc"
+  - "wierzyć"
+  - "władać"
+  - "wszakże"
+  - "wszędzie"
+  - "zaś"
+  - "Zbawca"
+  - "ziomek"
+  - "znać"
+  - "znajdować"
+  - "znakomity"
+  - "zobaczyć"
+  - "zrodzić"
+footnote: "Kolęda polska. Nie wiadomo, kiedy powstała. Autorem tekstu był Franciszek Karpiński, chociaż niektórzy poddają to w wątpliwość. Dość, że Mioduszewski jej nie znał. Podaje ją natomiast Teofil Klonowski w: Zbiór pieśni z melodyjami z 1858 roku."
+===
+
+Br[G]acia p[D]atrzcie j[G]eno‡‡
+j[G]ak nieb[D]o gor[G]eje!
+Zn[G]ać, że c[D]oś dziwn[G]ego
+w B[G]etlej[D]em się dz[G]ieje.
+Rz[D]ućmy b[A]udy, w[D]arty, st[A]ada,
+n[D]iechaj n[A]imi P[D]an Bóg w[A]ład[D]a.
+[G]A my do Betlejem,
+a my do Betl[D]ej[G]em,
+do B[D]etlej[G]em.
+
+Patrzcie, jak tam gwiazda
+światłem swoim miga!
+Pewnie do uczczenia
+Pana swego ściga.
+Krokiem śmiałym i wesołym
+śpieszmy i uderzmy czołem;
+przed Panem w Betlejem,
+przed Panem w Betlejem,
+w Betlejem.
+
+Wszakże powiedziałem,
+że cuda ujrzymy!
+Dziecię, Boga świata,
+w żłobie zobaczymy.
+Patrzcie, jak biedne okryte,
+w żłobku Panię znakomite.
+W szopie przy Betlejem,
+w szopie przy Betlejem,
+przy Betlejem.
+
+Jak prorok powiedział,
+Panna zrodzi Syna.
+Dla ludu całego
+szczęśliwa nowina.
+Nam zaś radość w tej tu chwili,
+gdyśmy Pana zobaczyli
+w szopie przy Betlejem,
+w szopie przy Betlejem,
+przy Betlejem.
+
+Betlejem miasteczko,
+w Juda sławne będzie.
+Pamiętnym się stanie,
+w tym kraju i wszędzie.
+Ucieszmy się więc ziomkowie,
+Pana tegoż już uczniowie.
+W szopie przy Betlejem,
+w szopie przy Betlejem,
+przy Betlejem.
+
+Obchodząc pamiątkę
+odwiedzin pasterzy,
+każdy czciciel Boga,
+co w Chrystusa wierzy,
+niech się cieszy i raduje,
+że Zbawcę swego znajduje
+w szopie przy Betlejem,
+w szopie przy Betlejem,
+przy Betlejem.

@@ -1,0 +1,103 @@
+===
+title: "Jak owieczka, która widzi"
+subtitle: "Kontakion Romana Melodosa"
+section: "eyect"
+color: "communion"
+tone: "e"
+songid: "S148JakOwieczka"
+author:
+  - "K"
+year: 2016
+alttone:
+  - "fis"
+index:
+  - "Adam"
+  - "Bóg"
+  - "ból"
+  - "biedny"
+  - "bieg"
+  - "chcieć"
+  - "cierpieć"
+  - "czemu"
+  - "dlaczego"
+  - "dojść"
+  - "Ewa"
+  - "gasić"
+  - "iść"
+  - "jagniątko"
+  - "kończyć"
+  - "krzyż"
+  - "światłość"
+  - "życie"
+  - "móc"
+  - "mówić"
+  - "Maryja"
+  - "matka"
+  - "możliwe"
+  - "musieć"
+  - "nienawiść"
+  - "nigdy"
+  - "omijać"
+  - "On"
+  - "owieczka"
+  - "płakać"
+  - "powracać"
+  - "prosić"
+  - "prowadzić"
+  - "przeszyć"
+  - "przybijać"
+  - "rzeź"
+  - "siebie"
+  - "słowo"
+  - "sprawiedliwość"
+  - "stanąć"
+  - "Syn"
+  - "taki"
+  - "ujrzeć"
+  - "umrzeć"
+  - "uwierzyć"
+  - "wbrew"
+  - "wczesny"
+  - "więzić"
+  - "widzieć"
+  - "wściekłość"
+  - "wszelki"
+  - "wyobrazić"
+  - "zatem"
+  - "zbawić"
+  - "zobaczyć"
+  - "zrozumieć"
+footnote: "Przekład „oficjalny” pozostawia wiele do życzenia i zamieszczam go z obowiązku zgodności. Monodia w rytmie flamenco z dość regularną frazą, starannie dobranym akcentowaniem i artykulacją, została przetłumaczona bez związku z melodią i rytmem. Zmiany tak melodii jak i rytmu muszą zepsuć tę piękną pieśń. Po kilku próbach zrezygnowałem z podpisywania tego tekstu pod nuty oryginalnej melodii. Na stronie . pozostawiam nieoficjalny tekst księdza Sławomira Abramowskiego (RM) jako przykład właściwego podejścia do przekładu. (przyp. red.)"
+===
+
+K:
+[e]Jak owieczka, która widzi, jak prowadzą jej jagniątko na [a]rzeź,
+Maryja szła za Nim przeszyta b[e]ólem.
+I mówiła: „gdzie cię prowadzą Synu [a]mój?
+Dlaczego tak wcześnie kończy się bieg Twojego ż[HS]ycia?
+[C]Mów do mnie, nie omijaj mnie, proszę, bez sł[HS]owa.
+KW:
+[a]Synu mój, Synu mój i Boże m[HS]ój.
+K:
+[e]Nigdy bym sobie nie wyobraziła, że zobaczę Cię w tym [a]stanie.
+Nigdy bym nie uwierzyła, że dojdą aż do takiej nienawiści i wściek[e]łości,
+by więzić Ciebie wbrew wszelkiej spr[HS]awiedliwości.
+KW:
+[C]Chciałabym zrozumieć, o ja bi[a]edna!
+K:
+Jak to możliwe, że gaszona jest świ[HS]atłość?
+[a]jak to możliwe, że przybijają Cię d[HS]o krzyża?
+KW:
+[a]Synu mój, Synu mój i Boże m[HS]ój.”
+K:
+„[e]Czemu płaczesz, czemu płaczesz Matko [a]moja?
+Czemu płaczesz, czemu płaczesz Matko [e]moja?
+K:
+[a]Czy nie miałbym cier[HS]pieć?
+[a]Czy nie muszę um[HS]rzeć?
+[C]Jak zatem mógłbym zbawić A[HS]dama?
+[C]Jak mogłabyś ujrzeć Ewę, która powraca do [HS]życia?”
+KW:
+[a]Synu mój, Synu mój i Boże m[HS]ój.
+K:
+[e]Jak owieczka, …

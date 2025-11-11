@@ -1,0 +1,87 @@
+===
+title: "Credo"
+subtitle: "Etap Wyznania wiary"
+section: "liturg"
+color: "liturg"
+tone: "d"
+songid: "S028Credo"
+author:
+  - "K"
+year: 2007
+address:
+  - what: "*MSZ"
+    where: ""
+knownas:
+  - "Skład apostolski"
+  - "Wierzę w Boga Ojca Wszechmogącego"
+index:
+  - "amen"
+  - "Bóg"
+  - "Chrystus"
+  - "ciało"
+  - "Duch"
+  - "dzień"
+  - "grzech"
+  - "jedyny"
+  - "Jezus"
+  - "Kościół"
+  - "święty"
+  - "żywot"
+  - "żywy"
+  - "Maryja"
+  - "narodzić"
+  - "niebiosa"
+  - "niebo"
+  - "obcować"
+  - "odpuścić"
+  - "Ojciec"
+  - "Pan"
+  - "Panna"
+  - "piekło"
+  - "Piłat"
+  - "począć"
+  - "pogrzebać"
+  - "poncki"
+  - "powszechny"
+  - "prawica"
+  - "przyjść"
+  - "sądzić"
+  - "siedzieć"
+  - "stamtąd"
+  - "stworzyciel"
+  - "Syn"
+  - "trzeci"
+  - "ukrzyżować"
+  - "umarły"
+  - "umęczyć"
+  - "umrzeć"
+  - "wieczny"
+  - "wierzyć"
+  - "wstąpić"
+  - "wszechmogący"
+  - "ziemia"
+  - "zmartwychwstać"
+  - "zstąpić"
+footnote: "Do śpiewania tylko przez wspólnoty, które przeżyły etap Redditio Symboli [czyli po polsku: Wyznanie wiary. (przyp. red.)]."
+===
+
+[d]Wierz[F]ę w Boga Ojca Wszechmogącego,
+[C]Stworzyciela nieba i [d]ziemi.
+[d]Wierz[F]ę w Jezusa Chrystusa,
+Syna Jego Jedynego, Pana naszego,
+[C]który się począł z Ducha Świętego,
+na[d]rodził się z Maryi Panny.
+[F]Umęczon pod Ponckim Piłatem,
+[C]ukrzyżowan, umarł i pogrzebion,
+zstą[d]pił do piekieł.
+[F]Trzeciego dnia [C]zmartwychwstał,
+trzeciego [F]dnia [a]zmartwych[d]wstał,
+[B]wstąpił na niebiosa, siedzi po prawicy [A]Ojca,
+[B]stamtąd przyjdzie sądzić żywych i u[A]marłych.
+[d]Wierz[F]ę w Ducha Świętego,
+święty Kościół powszechny,
+świętych obcowanie,
+grzechów [C]odpuszczenie,
+c[F]ia[a]ła zmartwych[d]wstanie,
+[B]żywot wi[A]eczny.
+A[d]men!

@@ -1,0 +1,93 @@
+===
+title: "Oto głos mocny"
+subtitle: "Hymn adwentowy"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S935HymnAdwentowy"
+author:
+  - "K"
+year: 2025
+knownas:
+  - "En clara vox redarguit"
+index:
+  - "amen"
+  - "Baranek"
+  - "chwała"
+  - "chwalebny"
+  - "ciemności"
+  - "darmo"
+  - "dlatego"
+  - "drugi"
+  - "Duch"
+  - "dusza"
+  - "echo"
+  - "głos"
+  - "gwiazda"
+  - "jaśnieć"
+  - "Jezus"
+  - "łzy"
+  - "śpiewać"
+  - "świat"
+  - "litościwy"
+  - "mocny"
+  - "nowy"
+  - "odrętwiały"
+  - "Ojciec"
+  - "okupić"
+  - "On"
+  - "osłonić"
+  - "pójść"
+  - "pełzać"
+  - "pieśń"
+  - "pochwalny"
+  - "pojawić"
+  - "posłać"
+  - "prosić"
+  - "przebaczyć"
+  - "przestać"
+  - "przyjść"
+  - "rozpraszać"
+  - "senny"
+  - "strach"
+  - "Syn"
+  - "ustąpić"
+  - "wina"
+  - "wschodzić"
+  - "wszyscy"
+  - "wypełnić"
+  - "zbudzić"
+  - "ziemia"
+  - "złudzenie"
+footnote: "Na podstawie En clara vox redarguit, przeredagowanego przez papieża Urbana w roku 1632 łacińskiego hymnu z VI wieku Vox clara ecce intonat; z Jutrzni Adwentu. Zmiany w stosunku do (str. ) za „Zmartwychwstał Pan 2025” obejmują kolejnych siedem wersetów: Jasny głos→Oto głos mocny, udręki→senne złudzenia, się zbudzi dusza odrętwiała→dusza odrętwiała się zbudzi, do Niego→wszyscy, prośmy Go wszyscy, którzy niech żyją→niech będzie chwała. (przyp. red.)"
+===
+
+K:
+[a]Oto głos mocny
+rozprasza swymi echami ciemności;
+ustąpcie senne złudzenia.
+Jezus jaśnieje [E]już!
+Niech dusza odrętwiała się [a]zbudzi
+i przestanie pełzać po [E]ziemi:
+wschodzi nowa [a]gwiazda!
+
+Ot[d]o jest nam posłany Baranek,
+aby darmo okupił nasze [a]winy,
+pójdźmy wszyscy ze [ES]łzami,
+prośmy Go o przeba[a]czenie.
+
+W:
+Tak [d]aby,
+gdy się pojawi chwalebny
+w swoim drugim [a]przyjściu
+i świat wypełni [ES]strachem,
+osłonił nas litoś[a]ciwie.
+
+{{{ 2x
+W:
+Dla[d]tego
+śpiewamy tę pieśń poch[a]walną
+Ojcu, Synowi i Du[ES]chowi,
+niech będzie chwała
+A[a]men!
+}}}

@@ -1,0 +1,78 @@
+===
+title: "Oto mój Sługa"
+subtitle: "I pieśń Sługi Jahwe"
+section: "precate"
+color: "communion"
+tone: "a"
+songid: "S274OtoMojSlugaKtoregoWybralem"
+author:
+  - "K"
+year: 2013
+address:
+  - what: "Iz"
+    where: "42, 1-4"
+  - what: "Mt"
+    where: "12, 18-21"
+  - what: "*LAM"
+    where: ""
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "Trzciny nadłamanej"
+  - "Nie będzie się spierał"
+  - "Pieśń Sługi Jahwe I"
+index:
+  - "Duch"
+  - "gasić"
+  - "głos"
+  - "imię"
+  - "knotek"
+  - "krzyczeć"
+  - "łamać"
+  - "nadłamać"
+  - "nadzieja"
+  - "naród"
+  - "nikt"
+  - "ogłosić"
+  - "On"
+  - "plac"
+  - "położyć"
+  - "prawo"
+  - "sługa"
+  - "spierać"
+  - "spocząć"
+  - "sprawić"
+  - "tleć"
+  - "trzcina"
+  - "ukochany"
+  - "upodobanie"
+  - "usłyszeć"
+  - "utrwalić"
+  - "wszystek"
+  - "wybrać"
+  - "ziemia"
+footnote: "Akordy zmienione za „Zmartwychwstał Pan 2025”, ten za „Risuscitò 2023”, który z kolei za „Resucitó 2023”. (przyp. red.)"
+===
+
+KW:
+[a]Oto mój Sługa, [d]którego wy[a]brałem,
+Oto mój Sługa, [d]którego wy[a]brałem,
+[E]mój ukochany, w którym mam upodo[a]banie,
+[E]mój ukochany, którego wy[a]brałem.
+
+K:
+Sprawię, że mój Duch [AS]spocznie [d]na Nim
+i ogło[a]si moje [E]prawo wszystkim na[a]rodom
+i o[E]głosi moje [a]prawo [ES]wszystkim na[a]rodom.
+[C]Nie będzie się spierał ani krzyczał,
+[d]nikt nie usłyszy Jego [ES]głosu na [a]placach.
+
+W:
+Trzciny nadłamanej On nie będzie [ES]łamał,
+knotka tlejącego On nie będzie [a]gasił
+[ES]aż utrwali Pra[a]wo na ziemi,
+[ES]aż utrwali Prawo na [a]ziemi.
+
+K:
+[a]W Jego imieniu, w Jego imieniu
+po[F]łożą na[E]rody swoją na[a]dzieję.

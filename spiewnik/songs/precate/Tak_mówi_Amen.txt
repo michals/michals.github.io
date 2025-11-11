@@ -1,0 +1,131 @@
+===
+title: "Tak mówi Amen"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S202TakMowiAmen"
+author:
+  - "FVS"
+  - "K"
+year: 1992
+address:
+  - what: "Ap"
+    where: "3, 14-22"
+  - what: "*OWP"
+    where: ""
+index:
+  - "albo"
+  - "amen"
+  - "balsam"
+  - "biały"
+  - "bogaty"
+  - "Boży"
+  - "brak"
+  - "chcieć"
+  - "doświadczać"
+  - "dom"
+  - "drzwi"
+  - "głos"
+  - "godny"
+  - "gorący"
+  - "gorliwy"
+  - "kochać"
+  - "ktoś"
+  - "ślepy"
+  - "świadek"
+  - "letni"
+  - "móc"
+  - "mówić"
+  - "nagi"
+  - "nawrócić"
+  - "nic"
+  - "nieszczęśnik"
+  - "ogień"
+  - "oko"
+  - "otworzyć"
+  - "początek"
+  - "postępowanie"
+  - "prawdomówny"
+  - "przejrzeć"
+  - "pukać"
+  - "radzić"
+  - "siebie"
+  - "słuchać"
+  - "sprawa"
+  - "stać"
+  - "stworzenie"
+  - "szaty"
+  - "ubogi"
+  - "usłyszeć"
+  - "usta"
+  - "wejść"
+  - "więc"
+  - "wieczerzać"
+  - "wierny"
+  - "współczucie"
+  - "wypróbowany"
+  - "wyrzucić"
+  - "zakupić"
+  - "zaś"
+  - "zdawać"
+  - "zimny"
+  - "złoto"
+  - "znać"
+footnote: "W kręgach hiszpańskojęzycznych jako autor podawany jest a nie . (przyp. red.)"
+===
+
+W:
+[e]Tak mówi Amen,
+świadek [C]prawdomówny i [DS]wierny,
+początek
+stworzenia Bo[e]żego.
+
+K:
+[e]Znam twoje postępowanie,
+nie [G]jesteś zimny ani gorący.
+Obyś był zimny albo go[DS]rący,
+nie zaś [HS]letni,
+gdyż chcę cię wyrzucić z ust [e]moich.
+W:
+[e]Tak mówi Amen,
+świadek [C]prawdomówny i [DS]wierny,
+początek
+stworzenia Bo[e]żego.
+
+K:
+[e]Mówisz: jestem bogaty, niczego mi nie brak,
+a nie [G]zdajesz sobie sprawy,
+że jesteś nieszczę[DS]śnikiem,
+godny współ[HS]czucia,
+ubogi, ślepy i [e]nagi.
+
+K:
+[G]Radzę ci u Mnie zakupić
+złota wypróbowanego [DS]w ogniu,
+
+białe [HS]szaty,
+balsam na oczy
+abyś mógł [e]przejrzeć.
+W:
+[e]Tak mówi Amen,
+świadek [C]prawdomówny i [DS]wierny,
+początek
+stworzenia Bo[e]żego.
+
+K:
+[e]Tych, których kocham, doświadczam,
+bądź więc gor[G]liwy
+i nawróć [DS]się,
+słuchaj mojego [e]głosu.
+
+K:
+[e]Oto stoję przed drzwiami i pukam,
+jeśli [G]ktoś usłyszy mój głos
+i drzwi o[DS]tworzy,
+wejdę do jego [HS]domu,
+będę z nim wieczerzał, a on ze [e]Mną.
+W:
+[e]Tak mówi Amen,
+świadek [C]prawdomówny i [DS]wierny,
+początek
+stworzenia Bo[e]żego.

@@ -1,0 +1,101 @@
+===
+title: "Godzien jesteś wziąć księgę"
+subtitle: "Pieśń Baranka"
+section: "precate"
+color: "communion"
+tone: "d"
+songid: "S274PiesnBaranka"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ap"
+    where: "5, 9-10.12"
+  - what: "*OPA"
+    where: ""
+  - what: "*LAM"
+    where: ""
+  - what: "*BRE"
+    where: ""
+alttone:
+  - "e"
+knownas:
+  - "I uczyniłeś z nich dla naszego Boga"
+  - "Śpiew Baranka"
+index:
+  - "Bóg"
+  - "Baranek"
+  - "błogosławieństwo"
+  - "bogactwo"
+  - "cały"
+  - "chwała"
+  - "cześć"
+  - "godny"
+  - "język"
+  - "każdy"
+  - "kapłański"
+  - "królestwo"
+  - "królować"
+  - "krew"
+  - "księga"
+  - "ludzie"
+  - "mądrość"
+  - "moc"
+  - "nabyć"
+  - "naród"
+  - "otworzyć"
+  - "pieczęć"
+  - "pokolenie"
+  - "potęga"
+  - "uczynić"
+  - "wziąć"
+  - "zabity"
+  - "ziemia"
+  - "zostać"
+footnote: "Pieśń BarankaCanto dell’Agnelo (przyp. red.)"
+===
+
+K:
+[d]Godzien jesteś wziąć księgę
+i o[g]tworzyć jej pie[A]częcie,
+albowiem [AS]Ty zostałeś za[d]bity
+i nabyłeś [AS]krwią swoją
+[d]ludzi z każdego pokolenia, języka i narodu.
+
+[F]I uczyniłeś
+[a]z nich dla naszego [F]Boga
+kró[a]lestwo,
+królestwo kap[F]łańskie,
+W:
+i królują i kró[a]lują
+na całej [d]ziemi.
+
+K:
+[d]Godzien jesteś Baranku zabity
+wzi[g]ąć ksi[A]ęgę
+i ot[AS]worzyć jej pie[d]częcie,
+bowiem nabyłeś [AS]krwią swoją
+[d]ludzi z każdego pokolenia, języka i narodu.
+
+W:
+[F]I uczyniłeś
+[a]z nich dla naszego [F]Boga
+kró[a]lestwo,
+królestwo kap[F]łańskie,
+i królują i kró[a]lują
+na całej [d]ziemi.
+
+K:
+[d]Godzien jesteś Baranku zabity
+aby wzi[g]ąć potęgę, bogactwo i [A]chwałę,
+mądrość i moc, [AS]cześć i błogosła[d]wieństwo,
+bowiem nabyłeś [AS]krwią swoją
+[d]ludzi z każdego pokolenia, języka i narodu.
+
+W:
+[F]I uczyniłeś
+[a]z nich dla naszego [F]Boga
+kró[a]lestwo,
+królestwo kap[F]łańskie,
+i królują i kró[a]lują
+na całej [d]ziemi.

@@ -1,0 +1,116 @@
+===
+title: "Abraham"
+subtitle: "Objawienie w Mamre"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S055Abraham"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Rdz"
+    where: "18, 1-5"
+  - what: "*BRE"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+  - what: "*PAS"
+    where: ""
+knownas:
+  - "1965"
+  - "Było upalnie owego dnia"
+  - "O Panie mój, nie omijaj mnie, proszę"
+  - "Nie omijaj mnie, proszę"
+index:
+  - "Abraham"
+  - "chcieć"
+  - "chleb"
+  - "cień"
+  - "dąb"
+  - "dalej"
+  - "dzień"
+  - "dzisiaj"
+  - "kęs"
+  - "mąż"
+  - "Mamre"
+  - "namiot"
+  - "noga"
+  - "obmyć"
+  - "obok"
+  - "odpocząć"
+  - "oko"
+  - "omijać"
+  - "owy"
+  - "pójść"
+  - "Pan"
+  - "pochylić"
+  - "podnieść"
+  - "pokrzepić"
+  - "popatrzyć"
+  - "potem"
+  - "powiedzieć"
+  - "prosić"
+  - "przechodzić"
+  - "przynieść"
+  - "przypadek"
+  - "siebie"
+  - "siedzieć"
+  - "stać"
+  - "trochę"
+  - "trzy"
+  - "ujrzeć"
+  - "upalny"
+  - "woda"
+  - "zaś"
+  - "zaledwie"
+  - "zanim"
+  - "zatrzymać"
+  - "ziemia"
+===
+
+K:
+[a]Było upalnie owego dnia,
+[d]kiedy A[E]braham
+siedział przed swoim na[a]miotem.
+[a]Było upalnie owego dnia,
+[d]kiedy Abr[E]aham
+siedział pod dębem [a]Mamre.
+Podniósłszy [G]oczy po[F]patrzył,
+a oto trzej mę[E]żowie
+stali [a]przed nim.
+Zaledwie ich [E]ujrzał,
+pochylił się do zie[ES]mi i po[a]wiedział:
+„O Panie [G]mój,
+nie omijaj mnie, [F]proszę,
+chciej się zat[E]rzymać!”
+
+W:
+Chciej się zat[a]rzymać!
+Nie omijaj mnie, [G]proszę,
+chciej się za[F]trzymać!
+Chciej się za[E]trzymać!
+
+K:
+[a]Przyniosę trochę [E]wody,
+wy zaś obmyjecie sobie nogi,
+a potem odpoczniecie [a]w cieniu.
+
+Przyniosę kęs [E]chleba,
+abyście się pokrzepili,
+zanim pójdziecie [a]dalej.
+
+Nie przez przy[G]padek
+przechodziliście [F]dzisiaj
+obok [E]mnie.
+
+W:
+O Panie [a]mój,
+nie omijaj mnie, [G]proszę,
+chciej się za[F]trzymać,
+chciej się za[E]trzymać!
+
+Chciej się za[a]trzymać,
+nie omijaj mnie, [G]proszę,
+chciej się za[F]trzymać!
+Chciej się za[E]trzymać!

@@ -1,0 +1,114 @@
+===
+title: "Sprawiedliwy jaśnieje w ciemnościach"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S932SprawiedliwyJasnieje"
+author:
+  - "K"
+year: 2023
+address:
+  - what: "Ps"
+    where: "112, 4-8a.9"
+alttone:
+  - "cis"
+knownas:
+  - "1986"
+index:
+  - "chwała"
+  - "ciemności"
+  - "człowiek"
+  - "dobry"
+  - "jaśnieć"
+  - "łagodny"
+  - "światło"
+  - "lękać"
+  - "litość"
+  - "miłosierny"
+  - "mocny"
+  - "nigdy"
+  - "nowina"
+  - "obdarzać"
+  - "On"
+  - "pamięć"
+  - "Pan"
+  - "pieniądz"
+  - "pożyczać"
+  - "potęga"
+  - "pozostać"
+  - "prawy"
+  - "przelęknąć"
+  - "przenigdy"
+  - "rozdawać"
+  - "serce"
+  - "sprawa"
+  - "sprawiedliwość"
+  - "sprawiedliwy"
+  - "trwać"
+  - "ubogi"
+  - "uczciwy"
+  - "wieczny"
+  - "wieść"
+  - "wierny"
+  - "wschodzić"
+  - "wywyższyć"
+  - "zachwiać"
+  - "zarządzć"
+  - "zaufać"
+  - "zawsze"
+  - "zły"
+footnote: "Pieśń nagrana przez Kiko po hiszpańsku w 1986. jako psalm responsoryjny z V niedzieli zwykłej roku A. Tutaj tekst z lekcjonarza. Patrz też na str. . (przyp. red.)"
+===
+
+KW:
+[a]Sprawiedliwy jaśnieje w ciem[E]nościach
+[F]jak światło dla prawych, jak światło dla [E]prawych.
+{{{ 2x
+K:
+[C]On wschodzi w ciemnościach
+jak światło dla prawych,
+łagodny, miłosierny i sprawiedliwy.
+}}}
+[a]Dobrze się wiedzie człowiekowi,który z litości po[E]życza, [a]pożycza pie[E]niądze,
+[F]i swymi sprawami zarządza ucz[E]ciwie.
+W:
+[a]Sprawiedliwy jaśnieje w ciem[E]nościach
+[F]jak światło dla prawych, jak światło dla [E]prawych.
+K:
+[F]Sprawiedliwy nigdy się nie za[E]chwieje
+i pozo[F]stanie w wiecznej pa[E]mięci.
+[a]Nie przelęknie się złej no[E]winy[a],
+[F]jego mocne serce zaufało Pa[E]nu.
+[a]Nie przelęknie się złej no[E]winy,
+[F]jego mocne serce zaufało [E]Panu.
+W:
+[a]Sprawiedliwy jaśnieje w ciem[E]nościach
+[F]jak światło dla prawych, jak światło dla [E]prawych.
+K:
+[F]Jego wierne serce lękać się nie [E]będzie.
+[F]Rozdaje i obdarza u[E]bogich;
+jego sprawie[a]dliwość będzie trwała [E]zawsze,
+[F]wywyższona z chwałą będzie jego potę[E]ga.
+
+W:
+[a]Sprawiedliwy jaśnieje w ciem[E]nościach
+[F]jak światło dla prawych, jak światło dla [E]prawych.
+K:
+[F]On wschodzi w ciemnościach                                           jak światło dla [E]prawych,
+ła[F]godny, miłosierny i sprawie[E]dliwy.
+[a]Dobrze się wiedzie człowiekowi,                                 który z litości po[E]życza,
+[F]on nigdy, przenigdy się nie za[E]chwieje.
+W:
+[a]Dobrze się wiedzie człowiekowi,                                        który z litości po[E]życza,
+[F]on nigdy, przenigdy się nie za[E]chwieje
+K:
+[F]Pozostanie w wiecznej pa[E]mięci
+[F]i nigdy się nie za[E]chwieje.
+[a]Nie przelęknie się złej no[E]winy,
+[F]bo mocno zaufał Pa[E]nu.
+W:
+[a]Nie przelęknie się złej no[E]winy,
+[F]bo mocno zaufał Pa[E]nu.
+W:
+[a]Sprawiedliwy jaśnieje w ciem[E]nościach
+[F]jak światło dla prawych, jak światło dla [E]prawych.

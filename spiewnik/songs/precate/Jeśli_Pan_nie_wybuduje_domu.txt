@@ -1,0 +1,94 @@
+===
+title: "Jeśli Pan nie wybuduje domu"
+section: "precate"
+color: "precate"
+tone: "D"
+songid: "S075JesliPanNieWybudujeDomu"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "127"
+  - what: "*BRE"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+knownas:
+  - "Na próżno zrywacie się przed świtem"
+  - "1977"
+index:
+  - "bać"
+  - "Bóg"
+  - "chleb"
+  - "czuwać"
+  - "dar"
+  - "dawać"
+  - "dom"
+  - "iść"
+  - "kołczan"
+  - "świt"
+  - "mąż"
+  - "miasto"
+  - "młodość"
+  - "nadaremny"
+  - "napełnić"
+  - "późny"
+  - "Pan"
+  - "próżno"
+  - "przyjaciel"
+  - "ręka"
+  - "sen"
+  - "spoczynek"
+  - "strażnik"
+  - "strzała"
+  - "syn"
+  - "szczęśliwy"
+  - "trudzić"
+  - "ustrzec"
+  - "wojownik"
+  - "wróg"
+  - "wybudować"
+  - "wznosić"
+  - "zapracować"
+  - "zrodzić"
+  - "zrywać"
+===
+
+KW:
+[D]Jeśli Pan nie wybu[h]duje [G]domu,
+na [A]próżno trudzą się ci, którzy go [D]wznoszą.
+
+K:
+[h]Jeśli Pan nie ustrzeże [Fis]miasta,
+nadaremnie czuwa [h]strażnik,
+[G]jeśli Pan nie ustrzeże [Fis]miasta.
+
+−
+W:
+Jeśli [D]Pan nie wybu[h]duje [G]domu,
+na [A]próżno trudzą się ci, którzy go [D]wznoszą.
+
+K:
+[h]Na próżno zrywacie się przed [Fis]świtem,
+późno idziecie na spoczynek,
+by zapracować na [h]chleb.
+KW:
+[G]Bóg daje go swym przyjaciołom we [Fis]śnie.
+
+−
+W:
+Jeśli [D]Pan nie wybu[h]duje [G]domu,
+na [A]próżno trudzą się ci, którzy go [D]wznoszą.
+
+K:
+[h]Darem Pana są sy[Fis]nowie,
+są jak strzały w ręku wojownika
+synowie zrodzeni w mło[h]dości.
+[G]Szczęśliwy mąż, który napełnił nimi swój [Fis]kołczan:
+[G]nie będzie się bał swoich [Fis]wrogów.
+
+−
+W:
+Jeśli [D]Pan nie wybu[h]duje [G]domu,
+na [A]próżno trudzą się ci, którzy go [D]wznoszą.

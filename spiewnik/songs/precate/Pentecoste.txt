@@ -1,0 +1,160 @@
+===
+title: "Pentecoste"
+section: "precate"
+color: "precate"
+tone: "d"
+songid: "S053Pentecoste"
+author:
+  - "GDL"
+  - "PMz"
+  - "PM"
+year: 1992
+address:
+  - what: "["
+    where: "p"
+  - what: "*OPA"
+    where: ""
+  - what: "*OPE"
+    where: ""
+  - what: "*KOM"
+    where: ""
+  - what: "*HYM"
+    where: ""
+knownas:
+  - "1970"
+  - "Byli zwykłymi ludźmi"
+  - "Jeśli słyszysz jakiś podmuch z nieba"
+index:
+  - "Boży"
+  - "brama"
+  - "cień"
+  - "czekać"
+  - "człowiek"
+  - "daleki"
+  - "dobry"
+  - "dom"
+  - "drzwi"
+  - "głos"
+  - "gorączka"
+  - "ile"
+  - "jaki"
+  - "jezioro"
+  - "kobieta"
+  - "królestwo"
+  - "krzyczeć"
+  - "krzyż"
+  - "łzy"
+  - "ściągać"
+  - "ściskać"
+  - "żaden"
+  - "żywić"
+  - "lodowaty"
+  - "lub"
+  - "ludzie"
+  - "mówić"
+  - "miasto"
+  - "miłość"
+  - "mistrz"
+  - "myśleć"
+  - "nadejść"
+  - "nadzieja"
+  - "nazywać"
+  - "niebo"
+  - "nowina"
+  - "oblicze"
+  - "oko"
+  - "pagórek"
+  - "pójść"
+  - "pamiętać"
+  - "pełny"
+  - "pierś"
+  - "płomień"
+  - "plac"
+  - "podatki"
+  - "podmuch"
+  - "pogrzebać"
+  - "posłuchać"
+  - "powstawać"
+  - "próg"
+  - "przyjaciel"
+  - "przynosić"
+  - "radość"
+  - "ręka"
+  - "serce"
+  - "sieć"
+  - "słyszeć"
+  - "strach"
+  - "szalony"
+  - "szary"
+  - "szczyt"
+  - "trząść"
+  - "uczony"
+  - "uderzyć"
+  - "ukryć"
+  - "umrzeć"
+  - "utracić"
+  - "wezwanie"
+  - "wicher"
+  - "wieczernik"
+  - "wśród"
+  - "wołać"
+  - "wpaść"
+  - "wyjść"
+  - "wypłakać"
+  - "zapewne"
+  - "zarzucać"
+  - "zatknąć"
+  - "zostać"
+  - "zostawić"
+  - "zwykły"
+===
+
+K:
+[d]Byli zwykłymi ludźmi jak [F]ja, jak ty,
+zarzu[B]cali swe sieci w jezioro,
+lub ścią[F]gali podatki w bramach [AS]miasta.
+Wśród [d]nich - o ile pamiętam -
+nie [F]było żadnego uczonego,
+a [B]ten, którego nazywali Mistrzem,
+[F]umarł też i został pogrze[AS]bany.
+W:
+Jeśli [d]słyszysz jakiś podmuch [C]z nieba,
+jakiś [d]wicher, który trzęsie [A]drzwiami,
+po[d]słuchaj: to jest głos, który [C]woła,
+wez[d]wanie, by pójść da[A]leko.
+To jest [d]płomień, który po[G]wstaje       [A]w tym, który [d]czeka,
+w tym, który [F]żywi na[AS]dzieję mi[d]łości.
+
+K:
+[d]Mieli serce w piersi jak [F]ja, jak ty,
+które [B]ręka lodowata ściskała;
+mieli [F]oczy wypłakane [AS]z łez
+i ob[d]licze szare z gorączki i strachu;
+my[F]śleli zapewne o utraconym przyjacielu,
+o ko[B]biecie zostawionej na progu domu,
+o [F]krzyżu zatkniętym na [AS]szczycie pagórka.
+
+W:
+Jeśli [d]słyszysz jakiś podmuch [C]z nieba,
+jakiś [d]wicher, który trzęsie [A]drzwiami,
+po[d]słuchaj: to jest głos, który [C]woła,
+wez[d]wanie, by pójść da[A]leko.
+To jest [d]płomień, który po[G]wstaje       [A]w tym, który [d]czeka,
+w tym, który [F]żywi na[AS]dzieję mi[d]łości.
+
+K:
+A [d]wicher uderzył w bramę domu,
+[F]wpadł jak szalony do wieczernika;
+mieli [B]oczy i głosy pełne płomienia
+i [F]wyszli na plac, by [AS]krzyczeć z radości.
+Czło[d]wiecze, który czekasz ukryty w cieniu,
+[F]głos, który mówi, jest właśnie dla ciebie;
+przy[B]nosi ci radość, dobrą nowinę:
+Kró[F]lestwo Boże już na[AS]deszło.
+W:
+Jeśli [d]słyszysz jakiś podmuch [C]z nieba,
+jakiś [d]wicher, który trzęsie [A]drzwiami,
+po[d]słuchaj: to jest głos, który [C]woła,
+wez[d]wanie, by pójść da[A]leko.
+To jest [d]płomień, który po[G]wstaje[A]w tym, który [d]czeka,
+w tym, który [F]żywi na[AS]dzieję mi[d]łości.

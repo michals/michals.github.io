@@ -1,0 +1,34 @@
+===
+title: "Żyjcie radośni (wersja włoska)"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S926ZyjcieRadosni"
+author:
+  - "K"
+year: 2020
+address:
+  - what: "Flp"
+    where: "4, 4n"
+footnote: "Pieśń od zawsze była w śpiewniku hiszpańskim. Śpiewana w świecie hiszpańskojęzycznym w rytmie walczyka hiszpańskiego. Zaśpiewana przez Kiko na katechezie adwentowej 2020, pojawiła się dopiero we włoskim „Risuscitò 2023”. Melodia bardzo regularna i rytmiczna, jak na walczyka przystało. „Oficjalny” tekst polski nie daje się śpiewać na oryginalną melodię. Sam tytuł narzuca dziki akcent na ostatnią sylabę żyjcié, a potem jest coraz gorzej. Wersja poprawiona tak, aby liczba sylab pasowała do melodii a akcenty wpisywały się w rytm: , str. . (przyp. red.)"
+===
+
+W:
+[a]Żyjcie radośni,
+Pan jest już [E]blisko.
+Żyjcie radośni,
+Pan jest już [a]blisko.
+Żyjcie ra[AS]dośni,
+przyjścia Pana nadszedł [d]czas,
+i wybawi [a]nas,
+i wybawi [E]nas,
+i wybawi [a]nas.
+K:
+Od[A]wagi,
+nie bój[AS]cie się,
+bo przyjścia Pana nadszedł [d]czas
+i wybawi [a]nas,
+i wybawi [E]nas,
+i wybawi [a]nas.
+W:
+[a]Żyjcie radośni, …

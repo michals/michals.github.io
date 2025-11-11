@@ -1,0 +1,104 @@
+===
+title: "Modlitwa eucharystyczna II (2) 1987"
+subtitle: "Konsekracja i Aklamacja"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "L00KonM2-1987"
+author:
+  - "K"
+year: 2020
+address:
+  - what: "*MSZ"
+    where: ""
+knownas:
+  - "Anafora eucharystyczna, Konsekracja"
+index:
+  - "Bóg"
+  - "brać"
+  - "chleb"
+  - "Chrystus"
+  - "ciało"
+  - "czynić"
+  - "dar"
+  - "dobrowolny"
+  - "Duch"
+  - "dzięki"
+  - "głosić"
+  - "grzech"
+  - "jeść"
+  - "Jezus"
+  - "kielich"
+  - "krew"
+  - "łamać"
+  - "śmierć"
+  - "świętość"
+  - "święty"
+  - "źródło"
+  - "mówić"
+  - "męka"
+  - "moc"
+  - "nowy"
+  - "odpuścić"
+  - "On"
+  - "pamiątka"
+  - "Pan"
+  - "pić"
+  - "podać"
+  - "podobny"
+  - "ponowny"
+  - "przyjść"
+  - "przymierze"
+  - "rozdawać"
+  - "składać"
+  - "stać"
+  - "tajemnica"
+  - "uczeń"
+  - "uświęcić"
+  - "wiara"
+  - "wieczerza"
+  - "wieczny"
+  - "wiele"
+  - "wielki"
+  - "wszelki"
+  - "wszyscy"
+  - "wydać"
+  - "wylać"
+  - "wyznawać"
+  - "wziąć"
+  - "zaprawdę"
+  - "zmartwychwstać"
+footnote: "Ta wersja konsekracji pojawiła się dopiero w „Risuscitò 2023”, gdzie Przejście i Epikleza są recytowane, tymczasem w „Resucitó 2023” są śpiewane. Śpiewa się na melodię wziętą z psalmu , str. . (przyp. red.)"
+===
+
+Przejście
+P:
+[G]Zaprawdę, święty jesteś, Boże, źródło wszelkiej świę[e]tości.
+Epikleza
+[a]Uświęć te dary [e]mocą Twojego Ducha, [G]aby stały się dla nas
+Ciałem ✠ i Krwią [h]naszego Pana, [e]Jezusa Chrystusa.
+Opowiadanie i konsekracja
+P:
+[G]On to, gdy dobrowolnie wydał się na [e]mękę,
+[a]wziął chleb [e]i dzięki Tobie składając,
+[a]łamał [e]i rozdawał swoim uczniom mówiąc:
+„[G]bierzcie i jedzcie z tego wszyscy:
+[h]to jest bowiem ciało moje,
+[e]które za was będzie wydane”.
+[G]Podobnie po wieczerzy wziął [e]kielich
+[a]i ponownie dzięki Tobie składając,
+[e]podał swoim uczniom, mówiąc:
+„[G]bierzcie i pijcie z niego wszyscy:
+[h]to jest bowiem kielich krwi mojej       [a]nowego i wiecz[e]nego przymierza,
+∼
+[G]która za was i za wielu będzie wy[h]lanana odpusz[A]czenie [e]grzechów.
+[G]To czyńcie na [h]moją pa[e]miątkę”.
+Aklamacja
+P:
+[G]Oto wielka tajemnica wiary:
+W:
+[G]Głosimy Twoją śmierć, Panie,
+wyzna[h]jemy Twoje zmartwychwstanie.
+[A]Przyjdź Panie [e]Jezu! [A]Przyjdź Panie [e]Jezu!
+
+Następują Słowa po konsekracji ME II (1), str.

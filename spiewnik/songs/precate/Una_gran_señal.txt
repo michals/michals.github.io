@@ -1,0 +1,174 @@
+===
+title: "Una gran señal"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S282UnaGranSenjal"
+author:
+  - "K"
+year: 2011
+address:
+  - what: "Ap"
+    where: "12"
+  - what: "*MAR"
+    where: ""
+  - what: "*OAD"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*OPE"
+    where: ""
+  - what: "*ZAK"
+    where: ""
+knownas:
+  - "1987"
+  - "2010"
+  - "Potem wielki znak"
+  - "Niewiasta obleczona w słońce"
+index:
+  - "anioł"
+  - "apareció"
+  - "Bóg"
+  - "ból"
+  - "brzemienna"
+  - "cały"
+  - "cielo"
+  - "cierpieć"
+  - "czas"
+  - "czerwony"
+  - "dać"
+  - "diabeł"
+  - "dwa"
+  - "dwanaście"
+  - "dziesięć"
+  - "głowa"
+  - "gran"
+  - "gwiazda"
+  - "inny"
+  - "Jezus"
+  - "korona"
+  - "księżyc"
+  - "ścigać"
+  - "świadectwo"
+  - "la"
+  - "lecieć"
+  - "żywić"
+  - "męka"
+  - "Michał"
+  - "miejsce"
+  - "naród"
+  - "narodzić"
+  - "nastąpić"
+  - "nazwać"
+  - "niebo"
+  - "Niewiasta"
+  - "oblec"
+  - "orzeł"
+  - "począć"
+  - "połowa"
+  - "pożreć"
+  - "porodzić"
+  - "porwać"
+  - "potem"
+  - "potomstwo"
+  - "przeciw"
+  - "przeciwko"
+  - "przemóc"
+  - "przykazanie"
+  - "pustynia"
+  - "róg"
+  - "reszta"
+  - "rodzić"
+  - "rozgniewać"
+  - "rządzić"
+  - "señal"
+  - "siedem"
+  - "skrzydło"
+  - "słońce"
+  - "smok"
+  - "stanąć"
+  - "starodawny"
+  - "stoczyć"
+  - "stopa"
+  - "strącić"
+  - "strzec"
+  - "Syn"
+  - "Syn-Mężczyzna"
+  - "szatan"
+  - "tron"
+  - "udać"
+  - "ujrzeć"
+  - "ukazać"
+  - "una"
+  - "wąż"
+  - "walczyć"
+  - "wówczas"
+  - "wielki"
+  - "wojna"
+  - "wołać"
+  - "zachowywać"
+  - "ziemia"
+  - "znak"
+  - "znaleźć"
+  - "zostać"
+  - "zwodziciel"
+footnote: "Wersja z płyty Paloma incorrupta (2010), w „Risuscitò” jako Una gran señal apareció en el cielo obok starszej wersji (str. ), nagranej po włosku. Polski tekst jest dostosowany do zmienionej melodii i rytmu, bez ostatniej zwrotki z wersji włoskiej. Akordy za „Resucitó 2023”. (przyp. red.)"
+===
+
+W:
+[a]Potem wielki znak ukazał się na niebie,
+Nie[G]wiasta, Niewiasta obleczona [a]w słońce
+i księżyc pod jej stopami,
+i korona z gwiazd dwu[G]nastu;
+jest brzemienna i wo[a]ła,
+cierpiąc [F]bóle i męki ro[E]dzenia.
+W:
+[a]Una gran señal apareció en el cielo:
+una mu[G]jer, una mujer vestida del [a]sol,
+con la luna bajo sus pies,
+y una corona de doce es[G]trellas;
+está encinta, y gri[a]ta
+con los tor[F]mentos de dar a [E]luz
+
+K:
+[a]I inny znak się ukazał na niebie:
+oto wielki Smok czer[G]wony,
+co siedem [F]głów ma i dziesięć [E]rogów.
+[a]I stanął Smok przed Niewiastą,
+Niewiastą, która miała po[G]rodzić,
+aby pożreć jej [F]Syna, gdy się na[E]rodzi.
+I Nie[a]wiasta porodziła Syna-Mężczyznę,
+który ma rządzić narodami [G]ziemi;
+i jej [F]Syn został porwany do Boga i do Jego [E]tronu.
+W:
+[a]Potem wielki znak ukazał się na niebie …
+
+K:
+[a]I nastąpiła wojna na niebie,
+Michał i jego anio[G]łowie wal[F]czyli przeciw Smokowi,
+wielkiemu Smo[E]kowi.
+[a]Także Smok i jego aniołowie stoczyli [G]wojnę,
+ale [F]nie, nie przemogli,
+i już się miejsce dla nich w niebie nie zna[E]lazło.
+I został strą[a]cony Smok, wielki Smok,
+Wąż starodawny, nazwany diabłem
+i szata[G]nem, zwodziciel [F]całej ziemi,
+został strącony na ziemię a z nim jego anio[E]łowie.
+W:
+[a]Potem wielki znak ukazał się na niebie …
+
+K:
+[a]Kiedy Smok ujrzał, że został
+strącony na [G]ziemię, począł ścigać Nie[F]wiastę,
+która porodziła Syna-Męż[E]czyznę.
+[a]Ale dano Niewieście dwa skrzydła orła wiel[G]kiego,
+by le[F]ciała na pustynię, gdzie ma być żywiona
+przez czas, dwa czasy i połowę [E]czasu.
+Wówczas, [a]rozgniewany na Niewiastę,
+wielki Smok, udał się na [G]wojnę
+przeciwko [F]reszcie jej potomstwa:
+tym, którzy strzegą przykazań Boga
+i zachowują świadectwo Je[E]zusa.
+GFE
+W:
+La la la, la la, la [a]la …

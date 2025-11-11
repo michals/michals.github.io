@@ -1,0 +1,150 @@
+===
+title: "Kochajcie waszych nieprzyjaciół"
+subtitle: "Błogosławieństwa"
+section: "precate"
+color: "precate"
+tone: "D"
+songid: "S292KochajcieWaszychNieprzyjaciol"
+author:
+  - "K"
+year: 2003
+address:
+  - what: "Łk"
+    where: "6, 20-30.37"
+knownas:
+  - "Nie osądzajcie"
+  - "Kazanie na górze"
+  - "2002"
+index:
+  - "biada"
+  - "błogosławić"
+  - "błogosławiony"
+  - "bogacz"
+  - "Boży"
+  - "brać"
+  - "człowieczy"
+  - "czynić"
+  - "dać"
+  - "dobry"
+  - "drugi"
+  - "dzień"
+  - "fałszywy"
+  - "głodować"
+  - "Jezus"
+  - "każdy"
+  - "kochać"
+  - "królestwo"
+  - "śmiać"
+  - "żądać"
+  - "ludzie"
+  - "mówić"
+  - "modlić"
+  - "nadstawić"
+  - "nagroda"
+  - "nasycony"
+  - "niebo"
+  - "nienawidzić"
+  - "nieprzyjaciel"
+  - "odmawiać"
+  - "oko"
+  - "osądzać"
+  - "płakać"
+  - "płaszcz"
+  - "pociecha"
+  - "podnieść"
+  - "policzek"
+  - "potępiać"
+  - "powód"
+  - "powiedzieć"
+  - "prorok"
+  - "prosić"
+  - "przebaczać"
+  - "przebaczyć"
+  - "prześladować"
+  - "radować"
+  - "słuchać"
+  - "smucić"
+  - "Syn"
+  - "syty"
+  - "szata"
+  - "teraz"
+  - "ubogi"
+  - "uczeń"
+  - "uderzyć"
+  - "wielki"
+  - "wszyscy"
+  - "zabierać"
+  - "zelżyć"
+  - "złorzeczyć"
+  - "znienawidzić"
+  - "zwrot"
+footnote: "Nadmiarowe wy dodali tłumacze; nie ma go w oryginale. W „Resucitó” mamy Dichosos los pobres, porque vuestro el Reino de Dios bez dodatkowego vosotros (wy). (przyp. red.)"
+===
+
+K:
+[D]Podniósłszy oczy na swoich uczniów,
+Jezus powiedział:
+KW:
+Błogosławieni (wy), u[G]bo[D]dzy,
+bo [A]wasze jest Królestwo [D]Boże.
+KW:
+Błogosławieni, którzy teraz głodu[G]je[D]cie,
+bo bę[A]dziecie nasy[D]ceni.
+K:
+Błogosławieni, którzy teraz pła[G]cze[D]cie,
+al[A]bowiem śmiać się bę[D]dziecie.
+Błogosławieni jes[h]teście, gdy was zniena[A]widzą i [G]zelżą
+z powodu Syna Człowie[Fis]czego.
+Ra[G]dujcie się w tym dniu,
+wasza nagroda wielka jest [Fis]w niebie.
+KW:
+[D]Lecz biada wam, bo[G]ga[D]cze
+bo już [A]macie swoją po[D]ciechę.
+KW:
+Biada wam, którzy teraz jesteście [G]sy[D]ci,
+albowiem gło[A]dować bę[D]dziecie.
+K:
+Biada wam, którzy się teraz śmie[G]je[D]cie,
+bo smucić się i [A]płakać bę[D]dziecie.
+Biada [h]wam, gdy wszyscy [A]ludziebędą dobrze mówić [G]o was,
+tak czynili fałszywym pro[Fis]rokom.
+
+K:
+[D]Lecz wam, którzy słuchacie mówię:
+KW:
+[D]Kochajcie waszych nieprzy[G]ja[D]ciół,
+czyńcie [A]dobrze tym, co was niena[D]widzą.
+KW:
+Błogosławcie tych, co wam zło[G]rze[D]czą.
+Módlcie [A]się za tych, co was prześla[D]dują.
+KW:
+[E]Temu, kto uderzy cię w po[A]lic[E]zek
+nadstaw [H]także i [E]drugi.
+KW:
+[Fis]Temu, kto zabiera ci [H]pła[Fis]szcz,
+nie od[Cis]mawiaj i [Fis]szaty.
+KW:
+[Fis]Daj każdemu, kto cię [H]pro[Fis]si,
+a gdy [Cis]bierze twoje, nie żądaj [Fis]zwrotu.
+KW:
+[E]Nie osą[A]dzaj[E]cie,
+KW:
+nie potę[A]piaj[E]cie,
+KW:
+przeba[A]czaj[E]cie,
+K:
+a [H]będzie wam przeba[E]czone
+KW:
+[Fis]Kochajcie waszych nieprzy[H]ja[Fis]ciół,
+czyńcie [Cis]dobrze tym, co was niena[Fis]widzą.
+KW:
+Nie osą[H]dzaj[Fis]cie,
+KW:
+nie potę[H]piaj[Fis]cie,
+KW:
+przeba[H]czaj[Fis]cie,
+K:
+
+<footnote>Kochajcieawaszych
+[Cis]będzie    wam przeba[Fis]czone.
+nieprzyjaciółAmate i vostri nemiciKazanie na górze Polski w „Zmartwychwstał Pan 2025” bz. (przyp. red.)</footnote>

@@ -1,0 +1,136 @@
+===
+title: "Dzisiaj w Betlejem"
+section: "carol"
+color: "carol"
+tone: "C"
+songid: "S705DzisiajWBetlejem"
+author:
+  - "tr"
+year: 1878
+address:
+  - what: "Łk"
+    where: "2, 16"
+  - what: "Mt"
+    where: "2, 11"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+alttone:
+  - "F"
+  - "D"
+knownas:
+  - "Chrystus się rodzi"
+index:
+  - "anioł"
+  - "Bóg"
+  - "Betlejem"
+  - "bydlę"
+  - "choć"
+  - "Chrystus"
+  - "cud"
+  - "czysta"
+  - "dar"
+  - "Dzieciątko"
+  - "dziś"
+  - "dzisiaj"
+  - "grać"
+  - "Józef"
+  - "Jezus"
+  - "klękać"
+  - "kosztowny"
+  - "król"
+  - "Król"
+  - "śpiewać"
+  - "święty"
+  - "ludzie"
+  - "Maryja"
+  - "nieskończony"
+  - "niezmierzony"
+  - "nowina"
+  - "ogłaszać"
+  - "On"
+  - "oswobodzić"
+  - "pójść"
+  - "Pan"
+  - "Panna"
+  - "pasterz"
+  - "piastować"
+  - "pielęgnować"
+  - "pochwalić"
+  - "porodzić"
+  - "pozdrowić"
+  - "przecież"
+  - "przybyć"
+  - "przywitać"
+  - "rodzić"
+  - "siano"
+  - "stajeneczka"
+  - "syn"
+  - "Syn"
+  - "też"
+  - "trzy"
+  - "uwielbić"
+  - "wesoły"
+  - "wieczny"
+  - "witać"
+  - "wkrótce"
+  - "wschód"
+  - "wsławić"
+  - "zielony"
+  - "złożony"
+  - "złożyć"
+footnote: "Kolęda polska. Tekst tutaj za: Siedlecki Jan, Śpiewniczek zawierający pieśni kościelne z melodyami dla użytku młodzieży szkolnej, Kraków, 1878."
+===
+
+[C]Dzisiaj w Betlejem,                   dzisiaj w Betlejem
+wesoła now[G]ina,
+ż[C]e Panna czysta,                      że Panna czysta
+porodziła S[G]yna.
+
+Chr[GS]ystus się rodzi, n[C]as oswobodzi,
+[GS]Anieli grają, kr[C]óle witają,
+pasterze śpiewają, bydlęta klękają,
+cuda, c[A]uda [d]ogłas[G]zaj[C]ą.
+
+Maryja Panna,                              Maryja Panna
+Dzieciątko piastuje,
+i Józef święty,                            i Józef święty
+Ono pielęgnuje.
+
+Chrystus się rodzi …
+
+Choć w stajeneczce,                        choć w stajeneczce
+Panna Syna rodzi;
+Przecież On wkrótce,                       przecież On wkrótce
+ludzi oswobodzi.
+
+Chrystus się rodzi …
+
+I Trzej Królowie,                          i Trzej Królowie
+od wschodu przybyli
+I dary Panu,                               i dary Panu
+kosztowne złożyli.
+
+Chrystus się rodzi …
+
+Pójdźmy też i my,                          pójdźmy też i my
+przywitać Jezusa;
+Króla nad królmi,                          Króla nad królmi
+uwielbić Chrystusa.
+
+Chrystus się rodzi …
+
+Bądźże pochwalon,                          bądźże pochwalon
+dziś, nasz wieczny Panie,
+Któryś złożony,                            któryś złożony
+na zielonym sianie.
+
+Chrystus się rodzi …
+
+Bądź pozdrowiony,                          bądź pozdrowiony
+Boże nieskończony.
+Wsławimy Ciebie,                           wsławimy Ciebie,
+Boże niezmierzony.
+
+Chrystus się rodzi …

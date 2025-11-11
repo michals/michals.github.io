@@ -1,0 +1,107 @@
+===
+title: "Haggada Paschalna"
+subtitle: "Jesteś głodny"
+section: "eyect"
+color: "eyect"
+tone: "D"
+songid: "S512Haggadah"
+author:
+  - "GA"
+year: 1986
+address:
+  - what: "*INN"
+    where: ""
+knownas:
+  - "1976"
+  - "Gdyby Święty do nas nie przyszedł"
+  - "To jest chleb udręczenia"
+index:
+  - "alleluja"
+  - "Bóg"
+  - "ból"
+  - "błogosławić"
+  - "chleb"
+  - "chwalić"
+  - "czas"
+  - "dać"
+  - "dar"
+  - "dzięki"
+  - "dziecko"
+  - "dzisiaj"
+  - "Egipt"
+  - "faraon"
+  - "fermentować"
+  - "gdyby"
+  - "głodny"
+  - "Izrael"
+  - "kraj"
+  - "śpiewać"
+  - "święcić"
+  - "święty"
+  - "niewola"
+  - "On"
+  - "Pan"
+  - "pascha"
+  - "pęta"
+  - "pośpiech"
+  - "pragnienie"
+  - "prawo"
+  - "przenieść"
+  - "przyjść"
+  - "przymierze"
+  - "radość"
+  - "ręka"
+  - "spożywać"
+  - "sprawić"
+  - "uczynić"
+  - "udręczenie"
+  - "uwolnić"
+  - "wciąż"
+  - "wczoraj"
+  - "wolny"
+  - "wszystko"
+  - "zbawiać"
+  - "zgięty"
+footnote: "Ta pieśń była kiedyś popularna, także w Polsce. Autor Haggadę (podobnie jak i ) nagrał na płycie winylowej La nostra festa è Cristo, F-CAM 30.2 Edizioni Paoline, Roma 1975, z przekazaniem materialnych praw autorskich i o te prawa się ponoć upomniano. Skutkiem przepychanek prawnych Kiko miał podjąć decyzję o wycofaniu Haggady z oficjalnego śpiewnika. Pieśń przeżywa w hiszpańskich wspólnotach drugą młodość. Pieśń występuje w śpiewniku włoskim z nutami Risuscitò Canti del cammino neocatecumenale Edizione Musicale, Parrocchia ss. Martiri Canadesi, Via G.B. de Rossi 46, Roma 1977. (przyp. red.)"
+===
+
+W:
+[D]Jes[A]teś [D]głodny,
+[G]przyjdź i Paschę [AS]z nami [D]świ[h]ęć.
+[G]masz prag[D]nie[h]nie,
+GDA
+[G]przyjdź i Paschę z nami [D]święć.
+[D]Wczo[A]raj w nie[D]woli,
+[G]zgięci pod [AS]ręką fara[D]on[h]a,
+[G]dzisiaj [D]wol[h]ni
+GDAD
+[G]z Panem naszym w Izraelu.
+K:
+[G]Gdyby Święty do nas nie [A]przyszedł,
+[G]by nas z Egiptu u[A]wolnić,
+[Fis]my i nasze dzie[h]ci
+[ES]bylibyśmy w pętach [AS]wciąż.
+W:
+[D]Jes[A]teś [D]głodny, …
+
+K:
+[G]To jest chleb udrę[A]czenia,
+[G]chleb spożywany [A]tam.
+[Fis]nie miał czasu, by fermento[h]wać,
+[ES]bo w pośpiechu zbawiał [AS]Pan.
+W:
+[D]Jes[A]teś [D]głodny, …
+K:
+[G]Dzięki Ci, Panie, nasz [A]Boże,
+[G]za kraj, który nam [A]dałeś,
+[Fis]za dar prawa i przymie[h]rza,
+[ES]które z nami uczy[AS]niłeś.
+W:
+[D]Jes[A]teś [D]głodny, …
+K:
+Chwa[e]limy i błogosławimy [A]Tego,
+[e]który to wszystko [A]sprawił.
+[Fis]On nas z bólu do radości prze[h]niósł,
+śpie[ES]wajmy Mu: Allelu[AS]ja!
+W:
+[D]Jes[A]teś [D]głodny, …

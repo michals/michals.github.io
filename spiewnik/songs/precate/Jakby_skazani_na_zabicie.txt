@@ -1,0 +1,106 @@
+===
+title: "Jakby skazani na zabicie"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S264JakbySkazaniNaZabicie"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "1 Kor"
+    where: "4, 9-13"
+knownas:
+  - "Aż do tej chwili"
+  - "Skazani na śmierć"
+  - "Staliśmy się śmieciem"
+  - "1984"
+index:
+  - "anioł"
+  - "apostoł"
+  - "Bóg"
+  - "błogosławić"
+  - "chwila"
+  - "cierpieć"
+  - "głód"
+  - "jakby"
+  - "śmieć"
+  - "świat"
+  - "ludzie"
+  - "miejsce"
+  - "miłość"
+  - "myśleć"
+  - "nagość"
+  - "oczerniać"
+  - "odpowiadać"
+  - "odraza"
+  - "ostatni"
+  - "policzkować"
+  - "pragnienie"
+  - "prześladować"
+  - "skazany"
+  - "stać"
+  - "tułaczka"
+  - "usta"
+  - "uznany"
+  - "widowisko"
+  - "wszyscy"
+  - "wyznaczyć"
+  - "zabić"
+  - "zamykać"
+  - "złorzeczyć"
+  - "znosić"
+===
+
+K:
+[a]Aż do tej chwili znosimy [G]nagość,
+cierpimy pragnienie i [a]głód.
+W:
+[a]Aż do tej chwili znosimy [G]nagość,
+cierpimy pragnienie i [a]głód.
+K:
+Prz[G]eśladowani, na tułaczkę ska[a]zani.
+W:
+Prz[G]eśladowani, na tułaczkę ska[a]zani.
+K:
+Gdy nam zło[G]rzeczą - błogosła[a]wimy,
+policzko[G]wani - zamykamy [a]usta,
+gdy [G]nas oczerniają - odpowiadamy mi[a]łością.
+W:
+Gdy [G]nas oczerniają - odpowiadamy mi[a]łością.
+W:
+Staliśmy się [G]śmieciem,
+staliśmy się [a]śmieciem,
+staliśmy się [G]śmieciem,
+śmieciem tego [a]świata
+[G]i odrazą dla [a]wszystkich.
+K:
+Albowiem myślę,
+że [G]dla nas,
+apos[a]tołów
+Bóg wy[G]znaczył
+ostatnie [a]miejsce.
+
+W:
+[G]Jakby skazani na zabicie,
+[a]jakby skazani na zabicie,
+[G]jakby skazani na zabicie,
+[a]jakby skazani na zabicie.
+K:
+Uznani
+za wido[G]wisko,
+dla [a]świata,
+dla [G]aniołów
+i dla [F]ludzi,
+i dla [E]ludzi.
+W:
+[G]Jakby skazani na zabicie,
+[a]jakby skazani na zabicie,
+[G]jakby skazani na zabicie,
+[a]jakby skazani na zabicie.
+W:
+Staliśmy się [G]śmieciem,
+staliśmy się [a]śmieciem,
+staliśmy się [G]śmieciem,
+śmieciem tego [a]świata
+[G]i odrazą dla [a]wszystkich.

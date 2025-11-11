@@ -1,0 +1,176 @@
+===
+title: "Kantyk trzech młodzieńców w piecu ognistym (2)"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S041KantykTrzechMlodziencow2"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Dn"
+    where: "3, 57-88"
+  - what: "*BRE"
+    where: ""
+  - what: "*PAS"
+    where: ""
+knownas:
+  - "Wszystkie dzieła Pańskie"
+  - "Kantyk Daniela (2)"
+  - "Kantyk stworzeń (2)"
+  - "W piecu ognistym (2)"
+  - "Dłuższy kantyk Daniela"
+  - "1973"
+index:
+  - "Ananiasz"
+  - "anioł"
+  - "Azariasz"
+  - "błogosławić"
+  - "błogosławiony"
+  - "błyskawica"
+  - "chłód"
+  - "chmura"
+  - "chwała"
+  - "chwalić"
+  - "ciemności"
+  - "deszcz"
+  - "Duch"
+  - "duchy"
+  - "dusza"
+  - "dzieło"
+  - "dzień"
+  - "dziki"
+  - "góry"
+  - "gwiazda"
+  - "Izrael"
+  - "kapłan"
+  - "księżyc"
+  - "śnieg"
+  - "światło"
+  - "święty"
+  - "lód"
+  - "żar"
+  - "źródło"
+  - "ludzki"
+  - "Miszael"
+  - "morski"
+  - "morze"
+  - "mróz"
+  - "niebieski"
+  - "niebiosa"
+  - "niebo"
+  - "noc"
+  - "ogień"
+  - "Ojciec"
+  - "On"
+  - "pagórek"
+  - "Pański"
+  - "Pan"
+  - "pełny"
+  - "pokorny"
+  - "ponad"
+  - "poruszać"
+  - "potęga"
+  - "potwór"
+  - "powietrzny"
+  - "ptaki"
+  - "roślina"
+  - "rosa"
+  - "rzeka"
+  - "serce"
+  - "sklepienie"
+  - "słońce"
+  - "sługa"
+  - "sprawiedliwy"
+  - "syn"
+  - "Syn"
+  - "szron"
+  - "trzoda"
+  - "upał"
+  - "wicher"
+  - "wiek"
+  - "woda"
+  - "wodny"
+  - "wszelki"
+  - "wszystek"
+  - "wszystko"
+  - "wysławiać"
+  - "wywyższać"
+  - "wywyższyć"
+  - "ziemia"
+  - "zimno"
+  - "zwierzę"
+footnote: "Po każdym wersecie Wszyscy odpowiadają: Błogosławcie Pana."
+===
+
+K:
+[a]Wszystkie dzieła Pańskie
+W:
+[ES]Błogosławcie [a]Pana.
+K:
+Chwalcie [ES]Go!
+W:
+i na wieki wysła[a]wiajcie!
+
+K:
+Aniołowie Pańscy
+I wy, niebiosa
+Wszystkie wody ponad niebem
+Wszystkie potęgi Pańskie
+Słońce i księżycu
+Gwiazdy na niebie
+Deszcze i rosy
+Wszystkie wichry niebieskie
+Ogniu i żarze
+Chłodzie i upale
+Roso i szronie
+Mrozie i zimno
+Lody i śniegi
+Dni i noce
+Światło i ciemności
+Chmury i błyskawice
+K:
+Niech [ES]ziemia błogosławi Pana.
+W:
+Niech Go chwali
+i wysławia na [a]wieki!
+
+K:
+Góry i pagórki
+Wszystkie rośliny na ziemi
+Źródła wodne
+Morza i rzeki
+Potwory morskie i wszystko, co się porusza w wodzie
+Wszelkie ptaki powietrzne
+Dzikie zwierzęta i trzody
+Synowie ludzcy
+K:
+Niech I[ES]zrael błogosławi Pana.
+W:
+Niech Go chwali
+i wysławia na [a]wieki!
+
+K:
+Kapłani Pańscy
+Słudzy Pańscy
+Duchy i dusze sprawiedliwych
+Święci i pokornego serca
+Ananiaszu, Azariaszu, Miszaelu
+K:
+Chwalcie [ES]Go
+W:
+i na wieki wysła[a]wiajcie!
+
+recytacja:
+
+K:
+Błogosławmy Ojca i Syna
+i Ducha Świętego!
+W:
+Chwalmy Go
+i wywyższajmy na wieki!
+K:
+Błogosławiony jesteś Panie
+na sklepieniu nieba!
+W:
+Pełen chwały i wywyższony na wieki!

@@ -1,0 +1,84 @@
+===
+title: "Mesjasz, lew, co zwycięża"
+subtitle: "Święty Wiktoryn z Patawii"
+section: "precate"
+color: "communion"
+tone: "a"
+songid: "S147MesjaszLewByZwyciezac"
+author:
+  - "K"
+year: 2014
+address:
+  - what: "Ap"
+    where: "5, 5-6"
+  - what: "*OPA"
+    where: ""
+  - what: "*LAM"
+    where: ""
+knownas:
+  - "In Apocalypsin Wiktoryna z Patawii"
+  - "["
+  - "Quodvultdeus"
+  - "Święty Quodvultdeus"
+  - "Kwodwultdeus"
+  - "2014"
+index:
+  - "Baranek"
+  - "cierpieć"
+  - "dom"
+  - "drzewo"
+  - "Dziewica"
+  - "jako"
+  - "krew"
+  - "lew"
+  - "Mesjasz"
+  - "niebo"
+  - "oblubienica"
+  - "oblubieniec"
+  - "Ojciec"
+  - "otchłań"
+  - "owca"
+  - "posag"
+  - "pozostawić"
+  - "stać"
+  - "szukać"
+  - "umrzeć"
+  - "wprowadzić"
+  - "wraz"
+  - "wstąpić"
+  - "zagubić"
+  - "zstąpić"
+  - "zwyciężać"
+footnote: "Na podstawie In Apocalypsin (Komentarz Apokalipsy) Świętego Wiktoryna z Patawii (przyp. hiszp.) (łac. Victorinus Petavionensis, 230-304), pierwszego egzegety łacińskiego, ojca Kościoła, świętego Kościoła Katolickiego i Prawosławnego. Mesjasz, Lew, by zwyciężać (przyp. red.)"
+===
+
+KW:
+[a]Mesjasz, lew, co zwy[E]cięża,
+
+stał się Barankiem aby [a]cierpieć.
+
+K:
+[C]Wstąpił na drzewo aby [E]stać się
+Oblu[F]bieńcem; żeby [E]umrzeć.
+[d]Pozostawił swoją [E]krew
+jako [F]posag dla swej Oblubienicy Dzie[E]wicy.
+
+{{{ 2x
+W:
+[a]Mesjasz, lew, co zwy[E]cięża,
+
+stał się Barankiem aby [a]cierpieć.
+}}}
+
+K:
+[C]I zstąpił do Otch[E]łani
+szu[F]kając zagubionej [E]owcy.
+[d]Wraz z nią wstąpił do [E]nieba
+[F]i wprowadził ją do domu [E]Ojca.
+
+{{{ 2x
+W:
+[a]Mesjasz, lew, co zwy[E]cięża,
+
+stał się Barankiem aby [a]cierpieć.
+}}}

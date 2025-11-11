@@ -1,0 +1,225 @@
+===
+title: "Sekwencja na Boże Ciało"
+subtitle: "Lauda Sion Salvatorem"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S155ChwalSyjonie"
+author:
+  - "K"
+year: 2016
+address:
+  - what: "*OPA"
+    where: ""
+  - what: "*OPE"
+    where: ""
+  - what: "*HYM"
+    where: ""
+alttone:
+  - "h"
+knownas:
+  - "Chwal Syjonie Zbawiciela"
+  - "2003"
+index:
+  - "anioł"
+  - "Bóstwo"
+  - "bezkrwawy"
+  - "błogi"
+  - "brać"
+  - "brany"
+  - "brat"
+  - "bronić"
+  - "brzmieć"
+  - "cały"
+  - "chcieć"
+  - "chleb"
+  - "Chrystus"
+  - "chwała"
+  - "chwalić"
+  - "ciało"
+  - "czoło"
+  - "dać"
+  - "dań"
+  - "darmo"
+  - "dobra"
+  - "dobry"
+  - "dogmat"
+  - "dojść"
+  - "droga"
+  - "dusza"
+  - "dwanaście"
+  - "dzień"
+  - "dzisiaj"
+  - "dziw"
+  - "figura"
+  - "ginąć"
+  - "gromki"
+  - "grono"
+  - "hołd"
+  - "hymn"
+  - "iście"
+  - "ile"
+  - "jeden"
+  - "jednak"
+  - "Jezus"
+  - "karmić"
+  - "kędy"
+  - "Król"
+  - "krew"
+  - "kryć"
+  - "krzepić"
+  - "łamać"
+  - "łono"
+  - "śmiały"
+  - "święcić"
+  - "święty"
+  - "żyjący"
+  - "żywa"
+  - "żywy"
+  - "miara"
+  - "moc"
+  - "najświętszy"
+  - "nań"
+  - "należy"
+  - "napój"
+  - "natura"
+  - "niebianin"
+  - "niebo"
+  - "oba"
+  - "odkupienie"
+  - "odmiana"
+  - "odmienny"
+  - "Ojciec"
+  - "okazać"
+  - "On"
+  - "paść"
+  - "pamięć"
+  - "Pan"
+  - "pasterz"
+  - "pełny"
+  - "pieśń"
+  - "pienie"
+  - "pierś"
+  - "podziw"
+  - "pokarm"
+  - "pokruszyć"
+  - "pośród"
+  - "porządek"
+  - "potrzeba"
+  - "pouczyć"
+  - "próg"
+  - "prawo"
+  - "prawy"
+  - "prosim"
+  - "przedkładać"
+  - "przedmiot"
+  - "przekazać"
+  - "przemieniać"
+  - "przewyższać"
+  - "przy"
+  - "raj"
+  - "różne"
+  - "równa"
+  - "rzeczy"
+  - "rzesza"
+  - "sam"
+  - "serce"
+  - "skłonić"
+  - "sławić"
+  - "spełniać"
+  - "społem"
+  - "stać"
+  - "stół"
+  - "starać"
+  - "strawa"
+  - "Syjon"
+  - "syn"
+  - "szaty"
+  - "tajemnica"
+  - "tamten"
+  - "trwać"
+  - "tysiąc"
+  - "uczta"
+  - "uczynić"
+  - "uroczysty"
+  - "ustawa"
+  - "uwielbienie"
+  - "wódz"
+  - "wędrowiec"
+  - "wbrew"
+  - "wdzięczny"
+  - "wesele"
+  - "wesoły"
+  - "wiara"
+  - "wieczerza"
+  - "wierzenie"
+  - "wino"
+  - "wśród"
+  - "wracać"
+  - "wskazać"
+  - "wszystko"
+  - "wyśpiewać"
+  - "wzięty"
+  - "zaś"
+  - "Zbawiciel"
+  - "zdołać"
+  - "zmysł"
+  - "znak"
+footnote: "Hiszpańska wersja w „Resucitó” używa tej zwrotki, jako refrenu. (przyp. red.)"
+===
+
+W:
+[a]Chwal Syjonie Zbawi[d]ciela,
+Chwal hymnami wśród we[a]sela
+[E]Wodza i Pasterza rzesz!
+K:
+[a]Oto chleb Aniołów [d]błogi,
+Dan wędrowcom pośród [a]drogi,
+Synów wraca w Ojca [E]progi.
+
+[a]Ile zdołasz sław Go [d]śmiało,
+Bo przewyższa wszystko [a]chwałą,
+Co wyśpiewać pieśnią [E]chcesz!
+W:
+[a]Chwal Syjonie Zbawi[d]ciela,
+Chwal hymnami wśród we[a]sela
+[E]Wodza i Pasterza rzesz!
+
+K:
+[a]Chwały przedmiot nad po[d]dziwy,
+Chleb żyjących, pokarm [a]żywy,
+Dzisiaj się przedkłada [E]nam.
+[a]Za wieczerzy świętym [d]stołem
+Pan go łamiąc z braćmi [a]społem,
+Iście dał Dwunastu [E]sam.
+W:
+[a]Chwal Syjonie Zbawi[d]ciela,
+Chwal hymnami wśród we[a]sela
+[E]Wodza i Pasterza rzesz!
+
+K:
+[a]Z pełnej piersi niech brzmią [d]pienia,
+Wdzięcznym hołdem uwiel[a]bienia
+Sławmy gromko Króla [E]chwał!
+[a]Uroczysty dzień się [d]święci,
+Co przekazać ma pa[a]mięci,
+Jak się stół ten prawem [E]stał.
+W:
+[a]Chwal Syjonie Zbawi[d]ciela,
+Chwal hymnami wśród we[a]sela
+[E]Wodza i Pasterza rzesz!
+
+K:
+[a]Co uczynił przy wie[d]czerzy,
+Chrystus wskazał, że na[a]leży
+Spełniać dla pamięci [E]nań.
+[a]Pouczeni tą u[d]stawą,
+Chleb i wino na bez[a]krwawą
+Odkupienia święcim [E]dań.
+W:
+[a]Chwal Syjonie Zbawi[d]ciela,
+Chwal hymnami wśród we[a]sela
+[E]Wodza i Pasterza rzesz!
+
+Na konwiwencji wędrownych w Hiszpanii w 2003 roku Kiko śpiewał ten hymn podczas Eucharystii jako pieśń na wejście. Zaznaczył też, że można refren śpiewać po łacinie: Lauda Sion Salvatorem, Lauda ducem et pastorem, In hymnis et canticis, dany z akordami na końcu.
+Chwal SyjonieSekwencja na Boże CiałoTytuł włoski odwołuje się funkcji, podczas gdy hiszpański do tytułu łacińskiego (przyp. red.)

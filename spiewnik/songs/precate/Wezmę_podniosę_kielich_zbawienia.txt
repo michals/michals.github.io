@@ -1,0 +1,139 @@
+===
+title: "Wezmę, podniosę kielich zbawienia"
+section: "precate"
+color: "precate"
+tone: "D"
+songid: "S048PodnioseKielichZbawienia"
+author:
+  - "PR"
+year: 1992
+address:
+  - what: "Ps"
+    where: "116"
+knownas:
+  - "Ja wierzyłem, nawet gdy mówiłem"
+  - "Podniosę kielich zbawienia"
+  - "Cóż mogę oddać Panu"
+index:
+  - "Bóg"
+  - "bardzo"
+  - "cały"
+  - "cenny"
+  - "chodzić"
+  - "człowiek"
+  - "dom"
+  - "dusza"
+  - "dziękczynny"
+  - "dziedziniec"
+  - "fałszywy"
+  - "imię"
+  - "kielich"
+  - "Kościół"
+  - "kraina"
+  - "śmierć"
+  - "żyjący"
+  - "żywy"
+  - "móc"
+  - "mówić"
+  - "miłosierdzie"
+  - "modlitwa"
+  - "niedola"
+  - "obdarzyć"
+  - "oblicze"
+  - "oddać"
+  - "odpoczynek"
+  - "ofiara"
+  - "oko"
+  - "otoczyć"
+  - "Pański"
+  - "Pan"
+  - "piekło"
+  - "podnieść"
+  - "pomnieć"
+  - "ponieważ"
+  - "razem"
+  - "sidła"
+  - "syn"
+  - "szczęśliwy"
+  - "teraz"
+  - "utrapienie"
+  - "wejść"
+  - "wezwać"
+  - "więzy"
+  - "wierzyć"
+  - "wrócić"
+  - "wszystko"
+  - "wybawić"
+  - "wyprowadzić"
+  - "wziąć"
+  - "wzywać"
+  - "zanosić"
+  - "zaskoczyć"
+  - "zbawić"
+  - "zbawienie"
+  - "złożyć"
+footnote: "Podniosę kielich zbawieniaInnalzerò la coppa di salvezza (przyp. red.)"
+===
+
+K:
+[D]Ja wierzyłem, nawet gdy mó[fis]wiłem:
+„[DS]Jestem bardzo nieszczęś[e]liwy!”
+Mó[G]wiłem w swoim utra[A]pieniu:
+„Człowiek jest fał[D]szywy!”
+Ale Pan wyprowadził mnie ze [fis]śmierci,
+[DS]pomnąc na swoje miło[e]sierdzie,
+a [G]teraz wróć do swego odpo[A]czynku,
+o, duszo [D]moja.
+
+W:
+[G]Cóż mogę [A]oddać [h]Panu
+za [G]wszystko, czym mnie ob[A]darzył?
+{{{ 2x
+We[D]zmę, podnio[G]sę,
+we[fis]zmę, podnio[G]sę
+kielich zba[fis]wienia
+i będę [h]wzywał
+[ES]imienia Pań[A]skiego.
+}}}
+
+K:
+[D]Tobie złożę ofiarę dzięk[fis]czynną,
+wzy[DS]wając imię Twe, o [e]Panie,
+po[G]nieważ wszedłeś w mą nie[A]dolę
+i mnie zba[D]wiłeś.
+Moją modlitwę zanoszę do [fis]Ciebie
+[DS]razem z całym Twym Koś[e]ciołem.
+Będę [G]chodził przed Twoim ob[A]liczem
+w krainie ży[D]wych.
+
+W:
+[G]Cenna jest [A]w oczach [h]Pana
+[G]śmierć Jego [A]synów.
+{{{ 2x
+We[D]zmę, podnio[G]sę,
+we[fis]zmę, podnio[G]sę
+kielich zba[fis]wienia
+i będę [h]wzywał
+[ES]imienia Pań[A]skiego.
+}}}
+
+K:
+[D]Więzy śmierci już mnie oto[fis]czyły,
+zasko[DS]czyły sidła [e]piekieł.
+We[G]zwałem imienia Pań[A]skiego
+i mnie wy[D]bawił.
+Duszo moja wróć do swego odpo[fis]czynku,
+[DS]będziesz chodzić przed obliczem [e]Pana,
+po dzie[G]dzińcach domu Twego [A]Boga,
+Boga ży[D]jących.
+
+W:
+[G]Cóż mogę [A]oddać [h]Panu
+za [G]wszystko, czym mnie ob[A]darzył?
+{{{ 2x
+We[D]zmę, podnio[G]sę,
+we[fis]zmę, podnio[G]sę
+kielich zba[fis]wienia
+i będę [h]wzywał
+[ES]imienia Pań[A]skiego.
+}}}

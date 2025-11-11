@@ -1,0 +1,453 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Test Chord CSS - Polish Notation</title>
+    <link rel="stylesheet" href="chords-pl1.css" id="chord-css" />
+    <style>
+      body {
+        font-family:
+          -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 2rem;
+        background-color: #f8f9fa;
+        color: #333;
+        line-height: 1.6;
+      }
+
+      .container {
+        background: white;
+        padding: 2rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      }
+
+      h1 {
+        color: #2c3e50;
+        border-bottom: 2px solid #3498db;
+        padding-bottom: 0.5rem;
+      }
+
+      .notation-selector {
+        margin: 1rem 0;
+        padding: 1rem;
+        background: #f8f9fa;
+        border-radius: 8px;
+        border: 1px solid #dee2e6;
+      }
+
+      .notation-selector h3 {
+        margin-top: 0;
+        color: #495057;
+      }
+
+      .notation-links {
+        display: flex;
+        gap: 1rem;
+        flex-wrap: wrap;
+      }
+
+      .notation-link {
+        display: inline-block;
+        padding: 0.5rem 1rem;
+        background: #3498db;
+        color: white;
+        text-decoration: none;
+        border-radius: 4px;
+        transition: background-color 0.2s;
+      }
+
+      .notation-link:hover {
+        background: #2980b9;
+      }
+
+      .notation-link.active {
+        background: #e74c3c;
+      }
+
+      .notation-info {
+        margin-top: 1rem;
+        padding: 0.5rem;
+        background: white;
+        border-radius: 4px;
+        font-size: 0.9em;
+        color: #6c757d;
+      }
+
+      .chord-test {
+        display: inline-block;
+        width: 2em;
+        height: 1em;
+        margin: 0 0.2em;
+        vertical-align: middle;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        /* Black SVG will be visible by default */
+      }
+
+      /* Color overrides using CSS filter - starting from red #f00 */
+      .chord-test.red {
+        filter: hue-rotate(0deg) saturate(1) brightness(1);
+      }
+
+      .chord-test.green {
+        filter: hue-rotate(120deg) saturate(1) brightness(1);
+      }
+
+      .chord-test.blue {
+        filter: hue-rotate(240deg) saturate(1) brightness(1);
+      }
+
+      /* Default red color from SVG - no additional CSS needed */
+
+      .test-section {
+        margin: 2rem 0;
+        padding: 1rem;
+        background: #f8f9fa;
+        border-radius: 4px;
+      }
+
+      .test-section h3 {
+        margin-top: 0;
+        color: #495057;
+      }
+
+      .chord-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1rem;
+        margin: 1rem 0;
+      }
+
+      .chord-item {
+        display: flex;
+        align-items: center;
+        padding: 0.5rem;
+        background: white;
+        border-radius: 4px;
+        border: 1px solid #dee2e6;
+      }
+
+      .chord-item .chord-test {
+        margin-right: 0.5rem;
+      }
+
+      .chord-id {
+        font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+        font-size: 0.9em;
+        color: #6c757d;
+      }
+
+      .example-song {
+        font-size: 1.2em;
+        line-height: 2;
+        background: #f8f9fa;
+        padding: 1rem;
+        border-radius: 4px;
+        border-left: 4px solid #3498db;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>🎵 Test Chord CSS - Multiple Notations</h1>
+
+      <div class="notation-selector">
+        <h3>Choose Notation System:</h3>
+        <div class="notation-links">
+          <a href="#" class="notation-link active" data-notation="pl1"
+            >Polish 1 (Cis, Dis, Fis, Gis)</a
+          >
+          <a href="#" class="notation-link" data-notation="pl2">Polish 2 (C#, D#, F#, G#)</a>
+          <a href="#" class="notation-link" data-notation="int">International (C#, D#, F#, G#)</a>
+        </div>
+        <div class="notation-info" id="notation-info">
+          <strong>Polish 1:</strong> C, Cis, D, Dis, E, F, Fis, G, Gis, A, B, H (121 chords)
+        </div>
+      </div>
+
+      <div class="test-section">
+        <h3>Basic Chords (Dur) - Key Differences</h3>
+        <div class="chord-grid">
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X1)"></span>
+            <span class="chord-id">X1 (C)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X2)"></span>
+            <span class="chord-id">X2 (Cis/C#)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X3)"></span>
+            <span class="chord-id">X3 (D)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X4)"></span>
+            <span class="chord-id">X4 (Dis/D#)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X5)"></span>
+            <span class="chord-id">X5 (E)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X6)"></span>
+            <span class="chord-id">X6 (F)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X7)"></span>
+            <span class="chord-id">X7 (Fis/F#)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X8)"></span>
+            <span class="chord-id">X8 (G)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X9)"></span>
+            <span class="chord-id">X9 (Gis/G#)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X10)"></span>
+            <span class="chord-id">X10 (A)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X11)"></span>
+            <span class="chord-id">X11 (B)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X12)"></span>
+            <span class="chord-id">X12 (H - PL only)</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="test-section">
+        <h3>Basic Chords (Mol) - Key Differences</h3>
+        <div class="chord-grid">
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-x1)"></span>
+            <span class="chord-id">x1 (c)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-x2)"></span>
+            <span class="chord-id">x2 (cis/c#)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-x3)"></span>
+            <span class="chord-id">x3 (d)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-x4)"></span>
+            <span class="chord-id">x4 (dis/d#)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-x5)"></span>
+            <span class="chord-id">x5 (e)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-x6)"></span>
+            <span class="chord-id">x6 (f)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-x7)"></span>
+            <span class="chord-id">x7 (fis/f#)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-x8)"></span>
+            <span class="chord-id">x8 (g)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-x9)"></span>
+            <span class="chord-id">x9 (gis/g#)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-x10)"></span>
+            <span class="chord-id">x10 (a)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-x11)"></span>
+            <span class="chord-id">x11 (b)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-x12)"></span>
+            <span class="chord-id">x12 (h - PL only)</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="test-section">
+        <h3>Notation Comparison - Sharp Notes</h3>
+        <div class="chord-grid">
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X2)"></span>
+            <span class="chord-id">X2: Cis (PL1) vs C# (PL2/INT)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X4)"></span>
+            <span class="chord-id">X4: Dis (PL1) vs D# (PL2/INT)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X7)"></span>
+            <span class="chord-id">X7: Fis (PL1) vs F# (PL2/INT)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X9)"></span>
+            <span class="chord-id">X9: Gis (PL1) vs G# (PL2/INT)</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="test-section">
+        <h3>H vs B - Polish vs International</h3>
+        <div class="chord-grid">
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X11)"></span>
+            <span class="chord-id">X11: B (all systems)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X12)"></span>
+            <span class="chord-id">X12: H (PL1/PL2 only, not in INT)</span>
+          </div>
+        </div>
+        <p style="margin-top: 1rem; font-size: 0.9em; color: #6c757d">
+          <strong>Note:</strong> Polish notation uses both B and H, while International uses only B.
+          H is equivalent to B in International notation.
+        </p>
+      </div>
+
+      <div class="test-section">
+        <h3>Chords with Extensions - Sharp Notes</h3>
+        <div class="chord-grid">
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X2_7)"></span>
+            <span class="chord-id">X2_7: Cis7 (PL1) vs C#7 (PL2/INT)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X4_6)"></span>
+            <span class="chord-id">X4_6: Dis6 (PL1) vs D#6 (PL2/INT)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X7_x)"></span>
+            <span class="chord-id">X7_x: Fis✱ (PL1) vs F#✱ (PL2/INT)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X9_9_7m)"></span>
+            <span class="chord-id">X9_9_7m: Gis9/7- (PL1) vs G#9/7- (PL2/INT)</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="test-section">
+        <h3>Basic Extensions (C major)</h3>
+        <div class="chord-grid">
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X1_7)"></span>
+            <span class="chord-id">X1_7 (C7)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X1_6)"></span>
+            <span class="chord-id">X1_6 (C6)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X1_9_7m)"></span>
+            <span class="chord-id">X1_9_7m (C9/7-)</span>
+          </div>
+          <div class="chord-item">
+            <span class="chord-test" style="background-image: var(--bg-chord-X1_x)"></span>
+            <span class="chord-id">X1_x (C✱)</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="test-section">
+        <h3>Example Song Line</h3>
+        <div class="example-song">
+          Śpi<span class="chord-test" style="background-image: var(--bg-chord-X1)"></span>ewam
+          ra<span class="chord-test" style="background-image: var(--bg-chord-X8)"></span
+          >dośnie<br />
+          Alleluja<span class="chord-test" style="background-image: var(--bg-chord-X6)"></span>
+          wielkanocne<span class="chord-test" style="background-image: var(--bg-chord-X1)"></span>
+        </div>
+      </div>
+
+      <div class="test-section">
+        <h3>Color Test</h3>
+        <p style="color: #e74c3c">
+          Red: <span class="chord-test red" style="background-image: var(--bg-chord-X1)"></span>
+        </p>
+        <p style="color: #27ae60">
+          Green: <span class="chord-test green" style="background-image: var(--bg-chord-X8)"></span>
+        </p>
+        <p style="color: #3498db">
+          Blue: <span class="chord-test blue" style="background-image: var(--bg-chord-X6)"></span>
+        </p>
+      </div>
+
+      <div class="test-section">
+        <h3>Size Test</h3>
+        <p style="font-size: 1em">
+          Normal: <span class="chord-test" style="background-image: var(--bg-chord-X1)"></span>
+        </p>
+        <p style="font-size: 1.5em">
+          Large: <span class="chord-test" style="background-image: var(--bg-chord-X1)"></span>
+        </p>
+        <p style="font-size: 2em">
+          XL: <span class="chord-test" style="background-image: var(--bg-chord-X1)"></span>
+        </p>
+      </div>
+    </div>
+
+    <script>
+      // Notation system definitions
+      const notationSystems = {
+        pl1: {
+          name: 'Polish 1',
+          description: 'C, Cis, D, Dis, E, F, Fis, G, Gis, A, B, H',
+          chordCount: '121 chords',
+        },
+        pl2: {
+          name: 'Polish 2',
+          description: 'C, C#, D, D#, E, F, F#, G, G#, A, B, H',
+          chordCount: '121 chords',
+        },
+        int: {
+          name: 'International',
+          description: 'C, C#, D, D#, E, F, F#, G, G#, A, A#, B',
+          chordCount: '121 chords',
+        },
+      }
+
+      // Switch notation system
+      function switchNotation(notation) {
+        // Update CSS link
+        const cssLink = document.getElementById('chord-css')
+        cssLink.href = `chords-${notation}.css`
+
+        // Update active link
+        document.querySelectorAll('.notation-link').forEach((link) => {
+          link.classList.remove('active')
+        })
+        document.querySelector(`[data-notation="${notation}"]`).classList.add('active')
+
+        // Update info
+        const info = document.getElementById('notation-info')
+        const system = notationSystems[notation]
+        info.innerHTML = `<strong>${system.name}:</strong> ${system.description} (${system.chordCount})`
+      }
+
+      // Add click handlers
+      document.querySelectorAll('.notation-link').forEach((link) => {
+        link.addEventListener('click', (e) => {
+          e.preventDefault()
+          const notation = e.target.getAttribute('data-notation')
+          switchNotation(notation)
+        })
+      })
+
+      // Initialize with pl1
+      switchNotation('pl1')
+    </script>
+  </body>
+</html>

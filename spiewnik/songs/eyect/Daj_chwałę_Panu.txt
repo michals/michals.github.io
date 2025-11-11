@@ -1,0 +1,100 @@
+===
+title: "Daj chwałę Panu"
+section: "eyect"
+color: "eyect"
+tone: "G"
+songid: "S088DajChwalePanu"
+author:
+  - "PR"
+year: 1992
+address:
+  - what: "Ps"
+    where: "146"
+index:
+  - "Abraham"
+  - "alleluja"
+  - "Bóg"
+  - "cały"
+  - "chleb"
+  - "chwała"
+  - "chwalić"
+  - "człowiek"
+  - "dać"
+  - "dawać"
+  - "długi"
+  - "dusza"
+  - "dzień"
+  - "imię"
+  - "jeniec"
+  - "królować"
+  - "ślepy"
+  - "śpiewać"
+  - "świadczyć"
+  - "święty"
+  - "żyć"
+  - "życie"
+  - "możny"
+  - "oko"
+  - "otwierać"
+  - "Pan"
+  - "pokładać"
+  - "proch"
+  - "rozwiewać"
+  - "serce"
+  - "sprawiedliwość"
+  - "Syjon"
+  - "szczęśliwy"
+  - "uciśniony"
+  - "ufność"
+  - "umierać"
+  - "wiek"
+  - "wolność"
+  - "wracać"
+  - "wszystek"
+  - "wypuszczać"
+  - "zamiary"
+  - "zawierzyć"
+  - "zawsze"
+  - "zbawienie"
+  - "zgłodniały"
+  - "złożyć"
+===
+
+W:
+[G]Allelu[D]ja, [e]allelu[h]ja[D]. [G]Allelu[D]ja, [C]allelu[HS]ja.
+
+K:
+[G]Daj chwałę Panu, duszo [D]moja
+[e]ty, serce moje, Jego świętemu i[h]mieniu;[D]
+[G]przez całe życie chwalić będę [D]Pana,
+[C]śpiewać będę memu Bogu, jak długo będę [HS]żył.
+
+W:
+[G]Allelu[D]ja, [e]allelu[h]ja[D]. [G]Allelu[D]ja, [C]allelu[HS]ja.
+
+K:
+[G]Nie pokładam ufności [D]w możnych,
+[e]w człowieku, w którym nie ma zba[h]wienia:[D]
+do [G]prochu wraca, kiedy u[D]miera,
+rozwie[C]wają się w tym dniu wszystkie jego za[HS]miary.
+
+W:
+[G]Allelu[D]ja, [e]allelu[h]ja[D]. [G]Allelu[D]ja, [C]allelu[HS]ja.
+
+K:
+[G]Ale w Tobie, Panie, który otwierasz oczy [D]ślepym,
+[e]który świadczysz sprawiedliwość uciś[h]nionym,[D]
+[G]w Tobie, który dajesz chleb zgłod[D]niałym
+i [C]jeńców wypuszczasz na [HS]wolność.
+
+W:
+[G]Allelu[D]ja, [e]allelu[h]ja[D]. [G]Allelu[D]ja, [C]allelu[HS]ja.
+
+K:
+[G]Szczęśliwy, kto zawierzył [D]Panu,
+[e]w Bogu Abrahama złożył [h]ufność.[D]
+Kró[G]luje Pan na [D]zawsze,
+[C]Bóg Syjonu na [D]wieki.
+
+W:
+[G]Allelu[D]ja, [e]allelu[h]ja[D]. [G]Allelu[D]ja, [C]allelu[HS]ja.

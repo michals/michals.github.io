@@ -1,0 +1,72 @@
+===
+title: "Świeć gwiazdeczko mała, świeć"
+section: "carol"
+color: "carol"
+tone: "h"
+songid: "S723SwiecGwiazdeczko"
+author:
+  - "tr"
+year: 1754
+address:
+  - what: "Mt"
+    where: "2, 1-2"
+  - what: "*KOL"
+    where: ""
+  - what: "*DZI"
+    where: ""
+children: true
+index:
+  - "Bóg"
+  - "Betlejem"
+  - "czekać"
+  - "gloria"
+  - "gwiazdeczka"
+  - "historia"
+  - "Józef"
+  - "Jezus"
+  - "śpiewać"
+  - "święta"
+  - "świecić"
+  - "mały"
+  - "móc"
+  - "Maryja"
+  - "narodzić"
+  - "prosty"
+  - "prowadzić"
+  - "spóźnić"
+  - "uratować"
+  - "zaprowadzić"
+  - "ziemia"
+  - "zostawić"
+  - "zstąpić"
+footnote: "Polska pastorałka, z połowy XVIII wieku. Powszechnie śpiewana przez dzieci w okresie Bożego Narodzenia. Popularność zawdzięcza zespołowi dziecięcemu Arka Noego."
+===
+
+[h]Zaprowadź [A]mnie, [D]prosto do [h]Betlejem,
+zaprowadź [A]mnie, [D]gdzie Bóg na[h]rodził się,
+Zaprowadź [A]mnie, [D]nie mogę [h]spóźnić się,
+nie mogę [A]spóźnić się.
+
+[D]Świeć, gwiazdeczko, ma[G]ła [A]świeć,
+[G]do Jezusa pro[A]wadź [D]mnie.
+
+[h]Narodził [A]się, [D]Bóg zstąpił [h]na Ziemię,
+narodził [A]się, [D]by ura[h]tować mnie,
+Narodził [A]się [D]i nie zo[h]stawił mnie,
+i nie zo[A]stawił mnie.
+
+[D]Świeć, gwiazdeczko, ma[G]ła [A]świeć,
+[G]do Jezusa pro[A]wadź [D]mnie.
+
+[h]Czekają [A]tam [D]Józef i [h]Maryja.
+Śpiewają [A]nam, [D]śpiewają [h]gloria.
+To glori[A]a, [D]święta hi[h]storia,
+święta hi[A]storia.
+
+[D]Świeć, gwiazdeczko, ma[G]ła [A]świeć,
+[G]do Jezusa pro[A]wadź [D]mnie.
+
+Zaprowadź mnie, prosto do Betlejem,
+zaprowadź mnie, gdzie Bóg narodził się,
+Zaprowadź mnie, nie mogę spóźnić się,
+nie mogę spóźnić się.

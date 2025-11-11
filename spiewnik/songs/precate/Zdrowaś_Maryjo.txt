@@ -1,0 +1,65 @@
+===
+title: "Zdrowaś Maryjo"
+subtitle: "Ave Maria I"
+section: "precate"
+color: "precate"
+tone: "C"
+songid: "S065ZdrowasMaryjo"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Łk"
+    where: "1, 28nn"
+  - what: "*MAR"
+    where: ""
+  - what: "*HYM"
+    where: ""
+alttone:
+  - "C"
+  - "D"
+knownas:
+  - "1973"
+index:
+  - "amen"
+  - "Bóg"
+  - "błogosławiona"
+  - "błogosławiony"
+  - "godzina"
+  - "grzesznik"
+  - "Jezus"
+  - "łaska"
+  - "łono"
+  - "śmierć"
+  - "święta"
+  - "Maryja"
+  - "matka"
+  - "między"
+  - "modlić"
+  - "niewiasta"
+  - "owoc"
+  - "Pan"
+  - "pełny"
+  - "teraz"
+  - "zdrowaś"
+footnote: "Pozdrowienie anielskie w obu wersjach, tak w „Resucitó” jak i w „Risuscitò”, ma tytuł Ave Maria z dodatkowymi oznaczeniami (jak Ave Maria II, (1984)). Tylko w „Zmartwychwstał Pan” wersja starsza ma spolszczony tytuł Zdrowaś Maryjo, co utrzymał też „Zmartwychwstał Pan 2025”. (przyp. red.)"
+===
+
+K:
+[C]Zdrowaś Ma[E]ryj[a]o,
+[C]łaski [E]peł[a]na,
+[F]Pan jest [E]z Tobą!
+Błogosła[a]wionaś Ty
+∼
+między [d]niewias[E]tami
+i błogosławiony [a]owoc
+łona [d]Twego Je[E]zus.
+
+W:
+[C]Święta Ma[E]ry[a]jo,
+[C]Matko [E]Bo[a]ga,
+[F]módl się za [E]nami,
+bo jesteśmy grzeszni[a]kami;
+módl się [d]teraz
+i w godzinę naszej [E]śmierci.
+A[a]men, [F]am[E]en, a[a]men.

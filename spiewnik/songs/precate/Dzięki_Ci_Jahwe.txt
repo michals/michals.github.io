@@ -1,0 +1,173 @@
+===
+title: "Dzięki Ci, Jahwe"
+subtitle: "Melodia hebrajska"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S039DziekiCiJahwe"
+author:
+  - "GG"
+  - "EG"
+year: 1993
+address:
+  - what: "Ps"
+    where: "136"
+  - what: "*OPA"
+    where: ""
+  - what: "*PAX"
+    where: ""
+  - what: "*KOM"
+    where: ""
+  - what: "*ZAK"
+    where: ""
+knownas:
+  - "Panie, dzięki Ci"
+yhwh: true
+index:
+  - "alleluja"
+  - "Bóg"
+  - "cud"
+  - "czas"
+  - "część"
+  - "czynić"
+  - "dać"
+  - "dawać"
+  - "dwa"
+  - "dzięki"
+  - "dziękować"
+  - "Egipt"
+  - "gnębiciel"
+  - "Izrael"
+  - "Jahwe"
+  - "jeden"
+  - "klęska"
+  - "księżyc"
+  - "środkiem"
+  - "światło"
+  - "lud"
+  - "mądrość"
+  - "miód"
+  - "miłość"
+  - "mleko"
+  - "morze"
+  - "niebiosa"
+  - "nieprzyjaciel"
+  - "niewola"
+  - "obietnica"
+  - "On"
+  - "opuszczać"
+  - "płynąć"
+  - "podzielić"
+  - "pokarm"
+  - "prowadzić"
+  - "przeogromny"
+  - "przeprowadzić"
+  - "pustynia"
+  - "sam"
+  - "słońce"
+  - "stworzenie"
+  - "syn"
+  - "uczynić"
+  - "uderzyć"
+  - "utwierdzić"
+  - "uwalniać"
+  - "według"
+  - "wiek"
+  - "wielki"
+  - "władać"
+  - "woda"
+  - "wojsko"
+  - "wszelki"
+  - "wybrany"
+  - "wyprowadzić"
+  - "zatopić"
+  - "ziemia"
+footnote: "„Zmartwychwstał Pan 2025”przywrócił Dzięki Ci, Jahwe. (przyp. red.)"
+===
+
+W:
+[e]Dzięki [D]Ci, Jah[e]we, al[D]lelu[e]ja.
+Dzięki [D]Ci, Jah[e]we, al[D]lelu[e]ja.
+[a]Dzięki [e]Ci, Jahwe, al[a]lelu[e]ja.
+[a]Dzięki [e]Ci, Jahwe, al[HS]lelu[e]ja.
+
+K:
+[C]Dzię[e]kujmy [D]Bogu na[G]szemu,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+On sam [h]jeden czyni wielkie [e]cuda.
+W:
+Dzięki [D]Ci, Jah[e]we, …
+
+K:
+[C]On w mą[e]drości nie[D]biosa u[G]czynił,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+On utwierdził [h]ziemię nad wo[e]dami.
+W:
+Dzięki [D]Ci, Jah[e]we, …
+
+K:
+[C]On u[e]czynił [D]przeogromne [G]światła,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+Słońce, księżyc, [h]by władały [e]czasem.
+W:
+Dzięki [D]Ci, Jah[e]we, …
+
+K:
+[C]On u[e]derzył [D]Egipt w jego [G]synach,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+Wyprowadził z nie[h]woli Izra[e]ela.
+W:
+Dzięki [D]Ci, Jah[e]we, …
+
+K:
+[C]On po[e]dzielił [D]morze na dwie [G]części,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+Przeprowadził [h]środkiem lud wy[e]brany.
+W:
+Dzięki [D]Ci, Jah[e]we, …
+
+K:
+[C]On za[e]topił [D]wojsko nieprzy[G]jaciół,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+I prowadził [h]lud swój przez pu[e]stynię.
+W:
+Dzięki [D]Ci, Jah[e]we, …
+
+K:
+[C]Dał nam [e]według [D]swojej obie[G]tnicy,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+Ziemię mlekiem i [h]miodem pły[e]nącą.
+W:
+Dzięki [D]Ci, Jah[e]we, …
+
+K:
+[C]W naszej [e]klęsce [D]On nas nie o[G]puszcza,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+On nas u[h]walnia od naszych gnębi[G]cieli.
+W:
+Dzięki [D]Ci, Jah[e]we, …
+
+K:
+[C]Daje [e]pokarm wszel[D]kiemu stwo[G]rzeniu,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+Dziękujmy [h]Bogu na[e]szemu.
+W:
+Dzięki [D]Ci, Jah[e]we, …

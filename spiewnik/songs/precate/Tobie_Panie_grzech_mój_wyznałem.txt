@@ -1,0 +1,108 @@
+===
+title: "Tobie, Panie, grzech mój wyznałem"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S105GrzechMojPanieTobieWyznalem"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "32"
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "Grzech mój, Panie, Tobie wyznałem"
+  - "1986"
+index:
+  - "Bóg"
+  - "cały"
+  - "choćby"
+  - "ciążyć"
+  - "czas"
+  - "darować"
+  - "dosięgnąć"
+  - "dzień"
+  - "grzech"
+  - "jęk"
+  - "każdy"
+  - "kości"
+  - "lato"
+  - "żaden"
+  - "móc"
+  - "milczeć"
+  - "modlić"
+  - "nieprawość"
+  - "noc"
+  - "odpuścić"
+  - "póki"
+  - "Pan"
+  - "poczytywać"
+  - "ręka"
+  - "rzec"
+  - "schnąć"
+  - "serce"
+  - "siła"
+  - "szczęśliwy"
+  - "topnieć"
+  - "toteż"
+  - "uderzać"
+  - "udręczenie"
+  - "upały"
+  - "wielki"
+  - "wierny"
+  - "wina"
+  - "woda"
+  - "wyjawić"
+  - "wyznać"
+  - "zataić"
+  - "zdrada"
+  - "zło"
+  - "złość"
+  - "zostać"
+footnote: "Grzech mój, Panie, Tobie wyznałem (przyp. red.)"
+===
+
+W:
+[a]Tobie, Panie, [d]grzech mój wyznałem,
+winy mojej [a]nie zataiłem;
+[G]rzekłem: [a]Panu wyjawię nieprawość moją,
+[G]a Ty odpuściłeś złość mojego [a]grzechu.
+
+K:
+[a]Toteż każdy wierny [d]modli się do Ciebie
+[a]w czas udręczenia;
+[G]choćby nawet ude[a]rzały wielkie wody,
+[G]nie będą go mogły do[a]sięgnąć.
+W:
+[a]Tobie, Panie, [d]grzech mój wyznałem,
+winy mojej [a]nie zataiłem;
+[G]rzekłem: [a]Panu wyjawię nieprawość moją,
+[G]a Ty odpuściłeś złość mojego [a]grzechu.
+
+K:
+[a]Szczęśliwy ten, komu [d]odpuszczona jest wina,
+komu [a]grzech został darowany!
+[G]Szczęśliwy ten, komu Bóg nie poczy[a]tuje żadnego zła,
+[G]w którego sercu nie ma [a]zdrady!
+W:
+[a]Tobie, Panie, [d]grzech mój wyznałem,
+winy mojej [a]nie zataiłem;
+[G]rzekłem: [a]Panu wyjawię nieprawość moją,
+[G]a Ty odpuściłeś złość mojego [a]grzechu.
+
+K:
+[a]Póki milczałem, [d]schnęły kości moje
+od jęków [a]mych przez cały dzień;
+[G]dniem i nocą cią[a]żyła na mnie Twoja ręka,
+[G]topniały siły moje jak od upałów [a]lata;
+lecz Tobie, Panie, [d]grzech mój wyznałem,
+winy mojej [a]nie zataiłem;
+[G]rzekłem: [a]Panu wyjawię nieprawość moją,
+[G]a Ty odpuściłeś złość mojego [a]grzechu.
+W:
+[a]Tobie, Panie, [d]grzech mój wyznałem,
+winy mojej [a]nie zataiłem;
+[G]rzekłem: [a]Panu wyjawię nieprawość moją,
+[G]a Ty odpuściłeś złość mojego [a]grzechu.

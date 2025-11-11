@@ -1,0 +1,56 @@
+===
+title: "Baranku Boży"
+subtitle: "Agnus Dei"
+section: "liturg"
+color: "liturg"
+tone: "a"
+songid: "S027BarankuBozy"
+author:
+  - "K"
+year: 2007
+address:
+  - what: "*MSZ"
+    where: ""
+knownas:
+  - "2005"
+index:
+  - "Baranek"
+  - "Boży"
+  - "gładzić"
+  - "grzech"
+  - "świat"
+  - "obdarzyć"
+  - "pokój"
+  - "zmiłować"
+footnote: "Tekst łaciński dodany za „Resucitó 2019” oraz „Risuscitò 2020”. (przyp. red.)"
+===
+
+K:
+[a]Baranku Boży
+który [G]gładzisz grzechy [a]świata,
+[F]zmiłuj się nad [E]nami,
+
+W:
+[a]Baranku Boży
+który [G]gładzisz grzechy [a]świata,
+[F]zmiłuj się nad [E]nami,
+
+[a]Baranku Boży
+który [G]gładzisz grzechy [a]świata,
+[F]obdarz nas po[E]kojem,
+[F]obdarz nas po[E]kojem.
+
+K:
+[a]Agnus Dei,
+qui [G]tollis peccata [a]mundi:
+[F]miserere [E]nobis.
+
+W:
+[a]Agnus Dei,
+qui [G]tollis peccata [a]mundi:
+[F]miserere [E]nobis.
+
+[a]Agnus Dei,
+qui [G]tollis peccata [a]mundi:
+[F]dona nobis [E]pacem,
+[F]dona nobis [E]pacem.

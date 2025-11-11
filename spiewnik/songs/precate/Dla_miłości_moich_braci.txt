@@ -1,0 +1,128 @@
+===
+title: "Dla miłości moich braci"
+subtitle: "Melodia hebrajska"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S076DlaMilosciMoichBraci"
+author:
+  - "GG"
+  - "SC"
+year: 1996
+address:
+  - what: "Ps"
+    where: "122"
+  - what: "*PAX"
+    where: ""
+  - what: "*HEB"
+    where: ""
+alttone:
+  - "fis"
+knownas:
+  - "Jeruzalem, znowu odbudowane"
+  - "Radość, gdy mi powiedziano"
+  - "1983"
+index:
+  - "brama"
+  - "brat"
+  - "dom"
+  - "Izrael"
+  - "Jeruzalem"
+  - "kochać"
+  - "święty"
+  - "la"
+  - "mówić"
+  - "miasto"
+  - "miłość"
+  - "odbudować"
+  - "pójść"
+  - "Pan"
+  - "pokój"
+  - "pokolenie"
+  - "powiedzieć"
+  - "prawo"
+  - "prosić"
+  - "przyjaciel"
+  - "radość"
+  - "razem"
+  - "stać"
+  - "stopa"
+  - "według"
+  - "wielbić"
+  - "wstępować"
+  - "znowu"
+footnote: "Oryginalna melodia pochodzi z Lema’an Achai Vereoy rabina Shlomo Carlebacha. (przyp. red.)"
+===
+
+W:
+[e]Dla miłości moich [a]braci,
+dla miłości moich przy[e]jaciół,
+będę mówił, [a]będę mówił:
+[HS]pokój niech będzie [e]tobie.
+
+K:
+Radość, gdy mi powiedziano:
+[a]pójdźmy do domu [e]Pana.
+W:
+Już stoją nasze stopy
+W twych [HS]bramach miasto [e]święte.
+
+W:
+Jeruzalem, Jeruzalem,
+[a]znowu odbudo[e]wane!
+Jeruzalem, Jeruzalem,
+[HS]znowu odbudo[e]wane!
+Jeruzalem, Jeruzalem,
+[a]znowu odbudo[e]wane!
+Jeruzalem, Jeruzalem,
+[HS]znowu odbudo[e]wane!
+
+W:
+[e]Dla miłości moich [a]braci,
+dla miłości moich przy[e]jaciół,
+będę mówił, [a]będę mówił:
+[HS]pokój niech będzie [e]tobie.
+
+K:
+Tam wstępują razem
+[a]pokolenia [e]Pana.
+W:
+Według prawa Izraela,
+[HS]aby wielbić [e]Pana.
+
+W:
+Jeruzalem, Jeruzalem,
+[a]znowu odbudo[e]wane!
+Jeruzalem, Jeruzalem,
+[HS]znowu odbudo[e]wane!
+Jeruzalem, Jeruzalem,
+[a]znowu odbudo[e]wane!
+Jeruzalem, Jeruzalem,
+[HS]znowu odbudo[e]wane!
+
+W:
+[e]Dla miłości moich [a]braci,
+dla miłości moich przy[e]jaciół,
+będę mówił, [a]będę mówił:
+[HS]pokój niech będzie [e]tobie.
+
+K:
+Proście o pokój, proście o pokój
+[a]dla Jeruza[e]lem.
+W:
+Niech mają pokój, niech mają pokój
+[HS]ci, którzy Cię ko[e]chają.
+
+W:
+Jeruzalem, Jeruzalem,
+[a]znowu odbudo[e]wane!
+Jeruzalem, Jeruzalem,
+[HS]znowu odbudo[e]wane!
+Jeruzalem, Jeruzalem,
+[a]znowu odbudo[e]wane!
+Jeruzalem, Jeruzalem,
+[HS]znowu odbudo[e]wane!
+La lalalala la, la lalalala la,
+[a]La la-la [e]la-la
+La lalalala la, la lalalala la,
+[HS]La la-la [e]la-la

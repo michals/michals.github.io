@@ -1,0 +1,86 @@
+===
+title: "Jeżeli w Panu znalazłem schronienie"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S101JezeliWPanuZnalazlemSchronienie"
+author:
+  - "K"
+year: 1996
+address:
+  - what: "Ps"
+    where: "11"
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "1983"
+index:
+  - "badać"
+  - "Bóg"
+  - "bezbożny"
+  - "cięciwa"
+  - "ciemności"
+  - "człowiek"
+  - "fundament"
+  - "góra"
+  - "góry"
+  - "każdy"
+  - "ku"
+  - "łuk"
+  - "świat"
+  - "święty"
+  - "źrenica"
+  - "móc"
+  - "mówić"
+  - "napinać"
+  - "niby"
+  - "niebo"
+  - "oko"
+  - "otwarty"
+  - "Pan"
+  - "podobać"
+  - "prawy"
+  - "przemoc"
+  - "przenikać"
+  - "przybytek"
+  - "schronienie"
+  - "serce"
+  - "sprawiedliwy"
+  - "strzała"
+  - "tron"
+  - "uciekać"
+  - "ugodzić"
+  - "wiedzieć"
+  - "wróbel"
+  - "wstrząśnięty"
+  - "zakładać"
+  - "zdziałać"
+  - "znaleźć"
+footnote: "Za „Zmartwychwstał Pan 2025”: górom→górze, Bo Pan→Bo Pan, bo Pan. (przyp. red.)"
+===
+
+KW:
+[G]Jeżeli w Panu zna[HS]lazłem schronienie,
+jak możecie mi mówić, jak możecie mi [e]mówić,
+bym uciekał niby [CS]wróbel ku [HS]górze,
+bym u[CS]ciekał niby wróbel ku [HS]górze.
+K:
+[C]Ja wiem, że bezbożni napinają [HS]łuki
+i zakła[C]dają strzały na cię[HS]ciwy,
+by u[CS]godzić w ciemności prawych [HS]sercem.
+[a]Lecz kiedy wstrząśnięte są funda[HS]menty,
+[a]co może zdziałać sprawie[HS]dliwy,
+[a]co może zdziałać sprawie[HS]dliwy?
+Ale [G]Pan, ale [HS]Pan jest w swym świętym przy[e]bytku,
+[C]Pan ma swój tron na [HS]niebie,
+Jego [CS]oczy są otwarte na [HS]świat,
+Jego źre[CS]nice badają każdego czło[HS]wieka.
+Bo [G]Pan, bo [HS]Pan przenika sprawie[e]dliwych,
+[CS]Pan przenika także bez[HS]bożnych,
+Panu [CS]Bogu nie podoba się [HS]przemoc,
+Panu [CS]Bogu nie podoba się [HS]przemoc.
+W:
+[G]Jeżeli w Panu zna[HS]lazłem schronienie,
+jak możecie mi mówić, jak możecie mi [e]mówić,
+bym uciekał niby [CS]wróbel ku [HS]górom,
+bym u[CS]ciekał niby wróbel ku [HS]górom.

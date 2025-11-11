@@ -1,0 +1,137 @@
+===
+title: "Magnificat"
+section: "precate"
+color: "precate"
+tone: "A"
+songid: "S047Magnificat"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "Łk"
+    where: "1, 46-55"
+  - what: "*MAR"
+    where: ""
+  - what: "*HYM"
+    where: ""
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "1965"
+  - "Pieśń Maryji"
+  - "Kantyk Maryji"
+  - "Oto teraz mnie błogosławić będą"
+  - "Uwielbia dusza moja Pana mego moc"
+index:
+  - "Abraham"
+  - "Bóg"
+  - "błogosławić"
+  - "bogacz"
+  - "dobra"
+  - "dusza"
+  - "głodny"
+  - "imię"
+  - "Izrael"
+  - "święty"
+  - "miłosierdzie"
+  - "moc"
+  - "możnowładca"
+  - "nasycać"
+  - "nic"
+  - "obiecać"
+  - "odprawiać"
+  - "okazywać"
+  - "Pan"
+  - "podnosić"
+  - "pokolenie"
+  - "pomny"
+  - "potomstwo"
+  - "radować"
+  - "ramię"
+  - "rozpraszać"
+  - "rzeczy"
+  - "serce"
+  - "sługa"
+  - "teraz"
+  - "tron"
+  - "uczynić"
+  - "uniżony"
+  - "uwielbiać"
+  - "wielki"
+  - "wszechmogący"
+  - "wszystek"
+  - "wyniosły"
+  - "wywracać"
+  - "wywyższać"
+  - "Zbawca"
+  - "ziemia"
+===
+
+W:
+[D]Uwielbia dusza moja
+Pana mego [E]moc.
+Raduje się me serce
+w Bogu, Zbawcy [D]mym.
+[D]Uwielbia dusza moja
+Pana mego [E]moc.
+Raduje się me serce
+(A E A)
+w Bogu, Zbawcy [D]mym.
+
+K:
+[A]Oto teraz mnie błogosławić [E]będą
+wszystkie pokolenia [A]ziemi.
+W:
+[A]Oto teraz mnie błogosławić [E]będą
+wszystkie pokolenia [A]ziemi.
+
+K:
+[AS]Gdyż wielkie [D]rzeczy
+uczynił mi Wszechmo[A]gący,
+Jego [E]imię jest [A]święte.
+W:
+[AS]Gdyż wielkie [D]rzeczy
+uczynił mi Wszechmo[A]gący,
+Jego [E]imię jest [A]święte.
+
+K:
+[A]Okazuje moc ramienia [E]swego
+i rozprasza wyniosłych [A]sercem.
+W:
+[A]Okazuje moc ramienia [E]swego
+i rozprasza wyniosłych [A]sercem.
+
+K:
+[AS]Możno[D]władcom
+wywraca [A]trony,
+a wy[E]wyższa uni[A]żonych.
+
+W:
+[AS]Głodnych na[D]syca
+swoimi do[A]brami,
+a bo[E]gaczy odprawia [A]z niczym.
+
+K:
+[A]Podnosi swego sługę Izr[E]aela,
+pomny na swoje miło[A]sierdzie.
+W:
+[A]Podnosi swego sługę Izr[E]aela,
+pomny na swoje miło[A]sierdzie.
+
+K:
+[AS]Jak o[D]biecał Abraha[A]mowi
+i [E]jego po[A]tomstwu.
+W:
+[AS]Jak o[D]biecał Abraha[A]mowi
+i [E]jego po[A]tomstwu.
+
+W:
+[D]Uwielbia dusza moja
+Pana mego [E]moc.
+Raduje się me serce
+w Bogu, Zbawcy [D]mym.
+[D]Uwielbia dusza moja
+Pana mego [E]moc.
+Raduje się me serce
+(A E A)
+w Bogu, Zbawcy [D]mym.

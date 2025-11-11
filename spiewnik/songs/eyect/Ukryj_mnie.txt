@@ -1,0 +1,125 @@
+===
+title: "Ukryj mnie"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S504UkryjMnie"
+author:
+  - "K"
+year: 1986
+address:
+  - what: "Ps"
+    where: "27"
+  - what: "*BRE"
+    where: ""
+yhwh: true
+index:
+  - "błagać"
+  - "choćby"
+  - "chwiać"
+  - "ciało"
+  - "dom"
+  - "dzień"
+  - "głębia"
+  - "głos"
+  - "Jahwe"
+  - "jedno"
+  - "światło"
+  - "lękać"
+  - "życie"
+  - "namiot"
+  - "nastawać"
+  - "niegodziwiec"
+  - "nieszczęście"
+  - "oblicze"
+  - "On"
+  - "padać"
+  - "pożreć"
+  - "poszukiwać"
+  - "powstać"
+  - "pragnąć"
+  - "przebywać"
+  - "przeciw"
+  - "przeciwko"
+  - "przeciwnik"
+  - "przybytek"
+  - "schronienie"
+  - "serce"
+  - "skała"
+  - "szukać"
+  - "trwożyć"
+  - "ufać"
+  - "ukryć"
+  - "usłyszeć"
+  - "wojna"
+  - "wojsko"
+  - "wołać"
+  - "wróg"
+  - "wszystek"
+  - "wtedy"
+  - "wybuchnąć"
+  - "wydźwignąć"
+  - "wynieść"
+  - "wysłuchać"
+  - "zakrywać"
+  - "zbawienie"
+  - "zmiłować"
+footnote: "Za „Resucitó”. W „Risuscitò” wyrugowana przez , str. . Tę samą melodię ma , str. . (przyp. red.)"
+===
+
+W:
+[a]Ukryj mnie w głębi Twego na[G]miotu,
+na Twoją [F]skałę wydźwignij [E]mnie.
+K:
+[a]Jahwe jest moim światłem i zba[F]wieniem,
+kogoż mam się [E]lękać?
+[a]Jahwe jest schronieniem mego [F]życia,
+czyż przed nim mam się [E]trwożyć?
+W:
+[a]Ukryj mnie w głębi Twego na[G]miotu,
+na Twoją [F]skałę wydźwignij [E]mnie.
+
+K:
+[a]Gdy nastają na mnie niego[F]dziwcy,
+by pożreć moje [E]ciało,
+[a]to oni, moi wro[F]gowie i przeciwnicy
+są tymi, którzy chwieją się i [E]padają.
+W:
+[a]Ukryj mnie w głębi Twego na[G]miotu,
+na Twoją [F]skałę wydźwignij [E]mnie.
+
+K:
+[a]Choćby powstało przeciwko mnie [F]wojsko
+moje serce się nie [E]lęka.
+[a]Choćby wybuchła wojna przeciw [F]mnie,
+nawet wtedy będę [E]ufał.
+W:
+[a]Ukryj mnie w głębi Twego na[G]miotu,
+na Twoją [F]skałę wydźwignij [E]mnie.
+
+K:
+[a]O jedno tylko błagam [G]Jahwe,
+jednego [F]tylko poszu[E]kuję.
+Przebywać [a]pragnę w domu [G]Jahwe
+po [F]wszystkie moje [E]dni.
+W:
+[a]Ukryj mnie w głębi Twego na[G]miotu,
+na Twoją [F]skałę wydźwignij [E]mnie.
+
+K:
+On mnie u[a]kryje w swoim na[G]miocie
+w dniu [F]mego nie[E]szczęścia.
+Ukryje [a]mnie w głębi swego przy[G]bytku,
+na swoją [F]skałę wyniesie [E]mnie.
+W:
+[a]Ukryj mnie w głębi Twego na[G]miotu,
+na Twoją [F]skałę wydźwignij [E]mnie.
+
+K:
+[a]Usłysz, Jahwe, głos mój - [G]wołam:
+zmiłuj się na[F]de mną i wys[E]łuchaj mnie!
+Szukam, o [a]Jahwe, Twojego o[G]blicza;
+swego o[F]blicza nie zakrywaj prze[E]de mną.
+W:
+[a]Ukryj mnie w głębi Twego na[G]miotu,
+na Twoją [F]skałę wydźwignij [E]mnie.

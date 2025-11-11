@@ -1,0 +1,151 @@
+===
+title: "Jezus obchodził wszystkie miasta"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S265JezusObchodzilWszystkieMiasta"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "["
+    where: "p"
+knownas:
+  - "Żniwo jest wielkie"
+  - "A oto ja was posyłam"
+index:
+  - "bagaż"
+  - "Bóg"
+  - "bardziej"
+  - "bliski"
+  - "brać"
+  - "córka"
+  - "godny"
+  - "gołąb"
+  - "iść"
+  - "jako"
+  - "Jezus"
+  - "kochać"
+  - "królestwo"
+  - "krzyż"
+  - "świat"
+  - "żniwo"
+  - "życie"
+  - "lub"
+  - "mało"
+  - "matka"
+  - "miasto"
+  - "między"
+  - "miłość"
+  - "naprawdę"
+  - "nosić"
+  - "obchodzić"
+  - "odnaleźć"
+  - "ogłaszać"
+  - "ojciec"
+  - "owca"
+  - "owieczka"
+  - "Pan"
+  - "pasterz"
+  - "pieniądz"
+  - "posłać"
+  - "posyłać"
+  - "prosić"
+  - "prosty"
+  - "przepowiadać"
+  - "przychodzić"
+  - "przyjmować"
+  - "robotnik"
+  - "roztropny"
+  - "rzec"
+  - "sandały"
+  - "słuchać"
+  - "syn"
+  - "szukać"
+  - "tłum"
+  - "torba"
+  - "tracić"
+  - "uczeń"
+  - "utracić"
+  - "wąż"
+  - "widzieć"
+  - "wielki"
+  - "wilk"
+  - "wioska"
+  - "wszystek"
+  - "wtedy"
+  - "wzruszyć"
+  - "zatem"
+  - "zmartwychwstać"
+  - "zmęczony"
+  - "znękany"
+===
+
+K:
+[a]Jezus ob[F]chodził wszystkie [a]miasta,
+i od [F]wioski do wioski przepowiadał Kró[a]lestwo.
+A [d]widząc tłumy, które za nim [ES]szły,
+wzruszył [a]się;
+KW:
+[e]bo były zmęczone,
+bo były znę[F]kane,
+jak owce bez pas[E]terza.
+
+K:
+[a]Wtedy [F]Jezus rzekł do swych [ES]uczniów:
+„[a]Żniwo jest wielkie, naprawdę [G]wielkie,
+ale robot[a]ników jest [E]mało.
+Proście zatem [C]tego, kto jest Panem [G]żniwa,
+(a)
+aby [a]posłał robotników na swe [G]żniwo.
+[C]A oto ja was po[G]syłam,
+jak o[a]wieczki między [G]wilki;
+bądźcie [C]zatem roztropni            jako [G]węże
+i [a]prości jako go[G]łębie,
+W:
+jako go[a]łębie.
+
+K:
+[C]Nie noście torby, ani pie[G]niędzy,
+ani ba[a]gaży, ani san[G]dałów
+i ogła[C]szajcie: Królestwo jest [G]blisko,
+Jezus zmar[a]twychwstał, przychodzi [G]z nami,
+W:
+przychodzi [a]z nami.
+
+K:
+[C]A kto kocha ojca lub matkę bardziej niż mnie,
+W:
+nie jest [G]godzien mnie,
+nie jest [a]godzien mnie.
+K:
+[C]A kto kocha syna lub córkę bardziej niż mnie,
+W:
+nie jest [G]godzien mnie,
+nie jest [a]godzien mnie.
+K:
+A kto nie [C]bierze swego krzyża, a idzie za mną,
+W:
+nie jest [G]godzien mnie,
+nie jest [a]godzien mnie.
+K:
+[C]A kto szuka swego życia na tym świecie,
+W:
+[G]utraci je,
+u[a]traci je.
+K:
+A kto [C]traci swoje życie z miłości do mnie,
+W:
+[G]odnajdzie je,
+odnajdzie [a]je.
+K:
+Kto słucha [G]was,
+W:
+ten słucha [a]mnie.
+K:
+Kto przyjmuje [G]was,
+W:
+przyjmuje [a]mnie.
+Kto przyjmuje [G]mnie,
+przyjmuje [F]Boga,
+przyjmuje [E]Boga!”

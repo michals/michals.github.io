@@ -1,0 +1,114 @@
+===
+title: "Ciężka droga"
+subtitle: "Pieśń pustyni"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S032CiezkaDroga"
+author:
+  - "MM"
+  - "trm"
+year: 1993
+address:
+  - what: "["
+    where: "p"
+  - what: "*OWP"
+    where: ""
+  - what: "*HYM"
+    where: ""
+alttone:
+  - "e"
+  - "c"
+knownas:
+  - "Go down Moses, let my people go"
+  - "Wysłuchaj, Ojcze"
+  - "1967"
+index:
+  - "bardzo"
+  - "brnąć"
+  - "chcieć"
+  - "ciężki"
+  - "cud"
+  - "dać"
+  - "droga"
+  - "grzech"
+  - "iść"
+  - "Izrael"
+  - "żyć"
+  - "życie"
+  - "lud"
+  - "marsz"
+  - "Mojżesz"
+  - "naród"
+  - "Ojciec"
+  - "pełny"
+  - "podążać"
+  - "pokój"
+  - "poprzez"
+  - "potrzebny"
+  - "pragnąć"
+  - "razem"
+  - "skwar"
+  - "straszny"
+  - "trud"
+  - "uratować"
+  - "wódz"
+  - "wielki"
+  - "wokół"
+  - "wołanie"
+  - "wolny"
+  - "wybawić"
+  - "wysłuchać"
+  - "wyzwalać"
+  - "wyzwolić"
+  - "zaistnieć"
+  - "Zbawiciel"
+  - "złuda"
+  - "zmartwychwstać"
+  - "znów"
+footnote: "Melodia murzyńskiej pieśni religijnej (negro spiritual) Go down Moses (przyp. hiszp.). Pieśń powstała wśród XIX-wiecznych niewolników w Stanach Zjednoczonych. Oryginalna treść dotyczy głównie Wj 7,26, gdzie Mojżesz idzie do faraona, by wypuścił naród izraelski z niewoli. W „Resucitó 1967” Pieśń pustyni ze słowami Miguela Manzano (1934-2024), hiszpańskiego muzyka, kompozytora, etnomuzykologa, pochodzącego z Zamory, gdzie był organistą w katedrze, przedstawia dalszą część historii: drogę przez pustynię w czterech rymowanych zwrotkach. (przyp. red.)"
+===
+
+K:
+[e]Ciężka [HS]droga, [e]straszny skwar,
+[HS]bardzo wolny [e]marsz.
+Mojżesz, [HS]Izra[e]ela wódz,
+[HS]on wyzwoli [e]lud.
+W:
+Wy[ES]słuchaj, [a]Ojcze,
+[HS]wołania Twego [e]ludu,
+wy[C]słuchaj, [e]Ojcze,
+[HS]Zbawiciela [e]daj.
+
+K:
+[e]Lud pragnie [HS]życia [e]i pokoju,
+[HS]zmartwychwstania [e]chce.
+Mojżesz, [HS]Izra[e]ela wódz,
+[HS]on wyzwoli [e]lud.
+W:
+Wy[ES]słuchaj, [a]Ojcze,
+[HS]wołania Twego [e]ludu,
+wy[C]słuchaj, [e]Ojcze,
+[HS]Zbawiciela [e]daj.
+
+K:
+[e]Ciężka [HS]droga, [e]straszny skwar,
+[HS]marszu wielki [e]trud.
+Mojżesz, [HS]Izra[e]ela wódz,
+[HS]on wyzwala [e]lud.
+K:
+[e]Lud chce po[HS]koju, [e]pragnie żyć
+[HS]i zaistnieć [e]znów.
+Mojżesz, [HS]Izra[e]ela wódz,
+[HS]on wyzwoli [e]lud.
+
+K:
+Po[e]dąża [HS]naród: [e]razem brną,
+[HS]wokół pełno [e]złud.
+Mojżesz, [HS]Izra[e]ela wódz,
+[HS]uratuje [e]lud.
+K:
+Tak [e]idą [HS]razem [e]poprzez grzech,
+[HS]im potrzebny [e]cud.
+Mojżesz, [HS]Izra[e]ela wódz,
+[HS]on wybawi [e]lud.

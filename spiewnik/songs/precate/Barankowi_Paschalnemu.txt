@@ -1,0 +1,111 @@
+===
+title: "Barankowi Paschalnemu"
+subtitle: "Sekwencja na Paschę"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S071BarankowiPaschalnemu"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*HYM"
+    where: ""
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*OPE"
+    where: ""
+alttone:
+  - "d"
+knownas:
+  - "Victimae paschali laudes"
+  - "Śmierć i życie spotkały się ze sobą"
+  - "Ofiara paschalna"
+index:
+  - "anioł"
+  - "Baranek"
+  - "całun"
+  - "Chrystus"
+  - "chwała"
+  - "dać"
+  - "droga"
+  - "dzisiaj"
+  - "Galilea"
+  - "grób"
+  - "grzesznik"
+  - "Król"
+  - "śmierć"
+  - "święta"
+  - "życie"
+  - "żywy"
+  - "Maria"
+  - "nadzieja"
+  - "naprawdę"
+  - "niewinny"
+  - "odkupić"
+  - "ofiara"
+  - "Ojciec"
+  - "opaska"
+  - "opowiedzieć"
+  - "owczarnia"
+  - "Pan"
+  - "paschalny"
+  - "pewny"
+  - "pojednać"
+  - "pojedynek"
+  - "przedziwny"
+  - "pusty"
+  - "siebie"
+  - "spotkać"
+  - "teraz"
+  - "tryumfować"
+  - "twórca"
+  - "umarły"
+  - "uwielbienie"
+  - "wyprzedzać"
+  - "wznieść"
+  - "zbawienie"
+  - "zmartwychwstać"
+  - "zobaczyć"
+  - "zwycięski"
+footnote: "Sekwencja na Paschę, średniowieczny hymn łaciński Victimæ paschali laudes (przyp. hiszp.). Jedna z dwóch średniowiecznych sekwencji zachowanych w liturgii katolickiej do dzisiaj (przyp. red.)."
+===
+
+K:
+[a]Barankowi Paschalnemu[AS]
+niech się wzniesie dzisiaj           święta ofiara uwiel[dNmS]bienia:
+[FSp]Baranek odkupił swą ow[E]czarnię,
+[dNmS]niewinny [F]pojednał nasgrzeszników [E]z Ojcem.
+
+K:
+[a]Śmierć i [AS]życie spotkały się ze sobą
+w przedziwnym pojedyn[dNmS]ku.
+[FSp]Twórca życia był u[E]marły,
+a [dNmS]teraz jest [F]żywy i tryum[E]fuje.
+
+„[AS]Opowiedz nam, Mario,                  coś zobaczyła na drodze:”
+„[FSp]Grób mojego Pana [E]pusty,
+[dNmS]chwałę [F]Pana i żywego Chry[E]stusa,
+[F]aniołów, opaski i [E]całun”.
+
+K:
+„Bowiem [F]Chrystus, ma nadzieja,        zmart[E]wychwstał
+[F]i nas wyprzedza do Gali[E]lei”,
+W:
+[F]i nas wyprzedza do Gali[E]lei.
+
+K:
+[d]Tak, jesteśmy [E]pewni:
+[FSp]Chrystus na[F]prawdę zmart[E]wychwstał!
+
+W:
+[d]Tak, jesteśmy [E]pewni:
+[F]Chrystus naprawdę zmart[E]wychwstał!
+
+[F]I nas wyprzedza do Gali[E]lei,
+[F]i nas wyprzedza do Gali[E]lei.
+
+K:
+[F]Ty, Królu zwycięski,                     daj nam Twoje zba[E]wienie!

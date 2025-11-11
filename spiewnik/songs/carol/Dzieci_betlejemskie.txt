@@ -1,0 +1,133 @@
+===
+title: "Dzieci betlejemskie"
+subtitle: "I bambini di Betlemme"
+section: "carol"
+color: "carol"
+tone: "G"
+songid: "S720DzieciBetlejemskie"
+author:
+  - "tr"
+year: 2017
+address:
+  - what: "Mt"
+    where: "2, 1-12"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+  - what: "*DZI"
+    where: ""
+knownas:
+  - "Małe dzieci betlejemskie"
+children: true
+index:
+  - "bawić"
+  - "betlejemski"
+  - "biedny"
+  - "chory"
+  - "daleki"
+  - "drugi"
+  - "dziecko"
+  - "dziś"
+  - "gwiazda"
+  - "iść"
+  - "jechać"
+  - "Jezus"
+  - "konie"
+  - "król"
+  - "Król"
+  - "kwiat"
+  - "świecić"
+  - "mag"
+  - "mały"
+  - "móc"
+  - "miasto"
+  - "mnóstwo"
+  - "narodzić"
+  - "niebo"
+  - "noc"
+  - "odkryć"
+  - "On"
+  - "perfumy"
+  - "pierwszy"
+  - "plac"
+  - "pochodzić"
+  - "przeto"
+  - "przybyć"
+  - "przybywać"
+  - "przyjść"
+  - "razem"
+  - "rosnąć"
+  - "skąd"
+  - "srebro"
+  - "też"
+  - "trzeci"
+  - "trzy"
+  - "uczcić"
+  - "widzieć"
+  - "wielbłąd"
+  - "wielki"
+  - "właśnie"
+  - "wpatrywać"
+  - "wschód"
+  - "wszędzie"
+  - "wszyscy"
+  - "wszystek"
+  - "zasnąć"
+  - "Zbawiciel"
+  - "złoto"
+  - "zobaczyć"
+  - "zrodzić"
+footnote: "Kolęda włoska z płyty Seminarzystów Redemptoris Mater „Kolędy Świata” 2006. Tekst przekładu to kompilacja z broszury płyty CD oraz z innych źródeł. Adaptacja do rytmu własna. W nutach także włoska wersja oryginalna."
+===
+
+W:
+[G]Małe dzieci betlejemskie
+bawią [DS]się na placu [G]miasta.
+Oto idą trzej królowie:
+pierwszy, [DS]drugi, trzeci [G]też.
+Ale [HS]skąd wy przyby[e]wacie
+na tych [AS]koniach i wiel[D]błądach.
+Kim je[G]steście, kim jesteście,
+żeście [DS]przyszli właśnie [G]tu.
+
+D:
+1 Pochodzę z Dalekiego Wschodu,
+tam, gdzie złota i srebra     mnóstwo [DS]wszędzie.
+Ale [C]nocą nie mogę [G]zasnąć,
+bo gwiazdę wi[D]działem,tę gwiazdę na [GS]niebie.
+W:
+Ale [C]nocą nie może on [G]zasnąć,
+bo gwiazdę zo[D]baczył, tę gwiazdę na [G]niebie.
+
+D:
+2 Pochodzę z Dalekiego Wschodu,
+tam, gdzie kwiatów i perfum ...
+
+W:
+Ale [C]nocą nie może on [G]zasnąć ...
+
+D:
+3 Pochodzę z Dalekiego Wschodu,
+tam, gdzie biednych i chorych ...
+W:
+Ale [C]nocą nie może on [G]zasnąć ...
+
+D:
+W Jesteśmy z Dalekiego Wschodu,
+widzieliśmy, jak Jego gwiazda [DS]rośnie.
+Przy[C]byliśmy tu aby [G]uczcić Go,
+bowiem [D]dziś się narodził nam [GS]Król.
+W:
+Przy[C]byliśmy tu aby [G]uczcić Go,
+bowiem [D]dziś się narodził nam [G]Król.
+
+W:
+[G]Małe dzieci betlejemskie
+wszystkie [DS]się wpatrują w [G]niebo.
+Oto świeci wielka gwiazda
+tam, gdzie [DS]właśnie Jezus [G]jest.
+Przeto [HS]jedźmy wszyscy [e]razem
+na tych [AS]koniach i wiel[D]błądach
+za ma[G]gami, co odkryli,
+gdzie Zba[DS]wiciel zrodził [G]się.

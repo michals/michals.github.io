@@ -1,0 +1,195 @@
+===
+title: "Mizerna cicha stajenka licha"
+section: "carol"
+color: "carol"
+tone: "e"
+songid: "S715MizernaCicha"
+author:
+  - "TL"
+  - "JG"
+year: 1849
+address:
+  - what: "Łk"
+    where: "2, 16"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+index:
+  - "anioł"
+  - "Bóg"
+  - "Bóg-człowiek"
+  - "biały"
+  - "blask"
+  - "cały"
+  - "choć"
+  - "chwała"
+  - "ciało"
+  - "cichy"
+  - "cisza"
+  - "czart"
+  - "czas"
+  - "czekać"
+  - "czysta"
+  - "dawać"
+  - "długi"
+  - "dobry"
+  - "drżeć"
+  - "dusza"
+  - "Dziecię"
+  - "dziecina"
+  - "gościć"
+  - "hej"
+  - "jako"
+  - "jeszcze"
+  - "Jezus"
+  - "klęczeć"
+  - "kościół"
+  - "kolano"
+  - "śpiący"
+  - "świat"
+  - "światłość"
+  - "leżący"
+  - "lichy"
+  - "lico"
+  - "lilija"
+  - "lot"
+  - "ludzie"
+  - "lulać"
+  - "mądrość"
+  - "mały"
+  - "malować"
+  - "Maryja"
+  - "migać"
+  - "mizerny"
+  - "mnogi"
+  - "nadzieja"
+  - "natchnienie"
+  - "niebieski"
+  - "niebo"
+  - "niedola"
+  - "oglądać"
+  - "oko"
+  - "On"
+  - "orzeźwić"
+  - "otwarty"
+  - "pan"
+  - "Pan"
+  - "pastuszek"
+  - "pełny"
+  - "piekło"
+  - "płynąć"
+  - "pobożny"
+  - "pochylony"
+  - "pokój"
+  - "promień"
+  - "promienny"
+  - "prosty"
+  - "przepaść"
+  - "przy"
+  - "ptaszyna"
+  - "rad"
+  - "radość"
+  - "rosić"
+  - "rozbudzić"
+  - "rozgorzeć"
+  - "roztaczać"
+  - "rozwarty"
+  - "rumiany"
+  - "rzesza"
+  - "senny"
+  - "serce"
+  - "siebie"
+  - "skończony"
+  - "skrzydło"
+  - "Słowo"
+  - "spać"
+  - "stać"
+  - "stajenka"
+  - "stanąć"
+  - "staruszek"
+  - "strzecha"
+  - "stworzenie"
+  - "taki"
+  - "tęcza"
+  - "ubogi"
+  - "uśmiech"
+  - "uśmiechać"
+  - "umiłować"
+  - "upadek"
+  - "upaść"
+  - "usta"
+  - "wcielony"
+  - "wiać"
+  - "wiele"
+  - "wielki"
+  - "włosy"
+  - "wola"
+  - "wszelki"
+  - "wszyscy"
+  - "wzdychać"
+  - "wznosić"
+  - "zawarty"
+  - "zbawienie"
+  - "zdziwienie"
+  - "ziemia"
+  - "złoty"
+  - "zstępować"
+footnote: "Kolęda polska. Słowa napisał Teofil Lenartowicz w swojej Szopce (Wrocław 1849). Pierwotną melodię napisał ks. Jakub Wrzeciono, ale najbardziej znaną jest wersja Jana Galla. Wielu uważa, że zajmuje ona drugie miejsce po „Bóg się rodzi” Franciszka Karpińskiego. Chociaż trudno wskazać ściśle powiązane wersety biblijne, to w formie liryku fabularnego przywoływana jest rzeczywistość ewangeliczna: „Jezus mały”, leżący, śpiący, pastuszkowie, ludzie prości i ubodzy - my, jeśli w pokorze padniemy na kolana. Boskość - to niebieska chwała, promienie, aniołowie, Bóg-człowiek. Boga określają: „Mądrość mądrości” i „światłość
+światłości”: obie pochodzenia ewangelicznego - kalka łacińskiej formy genetivus obiectivus, a genetycznie hebraizm (jak „pieśń nad pieśniami”, czy „król królów”) spopularyzowane dzięki Wulgacie ks. Jakuba Wujka. Tworzą, podobnie jak wers „Słowo ciałem się stało”, kontekst teologiczny kolędy."
+===
+
+[e]Mizerna, [a]cicha, [e]stajenka [HS]licha,
+[e]Pełna nie[C]bieskiej [G]chwa[H]ły;
+[e]Oto le[a]żący, [e]przed nami [HS]śpiący,
+[C]W promieniach [G]Je[HS]zus [e]mały.
+
+Nad nim Anieli w locie stanęli
+I pochyleni klęczą;
+Z włosy złotemi, z skrzydły białemi
+Pod malowaną tęczą.
+
+Wielkie zdziwienie,                                    wszelkie stworzenie,
+Cały świat orzeźwiony;
+Mądrość Mądrości,                                      światłość światłości,
+Bóg-człowiek tu wcielony.
+
+I oto mnodzy ludzie ubodzy
+Radzi oglądać Pana;
+Pełni natchnienia, pełni zbawienia,
+Upadli na kolana.
+
+Długo czekali, długo wzdychali,
+Aż niebo rozgorzało,
+Piekło zawarte, niebo otwarte,
+Słowo ciałem się stało.
+
+Śpi jeszcze senne Dziecię promienne,
+W ciszy ubogiej strzechy;
+Na licach białych, na ustach małych,
+Migają się uśmiechy.
+
+Jako w kościele choć ludzi wiele
+Cisza pobożna wieje;
+Oczy się roszą, dusze się wznoszą,
+Płyną w serca nadzieje.
+
+Lulaj dziecino, lulaj ptaszyno,
+Nasze umiłowanie;
+Gdy się rozbudzi, w tej rzeszy ludzi,
+Zbawienie nam się stanie.
+
+Oto Maryja, czysta lilija,
+Przy niej Staruszek drżący,
+Stoją przed nami, przed pastuszkami,
+Tacy uśmiechający.
+
+Hej! Ludzie prości, Bóg z nami gości,
+Skończony czas niedoli.
+On daje siebie, chwała na niebie,
+Pokój ludziom dobrej woli.
+
+Radość na ziemi, bo nad wszystkiemi,
+Roztacza blask rumiany.
+Przepaść rozwarta, upadek czarta,
+Zstępuje Pan nad pany.

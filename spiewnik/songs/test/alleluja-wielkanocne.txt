@@ -1,0 +1,37 @@
+===
+title: Alleluja wielkanocne
+author: Jan Kowalski
+year: 2020
+section: wielkanoc
+keywords:
+  - radość
+  - zmartwychwstanie
+contributors:
+  music: Anna Nowak
+  lyrics: Jan Kowalski
+notes: |
+  Pieśń wielkanocna o radości ze zmartwychwstania
+  Chrystusa. Śpiewana w czasie liturgii wielkanocnej.
+===
+
+K:
+Pierwsza zwrotka o radości
+która płynie z serca
+gdy Chrystus zmartwychwstał
+
+W:
+Alleluja, alleluja
+Chrystus zmartwychwstał
+Alleluja, alleluja
+Chrystus zmartwychwstał
+
+K:
+Druga zwrotka o nadziei
+którą daje nam Pan
+w zmartwychwstaniu swoim
+
+W:
+Alleluja, alleluja
+Chrystus zmartwychwstał
+Alleluja, alleluja
+Chrystus zmartwychwstał

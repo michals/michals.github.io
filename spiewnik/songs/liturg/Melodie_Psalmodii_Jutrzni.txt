@@ -1,0 +1,185 @@
+===
+title: "Melodie Psalmodii Jutrzni"
+subtitle: "Etap Ojcze nasz; Adwent i Wielki Post"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "S401Psalmodia01"
+author:
+  - "K"
+  - "GA"
+  - "FD"
+  - "GF"
+year: 2023
+address:
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "2023"
+  - "Psalmodie Jutrzni"
+index:
+  - "bać"
+  - "bóg"
+  - "Bóg"
+  - "bogaty"
+  - "choćby"
+  - "chwała"
+  - "chwalić"
+  - "czas"
+  - "deszcz"
+  - "dobry"
+  - "droga"
+  - "dziękować"
+  - "dzieło"
+  - "góry"
+  - "głos"
+  - "głosić"
+  - "godny"
+  - "grzech"
+  - "imię"
+  - "Jakub"
+  - "karmić"
+  - "Król"
+  - "kraniec"
+  - "ku"
+  - "łaska"
+  - "łaskawość"
+  - "łaskawy"
+  - "śpiewać"
+  - "świat"
+  - "święty"
+  - "żyć"
+  - "los"
+  - "lud"
+  - "mieszkać"
+  - "mieszkaniec"
+  - "możny"
+  - "morze"
+  - "najpewniejszy"
+  - "najwyższy"
+  - "nakłonić"
+  - "napełniać"
+  - "naród"
+  - "narodzić"
+  - "niebiosa"
+  - "niski"
+  - "noc"
+  - "nowy"
+  - "odmienić"
+  - "odpuścić"
+  - "okazać"
+  - "oko"
+  - "On"
+  - "otchłań"
+  - "otwierać"
+  - "padać"
+  - "Pan"
+  - "pieśń"
+  - "pochodzenie"
+  - "podnosić"
+  - "podtrzymywać"
+  - "podziw"
+  - "pokolenie"
+  - "pomoc"
+  - "pouczenie"
+  - "powiedzieć"
+  - "powstać"
+  - "przeto"
+  - "równy"
+  - "rano"
+  - "ręka"
+  - "razem"
+  - "rosa"
+  - "siła"
+  - "sławić"
+  - "słowa"
+  - "słowo"
+  - "słuchać"
+  - "spływać"
+  - "sprawiedliwy"
+  - "syty"
+  - "trudność"
+  - "ubogi"
+  - "ucho"
+  - "ucieczka"
+  - "uczcić"
+  - "upadać"
+  - "uważać"
+  - "wiek"
+  - "wielki"
+  - "wierność"
+  - "wierny"
+  - "wina"
+  - "właściwy"
+  - "wszechwładny"
+  - "wszyscy"
+  - "wszystek"
+  - "wszystko"
+  - "wyspa"
+  - "zakryć"
+  - "zanim"
+  - "zapaść"
+  - "zatrząść"
+  - "zgnębiony"
+  - "ziemia"
+  - "zwracać"
+footnote: "Akordy tutaj dla Psalmu 46 ma w nutach Psalmodia 7, Iz 38,10nn. (przyp. red.)"
+===
+
+1. Psalm 92
+
+K:
+[g]Dobrze jest dziękować [AS]Panu,
+W:
+[g]śpiewać Twojemu imieniu, Naj[AS]wyższy,
+K:
+[d]Rano głosić łaskawość [A]Twoją,
+W:
+a [B]wierność Twoją no[A]cami,
+
+2. Psalm 46
+
+K:
+[a]Bóg jest dla nas ucieczką i [G]siłą,
+najpewniejszą pomocą w trud[a]nościach.
+W:
+[G]Przeto nie będziemy się bali,choćby zatrzęsła się [a]ziemia
+[G]i góry zapadły w otchłań [a]morza.
+
+3. Psalm 136
+
+K:
+[d]Chwalcie Pana, bo jest [g]dobry,
+W:
+bo Jego łaska na [d]wieki.
+K:
+[d]Chwalcie Boga nad bo[g]gami,
+W:
+bo Jego łaska na [d]wieki.
+
+4. Pwt 32
+
+K:
+[a]Uważajcie, niebiosa, na to, co [E]powiem,
+[d]słuchaj, ziemio, głosu mo[E]jego.
+W:
+[a]Jak deszcz niech spływa moje pou[E]czenie,
+[d]jak rosa niech pada me [E]słowo,
+
+5. Psalm 145 (Nun)
+
+K:
+[e]Pan jest wierny we wszystkich swoich [G]słowach
+[A]i we wszystkich swoich dziełach [e]święty.
+W:
+[e]Pan podtrzymuje wszystkich, którzy upa[G]dają,
+i pod[A]nosi wszystkich zgnę[e]bionych.
+K:
+[G]Oczy wszystkich zwracają się ku [e]Tobie,
+[a]a Ty ich karmisz we właściwym [e]czasie.
+W:
+[e]Ty otwierasz swą [G]rękę
+i [A]karmisz do syta wszystko, co [e]żyje.
+
+Wybór melodii za „Risuscitò 2023”. Teksty z brewiarza.
+W nutach zapis ponad dwudziestu pięciu melodii z akordami. (przyp. red.)

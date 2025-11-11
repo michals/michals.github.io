@@ -1,0 +1,10 @@
+===
+title: Notacja INT (C#, D#, A#)
+notation: int
+===
+
+KW:
+Test notacji międzynarodowej
+Ak[C#7]ord_C#7 Ak[D#7]ord_D#7
+Ak[F#7]ord_F#7 Ak[G#7]ord_G#7
+Ak[A#7]ord_A#7 Ak[B7]ord_B7

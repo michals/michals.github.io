@@ -1,0 +1,92 @@
+===
+title: "Siedź samotnie i w milczeniu"
+section: "cate"
+color: "cate"
+tone: "D"
+songid: "S201SiedzSamotnieIwMilczeniu"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "Lm"
+    where: "3"
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "Bóg mnie zaprowadził w ciemności"
+  - "Lamentacje Jeremiasza"
+  - "1977"
+index:
+  - "Bóg"
+  - "bić"
+  - "cel"
+  - "ciemności"
+  - "doprowadzić"
+  - "głowa"
+  - "jarzmo"
+  - "jęczeć"
+  - "krzyczeć"
+  - "łuk"
+  - "ścisnąć"
+  - "litość"
+  - "żółć"
+  - "życie"
+  - "miłość"
+  - "milczenie"
+  - "modlitwa"
+  - "może"
+  - "nadstawić"
+  - "nadzieja"
+  - "nałożyć"
+  - "napiąć"
+  - "odrzucać"
+  - "okazywać"
+  - "On"
+  - "opuścić"
+  - "Pan"
+  - "piołun"
+  - "począć"
+  - "policzek"
+  - "potem"
+  - "proch"
+  - "przychodzić"
+  - "samotny"
+  - "schylić"
+  - "siedzieć"
+  - "skoro"
+  - "sprawić"
+  - "strzała"
+  - "szczęka"
+  - "tłumić"
+  - "uczynić"
+  - "usta"
+  - "według"
+  - "widzieć"
+  - "wielki"
+  - "zaprowadzić"
+  - "zasmucać"
+  - "zawsze"
+  - "zbłąkany"
+footnote: "Oryginalny tekst hiszpański brzmi tutaj Dios mío, Dios mío, czyli Mój Bóg, mój Bóg, który został przetłumaczony na włoskie dwusylabowe Di-o, Di-o. Przy tłumaczeniu z włoskiego po słowie mój w melodii pozostała nieobsadzona tekstem nuta, której usunięcie zmienia oryginalną melodię. (przyp. red.)"
+===
+
+K:
+[D][Mój] Bóg, [mój] Bóg [fis]mnie zaprowadził,                                         mnie zaprowadzi[h]ł w ciem[D]ności.
+Sprawił dla mnie jarzmo[fis] i ścisnął moją głowę,                                                moją głow[h]ę i sz[D]czękę.
+Bóg napiął swój łuk                                             [fis]i uczynił mnie [h]celem swoich [D]strzał.
+Nawet gdy jęczę i krzyczę, [fis]On tłumi,                                           On tłum[h]i moją mo[D]dlitwę.
+[e]Widzieć, do czego mnie doprowadził                         w mym życiu zbłą[A]kanym:                           jest piołunem i [D]żółcią.
+(A G F♯)
+Co ja [Fis]pocznę, jeśli mnie opuści na[h]dzieja,[A]nadzieja, która przychodzi od [G]Pana,która przychodzi od [Fis]Pana.
+
+W:
+[D]Siedź samotnie i w mil[fis]czeniu,
+[h]skoro Bóg ci to na[D]łożył.
+Schyl w proch twoje [fis]usta,
+[h]może jest na[D]dzieja.
+[e]Nadstaw policzek temu, kto cię [AS]bije:
+{{{ 2x
+bo [G]Pan, bo Pan na zawsze nie od[A]rzuca,
+[G]nawet gdy zasmuca, okazuje potem [A]litość,
+}}}
+[AS]według wielkiej swej mi[D]łości.

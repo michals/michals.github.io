@@ -1,0 +1,120 @@
+===
+title: "Śpiew dzieci w noc paschalną"
+subtitle: "Melodia hebrajska"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S083CoTakiegoJestInnegoWtejNocy"
+author:
+  - "K"
+  - "EA"
+year: 1992
+address:
+  - what: "*DZI"
+    where: ""
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*HEB"
+    where: ""
+alttone:
+  - "d"
+knownas:
+  - "Haggada z Paschy hebrajskiej"
+  - "Co takiego jest innego w tej nocy?"
+  - "Ma Nishtaná"
+children: true
+index:
+  - "coś"
+  - "czekać"
+  - "iść"
+  - "inny"
+  - "kolacja"
+  - "nic"
+  - "noc"
+  - "pościć"
+  - "razem"
+  - "spać"
+  - "starszy"
+  - "takiego"
+  - "wczesny"
+  - "wszyscy"
+  - "wszyscyśmy"
+  - "wszystek"
+  - "zaraz"
+  - "zostawać"
+footnote: "Melodia Ma Nishtaná - Co takiego jest innego? została zaadaptowana przez Kiko z kompozycji Efraima Abilea (Niswickiego) z 1936 roku (fragment oratorium Chag Ha-Cherut). Co takiego jest innego w tej nocyŚpiew dzieci w Noc PaschalnąWłoski dotyczy funkcji, a hiszpański sięga do oryginału hebrajskiego Śpiew dzieci podczas czuwania w Noc Paschalną (przyp. red.)"
+===
+
+D:
+[a]Co takiego jest innego w tej nocy
+od [d]wszystkich innych [a]nocy?
+W:
+Od [d]wszystkich innych [a]nocy?
+
+D:
+[a]Bo w inne noce idziemy spać wcześnie
+i [d]nie zostajemy ze star[a]szymi.
+W:
+I [d]nie zostajemy ze star[a]szymi.
+
+D:
+A [d]tej tu nocy, a [a]tej tu nocy
+je[E]steśmy z wami [a]razem.
+W:
+A [d]tej tu nocy, a [a]tej tu nocy
+je[E]steśmy z wami [a]razem.
+
+D:
+[a]Co takiego jest innego w tej nocy
+od [d]wszystkich innych [a]nocy?
+W:
+Od [d]wszystkich innych [a]nocy?
+
+D:
+[a]Bo w inne noce idziemy spać wcześnie
+[d]zaraz po ko[a]lacji.
+W:
+[d]Zaraz po ko[a]lacji.
+
+D:
+A [d]tej tu nocy, a [a]tej tu nocy
+[E]wszyscyśmy po[a]ścili.
+W:
+A [d]tej tu nocy, a [a]tej tu nocy
+[E]wszyscyśmy po[a]ścili.
+
+D:
+[a]Co takiego jest innego w tej nocy
+od [d]wszystkich innych [a]nocy?
+W:
+Od [d]wszystkich innych [a]nocy?
+
+D:
+[a]Bo w inne noce idziemy spać wcześnie
+i [d]nie czekamy [a]na nic.
+W:
+I [d]nie czekamy [a]na nic.
+
+D:
+A [d]tej tu nocy, a [a]tej tu nocy
+[E]na coś cze[a]kamy.
+W:
+A [d]tej tu nocy, a [a]tej tu nocy
+[E]na coś cze[a]kamy.
+
+D:
+[a]Co takiego jest innego w tej nocy
+od [d]wszystkich innych [a]nocy?
+W:
+Od [d]wszystkich innych [a]nocy?
+
+D:
+Że jes[d]teśmy z wami razem,
+że [a]wszyscy pościmy,
+że [E]na coś cze[a]kamy.
+W:
+Że jes[d]teśmy z wami razem,
+że [a]wszyscy pościmy,
+że [E]na coś cze[a]kamy.

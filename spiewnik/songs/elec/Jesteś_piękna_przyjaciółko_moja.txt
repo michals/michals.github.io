@@ -1,0 +1,107 @@
+===
+title: "Jesteś piękna, przyjaciółko moja"
+section: "elec"
+color: "elec"
+tone: "d"
+songid: "S293JestesPieknaPrzyjaciolkoMoja"
+author:
+  - "K"
+year: 2003
+address:
+  - what: "Pnp"
+    where: "6-7"
+  - what: "*OPA"
+    where: ""
+knownas:
+  - "Jak Tirsa"
+  - "Piękna jesteś, przyjaciółko moja"
+  - "Jak piękne są twoje stopy w sandałach"
+  - "2003"
+index:
+  - "aj"
+  - "artysta"
+  - "biodro"
+  - "córka"
+  - "Cheszbon"
+  - "czasza"
+  - "dzieło"
+  - "góra"
+  - "głowa"
+  - "jaśnieć"
+  - "Jerozolima"
+  - "jutrzenka"
+  - "Karmel"
+  - "kości"
+  - "król"
+  - "książęcy"
+  - "księżyc"
+  - "linia"
+  - "miłość"
+  - "oko"
+  - "okrągły"
+  - "pępek"
+  - "piękny"
+  - "przepiękny"
+  - "przyjaciółka"
+  - "purpura"
+  - "ręka"
+  - "rozkosz"
+  - "sadzawka"
+  - "sandały"
+  - "słońce"
+  - "słoniowy"
+  - "stopa"
+  - "szyja"
+  - "ta"
+  - "Tirsa"
+  - "uwięzić"
+  - "wieża"
+  - "włosy"
+  - "wschodzić"
+  - "zostać"
+footnote: "Za „Zmartwychwstał Pan 2025”: oczy jak→oczy są jak, w nich uwięziony→w niej uwięziony, Jerozolima→Jerozolimo. (przyp. red.)"
+===
+
+KW:
+[d]Jesteś piękna, przyjaciółko moja,
+jak [AS]Tirsa,
+przepiękna jak Jerozo[d]lima,
+Jerozo[g]lima, Jerozo[AS]lima,
+Jerozo[g]lima, Jerozo[AS]lima.
+
+K:
+[g]Jak piękne są twoje stopy w sandałach, córko ksią[AS]żęca!
+[g]Linia twych bioder dziełem rąk ar[AS]tysty;
+twój [B]pępek jest jak okrągła [AS]czasza;
+[B]twoja szyja jak wieża z kości sło[AS]niowej;
+twoje [g]oczy są jak‡‡‡ sadzawki Chesz[AS]bonu;
+twoja [g]głowa jest jak góra [AS]Karmel;
+twoje [B]włosy są jak pur[AS]pura;
+[g]król został w niej‡‡‡ uwię[AS]ziony.
+
+W:
+[d]Jesteś piękna, przyjaciółko moja,
+jak [AS]Tirsa,
+przepiękna jak Jerozo[d]lima,
+Jerozo[g]lima, Jerozo[AS]lima,
+Jerozo[g]lima, Jerozo[AS]lima.
+
+K:
+[DS]Kim jest ta, która wschodzi jak ju[g]trzenka,
+[B]piękna jak [AS]księżyc,
+jaśnie[B]jąca jak [AS]słońce?
+[d]Jak jesteś piękna, o mi[AS]łości,
+jak jesteś piękna, o roz[d]koszy.
+[g]Przepiękna jak Jerozo[AS]lima,
+[g]przepiękna jak Jerozo[AS]lima.
+
+W:
+[d]Jesteś piękna, przyjaciółko moja,
+jak [AS]Tirsa,
+przepiękna jak Jerozo[d]lima,
+Jerozo[g]lima, Jerozo[AS]lima,
+Jerozo[g]lima, Jerozo[AS]lima.
+
+K:
+[AS]Jerozolimo, A[g]aj, Jero[AS]zolimo,‡‡‡
+Jerozo[B]limo, Jerozo[AS]limo.‡‡‡

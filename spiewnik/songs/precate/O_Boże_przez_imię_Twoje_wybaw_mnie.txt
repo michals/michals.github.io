@@ -1,0 +1,80 @@
+===
+title: "O Boże, przez imię Twoje wybaw mnie"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S136OBozePrzezImieTwoje"
+author:
+  - "K"
+year: 2000
+address:
+  - what: "Ps"
+    where: "54"
+knownas:
+  - "O Boże, wysłuchaj mej modlitwy"
+  - "2000"
+  - "Rzym 2000"
+index:
+  - "Bóg"
+  - "cały"
+  - "czyhać"
+  - "dać"
+  - "dobry"
+  - "gwałtownik"
+  - "imię"
+  - "każdy"
+  - "życie"
+  - "modlitwa"
+  - "nakłonić"
+  - "ofiara"
+  - "oko"
+  - "Pan"
+  - "podtrzymywać"
+  - "pomoc"
+  - "potęga"
+  - "powstać"
+  - "przeciwko"
+  - "serce"
+  - "słowa"
+  - "słuszność"
+  - "sprawa"
+  - "stawiać"
+  - "ucho"
+  - "udręka"
+  - "usta"
+  - "wielbić"
+  - "wybawić"
+  - "wysłuchać"
+  - "wyzwolić"
+  - "złożyć"
+  - "zuchwalec"
+footnote: "„Zmartwychwstał Pan 2025” zaproponował: słuszność daj mej sprawie→wymierz sprawiedliwość. Słabo, gdy hiszpańskie por tu poder hazme justicia oraz włoskie per la tua potenza rendimi giustizia, które znaczą swoją mocą oddaj mi sprawiedliwość ktoś sprowadza do wymierzania sprawiedliwości, zamiast do szerszego pojęcia, obejmującego przyznanie komuś należnego uznania, pochwały lub oceny. (przyp. red.)"
+===
+
+KW:
+[a]O Boże, przez imię Twoje [FS]wybaw mnie,
+[d]przez Twoją potęgę słuszność daj mej [E]sprawie.
+[a]O Boże, wysłuchaj mej mod[FS]litwy,
+[d]nakłoń ucha na słowa ust [E]moich.
+
+K:
+[AS]Albowiem powstali przeciwko mnie zuch[d]walcy
+i gwałtow[BS]nicy czyhają na me [AS]życie.
+Przed [BS]swymi oczami nie stawiają [AS]Boga,
+przed [BS]swymi oczami nie stawiają [AS]Boga.
+W:
+Lecz [d]oto Bóg jest mą po[AS]mocą,
+i [d]Pan, i Pan mnie podtrzy[AS]muje.
+K:
+[g]Z całego serca złożę Ci o[AS]fiarę,
+[g]będę wielbił Twoje imię, bo jest [AS]dobre.
+Z każdej ud[B]ręki Ty mnie wyzwo[A]liłeś.
+[C]Z każdej udręki mnie wyzwo[A]liłeś.
+∼
+[C]Z każdej udręki [E]mnie wyzwoliłeś.
+
+W:
+[a]O Boże, przez imię Twoje [FS]wybaw mnie,
+[d]przez Twoją potęgę słuszność daj mej [E]sprawie.
+[a]O Boże, wysłuchaj mej mod[FS]litwy,
+[d]nakłoń ucha na słowa ust [E]moich.

@@ -1,0 +1,119 @@
+===
+title: "Jakub"
+section: "cate"
+color: "cate"
+tone: "a"
+songid: "S204Jakub"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Rdz"
+    where: "32, 23-29"
+knownas:
+  - "Izrael będzie twe imię"
+  - "Noc już zapadła, gdy Jakub powstał"
+  - "Walka Jakuba"
+  - "1977"
+index:
+  - "Bóg"
+  - "bezsilność"
+  - "biodrowy"
+  - "bród"
+  - "cały"
+  - "czas"
+  - "dłużej"
+  - "dziecko"
+  - "imię"
+  - "Izrael"
+  - "Jabbok"
+  - "jaki"
+  - "Jakub"
+  - "jeden"
+  - "jutrzenka"
+  - "ktoś"
+  - "żona"
+  - "móc"
+  - "mienie"
+  - "noc"
+  - "odpowiedzieć"
+  - "oparcie"
+  - "pobłogosławić"
+  - "potężny"
+  - "potem"
+  - "potok"
+  - "powstać"
+  - "poznać"
+  - "pozostać"
+  - "przemóc"
+  - "przenieść"
+  - "przeprawić"
+  - "sam"
+  - "staw"
+  - "uderzyć"
+  - "walka"
+  - "widzieć"
+  - "wstawać"
+  - "wszystek"
+  - "wtedy"
+  - "wypuścić"
+  - "zabrać"
+  - "zapaść"
+  - "zapytać"
+  - "zmagać"
+  - "zostawić"
+  - "zwać"
+  - "zwichnąć"
+  - "zwyciężać"
+footnote: "Ta fraza powinna być podzielona pomiędzy słowami Wtedy oraz ktoś, aby wpasować się w oryginalną melodię. Stąd przesunięcie pierwszego akordu. (przyp. red.)"
+===
+
+K:
+[a]Noc już zapadła,
+gdy Jakub powstał,
+zabrał swe [F]żony
+i wszystkie swe [ES]dzieci,
+i przeprawił się przez bród Jab[a]boku.
+Kiedy już ich zabrał
+i przeprawił przez potok,
+[F]przeniósł potem
+całe swe [E]mienie:
+i pozostał sam [a]jeden.
+KW:
+[G]Wtedy ktoś zmagał się [a]z nim.††
+K:
+Wtedy [G]ktoś zmagał się z nim
+aż do jut[a]rzenki.
+A widząc,
+że nie może go [F]przemóc,
+uderzył w staw biodrowy,
+a staw Jakuba się [E]zwichnął
+w czasie walki [a]z nim.
+KW:
+[G]Zostaw mnie, bo już wstaje jut[a]rzenka.
+
+K:
+[G]Zostaw mnie, bo już wstaje jut[a]rzenka.
+KW:
+[C]Ja nie wy[D]puszczę Cię,
+jeśli [F]mnie nie pobłogo[E]sławisz.
+K:
+A [ES]Bóg go za[a]pytał:
+„Jakie jest twe imię”
+„Jakie jest twe imię”
+„[F]Jakub” odpowiedział on,
+„Jakub” odpowiedział [E]on.
+[ES]Nie będziesz zwał się dłużej Ja[a]kubem.
+W:
+Izra[G]el, Izra[a]el,
+Izra[G]el będzie twe [a]imię.
+Izra[G]el: poznałeś swoją bez[a]silność.
+Izra[G]el: Bóg będzie twoim o[a]parciem,
+Izra[G]el: potężny [a]w Bogu,
+Izra[G]el: będziesz zwy[a]ciężać.
+Izra[G]el: poznałeś swoją bez[a]silność.
+Izra[G]el: Bóg będzie twoim o[a]parciem.
+W:
+Izra[G]el, Izra[a]el, Izra[G]el,‡
+K:
+Izrael będzie twe [a]imię.‡

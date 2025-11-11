@@ -1,0 +1,111 @@
+===
+title: "Wznoszę me oczy ku górom"
+section: "precate"
+color: "precate"
+tone: "G"
+songid: "S067WznoszeMeOczyKuGorom"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "Ps"
+    where: "121"
+  - what: "*OWP"
+    where: ""
+  - what: "*BRE"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+knownas:
+  - "1979"
+index:
+  - "chronić"
+  - "cień"
+  - "czuwać"
+  - "drzemać"
+  - "dzień"
+  - "góry"
+  - "Izrael"
+  - "każdy"
+  - "księżyc"
+  - "ku"
+  - "życie"
+  - "nadejść"
+  - "niebo"
+  - "noc"
+  - "noga"
+  - "odpoczywać"
+  - "oko"
+  - "On"
+  - "osłaniać"
+  - "Pan"
+  - "porazić"
+  - "potknąć"
+  - "pozwolić"
+  - "przychodzić"
+  - "ratunek"
+  - "skądże"
+  - "słońce"
+  - "stróż"
+  - "stworzyć"
+  - "teraz"
+  - "wiek"
+  - "wracać"
+  - "wychodzić"
+  - "wznosić"
+  - "ziemia"
+  - "zło"
+footnote: "„Resucitó” każe śpiewać te wersety na koniec każdego refrenu a nie tylko po ostatnim. (przyp. red.)"
+===
+
+W:
+[G]Wznoszę me oczy ku [h]górom:
+[C]skądże na[DS]dejdzie ra[G]tunek?
+Ra[C]tunek przychodzi od [G]Pana,
+co [D]stworzył [C]niebo i [G]ziemię.
+
+K:
+[G]Nie pozwoli potknąć się twej [h]nodze,
+[C]twój [DS]stróż nie [G]drzemie.
+
+W:
+Nie [C]drzemie i nie odpo[G]czywa
+[D]stróż [C]Izr[G]aela.
+
+W:
+[G]Wznoszę me oczy ku [h]górom:
+[C]skądże na[DS]dejdzie ra[G]tunek?
+Ra[C]tunek przychodzi od [G]Pana,
+co [D]stworzył [C]niebo i [G]ziemię.
+
+K:
+[G]Pan jest twoim [h]stróżem,
+[C]cieniem, [DS]który cię o[G]słania.
+Za [C]dnia nie porazi cię [G]słońce,
+[D]ani [C]w nocy [G]księżyc.
+
+W:
+[G]Wznoszę me oczy ku [h]górom:
+[C]skądże na[DS]dejdzie ra[G]tunek?
+Ra[C]tunek przychodzi od [G]Pana,
+co [D]stworzył [C]niebo i [G]ziemię.
+
+K:
+[G]Pan od każdego zła cię [h]chroni,
+On [C]chroni [DS]twoje [G]życie.
+Pan [C]z nieba czuwa nad [G]tobą,
+gdy wy[D]chodzisz [C]i gdy [G]wracasz.
+
+W:
+[C]Pan z nieba [DS]czuwa nad [G]tobą
+[C]teraz i na [G]wieki.
+
+W:
+[G]Wznoszę me oczy ku [h]górom:
+[C]skądże na[DS]dejdzie ra[G]tunek?
+Ra[C]tunek przychodzi od [G]Pana,
+co [D]stworzył [C]niebo i [G]ziemię.
+
+W:
+Ra[C]tunek przy[DS]chodzi od [G]Pana,
+co [C]stworzył niebo i [G]ziemię.

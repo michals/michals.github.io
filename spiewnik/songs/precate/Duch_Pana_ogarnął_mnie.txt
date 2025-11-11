@@ -1,0 +1,82 @@
+===
+title: "Duch Pana ogarnął mnie"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S210DuchPanaDuchPanaOgarnalMnie"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Łk"
+    where: "4, 18-19"
+  - what: "["
+    where: "p"
+  - what: "*WEJ"
+    where: ""
+  - what: "*KOM"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "1967"
+index:
+  - "chodzić"
+  - "chromy"
+  - "Duch"
+  - "ślepy"
+  - "namaścić"
+  - "ogarnąć"
+  - "On"
+  - "Pan"
+  - "posłać"
+  - "przejrzeć"
+  - "przepowiadać"
+  - "serce"
+  - "trędowaty"
+  - "ubogi"
+  - "wyzdrowieć"
+  - "zbawienie"
+  - "złamany"
+footnote: "W „Resucitó 2023” całość refrenu śpiewają od razu Wszyscy. (przyp. red.)"
+===
+
+KW:
+[a]Duch Pana, Duch [E]Pana ogarnął [a]mnie.
+K:
+On mnie na[G]maścił,
+On mnie [F]posłał,
+bym przepowiadał zba[E]wienie.
+
+W:
+Bym przepowiadał zba[a]wienie,
+bym przepowiadał zba[G]wienie
+u[F]bogim,
+których serce jest zła[E]mane.
+
+W:
+[a]Duch Pana, Duch [E]Pana ogarnął [a]mnie.
+[a]Duch Pana, Duch [E]Pana ogarnął [a]mnie.
+[a]On mnie na[G]maścił,
+On mnie [F]posłał,
+bym przepowiadał zba[E]wienie:
+
+K:
+by ślepi przej[a]rzeli,
+by chromi cho[G]dzili,
+trędowaci wyzdro[F]wieli,
+bym przepowiadał zba[E]wienie.
+
+W:
+[a]Duch Pana, Duch [E]Pana ogarnął [a]mnie.
+[a]Duch Pana, Duch [E]Pana ogarnął [a]mnie.
+[a]On mnie na[G]maścił,
+On mnie [F]posłał,
+bym przepowiadał zba[E]wienie.
+
+Bym przepowiadał zba[a]wienie,
+bym przepowiadał zba[G]wienie
+u[F]bogim,
+których serce jest zła[E]mane.

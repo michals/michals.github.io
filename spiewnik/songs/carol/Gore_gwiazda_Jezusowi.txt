@@ -1,0 +1,135 @@
+===
+title: "Gore gwiazda Jezusowi"
+section: "carol"
+color: "carol"
+tone: "e"
+songid: "S724GoreGwiazda"
+author:
+  - "tr"
+year: 1843
+address:
+  - what: "Mt"
+    where: "2, 2"
+  - what: "Łk"
+    where: "2, 7-13"
+  - what: "*KOL"
+    where: ""
+  - what: "*DZI"
+    where: ""
+children: true
+index:
+  - "anioł"
+  - "asystować"
+  - "Bóg"
+  - "Betlejem"
+  - "bok"
+  - "buczeć"
+  - "człowiek"
+  - "delikatny"
+  - "dyna"
+  - "dziecina"
+  - "dziw"
+  - "goreć"
+  - "gwiazda"
+  - "hajże"
+  - "huczeć"
+  - "ino"
+  - "Józef"
+  - "jedyny"
+  - "Jezus"
+  - "koło"
+  - "kurancik"
+  - "żłób"
+  - "żywy"
+  - "Maria"
+  - "Maryja"
+  - "narodzić"
+  - "obłok"
+  - "oblec"
+  - "ogłosić"
+  - "osioł"
+  - "osoba"
+  - "Pański"
+  - "północ"
+  - "Panna"
+  - "para"
+  - "pastuszek"
+  - "pociecha"
+  - "podarunek"
+  - "powić"
+  - "przy"
+  - "przybiec"
+  - "sam"
+  - "służyć"
+  - "słyszeć"
+  - "stąd"
+  - "szopa"
+  - "wół"
+  - "wesele"
+  - "wycinać"
+  - "zstąpić"
+footnote: "Tekst pastorałki znalazł się w XVIII-wiecznym rękopisie krakowskiego klasztoru Sióstr Karmelitanek (obecnie w zbiorach Biblioteki Głównej Uniwersytetu im. Adama Mickiewicza w Poznaniu). Łącznie z melodią pojawił się po raz pierwszy w wydanym przez ks. M. Mioduszewskiego w 1843 roku zbiorze Pastorałki i kolędy z melodyjami, w spisie widniejąc pod krótszym tytułem Gore gwiazda. Na początku XX wieku kolędę zamieszczono w znanym zbiorze Karola Miarki z 1904 roku, już pod obecnym tytułem Gore gwiazda Jezusowi."
+===
+
+[e]Gore gwiazda Jezusowi
+[G]w obło[HS]ku, [e]w obło[HS]ku.
+[e]Józef z Panną asystują
+[G]przy bo[HS]ku, [e]przy bo[HS]ku.
+
+[G]Hojże ino [D]dyna, dyna,
+[G]narodził się [D]Bóg dziecina
+[G]w Betle[HS]jem, w Betle[e]jem.
+
+[e]Wół i osioł w parze służą
+[G]przy żło[HS]bie, [e]przy żło[HS]bie.
+[e]Huczą, buczą delikatnej
+[G]oso[HS]bie, [e]oso[HS]bie.
+
+[G]Hojże ino [D]dyna, dyna,
+[G]narodził się [D]Bóg dziecina
+[G]w Betle[HS]jem, w Betle[e]jem.
+
+[e]Pastuszkowie z podarunki
+[G]przybie[HS]gli, [e]przybie[HS]gli.
+[e]W koło szopę o północy
+[G]oble[HS]gli, [e]oble[HS]gli.
+
+[G]Hojże ino [D]dyna, dyna,
+[G]narodził się [D]Bóg dziecina
+[G]w Betle[HS]jem, w Betle[e]jem.
+
+[e]Anioł Pański sam ogłosił
+[G]te dzi[HS]wy, [e]te dzi[HS]wy,
+[e]których oni nie słyszeli
+[G]jak ży[HS]wi, [e]jak ży[HS]wi.
+
+[G]Hojże ino [D]dyna, dyna,
+[G]narodził się [D]Bóg dziecina
+[G]w Betle[HS]jem, w Betle[e]jem.
+
+[e]Anioł Pański kuranciki,
+[G]wyci[HS]na, [e]wyci[HS]na,
+[e]stąd pociecha dla człowieka
+[G]jedy[HS]na, [e]jedy[HS]na.
+
+[G]Hojże ino [D]dyna, dyna,
+[G]narodził się [D]Bóg dziecina
+[G]w Betle[HS]jem, w Betle[e]jem.
+
+[e]Już Maryja Jezuleńka
+[G]powi[HS]ła, [e]powi[HS]ła,
+[e]stąd wesele i pociecha
+[G]zstąpi[HS]ła, [e]zstąpi[HS]ła.
+
+[G]Hojże ino [D]dyna, dyna,
+[G]narodził się [D]Bóg dziecina
+[G]w Betle[HS]jem, w Betle[e]jem.
+
+[e]Gore gwiazda Jezusowi
+[G]w obło[HS]ku, [e]w obło[HS]ku.
+[e]Józef z Marią asystują
+[G]przy bo[HS]ku, [e]przy bo[HS]ku.
+
+[G]Hojże ino [D]dyna, dyna,
+[G]narodził się [D]Bóg dziecina
+[G]w Betle[HS]jem, w Betle[e]jem.

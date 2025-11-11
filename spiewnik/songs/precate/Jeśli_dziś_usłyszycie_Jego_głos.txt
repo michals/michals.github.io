@@ -1,0 +1,131 @@
+===
+title: "Jeśli dziś usłyszycie Jego głos"
+section: "precate"
+color: "precate"
+tone: "E"
+songid: "S068JesliDzisUslyszycieJegoGlos"
+author:
+  - "K"
+year: 1996
+address:
+  - what: "Ps"
+    where: "95"
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "1977"
+  - "Jeśli dziś słowo Jego usłyszycie"
+index:
+  - "bóg"
+  - "Bóg"
+  - "chcieć"
+  - "chwalić"
+  - "czterdzieści"
+  - "dlatego"
+  - "droga"
+  - "dziękować"
+  - "dzieło"
+  - "dzień"
+  - "dziś"
+  - "głębina"
+  - "głośny"
+  - "głos"
+  - "kolano"
+  - "Król"
+  - "śpiewać"
+  - "lud"
+  - "Massa"
+  - "Meriba"
+  - "mimo"
+  - "morze"
+  - "odczuwać"
+  - "odpoczynek"
+  - "ojciec"
+  - "On"
+  - "paść"
+  - "Pan"
+  - "pastwisko"
+  - "pełnić"
+  - "pieśń"
+  - "pokolenie"
+  - "prowadzić"
+  - "przyjść"
+  - "przystąpić"
+  - "psalm"
+  - "pustynia"
+  - "radosny"
+  - "ręka"
+  - "rok"
+  - "rzec"
+  - "serce"
+  - "skała"
+  - "stworzyć"
+  - "trzoda"
+  - "twarz"
+  - "uczynić"
+  - "usłyszeć"
+  - "wejść"
+  - "widzieć"
+  - "wielki"
+  - "wola"
+  - "wstręt"
+  - "wszystek"
+  - "wysławiać"
+  - "zatwardzać"
+  - "zbawienie"
+  - "zbłąkany"
+  - "zgiąć"
+  - "ziemia"
+  - "zmusić"
+  - "znać"
+  - "zwątpić"
+footnote: "Zmiany: wystawili mnie na próbę→zwątpili we mnie oraz nie znają→nie chcą znać za „Zmartwychwstał Pan 2025”, a ten za „Resucitó”. Zmiany przywracają tekst autorski wbrew tekstowi biblijnemu. (przyp. red.)"
+===
+
+W:
+[E]Jeśli dziś usłyszycie Jego [fis]głos,
+nie zatwar[HS]dzajcie waszego [E]serca.
+
+K:
+[cis]Przyjdźcie, wysławiajmy głośno [fis]Pana,
+chwalmy [HS]skałę naszego zba[E]wienia.
+[cis]Przystąpmy do Niego, by Mu dzię[Gis]kować,
+radośnie śpiewajmy pieśni i [cis]psalmy[E].
+W:
+[E]Jeśli dziś usłyszycie Jego [fis]głos,
+nie zatwar[HS]dzajcie waszego [E]serca.
+
+K:
+[cis]Albowiem wielkim Bogiem jest [fis]Pan,
+wielkim [HS]Królem nad wszystkimi bo[E]gami.
+[cis]W Jego ręku są głębiny [Gis]ziemi,
+Jego jest morze, On je u[cis]czyni[E]ł.
+W:
+[E]Jeśli dziś usłyszycie Jego [fis]głos,
+nie zatwar[HS]dzajcie waszego [E]serca.
+
+K:
+[cis]Przyjdźcie, padnijmy na [Gis]twarze,
+zegnijmy kolana przed Panem, który nas [cis]stworzył.
+On jest naszym [fis]Bogiem, a [HS]my jesteśmy Jego [E]ludem,
+[cis]jesteśmy Jego trzodą, którą On pro[Gis]wadzi,
+ludem Jego past[cis]wiska[E].
+W:
+[E]Jeśli dziś usłyszycie Jego [fis]głos,
+nie zatwar[HS]dzajcie waszego [E]serca.
+
+K:
+[cis]Obyście, o[Gis]byście
+dziś usłyszeli mój głos i nie zatwardzali [cis]serca,
+[fis]jak w Meriba, jak w dniu [HS]Massa, na pus[E]tyni,
+[cis]gdzie wasi ojcowie zwątpili [Gis]we Mnie,
+mimo że widzieli moje dzieła,
+zmusili Mnie do pełnienia swojej [cis]woli.
+Przez lat czter[fis]dzieści
+[HS]odczuwałem wstręt do tego poko[E]lenia.
+[cis]I rzekłem: „Są ludem o sercu zbłą[Gis]kanym,
+nie chcą znać moich dróg,
+dlatego nie wejdą do mego odpo[cis]czynku[E]!”
+W:
+[E]Jeśli dziś usłyszycie Jego [fis]głos,
+nie zatwar[HS]dzajcie waszego [E]serca.

@@ -1,0 +1,35 @@
+===
+title: "Alleluja aklamacji przed Ewangelią (3)"
+subtitle: "Melodia druga"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "S024AllelujaNaAklamacjeMelodiaDruga"
+author:
+  - "K"
+year: 1994
+alttone:
+  - "g"
+index:
+  - "alleluja"
+  - "dawać"
+  - "mówić"
+  - "miłować"
+  - "nowy"
+  - "Pan"
+  - "przykazanie"
+  - "umiłować"
+  - "wzajemny"
+===
+
+K:
+[e]Alleluja, [D]alleluja, allelu[e]ja.
+W:
+[e]Alleluja, alle[D]luja, allelu[e]ja.
+K:
+[e]Daję wam przykazanie [a]nowe, mówi [e]Pan:‡‡
+abyście się wzajemnie miło[a]wali, jak ja was umiło[e]wałem.
+{{{ 2x
+W:
+[e]Alleluja, alle[D]luja, allelu[e]ja.
+}}}

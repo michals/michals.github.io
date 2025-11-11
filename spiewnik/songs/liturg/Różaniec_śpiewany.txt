@@ -1,0 +1,102 @@
+===
+title: "Różaniec śpiewany"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "S923RozaniecSpiewany"
+author:
+  - "K"
+year: 2023
+knownas:
+  - "2023"
+  - "Melodia Różańca śpiewanego"
+index:
+  - "amen"
+  - "błogosławiona"
+  - "błogosławiony"
+  - "Boży"
+  - "chleb"
+  - "chwała"
+  - "dać"
+  - "Duch"
+  - "dzisiaj"
+  - "godzina"
+  - "grzeszny"
+  - "imię"
+  - "jako"
+  - "Jezus"
+  - "królestwo"
+  - "łaska"
+  - "śmierć"
+  - "święcić"
+  - "święta"
+  - "święty"
+  - "żywot"
+  - "Maryja"
+  - "matka"
+  - "między"
+  - "modlić"
+  - "niebo"
+  - "niewiasta"
+  - "odpuścić"
+  - "odpuszczać"
+  - "Ojciec"
+  - "owoc"
+  - "Pan"
+  - "pełny"
+  - "początek"
+  - "pokuszenie"
+  - "powszedni"
+  - "przyjść"
+  - "Syn"
+  - "teraz"
+  - "wiek"
+  - "wina"
+  - "winowajca"
+  - "wodzić"
+  - "wola"
+  - "zawsze"
+  - "zbawić"
+  - "zdrowaś"
+  - "ziemia"
+  - "złe"
+footnote: "Ze śpiewnika „Risuscitò 2023”. W „Resucitó 2023” tych klauzul nie ma. (przyp. red.)"
+===
+
+Intencja
+Tajemnice różańca z dnia (radosna, bolesna, chwalebna, światła)
+
+K:
+1[e]Ojcze nasz, któryś jest w niebie,
+święć się imię Twoje; przyjdź Królestwo Twoje;
+H7e
+bądź wola Twoja, jako w niebie tak i na ziemi.
+W:
+2[a]Chleba naszego powszedniego daj nam dzisiaj
+i odpuść nam nasze winy, jako i my odpuszczamy naszym winowajcom.
+eH7e
+I nie wódź nas na pokuszenie, ale nas zbaw ode złego. Amen.
+
+K:
+1[e]Zdrowaś Maryjo, łaskiś pełna, Pan z Tobą,
+błogosławionaś Ty między niewiastami,
+H7e
+i błogosławiony owoc żywota Twojego, Jezus.
+W:
+2[a]Święta Maryjo, Matko Boża,
+módl się za nami grzesznymi
+eH7e
+teraz i w godzinę śmierci naszej. Amen.
+
+DG
+K:
+3[G]Chwała Ojcu i Synowi, i Duchowi Świętemu.
+W:
+4[a]Jak była na początku, teraz i zawsze,
+e H7 e
+i na wieki wieków. Amen.
+
+Pieśń do Dziewicy Maryi
+
+Litania Loretańska, którą na zakończenie można zaśpiewać
+na melodię „Litanii do wszystkich świętych”.

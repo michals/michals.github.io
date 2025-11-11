@@ -1,0 +1,127 @@
+===
+title: "Stabat Mater dolorosa"
+subtitle: "Sekwencja z XIII wieku"
+section: "precate"
+color: "communion"
+tone: "d"
+songid: "S107StabatMater"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*MAR"
+    where: ""
+  - what: "*HYM"
+    where: ""
+  - what: "*OWP"
+    where: ""
+  - what: "*LAM"
+    where: ""
+knownas:
+  - "1984"
+index:
+  - "amen"
+  - "biczować"
+  - "błogosławiona"
+  - "bolejąca"
+  - "Chrystus"
+  - "cierpiący"
+  - "cierpieć"
+  - "crucem"
+  - "dać"
+  - "dawać"
+  - "dojść"
+  - "dolorosa"
+  - "dręczyć"
+  - "Duch"
+  - "dum"
+  - "dusza"
+  - "filius"
+  - "grzech"
+  - "iuxta"
+  - "jedyny"
+  - "Jezus"
+  - "śmierć"
+  - "lacrimosa"
+  - "lud"
+  - "Mater"
+  - "matka"
+  - "miecz"
+  - "palma"
+  - "pendebat"
+  - "przebić"
+  - "samotny"
+  - "słodki"
+  - "smutny"
+  - "stabat"
+  - "strapiona"
+  - "Syn"
+  - "ta"
+  - "umierać"
+  - "widzieć"
+  - "wielki"
+  - "wzdychać"
+  - "zapłakać"
+  - "zasmucić"
+  - "zwycięstwo"
+footnote: "„Risuscitò 2023” zejście akordami G7F7E7 robi na barowych. (przyp. red.)"
+===
+
+KW:
+[dNmS]Stabat Mater dolorosa
+[CS]iuxta crucem lacri[BS]mosa
+dum pendebat [A]filius.
+
+K:
+[d]Duszę jej tak wzdychającą
+zasmu[CS]coną, bole[BS]jącą
+przebił [A]miecz.
+W:
+[dNmS]Stabat Mater dolorosa
+[CS]iuxta crucem lacri[BS]mosa
+dum pendebat [A]filius.
+
+K:
+[d]O jak smutna i strapiona
+[CS]była ta Błogosła[BS]wiona,
+Matka Syna Jedy[A]nego!
+W:
+[dNmS]Stabat Mater dolorosa
+[CS]iuxta crucem lacri[BS]mosa
+dum pendebat [A]filius.
+
+K:
+[d]Kto by nie zapłakał,
+widząc [CS]Matkę Chrys[BS]tusa
+w tak wielkim cier[A]pieniu!
+
+W:
+[dNmS]Stabat Mater dolorosa
+[CS]iuxta crucem lacri[BS]mosa
+dum pendebat [A]filius.
+
+K:
+[d]Widzi Jezusa cierpiącego,
+biczo[CS]waniem dręczo[BS]nego
+za grzechy swego [A]ludu!
+W:
+[dNmS]Stabat Mater dolorosa
+[CS]iuxta crucem lacri[BS]mosa
+dum pendebat [A]filius.
+
+K:
+[d]Widzi Syna tak słodkiego,
+[CS]w śmierci samot[BS]nego,
+kiedy daje swego [A]Ducha!
+W:
+[dNmS]Stabat Mater dolorosa
+[CS]iuxta crucem lacri[BS]mosa
+dum pendebat [A]filius.
+
+K:
+[d]O Chryste, kiedy ja będę u[g]mierał,
+przez Twą błogosławioną matkę daj mi [BS]dojść
+do palmy zwy[A]cięstwa!
+
+W:
+A[d]men, a[BS]men, a[AS]men!

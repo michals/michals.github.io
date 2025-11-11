@@ -1,0 +1,45 @@
+===
+title: "Aklamacja przed Ewangelią w Wielkim Poście (1)"
+subtitle: "Melodia pierwsza"
+section: "liturg"
+color: "liturg"
+tone: "G"
+songid: "S025AklamacjaDoEwangeliiWielkiPostMPierwsza"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "*MSZ"
+    where: "*"
+  - what: "*OWP"
+    where: "*"
+knownas:
+  - "Chwała Tobie o Chryste"
+index:
+  - "Bóg"
+  - "Chrystus"
+  - "chwała"
+  - "dać"
+  - "jednorodzony"
+  - "każdy"
+  - "Król"
+  - "świat"
+  - "życie"
+  - "On"
+  - "Syn"
+  - "umiłować"
+  - "wieczny"
+  - "wierzyć"
+===
+
+KW:
+[G]Chwała Tobie o [C]Chryste, Królu wiecznej [D]chwały,
+[C]Królu wiecznej [G]chwały.*
+K:
+[e]Tak [D]Bóg umiłował [e]świat, że dał swojego [D]Syna Jednorodzo[e]nego;**
+każdy, kto w Niego [D]wierzy, ma życie [e]wieczne.
+{{{ 2x
+W:
+[G]Chwała Tobie o [C]Chryste, Królu wiecznej [D]chwały,
+[C]Królu wiecznej [G]chwały.
+}}}

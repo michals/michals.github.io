@@ -1,0 +1,120 @@
+===
+title: "Błogosławić będę Pana w każdym czasie"
+section: "precate"
+color: "precate"
+tone: "d"
+songid: "S113BlogoslawicBedePanaWkazdymCzasie"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "34"
+  - what: "*OWP"
+    where: ""
+  - what: "*KOM"
+    where: ""
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "1980"
+index:
+  - "anioł"
+  - "bać"
+  - "biedak"
+  - "błogosławić"
+  - "chlubić"
+  - "chronić"
+  - "chwała"
+  - "czas"
+  - "czekać"
+  - "człowiek"
+  - "dobry"
+  - "imię"
+  - "każdy"
+  - "śpiewać"
+  - "obóz"
+  - "odpowiedzieć"
+  - "On"
+  - "Pański"
+  - "Pan"
+  - "pokorny"
+  - "próba"
+  - "razem"
+  - "skosztować"
+  - "sprawiedliwy"
+  - "stawiać"
+  - "szczęśliwy"
+  - "szukać"
+  - "trwoga"
+  - "ucisk"
+  - "usłyszeć"
+  - "usta"
+  - "uwalniać"
+  - "uwolnić"
+  - "warowny"
+  - "weselić"
+  - "wiele"
+  - "wokół"
+  - "wołać"
+  - "wraz"
+  - "wszelki"
+  - "wszystek"
+  - "wybawiać"
+  - "wysłuchiwać"
+  - "zawsze"
+  - "zbawiać"
+  - "zobaczyć"
+footnote: "W „Resucitó” od razu śpiewają Wszyscy. (przyp. red.)"
+===
+
+KW:
+[d]Błogosławić będę Pana w każdym czasie,
+[C]na moich ustach zawsze Jego [A]chwała;
+będę [B]chlubić się [AS]w Panu,
+[B]niech usłyszą pokorni i we[AS]selą się.
+
+K:
+Śpie[d]wajcie wraz ze Mną Panu,
+[C]śpiewajmy razem Jego i[A]mieniu,
+bo szu[B]kałem Pana i mi odpo[A]wiedział
+i od [B]wszelkiej trwogi mnie u[A]wolnił.
+W:
+[d]Błogosławić będę Pana w każdym czasie,
+[C]na moich ustach zawsze Jego [A]chwała;
+będę [B]chlubić się [AS]w Panu,
+[B]niech usłyszą pokorni i we[AS]selą się.
+
+K:
+Anioł [d]Pański stawia obóz warowny
+[C]wokół tych, co się Go boją, i ich [A]zbawia;
+oto [B]biedak woła, a Pan go wysłu[AS]chuje
+[B]i uwalnia ze wszystkich jego u[AS]cisków.
+W:
+[d]Błogosławić będę Pana w każdym czasie,
+[C]na moich ustach zawsze Jego [A]chwała;
+będę [B]chlubić się [AS]w Panu,
+[B]niech usłyszą pokorni i we[AS]selą się.
+
+K:
+[d]Skosztujcie i zobaczcie, [C]jak dobry jest [A]Pan,
+[B]szczęśliwy człowiek, który chroni się u [A]Niego.
+W:
+[d]Skosztujcie i zobaczcie, [C]jak dobry jest [A]Pan,
+[B]szczęśliwy człowiek, który chroni się u [A]Niego.
+W:
+[d]Błogosławić będę Pana w każdym czasie,
+[C]na moich ustach zawsze Jego [A]chwała;
+będę [B]chlubić się [AS]w Panu,
+[B]niech usłyszą pokorni i we[AS]selą się.
+
+K:
+Wiele jest [d]prób, które czekają sprawiedliwego,
+[C]lecz ze wszystkich Pan go u[A]walnia;
+wo[B]łają do Niego, a Pan ich wysłu[AS]chuje
+[B]i wybawia ze wszystkich u[AS]cisków.
+W:
+[d]Błogosławić będę Pana w każdym czasie,
+[C]na moich ustach zawsze Jego [A]chwała;
+będę [B]chlubić się [AS]w Panu,
+[B]niech usłyszą pokorni i we[AS]selą się.

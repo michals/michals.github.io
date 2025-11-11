@@ -1,0 +1,78 @@
+===
+title: "Espada"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S921Espada"
+author:
+  - "K"
+year: 2020
+address:
+  - what: "Ez"
+    where: "21, 14-22"
+  - what: "*OWP"
+    where: ""
+  - what: "*MAR"
+    where: ""
+alttone:
+  - "h"
+knownas:
+  - "2011"
+index:
+  - "człowieczy"
+  - "dusza"
+  - "espada"
+  - "krzyczeć"
+  - "lewa"
+  - "lud"
+  - "miecz"
+  - "nasycić"
+  - "nasycony"
+  - "odwrócić"
+  - "ostrze"
+  - "prawa"
+  - "strona"
+  - "Syn"
+  - "wyostrzyć"
+  - "zabić"
+footnote: "„Resucitó 2023”: można grać g♯o p . „Risuscitò 2023” ma E7 . Orkiestra gra G9♭ p p . (przyp. red.)"
+===
+
+KW:
+[a]Espada, e[ES]spada, bru[F]ñida para ma[ES]tar.
+KW:
+[C]Maria, Ma[ES]ria, [F]madre de [ES]Dios.
+
+K:
+[a]Krzycz, Synu czło[ES]wieczy,
+krzycz, Synu czło[a]wieczy.
+[d]Miecz jest dla mojego [ES]ludu,
+[F]miecz jest dla mojego [ES]ludu.
+W:
+[a]Espada, e[ES]spada, bru[F]ñida para ma[ES]tar.
+W:
+[C]Maria, Ma[ES]ria, [F]madre de [ES]Dios.
+
+K:
+[a]Odwróć się w twą prawą [ES]stronę,
+[d]odwróć się, odwróć się [ES]w lewo
+[d]Tam, gdzie twoje ostrza będą nasy[ES]cone,
+[F]tam, gdzie nasyci się moja [ES]dusza.
+W:
+[a]Espada, e[ES]spada, bru[F]ñida para ma[ES]tar.
+W:
+[C]Maria, Ma[ES]ria, [F]madre de [ES]Dios.
+
+K:
+[d]Wyostrzony, aby [ES]zabić,
+[F]wyostrzony, aby [ES]zabić.
+[a]Krzycz, Synu czło[ES]wieczy,
+[F]krzycz, Synu czło[a]wieczy.
+[d]Miecz jest dla mojego [ES]ludu,
+[F]miecz jest dla mojego [ES]ludu.
+W:
+[a]Espada, e[ES]spada, bru[F]ñida para ma[ES]tar.
+W:
+[C]Maria, Ma[ES]ria, [F]madre de [ES]Dios.
+
+p                                               p

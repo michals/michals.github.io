@@ -1,0 +1,134 @@
+===
+title: "Jahwe Pan jest mym pasterzem"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S060JahwePanJestMymPasterzem"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "23"
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*KOM"
+    where: ""
+alttone:
+  - "c"
+knownas:
+  - "1977"
+  - "Oto Pan jest mym pasterzem"
+yhwh: true
+index:
+  - "biesiadny"
+  - "brak"
+  - "brzeg"
+  - "choćby"
+  - "chwała"
+  - "dawać"
+  - "dolina"
+  - "dom"
+  - "droga"
+  - "głowa"
+  - "imię"
+  - "Jahwe"
+  - "kij"
+  - "kroczyć"
+  - "łąka"
+  - "świeży"
+  - "laska"
+  - "lękać"
+  - "żyć"
+  - "życiodajny"
+  - "miłość"
+  - "mroczny"
+  - "namaszczać"
+  - "nic"
+  - "odpocząć"
+  - "oko"
+  - "olejek"
+  - "Pan"
+  - "pasterz"
+  - "pełny"
+  - "pocieszać"
+  - "pokrzepiać"
+  - "prowadzić"
+  - "przeciwnik"
+  - "puchar"
+  - "radość"
+  - "siła"
+  - "stół"
+  - "towarzyszyć"
+  - "trawa"
+  - "wiek"
+  - "wieść"
+  - "woda"
+  - "zastawiać"
+footnote: "„Zmartwychwstał Pan 2025” wycofał się z Adonaj zamiast Jahwe Pan. (przyp. red.)"
+===
+
+K:
+[a]Jahwe Pan jest mym pas[F]terzem,
+nie brak mi ni[E]czego,
+na [ES]łąkach świeżej trawy
+odpocząć mi [a]daje.
+W:
+[a]Jahwe Pan jest mym pas[F]terzem,
+nie brak mi ni[E]czego,
+[ES]do wód życiodajnych
+mnie pro[a]wadzi.
+K:
+[G]Pokrzepia moje siły
+i mnie [F]wiedzie
+drogą mi[E]łości.
+Pok[G]rzepia moje siły
+i mnie [F]wiedzie
+na chwałę Swego i[E]mienia.
+W:
+Jahwe [a]Pan …
+K:
+[G]Choćbym miał kroczyć
+mroczną [F]doliną,
+nie będę się [E]lękał,
+bowiem [ES]Ty, bowiem Ty,
+∼
+bowiem Ty jesteś [a]ze mną.
+[G]Twój kij i Twoja laska
+mnie pocie[F]szają,
+oto mnie pocie[E]szają.
+
+W:
+[a]Jahwe Pan jest mym pas[F]terzem,
+nie brak mi ni[E]czego,
+[ES]do wód życiodajnych
+mnie pro[a]wadzi.
+
+K:
+[G]Zastawiasz stół biesiadny,
+prze[F]de mną,
+na oczach moich przeciw[E]ników,
+[G]namaszczasz moją głowę o[F]lejkiem,
+a puchar mój jest pełen po [E]brzegi.
+
+W:
+[a]Jahwe Pan jest mym pas[F]terzem,
+nie brak mi ni[E]czego,
+[ES]do wód życiodajnych
+mnie pro[a]wadzi.
+
+K:
+[G]Tak, radość i Twa [F]miłość
+towarzyszyć mi [E]będą.
+
+W:
+[G]Tak, ja będę [F]żył
+w twym domu aż na [E]wieki.
+
+W:
+[a]Jahwe Pan jest mym pas[F]terzem,
+nie brak mi ni[E]czego,
+[ES]do wód życiodajnych
+mnie pro[a]wadzi.

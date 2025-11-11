@@ -1,0 +1,142 @@
+===
+title: "Tobie chcę śpiewać"
+section: "precate"
+color: "precate"
+tone: "D"
+songid: "S078TobieChceSpiewac"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "57"
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "1977"
+  - "Pomiędzy lwami przebywam"
+  - "Zmiłuj się, Boże, zmiłuj się nade mną"
+index:
+  - "Bóg"
+  - "chcieć"
+  - "chronić"
+  - "cień"
+  - "cytra"
+  - "czynić"
+  - "dół"
+  - "dobro"
+  - "dobroć"
+  - "dusza"
+  - "harfa"
+  - "hymn"
+  - "jutrzenka"
+  - "łaska"
+  - "śpiewać"
+  - "lew"
+  - "lud"
+  - "ludzki"
+  - "najwyższy"
+  - "naród"
+  - "niebiosa"
+  - "niebo"
+  - "nieszczęście"
+  - "noga"
+  - "obłok"
+  - "obudzić"
+  - "póki"
+  - "pożerać"
+  - "pomiędzy"
+  - "pragnąć"
+  - "przebudzić"
+  - "przeminąć"
+  - "sam"
+  - "serce"
+  - "sięgać"
+  - "sieć"
+  - "skrzydło"
+  - "sławić"
+  - "spoczywać"
+  - "strzała"
+  - "syn"
+  - "uciekać"
+  - "ufny"
+  - "weń"
+  - "wezwać"
+  - "wierność"
+  - "włócznia"
+  - "wśród"
+  - "wpaść"
+  - "wybawić"
+  - "wykopać"
+  - "ząb"
+  - "zanosić"
+  - "zastawić"
+  - "zbudzić"
+  - "zesłać"
+  - "zmiłować"
+footnote: "Tysiąclatka ma tutaj Niech ześle [pomoc] z nieba, niechaj mnie wybawi, niech hańbą okryje tych, co mnie dręczą; (Sela) niechaj ześle Bóg swoją łaskę i wierność. „Zmartwychwstał Pan 2025” za „Risuscitò 2023”, wbrew „Resucitó 2023” odstępuje od wersji hiszpańskiej i czwarty werset w miejsce tekstu sprzed Sela bierze z części po Sela, jednocześnie poprawiając gramatykę. W ten sposób doszło do zamiany: niech ześle pomoc, by mnie wybawić z ręki tych, którzy mnie dręczą→niech ześle z nieba, by mnie wybawić, niech ześle swą wierność i łaskę. (przyp. red.)"
+===
+
+W:
+[D]Tobie chcę śpiewać, Tobie pragnę [fis]śpiewać,
+[G]przebudź się, przebudź się me serce,
+[A]zbudźcie się, harfo i [D]cytro.
+
+K:
+[D]Zmiłuj się, zmiłuj się nade mną o [fis]Boże,
+moja dusza ucieka się do [G]Ciebie
+i w cieniu Twych skrzydeł się [e]chronię,
+[A]póki nie przeminie nie[D]szczęście.
+W:
+[D]Tobie chcę śpiewać, Tobie pragnę [fis]śpiewać,
+[G]przebudź się, przebudź się me serce,
+[A]zbudźcie się, harfo i [D]cytro.
+
+K:
+[D]Wezwę Boga, Boga Najwyż[fis]szego,
+Boga, który czyni mi [G]dobro;
+niech ześle z nieba, [e]by mnie wybawić,
+[A]niech ześle swą wierność i [D]łaskę.
+W:
+[D]Tobie chcę śpiewać, Tobie pragnę [fis]śpiewać,
+[G]przebudź się, przebudź się me serce,
+[A]zbudźcie się, harfo i [D]cytro.
+
+K:
+[D]Zmiłuj się, zmiłuj się nade mną, o [fis]Boże,
+bo spoczywam pomiędzy [G]lwami,
+lwami, co poże[e]rają synów ludzkich;
+[A]ich zęby są jak włócznie i [D]strzały.
+W:
+[D]Tobie chcę śpiewać, Tobie pragnę [fis]śpiewać,
+[G]przebudź się, przebudź się me serce, [A]zbudźcie się, harfo i [D]cytro.
+
+K:
+[D]Zmiłuj się, Boże, zmiłuj się na[fis]de mną,
+gdyż zastawili sieć na moje [G]nogi,
+przede mną [e]dół wykopali,
+[A]ale sami weń [D]wpadli.
+W:
+[D]Tobie chcę śpiewać, Tobie pragnę [fis]śpiewać,
+[G]przebudź się, przebudź się me serce,
+[A]zbudźcie się, harfo i [D]cytro.
+
+K:
+[D]Ufne jest moje serce, ufne jest moje serce, [fis]Boże,
+Tobie chcę [G]śpiewać,
+Tobie [e]hymny zanosić,
+[A]chcę obudzić ju[D]trzenkę.
+W:
+[D]Tobie chcę śpiewać, Tobie pragnę [fis]śpiewać,
+[G]przebudź się, przebudź się me serce,
+[A]zbudźcie się, harfo i [D]cytro.
+
+K:
+[D]Sławić cię będę wśród ludów, o [fis]Boże,
+Tobie śpiewać hymny wśród na[G]rodów,
+bo dobroć Twa [e]sięga aż niebios,
+[A]a wierność Twoja o[D]błoków.
+W:
+[D]Tobie chcę śpiewać, Tobie pragnę [fis]śpiewać,
+[G]przebudź się, przebudź się me serce,
+[A]zbudźcie się, harfo i [D]cytro.

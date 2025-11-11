@@ -1,0 +1,203 @@
+===
+title: "Gdzie się ukryłeś, Ukochany?"
+subtitle: "Święty Jan od Krzyża"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S942GdzieSieUkrylesUkochany"
+author:
+  - "K"
+year: 2023
+index:
+  - "aj"
+  - "biegać"
+  - "Boży"
+  - "całkowity"
+  - "cały"
+  - "cierpieć"
+  - "czemu"
+  - "czułość"
+  - "dać"
+  - "dolina"
+  - "gaj"
+  - "góry"
+  - "głębina"
+  - "graniczny"
+  - "inny"
+  - "jęk"
+  - "jedyne"
+  - "jeleń"
+  - "jeszcze"
+  - "konać"
+  - "kwiat"
+  - "łąka"
+  - "łaska"
+  - "las"
+  - "żaden"
+  - "żyć"
+  - "życie"
+  - "mądrość"
+  - "móc"
+  - "mdleć"
+  - "miłość"
+  - "miły"
+  - "najukochańszy"
+  - "napełnić"
+  - "oblubienica"
+  - "oddać"
+  - "oddalić"
+  - "oddawać"
+  - "odziany"
+  - "On"
+  - "ozdobić"
+  - "oznajmić"
+  - "pójść"
+  - "pasterz"
+  - "pastwisko"
+  - "pełny"
+  - "pić"
+  - "piękno"
+  - "pieszczoty"
+  - "piwnica"
+  - "pogrążać"
+  - "pojmować"
+  - "pośpiech"
+  - "porzucić"
+  - "postać"
+  - "posyłać"
+  - "powiedzieć"
+  - "pragnąć"
+  - "pragnienie"
+  - "próg"
+  - "przebiegać"
+  - "przechodzić"
+  - "przejść"
+  - "przemierzać"
+  - "przyjmować"
+  - "przypadek"
+  - "przyrzec"
+  - "pusty"
+  - "ranić"
+  - "ręka"
+  - "reszta"
+  - "rozkosz"
+  - "rozlewać"
+  - "sam"
+  - "słodycz"
+  - "spojrzeć"
+  - "spotkać"
+  - "sprawa"
+  - "stado"
+  - "strona"
+  - "strzała"
+  - "strzec"
+  - "szukać"
+  - "troszczyć"
+  - "trwać"
+  - "trwoga"
+  - "twierdza"
+  - "tysiąc"
+  - "uciec"
+  - "uczuć"
+  - "ukochany"
+  - "ukryć"
+  - "uzdrowić"
+  - "wciąż"
+  - "więcej"
+  - "wierch"
+  - "winna"
+  - "wśród"
+  - "wołać"
+  - "wreszcie"
+  - "wyjść"
+  - "wyniosły"
+  - "zajęcie"
+  - "zasadzić"
+  - "zdołać"
+  - "zieleń"
+  - "zostawić"
+  - "zranić"
+  - "zrywać"
+  - "zwiastun"
+  - "zwierz"
+footnote: "Miał być to akord durowy z septymą wielką oraz dodaną kwartą (albo, jak kto woli, undecymą) zwiększoną. W „Resucitó 2019” akord ten opublikowano jako q q q (bez kwinty, ponoć Kiko tak go chwytał). Poprawiono go w „Resucitó 2023” i w „Risuscitò 2023”; teraz jest z kwintą a de facto jest to F bez barré. (przyp. red.)"
+===
+
+K:
+1 [E]Gdzie się ukryłeś, Ukochany,
+wśród jęków mnie zostawiłeś?
+Uciekłeś jak jeleń,
+jak już mnie zraniłeś,
+F7♯   qqE
+4+
+[a]wyszłam za Tobą wo[F]łając,                    a Ty się odda[E]liłeś!
+K:
+2 [E]Pasterze, co przemierzacie pastwiska
+aż po wierch wyniosły,
+gdy przypadkiem Go spotkacie,
+mego Najukochańszego,
+F7♯      qqE
+po[a]wiedzcie Mu, że [F]cierpię                   i mdleję dla [E]Niego. 4+
+K:
+3 [E]Szukając mojej miłości
+pójdę przez góry i doliny.
+Nie będę zrywać kwiatów,
+przed zwierzem nie uczuję trwogi,
+F7♯                   qqE
+[a]przejdę przez [F]twierdze i graniczne [E]progi! 4+
+K:
+4 [E]O wy, gaje i lasy
+ręką Ukochanego zasadzone!
+O łąki pełne zieleni
+kwiatami ozdobione,
+F7♯                      qqE
+[a]powiedzcie, czy przechodził[F]przez was w którąś [E]stronę? 4+
+W:
+5 [a]Tysiąc łask rozlewając,
+przebiegał przez te gaje w poś[G]piechu,
+a gdy na nie [F]spojrzał,
+samą swą postacią
+zostawił je odziane w swoje [E]piękno.
+
+K:
+6 [E]Aj, któż zdoła mnie uzdrowić?
+Oddaj mi się już wreszcie, całko[a]wicie
+i nie posyłaj już więcej żadnego zwia[G]stuna,
+F7♯ q q E
+bo nie [F]mogą oznajmić tego, czego [E]pragnę. 4+
+W:
+5 [a]Tysiąc łask rozlewając, …
+K:
+8 [E]Czemu jeszcze trwasz, o życie
+wciąż nie żyjąc tam, gdzie żyjesz,
+pogrążając się w konaniu od strzał
+które cię ranią [a]tym, że Mi[F]łego nie poj[E]mujesz.
+K:
+6 [E]Aj, któż zdoła mnie uzdrowić? …
+W:
+5 [a]Tysiąc łask rozlewając, …
+K:
+26[E]W głębinie winnej piwnicy,
+piłam rozkosze Bożej mądrości,
+kiedy wyszłam na pastwiska
+porzuciłam swe puste pragnienia -
+F7♯ q q E
+[a]zostawiłam [F]stada, za którymi bie[E]gałam. 4+
+K:
+27[E]Tam dałeś mi czułość i pieszczoty,
+napełniłeś mnie słodyczą Twej mądrości.
+Ja oddałam Ci bez reszty całe swoje życie
+F7♯ q q E
+[a]i przyrzekłam, że Twoją [F]będę Oblubie[E]nicą. 4+
+K:
+28[E]Tyś jedynym mym pragnieniem,
+to co moje, Tobie oddaję.
+Już nie strzegę swego stada,
+innych zajęć nie przyjmuję,
+F7♯ q q E
+[a]bowiem troszczę się o Twoje [F]sprawy - o [E]Miłość. 4+
+W:
+5 [a]Tysiąc łask rozlewając, …
+
+Jest kilka wersji tego śpiewu w wykonaniu Kiko, który w zależności od kontekstu wybiera dowolne zwrotki z oryginału i gdy je śpiewa, gra różne rytmy. Wersety, które znajdują się na tej stronie, służą do orientacji jako przewodnik.
+q

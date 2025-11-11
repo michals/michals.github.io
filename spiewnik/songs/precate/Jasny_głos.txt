@@ -1,0 +1,98 @@
+===
+title: "Jasny głos"
+subtitle: "Hymn adwentowy"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S072HymnAdwentowy"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*HYM"
+    where: ""
+  - what: "*OAD"
+    where: ""
+knownas:
+  - "1969"
+  - "Vox clara ecce intonat"
+index:
+  - "amen"
+  - "Baranek"
+  - "chwalebny"
+  - "ciemności"
+  - "darmo"
+  - "dlatego"
+  - "drugi"
+  - "Duch"
+  - "dusza"
+  - "echo"
+  - "głos"
+  - "gwiazda"
+  - "jaśnieć"
+  - "jasny"
+  - "Jezus"
+  - "łzy"
+  - "śpiewać"
+  - "świat"
+  - "litościwy"
+  - "żyć"
+  - "nowy"
+  - "odrętwiały"
+  - "Ojciec"
+  - "okupić"
+  - "On"
+  - "osłonić"
+  - "pójść"
+  - "pełzać"
+  - "pieśń"
+  - "pochwalny"
+  - "pojawić"
+  - "posłać"
+  - "prosić"
+  - "przebaczyć"
+  - "przestać"
+  - "przyjść"
+  - "rozpraszać"
+  - "strach"
+  - "Syn"
+  - "udręka"
+  - "ustąpić"
+  - "wina"
+  - "wschodzić"
+  - "wszyscy"
+  - "wypełnić"
+  - "zbudzić"
+  - "ziemia"
+footnote: "Na podstawie Vox clara ecce intonat, łacińskiego hymnu z VI wieku, z Jutrzni Adwentu."
+===
+
+K:
+[a]Jasny głos
+rozprasza swymi echami ciemności;
+ustąpcie udręki.
+Jezus jaśnieje [ES]już!
+Niech się zbudzi dusza odręt[a]wiała
+i przestanie pełzać po [ES]ziemi:
+wschodzi nowa [a]gwiazda!
+
+Ot[d]o jest nam posłany Baranek,
+aby darmo okupił nasze [a]winy,
+pójdźmy do Niego ze [ES]łzami,
+prośmy Go wszyscy o przeba[a]czenie.
+
+W:
+Tak [d]aby,
+gdy się pojawi chwalebny
+w swoim drugim [a]przyjściu
+i świat wypełni [ES]strachem,
+osłonił nas litoś[a]ciwie.
+
+{{{ 2x
+W:
+Dla[d]tego
+śpiewamy tę pieśń poch[a]walną
+Ojcu, Synowi i Du[ES]chowi,
+którzy niech żyją,
+A[a]men!
+}}}

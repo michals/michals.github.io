@@ -1,0 +1,97 @@
+===
+title: "Fale śmierci ogarniały mnie"
+section: "eyect"
+color: "eyect"
+tone: "D"
+songid: "S934FaleSmierci"
+author:
+  - "K"
+year: 1996
+address:
+  - what: "Ps"
+    where: "18"
+index:
+  - "Bóg"
+  - "Belial"
+  - "dno"
+  - "dotrzeć"
+  - "fala"
+  - "fundament"
+  - "góry"
+  - "głębokość"
+  - "głos"
+  - "kochać"
+  - "krzyk"
+  - "ściskać"
+  - "śmierć"
+  - "świątynia"
+  - "świat"
+  - "morze"
+  - "niebiosa"
+  - "obniżyć"
+  - "odsłonić"
+  - "ogarniać"
+  - "Pan"
+  - "pęta"
+  - "pochwycić"
+  - "poruszyć"
+  - "przerażać"
+  - "przyzywać"
+  - "ręka"
+  - "sidła"
+  - "skała"
+  - "szeol"
+  - "trąba"
+  - "ucho"
+  - "udręczenie"
+  - "ukazać"
+  - "usłyszeć"
+  - "woda"
+  - "wołać"
+  - "wybawiciel"
+  - "wyciągnąć"
+  - "wydźwignąć"
+  - "zachwiać"
+  - "zadrżeć"
+  - "ziemia"
+  - "zstąpić"
+footnote: "Wersja włoska pieśni (str. ), promowana w „Risuscitò”, zapewne jako reminiscencja ŚDM Loreto 1995, gdzie refrenu Kiko uczył po włosku. Kocham Cię, PanieTi amo, Signore W „Resucitó” zwrotka Kocham Cię, Panie… jest na początku, jak w Biblii i od niej pochodzi tytuł. (przyp. red.)"
+===
+
+W:
+[D]Fale śmierci ogar[h]niały mnie,‡‡
+przera[G]żały mnie trąby Be[D]liala,
+ścis[A]kały mnie pęta sze[G]olu,
+pochwycony byłem w sidła [D]śmierci.
+S melodia a) ‡‡‡
+
+W:
+[D]Le onde della morte mi avvol[h]gevano,‡‡‡‡
+mi spaven[G]tavano le trombe di Be[D]lial,
+mi strin[A]gevano i lacci dello [G]Sheol,
+ero preso nei ceppi della [D]morte.
+S melodia b) ‡‡‡
+
+K:
+[Fis]Wołałem Pana w moim udręczeniu,
+mego Boga, mego Boga przyzy[h]wałem;
+[A]i usłyszał mój głos ze swej świą[G]tyni,
+
+i dotarł do Jego ucha mój [Fis]krzyk;
+
+i [G]ziemia poruszyła się i zach[Fis]wiała,
+za[G]drżały fundamenty [Fis]gór
+bowiem ob[G]niżył niebiosa i [Fis]zstąpił.
+
+[A]I ukazało się dno [Fis]morza
+i funda[A]menty świata się odsło[Fis]niły,
+i wy[G]ciągnął swą rękę, i mnie pochwycił,
+wydźwignął mnie z głębokości [Fis]wód.
+
+K:
+[D]Kocham Cię, [Fis]Panie, Tyś moją [h]skałą.
+[G]Tyś mym Wybawicielem, Tyś moim [Fis]Bogiem.
+[G]Kocham Cię, kocham Cię, [Fis]Panie.
+
+W:
+[D]Fale śmierci …

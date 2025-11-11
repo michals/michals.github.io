@@ -1,0 +1,80 @@
+===
+title: "Jahwe, Tyś Bogiem mym"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S035JahweTysBogiemMym"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Iz"
+    where: "25, 1-8"
+  - what: "*OWP"
+    where: ""
+  - what: "*BRE"
+    where: ""
+alttone:
+  - "h"
+knownas:
+  - "1965"
+  - "Panie, Tyś Bogiem mym"
+yhwh: true
+index:
+  - "Bóg"
+  - "imię"
+  - "Jahwe"
+  - "Jakub"
+  - "krok"
+  - "łzy"
+  - "śmierć"
+  - "osuszyć"
+  - "pokorny"
+  - "reszta"
+  - "sławić"
+  - "słychać"
+  - "twarz"
+  - "ubogi"
+  - "wielbić"
+  - "wszystek"
+  - "zawsze"
+  - "zniweczyć"
+footnote: "„Zmartwychwstał Pan 2025” przywrócił Jahwe zamiast Panie. (przyp. red.)"
+===
+
+KW:
+[a]Jahwe, Tyś Bogiem [ES]mym,
+będę wielbić [a]Cię.
+
+K:
+[a]Będę Twe imię [F]sławić.
+Będę Twe imię sławić.
+Będę Twe imię [ES]sławić.
+{{{ 2x
+W:
+[a]Jahwe, Tyś Bogiem [ES]mym,
+będę wielbić [a]Cię.
+}}}
+
+K:
+[a]Zniweczysz [F]śmierć
+na zawsze,
+osuszysz [G]łzy
+na wszystkich [F]twarzach,
+na wszystkich [ES]twarzach.
+{{{ 2x
+W:
+[a]Jahwe, Tyś Bogiem [ES]mym,
+będę wielbić [a]Cię.
+}}}
+
+K:
+[a]Już słychać kroki u[F]bogich,
+kroki po[G]kornych,
+kroki po[F]kornych.
+Oto Reszta Ja[ES]kuba!
+{{{ 2x
+W:
+[a]Jahwe, Tyś Bogiem [ES]mym,
+będę wielbić [a]Cię.
+}}}

@@ -1,0 +1,131 @@
+===
+title: "Ludu, mój ludu"
+subtitle: "Wielki Piątek, Adoracja Krzyża"
+section: "precate"
+color: "communion"
+tone: "e"
+songid: "S108LamentacjePana"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*OWP"
+    where: ""
+  - what: "*LAM"
+    where: ""
+knownas:
+  - "Lamentacje Pana"
+index:
+  - "agios"
+  - "athanatos"
+  - "czterdzieści"
+  - "dać"
+  - "Deus"
+  - "Egipt"
+  - "eleison"
+  - "fortis"
+  - "głód"
+  - "gorzki"
+  - "imas"
+  - "immortalis"
+  - "ischyros"
+  - "jeszcze"
+  - "koić"
+  - "krzyż"
+  - "śpiewać"
+  - "lud"
+  - "manna"
+  - "miserere"
+  - "nobis"
+  - "obiecać"
+  - "odpowiedź"
+  - "przygotować"
+  - "pustynia"
+  - "rok"
+  - "sanctus"
+  - "stać"
+  - "Theos"
+  - "uczynić"
+  - "ukochana"
+  - "wieść"
+  - "winnica"
+  - "wprowadzić"
+  - "wywieść"
+  - "zasmucić"
+  - "ziemia"
+  - "zły"
+  - "zrobić"
+footnote: "Lamentacje PanaLamenti del Signore To utrwaliło rozbieżności. (przyp. red.)"
+===
+
+W:
+[e]Ludu, mój ludu, ludu, mój ludu,
+cóż złegom ci uczynił,
+[a]cóż złegom uczynił
+i w czym cię zasmuciłem,
+daj mi odpowiedź,
+[HS]w czym cię zasmuciłem?
+p
+(a6 p p )
+K:
+[a]To Ja wywiodłem cię z Egiptu,
+[a]to Ja wywiodłem cię z Egiptu,
+a [HS]ty, a ty przygotowałeś mi krzyż!
+
+W:
+[e]Ludu, mój ludu, ludu, mój ludu,
+cóż złegom ci uczynił,
+[a]cóż złegom uczynił
+i w czym cię zasmuciłem,
+daj mi odpowiedź,
+[HS]w czym cię zasmuciłem?
+
+K:
+[a]Za to, żep wiodłem cię
+(a6 p p )
+czterdzieści lat przez pustynię,                         p
+(a6 p p )
+[a]za to, że twój głód koiłem manną,
+[a]i wprowadziłem cię do Ziemi Obiecanej,
+[HS]ty, ty przygotowałeś mi krzyż!
+
+W:
+[e]Ludu, mój ludu, ludu, mój ludu,
+cóż złegom ci uczynił,
+[a]cóż złegom uczynił
+i w czym cię zasmuciłem,
+daj mi odpowiedź,
+[HS]w czym cię zasmuciłem?
+
+K:
+[a]Co
+p   jeszcze miałem ci uczynić,
+(a6 p p )
+a nie zrobiłem?
+[a]Ja ci śpiewałem: „winnico moja ukochana”,
+a [HS]ty, a ty stałaś się gorzka!
+
+[a]Ágios      o Theós,
+άγιος ο Θεός   - Święty Boże
+W:
+Sanctus Deus,
+K:
+ágios ischyrós, άγιος ισχυρός - Święty mocny
+W:
+Sanctus fortis,
+K:
+ágios athánatos, άγιος αθάνατος - Święty a nieśmiertelny
+W:
+eléison imás,    ελέησον ημάς - zmiłuj się nad nami
+K:
+Sanctus immortalis,
+W:
+miserere nobis!
+
+W:
+[e]Ludu, mój ludu, ludu, mój ludu,
+cóż złegom ci uczynił,
+[a]cóż złegom uczynił
+i w czym cię zasmuciłem,
+daj mi odpowiedź,
+[HS]w czym cię zasmuciłem?

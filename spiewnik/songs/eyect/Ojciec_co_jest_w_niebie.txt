@@ -1,0 +1,81 @@
+===
+title: "Ojciec, co jest w niebie"
+section: "eyect"
+color: "eyect"
+tone: "e"
+songid: "S510OjciecCoJestWNiebie"
+author:
+  - "GF"
+  - "SC"
+year: 2000
+address:
+  - what: "*INN"
+    where: ""
+knownas:
+  - "2000"
+  - "Zwyciężył moją śmierć"
+  - "Otworzył moje uszy"
+index:
+  - "biały"
+  - "dać"
+  - "darować"
+  - "dziś"
+  - "imię"
+  - "jeszcze"
+  - "krzyż"
+  - "śmierć"
+  - "życie"
+  - "naznaczyć"
+  - "niebo"
+  - "nowy"
+  - "Ojciec"
+  - "oko"
+  - "otworzyć"
+  - "podarować"
+  - "syn"
+  - "Syn"
+  - "szata"
+  - "ucho"
+  - "uczynić"
+  - "usta"
+  - "zanurzyć"
+  - "zapragnąć"
+  - "zwyciężyć"
+footnote: "Ta pieśń pojawiła się w „Zmartwychwstał Pan 2006” a następnie zniknęła. Wydaje się być sporną pozycją. Autorem jest twórca neokatechumenalnej wersji hymnu , a melodia pochodzi z pieśni Barchenu Avinu rabbiego Shlomo Carlebacha. Pieśń cieszy się popularnością we Włoszech, chociaż kartki włoskie nie mają numeru strony a jedynie pieczęć roku 2000. (przyp. red.)"
+===
+
+W:
+[e]Ojciec co jest w niebie
+poda[D]rował mi [e]życie
+[e]a dziś zapragnął jeszcze
+u[D]czynić mnie swym [e]synem.
+
+K:
+Zwy[a]ciężył moją śmierć
+i [G]dał mi nowe imię,
+na[a]znaczył mnie swym [e]krzyżem,
+u[G]czynił [DS]mnie swym [e]synem.
+
+W:
+[e]Ojciec co jest w niebie
+poda[D]rował mi [e]życie
+[e]a dziś zapragnął jeszcze
+u[D]czynić mnie swym [e]synem.
+
+K:
+O[a]tworzył moje uszy,
+o[G]tworzył moje oczy,
+o[a]tworzył moje [e]usta,
+u[G]czynił [DS]mnie swym [e]synem.
+
+W:
+[e]Ojciec co jest w niebie
+poda[D]rował mi [e]życie
+[e]a dziś zapragnął jeszcze
+u[D]czynić mnie swym [e]synem.
+
+K:
+Za[a]nurzył mnie i w śmierci,
+i [G]w życiu Swego Syna,
+da[a]rował białą [e]szatę,
+n[G]owe [DS]życie [e]dla mnie.

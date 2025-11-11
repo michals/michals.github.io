@@ -1,0 +1,104 @@
+===
+title: "Radujcie się sprawiedliwi w Panu"
+section: "precate"
+color: "precate"
+tone: "G"
+songid: "S129RadujcieSieSprawiedliwiWPanu"
+author:
+  - "K"
+year: 1996
+address:
+  - what: "Ps"
+    where: "33"
+  - what: "*WEJ"
+    where: ""
+  - what: "*KOM"
+    where: ""
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+knownas:
+  - "Śpiewajcie Panu pieśń nową"
+  - "1994"
+index:
+  - "cytra"
+  - "dzieło"
+  - "dziesięciostrunna"
+  - "harfa"
+  - "każdy"
+  - "śpiewać"
+  - "święty"
+  - "lud"
+  - "miłość"
+  - "najpiękniej"
+  - "naród"
+  - "niebo"
+  - "nowy"
+  - "obracać"
+  - "On"
+  - "Pan"
+  - "pełny"
+  - "pieśń"
+  - "prawda"
+  - "prawo"
+  - "prawy"
+  - "przy"
+  - "przystoi"
+  - "radować"
+  - "Słowo"
+  - "sprawiedliwość"
+  - "sprawiedliwy"
+  - "tchnienie"
+  - "trwać"
+  - "uczynić"
+  - "udaremniać"
+  - "usta"
+  - "uwielbiać"
+  - "uwielbienie"
+  - "wiek"
+  - "wniwecz"
+  - "wykrzykiwać"
+  - "zagrać"
+  - "zamiar"
+  - "zamiary"
+  - "zamysł"
+  - "zastęp"
+  - "ziemia"
+===
+
+W:
+[G]Radujcie się sprawiedliwi [e]w Panu,
+[C]świętym przystoi uwiel[G]bienie.
+Uwielbiajcie Pana na [e]cytrze,
+przy [C]harfie dziesięciostrunnej Jemu śpie[G]wajcie.
+
+K:
+[a]Śpiewajcie Panu pieśń [HS]nową,
+[a]zagrajcie na cytrze najpiękniej i wykrzy[HS]kujcie,
+[C]albowiem prawe jest Słowo Pana,
+[D]prawdą każde Jego [HS]dzieło.
+[C]W nim są sprawiedliwość i Prawo,
+∼
+Jego mi[D]łości pełna jest [HS]ziemi[C]a.[HS]
+
+W:
+[G]Radujcie się sprawiedliwi [e]w Panu,
+[C]świętym przystoi uwiel[G]bienie.
+Uwielbiajcie Pana na [e]cytrze,
+przy [C]harfie dziesięciostrunnej Jemu śpie[G]wajcie.
+
+K:
+[a]Słowo Pana uczyniło [HS]niebo
+[a]i tchnienie Jego ust - Jego zas[HS]tępy.
+[C]Pan udaremnia zamiary narodów,
+[D]wniwecz obraca zamysły [HS]ludów.
+Ale [C]zamiar Pana,
+∼
+[D]zamiar Pana trwa na [HS]wieki[C]. [HS]
+
+W:
+Ra[G]dujcie się sprawiedliwi [e]w Panu,
+[C]świętym przystoi uwiel[G]bienie.
+Uwielbiajcie Pana na [e]cytrze,
+Przy [C]harfie dziesięciostrunnej Jemu śpie[G]wajcie

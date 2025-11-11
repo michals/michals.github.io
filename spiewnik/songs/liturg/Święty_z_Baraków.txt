@@ -1,0 +1,68 @@
+===
+title: "Święty z Baraków"
+subtitle: "Palomeras 1965"
+section: "liturg"
+color: "liturg"
+tone: "A"
+songid: "S006SwietyJestNaszPan"
+author:
+  - "K"
+year: 1965
+address:
+  - what: "*MSZ"
+    where: ""
+knownas:
+  - "1965"
+  - "Święty jest nasz Pan"
+  - "Święty - Palomeras 1965"
+index:
+  - "Bóg"
+  - "błogosławiony"
+  - "chwała"
+  - "hosanna"
+  - "iść"
+  - "imię"
+  - "święty"
+  - "niebiosa"
+  - "Pan"
+  - "pełny"
+  - "wszechświat"
+  - "wysokość"
+  - "ziemia"
+footnote: "Dawniej: Okres Adwentu i Bożego Narodzenia. Święty jest nasz Pan - Święty z barakówSanto è il Signor - Santo delle baracche (1965) (przyp. red.)"
+===
+
+W:
+[A]Święty, święty, [E]święty,
+święty jest nasz [A]Pan,
+Pan Bóg wszech[E]świata,
+święty jest nasz [A]Pan!
+
+K:
+[F]Pełne są niebiosa
+i [E]ziemia Twojej chwały.
+Ho[F]sanna, hosanna, hosanna,
+hosanna na wyso[E]kościach.
+
+W:
+[A]Święty, święty, [E]święty,
+święty jest nasz [A]Pan,
+Pan Bóg wszech[E]świata,
+święty jest nasz [A]Pan!
+
+K:
+[a]Błogosławiony Ten, który idzie,
+idzie w imię [E]Pana.
+Błogosła[ES]wiony Ten, który idzie,
+idzie w imię [a]Pana.
+
+W:
+Hosanna na wysokościach!
+Błogosławiony Ten, który [E]idzie,
+błogosła[ES]wiony Ten, który idzie,
+idzie w imię [A]Pana.
+
+[A]Święty, święty, [E]święty,
+święty jest nasz [A]Pan,
+Pan Bóg wszech[E]świata,
+święty jest nasz [A]Pan!

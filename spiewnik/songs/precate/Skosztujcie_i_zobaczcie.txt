@@ -1,0 +1,94 @@
+===
+title: "Skosztujcie i zobaczcie"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S075SkosztujcieIzobaczcie"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "34, 2-7.9"
+knownas:
+  - "Błogosławić będę Pana w każdym czasie"
+index:
+  - "biedak"
+  - "błogosławić"
+  - "chlubić"
+  - "chwała"
+  - "czas"
+  - "dobry"
+  - "imię"
+  - "każdy"
+  - "oblicze"
+  - "odpowiedzieć"
+  - "On"
+  - "Pan"
+  - "patrzeć"
+  - "pokorny"
+  - "razem"
+  - "rozpromienić"
+  - "skosztować"
+  - "słyszeć"
+  - "szukać"
+  - "trwoga"
+  - "ucisk"
+  - "usta"
+  - "uwielbiać"
+  - "uwolnić"
+  - "weselić"
+  - "wołać"
+  - "wstyd"
+  - "wszelki"
+  - "wszystek"
+  - "wybawiać"
+  - "wysławiać"
+  - "wysłuchiwać"
+  - "zawsze"
+  - "zaznawać"
+  - "zobaczyć"
+footnote: "Ten psalm w układzie z lekcjonarza na IV Niedzielę Wielkiego Postu rok C, służył kiedyś za przykład śpiewu psalmu responsoryjnego; w „Risuscitò” występuje nadal jako oddzielna pieśń, chociaż w „Risuscitò 2020” pojawiły się także (str. ). W śpiewniku hiszpańskim „Resucitó” nie występuje. Patrz także psalm na str. . (przyp. red.)"
+===
+
+{{{ 2x
+W:
+[e]Skosztujcie i zo[a]baczcie,
+[HS]jak [CS]dobry jest [HS]Pan.
+}}}
+
+K:
+[a]Błogosławić będę Pana w każdym [HS]czasie,
+[a]na moich ustach zawsze Jego [HS]chwała.
+[C]Będę chlubił się [HS]w Panu,
+[C]niech mnie słyszą pokorni i we[HS]selą się.
+
+{{{ 2x
+W:
+[e]Skosztujcie i zo[a]baczcie,
+[HS]jak [CS]dobry jest [HS]Pan.
+}}}
+
+K:
+[a]Uwielbiajcie ze mną [HS]Pana,
+[a]wysławiajmy razem Jego [HS]imię.
+[C]Szukałem Pana i mi odpo[HS]wiedział
+[C]i od wszelkiej trwogi mnie u[HS]wolnił.
+
+{{{ 2x
+W:
+[e]Skosztujcie i zo[a]baczcie,
+[HS]jak [CS]dobry jest [HS]Pan.
+}}}
+
+K:
+[a]Patrzcie na Niego, a rozpromie[HS]nicie się
+[a]i oblicza wasze nie zaznają [HS]wstydu.
+[C]Oto biedak woła, a [HS]Pan go wysłuchuje
+[C]i wybawia go ze wszystkich jego u[HS]cisków.
+
+{{{ 2x
+W:
+[e]Skosztujcie i zo[a]baczcie,
+[HS]jak [CS]dobry jest [HS]Pan.
+}}}

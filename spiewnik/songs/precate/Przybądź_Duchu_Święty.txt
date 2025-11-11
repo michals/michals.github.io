@@ -1,0 +1,130 @@
+===
+title: "Przybądź, Duchu Święty"
+subtitle: "Sekwencja na Pentecoste"
+section: "precate"
+color: "precate"
+tone: "C"
+songid: "S020SekwencjaNaPentecoste"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*HYM"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*OPE"
+    where: ""
+knownas:
+  - "Veni Sancte Spiritus"
+  - "1967"
+index:
+  - "alleluja"
+  - "amen"
+  - "błogi"
+  - "brudny"
+  - "człowiek"
+  - "dać"
+  - "dar"
+  - "dawca"
+  - "Duch"
+  - "dusza"
+  - "gość"
+  - "krwawić"
+  - "śmierć"
+  - "światło"
+  - "światłość"
+  - "święta"
+  - "święty"
+  - "męstwo"
+  - "nagroda"
+  - "najlepszy"
+  - "napełnić"
+  - "nic"
+  - "obmyć"
+  - "odpocznienie"
+  - "ogrzać"
+  - "Ojciec"
+  - "oporny"
+  - "płacz"
+  - "pocieszenie"
+  - "pocieszyciel"
+  - "pokrzepić"
+  - "przybyć"
+  - "radość"
+  - "serce"
+  - "skrzywić"
+  - "słodki"
+  - "sprostować"
+  - "suchy"
+  - "tchnienie"
+  - "trud"
+  - "ubogi"
+  - "udzielić"
+  - "uleczyć"
+  - "wieczysty"
+  - "wierny"
+  - "zesłać"
+  - "zgiąć"
+  - "zimne"
+  - "zrosić"
+footnote: "Sekwencja na Pentecoste (Przybądź, o Duchu Święty) Wykrzyknik o w refrenie (i tytule) jest zbędnym dodatkiem tłumacza. (przyp. red.)"
+===
+
+W:
+[C]Przybądź, (o) Duchu [F]Święty,
+ześlij Twoje [E]światło.
+
+K:
+[C]Przybądź, Ojcze u[F]bogich,
+przybądź dawco [E]darów.
+[C]Przybądź, światłości [F]serc,
+Pocieszycielu naj[E]lepszy.
+W:
+[C]Przybądź, (o) Duchu [F]Święty,
+ześlij Twoje [E]światło.
+
+K:
+[C]Słodki gościu [F]duszy,
+słodkie pokrze[E]pienie,
+[C]odpocznienie [F]w trudzie,
+pocieszenie [E]w płaczu.
+W:
+[C]Przybądź, (o) Duchu [F]Święty,
+ześlij Twoje [E]światło.
+
+K:
+[C]O światłości [F]błoga
+napełń nasze [E]serce,
+[C]bez Twojego [F]tchnienia
+nie ma nic w czło[E]wieku.
+W:
+[C]Przybądź, (o) Duchu [F]Święty,
+ześlij Twoje [E]światło.
+
+K:
+[C]Obmyj to, co [F]brudne,
+zroś to, co jest [E]suche,
+[C]ulecz to, co [F]krwawi,
+zegnij, co o[E]porne.
+W:
+[C]Przybądź, (o) Duchu [F]Święty,
+ześlij Twoje [E]światło.
+
+K:
+[C]Ogrzej to, co [F]zimne,
+sprostuj, co skrzy[E]wione,
+[C]udziel Twoim [F]wiernym
+Twoich świętych [E]darów.
+W:
+[C]Przybądź, (o) Duchu [F]Święty,
+ześlij Twoje [E]światło.
+
+K:
+[C]Daj męstwo i na[F]grodę,
+daj nam świętą [E]śmierć,
+[C]daj wieczystą [F]radość.
+Amen! Alle[E]luja!
+W:
+[C]Przybądź, (o) Duchu [F]Święty,
+ześlij Twoje [E]światło.

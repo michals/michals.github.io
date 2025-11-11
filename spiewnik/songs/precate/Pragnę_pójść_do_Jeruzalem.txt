@@ -1,0 +1,82 @@
+===
+title: "Pragnę pójść do Jeruzalem"
+subtitle: "Pieśń Sefardyjczyków"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S217PragnePojscDoJeruzalem"
+author:
+  - "K"
+  - "tr"
+year: 1992
+address:
+  - what: "*OPA"
+    where: ""
+  - what: "*HEB"
+    where: ""
+  - what: "*ZAK"
+    where: ""
+knownas:
+  - "Już tę ścieżkę odnalazłem"
+  - "Kantyk Sefardyjczyków - żydów hiszpańskich"
+  - "Sefardyjczyków - żydów hiszpańskich, kantyk"
+  - "Ścieżka"
+  - "Ir me kero madre a Yerushalayim"
+  - "1992"
+index:
+  - "Adonaj"
+  - "cały"
+  - "dać"
+  - "Ehad"
+  - "Elohenu"
+  - "Jeruzalem"
+  - "łagodność"
+  - "ścieżka"
+  - "świat"
+  - "la"
+  - "matka"
+  - "nasycić"
+  - "odnaleźć"
+  - "pójść"
+  - "pielgrzymować"
+  - "posłuszeństwo"
+  - "pragnąć"
+  - "pragnienie"
+  - "przyjaźń"
+  - "spożywać"
+  - "zioła"
+footnote: "Melodia pochodzi z opracowania tradycyjnej Ir me kero madre/Ladino. (przyp. red.)"
+===
+
+K:
+[E]Pragnę pójść mat[a]ko
+[d]do[E] Jeruzalem, Jeruzalem,
+[a]by spożywać zioła,
+[d]ab[E]y nasycić się nimi, nasycić się nimi.
+
+W:
+[F]Już tę ścieżkę odnala[a]złem,
+[F]już tą ścieżką pielgrzymu[a]ję,
+[d]ju[E]ż na ścieżce
+całego świata, całego świata.
+W:
+[E]La la, la la la la la la la la.
+La [d]la, la la la la la la la la la la la [E]la,
+la la la la la la la la, la la la la la la la la.
+
+K:
+[E]Daj mi je spoży[a]wać,
+[d]ab[E]ym nasycił nimi me pragnienia;
+to są pragnienia przyjaźni,
+to są pragnienia łagodności,
+to są pragnie[d]nia[E],
+to są pragnienia posłuszeństwa.
+
+W:
+[F]Już tę ścieżkę odnala[a]złem,
+[F]już tą ścieżką pielgrzymu[a]ję,
+[d]ju[E]ż na ścieżce
+całego świata, całego świata.
+W:
+[E]Adonaj Elohenu, Ado[d]naj Elo[E]henu,
+Ado[d]naj [E]Ehad.

@@ -1,0 +1,113 @@
+===
+title: "Niech wstąpi Oblubieniec na drzewo swego łoża"
+subtitle: "Hymn św. Quodvultdeusa"
+section: "elec"
+color: "elec"
+tone: "a"
+songid: "S299NiechWstapiOblubieniec"
+author:
+  - "K"
+year: 2021
+address:
+  - what: "*PAS"
+    where: ""
+  - what: "*HYM"
+    where: ""
+alttone:
+  - "c"
+knownas:
+  - "["
+  - "Święty Quodvultdeus"
+  - "Kwodwultdeus"
+  - "2012"
+index:
+  - "Adam"
+  - "aj"
+  - "bok"
+  - "cały"
+  - "Chrystus"
+  - "drzewo"
+  - "Dziewica"
+  - "Ewa"
+  - "jakże"
+  - "jako"
+  - "Kościół"
+  - "krew"
+  - "łączyć"
+  - "łoże"
+  - "śmierć"
+  - "misterium"
+  - "nakładać"
+  - "natychmiast"
+  - "niebiosa"
+  - "oblubienica"
+  - "oblubieniec"
+  - "obmyć"
+  - "otrzymywać"
+  - "otworzyć"
+  - "płodny"
+  - "posag"
+  - "posłanie"
+  - "powstawać"
+  - "przebić"
+  - "sakrament"
+  - "spać"
+  - "stawać"
+  - "stworzyć"
+  - "tworzyć"
+  - "umierać"
+  - "welon"
+  - "wielki"
+  - "woda"
+  - "wstąpić"
+  - "wstępować"
+  - "wyjść"
+  - "wypłynąć"
+  - "zaślubiny"
+  - "zasypiać"
+  - "ziemia"
+  - "zostać"
+footnote: "Według mowy św. Quodvultdeusa z Kartaginy (-454) O wyznaniu wiary (De Symbolo, CCL 60, 305-334), I Symbol VI. Tekst za „Zmartwychwstał Pan 2024(?)”. (przyp. red.)"
+===
+
+KW:
+[a]Niech wstąpi Oblu[d]bieniec,
+niech [E]wstąpi na drzewo swego [a]łoża;
+niech wstąpi nasz Oblu[d]bieniec,
+na po[E]słanie, na posłanie swego [a]łoża.
+
+K:
+[a]Niech śpi umierając, a Jego bok niech się o[d]tworzy,
+i wyjdzie [E]z niego Dziewica Ko[a]ściół.
+
+Z jego boku przebitego natychmiast wypły[d]nęła
+Krew i [E]woda, krew i [a]woda.
+
+[d]Woda, w której Oblubienica została ob[E]myta,
+[d]Krew otrzymuje jako [E]posag.
+[F]Zasypia Adam i stworzona jest [E]Ewa,
+[F]umiera Chrystus i tworzony jest [E]Kościół.
+
+W:
+[a]Niech wstąpi Oblu[d]bieniec,
+niech [E]wstąpi na drzewo swego [a]łoża;
+niech wstąpi nasz Oblu[d]bieniec,
+na po[E]słanie, na posłanie swego [a]łoża.
+
+K:
+[d]O, jakże wielki jest Sakrament tych za[E]ślubin!
+[d]to misterium Oblubieńca i Oblubie[E]nicy!
+
+[F]Oblubienica nakłada welon,kiedy umiera Oblu[E]bieniec,
+∼
+[F]i Oblubieniec łączy się z Oblubie[d]nicą
+kiedy ze śmierci po[E]wstaje.
+∼
+[F]A kiedy Oblubieniec wstępuje na Niebiosa, aj!
+Oblubienica staje się płodna na całej [E]ziemi.
+
+W:
+[a]Niech wstąpi Oblu[d]bieniec,
+niech [E]wstąpi na drzewo swego [a]łoża;
+niech wstąpi nasz Oblu[d]bieniec,
+na po[E]słanie, na posłanie swego [a]łoża.

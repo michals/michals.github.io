@@ -1,0 +1,122 @@
+===
+title: "Ty mi ukażesz ścieżkę życia"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S135TyMiUkazeszSciezkeZycia"
+author:
+  - "K"
+year: 2000
+address:
+  - what: "Ps"
+    where: "16"
+  - what: "*WEJ"
+    where: ""
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+knownas:
+  - "Z tego się cieszy moje serce"
+  - "["
+  - "1986"
+index:
+  - "Bóg"
+  - "bezpieczny"
+  - "błogosławić"
+  - "chronić"
+  - "ciało"
+  - "cieszyć"
+  - "część"
+  - "dobro"
+  - "dusza"
+  - "dziedzictwo"
+  - "grób"
+  - "kielich"
+  - "koniec"
+  - "ścieżka"
+  - "święty"
+  - "żaden"
+  - "życie"
+  - "los"
+  - "móc"
+  - "miejsce"
+  - "noc"
+  - "obecność"
+  - "Pan"
+  - "pełny"
+  - "pouczać"
+  - "powiedzieć"
+  - "poza"
+  - "pozwolić"
+  - "prawica"
+  - "rada"
+  - "radość"
+  - "radować"
+  - "ręka"
+  - "rozkoszny"
+  - "serce"
+  - "siebie"
+  - "słodycz"
+  - "spoczywać"
+  - "stawiać"
+  - "ukazać"
+  - "wesprzeć"
+  - "widzieć"
+  - "wspaniały"
+  - "wyznaczyć"
+  - "zachować"
+  - "zachwiać"
+  - "zawsze"
+  - "zepsucie"
+  - "zostawić"
+footnote: "Na koniec w nagraniach powtarza się dodatkowo słowa po Twej prawicy z rozwiązaniem na kwincie. (przyp. red.)"
+===
+
+KW:
+[a]Ty mi ukażesz ścieżkę [F]życia,
+[d]Ty mi ukażesz ścieżkę [a]życia,
+[E]pełną radość w Twojej obecności,
+[d]słodycz bez końca po Twej pra[E]wicy.
+
+K:
+[a]Zachowaj mnie, o [F]Boże: [d]w Tobie się [a]chronię.
+Powiedziałem [F]Bogu: [d]„Ty jesteś moim [a]Panem,
+[E]poza Tobą nie mam żadnego dobra”.
+
+W:
+[a]Ty mi ukażesz ścieżkę [F]życia,
+[d]Ty mi ukażesz ścieżkę [a]życia,
+[E]pełną radość w Twojej obecności,
+[d]słodycz bez końca po Twej pra[E]wicy.
+
+K:
+[a]Pan moją częścią dziedzictwa i moim kie[F]lichem:
+[d]w Twoich rękach jest moje [a]życie.
+[a]Los mi wyznaczył miejsca roz[F]koszne,
+[d]moje dziedzictwo jest wspa[E]niałe.
+[a]Błogosławię Pana, który wsparł mnie [F]radą;
+[d]nawet w nocy poucza moje serce.
+Stawiam [E]zawsze przed sobą Pana,
+[d]jest po mej prawicy, nie mogę się [E]zachwiać.
+
+W:
+[a]Ty mi ukażesz ścieżkę [F]życia,
+[d]Ty mi ukażesz ścieżkę [a]życia,
+[E]pełną radość w Twojej obecności,
+[d]słodycz bez końca po Twej pra[E]wicy.
+
+K:
+[a]Z tego się cieszy moje [F]serce,
+[d]raduje się moja [a]dusza;
+[E]także ciało spoczywa bezpiecznie,
+bo nie zo[d]stawisz mojego życia [E]w grobie,
+ani nie po[d]zwolisz, żeby Twój Święty
+∼
+widział ze[E]psucie, [d]widział ze[E]psucie.[d]
+
+W:
+[a]Ty mi ukażesz ścieżkę [F]życia,
+[d]Ty mi ukażesz ścieżkę [a]życia,
+[E]pełną radość w Twojej obecności,
+[d]słodycz bez końca po Twej pra[E]wicy.

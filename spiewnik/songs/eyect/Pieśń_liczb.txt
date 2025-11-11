@@ -1,0 +1,169 @@
+===
+title: "Pieśń liczb"
+subtitle: "Melodia hebrajska"
+section: "eyect"
+color: "eyect"
+tone: "e"
+songid: "S158PiesnLiczb"
+author:
+  - "tr"
+year: 2017
+address:
+  - what: "*DZI"
+    where: ""
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*HEB"
+    where: ""
+knownas:
+  - "Kto wie, co to jest jeden?"
+children: true
+index:
+  - "arka"
+  - "Bóg"
+  - "cztery"
+  - "dwa"
+  - "dzień"
+  - "dziesięć"
+  - "dziewięć"
+  - "jeden"
+  - "księga"
+  - "życie"
+  - "miesiąc"
+  - "naród"
+  - "niebo"
+  - "noc"
+  - "osiem"
+  - "osoba"
+  - "patriarcha"
+  - "pięć"
+  - "poród"
+  - "prawo"
+  - "przykazanie"
+  - "przymierze"
+  - "siedem"
+  - "stworzenie"
+  - "sześć"
+  - "tablice"
+  - "trzy"
+  - "ważny"
+  - "wiedzieć"
+  - "wrogi"
+  - "ziemia"
+footnote: "Pieśni nie ma w śpiewnikach. Jest jednak śpiewana podczas Paschy przez dzieci w Hiszpanii i w Polsce. W nutach są alternatywne elementy wyliczanki. (przyp. red.)"
+===
+
+K:
+[e]Kto wie, co to jest jeden?
+Kto [G]wie, co [a]to jest [e]jeden?
+D:
+1 Ja [a]wiem, co to jest [e]jeden.
+Ja [HS]wiem, co to jest [e]jeden.
+D:
+1 [e]Jeden jest nasz Bóg          [a]w niebie i na ziemi.
+W:
+[e]Jeden jest nasz Bóg[HS]w niebie i na [e]ziemi.
+
+K:
+Kto wie, co to jest dwa? …
+D:
+2 [e]Dwie, dwie ta[a]blice przymierza.
+W:
+[e]Jeden jest nasz Bóg[HS]w niebie i na [e]ziemi.
+
+K:
+Kto wie, co to jest trzy? …
+D:
+3 [e]Trzej, trzej [a]są patriarchowie.
+D:
+2 [e]Dwie, dwie ta[HS]blice przy[e]mierza.
+D:
+1 Jeden jest nasz Bóg                         w niebie i na ziemi.
+W:
+Jeden jest nasz Bóg                          w niebie i na ziemi.
+
+K:
+Kto wie, co to jest cztery? …
+D:
+4 [e]Cztery, cztery, [a]są ważne noce.
+D:
+3 [e]Trzej, trzej [HS]są patriar[e]chowie.
+D:
+2 Dwie, dwie tablice przymierza.
+W:
+Jeden jest nasz Bóg                          w niebie i na ziemi.
+
+K:
+Kto wie, co to jest pięć? …
+D:
+5 [e]Pięć, pięć [a]jest Ksiąg Prawa.
+D:
+4 [e]Cztery, cztery, [HS]są ważne [e]noce.
+⋮
+
+D:
+1 Jeden jest nasz Bóg w niebie i na ziemi.
+W:
+Jeden jest nasz Bóg w niebie i na ziemi.
+
+K:
+Kto wie, co to jest sześć? …
+D:
+6 [e]Sześć, sześć [a]było dni stworzenia.
+D:
+5 [e]Pięć, pięć [HS]jest Ksiąg [e]Prawa.
+⋮
+D:
+2 Dwie, dwie tablice przymierza.
+W:
+Jeden jest nasz Bóg w niebie i na ziemi.
+
+K:
+Kto wie, co to jest siedem? …
+D:
+7 [e]Siedem, siedem [a]wrogich narodów.
+D:
+6 [e]Sześć, sześć [HS]było dni stwo[e]rzenia.
+⋮
+D:
+1 Jeden jest nasz Bóg w niebie i na ziemi.
+W:
+Jeden jest nasz Bóg w niebie i na ziemi.
+
+K:
+Kto wie, co to jest osiem? …
+D:
+8 [e]Osiem, osiem [a]osób było w arce.
+D:
+7 [e]Siedem, siedem [HS]wrogich na[e]rodów.
+⋮
+D:
+2 Dwie, dwie tablice przymierza.
+W:
+Jeden jest nasz Bóg w niebie i na ziemi.
+
+K:
+Kto wie, co to jest dziewięć? …
+D:
+9 [e]Dziewięć jest mie[a]sięcy do porodu.
+D:
+8 [e]Osiem, osiem [HS]osób było [e]w arce.
+⋮
+D:
+1 Jeden jest nasz Bóg w niebie i na ziemi.
+W:
+Jeden jest nasz Bóg w niebie i na ziemi.
+
+K:
+Kto wie, co to jest dziesięć? …
+D:
+10 [e]Dziesięć, dziesięć [a]jest przykazań życia.
+D:
+9 [e]Dziewięć jest mie[HS]sięcy do po[e]rodu.
+⋮
+D:
+2 Dwie, dwie tablice przymierza.
+W:
+Jeden jest nasz Bóg w niebie i na ziemi.

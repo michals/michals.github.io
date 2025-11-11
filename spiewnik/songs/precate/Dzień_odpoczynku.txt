@@ -1,0 +1,85 @@
+===
+title: "Dzień odpoczynku"
+subtitle: "Melodia hebrajska"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S095DzienOdpoczynku"
+author:
+  - "GG"
+  - "trm"
+year: 1992
+address:
+  - what: "J"
+    where: "8, 51.56"
+  - what: "*HEB"
+    where: ""
+  - what: "*ZAK"
+    where: ""
+alttone:
+  - "f"
+knownas:
+  - "Odpoczynku dzień i uświęcenia czas"
+  - "Kto zachowuje moje słowo"
+index:
+  - "Abraham"
+  - "czas"
+  - "dać"
+  - "dotknąć"
+  - "dzień"
+  - "Izaak"
+  - "Jakub"
+  - "jedyny"
+  - "śmierć"
+  - "lud"
+  - "nigdy"
+  - "odpocząć"
+  - "odpoczynek"
+  - "pamiątka"
+  - "Pan"
+  - "radość"
+  - "rozradować"
+  - "słowo"
+  - "syn"
+  - "trwać"
+  - "uświęcić"
+  - "wesele"
+  - "wieniec"
+  - "zachowywać"
+  - "zbawienie"
+  - "zobaczyć"
+footnote: "Melodia z tradycyjnej hebrajskiej modlitwy szabasowej Ata Echad - Jesteś Jedynym. (przyp. red.)"
+===
+
+K:
+[e]Kto zachowuje [a]moje [e]słowo,
+nigdy go nie dotknie śmierć.
+W:
+Tyś jest Jedyny, Je[a]dyny, który trwa w ra[e]dości.
+Któż jest jak nasz Pan?
+
+K:
+Ten [a]dzień jest [e]wieńcem zbawienia,
+W:
+pa[a]miątką ra[e]dości i wesela.
+{{{ 2x
+W:
+[e]Odpoczynku dzień i [a]uświęcenia czas
+lu[e]dowi swemu dałeś.
+[e]Odpoczynku dzień i [a]uświęcenia czas
+lu[e]dowi swemu dałeś.
+}}}
+
+K:
+A[a]braham [e]dzień ten zobaczył
+W:
+[a]i w Iza[e]aku się rozradował.
+KW:
+Jakub [a]i synowie jego [e]w dniu tym odpoczęli.
+{{{ 2x
+W:
+[e]Odpoczynku dzień i [a]uświęcenia czas
+lu[e]dowi swemu dałeś.
+[e]Odpoczynku dzień i [a]uświęcenia czas
+lu[e]dowi swemu dałeś.
+}}}

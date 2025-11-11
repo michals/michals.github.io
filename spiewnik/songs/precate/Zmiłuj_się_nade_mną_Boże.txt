@@ -1,0 +1,232 @@
+===
+title: "Zmiłuj się nade mną, Boże"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S062ZmilujSieNadeMnaBoze"
+author:
+  - "K"
+year: 1996
+address:
+  - what: "Ps"
+    where: "51"
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "Miserere"
+index:
+  - "Bóg"
+  - "całopalenie"
+  - "choćby"
+  - "chwała"
+  - "cielec"
+  - "czysty"
+  - "dać"
+  - "dar"
+  - "dobroć"
+  - "droga"
+  - "duch"
+  - "Duch"
+  - "głosić"
+  - "grzech"
+  - "grzesznik"
+  - "hyzop"
+  - "jako"
+  - "język"
+  - "Jeruzalem"
+  - "kara"
+  - "kości"
+  - "krew"
+  - "łaska"
+  - "śnieg"
+  - "święty"
+  - "litość"
+  - "mądrość"
+  - "matka"
+  - "miłosierdzie"
+  - "moc"
+  - "mury"
+  - "nauczać"
+  - "nauczyć"
+  - "nieprawość"
+  - "nieprawy"
+  - "obciążyć"
+  - "oblicze"
+  - "obmyć"
+  - "oczyścić"
+  - "odbierać"
+  - "odbudować"
+  - "odnowić"
+  - "odrzucać"
+  - "odwrócić"
+  - "ofiara"
+  - "ofiarny"
+  - "ogrom"
+  - "okazać"
+  - "oko"
+  - "ołtarz"
+  - "otworzyć"
+  - "Pan"
+  - "począć"
+  - "pokorny"
+  - "pokropić"
+  - "prawda"
+  - "prawy"
+  - "przeciwko"
+  - "przelać"
+  - "przewinienie"
+  - "przyjąć"
+  - "przywrócić"
+  - "radość"
+  - "radować"
+  - "sąd"
+  - "sam"
+  - "serce"
+  - "składać"
+  - "skruszony"
+  - "skruszyć"
+  - "sławić"
+  - "sprawić"
+  - "sprawiedliwość"
+  - "sprawiedliwy"
+  - "stanąć"
+  - "stworzyć"
+  - "Syjon"
+  - "tajemnica"
+  - "uczynić"
+  - "ukryty"
+  - "upodobanie"
+  - "urodzić"
+  - "usłyszeć"
+  - "usta"
+  - "uwolnić"
+  - "uznawać"
+  - "wówczas"
+  - "warga"
+  - "wesele"
+  - "wina"
+  - "wrócić"
+  - "wszystek"
+  - "wtedy"
+  - "wybieleć"
+  - "wyrok"
+  - "wzgardzić"
+  - "wzmocnić"
+  - "wzrok"
+  - "zawsze"
+  - "Zbawca"
+  - "zbawienie"
+  - "zgładzić"
+  - "zgrzeszyć"
+  - "zły"
+  - "zmazać"
+  - "zmiłować"
+  - "zupełny"
+footnote: "Za „Zmartwychwstał Pan 2025”: miłości→litości, moją nieprawość→nieprawość moją, Przeciwko Tobie, przeciwko Tobie samemu, Dlatego okazujesz się sprawiedliwy w Twoich wyrokach→Abyś okazał się sprawiedliwy w swym wyroku, w szczerości serca→w ukrytej prawdzie, i w moim wnętrzu uczysz mnie→naucz mnie tajemnic, oczyść→pokrop, odczuł→usłyszał, rozradują się→niech się radują, odnów we mnie ducha ofiarnego→wzmocnij mnie duchem ofiarnym, błądzących→nieprawych, od krwi, Boże, Boże mojego zbawienia→Boże, od kary za krew przelaną, Boże, mój Zbawco, język mój będzie sławić Twoją
+sprawiedliwość→niech sławi mój język sprawiedliwość Twoją, Ty, o Boże→Ty, Boże, okaż Syjonowi łaskę w swej miłości→Panie, okaż Syjonowi łaskę w Twej dobroci, przepisane ofiary→prawe ofiary, całopalenia i obiatę→dary i całopalenia, żertwy ofiarne→cielce. Uff… (przyp. red.)"
+===
+
+K:
+[e]Zmiłuj się nade mną [a]Boże, w miłosierdziu [e]swoim;
+W:
+w ogromie swej li[a]tości zgładź nieprawość [e]moją.
+
+K:
+Obmyj mnie zupełnie z mojej winy
+W:
+i oczyść mnie z grzechu mojego.
+
+K:
+Uznaję bowiem nieprawość moją,
+W:
+a grzech mój jest zawsze przede mną.
+
+K:
+Przeciwko Tobie samemu zgrzeszyłem
+W:
+i uczyniłem, co złe jest w Twoich oczach.
+
+K:
+Abyś okazał się sprawiedliwy w swym wyroku
+W:
+i prawy w swoim sądzie.
+
+K:
+Oto urodziłem się obciążony winą
+W:
+i jako grzesznika poczęła mnie matka.
+
+K:
+Ale Ty masz upodobanie w ukrytej prawdzie;
+W:
+naucz mnie tajemnic mądrości.
+
+K:
+Pokrop mnie hyzopem, a stanę się czysty;
+W:
+obmyj mnie, a nad śnieg wybieleję.
+
+K:
+Spraw, bym usłyszał radość i wesele,
+W:
+niech się radują kości, które skruszyłeś.
+
+K:
+Odwróć swój wzrok od moich grzechów
+W:
+i zmaż wszystkie moje przewinienia.
+
+K:
+Stwórz, Boże, we mnie serce czyste
+W:
+i odnów we mnie moc ducha.
+
+K:
+Nie odrzucaj mnie od swego oblicza
+W:
+i nie odbieraj mi Świętego Ducha Twego.
+
+K:
+Przywróć mi radość z Twojego zbawienia
+W:
+i wzmocnij mnie duchem ofiarnym.
+
+K:
+Będę nieprawych nauczał dróg Twoich
+W:
+i wrócą do Ciebie grzesznicy.
+
+K:
+Uwolnij mnie, Boże, od kary za krew przelaną,                               Boże, mój Zbawco,
+W:
+niech sławi mój język sprawiedliwość Twoją.
+
+K:
+Panie, otwórz wargi moje,
+W:
+a usta moje będą głosić Twoją chwałę.
+
+K:
+Ofiarą bowiem Ty się nie radujesz,
+W:
+a całopalenia, choćbym dał, nie przyjmiesz.
+
+K:
+Moją ofiarą dla Boga jest duch skruszony,
+W:
+pokornym i skruszonym sercem,                                    Ty, o Boże, nie wzgardzisz.
+
+K:
+Panie, okaż Syjonowi łaskę w Twej dobroci,
+W:
+odbuduj mury Jeruzalem.
+
+K:
+Wówczas przyjmiesz prawe ofiary,
+W:
+dary i całopalenia.
+
+K:
+Wtedy składać będą cielce
+W:
+na Twoim ołtarzu.

@@ -1,0 +1,67 @@
+===
+title: "Śpiewajmy, śpiewajmy"
+section: "eyect"
+color: "eyect"
+tone: "A"
+songid: "S036SpiewajmySpiewajmy"
+author:
+  - "GDL"
+  - "PM"
+year: 1992
+address:
+  - what: "Wj"
+    where: "15, 1-2"
+knownas:
+  - "1970"
+  - "Kantyk Mojżesza, krótszy"
+  - "Pieśń nową zaśpiewam"
+yhwh: true
+index:
+  - "Bóg"
+  - "chwała"
+  - "imię"
+  - "Jahwe"
+  - "Król"
+  - "śpiewać"
+  - "nowy"
+  - "Ojciec"
+  - "okazać"
+  - "On"
+  - "Pan"
+  - "pieśń"
+  - "potężny"
+  - "sposób"
+  - "wiek"
+  - "wróg"
+  - "zaśpiewać"
+  - "zwyciężyć"
+footnote: "Występuje w Risuscitò Canti del cammino neocatecumenale Edizione Musicale, Parrocchia ss. Martiri Canadesi, Via G.B. de Rossi 46, Roma 1977. (przyp. red.)"
+===
+
+K:
+[A]Pieśń nową za[E]śpiewam
+[D]Jahwe, memu [E]Panu,
+[A]który w sposób po[E]tężny
+[D]swoją chwałę o[E]kazał.
+
+Śpiewajmy [D]Panu;
+[ES]On wroga [D]zwyciężył.
+Śpiewajmy [HS]Panu;
+On Królem na [ES]wieki.
+
+W:
+[A]Śpiewajmy, śpie[D]wajmy
+[A]Panu na[E]szemu.
+[A]On wroga zwy[D]ciężył,
+[A]On Królem na [E]wieki.
+
+[A]Śpiewajmy, śpie[D]wajmy,
+[A]to Bóg mego [E]Ojca.
+[A]śpiewajmy, śpie[D]wajmy,
+[A]Jahwe Jego [E]imię.
+
+K:
+[A]Pieśń nową za[E]śpiewam
+[D]Jahwe, memu [E]Panu,
+[A]który w sposób po[E]tężny
+[D]swoją chwałę o[E]kazał.

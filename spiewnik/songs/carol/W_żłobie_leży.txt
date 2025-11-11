@@ -1,0 +1,212 @@
+===
+title: "W żłobie leży"
+section: "carol"
+color: "carol"
+tone: "D"
+songid: "S711WZlobieLezy"
+author:
+  - "PS"
+  - "trm"
+year: 1707
+address:
+  - what: "Mt"
+    where: "1, 23"
+  - what: "Mt"
+    where: "2, 11.16-18"
+  - what: "Łk"
+    where: "2, 15-16"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+alttone:
+  - "F"
+knownas:
+  - "Pastuszkowie, przybywajcie"
+index:
+  - "anioł"
+  - "Bóg"
+  - "bardziej"
+  - "bydlę"
+  - "cały"
+  - "chcieć"
+  - "choć"
+  - "Chrystus"
+  - "chwała"
+  - "czekać"
+  - "czem"
+  - "czemu"
+  - "człek"
+  - "człowiek"
+  - "dać"
+  - "dar"
+  - "doczesny"
+  - "dziś"
+  - "Emanuel"
+  - "empirejski"
+  - "głos"
+  - "grzesznik"
+  - "jako"
+  - "Jezus"
+  - "kąpać"
+  - "kąpiel"
+  - "kochać"
+  - "kolędować"
+  - "kontentować"
+  - "kraj"
+  - "król"
+  - "krwawy"
+  - "krzyżowy"
+  - "kwiat"
+  - "łóżeczko"
+  - "łoże"
+  - "świat"
+  - "leżeć"
+  - "żłób"
+  - "żłobeczek"
+  - "Mały"
+  - "Maleńki"
+  - "móc"
+  - "miłość"
+  - "monarcha"
+  - "najprzód"
+  - "narodzić"
+  - "nazwać"
+  - "niebieski"
+  - "niebiosa"
+  - "niebo"
+  - "niechaj"
+  - "niskość"
+  - "ocean"
+  - "oddawać"
+  - "ofiara"
+  - "On"
+  - "opuścić"
+  - "opuszczać"
+  - "państwo"
+  - "Pan"
+  - "panięty"
+  - "pastuszek"
+  - "piosneczka"
+  - "płakać"
+  - "pobieżeć"
+  - "poddaństwo"
+  - "położyć"
+  - "polny"
+  - "posłać"
+  - "pospieszyć"
+  - "przybywać"
+  - "przyczyna"
+  - "przygrywać"
+  - "przyjąć"
+  - "przyrównać"
+  - "przywitać"
+  - "Rachela"
+  - "Rama"
+  - "rozkosz"
+  - "sam"
+  - "serce"
+  - "sianko"
+  - "siano"
+  - "skąd"
+  - "słać"
+  - "sprawić"
+  - "stajnia"
+  - "stanąć"
+  - "syn"
+  - "szacować"
+  - "tak"
+  - "tedy"
+  - "trzy"
+  - "ubogi"
+  - "ucieszyć"
+  - "wdzięczny"
+  - "wesołość"
+  - "więc"
+  - "większy"
+  - "widzieć"
+  - "witać"
+  - "wolność"
+  - "wschodni"
+  - "wszędy"
+  - "wszyscy"
+  - "wysokość"
+  - "wywyższyć"
+  - "wzbijać"
+  - "zabrzmieć"
+  - "zaś"
+  - "zaśpiewać"
+  - "zbawiony"
+  - "ziemski"
+  - "złość"
+  - "złożony"
+  - "zobaczyć"
+  - "zstąpić"
+  - "zwyknąć"
+footnote: "Kolęda polska. Powstała w XVII lub XVIII wieku. Przypisywana Piotrowi Skardze - do melodii poloneza koronacyjnego króla Władysława IV. Zapis melodii znajduje się w kancjonałach benedyktynek staniąteckich począwszy od rękopisu z 1707 r. Tę samą muzykę z drobnymi odchyleniami rytmicznymi, podają trzy kancjonały franciszkanek z I poł. XVIII w.; trzy inne podają sam tekst. Rękopisy karmelitanek nie zawierają melodii, cztery z nich (kantyczka Chybińskiego, rękopis z biblioteki klasztornej, sygn. 95, rękopisy BJ 3640 i 3642) przekazują tekst. Melodia będąca dziś w użyciu pochodzi w pierwszej części z I wersji
+podawanej przez Mioduszewskiego, w drugiej części z wersji II."
+===
+
+[D]W żłobie leży, [A]któż pobieży,
+[D]Kolę[G]dować [A]Małe[D]mu
+[D]Jezusowi [A]Chrystusowi
+[D]Dziś nam [G]naro[A]dzone[D]mu?
+[D]Pastuszkowie, [G]przybywaj[A]cie,
+[A]Jemu wdzięcznie [D]przygrywajcie
+[G]Jako Pa[A]nu nasze[D]mu.
+
+My zaś sami z piosneczkami
+za wami pospieszymy,
+a tak tego Maleńkiego
+niech wszyscy zobaczymy:
+Jak, ubogo narodzony,
+płacze w stajni położony,
+więc Go dziś ucieszymy.
+
+Najprzód tedy niechaj wszędy
+zabrzmi świat w wesołości,
+że posłany, nam jest dany
+Emanuel w niskości.
+Jego tedy przywitajmy,
+z aniołami zaśpiewajmy:
+„chwała na wysokości!”
+
+Witaj, Panie, cóż się stanie,
+że rozkosze niebieskie
+opuściłeś, a zstąpiłeś
+na te niskości ziemskie?
+Miłość Moja to sprawiła,
+by człowieka wywyższyła
+pod nieba Empirejskie.
+
+Czem’ w żłobeczku, nie w łóżeczku
+na siankuś położony?
+Czem’ z bydlęty, nie z panięty,
+w stajni jesteś złożony?
+By człek sianu przyrównany,
+grzesznik bydlęciem nazwany,
+przeze mnie był zbawiony.
+
+Twoje państwo i poddaństwo
+jest świat cały, o Boże!
+Tyś polny kwiat, czemu Cię świat
+przyjąć nie chce, choć może?
+Bo świat doczesne wolności
+zwykł kochać, Mnie zaś w swej złości
+krzyżowe ściele łoże.
+
+W Ramie głosy pod niebiosy
+wzbijają się Racheli,
+gdy swe syny bez przyczyny
+w krwawej widzi kąpieli.
+Większe Mnie dla nich kąpanie
+w krwawym czeka oceanie
+skąd niebo będą mieli.
+
+Trzej królowie, monarchowie
+wschodni kraj opuszczają,
+serc ofiary z trzema dary
+Tobie Panu oddają.
+Darami się kontentujesz,
+bardziej serca ich szacujesz,
+za co niech niebo mają.

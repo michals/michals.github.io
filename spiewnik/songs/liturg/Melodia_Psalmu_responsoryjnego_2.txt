@@ -1,0 +1,56 @@
+===
+title: "Melodia Psalmu responsoryjnego (2)"
+section: "liturg"
+color: "liturg"
+tone: "G"
+songid: "S907PsalmResponsoryjnyII"
+author:
+  - "K"
+year: 2023
+index:
+  - "Bóg"
+  - "cały"
+  - "cenniejszy"
+  - "chwała"
+  - "dusza"
+  - "imię"
+  - "łaska"
+  - "świątynia"
+  - "życie"
+  - "obfity"
+  - "potęga"
+  - "pragnąć"
+  - "radosny"
+  - "ręka"
+  - "sławić"
+  - "sycić"
+  - "ujrzeć"
+  - "usta"
+  - "warga"
+  - "więc"
+  - "wielbić"
+  - "wpatrywać"
+  - "wznieść"
+footnote: "Na te melodie należy śpiewać podczas celebracji Eucharystii odpowiedni psalm z lekcjonarza (przyp. włoski). Tutaj za śpiewnikiem hiszpańskim: strofy z XXII niedzieli zwykłej roku A. Patrz też na str. . (przyp. red.)"
+===
+
+KW:
+[G]Ciebie, mój Boże, [C]pragnie moja [G]dusza.
+
+K:
+[G]Oto wpatruję się w Ciebie w świątyni,
+by ujrzeć Twą potęgę i chwałę.
+[C]Twoja łaska jest cenniejsza od życia,
+więc sławić Cię będą moje [G]wargi.
+
+W:
+[G]Ciebie, mój Boże, [C]pragnie moja [G]dusza.
+
+K:
+[G]Będę Cię wielbił przez całe me życie
+i wzniosę ręce w imię Twoje.
+[C]Moja dusza syci się obficie,
+a usta Cię wielbią radosnymi war[G]gami.
+
+W:
+[G]Ciebie, mój Boże, [C]pragnie moja [G]dusza.

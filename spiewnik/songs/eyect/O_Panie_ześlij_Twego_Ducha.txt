@@ -1,0 +1,108 @@
+===
+title: "O Panie, ześlij Twego Ducha"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S085OPanieZeslijTwegoDucha"
+author:
+  - "LD"
+year: 1983
+address:
+  - what: "Ps"
+    where: "104"
+  - what: "*PAS"
+    where: ""
+alttone:
+  - "a"
+knownas:
+  - "Inwokacja do Ducha Świętego"
+index:
+  - "Bóg"
+  - "błogosławić"
+  - "chleb"
+  - "człowiek"
+  - "dłoń"
+  - "Duch"
+  - "dusza"
+  - "każdy"
+  - "karmić"
+  - "kiełkować"
+  - "kochać"
+  - "komnata"
+  - "świat"
+  - "życie"
+  - "majestat"
+  - "miłość"
+  - "nieść"
+  - "oblicze"
+  - "odnawiać"
+  - "odnowić"
+  - "odziany"
+  - "ogień"
+  - "otwierać"
+  - "owoce"
+  - "Pan"
+  - "płomień"
+  - "ponad"
+  - "poprzez"
+  - "przechadzać"
+  - "przesłanie"
+  - "przestrzeń"
+  - "skrzydło"
+  - "sługa"
+  - "sprawiać"
+  - "stworzyć"
+  - "sycić"
+  - "tchnienie"
+  - "usta"
+  - "wiatr"
+  - "wielki"
+  - "woda"
+  - "wspaniałość"
+  - "wyczekiwać"
+  - "wyrastać"
+  - "wysokość"
+  - "wysyłać"
+  - "wznieść"
+  - "zesłać"
+  - "ziemia"
+footnote: "Tej pieśni nie ma w „Resucitó”, „Risuscitò”, ani w „Zmartwychwstał Pan”, chociaż jej refren śpiewamy jako inwokację do Ducha Świętego. Akordy z publikowanych nut, chociaż niekiedy preferuje się nad słowem oblicze akord d zamiast D. (przyp. red.)"
+===
+
+W:
+[a]O Panie, [d]ześlij Twego [a]Ducha,
+aE7 a
+[G]by od[C]nowił o[F]bli[D]cze ziemi.
+
+K:
+[a]O Panie, niech ma [G]dusza błogo[C]sławi Cię, [d]Bo[ES]że!
+Ty [a]jesteś wielki! O[G]dziany we wspa[F]niałość [a]i maje[G]st[a]at,
+[a]Swe komnaty wzniosłeś [G]ponad wo[C]dami, [d]Bo[ES]że!
+Na [a]wysokościach, prze[G]chadzasz się na [F]skrzy[a]dłach wia[G]tr[a]u.
+
+W:
+[a]O Panie, [d]ześlij Twego [a]Ducha,
+aE7 a
+[G]by od[C]nowił o[F]bli[D]cze ziemi.
+
+K:
+[a]To wiatr niesie Twe prze[G]słanie dla [C]świata. [d]Bo[ES]że!
+po[a]przez przestrzenie. Słu[G]gami twymi [F]ogień [a]i płomie[G]ni[a]e.
+[a]Owocami, które [G]wyrastają [C]z ziemi, [d]Bo[ES]że!
+Ty [a]karmisz nas. Ty [G]sprawiasz, że nasz [F]chleb [a]kiełku[G]je[a].
+
+W:
+[a]O Panie, [d]ześlij Twego [a]Ducha,
+aE7 a
+[G]by od[C]nowił o[F]bli[D]cze ziemi.
+
+K:
+[a]Na Twą miłość wycze[G]kuje każdy [C]człowiek, [d]Bo[ES]że!
+któ[a]ry nas kochasz. Ot[G]wierasz swoją [F]dłoń [a]i nas sy[G]ci[a]sz.
+[a]Wysyłasz tchnienie [G]życia z Twoich [C]ust, [d]Bo[ES]że!
+i [a]są stworzeni. O[G]dnawiasz ob[F]lic[a]ze tej Zie[G]m[a]i.
+
+W:
+[a]O Panie, [d]ześlij Twego [a]Ducha,
+aE7 a
+[G]by od[C]nowił o[F]bli[D]cze ziemi.

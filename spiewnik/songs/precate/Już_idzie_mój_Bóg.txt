@@ -1,0 +1,102 @@
+===
+title: "Już idzie mój Bóg"
+subtitle: "Kolęda"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S073JuzIdzieMojBog"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*OAD"
+    where: ""
+  - what: "*DZI"
+    where: ""
+  - what: "*OBN"
+    where: ""
+  - what: "*KOL"
+    where: ""
+children: true
+index:
+  - "Bóg"
+  - "Betlejem"
+  - "boleść"
+  - "iść"
+  - "Józef"
+  - "Król"
+  - "krzyż"
+  - "śmierć"
+  - "śpiewać"
+  - "ludzie"
+  - "mówić"
+  - "Maryja"
+  - "matka"
+  - "miłość"
+  - "nadchodzić"
+  - "ojciec"
+  - "Ojciec"
+  - "oko"
+  - "On"
+  - "Pan"
+  - "pełny"
+  - "robotnik"
+  - "umrzeć"
+  - "wejść"
+  - "wołać"
+  - "wstawać"
+  - "Zbawiciel"
+  - "zmartwychwstać"
+  - "zrodzić"
+  - "zwyciężyć"
+===
+
+W:
+[e]Już idzie mój Bóg, już idzie mój [HS]Król.
+Już idzie mój Bóg, już idzie mój [e]Król.
+Już idzie, już idzie mój Zba[HS]wiciel,
+już idzie, już idzie mój [e]Król.
+
+K:
+[e]Jest robotnikiem, zrodzonym w Bet[HS]lejem,
+Jego matką Maryja, a Józef jest [e]ojcem.
+Już idzie, już idzie mój Zba[HS]wiciel,
+już idzie, już idzie mój [e]Król.
+W:
+[e]Już idzie mój Bóg, już idzie mój [HS]Król.
+Już idzie mój Bóg, już idzie mój [e]Król.
+Już idzie, już idzie mój Zba[HS]wiciel,
+już idzie, już idzie mój [e]Król.
+
+K:
+[e]Jego oczy mówią o mi[HS]łości,
+mówią o Ojcu, mówią o [e]Bogu.
+Już idzie, już idzie mój Zba[HS]wiciel,
+już idzie, już idzie mój [e]Król.
+W:
+[e]Już idzie mój Bóg, już idzie mój [HS]Król.
+Już idzie mój Bóg, już idzie mój [e]Król.
+Już idzie, już idzie mój Zba[HS]wiciel,
+już idzie, już idzie mój [e]Król.
+
+K:
+[e]On umarł na krzyżu pełen bo[HS]leści,
+umarł za ludzi pełen mi[e]łości.
+Już idzie, już idzie mój Zba[HS]wiciel,
+już idzie, już idzie mój [e]Król.
+W:
+[e]Już idzie mój Bóg, już idzie mój [HS]Król.
+Już idzie mój Bóg, już idzie mój [e]Król.
+Już idzie, już idzie mój Zba[HS]wiciel,
+już idzie, już idzie mój [e]Król.
+
+K:
+[e]On wszedł w śmierć, wszedł mój [HS]Bóg,
+już idzie, już wstaje, już nadchodzi [e]Pan.
+Śpiewajcie, wołajcie: zmartwychwstał [HS]Pan!
+On zwyciężył, zwyciężył mi[e]łością.
+W:
+[e]Już idzie mój Bóg, już idzie mój [HS]Król.
+Już idzie mój Bóg, już idzie mój [e]Król.
+Już idzie, już idzie mój Zba[HS]wiciel,
+już idzie, już idzie mój [e]Król.

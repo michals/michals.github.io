@@ -1,0 +1,25 @@
+===
+title: Test akordów
+author: Test Author
+year: 2024
+section: test
+keywords:
+  - test
+  - akordy
+===
+
+K:
+Śpi[C]ewam ra[G]dośnie
+z całego [a]serca
+
+W:
+Alleluja, allel[F]Uja
+Chrystus zmartw[C]ychwstał
+Jeszcze jedna linia w tym samym paragrafie
+
+K:
+Test akordu z aliasem: r[D*|D7]adośnie
+A zwykły akord: śpi[G]ewam
+
+W:
+Kombinacja: śpi[a]ewam z aliasem r[F*|F7]adośnie

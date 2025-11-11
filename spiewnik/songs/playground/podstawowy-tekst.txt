@@ -1,0 +1,6 @@
+===
+title: Podstawowy tekst
+===
+
+To jest prosta pieśń
+Bez żadnych specjalnych elementów

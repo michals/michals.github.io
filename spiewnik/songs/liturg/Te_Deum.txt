@@ -1,0 +1,165 @@
+===
+title: "Te Deum"
+subtitle: "Ciebie, Boże, chwalimy"
+section: "liturg"
+color: "liturg"
+tone: "C"
+songid: "S026TeDeum"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "*HYM"
+    where: ""
+  - what: "*BRE"
+    where: ""
+alttone:
+  - "D"
+knownas:
+  - "Tobie śpiewają wszyscy aniołowie"
+  - "2002"
+index:
+  - "anioł"
+  - "apostoł"
+  - "Bóg"
+  - "błogosławić"
+  - "cenny"
+  - "chór"
+  - "Chrystus"
+  - "chwała"
+  - "chwalić"
+  - "czas"
+  - "cześć"
+  - "człowiek"
+  - "dopomóc"
+  - "Duch"
+  - "dzień"
+  - "Dziewica"
+  - "dzisiaj"
+  - "głos"
+  - "głosić"
+  - "grzech"
+  - "imię"
+  - "jedyny"
+  - "każdy"
+  - "Kościół"
+  - "koniec"
+  - "Król"
+  - "królestwo"
+  - "krew"
+  - "śmierć"
+  - "śpiewać"
+  - "świat"
+  - "święty"
+  - "świetlany"
+  - "lud"
+  - "matka"
+  - "męczennik"
+  - "miłosierdzie"
+  - "moce"
+  - "nadzieja"
+  - "niebieski"
+  - "niebiosa"
+  - "oddawać"
+  - "odkupić"
+  - "odwieczny"
+  - "Ojciec"
+  - "ojcowski"
+  - "otworzyć"
+  - "Pan"
+  - "pełny"
+  - "pocieszyciel"
+  - "pokładać"
+  - "prawica"
+  - "prorok"
+  - "prowadzić"
+  - "przedwieczny"
+  - "przyjąć"
+  - "przyjść"
+  - "raczyć"
+  - "sądzić"
+  - "strzec"
+  - "syn"
+  - "Syn"
+  - "ufność"
+  - "ustrzec"
+  - "wiek"
+  - "wielbić"
+  - "wierzący"
+  - "wszystek"
+  - "wysławiać"
+  - "zachować"
+  - "zasiadać"
+  - "zastęp"
+  - "zawstydzony"
+  - "zawsze"
+  - "zbawienie"
+  - "zgodny"
+  - "zgromadzenie"
+  - "ziemia"
+  - "zmiłować"
+  - "zrodzić"
+  - "zwycięzca"
+footnote: "Wczesnochrześcijański hymn Te Deum laudamus z IV w., przypisywany przez tradycję św. Ambrożemu (340-397) i św. Augustynowi (354-430), a obecnie św. Nicetasowi (366-414). (przyp. red.)"
+===
+
+K:
+[C]Ciebie, Boże, chwalimy.
+[G]Ciebie, Panie, wysławiamy.
+[a]Tobie, Ojcu Przedwiecznemu,
+[E]wszystka ziemia cześć oddaje.
+
+W:
+[C]Tobie śpiewają Aniołowie
+[G]i wszystkie niebieskie moce:
+[a]Święty, Święty, Święty,
+[E]Święty, Święty, Święty,
+[ES]Pan Bóg Zas[a]tępów.
+
+K:
+[C]Niebiosa i ziemia
+[G]są pełne Twojej chwały.
+Ciebie wy[a]sławia chór Apostołów,
+[E]męczenników zastęp świetlany.
+
+K:
+[C]Głosy proroków zgodnie Ciebie wielbią;
+[G]Kościół święty głosi Twoją chwałę,
+wysławia [a]Twego Jedynego Syna
+[E]i Świętego Ducha Pocieszyciela.
+
+K:
+[C]O Chryste, Królu chwały,
+[G]odwieczny Synu Ojca,
+zro[a]dzony z Dziewicy Matki
+[E]dla zbawienia człowieka.
+
+K:
+[C]Zwycięzco śmierci,
+[G]otworzyłeś wierzącym Królestwo Niebios.
+Za[a]siadasz po prawicy Boga w ojcowskiej chwale,
+[E]przyjdziesz sądzić świat na końcu czasów.
+
+K:
+[C]Dopomóż swoim synom Panie,
+[G]których odkupiłeś swoją cenną Krwią.
+[a]Przyjmij nas w Twojej chwale
+[E]do zgromadzenia świętych.
+
+K:
+[C]Zachowaj lud swój Panie,
+[G]prowadź i strzeż Twoich synów.
+Każ[a]dego dnia Ciebie błogosławimy,
+[E]wysławiamy Twoje imię na wieki.
+
+K:
+[C]Racz dzisiaj Panie
+[G]ustrzec nas od grzechu.
+Niech [a]zawsze będzie z nami Twoje miłosierdzie,
+[E]w Tobie ufność pokładamy.
+
+K:
+[C]Zmiłuj się nad nami Panie,
+[G]zmiłuj się nad nami.
+Tyś [a]jest naszą nadzieją,
+[E]nie będziemy zawstydzeni na wieki.

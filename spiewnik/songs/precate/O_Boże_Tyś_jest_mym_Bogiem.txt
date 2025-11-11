@@ -1,0 +1,106 @@
+===
+title: "O Boże, Tyś jest mym Bogiem"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S087OBozeTysJestMymBogiem"
+author:
+  - "PR"
+year: 1992
+address:
+  - what: "Ps"
+    where: "63"
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "Ziemia zeschła i spalona, bez wody"
+index:
+  - "Bóg"
+  - "błogosławić"
+  - "cenniejszy"
+  - "chwalić"
+  - "ciało"
+  - "cień"
+  - "czas"
+  - "czuwać"
+  - "dusza"
+  - "imię"
+  - "świtanie"
+  - "lgnąć"
+  - "życie"
+  - "miłość"
+  - "myśleć"
+  - "obfitość"
+  - "podnosić"
+  - "pomoc"
+  - "pragnąć"
+  - "prawica"
+  - "radosny"
+  - "ręka"
+  - "siła"
+  - "skrzydło"
+  - "sławić"
+  - "spalić"
+  - "stać"
+  - "sycić"
+  - "szukać"
+  - "tęsknić"
+  - "usta"
+  - "warga"
+  - "weselić"
+  - "woda"
+  - "wspierać"
+  - "wspominać"
+  - "zeschły"
+  - "ziemia"
+footnote: "„Resucitó 2023” powtarza pierwszy refren po Kantorze. (przyp. red.)"
+===
+
+W:
+[a]O Boże, Tyś jest mym [d]Bogiem,
+szukam Cię od świ[a]tania;
+tak [F]pragnie [E]Ciebie dusza [a]moja.
+
+K:
+[F]Tak pragnie [E]Ciebie dusza [a]moja,
+[d]tęskni za Tobą moje [E]ciało:
+ziemia zeschła i spa[a]lona,
+[F]ziemia zeschła i spa[E]lona, bez [a]wody.
+
+W:
+[a]O Boże, Tyś jest mym [d]Bogiem,
+szukam Cię od świ[a]tania;
+tak [F]pragnie [E]Ciebie dusza [a]moja.
+
+K:
+[F]Cenniejsza jest niż [E]życie Twoja [a]miłość,
+[d]sławić Cię będą moje [E]wargi;
+tak Cię błogo[a]sławię,
+[F]w imię Twoje podno[E]szę moje [a]ręce.
+
+W:
+[a]O Boże, Tyś jest mym [d]Bogiem,
+szukam Cię od świ[a]tania;
+tak [F]pragnie [E]Ciebie dusza [a]moja.
+
+K:
+[F]Do Ciebie [E]lgnie dusza [a]moja,
+[d]wspiera mnie z siłą Twa pra[E]wica,
+kiedy wspominam Cie[a]bie,
+[F]kiedy myślę o To[E]bie w czasie mych [a]czuwań.
+
+W:
+[a]O Boże, Tyś jest mym [d]Bogiem,
+szukam Cię od świ[a]tania;
+tak [F]pragnie [E]Ciebie dusza [a]moja.
+
+K:
+[F]Obfitoś[E]cią syci się moja [a]dusza,
+[d]radośnie chwalą Cię moje [E]usta,
+bo stałeś się dla mnie pomo[a]cą
+i [F]w cieniu Twoich skrzy[E]deł się wese[a]lę.
+
+W:
+[a]O Boże, Tyś jest mym [d]Bogiem,
+szukam Cię od świ[a]tania;
+tak [F]pragnie [E]Ciebie dusza [a]moja.

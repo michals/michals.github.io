@@ -1,0 +1,206 @@
+===
+title: "Pójdźmy wszyscy do stajenki"
+section: "carol"
+color: "carol"
+tone: "G"
+songid: "S709PojdzmyWszyscyDoStajenki"
+author:
+  - "tr"
+year: 1842
+address:
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+knownas:
+  - "Witaj Jezu ukochany"
+index:
+  - "anioł"
+  - "Bóg"
+  - "Bóstwo"
+  - "boska"
+  - "boski"
+  - "cierpieć"
+  - "czart"
+  - "czas"
+  - "czekać"
+  - "czemu"
+  - "człowiek"
+  - "czuwać"
+  - "dać"
+  - "dar"
+  - "doznawać"
+  - "drogi"
+  - "dwa"
+  - "dwakroć"
+  - "Dziecię"
+  - "Dziecineczka"
+  - "dzieło"
+  - "dziś"
+  - "dziw"
+  - "hojny"
+  - "iść"
+  - "iż"
+  - "jaki"
+  - "Jezus"
+  - "kochać"
+  - "kochanie"
+  - "łączyć"
+  - "świat"
+  - "święta"
+  - "żądać"
+  - "żałować"
+  - "żłób"
+  - "życie"
+  - "Maleńki"
+  - "Maryja"
+  - "matka"
+  - "między"
+  - "mieszkanie"
+  - "miłość"
+  - "miłosierny"
+  - "moc"
+  - "naród"
+  - "narodzić"
+  - "natura"
+  - "nędza"
+  - "niebiosa"
+  - "noc"
+  - "obietnica"
+  - "odmawiać"
+  - "odwdzięczać"
+  - "ogłosić"
+  - "oglądać"
+  - "ojciec"
+  - "Ojciec"
+  - "On"
+  - "osoba"
+  - "pójść"
+  - "Panienka"
+  - "Panna"
+  - "pastuszek"
+  - "patriarcha"
+  - "pierwszy"
+  - "początek"
+  - "poniżać"
+  - "powitać"
+  - "poznać"
+  - "prawdziwy"
+  - "prorok"
+  - "przekładać"
+  - "przyczyna"
+  - "przywitać"
+  - "radość"
+  - "raj"
+  - "różne"
+  - "raz"
+  - "sam"
+  - "schronienie"
+  - "siebie"
+  - "słowa"
+  - "słyszeć"
+  - "sprawić"
+  - "stajenka"
+  - "stworzyć"
+  - "Syn"
+  - "szczęśliwy"
+  - "tak"
+  - "taki"
+  - "teraz"
+  - "ubóstwo"
+  - "ubogi"
+  - "ukochany"
+  - "umiłować"
+  - "upragniony"
+  - "wiek"
+  - "wierny"
+  - "witać"
+  - "wśród"
+  - "wszyscy"
+  - "wyjednać"
+  - "wykonać"
+  - "wyście"
+  - "wyniszczać"
+  - "wypowiedzieć"
+  - "wyrwać"
+  - "wyznawać"
+  - "wziąć"
+  - "wzywać"
+  - "zapewnić"
+  - "zbawienie"
+  - "zesłać"
+  - "zjawiony"
+  - "zostać"
+  - "zrównać"
+footnote: "Polska kolęda o początkach sięgających XVII wieku. Tekst tej kolędy pochodzi z XVIII wieku, melodia zaś z XIX. Zamieszcza ją Mioduszewski w Dodatku do Śpiewnika kościelnego z 1842 roku. W dzisiejszej praktyce przyjęła się inna wersja melodii, którą to zamieścił Siedlecki w Śpiewniczku z 1878 roku."
+===
+
+[G]Pójdźmy wszyscy do stajenki,
+do Jezusa i Panienki;
+p[a]owit[D]ajmy M[G]aleńk[e]iego
+[a]i Mar[D]yję, M[C]atkę J[G]ego.
+
+Witaj Jezu ukochany,
+od Patriarchów czekany,
+od Proroków ogłoszony,
+od narodów upragniony.
+
+Witaj Dziecineczko w żłobie;
+Wyznajemy Boga w Tobie,
+coś się narodził tej nocy,
+boś nas wyrwał z czarta mocy.
+
+Witaj Jezu nam zjawiony;
+witaj dwakroć narodzony,
+raz z Ojca przed wieków wiekiem,
+a teraz z Matki człowiekiem.
+
+Któż to słyszał takie dziwy?
+Tyś człowiek i Bóg prawdziwy,
+Ty łączysz w Boskiej Osobie
+dwie natury różne sobie.
+
+Tyś świat stworzył, a świat Ciebie
+nie poznał, mając wśród siebie:
+idziesz dla jego zbawienia,
+on Ci odmawia schronienia.
+
+Za to u świata ubogich,
+ale w czasach Twoich drogich,
+pastuszków, którzy czuwali,
+wzywasz, by Cię przywitali.
+
+O szczęśliwi pastuszkowie!
+Któż radość waszą wypowie;
+czego ojcowie żądali,
+wyście pierwsi oglądali.
+
+Obietnica w raju dana,
+dziś została wykonana;
+Boże jakieś miłosierny!
+W darach hojny, w słowach wierny.
+
+Takeś świat ten umiłował,
+iżeś Syna nie żałował;
+zesłałeś Go na cierpienia,
+od samego narodzenia.
+
+O Jezu, nasze Kochanie,
+czemu nad niebios mieszkanie
+przekładasz nędzę, ubóstwo
+i wyniszczasz Swoje Bóstwo.
+
+Miłości to Twojej dzieło,
+z miłości początek wzięło;
+byś nas zrównał z Aniołami,
+poniżasz się między nami.
+
+Spraw to, Jezu, Boskie Dziecię,
+niech Cię kochamy nad życie;
+niech miłością odwdzięczamy,
+miłość, której doznawamy.
+
+Święta Panno, Twa przyczyna,
+niech nam wyjedna u Syna,
+by to Jego narodzenie
+zapewniło nam zbawienie.

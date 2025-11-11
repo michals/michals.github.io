@@ -1,0 +1,89 @@
+===
+title: "Któż jest Ten, co przybywa z Edomu"
+section: "precate"
+color: "communion"
+tone: "e"
+songid: "S208TenCoWygniataWinogronaWTloczni"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Iz"
+    where: "63, 1-6"
+  - what: "*LAM"
+    where: ""
+knownas:
+  - "1971"
+  - "Ten, co wygniata winogrona w tłoczni"
+index:
+  - "deptać"
+  - "dlaczego"
+  - "dzień"
+  - "Edom"
+  - "iść"
+  - "jeden"
+  - "krew"
+  - "kroczyć"
+  - "lud"
+  - "mówić"
+  - "moc"
+  - "nadejść"
+  - "naród"
+  - "nikt"
+  - "ocalić"
+  - "odzienie"
+  - "podtrzymać"
+  - "podtrzymywać"
+  - "pomagać"
+  - "pomsta"
+  - "poplamić"
+  - "przybywać"
+  - "ramię"
+  - "rozglądać"
+  - "sam"
+  - "siła"
+  - "spłynąć"
+  - "sprawiedliwy"
+  - "szata"
+  - "szaty"
+  - "szkarłatny"
+  - "tłocznia"
+  - "wielki"
+  - "winogrono"
+  - "wspaniały"
+  - "wszystek"
+  - "wtedy"
+  - "wygniatać"
+  - "wyzwoliciel"
+  - "zdumiewać"
+  - "ziemia"
+footnote: "Ten, co wygniata winogrona w tłoczni Przywrócono tytuł sprzed lat. (przyp. red.)"
+===
+
+KW:
+[e]Któż jest Ten, co przybywa z Edomu?
+Któż jest [a]Ten, co idzie w szatach szkar[e]łatnych,
+[HS]wspaniały w swym odzieniu i kroczy z wielką swą [e]mocą?
+K:
+[D]To Ja, to Ja, który mówię sprawied[e]liwie:
+to [HS]Ja, wielki Wyzwo[e]liciel.
+W:
+[e]Dlaczego szkarłatna jest twa szata?
+[a]Jak u tego, co wygniata winogrona [e]w tłoczni?
+Dla[HS]czego? Dla[e]czego?
+K:
+[D]Sam jeden, sam jeden, wygniatałem [e]w tłoczni,
+z mego [HS]ludu nikogo nie było [e]ze mną.
+[D]Rozglądałem się, rozglądałem, nie było nikogo,kto by mi pom[e]agał;
+zdumie[HS]wałem się, bo nikt nie podtrzy[e]mywał.
+K:
+I [a]wtedy moje ramię Mnie oca[e]liło,
+moja siła, moja siła Mnie podtrzy[HS]mała:
+albowiem nadszedł dzień [e]pomsty.
+Dep[a]tałem, deptałem na[e]rody,
+- ich krew spłynęła na [HS]ziemię
+i poplamiła wszystkie moje [e]szaty.
+W:
+[e]Któż jest Ten, co przybywa z Edomu?
+Któż jest [a]Ten, co idzie w szatach szkar[e]łatnych,
+[HS]wspaniały w swym odzieniu i kroczy z wielką swą [e]mocą?

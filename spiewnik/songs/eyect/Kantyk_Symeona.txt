@@ -1,0 +1,50 @@
+===
+title: "Kantyk Symeona"
+subtitle: "Nunc dimittis"
+section: "eyect"
+color: "eyect"
+tone: "e"
+songid: "S510KantykSymeona"
+author:
+  - "AS"
+year: 1986
+address:
+  - what: "Łk"
+    where: "2, 29-32"
+  - what: "*HYM"
+    where: ""
+knownas:
+  - "O Panie, pozwól, by Twój sługa odszedł w pokoju"
+  - "Panie, pozwól, by Twój sługa odszedł w pokoju"
+index:
+  - "alleluja"
+  - "chwała"
+  - "Izrael"
+  - "światło"
+  - "odejść"
+  - "oko"
+  - "Pan"
+  - "poganin"
+  - "pokój"
+  - "pozwolić"
+  - "sługa"
+  - "zbawienie"
+  - "zobaczyć"
+footnote: "Pieśń neokatechumenalna ze śpiewnika Alfreda Cholewińskiego SJ. (przyp. red.)"
+===
+
+K:
+[e]O Panie, [D]pozwól, by Twój [C]sługa odszedł w po[HS]koju,
+[e]bowiem moje [D]oczy zoba[C]czyły Twe zba[HS]wienie,
+[a]światło dla [e]pogan, [C]chwałę Izra[DS]ela.
+
+W:
+[G]Allelu[C]ja, allelu[DS]ja,
+[G]allelu[C]ja, allelu[DS]ja.
+
+K:
+[a]Światło dla [e]pogan, [C]chwałę Izra[DS]ela.
+
+W:
+[G]Allelu[C]ja, allelu[DS]ja,
+[G]allelu[C]ja, allelu[DS]ja.

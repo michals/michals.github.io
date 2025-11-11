@@ -1,0 +1,126 @@
+===
+title: "Kiedy Izrael był dziecięciem"
+section: "eyect"
+color: "eyect"
+tone: "d"
+songid: "S091KiedyIzraelBylDziecieciem"
+author:
+  - "GC"
+year: 1992
+address:
+  - what: "Oz"
+    where: "11, 1-11"
+knownas:
+  - "Śpiew Ozeasza"
+  - "I nie pojmował"
+  - "Izraelu, Izraelu"
+index:
+  - "Asyria"
+  - "Bóg"
+  - "bardziej"
+  - "chcieć"
+  - "chodzić"
+  - "człowiek"
+  - "dlatego"
+  - "dobroć"
+  - "dziecię"
+  - "Efraim"
+  - "egipski"
+  - "Egipt"
+  - "gołąb"
+  - "Izrael"
+  - "jakże"
+  - "jako"
+  - "kochać"
+  - "król"
+  - "lew"
+  - "lud"
+  - "móc"
+  - "morze"
+  - "nawrócić"
+  - "niemowlę"
+  - "oddalać"
+  - "opuścić"
+  - "podnosić"
+  - "pojmować"
+  - "policzek"
+  - "powrócić"
+  - "przyciągać"
+  - "przylecieć"
+  - "ptaki"
+  - "serce"
+  - "syn"
+  - "Syn"
+  - "troszczyć"
+  - "uczyć"
+  - "wezwać"
+  - "więzy"
+  - "wołać"
+  - "wytępić"
+  - "wzruszać"
+  - "zaryczeć"
+  - "ziemia"
+  - "zniszczyć"
+  - "zza"
+footnote: "Śpiewnik „Zmartwychwstał Pan 2018” nie powtarzał: Izraelu, Izraelu wbrew nagraniom i śpiewnikom włoskim sprzed 2020. (przyp. red.)"
+===
+
+K:
+[d]Kiedy Iz[g]rael był dzie[d]cięciem, ja go kochałem
+i z E[g]giptu jako [d]Syna go wezwałem,
+lecz im bardziej go wo[B]łałem,
+tym bardziej oddalał się o[d]de mnie.
+W:
+I nie poj[F]mował,
+że tro[C]szczyłem się o [d]niego.
+{{{ 2x
+Izraelu, [C]Izra[d]elu.
+}}}
+
+K:
+[d]Efra[g]ima ja u[d]czyłem chodzić,
+przycią[g]gałem go wię[d]zami dobroci
+byłem dla nich jak [B]ten,
+co podnosi niemowlę do po[d]liczka.
+W:
+I nie poj[F]mował,
+że tro[C]szczyłem się o [d]niego.
+{{{ 2x
+Izraelu, [C]Izra[d]elu.
+}}}
+
+K:
+[d]Dlatego po[g]wrócisz do [d]ziemi egipskiej.
+Król A[g]syrii wy[d]tępi twoich synów,
+albowiem mój [B]lud
+nie chce się na[d]wrócić.
+W:
+I nie poj[F]mował,
+że tro[C]szczyłem się o [d]niego.
+{{{ 2x
+Izraelu, [C]Izra[d]elu.
+}}}
+
+K:
+[d]Ale jakże [g]mógłbym Cię o[d]puścić, o Efraimie?
+Moje [g]serce [d]wzrusza się we mnie.
+Nie zniszczę cię, bo [B]jestem Bogiem,
+a nie czło[d]wiekiem.
+W:
+I nie poj[F]mował,
+że tro[C]szczyłem się o [d]niego.
+{{{ 2x
+Izraelu, [C]Izra[d]elu.
+}}}
+
+K:
+[d]Jak lew za[g]ryczę i po[d]wrócą jego synowie zza morza,
+przy[g]lecą z E[d]giptu jak ptaki,
+powrócą z A[B]syrii
+jak go[d]łębie.
+W:
+I nie poj[F]mował,
+że tro[C]szczyłem się o [d]niego.
+{{{ 2x
+Izraelu, [C]Izra[d]elu.
+}}}

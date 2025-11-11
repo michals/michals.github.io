@@ -1,0 +1,98 @@
+===
+title: "Gdyśmy doszli do rzek Babilonii"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S061NadRzekamiBabilonii"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "137"
+  - what: "*OWP"
+    where: ""
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "1968"
+  - "Nad rzekami Babilonii"
+index:
+  - "Babilonia"
+  - "chwycić"
+  - "ciemiężca"
+  - "dojść"
+  - "dziecko"
+  - "fundament"
+  - "gitara"
+  - "jakże"
+  - "język"
+  - "Jeruzalem"
+  - "śpiewać"
+  - "mówić"
+  - "największy"
+  - "obcy"
+  - "odpłacić"
+  - "Pan"
+  - "pieśń"
+  - "płakać"
+  - "podniebienie"
+  - "powtarzać"
+  - "prawica"
+  - "prosić"
+  - "przyschnąć"
+  - "rachunek"
+  - "radość"
+  - "radosny"
+  - "roztrzaskać"
+  - "rzeka"
+  - "skała"
+  - "stolica"
+  - "uschnąć"
+  - "usiąść"
+  - "wierzba"
+  - "wróg"
+  - "wspominać"
+  - "wyrządzić"
+  - "zażądać"
+  - "zapomnieć"
+  - "zawiesić"
+  - "zbrodniczy"
+  - "zburzyć"
+  - "ziemia"
+  - "zło"
+footnote: "Zbrodnicza BabiloniaGdyśmy doszli do rzek BabiloniiNad rzekami Babilonii Jest to nieco inny przekład pierwszego wersetu (przyp. red.)"
+===
+
+W:
+[e]Gdyśmy doszli do [a]rzek Babi[e]lonii,
+wspominając [HS]ciebie, usiedliśmy, aby [e]płakać;
+na wierzbach zawie[a]siliśmy nasze gi[e]tary,
+wspominając [HS]ciebie, usiedliśmy, aby [e]płakać.
+
+W:
+„Śpiewajcie”, mówili [a]nam nasi wro[e]gowie.
+„Śpiewajcie”, mówili [a]nam nasi cie[e]miężcy.
+Prosili, aby [HS]śpiewać pieśni ra[e]dosne.
+
+K:
+Jakże [D]śpiewać pieśń Pana w obcej [e]ziemi?
+Jeśli o tobie za[HS]pomnę, niech uschnie moja pra[e]wica;
+niech mi język [a]przyschnie do podnie[e]bienia,
+jeśli zapomnę [HS]cię, Jeruzalem, w mojej największej ra[e]dości.
+
+W:
+O [e]Panie, zażądaj ra[a]chunku od naszych [e]wrogów.
+O [e]Panie, zażądaj ra[a]chunku od naszych cie[e]miężców.
+Albowiem powta[HS]rzali: „Zburzymy ją aż do funda[e]mentów”.
+
+K:
+[D]Stolico zbrodniczej Babi[e]lonii!
+Kto ci od[D]płaci za zło nam wyrzą[e]dzone?
+Kto chwyci i roz[HS]trzaska twoje dzieci o [e]skałę?
+
+W:
+[e]Gdyśmy doszli do [a]rzek Babi[e]lonii,
+wspominając [HS]ciebie, usiedliśmy, aby [e]płakać;
+na wierzbach zawie[a]siliśmy nasze gi[e]tary,
+wspominając [HS]ciebie, usiedliśmy, aby [e]płakać.

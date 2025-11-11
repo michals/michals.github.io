@@ -1,0 +1,112 @@
+===
+title: "Z głębokości wołam do Ciebie"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S033ZGlebokosciWolam"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "130"
+  - what: "*OWP"
+    where: ""
+alttone:
+  - "c"
+knownas:
+  - "Pan Bóg odkupi Izraela"
+  - "1979"
+index:
+  - "aj"
+  - "Bóg"
+  - "bardziej"
+  - "dusza"
+  - "głębokość"
+  - "głos"
+  - "grzech"
+  - "Izrael"
+  - "jutrzenka"
+  - "miłość"
+  - "modlitwa"
+  - "ocalić"
+  - "oczekiwać"
+  - "odkupić"
+  - "On"
+  - "otwarty"
+  - "pamięć"
+  - "Pan"
+  - "pełny"
+  - "pokładać"
+  - "przebaczyć"
+  - "słowo"
+  - "straż"
+  - "ucho"
+  - "udzielać"
+  - "ufać"
+  - "ufność"
+  - "wołać"
+  - "wszystek"
+  - "wysłuchać"
+  - "zachować"
+footnote: "Akordy za „Resucitó 2023”. Z powodu przekładów na linii hiszpański-włoski-polski, tutaj tylko w polskim „Zmartwychwstał Pan” znikło. W hiszpańskim „Resucitó” obydwie wersje tego wersetu są identyczne; mamy tam solo en él se encuentra el perdón (tylko u Niego jest przebaczenie), co po włosku, aby wyrazić i wyłączność, i bliskość, brzmiałoby soltanto presso in lui si trova il perdono. Ta treść nie mieści się w melodii, więc na potrzeby języka włoskiego zapewne, Kiko w jednym wystąpieniu wiersza wyraża bliskość presso di lui a w powtórzeniu wyłączność soltanto in lui. Po polsku tylko u Niego wyraża obydwie cechy,
+podobnie jak w hiszpańskim. Rozkaz kalkowania z włoskiego był jednak mocniejszy od zdrowego rozsądku. (przyp. red.)"
+===
+
+K:
+[a]Z głębokości [FS]wołam do [E]Cie[a]bie:
+[F]Panie, wysłuchaj mego [ES]głosu!
+[a]Niech Twe uszy [FS]będą o[E]twa[a]rte
+na [F]głos mojej mo[E]dlitwy!
+
+W:
+[a]Z głębokości [FS]wołam do [E]Cie[a]bie:
+[F]Panie, wysłuchaj mego [ES]głosu!
+[a]Niech Twe uszy [FS]będą o[E]twa[a]rte
+(a)
+na [F]głos mojej mo[E]dlitwy!
+
+K:
+[G]Jeśli zachowasz pamięć o grzechach, [F]Pani[a]e,
+któż się ocali, któż się o[FS]ca[ES]li?
+Lecz [F]Ty udzielasz przeba[ES]czenia,
+bo Ty [FS]jesteś pełen mi[a]łości.
+
+W:
+Lecz [F]Ty udzielasz przeba[ES]czenia,
+bo Ty [FS]jesteś pełen mi[a]łości.
+
+K:
+Po[G]kładam ufność w Panu,
+a dusza [F]moja [a]ufa Jego słowu.
+
+Dusza [G]moja oczekuje Pana,
+[F]bardziej niż [a]straże oczekują jutrzenki.
+Izrael oczekuje Pana,
+bardziej niż [FS]straże oczekują ju[ES]trzenki.
+Albowiem [F]w Panu jest [ES]miłość,
+tylko u [FS]Niego jest przeba[a]czenie.
+
+W:
+Albowiem [F]w Panu jest [ES]miłość,
+tylko u [FS]Niego jest przeba[a]czenie.
+
+K:
+Pan Bóg odkupi Izraela.
+
+W:
+[E]Pan Bóg odkupi Izraela
+ze wszystkich Jego [a]grzechów.
+
+K:
+Pan Bóg odkupi Izraela.
+
+W:
+[E]Pan Bóg odkupi Izraela
+ze wszystkich Jego [a]grzechów.
+
+K:
+[a]Aj, aj, aj, aj,
+aj, aj, aj, [d]aj,
+aj, aj, aj, [a]aj,
+aj, aj, aj, aj!

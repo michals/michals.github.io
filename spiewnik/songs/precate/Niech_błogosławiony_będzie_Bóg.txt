@@ -1,0 +1,114 @@
+===
+title: "Niech błogosławiony będzie Bóg"
+section: "precate"
+color: "precate"
+tone: "D"
+songid: "S212NiechBlogoslawionyBedzieBog"
+author:
+  - "K"
+year: 1996
+address:
+  - what: "Ef"
+    where: "1, 3-13"
+  - what: "*OAD"
+    where: ""
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "["
+  - "1992"
+index:
+  - "Bóg"
+  - "błogosławiony"
+  - "bogactwo"
+  - "Chrystus"
+  - "chwała"
+  - "czas"
+  - "darmowy"
+  - "dobry"
+  - "Duch"
+  - "grzech"
+  - "Jezus"
+  - "łaska"
+  - "świat"
+  - "święty"
+  - "lud"
+  - "miłość"
+  - "niepokalany"
+  - "nowina"
+  - "odkupienie"
+  - "Ojciec"
+  - "On"
+  - "opieczętować"
+  - "pełnia"
+  - "pobłogosławić"
+  - "prawda"
+  - "przebaczyć"
+  - "Słowo"
+  - "stworzenie"
+  - "uczynić"
+  - "ukochać"
+  - "usłyszeć"
+  - "uwielbienie"
+  - "według"
+  - "wielki"
+  - "wszelki"
+  - "wszyscy"
+  - "wszystko"
+  - "wybrać"
+  - "zbawienie"
+  - "zostać"
+footnote: "Za „Zmartwychwstał Pan 2025”: Jego→swojej, pieczęcią. (przyp. red.)"
+===
+
+K:
+[D]Niech błogosła[e]wiony [AS]będzie [D]Bóg
+i [e]Ojciec [AS]Jezusa Chry[D]stusa.
+K:
+[Fis]Który nas wybrał
+przed stworzeniem [h]świata.
+[Fis]Który nas pobłogosławił
+wszelką mi[h]łością,
+byśmy [A]byli święci i niepoka[G]lani
+w mi[Fis]łości.
+W:
+Byśmy [h]byli
+Jego chwały uwielbieniem,
+chwały Jego darmowej [A]łaski,
+łaski jego wielkiej mi[G]łości,
+którą nas ukochał w Jezusie Chry[Fis]stusie.
+
+K:
+[D]Niech błogosła[e]wiony [AS]będzie [D]Bóg
+i [e]Ojciec [AS]Jezusa Chry[D]stusa.
+K:
+[Fis]W Nim mamy
+odku[h]pienie.
+[Fis]Przebaczenie grzechów
+według bogactwa swojej mi[h]łości,
+[A]aby w pełni [G]czasów
+Chrystus był wszystkim we [Fis]wszystkich!
+
+W:
+Byśmy [h]byli
+Jego chwały uwielbieniem,
+chwały Jego darmowej [A]łaski,
+łaski jego wielkiej mi[G]łości,
+którą nas ukochał w Jezusie Chry[Fis]stusie.
+
+K:
+[D]Niech błogosła[e]wiony [AS]będzie [D]Bóg
+i [e]Ojciec [AS]Jezusa Chry[D]stusa.
+K:
+[Fis]W Nim także i my,
+gdyśmy usłyszeli Słowo [h]prawdy,
+[Fis]Dobrą Nowinę
+o naszym zba[h]wieniu,
+zostaliśmy opieczęto[A]wani          przez Ducha Świę[G]tego,
+który uczynił z nas swój [Fis]lud.
+W:
+Byśmy [h]byli
+Jego chwały uwielbieniem,
+chwały Jego darmowej [A]łaski,
+łaski jego wielkiej mi[G]łości,
+którą nas ukochał w Jezusie Chry[Fis]stusie.

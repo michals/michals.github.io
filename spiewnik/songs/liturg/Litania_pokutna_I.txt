@@ -1,0 +1,115 @@
+===
+title: "Litania pokutna I"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "S001LitaniaPokutnaKrotka"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*POK"
+    where: ""
+knownas:
+  - "Modlitwa pokutna krótka"
+  - "Pokutna, litania, krótka"
+  - "Krótka litania pokutna"
+  - "Ty, który jedyny znasz nasze grzechy"
+  - "Zmiłuj się nad nami"
+index:
+  - "cudzołożnica"
+  - "dobry"
+  - "dom"
+  - "grzech"
+  - "grzesznik"
+  - "jedyny"
+  - "jeść"
+  - "Judasz"
+  - "kochać"
+  - "koniec"
+  - "krzyż"
+  - "łotr"
+  - "ślepy"
+  - "śmierć"
+  - "Łazarz"
+  - "nieść"
+  - "nieprzyjaciel"
+  - "nigdy"
+  - "odmówić"
+  - "Pan"
+  - "prostytutka"
+  - "przebaczyć"
+  - "przywrócić"
+  - "umrzeć"
+  - "usprawiedliwienie"
+  - "wejść"
+  - "wezwać"
+  - "wołać"
+  - "wzrok"
+  - "Zacheusz"
+  - "zbawienie"
+  - "zmartwychwstać"
+  - "zmiłować"
+  - "znać"
+footnote: "W wersji hiszpańskiej „Resucitó 2023” Zmiłuj się Panie zawsze jest powtarzane po Kantorze i jest śpiewane tylko trzy razy. Wezwania występują w innej kolejności. (przyp. red.)"
+===
+
+K:
+[e]Ty, któryś ślepemu wołającemu do Ciebie   wzrok przy[a]wrócił,
+W:
+zmiłuj się nad [HS]nami, bo je[a]steśmy grzeszni[HS]kami,
+[C]zmiłuj się [HS]Panie!
+
+K:
+[e]Ty, który wszedłeś do domu Zacheusza      niosąc zba[a]wienie,
+W:
+zmiłuj się nad [HS]nami, bo je[a]steśmy grzeszni[HS]kami,
+[C]zmiłuj się [HS]Panie!
+
+K:
+[e]Ty, któryś ze śmierci wezwał Ła[a]zarza,
+W:
+zmiłuj się nad [HS]nami, bo je[a]steśmy grzeszni[HS]kami,
+[C]zmiłuj się [HS]Panie!
+
+K:
+[e]Ty, któryś przebaczył cudzołoż[a]nicy,
+W:
+zmiłuj się nad [HS]nami, bo je[a]steśmy grzeszni[HS]kami,
+[C]zmiłuj się [HS]Panie!
+
+K:
+[e]Ty, któryś nigdy nie odmówił jedzenia z prostytutkami i grzeszni[a]kami,
+W:
+zmiłuj się nad [HS]nami, bo je[a]steśmy grzeszni[HS]kami,
+[C]zmiłuj się [HS]Panie!
+
+K:
+[e]Ty, któryś z krzyża przebaczył dobremu ło[a]trowi,
+W:
+zmiłuj się nad [HS]nami, bo je[a]steśmy grzeszni[HS]kami,
+[C]zmiłuj się [HS]Panie!
+
+K:
+[e]Ty, który jedyny znasz nasze [a]grzechy,
+W:
+zmiłuj się nad [HS]nami, bo je[a]steśmy grzeszni[HS]kami,
+[C]zmiłuj się [HS]Panie!
+
+K:
+[e]Ty, któryś kochał Judasza aż do [a]końca,
+W:
+zmiłuj się nad [HS]nami, bo je[a]steśmy grzeszni[HS]kami,
+[C]zmiłuj się [HS]Panie!
+
+K:
+[e]Ty, który jedyny kochasz nieprzy[a]jaciół,
+W:
+zmiłuj się nad [HS]nami, bo je[a]steśmy grzeszni[HS]kami,
+[C]zmiłuj się [HS]Panie!
+
+K:
+[e]Ty, któryś umarł i zmartwychwstał dla naszego usprawiedli[e]wienia,
+W:
+zmiłuj się nad [HS]nami, bo je[a]steśmy grzeszni[HS]kami,
+[C]zmiłuj się [HS]Panie!

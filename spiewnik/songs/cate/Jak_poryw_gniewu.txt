@@ -1,0 +1,118 @@
+===
+title: "Jak poryw gniewu"
+section: "cate"
+color: "cate"
+tone: "a"
+songid: "S211JakPorywGniewu"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*ODA"
+    where: "7"
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "Ty jesteś drogą"
+index:
+  - "Bóg"
+  - "cudowny"
+  - "dlatego"
+  - "droga"
+  - "gniew"
+  - "grzech"
+  - "jakże"
+  - "jedyny"
+  - "jeszcze"
+  - "ku"
+  - "świat"
+  - "życie"
+  - "mały"
+  - "móc"
+  - "miłość"
+  - "miłosierdzie"
+  - "natura"
+  - "nauczyć"
+  - "nieśmiertelny"
+  - "nieprzyjaciel"
+  - "nigdy"
+  - "oddać"
+  - "oddalić"
+  - "pełnia"
+  - "pełny"
+  - "podobny"
+  - "poryw"
+  - "poznawać"
+  - "prawda"
+  - "przyjmować"
+  - "słodycz"
+  - "sprawić"
+  - "stać"
+  - "stworzyć"
+  - "taki"
+  - "uczynić"
+  - "ujrzeć"
+  - "ukochany"
+  - "wielkość"
+  - "wszystko"
+  - "wygląd"
+  - "wypraszać"
+  - "zadrżeć"
+  - "zanim"
+  - "zastrzeżenie"
+  - "zmiłować"
+  - "znać"
+footnote: "Za „Zmartwychwstał Pan 2025”: zlitował→zmiłował. (przyp. red.)"
+===
+
+K:
+[C]Jak poryw gniewu [a]na nieprzyja[d]ciela,
+jak poryw mi[GS]łości do ukocha[C]nego,[a]
+[AS]taki jest mój poryw ku [d]Tobie,
+[G]Ty nieśmiertelny, pełnio [C]światów.
+W:
+[a]Ty jesteś drogą, jakże to cudow[E]ne!
+Ty jesteś drogą, jesteś mi[a]łością.
+Ty jesteś [G]drogą, drogą je[a]dyną.
+Ty jesteś [G]drogą, Ty jesteś [a]życiem.
+Ty jesteś [G]drogą, Ty jesteś p[F]rawdą,
+Ty jesteś [E]życiem.
+
+K:
+[C]Oddałeś się mi [a]bez za[d]strzeżeń,
+pełen sło[GS]dyczy,        uczyniłeś małą swoją [C]wielkość,[a]
+[AS]tak abym nie zadrżał ujrzawszy [d]Ciebie.
+[G]Ty nieśmiertelny, pełnio [C]światów.
+W:
+[a]Ty jesteś drogą, jakże to cudow[E]ne!
+Ty jesteś drogą, jesteś mi[a]łością.
+Ty jesteś [G]drogą, drogą je[a]dyną.
+Ty jesteś [G]drogą, Ty jesteś [a]życiem.
+Ty jesteś [G]drogą, Ty jesteś p[F]rawdą,
+Ty jesteś [E]życiem.
+
+K:
+[C]Ty stałeś się jak ja, [a]bym Ciebie nauczył się po[d]znawać,
+w wyglądzie po[GS]dobny mnie,abym mógł Cię przyj[C]mować,[a]
+[AS]Ty stałeś się grzechem dla mnie, pełen miło[d]sierdzia,
+[G]aby grzechy nie oddaliły mnie już nigdy od [C]Ciebie.
+W:
+[a]Ty jesteś drogą, jakże to cudow[E]ne!
+Ty jesteś drogą, jesteś mi[a]łością.
+Ty jesteś [G]drogą, drogą je[a]dyną.
+Ty jesteś [G]drogą, Ty jesteś [a]życiem.
+Ty jesteś [G]drogą, Ty jesteś p[F]rawdą,
+Ty jesteś [E]życiem.
+
+K:
+[C]Bóg, co mnie stworzył, [a]zanim jeszcze [d]byłem,
+znał wszystko [GS]to, co miałem u[C]czynić,[a]
+[AS]dlatego zmiłował† się nade mną i w swym miło[d]sierdziu
+[G]sprawił, bym wypraszał Jego na[C]turę.
+W:
+[a]Ty jesteś drogą, jakże to cudow[E]ne!
+Ty jesteś drogą, jesteś mi[a]łością.
+Ty jesteś [G]drogą, drogą je[a]dyną.
+Ty jesteś [G]drogą, Ty jesteś [a]życiem.
+Ty jesteś [G]drogą, Ty jesteś p[F]rawdą,
+Ty jesteś [E]życiem.

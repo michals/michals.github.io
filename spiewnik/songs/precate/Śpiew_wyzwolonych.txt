@@ -1,0 +1,84 @@
+===
+title: "Śpiew wyzwolonych"
+section: "precate"
+color: "precate"
+tone: "C"
+songid: "S067SpiewWyzwolonych"
+author:
+  - "GR"
+year: 1993
+address:
+  - what: "Iz"
+    where: "12, 4-6"
+knownas:
+  - "Chwalcie Pana, bo jest wierny"
+  - "Alleluja, alleluja, alleluja"
+index:
+  - "alleluja"
+  - "cały"
+  - "chwalić"
+  - "dzieło"
+  - "imię"
+  - "Izrael"
+  - "krzyczeć"
+  - "śpiewać"
+  - "święty"
+  - "lud"
+  - "mieszkanka"
+  - "obwieszczać"
+  - "okazać"
+  - "Pan"
+  - "pośród"
+  - "radość"
+  - "rzeczy"
+  - "Syjon"
+  - "uczynić"
+  - "wdzięczny"
+  - "wesele"
+  - "wiadomy"
+  - "wielki"
+  - "wierny"
+  - "wszystek"
+  - "wzywać"
+  - "ziemia"
+footnote: "„Zmartwychwstał Pan 2025”zmienił akordy za „Risuscitò 2020” na C, G, F, E, a / a, C, F, E7 / a, C, F, E7 - poprawność harmoniczna tych akordów jest wątpliwa. Śpiewnik Risuscitò Canti del cammino neocatecumenale Edizione Musicale, Parrocchia ss. Martiri Canadesi, Via G.B. de Rossi 46, Roma 1977, miało nad nutami akordy C, G, a, E7 , a / C, G, a, H7 / C, G, a, E7 . Pozostawiam tradycyjne akordy, poprawne harmonicznie. (przyp. red.)"
+===
+
+FEa
+W:
+[G]Alle[C]luja, alle[G]luja, alleluja.
+FEa
+[G]Alle[C]luja, alle[G]luja, alleluja.
+
+K:
+[G]Chwalcie [C]Pana, bo jest [G]wierny,
+Jego i[F]mienia wzy[ES]wajcie.
+Obwiesz[C]czajcie Jego [G]dzieła
+pośród [F]wszystkich ludów [ES]ziemi.
+FEa
+W:
+[G]Alle[C]luja, alle[G]luja, alleluja.
+FEa
+[G]Alle[C]luja, alle[G]luja, alleluja.
+
+K:
+[G]Śpie[C]wajcie Panu [G]wdzięcznie,
+bo u[F]czynił wielkie [ES]rzeczy;
+niechaj [C]będzie to [G]wiadome
+na [F]całej naszej [ES]ziemi.
+FEa
+W:
+[G]Alle[C]luja, alle[G]luja, alleluja.
+FEa
+[G]Alle[C]luja, alle[G]luja, alleluja.
+
+K:
+[G]Krzycz z ra[C]dości i we[G]sela
+mie[F]szkanko Sy[ES]jonu,
+bowiem [C]wielki się o[G]kazał
+w tobie [F]Święty Izra[ES]ela.
+FEa
+W:
+[G]Alle[C]luja, alle[G]luja, alleluja.
+FEa
+[G]Alle[C]luja, alle[G]luja, alleluja.

@@ -1,0 +1,15 @@
+===
+title: Kompleksowy przykład
+===
+
+K:
+Pierwsza zwrotka o radości
+która płynie z serca
+
+W:
+Alleluja, alleluja[F]
+Chrystus zmartwychwstał[C]
+
+K:
+Test akordu z aliasem: r[D*|D7]adośnie
+A zwykły akord: śpi[G]ewam

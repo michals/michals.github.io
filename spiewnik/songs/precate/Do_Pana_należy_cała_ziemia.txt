@@ -1,0 +1,125 @@
+===
+title: "Do Pana należy cała ziemia"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S059BramyPodniescie"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "Ps"
+    where: "24"
+  - what: "*BRE"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+knownas:
+  - "Bramy, podnieście"
+  - "Podnieście bramy"
+  - "1986"
+index:
+  - "Bóg"
+  - "bój"
+  - "brama"
+  - "cały"
+  - "chwała"
+  - "dusza"
+  - "dziś"
+  - "góra"
+  - "jakubowy"
+  - "Kościół"
+  - "Król"
+  - "ku"
+  - "świat"
+  - "święta"
+  - "święty"
+  - "marność"
+  - "miejsce"
+  - "mieszkaniec"
+  - "mocarz"
+  - "należeć"
+  - "napełniać"
+  - "niewinny"
+  - "obecność"
+  - "oblicze"
+  - "On"
+  - "owy"
+  - "Pan"
+  - "podnieść"
+  - "podwoje"
+  - "potężny"
+  - "przychodzić"
+  - "ręka"
+  - "serce"
+  - "skaza"
+  - "szukać"
+  - "wejść"
+  - "wkroczyć"
+  - "wstąpić"
+  - "wszystko"
+  - "wyżej"
+  - "zaś"
+  - "zastęp"
+  - "ziemia"
+  - "zwracać"
+  - "zwyciężony"
+  - "zwyciężyć"
+footnote: "Bramy, podnieście (przyp. red.)"
+===
+
+KW:
+[E]Do Pana należy cała ziemia.
+KW:
+[G]I wszystko to, co ją napełnia.
+K:
+[A]Świat i jego miesz[H]kańcy.
+W:
+[E]Bramy, podnieście
+[G]wasze podwoje,
+podnieście je [A]wyżej,
+aby wkroczył Król [E]chwały,
+Król chwały.
+
+K:
+[e]Kto [a]wstąpi na górę świętą [e]Pana?
+Kto [a]wejdzie do Jego świętego [e]miejsca?
+KW:
+[h]Kto ma ręce niewinne i serce bez skazy,
+K:
+[G]kto nie zwraca swej duszy ku mar[A]ności.
+W:
+Ku mar[H]ności.
+KW:
+[e]My zaś jesteśmy jego Koś[h]ciołem,
+KW:
+[e]który dziś przychodzi przed Twoją o[h]becność,
+K:
+[G]który szuka Twego oblicza, Boże Jaku[A]bowy.
+W:
+Boże Jaku[H]bowy.
+[E]Bramy, podnieście
+[G]wasze podwoje,
+podnieście je [A]wyżej,
+aby wkroczył Król [E]chwały,
+Król chwały.
+
+KW:
+[e]Kto [a]jest owym Królem [e]chwały?
+KW:
+[h]To jest Pan potężny mocarz.
+K:
+[G]To jest Pan niezwyciężony [A]w boju.
+W:
+Niezwyciężony [H]w boju.
+KW:
+[e]To jest Pan nad zastę[h]pami.
+K:
+To [G]On jest Królem [A]chwały.
+W:
+Królem [H]chwały!
+[E]Bramy, podnieście
+[G]wasze podwoje,
+podnieście je [A]wyżej,
+aby wkroczył Król [E]chwały,
+Król chwały.

@@ -1,0 +1,134 @@
+===
+title: "Jezus malusieńki"
+section: "carol"
+color: "carol"
+tone: "a"
+songid: "S714JezusMalusienki"
+author:
+  - "tr"
+year: 1754
+address:
+  - what: "Łk"
+    where: "2, 16"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+  - what: "*DZI"
+    where: ""
+index:
+  - "albo"
+  - "chylić"
+  - "dać"
+  - "dosyć"
+  - "Dziecię"
+  - "Dziecina"
+  - "dzieje"
+  - "główeczka"
+  - "głowa"
+  - "hetman"
+  - "Jezus"
+  - "kolebeczka"
+  - "kwilić"
+  - "łzy"
+  - "lać"
+  - "leżeć"
+  - "lili"
+  - "żal"
+  - "żłób"
+  - "żłóbek"
+  - "malusieńki"
+  - "matula"
+  - "matusia"
+  - "męka"
+  - "mieszkać"
+  - "mieszkanie"
+  - "miłość"
+  - "najwyższy"
+  - "nóżki"
+  - "nosić"
+  - "okryć"
+  - "On"
+  - "otwarty"
+  - "pałac"
+  - "pójść"
+  - "Pan"
+  - "piękny"
+  - "płakać"
+  - "poduszeczka"
+  - "położyć"
+  - "prosić"
+  - "przestać"
+  - "przysposobić"
+  - "rąbek"
+  - "rączka"
+  - "serce"
+  - "serdeczny"
+  - "sianko"
+  - "siano"
+  - "stajenka"
+  - "sukienka"
+  - "syn"
+  - "tak"
+  - "truchleć"
+  - "twardy"
+  - "ubogi"
+  - "uwinąć"
+  - "waleczny"
+  - "wczas"
+  - "wśród"
+  - "wola"
+  - "wyrzucić"
+  - "zdjąć"
+  - "zimno"
+  - "znieść"
+  - "związany"
+  - "zwyciężony"
+footnote: "Kolęda polska o charakterze kołysanki. Ta nostalgiczna i rzewna, ale jakże wdzięczna melodia była niezwykle popularna w klasztorach żeńskich. Posiada rytm i cechy kujawiaka. Melodia i słowa pochodzą z XVIII wieku. Melodię przekazują rękopisy karmelitańskie: kantyczka Chybińskiego oraz rękopis z bibioteki klasztornej, sygn. 95, a także jeden z rękopisów franciszkanek z I poł. XVIII w. Kolęda podana przez Mioduszewskiego w Pastorałkach i kolędach z 1843 r. nieznacznie różni się od wersji śpiewanej współcześnie. Słów utworu nie podają XVIII-wieczne zbiory drukowane. Zamieszczają je tylko niektóre rękopisy: BJ
+3639 oraz BJ 3640 (karmelitański), staniątecki z 1754 r. (Gąsiorowskiej). Kolęda nosi tam tytuł Kommizeracyja, a tekst liczy 12-13 zwrotek, przy czym dalsze strofy tracą charakter epicki, przechodząc do adoracyjnych rozważań. Ten tekst pochodzi ze: Śpiewnik kościelny katolicki: czyli największy podręcznik dla ludu i organistów w kościołach katolickich, 1903."
+===
+
+[a]Jezus malus[ES]ieńki,
+[a]leży wśród sta[ES]jenki,
+[d]Płacze z zimna, [C]nie dała mu
+[G]Matula suk[C]ienki.
+
+Bo uboga była,
+rąbek z głowy zdjęła,
+W który Dziecię uwinąwszy,
+siankiem Go okryła.
+
+Nie ma kolebeczki,
+ani poduszeczki,
+We żłobie Mu położyła
+siana pod główeczki.
+
+Dziecina się kwili,
+Malusieńka lili,
+W nóżki zimno, żłóbek twardy,
+stajenka się chyli.
+
+Matusia truchleje,
+serdeczne łzy leje,
+O mój Synu! Wola Twoja,
+nie moja się dzieje.
+
+Przestań płakać, proszę,
+bo żalu nie zniosę,
+Dosyć go mam z męki Twojej,
+którą w sercu noszę.
+
+O najwyższy Panie!
+Waleczny Hetmanie!
+Zwyciężonyś, mając rączki
+miłością związane.
+
+Pójdź do serca mego,
+Tobie otwartego,
+Przysposób je do mieszkania
+i wczasu swojego.
+
+Albo mi daj swoje,
+wyrzuciwszy moje,
+Tak będziesz miał piękny pałac,
+na mieszkanie Twoje.

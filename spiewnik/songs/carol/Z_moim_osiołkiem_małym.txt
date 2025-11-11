@@ -1,0 +1,71 @@
+===
+title: "Z moim osiołkiem małym"
+subtitle: "Mi burrito sabanero"
+section: "carol"
+color: "carol"
+tone: "G"
+songid: "S719ZMoimOsiolkiemMalym"
+author:
+  - "tr"
+year: 2017
+address:
+  - what: "Łk"
+    where: "2, 15-16"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+  - what: "*DZI"
+    where: ""
+knownas:
+  - "Con mi burrito sabanero"
+  - "Tuki tuki tukituki"
+children: true
+index:
+  - "akurat"
+  - "Betlejem"
+  - "dziś"
+  - "jechać"
+  - "jeden"
+  - "jedno"
+  - "Jezus"
+  - "kłusować"
+  - "ścieżka"
+  - "świat"
+  - "mały"
+  - "niebo"
+  - "nizina"
+  - "oświecić"
+  - "osiołek"
+  - "podskakiwać"
+  - "poranny"
+  - "pospieszyć"
+  - "przybyć"
+  - "przyjść"
+  - "słonko"
+  - "tuki"
+  - "wiedzieć"
+  - "wzlecieć"
+footnote: "Kolęda kolumbijska z płyty Seminarzystów Redemptoris Mater „Kolędy Świata” 2006. Tekst przekładu z broszury płyty CD. Adaptacja do melodii, rytmu i rymu własna. W nutach także hiszpańska wersja oryginalna."
+===
+
+[G]Z moim osiołkiem małym [C]z nizin jadę [D]dziś do Betle[G]jem.
+[G]Z moim osiołkiem małym [C]z nizin jadę [D]dziś do Betle[G]jem.
+
+Jedno [C]wiem, jedno [G]wiem, jadę [D]dziś do Betle[G]jem!
+Jedno [C]wiem, jedno [G]wiem, jadę [D]dziś do Betle[G]jem!
+
+[HS]Tuki tuki tuki[e]tuki. [HS]Tukituki tu ki [e]ta.
+Pospiesz [A]że się mój o[D]siołku, przybę[A]dziemy aku[D]rat.
+[HS]Tuki tuki tuki[e]tuki. [HS]Tukituki tu ki [e]ta.
+Pospiesz [C]że się mój o[G]siołku, Jezus [D]przyjdzie na ten [G]świat.
+
+Z moim osiołkiem podska[C]kuję, mój o[D]siołek dziś kłu[G]suje.
+Z moim osiołkiem podska[C]kuję, mój o[D]siołek dziś kłu[G]suje.
+Jedno [C]wiem ...
+[HS]Tuki tuki ...
+
+Poranne słonko w niebo w[C]zleci, moją [D]ścieżkę mi o[G]świeci.
+Poranne słonko w niebo w[C]zleci, moją [D]ścieżkę mi o[G]świeci.
+Jedno [C]wiem ...
+[HS]Tuki tuki ...

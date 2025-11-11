@@ -1,0 +1,94 @@
+===
+title: "A głupi myśli, że nie ma Boga"
+section: "precate"
+color: "precate"
+tone: "d"
+songid: "S137AGlupiMysliZeNieMaBoga"
+author:
+  - "K"
+year: 2000
+address:
+  - what: "Ps"
+    where: "14"
+knownas:
+  - "Są zepsuci, ohydne rzeczy popełniają"
+  - "Nie ma nikogo, kto by czynił dobro"
+  - "2001"
+index:
+  - "Bóg"
+  - "chleb"
+  - "człowiek"
+  - "czynić"
+  - "dobro"
+  - "dobry"
+  - "głupi"
+  - "istnieć"
+  - "jaki"
+  - "jeden"
+  - "lud"
+  - "ludzie"
+  - "mądry"
+  - "myśleć"
+  - "nic"
+  - "niebo"
+  - "niegodziwiec"
+  - "nikczemny"
+  - "nikt"
+  - "ohydny"
+  - "Pan"
+  - "pochylać"
+  - "pożerać"
+  - "popełniać"
+  - "rozumieć"
+  - "rzeczy"
+  - "sprawiedliwy"
+  - "strach"
+  - "szukać"
+  - "takiego"
+  - "ucieczka"
+  - "wszyscy"
+  - "wzywać"
+  - "zadrżeć"
+  - "zbłądzić"
+  - "zepsuty"
+  - "zobaczyć"
+footnote: "Za „Zmartwychwstał Pan 2025”: kto by czynił→kto czyni, spogląda z nieba na synów ludzkich→z nieba pochyla się nad ludźmi. (przyp. red.)"
+===
+
+KW:
+[d]A głupi myśli, że nie ma [AS]Boga.
+Są zepsuci, ohydne rzeczy popeł[d]niają.
+[g]Nie ma nikogo, kto czyni* [AS]dobro,
+nie ma ni[B]kogo, kto czyni* [AS]dobro.
+
+K:
+[d]Pan z nieba pochyla się nad [AS]ludźmi* ,
+by zobaczyć, czy istnieje jakiś człowiek [d]mądry,
+[g]człowiek, który szuka [AS]Boga,
+czł[B]owiek, który szuka [AS]Boga.
+[F]Wszyscy zbłądzili, wszyscy są ze[a]psuci;
+Nie ma ta[B]kiego, co czyni dobrze, nie ma ani jed[AS]nego.
+
+W:
+[d]A głupi myśli, że nie ma [AS]Boga.
+Są zepsuci, ohydne rzeczy popeł[d]niają.
+
+K:
+[g]Nic nie rozumieją ludzie nik[AS]czemni,
+[g]niegodziwcy, co lud mój pożerają, jak [AS]chleb.
+[B]Nie wzywają Boga, lecz zadrżą ze [AS]strachu,
+[F]bo jest Bóg ze sprawied[AS]liwym,
+[B]Pan jest jego u[AS]cieczką.
+
+K:
+[d]Bo jest Bóg [C]ze sprawied[AS]liwym,
+[B]Pan jest jego u[AS]cieczką.
+W:
+[d]Bo jest Bóg [C]ze sprawied[AS]liwym,
+[B]Pan jest jego u[AS]cieczką.
+
+W:
+[d]A głupi myśli, że nie ma [AS]Boga.
+Są zepsuci, ohydne rzeczy popeł[d]niają.
+[g]Nie ma nikogo, kto czyni* [AS]dobro,
+nie ma ni[B]kogo, kto czyni* [AS]dobro.

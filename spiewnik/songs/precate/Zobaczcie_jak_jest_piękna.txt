@@ -1,0 +1,112 @@
+===
+title: "Zobaczcie, jak jest piękna"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S038ZobaczcieJakJestPiekna"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "133"
+  - what: "*PAX"
+    where: ""
+alttone:
+  - "g"
+index:
+  - "Aaron"
+  - "błogosławieństwo"
+  - "brat"
+  - "broda"
+  - "dawać"
+  - "góra"
+  - "góry"
+  - "głowa"
+  - "Hermon"
+  - "życie"
+  - "między"
+  - "miłość"
+  - "olej"
+  - "pachnący"
+  - "Pan"
+  - "piękny"
+  - "razem"
+  - "rosa"
+  - "skosztować"
+  - "słodki"
+  - "spadać"
+  - "spływać"
+  - "Syjon"
+  - "użyczać"
+  - "wiek"
+  - "wielki"
+  - "własny"
+  - "zobaczyć"
+===
+
+W:
+[e]Zobaczcie, jak jest piękna,
+skosztujcie, jak jest słodka
+[C]miłość między [HS]braćmi.
+Zo[e]baczcie, jak jest pięknie,
+skosztujcie, jak jest słodko,
+H7CH7
+gdy [C]bracia są razem.
+
+K:
+[a]Jak olej, co spływa na [HS]głowę,
+sp[a]ływa na głowę Aa[HS]rona.
+W:
+To jest jak [C]olej pachnący, co spły[HS]wa
+na [C]brodę Aa[HS]rona.
+[e]Zobaczcie, jak jest piękna,
+skosztujcie, jak jest słodka
+[C]miłość między [HS]braćmi.
+Zo[e]baczcie, jak jest pięknie,
+skosztujcie, jak jest słodko,
+H7CH7
+gdy [C]bracia są razem.
+
+K:
+[a]Jak rosa z góry Her[HS]monu,
+Co [a]spada na górę Sy[HS]jonu.
+W:
+To jest jak [C]rosa z góry Hermo[HS]nu,
+co [C]spada na [HS]Syjon.
+[e]Zobaczcie, jak jest piękna,
+skosztujcie, jak jest słodka
+[C]miłość między [HS]braćmi.
+
+Zo[e]baczcie, jak jest pięknie,
+skosztujcie, jak jest słodko,
+H7CH7
+gdy [C]bracia są razem.
+
+K:
+[a]Bo tam Pan u[HS]życza
+swo[a]jego błogosła[HS]wieństwa.
+W:
+Bo [C]tam nasz Pan uży[HS]cza
+swej [C]wielkiej mi[HS]łości.
+[e]Zobaczcie, jak jest piękna,
+skosztujcie, jak jest słodka
+[C]miłość między [HS]braćmi.
+Zo[e]baczcie, jak jest pięknie,
+skosztujcie, jak jest słodko,
+H7CH7
+gdy [C]bracia są razem.
+
+K:
+[a]Bo tam Pan nam [HS]daje
+[a]życie na [HS]wieki.
+W:
+Bo [C]tam nasz Pan nam da[HS]je
+swe [C]własne [HS]życie.
+[e]Zobaczcie, jak jest piękna,
+skosztujcie, jak jest słodka
+[C]miłość między [HS]braćmi.
+Zo[e]baczcie, jak jest pięknie,
+skosztujcie, jak jest słodko,
+H7CH7
+gdy [C]bracia są razem.

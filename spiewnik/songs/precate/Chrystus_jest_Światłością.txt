@@ -1,0 +1,78 @@
+===
+title: "Chrystus jest Światłością"
+section: "precate"
+color: "precate"
+tone: "C"
+songid: "S151ChrystusJestSwiatloscia"
+author:
+  - "K"
+year: 2016
+address:
+  - what: "J"
+    where: "14, 6"
+  - what: "["
+    where: "p"
+  - what: "*OPA"
+    where: ""
+  - what: "*HYM"
+    where: ""
+index:
+  - "Chrystus"
+  - "droga"
+  - "życie"
+  - "Światłość"
+  - "Pan"
+  - "prawda"
+  - "zbawienie"
+footnote: "Za hiszpańskim „Resucitó”. W „Risuscitò 2023”, idąc za włoskim nagraniem Kiko z roku 1977, zastąpiono podsumowanie Él es la salvación (On jest zbawieniem) trzecim wersetem Lui è la Verità (On jest Prawdą), prawdopodobnie dlatego, że tylko ten werset ma akcent na ostatnią sylabę, czego wymaga rytm, a nie ma go zwrot Lui è la salvézza. Język polski dopuszcza zmienny szyk, i można zwrotki podsumowywać oryginalnym wezwaniem z wersji hiszpańskiej Zbawieniem jest Pan. (przyp. red.)"
+===
+
+K:
+[C]Chrystus jest Światłością.
+W:
+[a]Chrystus jest Światłością.
+K:
+[d]Chrystus jest Światłością.
+W:
+[G]Chrystus jest Światłością.
+Zbawieniem jest [C]Pan.
+
+K:
+Chrystus jest Drogą.
+W:
+[a]Chrystus jest Drogą.
+K:
+[d]Chrystus jest Drogą.
+W:
+[G]Chrystus jest Drogą.
+Zbawieniem jest [C]Pan.
+
+K:
+Chrystus jest Prawdą.
+W:
+[a]Chrystus jest Prawdą.
+K:
+[d]Chrystus jest Prawdą.
+W:
+[G]Chrystus jest Prawdą.
+Zbawieniem jest [C]Pan.
+
+K:
+Chrystus jest Życiem.
+W:
+[a]Chrystus jest Życiem.
+K:
+[d]Chrystus jest Życiem.
+W:
+[G]Chrystus jest Życiem.
+Zbawieniem jest [C]Pan.
+
+K:
+Chrystus jest Światłością.
+W:
+[a]Chrystus jest Drogą.
+K:
+[d]Chrystus jest Prawdą.
+W:
+[G]Chrystus jest Życiem.
+Zbawieniem jest [C]Pan.

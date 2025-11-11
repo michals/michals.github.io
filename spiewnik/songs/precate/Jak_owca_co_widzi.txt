@@ -1,0 +1,128 @@
+===
+title: "Jak owca, co widzi"
+subtitle: "Kontakion Romana Melodosa"
+section: "precate"
+color: "communion"
+tone: "e"
+songid: "S159MatkaBolesna"
+author:
+  - "K"
+year: 2016
+address:
+  - what: "*LAM"
+    where: ""
+  - what: "*MAR"
+    where: ""
+  - what: "*HYM"
+    where: ""
+  - what: "*OWP"
+    where: ""
+  - what: "*OPA"
+    where: ""
+alttone:
+  - "fis"
+knownas:
+  - "Roman Melodos, kontakion"
+  - "Maryja u stóp krzyża"
+  - "Mój synu, mój synu i mój Boże"
+  - "Matka Bolesna"
+  - "2016"
+  - "Kraków 2016"
+index:
+  - "Adam"
+  - "Bóg"
+  - "ból"
+  - "biada"
+  - "bieg"
+  - "chcieć"
+  - "cierpieć"
+  - "czemu"
+  - "dogasać"
+  - "dokąd"
+  - "dotrzeć"
+  - "Ewa"
+  - "iść"
+  - "jagniątko"
+  - "jakże"
+  - "kończyć"
+  - "krzyż"
+  - "światło"
+  - "życie"
+  - "móc"
+  - "mówić"
+  - "Maryja"
+  - "matka"
+  - "możliwe"
+  - "nagły"
+  - "nienawiść"
+  - "nigdy"
+  - "omijać"
+  - "On"
+  - "owca"
+  - "płakać"
+  - "pochłonąć"
+  - "powracać"
+  - "prowadzić"
+  - "przybijać"
+  - "przypuszczać"
+  - "słowo"
+  - "sprawiedliwość"
+  - "stanąć"
+  - "Syn"
+  - "taki"
+  - "trzeba"
+  - "ujrzeć"
+  - "umierać"
+  - "uwierzyć"
+  - "wbrew"
+  - "więc"
+  - "więzić"
+  - "widzieć"
+  - "wieść"
+  - "wszelki"
+  - "zabić"
+  - "zbawić"
+  - "złość"
+  - "zobaczyć"
+  - "zrozumieć"
+footnote: "Na podstawie kontakionu: Maryja u stóp krzyża Romana Melodosa (490-555) na Piątek Męki Pańskiej. Tłumaczenie zrobił ksiądz Sławomir Abramowski (RM). Scenariusz i akordy za „Resucitó 2023”. Tłumaczenie „oficjalne” (fatalne): , str. . (przyp. red.)"
+===
+
+K:
+[e]Jak owca, co widzi, jak prowadzą jej jagniątko na za[a]bicie,
+Maryja szła za Nim pochłonięta przez [e]ból.
+I mówiła: Dokąd cię wiodą Synu [a]mój?
+Jakże kończy się tak nagle bieg Twojego [HS]życia?
+K:
+[C]Mów do mnie, nie omijaj mnie bez [HS]słowa.
+KW:
+[a]Mój Synu, mój Synu i mój [HS]Boże.
+
+Maryja:
+K:
+[e]Nigdy bym nie przypuszczała, że zobaczę Cię w tym [a]stanie.
+Nigdy bym nie uwierzyła, że dotrą aż do takiej nienawiści i [e]złości,
+więzić Ciebie wbrew wszelkiej sprawiedli[HS]wości.
+KW:
+[C]Chciałabym zrozumieć, [a]biada mi,
+KW:
+jak to możliwe, że światło do[HS]gasa?
+K:
+[a]jak to możliwe, że przybijają Cię do [HS]krzyża?
+KW:
+[a]Mój Synu, mój Synu i mój [HS]Boże.
+
+Chrystus:
+K:
+[e]Czemu płaczesz, czemu płaczesz Matko [a]moja?
+Czemu płaczesz, czemu płaczesz Matko [e]moja?
+Czy nie trzeba, żebym [aX]cierpiał?
+Czy nie trzeba, żebym umie[HS]rał?
+Jak więc [C]będę mógł zbawić A[HS]dama?
+Jak [a]więc będę mógł ujrzeć Ewę, jak powraca do [HS]życia?
+W:
+[e]Jak owca, co widzi, jak prowadzą jej jagniątko na za[a]bicie, …
+K:
+[C]Mów do mnie, nie omijaj mnie bez [HS]słowa.
+KW:
+[a]Mój Synu, mój Synu i mój [HS]Boże.

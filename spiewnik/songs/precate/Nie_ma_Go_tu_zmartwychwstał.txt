@@ -1,0 +1,104 @@
+===
+title: "Nie ma Go tu, zmartwychwstał"
+section: "precate"
+color: "precate"
+tone: "C"
+songid: "S139NieMaGoTu"
+author:
+  - "K"
+year: 2003
+address:
+  - what: "Mt"
+    where: "28, 1-7"
+  - what: "*OPA"
+    where: ""
+alttone:
+  - "Es"
+knownas:
+  - "Po upływie szabatu"
+  - "2003"
+index:
+  - "anioł"
+  - "bać"
+  - "drugi"
+  - "dzień"
+  - "Galilea"
+  - "grób"
+  - "iść"
+  - "Jezus"
+  - "kamień"
+  - "świt"
+  - "Magdalena"
+  - "Maria"
+  - "martwy"
+  - "niebo"
+  - "niewiasta"
+  - "odsunąć"
+  - "On"
+  - "Pański"
+  - "pierwszy"
+  - "powiedzieć"
+  - "powstać"
+  - "szabat"
+  - "szukać"
+  - "szybki"
+  - "teraz"
+  - "trzęsienie"
+  - "tydzień"
+  - "uczeń"
+  - "udać"
+  - "ujrzeć"
+  - "ukrzyżować"
+  - "upływ"
+  - "wiedzieć"
+  - "wielki"
+  - "wyprzedzać"
+  - "ziemia"
+  - "zmartwychwstać"
+  - "zstąpić"
+footnote: "W tym akordzie słychać c i g, co wskazuje nie na akord D♯7 (czy, jak sugeruje „Risuscitò 2023” E♭ ) ale C7 (jak w „Resucitó 2023”). W tym chwycie wybrzmi śpiewana właśnie kwinta. (przyp. red.)"
+===
+
+K:
+[C]Po upływie szabatu
+[E]o świcie pierwszego dnia ty[F]godnia
+Maria Magdalena i [d]druga Maria
+udały się do [E]grobu.
+[d]A oto powstało wielkie trzęsienie [E]ziemi
+[F]Anioł Pański [G]zstąpił z nieba,
+[E]odsunął kamień [d]i powiedział nie[E]wiastom
+[DS]„Nie bójcie się!
+[CS]Wiem, że szukacie Jezusa [DS]Ukrzyżowanego.
+
+K:
+[g]Nie ma Go [DS]tu, Zmar[g]twychwstał!
+[g]Nie ma Go [DS]tu, Zmar[g]twychwstał!
+Nie ma Go [c]tu, Zmar[DS]twychwstał!
+W:
+[g]Nie ma Go [DS]tu, Zmar[g]twychwstał!
+[g]Nie ma Go [DS]tu, Zmar[g]twychwstał!
+Nie ma Go [c]tu, Zmar[DS]twychwstał!
+
+K:
+[g]Idźcie szybko powiedzieć Jego ucz[DS]niom:
+On powstał [g]z martwych!
+[c]On powstał z martwych
+i was wyprzedza do Gali[DS]lei.”
+
+W:
+[g]Nie ma Go [DS]tu, Zmar[g]twychwstał!
+[g]Nie ma Go [DS]tu, Zmar[g]twychwstał!
+Nie ma Go [c]tu, Zmar[DS]twychwstał!
+
+K:
+„[g]Idźcie szybko powiedzieć Jego [DS]uczniom:
+On powstał [g]z martwych!
+[c]a teraz was wyprzedza do Gali[DS]lei,
+[c]tam Go uj[DS]rzycie.”
+
+W:
+[g]Nie ma Go [DS]tu, Zmar[g]twychwstał!
+[g]Nie ma Go [DS]tu, Zmar[g]twychwstał!
+Nie ma Go [c]tu, Zmar[DS]twychwstał!
+
+7

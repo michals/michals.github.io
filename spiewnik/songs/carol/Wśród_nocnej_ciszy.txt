@@ -1,0 +1,95 @@
+===
+title: "Wśród nocnej ciszy"
+section: "carol"
+color: "carol"
+tone: "G"
+songid: "S704WsrodNocnejCiszy"
+author:
+  - "tr"
+year: 1853
+address:
+  - what: "Łk"
+    where: "2, 8-18"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+index:
+  - "ach"
+  - "Bóg"
+  - "Betlejem"
+  - "chleb"
+  - "cisza"
+  - "czekać"
+  - "cześć"
+  - "cztery"
+  - "dać"
+  - "dawny"
+  - "Dzieciątko"
+  - "głos"
+  - "jako"
+  - "kapłan"
+  - "król"
+  - "żądać"
+  - "żłób"
+  - "noc"
+  - "nocny"
+  - "objawić"
+  - "On"
+  - "osoba"
+  - "paść"
+  - "pójść"
+  - "Pan"
+  - "pasterz"
+  - "pośpieszać"
+  - "prędzej"
+  - "prorok"
+  - "przyjść"
+  - "przywitać"
+  - "radość"
+  - "rodzić"
+  - "rok"
+  - "rozchodzić"
+  - "siebie"
+  - "skoro"
+  - "twarz"
+  - "tysiące"
+  - "wielki"
+  - "wierzyć"
+  - "wino"
+  - "witać"
+  - "wśród"
+  - "wstać"
+  - "wszystek"
+  - "wybierać"
+  - "wyglądać"
+  - "zawołać"
+  - "Zbawca"
+  - "znak"
+  - "znaleźć"
+footnote: "Kolęda polska powstała na przełomie XVIII i XIX wieku. Po raz pierwszy została opublikowana w 1853 w dodatku do Śpiewnika kościelnego autorstwa ks. Michała Marcina Mioduszewskiego, który przeznaczył ją do śpiewów mszalnych. Znana była już powszechnie na początku XIX wieku. Dzisiaj najczęściej rozpoczyna pasterkę."
+===
+
+Wśr[G]ód n[D]ocnej c[G]isz[D]y gł[G]os się r[D]ozchodz[G]i:‡‡‡‡
+Wst[G]ań[D]cie, past[G]erz[D]e, B[G]óg się W[D]am rodz[G]i.
+Cz[G]ym prędzej się w[DS]ybierajcie,
+D[G]o Betlejem p[DS]ośpieszajcie,
+Pr[G]zywit[DS]ać Pan[G]a.
+
+P[G]osz[aS]li, z[DS]nal[G]eź[h]li Dz[eS]iec[GS]iątk[a]o w ż[DS]łob[G]ie
+Z ws[G]zys[aS]tki[DS]mi z[G]na[h]ki d[eS]an[GS]ym[a]i [DS]sob[G]ie.
+J[G]ako B[eS]ogu cz[a]eść Mu d[DS]ali,
+[G]A wit[eS]ając z[a]awoł[DS]ali
+Z w[G]ielk[eS]iej [a]ra[DS]doś[G]ci:
+
+Ach, witaj Zbawco z dawna żądany,
+Cztery tysiące lat wyglądany.
+Na Ciebie króle, prorocy,
+Czekali, a Tyś tej nocy
+Nam się objawił.
+
+I my czekamy na Ciebie, Pana,
+A skoro przyjdziesz na głos kapłana,
+Padniemy na twarz przed Tobą,
+Wierząc, żeś jest pod osobą
+Chleba i wina.

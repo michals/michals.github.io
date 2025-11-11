@@ -1,0 +1,92 @@
+===
+title: "Bardzo mnie prześladowali"
+section: "precate"
+color: "precate"
+tone: "d"
+songid: "S130BardzoMniePrzesladowali"
+author:
+  - "K"
+year: 1996
+address:
+  - what: "Ps"
+    where: "129"
+knownas:
+  - "Niech odstąpią nienawidzący Syjonu"
+  - "1994"
+index:
+  - "bardzo"
+  - "bruzda"
+  - "dach"
+  - "grzbiet"
+  - "Izrael"
+  - "jarzmo"
+  - "kosiarz"
+  - "mówić"
+  - "młodość"
+  - "napełnić"
+  - "ni"
+  - "nienawidzić"
+  - "nigdy"
+  - "odstąpić"
+  - "On"
+  - "orać"
+  - "oracz"
+  - "Pan"
+  - "połamać"
+  - "prześladować"
+  - "przemóc"
+  - "ręka"
+  - "rosnąć"
+  - "snop"
+  - "sprawiedliwy"
+  - "stanąć"
+  - "Syjon"
+  - "trawa"
+  - "usychać"
+  - "wydłużyć"
+  - "wyplenić"
+  - "występny"
+  - "zanadrze"
+  - "zanim"
+  - "zbierać"
+footnote: "W Tysiąclatce jest wprawdzie wyżłobili długie bruzdy, niemniej w hiszpańskim jest alargaron sus surcos, co znaczy wydłużyli bruzdy; tak jest w „Zmartwychwstał Pan” i na taki zwrot tylko jest miejsce w melodii. (przyp. red.)"
+===
+
+K:
+[d]Bardzo mnie prześladowali
+od mojej mło[A]dości;
+bardzo mnie prześladowali,
+niech mówi [d]Izrael.
+W:
+Bardzo mnie prześladowali
+od mojej mło[A]dości;
+bardzo mnie prześladowali,
+ale nie prze[d]mogli.
+
+KW:
+Na mym grzbiecie orali o[A]racze,
+na mym grzbiecie wydłużyli [d]bruzdy.
+K:
+Ale Pan jest sprawie[A]dliwy,
+On połamał jarzmo wy[d]stępnych.
+Ale Pan jest sprawie[A]dliwy,
+On połamał jarzmo wy[d]stępnych.
+
+KW:
+Niech odstąpią nienawidzący Sy[A]jonu,
+niech odstąpią nienawidzący Sy[d]jonu.
+
+K:
+Niech staną się jak trawa,co rośnie na [A]dachach,
+która, zanim ją wyplenią, u[d]sycha.
+Nie napełni nigdy nią kosiarz swojej [A]ręki,
+ni zanadrza ten, co zbiera [d]snopy.
+W:
+Niech odstąpią nienawidzący Sy[A]jonu,
+niech odstąpią nienawidzący Sy[d]jonu.
+
+W:
+Bardzo mnie prześladowali
+od mojej mło[A]dości;
+bardzo mnie prześladowali,
+ale nie prze[d]mogli.

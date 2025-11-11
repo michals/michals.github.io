@@ -1,0 +1,56 @@
+===
+title: "Alleluja Paschalne"
+section: "liturg"
+color: "liturg"
+tone: "D"
+songid: "S024AllelujaPaschalne"
+author:
+  - "K"
+year: 1994
+address:
+  - what: "*PAS"
+    where: ""
+knownas:
+  - "Jezus Chrystus zmartwychwstał"
+index:
+  - "alleluja"
+  - "Chrystus"
+  - "Jezus"
+  - "Pan"
+  - "zmartwychwstać"
+footnote: "Alleluja Wigilii Paschalnej można śpiewać w okresie wielkanocnym z wersetami z dnia (przyp. włoski). W oryginalnych nagraniach oraz w hiszpańskim „Resucitó” jest trzeci raz Jezus Chrystus zmartwychwstał! Dopiero we włoskim „Risuscitò” mamy Jezus Chrystus jest Panem! (przyp. red.)"
+===
+
+K:
+[D]Jezus [A]Chrystus zmart[D]wychwstał!‡‡‡‡
+W:
+1 Alleluja, alle[A]luja, alle[D]luja!
+W:
+2 Alleluja, alle[A]luja, alle[D]luja!
+W:
+3    Alleluja, [A]alleluja, [D]alleluja!
+W:
+Alleluja, [A]alleluja, [D]alleluja!
+
+K:
+Jezus [A]Chrystus zmart[D]wychwstał!‡‡‡‡
+W:
+2 Alleluja, alle[A]luja, alle[D]luja!
+W:
+3    Alleluja, [A]alleluja, [D]alleluja!
+W:
+1 Alleluja, alle[A]luja, alle[D]luja!
+W:
+Alleluja, [A]alleluja, [D]alleluja!
+
+K:
+Jezus [A]Chrystus jest [D]Panem!‡‡‡‡
+W:
+3            Alleluja, [A]alleluja, [D]alleluja!
+W:
+1 Alleluja, alle[A]luja, alle[D]luja!
+W:
+2 Alleluja, alle[A]luja, alle[D]luja!
+W:
+Alleluja, [A]alleluja, [D]alleluja!
+Alleluja, alle[A]luja, alle[D]luja!

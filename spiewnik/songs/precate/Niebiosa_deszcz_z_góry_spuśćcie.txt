@@ -1,0 +1,102 @@
+===
+title: "Niebiosa, deszcz z góry spuśćcie"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S052NiebiosaDeszczZgorySpusccie"
+author:
+  - "GA"
+year: 1992
+address:
+  - what: "Iz"
+    where: "45, 8"
+  - what: "*OAD"
+    where: ""
+knownas:
+  - "Maranatha, Maranatha"
+  - "1975"
+index:
+  - "ból"
+  - "chmura"
+  - "ciemność"
+  - "dać"
+  - "deszcz"
+  - "dostrzegać"
+  - "góry"
+  - "głód"
+  - "karmić"
+  - "łzy"
+  - "święty"
+  - "Maranatha"
+  - "niebiosa"
+  - "nikt"
+  - "okrywać"
+  - "osuszać"
+  - "otworzyć"
+  - "pęta"
+  - "prowadzić"
+  - "pustynia"
+  - "słyszeć"
+  - "spiekota"
+  - "spuścić"
+  - "uwalniać"
+  - "wiatr"
+  - "Zbawiciel"
+  - "zesłać"
+  - "ziemia"
+  - "zimno"
+footnote: "Pieśń występuje na płycie La nostra festa è Cristo, F-CAM 30.2 Edizioni Paoline, Roma 1975 pt „Preghiera dei poveri Di Jahvè”. Z nieznanych powodów nie została wyrzucona, jak (str. ). (przyp. red.)"
+===
+
+W:
+[a]Niebiosa, deszcz z góry [F]spuśćcie;
+o [G]chmury, Świętego ze[a]ślijcie.
+O [E]ziemio, otwórz się [a]ziemio [ES]i Zbawiciela [a]daj.
+
+K:
+[a]Jesteśmy pustynią, jesteśmy spie[G]kotą:
+W:
+Marana[E]tha, [G]Marana[E]tha!
+K:
+Jesteśmy [a]wiatrem, nikt nas nie [G]słyszy:
+W:
+Marana[E]tha, [G]Marana[E]tha!
+[a]Niebiosa, deszcz z góry [F]spuśćcie;
+o [G]chmury, Świętego ze[a]ślijcie.
+O [E]ziemio, otwórz się [a]ziemio [ES]i Zbawiciela [a]daj.
+
+K:
+[a]Jesteśmy ciemnością, nikt nas nie pro[G]wadzi:
+W:
+Marana[E]tha, [G]Marana[E]tha!
+K:
+Jesteśmy pę[a]tami, nikt nas nie u[G]walnia:
+W:
+Marana[E]tha, [G]Marana[E]tha!
+[a]Niebiosa, deszcz z góry [F]spuśćcie;
+o [G]chmury, Świętego ze[a]ślijcie.
+O [E]ziemio, otwórz się [a]ziemio [ES]i Zbawiciela [a]daj.
+
+K:
+[a]Jesteśmy zimnem, nikt nas nie o[G]krywa:
+W:
+Marana[E]tha, [G]Marana[E]tha!
+K:
+Jesteśmy [a]głodem, nikt nas nie [G]karmi:
+W:
+Marana[E]tha, [G]Marana[E]tha!
+[a]Niebiosa, deszcz z góry [F]spuśćcie;
+o [G]chmury, Świętego ze[a]ślijcie.
+O [E]ziemio, otwórz się [a]ziemio [ES]i Zbawiciela [a]daj.
+
+K:
+[a]Jesteśmy łzami, nikt nas nie o[G]susza:
+W:
+Marana[E]tha, [G]Marana[E]tha!
+K:
+Jesteśmy [a]bólem, nikt nas nie do[G]strzega:
+W:
+Marana[E]tha, [G]Marana[E]tha!
+[a]Niebiosa, deszcz z góry [F]spuśćcie;
+o [G]chmury, Świętego ze[a]ślijcie.
+O [E]ziemio, otwórz się [a]ziemio [ES]i Zbawiciela [a]daj.

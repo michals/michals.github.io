@@ -1,0 +1,104 @@
+===
+title: "Ku tobie, miasto święte"
+subtitle: "Eucharystyczny hymn procesyjny"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S032KuTobieMiastoSwiete"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "*WEJ"
+    where: ""
+  - what: "*HYM"
+    where: ""
+alttone:
+  - "a"
+  - "e"
+knownas:
+  - "1967"
+  - "Jesteśmy Twoim świętym ludem"
+index:
+  - "alleluja"
+  - "amen"
+  - "brat"
+  - "ciało"
+  - "droga"
+  - "dziś"
+  - "królować"
+  - "krew"
+  - "ku"
+  - "święty"
+  - "lud"
+  - "miasto"
+  - "między"
+  - "miłość"
+  - "nadzieja"
+  - "najdroższy"
+  - "obmyć"
+  - "pić"
+  - "pieczętować"
+  - "pielgrzym"
+  - "poprowadzić"
+  - "przenajświętszy"
+  - "przy"
+  - "przychodzić"
+  - "przyjść"
+  - "przymierze"
+  - "siadać"
+  - "spożyć"
+  - "stół"
+  - "ubogi"
+  - "uznawać"
+  - "wędrować"
+  - "wędrujący"
+  - "wiara"
+  - "zbawić"
+  - "Zbawiciel"
+  - "ziemia"
+  - "zjednoczony"
+footnote: "Rytm marsza hiszpańskiego wymaga w przedtakcie dwóch sylab, np. iść ku, jak jest w hiszpańskim ha-cia czy włoskim ver-so. (przyp. red.)"
+===
+
+W:
+[a]Ku tobie, miasto [E]święte,
+ku [ES]tobie, ziemio Zbawi[a]ciela:
+jak piel[G]grzymi wędru[F]jący,
+przychodzimy do [E]Ciebie.
+K:
+Jesteśmy Twoim świętym [a]ludem,
+który dziś wędruje zjedno[G]czony.
+Przychodzisz między [F]nas,
+Twa miłość nas ///
+popro[E]wadzi.
+Ty jesteś naszą [a]drogą,
+Tyś jest nadzieją [G]naszą,
+Tyś jest ubogich [F]bratem.
+Amen! Allelu[E]ja!
+W:
+Ku [a]tobie, miasto [E]święte,
+ku [ES]tobie, ziemio Zbawi[a]ciela:
+jak piel[G]grzymi wędru[F]jący,
+przychodzimy do [E]Ciebie.
+
+K:
+Do Twego stołu przyj[a]dziemy,
+pieczętujemy Twe przy[G]mierze,
+spożyjemy Twoje [F]Ciało,
+Twa Krew obmyje [E]nas.
+Będziemy królować z [a]Tobą
+w Twoim świętym [G]mieście,
+pić będziemy Twoją [F]Krew,
+Twa wiara zbawi [E]nas.
+W:
+Ku [a]tobie, miasto [E]święte, …
+K:
+Siadamy przy Twym [a]stole,
+uznając Twe przy[G]mierze,
+by spożyć Twoje [F]ciało,
+Twa Krew obmyje [E]nas.
+Aby królować [a]z Tobą,
+w Twym przenajświętszym [G]mieście,
+Krew Twą najdroższą [F]pijąc.
+Twa wiara zbawi [E]nas.

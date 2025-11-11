@@ -1,0 +1,104 @@
+===
+title: "Amen, amen, amen"
+section: "precate"
+color: "precate"
+tone: "C"
+songid: "S074AmenAmenAmen"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ap"
+    where: "7, 12-14"
+  - what: "*BRE"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+knownas:
+  - "1967"
+  - "Błogosławieństwo chwałę i mądrość"
+index:
+  - "amen"
+  - "Bóg"
+  - "Baranek"
+  - "błogosławieństwo"
+  - "chwała"
+  - "cześć"
+  - "dziękczynienie"
+  - "krew"
+  - "mądrość"
+  - "moc"
+  - "oddać"
+  - "opłukać"
+  - "potęga"
+  - "przychodzić"
+  - "skąd"
+  - "szaty"
+  - "utrapienie"
+  - "wielki"
+  - "wszystek"
+  - "wybielić"
+footnote: "W przeciwieństwie do śpiewnika włoskiego, w hiszpańskim tutaj i dalej używany jest akord durowy, nie molowy (tutaj są oznaczone obydwa). Tak jest w oryginalnym nagraniu na singlu winylowym Hacia ti morada santa, C-3092 Discoteca Pax, Madrid 1972. Tamże użyto np. przejścia przez subdominantę przy słowach z wielkiego utrapienia a refren Amen jest cały na tonicznym. (przyp. red.)"
+===
+
+W:
+[C]Amen, amen, amen!‡‡
+A[a]men, amen, amen!
+A[GS]men, amen, a[C]men!
+
+W:
+[C]Błogosławieństwo,
+chwałę i [GS]mądrość,
+i dziękczynienie
+oddajmy [C]Bogu.
+[C]Amen, amen, amen!
+A[a]men, amen, amen!
+A[GS]men, amen, a[C]men!
+
+E/e
+K:
+Cześć i [F]moc, i wszystką potęgę‡‡‡ ,
+E/e
+cześć i [F]moc oddajmy Bogu‡‡‡ .
+
+W:
+[GS]Błogosła[C]wieństwo,
+chwałę i [G]mądrość,
+i dziękczynienie
+oddajmy [C]Bogu.
+[C]Amen, amen, amen!
+A[a]men, amen, amen!
+A[GS]men, amen, a[C]men!
+
+E/e
+K:
+Kim [F]są i skąd przychodzą‡‡‡ ?
+E/e
+W:
+Kim [F]są i skąd przychodzą‡‡‡ ?
+
+W:
+[GS]To ci, którzy przy[C]chodzą
+z wiel[G]kiego utra[C]pienia.
+[GS]To ci, którzy przy[C]chodzą
+z wiel[G]kiego utra[C]pienia.
+K:
+I opłu[F]kali swe szaty,‡‡‡‡
+C/e
+i je wybielili‡‡‡
+E/e
+we [F]krwi Baranka‡‡‡ ,
+E/e
+we [F]krwi Baranka‡‡‡ .
+W:
+[GS]To ci, którzy przy[C]chodzą
+z wiel[G]kiego utra[C]pienia.
+[GS]To ci, którzy przy[C]chodzą
+z wiel[G]kiego utra[C]pienia.
+
+W:
+[C]Amen, amen, amen!
+A[a]men, amen, amen!
+A[GS]men, amen, a[C]men!
+
+Początkowy fragment tej pieśni jest użyty w Doksologii końcowej (1) na str. . (przyp. red.)

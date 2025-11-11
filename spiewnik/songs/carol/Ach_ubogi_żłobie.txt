@@ -1,0 +1,107 @@
+===
+title: "Ach, ubogi żłobie"
+section: "carol"
+color: "carol"
+tone: "D"
+songid: "S717AchUbogiZlobie"
+author:
+  - "trt"
+  - "PSt"
+year: 1767
+address:
+  - what: "Łk"
+    where: "2, 16"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+index:
+  - "ach"
+  - "barłóg"
+  - "bydlę"
+  - "czoło"
+  - "czy"
+  - "drogi"
+  - "droższy"
+  - "gorzki"
+  - "grzech"
+  - "łzy"
+  - "śliczny"
+  - "świat"
+  - "leżeć"
+  - "żłób"
+  - "maleńki"
+  - "móc"
+  - "między"
+  - "największy"
+  - "niebo"
+  - "obmyć"
+  - "obrać"
+  - "opuścić"
+  - "osoba"
+  - "ozdoba"
+  - "pałac"
+  - "płaczący"
+  - "przybywać"
+  - "przyjąć"
+  - "serce"
+  - "siebie"
+  - "składać"
+  - "skruszony"
+  - "sprośność"
+  - "stajenka"
+  - "struchleć"
+  - "tak"
+  - "twarz"
+  - "ubogi"
+  - "uderzać"
+  - "upadać"
+  - "widok"
+  - "widzieć"
+  - "witać"
+  - "wszystek"
+  - "wylewać"
+  - "zalać"
+  - "Zbawiciel"
+  - "zdrętwieć"
+  - "zmiłować"
+  - "zmyć"
+  - "zmywać"
+footnote: "Kolęda polska. Najwcześniejszy zapis melodii zachowany jest w II części kantyczki Chybińskiego. Następny znamy od Mioduszewskiego w Pastorałkach i kolędach z 1843 r. W dzisiejszej praktyce przyjęła się melodia Piotra Studzińskiego w połowie XIX w. Podaje ją Siedlecki w Śpiewniczku z 1878 r. Tekst występuje w dwóch franciszkańskich rękopisach (z połowy i z końca XVIII w.), dwóch karmelitańskich (w kantyczce karmelitańskiej Chybińskiego oraz w rękopisie biblioteki klasztoru karmelitanek, sygn. 95) a także w rękopisie BJ 3639. W zbiorach drukowanych XVIII w. znajduje się w dziale „pieśni nowych” Kantyczek
+Szlichtyna z 1767 (i 1785) r. oraz Pieśni nabożnych z 1796 r. Wszystkie te przekazy jedynie pierwszą zwrotkę mają identyczną z wersją zapisaną przez Mioduszewskiego, która dziś jest śpiewana; pozostałe zwrotki, których w drukach jest 8, w rękopisach 8-11, są różne."
+===
+
+[D]Ach, ubogi żłobie,
+cóż ja widzę w [A]tobie?
+Droższy widok, niż ma [D]niebo,
+w [A]maleńkiej o[D]sobie.
+
+Zbawicielu drogi,
+takżeś to ubogi!
+Opuściłeś śliczne niebo,
+obrałeś barłogi.
+
+Czyżeś nie mógł sobie,
+w największej ozdobie
+obrać pałacu drogiego,
+nie w tym leżeć żłobie?
+
+Gdy na świat przybywasz,
+grzechy z niego zmywasz;
+A na zmycie tej sprosności
+gorzkie łzy wylewasz.
+
+Któż tu nie struchleje,
+wszystek nie zdrętwieje?
+Któż Cię widząc płaczącego
+łzą się nie zaleje?
+
+Na twarz upadamy,
+czołem uderzamy,
+witając Cię w tej stajence
+między bydlętami.
+
+Zmiłuj się nad nami,
+obmyj z grzechów łzami,
+przyjmij serca te skruszone,
+które Ci składamy.

@@ -1,0 +1,108 @@
+===
+title: "Hymn na Jutrznię, Adwent do 16 XII"
+subtitle: "Już dźwięczny głos się rozlega"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S015JuzDzwiecznyGlos"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "*HYM"
+    where: ""
+knownas:
+  - "Vox clara ecce intonat"
+  - "Jutrznia Adwentu"
+index:
+  - "amen"
+  - "Baranek"
+  - "błąd"
+  - "błagać"
+  - "Boży"
+  - "brzmieć"
+  - "choć"
+  - "Chrystus"
+  - "ciemności"
+  - "czas"
+  - "dźwięczny"
+  - "dotkliwy"
+  - "głos"
+  - "granica"
+  - "grzech"
+  - "gwiazda"
+  - "jaśnieć"
+  - "jeszcze"
+  - "karać"
+  - "łaska"
+  - "świat"
+  - "miłosierdzie"
+  - "minąć"
+  - "nadejść"
+  - "niebo"
+  - "nocny"
+  - "nowy"
+  - "obdarzyć"
+  - "opanować"
+  - "Pan"
+  - "pieśń"
+  - "pokorny"
+  - "powtórny"
+  - "promień"
+  - "przebaczyć"
+  - "przebudzić"
+  - "przedwieczny"
+  - "przeważyć"
+  - "przychodzić"
+  - "radosny"
+  - "rozlegać"
+  - "senny"
+  - "słabość"
+  - "teraz"
+  - "trójca"
+  - "trwoga"
+  - "uleczyć"
+  - "umysł"
+  - "wielbić"
+  - "wina"
+  - "wśród"
+  - "wszelki"
+  - "wszyscy"
+  - "zawarty"
+  - "złudzenie"
+  - "zranić"
+footnote: "Vox clara ecce intonat to pochodzący z VI wieku łaciński hymn na Jutrznię Adwentu. Śpiewa się jak , str. . Tekst polski był wzięty z Liturgii Godzin tom I, wydanie I (Pallottinum 1982), str. 128; tom I, wydanie II (Pallottinum 2006), str. 142. Patrz też , str. . (przyp. red.)"
+===
+
+W:
+[a]Już dźwięczny głos się roz[G]lega
+i brzmi wśród nocnych ciem[a]ności:
+niech miną senne złu[G]dzenia,
+bo Chrystus z nieba jaś[a]nieje.
+
+K:
+Niech się przebudzą u[G]mysły
+przez grzech dotkliwie zra[a]nione,
+bo nowej gwiazdy pro[G]mienie
+uleczą wszelkie sła[a]bości.
+
+W:
+Baranek Boży przy[G]chodzi,
+by łaską winy prze[a]ważyć,
+a my pokornie bła[G]gajmy
+o miłosierdzie nad [a]nami.
+
+K:
+Gdy Pan powtórnie na[G]dejdzie
+i trwoga świat opa[a]nuje,
+niech nas nie karze za [G]błędy,
+lecz przebaczeniem ob[a]darzy.
+
+W:
+Choć jeszcze w czasu gra[G]nicach
+jesteśmy wszyscy za[a]warci,
+już teraz pieśnią ra[G]dosną
+wielbimy Trójcę przed[a]wieczną.
+
+W:
+[G]Am[a]en

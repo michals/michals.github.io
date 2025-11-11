@@ -1,0 +1,141 @@
+===
+title: "Tak jako łania"
+section: "precate"
+color: "precate"
+tone: "E"
+songid: "S080TakJakoLania"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "42-43"
+  - what: "*OWP"
+    where: ""
+  - what: "*BRE"
+    where: ""
+  - what: "*PAS"
+    where: ""
+knownas:
+  - "1977"
+  - "Zaufaj Bogu, zaufaj Bogu"
+index:
+  - "Bóg"
+  - "cały"
+  - "chleb"
+  - "chodzić"
+  - "chwalić"
+  - "czemu"
+  - "dlaczego"
+  - "dręczyć"
+  - "dusza"
+  - "dzień"
+  - "gitara"
+  - "ile"
+  - "jako"
+  - "jęczeć"
+  - "jeszcze"
+  - "kości"
+  - "kroczyć"
+  - "łamać"
+  - "łania"
+  - "łzy"
+  - "ściskać"
+  - "śpiewać"
+  - "świąteczny"
+  - "świątynia"
+  - "światłość"
+  - "żywy"
+  - "źródlany"
+  - "móc"
+  - "mówić"
+  - "noc"
+  - "oblicze"
+  - "On"
+  - "opuścić"
+  - "orszak"
+  - "Pan"
+  - "pieśń"
+  - "pierwszy"
+  - "podczas"
+  - "pragnąć"
+  - "prawda"
+  - "radosny"
+  - "raz"
+  - "rozmyślać"
+  - "sam"
+  - "serce"
+  - "skała"
+  - "słyszeć"
+  - "smucić"
+  - "smutny"
+  - "spragniony"
+  - "stać"
+  - "trwożyć"
+  - "wśród"
+  - "woda"
+  - "wróg"
+  - "wtedy"
+  - "zaprowadzić"
+  - "zaufać"
+  - "zbawienie"
+  - "zesłać"
+  - "zobaczyć"
+footnote: "Tłumaczenie z hiszpańskiego (al-ma mí-a) przez włoski (a-ni-ma mi-a), który dodał jedną sylabę i nutę, zaskutkowało nieistniejącym w tekście wykrzyknikiem o przed du-szo mo-ja. (przyp. red.)"
+===
+
+K:
+[E]Tak jako łania pragnie wody źródlanej,
+∼
+tak samo
+dusza moja pragnie Ciebie [fis]Boże.
+Dusza moja jest spragniona Boga,
+Boga ży[HS]wego,
+kiedyż zobaczę oblicze [E]Boga?
+Łzy stały się moim chlebem we dnie i w nocy,
+∼
+podczas gdy moi wrogowie
+mówią mi dzień cały:
+„Gdzie jest twój [fis]Bóg?
+Gdzie jest twój Bóg?
+Gdzie jest twój Bóg?”
+O tym roz[HS]myślam i ściska mi się serce i dusza,
+jak kroczyłem wśród pierwszych               w świątecznym or[E]szaku.
+K:
+[Gis]Czemu się smucisz, (o) duszo moja?
+Czemu się trwożysz i jęczysz [cis]we mnie?
+W:
+Zaufaj [fis]Bogu,
+zaufaj [HS]Bogu,
+a jeszcze Go będziesz [E]chwalić.
+
+K:
+Bowiem [cis]On[Cis] jest zbawieniem mego ob[fis]licza:
+[HS]On jest mym [cis]Bogiem.
+[A]On jest mym [Gis]Bogiem.
+W:
+Zaufaj [A]Bogu, zaufaj [Gis]Bogu,
+HBA
+zaufaj [A]Bogu, zaufaj [H]Bogu,
+[A]a jeszcze Go będziesz [Gis]chwalić.
+K:
+[E]Ileż razy mówiłem do mojej Skały:                „Czemuś mnie opuścił?”
+∼
+Dlaczego
+chodzę smutny, dręczony przez mych [fis]wrogów?
+Kości we mnie się łamią, gdy słyszę dzień [HS]cały:
+„Gdzie jest twój Bóg? Gdzie jest twój [E]Bóg?”
+∼
+Panie,
+ześlij Twoją światłość i Twą [fis]prawdę,
+niech one mnie zaprowadzą do Twojej świą[HS]tyni,
+a wtedy będę mógł Ci śpiewać pieśń radosną,
+pieśń świąteczną na mojej gi[E]tarze.
+K:
+[Gis]Czemu się smucisz …
+W:
+Zaufaj [fis]Bogu, …
+K:
+Bowiem [cis]On[Cis] …
+W:
+Zaufaj [A]Bogu, …

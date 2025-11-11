@@ -1,0 +1,6 @@
+===
+title: Akordy z aliasem
+===
+
+r[D*|D7]adośnie śpi[G]ewam
+Test akordu z aliasem: r[F*|F7]adośnie

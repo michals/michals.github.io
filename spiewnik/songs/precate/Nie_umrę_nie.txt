@@ -1,0 +1,221 @@
+===
+title: "Nie umrę, nie"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S084NieUmreNie"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "118"
+  - what: "*PAS"
+    where: ""
+knownas:
+  - "Ukarał mnie"
+  - "Otoczyli mnie"
+  - "Wysławiajcie Pana, bo jest dobry"
+  - "Dziękujcie Panu, bo jest dobry"
+  - "Miłosierdzie Jego trwa na wieki"
+  - "Kamień odrzucony przez budujących"
+  - "1984"
+index:
+  - "Aaron"
+  - "bać"
+  - "Bóg"
+  - "błogosławić"
+  - "błogosławiony"
+  - "brama"
+  - "cud"
+  - "cudowny"
+  - "człowiek"
+  - "czoło"
+  - "dać"
+  - "dobry"
+  - "dom"
+  - "dzięki"
+  - "dzieło"
+  - "dzień"
+  - "gałązka"
+  - "iść"
+  - "imię"
+  - "Izrael"
+  - "kamień"
+  - "śmierć"
+  - "światło"
+  - "lękać"
+  - "lepiej"
+  - "żyć"
+  - "ludzie"
+  - "móc"
+  - "mówić"
+  - "miłosierdzie"
+  - "moc"
+  - "możny"
+  - "namiot"
+  - "ocalić"
+  - "odpowiedzieć"
+  - "ogłaszać"
+  - "oko"
+  - "okrzyki"
+  - "ołtarz"
+  - "On"
+  - "orszak"
+  - "osaczyć"
+  - "otoczyć"
+  - "otworzyć"
+  - "Pański"
+  - "Pan"
+  - "pieśń"
+  - "pokładać"
+  - "pokonać"
+  - "pomoc"
+  - "popychać"
+  - "pragnąć"
+  - "radość"
+  - "radować"
+  - "róg"
+  - "rzeczy"
+  - "składać"
+  - "sprawiedliwość"
+  - "sprawiedliwy"
+  - "stać"
+  - "stawić"
+  - "trwać"
+  - "uciec"
+  - "uczynić"
+  - "udręka"
+  - "ufność"
+  - "ukarać"
+  - "umrzeć"
+  - "ustawić"
+  - "węgielny"
+  - "wchodzić"
+  - "wejść"
+  - "weselić"
+  - "więc"
+  - "wiek"
+  - "wielbić"
+  - "wielki"
+  - "wołać"
+  - "wróg"
+  - "wspomożyciel"
+  - "wydać"
+  - "wysławiać"
+  - "wysłuchać"
+  - "zbawienie"
+  - "zielony"
+  - "złożyć"
+  - "zrobić"
+  - "zwycięstwo"
+footnote: "Oto jest dzień, który Pan uczyniłNie umręSą z innych wersetów „Zmartwychwstał Pan 2025” zmienił tonację na hiszpańską. (przyp. red.)"
+===
+
+{{{ 2x
+K:
+[a]Nie umrę, nie,
+W:
+lecz będę żył
+}}}
+K:
+i o[F]głaszał
+W:
+wielkie dzieła [ES]Pana!
+{{{ 2x
+K:
+Ukarał [a]mnie.
+W:
+Ukarał mnie.
+}}}
+K:
+Ale [F]mnie
+W:
+na śmierć nie [ES]wydał!
+∼
+K:
+Wysła[a]wiajcie Pana, bo jest dobry.
+W:
+Miło[F]sierdzie Jego trwa na [ES]wieki.
+∼
+K:
+Niech [a]mówi dom Izraela:
+W:
+Miło[F]sierdzie Jego trwa na [ES]wieki.
+∼
+K:
+Niech [a]mówi dom Aarona:
+W:
+Miło[F]sierdzie Jego trwa na [ES]wieki.
+∼
+K:
+Niech [a]mówi, kto się boi Pana:
+W:
+Miło[F]sierdzie Jego trwa na [ES]wieki.
+K:
+⌜W u[C]dręce wołałem do Pana.
+W:
+[F]Odpowiedział mi Pan i mnie o[ES]calił.
+
+K:
+[a]Pan jest ze mną, więc się nie lękam
+W:
+[F]Cóż mi może zrobić [ES]człowiek?
+K:
+[a]Pan jest ze mną, mój wspomożyciel
+W:
+[F]Stawię czoła moim [ES]wrogom.
+
+K:
+⌜[C]Lepiej się uciec do Pana,
+W:
+niż [F]ufność pokładać w czło[ES]wieku.
+K:
+⌜[C]Lepiej się uciec do Pana,
+W:
+niż [F]ufność pokładać [ES]w możnych.
+
+{{{ 2x
+K:
+[a]Otoczyli mnie.
+W:
+Otoczyli mnie,
+}}}
+K:
+lecz w imię [F]Pana
+W:
+ich poko[ES]nałem!
+{{{ 2x
+K:
+[a]Osaczyli mnie.
+W:
+Osaczyli mnie,
+}}}
+K:
+lecz w imię [F]Pana
+W:
+ich poko[ES]nałem!
+{{{ 2x
+K:
+[a]Popychali mnie.
+W:
+Popychali mnie,
+}}}
+K:
+ale [F]Pan
+W:
+stał się mą po[ES]mocą.
+
+K:
+⌜Mą [C]mocą i mą pieśnią jest Pan,
+W:
+On [F]stał się moim zba[ES]wieniem.
+K:
+⌞O[F]krzyki radości i zwy[ES]cięstwa
+W:
+w na[F]miotach ludzi sprawie[ES]dliwych.
+
+K:
+⌜Pra[C]wica Pańska jest podniesiona,
+W:
+uczy[F]niła dla nas cudowne [ES]rzeczy.

@@ -1,0 +1,65 @@
+===
+title: "Przyjdźcie do Mnie wy wszyscy"
+section: "precate"
+color: "precate"
+tone: "C"
+songid: "S099PrzyjdzcieDoMnieWyWszyscy"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Mt"
+    where: "11, 28-30"
+  - what: "*OWP"
+    where: ""
+  - what: "*BRE"
+    where: ""
+alttone:
+  - "Es"
+knownas:
+  - "Bo Moje jarzmo jest słodkie"
+  - "1986"
+index:
+  - "brzemię"
+  - "cichy"
+  - "dusza"
+  - "jarzmo"
+  - "lekki"
+  - "obciążyć"
+  - "ochłodzić"
+  - "pokorny"
+  - "przyjść"
+  - "serce"
+  - "siebie"
+  - "słodki"
+  - "uczyć"
+  - "ukojenie"
+  - "utrudzony"
+  - "wszyscy"
+  - "wziąć"
+  - "znaleźć"
+footnote: "Zaimek osobowy wy jest tutaj nadmiarowy i brzmi jak kalka z języka obcego. W Tysiąclatce go nie ma. Jednak w oryginale jest zwrot hiszpański vosotros todos i melodia wymaga dwóch słów. (przyp. red.)"
+===
+
+K:
+[C]Przyjdźcie do Mnie wy wszyscy,
+którzy jes[E]teście utrudzeni i obcią[a]żeni,
+[F]a Ja was o[E]chłodzę,
+a [F]Ja was o[E]chłodzę.
+
+[C]Weźcie moje jarzmo na siebie,
+i uczcie się o[E]de Mnie,
+że jestem cichy i pokorny [a]sercem,
+[F]a znajdziecie ukojenie dla [E]siebie,
+[F]a znajdziecie ukojenie dla waszych [E]dusz.
+W:
+[C]Bo moje jarzmo jest [E]słodkie,
+bo moje jarzmo jest [F]słodkie,
+a moje brzemię [E]lekkie.
+Bo moje jarzmo jest [F]słodkie,
+a moje brzemię [E]lekkie.
+
+K:
+[C]Przyjdźcie do Mnie wy wszyscy, …
+W:
+[C]Bo moje jarzmo jest [E]słodkie. …

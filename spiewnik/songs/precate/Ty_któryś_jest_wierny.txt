@@ -1,0 +1,117 @@
+===
+title: "Ty, któryś jest wierny"
+section: "precate"
+color: "precate"
+tone: "g"
+songid: "S138OPanieWysluchaMojejModlitwy"
+author:
+  - "K"
+year: 2000
+address:
+  - what: "Ps"
+    where: "143"
+  - what: "*OWP"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+knownas:
+  - "Nastaw ucha na moje błaganie"
+  - "O Panie, wysłuchaj mojej modlitwy"
+  - "2001"
+index:
+  - "Bóg"
+  - "błaganie"
+  - "dać"
+  - "dobry"
+  - "droga"
+  - "duch"
+  - "Duch"
+  - "życie"
+  - "żyjący"
+  - "modlitwa"
+  - "nastawić"
+  - "nauczyć"
+  - "nieprzyjaciel"
+  - "nikt"
+  - "odpowiedzieć"
+  - "omdlewać"
+  - "Pan"
+  - "pełnić"
+  - "poznać"
+  - "prędki"
+  - "prowadzić"
+  - "przebyć"
+  - "prześladować"
+  - "równa"
+  - "ręka"
+  - "sąd"
+  - "sługa"
+  - "sprawiedliwość"
+  - "sprawiedliwy"
+  - "ucho"
+  - "uciekać"
+  - "wdeptywać"
+  - "wierny"
+  - "wola"
+  - "wróg"
+  - "wybawić"
+  - "wyciągać"
+  - "wyschły"
+  - "wysłuchać"
+  - "wzywać"
+  - "ziemia"
+footnote: "O Panie, wysłuchaj mojej modlitwySignore, ascolta la mia preghiera (przyp. red.)"
+===
+
+K:
+[C]O Panie,
+∼
+[D]wysłuchaj [c]mojej modlitwy:
+[D]Nastaw ucha
+[c]na moje błaganie[D]
+W:
+[g]Ty, któryś jest [c]wierny,
+[g]Ty, któryś jest [c]wierny,
+od[DS]powiedz mi,
+[c]W swej sprawiedliwości
+od[DS]powiedz mi.
+
+K:
+[g]Nie wzywaj na sąd Twego [DS]sługi,
+
+Bo nikt żyjący                  nie jest sprawiedliwy przed [g]Tobą.
+Nieprzyjaciel mnie prześla[DS]duje,
+[c]Wdeptuje w ziemię moje [DS]życie.
+W:
+[g]Ty, któryś jest [c]wierny …
+
+K:
+[g]Do Ciebie wyciągam moje [DS]ręce,
+Jestem przed Tobą jak wyschła [g]ziemia
+Odpowiedz mi prędko, [DS]Panie,
+[c]Bo omdlewa mój [DS]duch.
+
+W:
+[g]Ty, któryś jest [c]wierny …
+
+K:
+[g]Daj mi poznać [DS]drogę
+Drogę, którą mam [g]przebyć
+Wybaw mnie od moich [DS]wrogów,
+[c]Do Ciebie, Panie, się u[DS]ciekam.
+W:
+[g]Ty, któryś jest [c]wierny …
+
+K:
+[g]Naucz mnie pełnić Twoją [DS]wolę,
+Bo Ty jesteś moim [g]Bogiem.
+
+Niech mnie              Twój dobry Duch pro[DS]wadzi,
+∼
+[c]niech Twój Duch prowadzimnie po równej [DS]ziemi.
+W:
+[g]Ty, któryś jest [c]wierny,
+[g]Ty, któryś jest [c]wierny,
+od[DS]powiedz mi,
+[c]W swej sprawiedliwości
+odpowie[D]dz mi.

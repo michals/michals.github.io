@@ -1,0 +1,114 @@
+===
+title: "Nie ma w Nim żadnego wdzięku"
+subtitle: "IV pieśń Sługi Jahwe"
+section: "precate"
+color: "communion"
+tone: "C"
+songid: "S273NieMaWNimZadnegoWdzieku"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Iz"
+    where: "53, 2-7"
+  - what: "*LAM"
+    where: ""
+knownas:
+  - "1967"
+  - "Zakrywa się przed Nim twarz"
+  - "Przed Nim zakrywa się swą twarz"
+  - "Pieśń Sługi Jahwe IV"
+index:
+  - "ból"
+  - "baranek"
+  - "błędny"
+  - "blask"
+  - "boleść"
+  - "cierpieć"
+  - "dać"
+  - "droga"
+  - "gnębić"
+  - "grzech"
+  - "każdy"
+  - "ku"
+  - "żaden"
+  - "ludzie"
+  - "mąż"
+  - "nic"
+  - "obrócić"
+  - "odepchnąć"
+  - "On"
+  - "oswoić"
+  - "otworzyć"
+  - "poczytać"
+  - "podobać"
+  - "popatrzeć"
+  - "sam"
+  - "siebie"
+  - "twarz"
+  - "udręczyć"
+  - "usta"
+  - "wdzięk"
+  - "wieść"
+  - "wszystek"
+  - "wygląd"
+  - "wzgardzić"
+  - "wziąć"
+  - "zabić"
+  - "zakrywać"
+footnote: "„Risuscitò 2023” zdecydował, że ten fragment będzie teraz śpiewał Kantor. „Resucitó 2023” zdecydowało, że ten fragment teraz będą śpiewać Wszyscy. (przyp. red.)"
+===
+
+K:
+[C]Nie ma w Nim żadnego wdzięku,
+nie ma w Nim żadnego [a]blasku,
+aby na Niego po[GS]patrzeć,
+ani wyglądu, by się nam po[C]dobał.
+Wzgardzony,
+przez ludzi ode[a]pchnięty,
+mąż bo[C]leści
+z cierpieniem oswo[a]jony.
+
+W:
+Przed Nim zakrywa się swą [C]twarz.
+Przed Nim zakrywa się swą [a]twarz.
+Przed Nim zakrywa się swą [GS]twarz.
+Przed Nim zakrywa się swą [C]twarz.
+
+K:
+Udręczony,
+poczytany [a]za nic,
+wzgar[C]dzony,
+przez ludzi ode[a]pchnięty,
+mąż bo[C]leści
+z cierpieniem oswo[a]jony.
+
+W:
+Przed Nim zakrywa się swą [C]twarz.
+Przed Nim zakrywa się swą [a]twarz.
+Przed Nim zakrywa się swą [GS]twarz.
+Przed Nim zakrywa się swą [C]twarz.
+
+K:
+Lecz On [C]wziął
+na siebie wszystkie nasze [a]grzechy,
+lecz On [C]wziął
+na siebie wszystkie nasze [a]bóle.
+
+W:
+Każdy [F]z nas
+obrócił się ku błędnej [G]drodze.
+Udrę[C]czony,
+lecz sam dał się [a]gnębić,
+ust nie o[C]tworzył,
+jak baranek wiedziony na za[a]bicie.
+
+W:
+Przed Nim zakrywa się swą [C]twarz.
+Przed Nim zakrywa się swą [a]twarz.
+Przed Nim zakrywa się swą [GS]twarz.
+Przed Nim zakrywa się swą [C]twarz.
+K:
+Udrę[C]czony!
+Udrę[C]czony!
+Udrę[C]czony!

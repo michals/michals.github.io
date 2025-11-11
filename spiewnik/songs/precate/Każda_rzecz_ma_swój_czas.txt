@@ -1,0 +1,133 @@
+===
+title: "Każda rzecz ma swój czas"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S092KazdaRzeczMaSwojCzas"
+author:
+  - "PM"
+year: 1992
+address:
+  - what: "Koh"
+    where: "3, 1-15"
+knownas:
+  - "Jest czas narodzin i czas umierania"
+index:
+  - "Bóg"
+  - "budować"
+  - "burzyć"
+  - "cały"
+  - "czas"
+  - "człowieczy"
+  - "człowiek"
+  - "czucie"
+  - "dar"
+  - "dodać"
+  - "dzień"
+  - "dzisiaj"
+  - "głębina"
+  - "godzina"
+  - "gubić"
+  - "inny"
+  - "jaki"
+  - "jutro"
+  - "każdy"
+  - "kamień"
+  - "życie"
+  - "lub"
+  - "mówić"
+  - "miłować"
+  - "milczeć"
+  - "można"
+  - "mozolić"
+  - "narodziny"
+  - "nic"
+  - "niebo"
+  - "nienawiść"
+  - "odmawiać"
+  - "Ojciec"
+  - "owoce"
+  - "pewno"
+  - "pić"
+  - "piękny"
+  - "plan"
+  - "pocałunek"
+  - "początek"
+  - "pojednanie"
+  - "pozostawać"
+  - "pracować"
+  - "przychodzić"
+  - "radować"
+  - "rozdzierać"
+  - "rzecz"
+  - "rzeczy"
+  - "rzucać"
+  - "sadzić"
+  - "serce"
+  - "sprawa"
+  - "staczać"
+  - "syn"
+  - "szukać"
+  - "trud"
+  - "uczynić"
+  - "ująć"
+  - "umierać"
+  - "ustanowić"
+  - "uzdrawiać"
+  - "widzieć"
+  - "wieczność"
+  - "wiedzieć"
+  - "wlać"
+  - "wojna"
+  - "wyrzucić"
+  - "zabijać"
+  - "zbierać"
+  - "zeszywać"
+  - "znój"
+  - "zysk"
+===
+
+K:
+[a]Każda rzecz ma swój [e]czas,
+[F]każda sprawa pod [C]niebem ma swą go[ES]dzinę.
+
+K:
+[a]Jest czas narodzin [e]i czas umierania,
+[F]czas sadzenia [C]i czas zbierania,
+[a]czas zabijania [e]i czas uzdrawiania,
+[F]czas burzenia [C]i czas budowania.
+
+W:
+[d]Czas rzucania kamieni [a]i czas ich zbierania,
+[d]czas pocałunków [ES]lub ich odmawiania.
+
+K:
+[a]Czas gubienia rzeczy [e]i czas ich szukania,
+[F]zbierania dzisiaj, [C]by wyrzucić jutro;
+[a]czas rozdzierania [e]i czas zeszywania,
+[F]czas mówienia [C]i czas milczenia.
+
+W:
+[d]Czas miłowania [a]i czas nienawiści,
+[d]czas staczania wojen [ES]i czas pojednania.
+
+K:
+[a]Co ma za zysk ten, [e]który pracuje,
+[F]z całego trudu, [C]jakim się mozoli?
+[a]Jest na pewno piękne, [e]przychodzi w swoim czasie
+[F]to, co Bóg uczynił [C]dla synów człowieczych.
+
+W:
+[d]Czucie wieczności [a]wlał w serce człowieka,
+[d]lecz ten nie widzi [ES]głębin Jego planów.
+
+K:
+[a]Wiem, że dla człowieka [e]nic nie pozostaje,
+[F]jak się radować [C]owocami znoju;
+[a]to, co je i pije [e]za dni swego życia,
+[F]nie jest niczym innym [C]jak darem jego Boga.
+
+W:
+[d]Nic nie można dodać, [a]nic nie można ująć,
+[d]od tego, co Ojciec [ES]już ustanowił
+na początku [a]czasów.

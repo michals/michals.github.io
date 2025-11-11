@@ -1,0 +1,99 @@
+===
+title: "O Panie, nie karć mnie w swoim gniewie"
+section: "precate"
+color: "precate"
+tone: "h"
+songid: "S127oPanieNieKarcMnieWswoimGniewie"
+author:
+  - "K"
+year: 1994
+address:
+  - what: "Ps"
+    where: "6"
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "Zmiłuj się nade mną Panie"
+  - "1993"
+index:
+  - "cały"
+  - "chwała"
+  - "długi"
+  - "drżeć"
+  - "dusza"
+  - "gniew"
+  - "jęk"
+  - "jeszcze"
+  - "każdy"
+  - "karać"
+  - "karcić"
+  - "kości"
+  - "łoże"
+  - "łzy"
+  - "śpiewać"
+  - "lament"
+  - "miłosierdzie"
+  - "modlitwa"
+  - "niknąć"
+  - "nikt"
+  - "noc"
+  - "odstąpić"
+  - "oko"
+  - "Pan"
+  - "pośród"
+  - "powrócić"
+  - "przyjmować"
+  - "słyszeć"
+  - "smutek"
+  - "starzeć"
+  - "strwożyć"
+  - "szeol"
+  - "uleczyć"
+  - "umarły"
+  - "uwolnić"
+  - "wiele"
+  - "wróg"
+  - "wspomnieć"
+  - "wybawić"
+  - "wycieńczyć"
+  - "wypłakiwać"
+  - "zapalczywość"
+  - "złoczyńca"
+  - "zmiłować"
+  - "zraszać"
+footnote: "Pomimo korekt w „Resucitó 2023” scenariusz od tego miejsca jest nadal inny. (przyp. red.)"
+===
+
+KW:
+[FisNfQ]O Panie, nie karć [G]mnie w swoim [Fis]gniewie
+i [G]nie karz w swej zapalczy[Fis]wości.
+
+K:
+[h]Zmiłuj się, zmiłuj się nade mną, [A]Panie, bo [Fis]niknę;
+[h]ulecz mnie Ty, o [A]Panie, bo drżą moje [Fis]kości.
+Strwo[G]żona cała jest dusza [Fis]moja,
+KW:
+a [A]Ty, o Panie, jak długo [Fis]jeszcze?
+
+K:
+[G]Powróć, o Panie, uwolnij moją [Fis]duszę.
+[G]Wybaw mnie Ty, o Panie, przez Twoje miło[Fis]sierdzie.
+KW:
+Bo [A]nikt z umarłych Cię nie wspo[Fis]mni.
+KW:
+Ani w sze[A]olu nie śpiewa Twojej [Fis]chwały.
+W:
+[FisNfQ]O Panie, nie karć [G]mnie w swoim [Fis]gniewie
+i [G]nie karz w swej zapalczy[Fis]wości.
+
+K:
+[h]Wycieńczyły mnie moje jęki,
+[A]każdej nocy zraszam łzami moje [h]łoże;
+moje [G]oczy wypłakuję [Fis]w smutku,
+sta[e]rzeję się pośród wielu [Fis]wrogów.
+Od[A]stąpcie ode mnie zło[Fis]czyńcy,
+bo [A]Pan słyszy mój [Fis]lament,
+bo [A]Pan przyjmuje moją mo[Fis]dlitwę.
+W:
+[FisNfQ]O Panie, nie karć [G]mnie w swoim [Fis]gniewie
+i [G]nie karz w swej zapalczy[Fis]wości.

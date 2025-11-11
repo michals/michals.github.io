@@ -1,0 +1,126 @@
+===
+title: "Nikt nie może służyć dwom panom"
+section: "cate"
+color: "cate"
+tone: "e"
+songid: "S216NiktNieMozeSluzycDwomPanom"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Mt"
+    where: "6, 24-33"
+knownas:
+  - "Popatrzcie na ptaki w powietrzu"
+  - "Przypatrzcie się liliom na polu"
+  - "Szukajcie Królestwa Bożego"
+index:
+  - "Bóg"
+  - "Boży"
+  - "choćby"
+  - "chwila"
+  - "ciało"
+  - "czemu"
+  - "dać"
+  - "dlatego"
+  - "drugi"
+  - "dwa"
+  - "jeden"
+  - "jednak"
+  - "jedzenie"
+  - "jeść"
+  - "kochać"
+  - "królestwo"
+  - "lilia"
+  - "żniwować"
+  - "życie"
+  - "żywić"
+  - "móc"
+  - "mówić"
+  - "martwić"
+  - "najpierw"
+  - "niebieski"
+  - "nikt"
+  - "Ojciec"
+  - "pan"
+  - "pić"
+  - "pieniądz"
+  - "pole"
+  - "popatrzeć"
+  - "powietrze"
+  - "prząść"
+  - "przedłużyć"
+  - "przypatrzyć"
+  - "ptaki"
+  - "Salomon"
+  - "siać"
+  - "służyć"
+  - "starać"
+  - "szukać"
+  - "tkać"
+  - "ubierać"
+  - "ubrać"
+  - "ubranie"
+  - "więcej"
+  - "wiedzieć"
+  - "wszystko"
+  - "wzgardzić"
+  - "znaczyć"
+footnote: "Zmiana tonacji za „Zmartwychwstał Pan 2025”. (przyp. red.)"
+===
+
+∼
+K:
+[e]Nikt nie może,
+[D]nie może służyć [C]dwom panom,
+[D]bo kochając [C]jednego, wzgardzi [e]drugim.
+[a]Nie możecie służyć [DS]Bogu [C]i pienią[H]dzowi!
+K:
+Dlatego wam [e]mówię:
+[D]Nie martwcie się [C]o swoje życie,
+[D]co będziecie jedli, [C]co będziecie pili,
+w co się ubie[e]rzecie;
+cz[a]y [C]życie nie znaczy więcej niż j[H]edzenie?
+A [a]może [C]wasze ciało nie znaczy więcej niż u[H]branie?
+KW:
+Po[G]patrzcie na [h]ptaki niebieskie:
+[HS]nie sieją i nie żni[CS]wuj[C]ą,
+a jednak wasz Ojciec je [H]żywi!
+K:
+[e]A któż z was, [D]choćby nie wiem [C]jak się starał,
+[D]może przedłużyć [C]o chwilę swoje [e]życie?
+A o u[a]branie [C]czemu się mar[H]twicie?
+KW:
+Przy[G]patrzcie się [h]liliom na polu:
+[HS]nie przędą i nie [CS]tkaj[C]ą,
+Salomon nie ubierał [H]się jak one!
+
+K:
+[G]Szukajcie [h]najpierw Królestwa Bo[HS]żego,
+a wszystko będzie wam [CS]dane.
+[C]Nie możecie służyć Bogu i pienią[H]dzowi!
+W:
+Szu[G]kajcie Kró[h]lestwa Bożego,
+[HS]a wszystko będzie wam [CS]dan[C]e.
+Nie możecie służyć dwom [H]panom!
+∼
+K:
+[e]Nikt nie może,
+[D]nie może służyć [C]dwom panom,
+[D]bo kochając [C]jednego, wzgardzi [e]drugim.
+[a]Nie możecie służyć [DS]Bogu [C]i pienią[H]dzowi!
+
+W:
+Po[G]patrzcie na [h]ptaki niebieskie:
+[HS]nie sieją i nie żni[CS]wuj[C]ą,
+a jednak wasz Ojciec je [H]żywi!
+
+W:
+Przy[G]patrzcie się [h]liliom na polu:
+[HS]nie przędą i nie [CS]tkaj[C]ą,
+Salomon nie ubierał [H]się jak one!
+
+W:
+Szu[G]kajcie Kró[h]lestwa Bożego,
+[HS]a wszystko będzie wam [CS]dan[C]e.
+Nie możecie służyć dwom [H]panom!

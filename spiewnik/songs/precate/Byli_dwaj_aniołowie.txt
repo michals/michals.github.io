@@ -1,0 +1,56 @@
+===
+title: "Byli dwaj aniołowie"
+subtitle: "Melodia hebrajska"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S097ByliDwajAniolowie"
+author:
+  - "GG"
+  - "trm"
+year: 1992
+address:
+  - what: "*HEB"
+    where: ""
+  - what: "*DZI"
+    where: ""
+  - what: "*PAX"
+    where: ""
+knownas:
+  - "Gdzie jest miejsce Jego chwały"
+  - "Oto w błogosławieństwie"
+  - "1980"
+children: true
+index:
+  - "anioł"
+  - "błogosławieństwo"
+  - "chwała"
+  - "drugi"
+  - "dwa"
+  - "jeden"
+  - "miejsce"
+  - "pytać"
+footnote: "W tych miejscach zmieniono harmonię w „Zmartwychwstał Pan 2025” za zmianami w „Risuscitò”. (przyp. red.)"
+===
+
+K:
+[a]Byli [d]dwaj anio[a]łowie,
+jeden [d]pyta dru[a]giego:
+„Gdzi[d]e, gdzi[a]e
+jest [E]miejsce Jego [a]chwały”?
+W:
+„Gdzi[d]e, gdzi[a]e
+jest [E]miejsce Jego [a]chwały”?
+K:
+[a]Oto w błogosła[d]wieństwie,
+oto w błogosła[a]wieństwie,
+oto w błogosła[E]wieństwie,
+jest miejsce Jego [a]chwały.
+W:
+[a]Oto w błogosła[d]wieństwie,
+oto w błogosła[a]wieństwie,
+oto w błogosła[E]wieństwie,
+jest miejsce Jego [a]chwały.
+
+K:
+[b]Byli [es]dwaj anio[b]łowie …

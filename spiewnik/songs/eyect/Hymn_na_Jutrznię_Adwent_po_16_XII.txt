@@ -1,0 +1,120 @@
+===
+title: "Hymn na Jutrznię, Adwent po 16 XII"
+subtitle: "Głosy proroków"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S015GlosyProrokow"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "*HYM"
+    where: ""
+knownas:
+  - "Magnis prophétae vócibus"
+  - "Jutrznia Adwentu"
+index:
+  - "amen"
+  - "błogosławiona"
+  - "chcieć"
+  - "Chrystus"
+  - "chwała"
+  - "chwalić"
+  - "ciało"
+  - "czas"
+  - "dać"
+  - "droga"
+  - "duch"
+  - "Duch"
+  - "Dziewica"
+  - "głos"
+  - "jaki"
+  - "jako"
+  - "Jezus"
+  - "koniec"
+  - "Król"
+  - "królestwo"
+  - "łaska"
+  - "światło"
+  - "święty"
+  - "życie"
+  - "ludzie"
+  - "Maryja"
+  - "nadchodzić"
+  - "nowy"
+  - "obiecać"
+  - "ogłaszać"
+  - "Ojciec"
+  - "ojczyzna"
+  - "Pan"
+  - "pierwszy"
+  - "podarunek"
+  - "pokój"
+  - "poranek"
+  - "powrócić"
+  - "poznawać"
+  - "prorok"
+  - "przybyć"
+  - "przyjść"
+  - "przynosić"
+  - "rana"
+  - "rozbłyskać"
+  - "rozbrzmiewać"
+  - "sędzia"
+  - "słońce"
+  - "sługa"
+  - "szukać"
+  - "wiek"
+  - "wierny"
+  - "wola"
+  - "wszystek"
+  - "zagoić"
+  - "zbawić"
+  - "zrodzić"
+footnote: "Magnis prophétæ vócibus to łaciński hymn na Jutrznię Adwentu. Śpiewa się jak , str. . Tekst wydaje się być przekładem z włoskiego brewiarza. (przyp. red.)"
+===
+
+W:
+[a]Głosy pro[G]roków
+ogłaszają [a]Pana,
+który przynosi wszystkim [G]ludziom
+podarunek po[a]koju.
+
+K:
+Oto nowe [G]światło
+rozbłyska o po[a]ranku,
+jakiś głos roz[G]brzmiewa:
+nadchodzi Król [a]chwały!
+
+W:
+Swoim pierwszym [G]przyjściem
+Chrystus przybył nas [a]zbawić,
+by zagoić [G]rany
+ciała i [a]ducha.
+
+K:
+Na końcu [G]czasów
+powróci jako [a]Sędzia;
+da obiecane Kró[G]lestwo
+swoim wiernym [a]sługom.
+
+W:
+Oto na naszej [G]drodze
+światło Jego roz[a]błyska:
+Jezus słońce [G]łaski
+wola do nowego [a]życia.
+
+K:
+Ciebie, Chryste szu[G]kamy;
+Ciebie chcemy po[a]znawać,
+by chwalić Cię na [G]wieki
+w błogosławionej oj[a]czyźnie.
+
+W:
+Tobie chwała, [G]Panie,
+zrodzony z Maryi Dzie[a]wicy,
+Ojcu i Duchowi Świę[G]temu
+przez wszystkie wieki [a]wieków.
+
+[G]Am[a]en.

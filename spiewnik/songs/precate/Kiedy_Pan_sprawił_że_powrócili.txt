@@ -1,0 +1,114 @@
+===
+title: "Kiedy Pan sprawił, że powrócili"
+section: "precate"
+color: "precate"
+tone: "D"
+songid: "S049KiedyPanSprawil"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "126"
+  - what: "*OWP"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+knownas:
+  - "1971"
+  - "Bo gdy się wyrusza"
+index:
+  - "cudowny"
+  - "dlatego"
+  - "dokonać"
+  - "iść"
+  - "język"
+  - "śmiech"
+  - "śpiew"
+  - "żniwować"
+  - "nasiono"
+  - "Pan"
+  - "pełny"
+  - "pieśń"
+  - "płacz"
+  - "pogrążyć"
+  - "powrócić"
+  - "przynosić"
+  - "radość"
+  - "rzeczy"
+  - "rzucać"
+  - "sen"
+  - "siać"
+  - "smutek"
+  - "snop"
+  - "sprawić"
+  - "Syjon"
+  - "trwać"
+  - "uniesienie"
+  - "usta"
+  - "wielki"
+  - "wracać"
+  - "wydawać"
+  - "wygnaniec"
+  - "wykrzykiwać"
+  - "wyruszać"
+===
+
+K:
+[D]Kiedy Pan sprawił,
+że powró[e]cili
+wyg[D]nańcy
+Sy[e]jonu,
+wydawało nam się to [D]snem.
+Nasze [e]usta
+były pełne [D]śmiechu,
+a [e]język
+(D7)
+- pełen [D]pieśni.
+
+W:
+Bo gdy się wy[G]rusza,
+idzie się [A]z płaczem[D],
+rzu[e]cając
+(D7)
+na[D]siona.
+A gdy się [G]wraca,
+wraca się ze [A]śpiewe[D]m,
+przy[e]nosząc
+pełne [D]snopy.
+
+K:
+[D]Rzeczy wielkich
+rzeczy cu[e]downych
+dokonał dla nas [D]Pan;
+dla[e]tego
+(D7)
+trwamy w unie[D]sieniu.
+
+W:
+Bo gdy się wy[G]rusza,
+idzie się [A]z płaczem[D],
+rzu[e]cając
+na[D]siona.
+A gdy się [G]wraca,
+wraca się ze [A]śpiewe[D]m,
+przy[e]nosząc
+pełne [D]snopy.
+
+K:
+[D]Ci, którzy sieją
+pogrą[e]żeni
+są [D]w smutku,
+ale gdy żni[e]wują,
+(D7)
+wykrzykują z ra[D]dości.
+
+W:
+Bo gdy się wy[G]rusza,
+idzie się [A]z płaczem[D],
+rzu[e]cając
+na[D]siona.
+A gdy się [G]wraca,
+wraca się ze [A]śpiewe[D]m,
+przy[e]nosząc
+pełne [D]snopy.

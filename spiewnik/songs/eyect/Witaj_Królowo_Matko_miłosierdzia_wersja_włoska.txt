@@ -1,0 +1,70 @@
+===
+title: "Witaj Królowo, Matko miłosierdzia (wersja włoska)"
+section: "eyect"
+color: "eyect"
+tone: "e"
+songid: "S931LaSalve"
+author:
+  - "K"
+year: 2022
+index:
+  - "błogosławiony"
+  - "Boży"
+  - "Chrystus"
+  - "Ewa"
+  - "godny"
+  - "jęczeć"
+  - "Jezus"
+  - "Królowa"
+  - "łono"
+  - "łzy"
+  - "święta"
+  - "litościwy"
+  - "życie"
+  - "Maryja"
+  - "matka"
+  - "miłosierdzie"
+  - "miłosierny"
+  - "modlić"
+  - "nadzieja"
+  - "najłaskawszy"
+  - "obietnica"
+  - "okazać"
+  - "oko"
+  - "Orędowniczka"
+  - "osiągnąć"
+  - "owoc"
+  - "padół"
+  - "Panna"
+  - "płakać"
+  - "przeto"
+  - "Rodzicielka"
+  - "słodki"
+  - "słodycz"
+  - "stać"
+  - "syn"
+  - "witać"
+  - "wołać"
+  - "wygnanie"
+  - "wygnaniec"
+  - "wzdychać"
+  - "zwrócić"
+footnote: "Antyfona łacińska Salve Regina ku czci Najświętszej Maryi Panny, śpiewana w Kościele od dnia Najświętszej Trójcy aż do Adwentu. Antyfona ta kończy również modlitwę różańcową i jest często używana w czasie pogrzebów. Autorstwo łacińskiego oryginału przypisywane jest św. Hermanowi z Reichenau (1013-1054). Pieśń wreszcie zaistniała w śpiewniku włoskim „Risuscitò 2020”. W hiszpańskim „Resucitó” obecna od bardzo dawna. Witaj KrólowoSalve ReginaLa Salve (przyp. red.)"
+===
+
+K:
+[e]Witaj Królowo, [a]Matko Miło[e]sierdzia,
+[F]życie, słodyczy i nadziejo [E]nasza,
+[e]witaj.
+Do Ciebie wo[a]łamy wygnańcy, synowie [e]Ewy,
+do Ciebie wzdy[a]chamy jęcząc i [e]płacząc
+n[F]a tym łez pa[E]dole, n[F]a tym łez pa[E]dole.
+[a]Przeto, O[F]rędowniczko [E]nasza,
+[F]zwróć na nas twoje miłosierne [E]oczy,
+[F]a po tym wygnaniu okaż nam, Je[E]zusa,
+błogosławiony owoc Twojego łona,
+O [e]najłaskawsza, o lito[a]ściwa,
+o słodka Panno Ma[e]ryjo!
+[F]Módl się za nami święta Boża Rodzi[E]cielko,
+abyśmy się stali godni osiągnąć obiet[F]nice,
+Jezusa Chrys[E]tusa, Jezusa Chrystusa.

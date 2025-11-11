@@ -1,0 +1,10 @@
+title: Playground Examples
+songs:
+  - playground/wszystkie-akordy.txt
+  - playground/notacja-pl.txt
+  - playground/notacja-int.txt
+  - playground/podstawowy-tekst.txt
+  - playground/z-rolami.txt
+  - playground/akordy-z-aliasem.txt
+  - playground/kompleksowy-przyklad.txt
+  - playground/transpozycja-test.txt

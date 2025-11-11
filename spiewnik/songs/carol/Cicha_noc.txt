@@ -1,0 +1,127 @@
+===
+title: "Cicha noc"
+section: "carol"
+color: "carol"
+tone: "G"
+songid: "S703CichaNoc"
+author:
+  - "JM"
+  - "FXG"
+year: 1818
+address:
+  - what: "Łk"
+    where: "2, 16"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+index:
+  - "anielski"
+  - "Betlejem"
+  - "biegnąć"
+  - "błogosławić"
+  - "Boży"
+  - "cały"
+  - "cichy"
+  - "cud"
+  - "czuwać"
+  - "Dzieciątko"
+  - "Dziecina"
+  - "dziś"
+  - "dzisiaj"
+  - "góra"
+  - "głos"
+  - "jaki"
+  - "świat"
+  - "święta"
+  - "żłóbek"
+  - "lud"
+  - "ludzie"
+  - "majestat"
+  - "matka"
+  - "narodzić"
+  - "nieść"
+  - "noc"
+  - "odkupienie"
+  - "Pan"
+  - "pastuszek"
+  - "pienie"
+  - "pokój"
+  - "rączęta"
+  - "sam"
+  - "sen"
+  - "spełnić"
+  - "Syn"
+  - "trzoda"
+  - "uśmiechnięty"
+  - "wielce"
+  - "wielki"
+  - "wina"
+  - "wszego"
+  - "wznosić"
+  - "zadziwić"
+footnote: "W Wigilię Bożego Narodzenia 1818 roku Joseph Mohr, wikary w kościele św. Mikołaja we wsi Oberndorf, pokazał Franzowi Gruberowi, organiście, wiersz napisany w 1816 roku aby ten ułożył prostą melodię, gdyż organy kościelne (a właściwie pozytyw) zepsuły się nagle. Gruber ułożył melodię na dwa głosy solo i sam akompaniował na gitarze. Gruber i Mohr śpiewali Stille Nacht po raz pierwszy w Boże Narodzenie w czasie pasterki. Słowa polskie: Piotr Maszyński, 1930."
+===
+
+C[G]icha noc, święta noc‡‡‡
+p[a]okój n[DS]iesie l[G]udziom wsz[GS]em,
+[C]a u żł[D]óbka M[G]atka Św[e]ięta,
+cz[a]uwa s[DS]ama [G]uśmiechn[e]ięta,
+n[a]ad Dziec[DS]iątka sn[G]em[e],
+n[G]ad Dziec[DS]iątka sn[G]em.
+
+Cicha noc, święta noc,
+pastuszkowie od swych trzód,
+biegną wielce zadziwieni
+za anielskim głosem pieni,
+gdzie się spełnił cud,
+gdzie się spełnił cud.
+
+Cicha noc, święta noc,
+narodzony Boży Syn.
+Pan Wielkiego Majestatu
+niesie dziś całemu światu,
+odkupienie win,
+odkupienie win.
+
+Cicha noc, święta noc,
+jakiż w tobie dzisiaj cud?
+W Betlejem Dziecina święta
+wznosi w górę swe rączęta,
+błogosławi lud,
+błogosławi lud.
+
+DE Stille Nacht! Heilige Nacht!
+Alles schläft, einsam wacht
+nur das traute hochheilige Paar.
+Holder Knabe im lockigen Haar
+Schlaf in himmlischer Ruh,
+Schlaf in himmlischer Ruh.
+
+EN Silent night! Holy night!
+All is calm, all is bright
+round yon Virgin Mother and Child,
+Holy Infant so tender and mild,
+sleep in heavenly peace!
+sleep in heavenly peace!
+
+FR Ô nuit de paix, Sainte nuit
+Dans le ciel L’astre luit
+Dans les champs tout repose en paix
+Mais soudain dans l’air pur et frais
+Le brillant coeur des anges
+Aux bergers apparaît
+
+IT Astro del ciel, Pargol divin,
+mite Agnello Redentor!
+Tu che i Vati da lungi sognar,
+Tu che angeliche voci nunziar,
+luce dona alle genti
+pace infondi nei cuor!
+
+ES Noche de paz, noche de amor,
+Todo duerme en derredor.
+Entre sus astros que esparcen su luz
+Bella anunciando al niñito Jesús
+Brilla la estrella de paz
+Brilla la estrella de paz

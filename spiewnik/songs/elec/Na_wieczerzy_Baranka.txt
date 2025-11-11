@@ -1,0 +1,138 @@
+===
+title: "Na wieczerzy Baranka"
+subtitle: "Hymn na Nieszpory od Paschy do Wniebowstąpienia"
+section: "elec"
+color: "elec"
+tone: "a"
+songid: "S016HymnNaNieszporyNaWieczerzy"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*HYM"
+    where: ""
+  - what: "*BRE"
+    where: ""
+  - what: "*OPA"
+    where: ""
+knownas:
+  - "Ad cenam Agni providi"
+  - "Nieszpory do Wniebowstąpienia"
+  - "Wniebowstąpienie, Nieszpory przed"
+  - "1994"
+index:
+  - "amen"
+  - "anioł"
+  - "Baranek"
+  - "biały"
+  - "chleb"
+  - "Chrystus"
+  - "chrzest"
+  - "chwała"
+  - "ciało"
+  - "cichy"
+  - "cud"
+  - "cześć"
+  - "Czerwone"
+  - "Duch"
+  - "kielich"
+  - "Kościół"
+  - "krew"
+  - "śmierć"
+  - "śpiewać"
+  - "święty"
+  - "żywy"
+  - "miłość"
+  - "morze"
+  - "niszczyciel"
+  - "nowy"
+  - "odrodzony"
+  - "odziany"
+  - "ofiarny"
+  - "Ojciec"
+  - "ołtarz"
+  - "opromieniać"
+  - "Pan"
+  - "pascha"
+  - "paschalny"
+  - "potężny"
+  - "prawdziwy"
+  - "przaśny"
+  - "przebyć"
+  - "przyłączyć"
+  - "przymierze"
+  - "radość"
+  - "ramię"
+  - "stół"
+  - "starodawny"
+  - "szaty"
+  - "teraz"
+  - "uwielbić"
+  - "wieczór"
+  - "wieczerza"
+  - "wiek"
+  - "wracać"
+  - "wspaniały"
+  - "wybawiać"
+  - "zapalony"
+  - "zwycięstwo"
+  - "zwycięzca"
+footnote: "Ad cenam Agni providi to łaciński hymn nieszporny na okres wielkanocny z VI w. Hymn na Nieszpory od Paschy do WniebowstąpieniaInno dei vespri da Pasqua all’Ascensione (przyp. red.)"
+===
+
+W:
+[a]Na wieczerzy Ba[G]ranka,
+odziani w białe [a]szaty,
+[F]przebywszy Morze Czerwone,
+śpiewamy Chrystusowi [E]Panu.
+K:
+[a]Jego ciało zapalone mi[G]łością
+na stole jest chlebem [a]żywym;
+Jego krew na oł[G]tarzu
+kielichem Nowego Przy[a]mierza.
+W:
+[a]Na wieczerzy Ba[G]ranka,
+odziani w białe [a]szaty,
+[F]przebywszy Morze Czerwone,
+śpiewamy Chrystusowi [E]Panu.
+
+K:
+[a]W ten wspaniały [G]wieczór
+wracają starodawne [a]cuda:
+potężne ramię nas wy[G]bawia
+od anioła niszczy[a]ciela.
+W:
+[a]Na wieczerzy Ba[G]ranka,
+odziani w białe [a]szaty,
+[F]przebywszy Morze Czerwone,
+śpiewamy Chrystusowi [E]Panu.
+
+K:
+[a]Cichy Baranek o[G]fiarny
+Chrystus nasza [a]Pascha;
+Jego ciało uwiel[G]bione
+jest prawdziwym chlebem [a]przaśnym.
+W:
+[a]Na wieczerzy Ba[G]ranka,
+odziani w białe [a]szaty,
+[F]przebywszy Morze Czerwone,
+śpiewamy Chrystusowi [E]Panu.
+
+K:
+[a]Opromieniaj swój [G]Kościół
+paschalną radością [a]Panie;
+przyłącz do Twego zwy[G]cięstwa
+we chrzcie odro[a]dzonych.
+W:
+[a]Na wieczerzy Ba[G]ranka,
+odziani w białe [a]szaty,
+[F]przebywszy Morze Czerwone,
+śpiewamy Chrystusowi [E]Panu.
+
+K:
+[a]Chwała i cześć Chrystu[G]sowi
+zwycięzcy [a]śmierci,
+Ojcu i Duchowi Świę[G]temu
+teraz i na wieki [a]wieków.
+W:
+[G]Am[a]en

@@ -1,0 +1,96 @@
+===
+title: "O nasz Panie, o nasz Boże"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S109ONaszPanieONaszBoze"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "8"
+  - what: "*BRE"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+knownas:
+  - "Ustami dzieci i niemowląt"
+  - "1984"
+index:
+  - "anioł"
+  - "Bóg"
+  - "buntownik"
+  - "cały"
+  - "chwała"
+  - "cześć"
+  - "człowieczy"
+  - "człowiek"
+  - "dziecko"
+  - "dzieło"
+  - "gwiazda"
+  - "imię"
+  - "jakże"
+  - "jednak"
+  - "księżyc"
+  - "miłość"
+  - "milczeć"
+  - "mniejszy"
+  - "niebiosa"
+  - "niebo"
+  - "niemowlę"
+  - "niewiele"
+  - "palce"
+  - "pamiętać"
+  - "Pan"
+  - "patrzeć"
+  - "poddać"
+  - "ponad"
+  - "potęga"
+  - "potwierdzać"
+  - "stopa"
+  - "syn"
+  - "troszczyć"
+  - "uczynić"
+  - "usta"
+  - "utwierdzić"
+  - "uwieńczyć"
+  - "wielki"
+  - "wróg"
+  - "wszystko"
+  - "wznosić"
+  - "ziemia"
+  - "zmusić"
+footnote: "Przekład polski dodaje, za przekładem włoskim, nieistniejące w oryginale hiszpańskim ani w Tysiąclatce A jednak (Eppure) zamiast Uczyniłeś go (Lo hiciste), więc następny werset ma dodane uczyniłeś go i zyskując nawet więcej sylab, niż we włoskim, nie mieści się w oryginalnej melodii. (przyp. red.)"
+===
+
+W:
+[e]O nasz Panie, o nasz Boże,
+jakże [G]wielkie jest Twe imię,
+na całej [HS]ziemi, Twoje imię,
+[a]ponad niebiosa wznosi się twa [HS]miłość.
+
+K:
+[a]Ustami dzieci i nie[HS]mowląt
+[a]potwierdzasz swą potęgę, o [HS]Panie,
+[C]by zmusić do milczenia wrogów i buntow[HS]ników.
+W:
+[e]O nasz Panie, o nasz Boże,
+jakże [G]wielkie jest Twe imię,
+na całej [HS]ziemi, Twoje imię,
+[a]ponad niebiosa wznosi się twa [HS]miłość.
+
+K:
+[a]Gdy patrzę na Twe niebo, dzieło palców [HS]Twoich,
+[a]na księżyc i na gwiazdy, które utwier[HS]dziłeś;
+[C]czymże jest człowiek, że o nim pa[HS]miętasz,
+[C]czym syn człowieczy, że o niego się [HS]troszczysz?
+A [G]jednak, a [HS]jednak
+uczyniłeś go niewiele mniejszym od a[C]niołów,
+chwałą i czcią go uwień[HS]czyłeś,
+[C]poddałeś wszystko pod Jego [HS]stopy.
+W:
+[e]O nasz Panie, o nasz Boże,
+jakże [G]wielkie jest Twe imię,
+na całej [HS]ziemi, Twoje imię,
+[a]ponad niebiosa wznosi się twa [HS]miłość.

@@ -1,0 +1,131 @@
+===
+title: "W obliczu aniołów"
+section: "precate"
+color: "precate"
+tone: "C"
+songid: "S090WObliczuAniolow"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "138"
+  - what: "*BRE"
+    where: ""
+alttone:
+  - "F"
+knownas:
+  - "Sławić będę Twoje imię"
+  - "1981"
+index:
+  - "anioł"
+  - "cały"
+  - "chcieć"
+  - "chodzić"
+  - "chwalić"
+  - "dać"
+  - "daleki"
+  - "dopełnić"
+  - "droga"
+  - "dusza"
+  - "dzięki"
+  - "dzieło"
+  - "imię"
+  - "król"
+  - "śpiewać"
+  - "miłość"
+  - "moc"
+  - "najwyższy"
+  - "nań"
+  - "obietnica"
+  - "oblicze"
+  - "odpowiedzieć"
+  - "odwaga"
+  - "On"
+  - "opuszczać"
+  - "Pański"
+  - "Pan"
+  - "patrzeć"
+  - "pokorny"
+  - "pośród"
+  - "ponieważ"
+  - "powiedzieć"
+  - "poznawać"
+  - "pragnąć"
+  - "prawica"
+  - "przewyższyć"
+  - "psalm"
+  - "pyszny"
+  - "ręka"
+  - "serce"
+  - "sława"
+  - "sławić"
+  - "słowa"
+  - "usłyszeć"
+  - "usta"
+  - "utrapienie"
+  - "uwielbiać"
+  - "widzieć"
+  - "wieczny"
+  - "wielki"
+  - "wierny"
+  - "wszyscy"
+  - "wyciągać"
+  - "wzywać"
+  - "zbawiać"
+  - "ziemia"
+===
+
+W:
+[C]W obliczu a[E]niołów pragnę Cię u[dNmS]wielbiać,
+w o[G]bliczu aniołów chcę Ci psalmy [E]śpiewać;
+sławić będę Twoje [dNmS]imię
+za Twą [F]wierną miłość [E]do mnie.
+
+K:
+[C]Dzięki Ci, [E]Panie, z całego [dNmS]serca,
+po[G]nieważ Twa obietnica przewyższyła Twoją [E]sławę;
+gdy Cię wzywałem, Tyś mi odpo[dNmS]wiedział,
+dałeś [F]moc i odwagę mojej [E]duszy.
+
+W:
+[C]W obliczu a[E]niołów pragnę Cię u[dNmS]wielbiać,
+w o[G]bliczu aniołów chcę Ci psalmy [E]śpiewać;
+sławić będę Twoje [dNmS]imię
+za Twą [F]wierną miłość [E]do mnie.
+
+K:
+[C]Chwalić Cię będą, [E]Panie, wszyscy królowie [dNmS]ziemi,
+gdy [G]usłyszą słowa ust [E]Twoich
+i śpiewać będą na drodze [dNmS]Pańskiej
+po[F]wiedzą, jak wielka jest Twa [E]miłość.
+
+W:
+[C]W obliczu a[E]niołów pragnę Cię u[dNmS]wielbiać,
+w o[G]bliczu aniołów chcę Ci psalmy [E]śpiewać;
+sławić będę Twoje [dNmS]imię
+za Twą [F]wierną miłość [E]do mnie.
+
+K:
+[C]Pan jest Naj[E]wyższy, widzi pokor[dNmS]nego,
+po[G]znaje pysznego, patrzy nań z da[E]leka;
+ale gdy ja chodzę [dNmS]pośród utrapienia
+wy[F]ciągasz rękę, Twoja prawica mnie [E]zbawia.
+
+W:
+[C]W obliczu a[E]niołów pragnę Cię u[dNmS]wielbiać,
+w o[G]bliczu aniołów chcę Ci psalmy [E]śpiewać;
+sławić będę Twoje [dNmS]imię
+za Twą [F]wierną miłość [E]do mnie.
+
+K:
+[C]Pan dopełni [E]we mnie swego [dNmS]dzieła,
+bo [G]wielka i wieczna jest Jego [E]miłość;
+On nie opuszcza dzieła rąk [dNmS]swoich
+[F]Panie, nie opuszczaj [E]nas!
+
+W:
+[C]W obliczu a[E]niołów pragnę Cię u[dNmS]wielbiać,
+w o[G]bliczu aniołów chcę Ci psalmy [E]śpiewać;
+sławić będę Twoje [dNmS]imię
+za Twą [F]wierną miłość [E]do mnie.

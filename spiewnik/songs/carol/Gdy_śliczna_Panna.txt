@@ -1,0 +1,136 @@
+===
+title: "Gdy śliczna Panna"
+section: "carol"
+color: "carol"
+tone: "G"
+songid: "S718GdySlicznaPanna"
+author:
+  - "tr"
+year: 1754
+address:
+  - what: "Łk"
+    where: "2, 16"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+  - what: "*DZI"
+    where: ""
+index:
+  - "anioł"
+  - "Bóg"
+  - "bydlątko"
+  - "chuchać"
+  - "cicho"
+  - "drogi"
+  - "duchowie"
+  - "Dzieciąteczko"
+  - "dziecina"
+  - "dziedzic"
+  - "jaki"
+  - "jako"
+  - "jedyne"
+  - "jedyny"
+  - "kanaczek"
+  - "kochanie"
+  - "kołysać"
+  - "królewic"
+  - "kwiateczek"
+  - "śliczny"
+  - "śpiewać"
+  - "laj"
+  - "lili"
+  - "żaden"
+  - "żłobeczek"
+  - "mówić"
+  - "miluchny"
+  - "minąć"
+  - "najmilszy"
+  - "nic"
+  - "niebieski"
+  - "niebo"
+  - "niezmierzony"
+  - "nigdy"
+  - "nowy"
+  - "On"
+  - "póki"
+  - "Pan"
+  - "Paniąteczko"
+  - "Panicz"
+  - "Panna"
+  - "para"
+  - "perła"
+  - "pojmować"
+  - "południowy"
+  - "pomóc"
+  - "powiewać"
+  - "przecież"
+  - "przerywać"
+  - "przykry"
+  - "radość"
+  - "robaczek"
+  - "rozpływać"
+  - "rubin"
+  - "rwać"
+  - "sen"
+  - "serce"
+  - "siebie"
+  - "słowa"
+  - "spać"
+  - "stworzenie"
+  - "Syn"
+  - "Syneczek"
+  - "sypać"
+  - "tak"
+  - "trwoga"
+  - "ubogi"
+  - "wcielony"
+  - "wdzięczny"
+  - "wesele"
+  - "wielki"
+  - "wietrzyk"
+  - "wonny"
+  - "wszystko"
+  - "zażywać"
+footnote: "Kolęda polska o charakterze kołysanki. Jej melodię podają rękopisy karmelitańskie: BJ 3638, rękopis z biblioteki klasztornej, sygn. 95, a także cztery rękopisy franciszkanek. Różni się nieznacznie pod względem rytmicznym od śpiewanej dzisiaj zgodnie z zapisem Mioduszewskiego (Pastorałki i kolędy, 1843). Tekst podają pozostałe rękopisy karmelitanek (w kantyczce Chybińskiego nosi ona tytuł: Panna Najświętsza Synaczka swego najmilszego uprzejmie śpiewając lula), rękopis BJ 3639 i jeden z kancjonałów staniąteckich (Gąsiorowskiej z 1754 roku). Liczy tam osiem lub więcej zwrotek."
+===
+
+[G]Gdy [D]śliczna [G]Panna [a]Syna [D]kołysa[G]ła,
+[G]z wiel[D]kim we[G]selem [a]tak Je[D]mu śpiewa[G]ła:
+[e]Lili lili [a]laj, [D]moje Dziecią[G]teczko,
+[e]lili lili [C]laj, [G]śliczne [a]Panią[D]te[G]czko.
+
+Wszystko stworzenie, śpiewaj Panu swemu,
+pomóż radości wielkiej sercu memu.
+Lili lili laj, wielki królewicu,
+lili lili laj, niebieski dziedzicu!
+
+Sypcie się z nieba, śliczni aniołowie,
+śpiewajcie Panu, niebiescy duchowie:
+Lili lili laj, mój wonny kwiateczku,
+lili lili laj, w ubogim żłobeczku.
+
+Cicho, wietrzyku, cicho, południowy,
+cicho powiewaj, niech śpi Panicz nowy:
+Lili lili laj, mój wdzięczny Synaczku,
+lili lili laj, miluchny Robaczku.
+
+Cicho bydlątka parą swą chuchajcie,
+ślicznej Dziecinie snu nie przerywajcie:
+Lili lili laj, mój Jedyny Panie,
+lili lili laj, Jedyne Kochanie.
+
+O jako serce jako się rozpływa!
+Jakiej radości śpiewając zażywa:
+Lili lili laj, mój drogi Kanaczku,
+lili lili laj, najmilszy Synaczku.
+
+Nic mi nie mówisz, o Kochanie moje!
+Przecież pojmuję w sercu słowa Twoje:
+Lili lili laj, o Boże wcielony,
+lili lili laj, nigdy niezmierzony.
+
+Śpijcie już sobie, moja Perło droga,
+niech Ci snu nie rwie żadna przykra trwoga.
+Lili lili laj, mój śliczny rubinie,
+lili lili laj, póki sen nie minie.

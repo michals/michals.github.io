@@ -1,0 +1,83 @@
+===
+title: "Noli me tangere"
+section: "precate"
+color: "precate"
+tone: "C"
+songid: "S288NoliMeTangere"
+author:
+  - "K"
+year: 1999
+address:
+  - what: "J"
+    where: "20, 15-17"
+  - what: "*OPA"
+    where: ""
+knownas:
+  - "Rabbuni"
+  - "Niewiasto, powiedz czemu płaczesz"
+  - "Panie, jeżeli go przeniosłeś Ty"
+  - "Nie dotykaj mnie"
+  - "1997"
+index:
+  - "Bóg"
+  - "brat"
+  - "czemu"
+  - "dotykać"
+  - "iść"
+  - "jeszcze"
+  - "Maria"
+  - "niewiasta"
+  - "noli"
+  - "ogłosić"
+  - "Ojciec"
+  - "On"
+  - "Pan"
+  - "płakać"
+  - "powiedzieć"
+  - "przenieść"
+  - "Rabbi"
+  - "szukać"
+  - "tangere"
+  - "wstąpić"
+  - "wstępować"
+  - "zabrać"
+  - "złożyć"
+footnote: "Za „Zmartwychwstał Pan 2025”: lecz idź ogłosić→idź i ogłoś. (przyp. red.)"
+===
+
+K:
+[C]Niewiasto, powiedz czemu płaczesz?
+Niewiasto, powiedz czemu [F]płaczesz?
+Kogo [C]szukasz? Kogo [G]szukasz? Kogo [C]szukasz?
+W:
+[C]Panie, jeżeli Go przeniosłeś ty,
+Panie, jeżeli Go przeniosłeś [F]ty,
+powiedz mi, gdzie Go zło[C]żyłeś,
+a [G]ja zabiorę [C]Go, a [G]ja zabiorę [C]Go.
+K:
+[f]Mario!
+W:
+Rab[c]buni!
+K:
+[f]Mario!
+W:
+Rab[c]buni[C]!
+K:
+[B]Noli me [C]tangere, [B]nie doty[C]kaj mnie,
+[B]bo jeszcze nie wstąpiłem [C]do Ojca.
+KW:
+[f]Idź i ogłoś moim [c]braciom,
+K:
+że wstę[As]puję do Ojca mego i Ojca wa[G]szego,
+Boga [As]mego i Boga wa[G]szego,
+W:
+[f]że wstępuję do Ojca mego i Ojca wa[c]szego,
+[f]Boga mego i Boga wa[c]szego;
+W:
+że wstę[As]puję do Ojca mego i Ojca wa[G]szego,
+∼
+Boga [As]mego i Boga wa[G]szego;
+W:
+[C]Panie, jeżeli Go przeniosłeś ty …
+K:
+[f]Mario …

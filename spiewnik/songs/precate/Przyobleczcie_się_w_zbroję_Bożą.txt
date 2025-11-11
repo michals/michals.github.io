@@ -1,0 +1,110 @@
+===
+title: "Przyobleczcie się w zbroję Bożą"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S220PrzyobleczcieSieWZbrojeBoza"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ef"
+    where: "6, 11-17"
+  - what: "*OAD"
+    where: ""
+  - what: "*OWP"
+    where: ""
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "Zbroja Boża"
+  - "1981"
+index:
+  - "alleluja"
+  - "biodro"
+  - "Boży"
+  - "brać"
+  - "Chrystus"
+  - "ciało"
+  - "ciemności"
+  - "Duch"
+  - "duchy"
+  - "ewangelia"
+  - "głosić"
+  - "głowa"
+  - "gotowość"
+  - "grzech"
+  - "grzesznik"
+  - "hełm"
+  - "inny"
+  - "Jezus"
+  - "kochać"
+  - "krew"
+  - "krzyż"
+  - "świat"
+  - "światłość"
+  - "miecz"
+  - "naprawdę"
+  - "noga"
+  - "nosić"
+  - "obuć"
+  - "On"
+  - "opierać"
+  - "oręż"
+  - "Pan"
+  - "powrócić"
+  - "prawda"
+  - "przeciw"
+  - "przeciwko"
+  - "przepasać"
+  - "przyoblec"
+  - "siebie"
+  - "Słowo"
+  - "sprawiedliwość"
+  - "stworzenie"
+  - "tarcza"
+  - "umrzeć"
+  - "walka"
+  - "wiara"
+  - "wszystko"
+  - "wziąć"
+  - "zabrać"
+  - "zamieszkiwać"
+  - "zbawienie"
+  - "zbroja"
+  - "zło"
+  - "złoczyńca"
+  - "zmartwychwstać"
+footnote: "W „Resucitó 2023” ten fragment Wszyscy powtarzają po Kantorze. Oręż światłościPrzyobleczcie się w zbroję BożąTytuł hiszpański pochodzi od drugiego wersetu, a włoski pochodzi od wersetu pierwszego (przyp. red.)"
+===
+
+K:
+[a]Przyobleczcie się w zbroję [dNmS]Bożą,
+nosząc na [ES]sobie oręż świat[a]łości.
+K:
+[F]Bo nasza walka nie jest przeciw stworzeniom z ciała i [ES]krwi,
+[F]ale przeciwko duchom zła, które zamieszkują ten świat ciem[ES]ności.
+W:
+Przepa[a]sawszy biodra wasze [ES]prawdą,
+przyobleczeni w sprawiedliwość [a]krzyża,
+K:
+[F]która nie opiera się [ES]złu,
+[F]lecz bierze na siebie grzechy [ES]innych.
+W:
+[a]Obuwszy nogi w gotowość głoszenia Ewan[ES]gelii,
+miejcie przede wszystkim tarczę [a]wiary,
+K:
+[F]że Chrystus kocha cię na[ES]prawdę,
+że [F]umarł na krzyżu za [ES]ciebie,
+gdy [F]byłeś złoczyńcą i grzesz[ES]nikiem.
+W:
+Weźcie [a]też miecz Ducha, którym jest Słowo [ES]Boże,
+a na głowę hełm zba[a]wienia,
+K:
+bo [F]Jezus Chrystus zmart[ES]wychwstał,
+b[F]o On jest [ES]Panem,
+bo On po[d]wróci, bo On powróci
+i zabierze nas ze [ES]Sobą.
+W:
+Allelu[a]ja, allelu-, allelu-, allelu[ES]ja,
+Allelu[a]ja, allelu-, allelu-, allelu[ES]ja.

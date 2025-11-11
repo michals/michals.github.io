@@ -1,0 +1,11 @@
+===
+title: Notacja PL (Cis, C#)
+notation: pl
+===
+
+KW:
+Test notacji polskiej
+Ak[Cis7]ord_Cis7 Ak[C#7]ord_C#7
+Ak[Dis7]ord_Dis7 Ak[D#7]ord_D#7
+Ak[Fis7]ord_Fis7 Ak[F#7]ord_F#7
+Ak[Gis7]ord_Gis7 Ak[G#7]ord_G#7

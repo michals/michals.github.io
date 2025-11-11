@@ -1,0 +1,16 @@
+===
+title: Test buga ról
+author: Test Author
+year: 2024
+section: test
+keywords:
+  - test
+  - role
+===
+
+K:
+tą część śpiewa kantor
+to też
+W:
+a teraz wszyscy
+i to również wszyscy

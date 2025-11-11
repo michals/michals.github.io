@@ -1,0 +1,96 @@
+===
+title: "Zmartwychwstał Pan"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S031ZmartwychwstalPan"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "1 Kor"
+    where: "15, 54-58"
+  - what: "*OPA"
+    where: ""
+  - what: "*KOM"
+    where: ""
+knownas:
+  - "1967"
+  - "O śmierci, gdzie jesteś śmierci"
+index:
+  - "alleluja"
+  - "brat"
+  - "dlatego"
+  - "dzięki"
+  - "dzisiaj"
+  - "królestwo"
+  - "śmierć"
+  - "śpiewać"
+  - "żyć"
+  - "miłość"
+  - "miłować"
+  - "Ojciec"
+  - "On"
+  - "Pan"
+  - "prowadzić"
+  - "radować"
+  - "razem"
+  - "umierać"
+  - "zmartwychwstać"
+  - "zwycięstwo"
+===
+
+W:
+[a]Zmartwychwstał Pan,
+zmartwychwstał [G]Pan,
+zmartwychwstał [F]Pan,
+allelu[E]ja!
+
+Allelu[a]ja,
+allelu[G]ja,
+allelu[F]ja,
+zmartwychwstał [E]Pan!
+
+K:
+O [a]śmierci,
+gdzie jesteś [G]śmierci?
+Gdzie jest moja [F]śmierć?
+Gdzie jest jej zwy[E]cięstwo?
+
+W:
+Zmartwychwstał [a]Pan, …
+
+K:
+Ra[a]dujmy się,
+radujmy się [G]bracia,
+jeśli dzisiaj się miłu[F]jemy,
+to dlatego, że On zmar[E]twychwstał.
+
+W:
+Zmartwychwstał [a]Pan, …
+
+K:
+[a]Dzięki,
+dzięki niech będą [G]Ojcu,
+który nas prowadzi do swego Kró[F]lestwa,
+gdzie się miłością [E]żyje!
+
+W:
+Zmartwychwstał [a]Pan, …
+
+K:
+Jeśli z Nim umie[a]ramy,
+z Nim także ży[G]jemy,
+z Nim razem śpie[F]wamy,
+allelu[E]ja!
+
+W:
+Allelu[a]ja,
+allelu[G]ja,
+allelu[F]ja,
+zmartwychwstał [E]Pan!
+
+Zmartwychwstał [a]Pan,
+zmartwychwstał [G]Pan,
+zmartwychwstał [F]Pan,
+allelu[E]ja!

@@ -1,0 +1,56 @@
+===
+title: "Wezwania i odpowiedzi modlitwy wiernych"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "S000OdpowiedziNaModlitwy"
+author:
+  - "K"
+year: 2023
+alttone:
+  - "e"
+  - "fis"
+knownas:
+  - "Odpowiedzi na modlitwy"
+  - "Melodie wezwań i odpowiedzi na Modlitwę"
+  - "2023"
+index:
+  - "Jezus"
+  - "królestwo"
+  - "lud"
+  - "ojciec"
+  - "Pan"
+  - "teraz"
+  - "wołanie"
+  - "wspomnieć"
+  - "wysłuchać"
+footnote: "Melodia wezwania pochodzi ze śpiewu , str. . „Risuscitò 2023” stosuje tutaj H7e albo H7G, jak to zwykle u Włochów, w miejsce oryginalnego DG albo czasami używanego w świecie hiszpańskim De. (przyp. red.)"
+===
+
+1.
+
+DG
+K:
+[G]Wysłuchaj nas Panie
+e H7 e
+W:
+[a]Wysłuchaj nas Panie
+
+2.
+
+W:
+[e]Wysłuchaj nas
+[D]O, P[e]anie
+
+3.
+
+DG
+W:
+[G]Jezu, wspomnij na nas,
+eH7e
+[a]teraz, gdy jesteś w Swoim Królestwie
+
+4.
+
+W:
+[e]Wy[ES]słuchaj, [a]ojcze, [HS]wołania twego [e]ludu.

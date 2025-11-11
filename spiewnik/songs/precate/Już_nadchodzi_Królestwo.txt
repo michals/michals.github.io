@@ -1,0 +1,90 @@
+===
+title: "Już nadchodzi Królestwo"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S045JuzNadchodziKrolestwo"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ap"
+    where: "19, 6-9"
+  - what: "*OPA"
+    where: ""
+  - what: "*BRE"
+    where: ""
+alttone:
+  - "e"
+  - "a"
+knownas:
+  - "1968"
+  - "Alleluja, alleluja, alleluja"
+index:
+  - "alleluja"
+  - "Bóg"
+  - "Baranek"
+  - "błogosławiony"
+  - "Chrystus"
+  - "chwała"
+  - "dać"
+  - "gody"
+  - "królestwo"
+  - "nadchodzić"
+  - "nadejść"
+  - "On"
+  - "Pan"
+  - "zaproszony"
+footnote: "Za „Zmartwychwstał Pan 2025”: zbliżyły się→nadeszły. (przyp. red.)"
+===
+
+(D7)
+W:
+[G]Alleluja, alle[HS]luja, allelu[e]ja.
+Alle[G]luja, alle[HS]luja, allelu[e]ja.
+
+K:
+Już nadchodzi Kró[HS]lestwo
+Pana i Jego Chry[e]stusa.
+Nadchodzi Kró[HS]lestwo
+(D7)
+Pana, naszego [e]Boga.
+
+W:
+Alle[G]luja, alle[HS]luja, allelu[e]ja.
+Alle[G]luja, alle[HS]luja, allelu[e]ja.
+
+K:
+Dajmy Mu [HS]chwałę,
+bo nadeszły [e]gody;
+dajmy Mu [HS]chwałę,
+(D7)
+to gody naszego [e]Boga.
+
+W:
+Alle[G]luja, alle[HS]luja, allelu[e]ja.
+Alle[G]luja, alle[HS]luja, allelu[e]ja.
+
+K:
+Błogosła[HS]wieni
+zaproszeni na [e]gody,
+zapro[HS]szeni
+(D7)
+na gody Ba[e]ranka.
+
+W:
+Alle[G]luja, alle[HS]luja, allelu[e]ja.
+Alle[G]luja, alle[HS]luja, allelu[e]ja.
+
+K:
+Błogosła[HS]wieni
+zaproszeni na [e]gody,
+na [HS]gody
+(D7)
+naszego [e]Pana.
+
+W:
+Alle[G]luja, alle[HS]luja, allelu[e]ja.
+Alle[G]luja, alle[HS]luja, allelu[e]ja.
+
+Na melodię tej pieśni śpiewa się także , str. . (przyp. red.)

@@ -1,0 +1,118 @@
+===
+title: "Melodia Modlitwy powszechnej"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "S000ModlitwaPowszechna"
+author:
+  - "K"
+year: 2016
+address:
+  - what: "*MSZ"
+    where: ""
+knownas:
+  - "Modlitwa powszechna"
+  - "Śpiewana Modlitwa powszechna"
+index:
+  - "biskup"
+  - "Boży"
+  - "brat"
+  - "cały"
+  - "choroba"
+  - "Chrystus"
+  - "ciało"
+  - "cierpiący"
+  - "cierpieć"
+  - "cud"
+  - "diakon"
+  - "dobry"
+  - "droga"
+  - "duch"
+  - "duchowny"
+  - "dziękować"
+  - "eucharystia"
+  - "ewangelia"
+  - "głosić"
+  - "jako"
+  - "kardynał"
+  - "Kościół"
+  - "święty"
+  - "Leon"
+  - "lub"
+  - "lud"
+  - "ludzie"
+  - "modlić"
+  - "najbliższy"
+  - "naród"
+  - "niedziela"
+  - "nowina"
+  - "odnowić"
+  - "Ojciec"
+  - "ożywiać"
+  - "osoba"
+  - "Pan"
+  - "podział"
+  - "pokój"
+  - "pospieszyć"
+  - "powód"
+  - "powstały"
+  - "prezbiter"
+  - "proboszcz"
+  - "przeżywać"
+  - "przyczyna"
+  - "przywódca"
+  - "rządzący"
+  - "sam"
+  - "serce"
+  - "sprawiedliwość"
+  - "tutaj"
+  - "ubóstwo"
+  - "ustać"
+  - "ustanowić"
+  - "władca"
+  - "wojna"
+  - "wszyscy"
+  - "wysłuchać"
+  - "zaniknąć"
+  - "zgromadzeni"
+  - "zjednoczony"
+  - "zostać"
+footnote: "Tekst przykładowy, przeznaczony do nauki melodii, a nie do śpiewania zawsze na liturgiach."
+===
+
+K:
+[e]Módlmy się bracia za Święty Kościół Boży,
+za Ojca Świętego Leona,
+za wszystkich kardynałów, biskupów, proboszczów,
+prezbiterów, diakonów, osoby duchowne i cały lud [G]Boży,
+dziękując za tę niedzielę, za tę Eucharystię,
+za Kościół zjednoczony w Chrystusie
+eDe
+głoszeniem Ewangelii.
+W:
+Wysłuchaj nas [D]o Pa[e]nie.
+K:
+Módlmy się, bracia, za władców i za wszystkich ludzi,
+którzy zostali ustanowieni jako przywódcy i rządzący naro[G]dami:
+aby za ich przyczyną wojny ustały, by podziały zanikły,
+a powstały drogi do pokoju i sprawiedliwości
+eDe
+we wszystkich narodach.
+W:
+Wysłuchaj nas [D]o Pa[e]nie.
+K:
+Módlmy się za cierpiących na ciele lub na duchu
+z powodu chorób, ubóstwa i [G]wojen,
+aby przyczyny cierpienia ustały
+eDe
+a wszystkim głoszono Dobrą Nowinę.
+W:
+Wysłuchaj nas [D]o Pa[e]nie.
+K:
+Módlmy się za nas samych, tutaj zgromadzonych,
+przeżywających Boży cud Eucha[G]rystii,
+aby nasze serca zostały nim odnowione
+eDe
+i pospieszyły ożywiać naszych najbliższych.
+W:
+Wysłuchaj nas [D]o Pa[e]nie.

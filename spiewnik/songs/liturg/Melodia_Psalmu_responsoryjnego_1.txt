@@ -1,0 +1,41 @@
+===
+title: "Melodia Psalmu responsoryjnego (1)"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "S905PsalmResponsoryjny"
+author:
+  - "K"
+year: 2020
+address:
+  - what: "*MSZ"
+    where: "*"
+alttone:
+  - "fis"
+index:
+  - "Bóg"
+  - "ciało"
+  - "dusza"
+  - "łaknąć"
+  - "pragnąć"
+  - "szukać"
+  - "tęsknić"
+  - "woda"
+  - "zeschły"
+  - "ziemia"
+===
+
+KW:
+[e]Ciebie, mój [a]Boże, pragnie moja [HS]dusza.
+[C]Ciebie, mój [HS]Boże.
+
+K:
+[a]Boże, mój Boże, szukam [HS]Ciebie
+[a]i pragnie Ciebie moja [HS]dusza.
+[C]Ciało moje tęskni za [HS]Tobą
+(a)
+[C]jak zeschła ziemia łaknąca [HS]wody.
+
+W:
+[e]Ciebie, mój [a]Boże, pragnie moja [HS]dusza.
+[C]Ciebie, mój [HS]Boże.

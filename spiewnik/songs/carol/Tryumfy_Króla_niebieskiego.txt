@@ -1,0 +1,145 @@
+===
+title: "Tryumfy Króla niebieskiego"
+section: "carol"
+color: "carol"
+tone: "F"
+songid: "S710TryumfyKrolaNiebieskiego"
+author:
+  - "tr"
+year: 1754
+address:
+  - what: "Łk"
+    where: "2, 8-16"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+index:
+  - "afekt"
+  - "badać"
+  - "Bóg"
+  - "betlejemski"
+  - "boska"
+  - "chwała"
+  - "cześć"
+  - "dar"
+  - "dawać"
+  - "dobytek"
+  - "dowiedzieć"
+  - "dusza"
+  - "Dzieciątko"
+  - "dzieje"
+  - "Dziewica"
+  - "iść"
+  - "jaśnieć"
+  - "Król"
+  - "ślad"
+  - "śpieszyć"
+  - "śpiewać"
+  - "światło"
+  - "światłość"
+  - "żywy"
+  - "ludzie"
+  - "ludzki"
+  - "Maryja"
+  - "matka"
+  - "narodzić"
+  - "niebieski"
+  - "niebo"
+  - "niskość"
+  - "nowy"
+  - "ochota"
+  - "odbieżeć"
+  - "Odkupiciel"
+  - "ofiara"
+  - "oświecony"
+  - "On"
+  - "pałac"
+  - "pasterz"
+  - "piekło"
+  - "pobudzić"
+  - "podziwić"
+  - "pokój"
+  - "pokorny"
+  - "pole"
+  - "postawić"
+  - "potem"
+  - "powitanie"
+  - "prawdziwy"
+  - "przyczyna"
+  - "przyjąć"
+  - "przykład"
+  - "przynieść"
+  - "rodzic"
+  - "serce"
+  - "siebie"
+  - "stajnia"
+  - "stateczny"
+  - "stawać"
+  - "stróż"
+  - "tak"
+  - "triumf"
+  - "trzoda"
+  - "uczyć"
+  - "uniżony"
+  - "uważać"
+  - "wieczny"
+  - "wiedzieć"
+  - "wybawić"
+  - "wysoki"
+  - "wysokość"
+  - "wyznawać"
+  - "Zbawiciel"
+  - "ziemia"
+  - "zrodzić"
+  - "zstąpić"
+footnote: "Polska kolęda powstała w połowie XVIII wieku. Najstarszy zapis tekstu i melodii został sporządzony przez Annę Kiernicką ze Zgromadzenia Sióstr Benedyktynek i znajduje się w Kancjonale pochodzącym z 1754 roku. Tekst kolędy zamieścił ks. Michał Marcin Mioduszewski w Śpiewniku kościelnym z roku 1853, natomiast zapis melodii znajduje się w Śpiewniczku zawierającym pieśni kościelne autorstwa ks. Jana Siedleckiego wydanym w Krakowie w 1879 roku."
+===
+
+T[F]riumfy Kr[C]óla niebiesk[F]iego,
+zstąpiły z n[C]ieba wysok[F]iego.
+P[C]obudziły p[G]asterz[C]ów,
+dobytku sw[G]ego stróż[C]ów,
+śpiewan[F]iem, śp[g]iewan[F]iem, śp[g]iew[CS]ani[F]em.
+
+Chwała bądź Bogu w wysokości,
+a ludziom pokój na niskości.
+Narodził się Zbawiciel,
+dusz ludzkich Odkupiciel,
+na ziemi, na ziemi, na ziemi.
+
+Zrodziła Maryja Dziewica,
+wiecznego Boga bez rodzica.
+By nas z piekła wybawił,
+a w niebieskich postawił,
+pałacach, pałacach, pałacach.
+
+Pasterze w podziwieniu stają,
+triumfu przyczynę badają.
+Co się nowego dzieje,
+że tak światłość jaśnieje, .
+nie wiedzą, nie wiedzą, nie wiedzą.
+
+Że to Bóg, gdy się dowiedzieli,
+swej trzody w polu odbieżeli,
+śpiesząc na powitanie
+do Betlejemskiej stajnie
+Dzieciątka, Dzieciątka, Dzieciątka.
+
+Niebieskim światłem oświeceni
+pokornie przed nim uniżeni,
+Bogiem Go być prawdziwym,
+sercem, afektem żywym
+wyznają, wyznają, wyznają.
+
+I które mieli z sobą dary
+Dzieciątku dają na ofiary.
+Przyjmij o Narodzony,
+nas i dar przyniesiony
+z ochotą, z ochotą, z ochotą.
+
+A potem Maryi cześć dają,
+Za Matkę Boską Ją uważają.
+Tak nas uczą przykładem
+Jak iść mamy ich śladem,
+Statecznie, statecznie, statecznie.

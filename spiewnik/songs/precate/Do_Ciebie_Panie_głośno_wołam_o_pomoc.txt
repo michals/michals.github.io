@@ -1,0 +1,120 @@
+===
+title: "Do Ciebie, Panie, głośno wołam o pomoc"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S122DoCiebiePanieGlosnoWolamOpomoc"
+author:
+  - "K"
+year: 1994
+address:
+  - what: "Ps"
+    where: "142"
+  - what: "*OWP"
+    where: ""
+alttone:
+  - "a"
+  - "h"
+knownas:
+  - "1991"
+index:
+  - "błagać"
+  - "czuć"
+  - "dbać"
+  - "droga"
+  - "duch"
+  - "dusza"
+  - "dzięki"
+  - "głośny"
+  - "imię"
+  - "jedyne"
+  - "krzyk"
+  - "ścieżka"
+  - "lament"
+  - "życie"
+  - "mówić"
+  - "miłość"
+  - "mocniejszy"
+  - "nikt"
+  - "opuszczać"
+  - "otoczyć"
+  - "Pan"
+  - "płakać"
+  - "pociecha"
+  - "pomoc"
+  - "prawica"
+  - "radować"
+  - "rozpoznać"
+  - "schronienie"
+  - "sidła"
+  - "słuchać"
+  - "spojrzeć"
+  - "sprawiedliwy"
+  - "szczęście"
+  - "udręka"
+  - "udział"
+  - "ustawać"
+  - "uwolnić"
+  - "więzienie"
+  - "wielki"
+  - "wołać"
+  - "wróg"
+  - "wszelki"
+  - "wtedy"
+  - "wylewać"
+  - "wyrwać"
+  - "zanosić"
+  - "zastawić"
+  - "ziemia"
+  - "złożyć"
+  - "znać"
+  - "zobaczyć"
+footnote: "W „Resucitó” i w nagraniach Kiko nadal tutaj akordy są inne, niż w „Risuscitò 2023” i w „Zmartwychwstał Pan 2025”. (przyp. red.)"
+===
+
+W:
+[a]Do Ciebie, Panie, głośno wołam o [d]pomoc,
+Ciebie, Panie, moim krzykiem [a]błagam,
+[ES]przed Tobą, Panie, wylewam mój lament,
+przed [F]Ciebie moją udrękę za[E]noszę.
+
+K:
+[d]Czuję, że duch we mnie ustaje,
+ale Ty znasz moją [ES]ścieżkę.
+[a]Spójrz, Panie, że na [d]drodze,
+spójrz, zastawili na mnie [a]sidła;
+[E]Zobacz, że po mej prawicy nie ma ni[ES]kogo,
+[F]nikogo, kto by mnie roz[E]poznał;
+[d]opuszcza mnie wszelka pociecha,
+bo nie ma ni[F]kogo, kto by dbał o moje [ES]życie.
+
+W:
+[a]Do Ciebie wołam, o [G]Panie.
+Tobie mówię: tylko Tyś mym schro[ES]nieniem.
+Tyś [F]moim udziałem na tej ziemi,
+jedynym moim [E]szczęściem.
+
+K:
+[d]Słuchaj, Panie, ja [E]płaczę,
+F/d
+bo jestem w wielkiej u[E]dręce.
+[F]Uwolnij mnie Ty od wrogów,
+[G]co są mocniejsi o[E]de mnie;
+a/F
+wyrwij moją duszę z tego więzienia,
+[G]a złożę dzięki Twemu i[E]mieniu;
+d/F
+wtedy otoczą mnie sprawie[F]dliwi,
+radować się będą Twą miłością [E]do mnie.
+
+W:
+[a]Do Ciebie, Panie, głośno wołam o [d]pomoc,
+Ciebie, Panie, moim krzykiem [a]błagam,
+[ES]przed Tobą, Panie, wylewam mój lament,
+przed [F]Ciebie moją udrękę za[E]noszę.
+
+W:
+[a]Do Ciebie wołam, o [G]Panie.
+Tobie mówię: tylko Tyś mym schro[ES]nieniem.
+Tyś [F]moim udziałem na tej ziemi,
+jedynym moim [E]szczęściem.

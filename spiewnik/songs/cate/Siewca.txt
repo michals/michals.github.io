@@ -1,0 +1,111 @@
+===
+title: "Siewca"
+section: "cate"
+color: "cate"
+tone: "d"
+songid: "S209Siewca"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Mk"
+    where: "4, 3-9"
+knownas:
+  - "1973"
+  - "Oto wyszedł siewca, żeby siać"
+index:
+  - "chcieć"
+  - "cierń"
+  - "dobry"
+  - "droga"
+  - "inny"
+  - "jeden"
+  - "Jezus"
+  - "móc"
+  - "między"
+  - "paść"
+  - "plon"
+  - "przylecieć"
+  - "ptaki"
+  - "razem"
+  - "siać"
+  - "siewca"
+  - "skała"
+  - "słońce"
+  - "słuchać"
+  - "sto"
+  - "sześćdziesiąt"
+  - "trzydzieści"
+  - "ucho"
+  - "wybujać"
+  - "wydać"
+  - "wydziobać"
+  - "wyjść"
+  - "wysuszyć"
+  - "wzejść"
+  - "wzrastać"
+  - "zagłuszyć"
+  - "ziarno"
+  - "ziemia"
+  - "zrozumieć"
+footnote: "Ze względu na rytm szybkiego walczyka zręczniej byłoby śpiewać słowa Salió el sembra-dor a sem-brar w przekładzie siew-ca by zamiast siew-ca że-by. Drobienie sylab w tym miejscu zakłóca oryginalny rytm. (przyp. red.)"
+===
+
+KW:
+[d]Oto wyszedł siewca, (że)by [C]siać,
+a gdy [d]siał, jedno padło na drogę.
+K:
+I [F]przyleciały ptaki,
+i [G]wydziobały je, i [A]wydziobały je.
+W:
+I [d]wydziobały je.
+
+KW:
+[d]Oto wyszedł siewca, (że)by [C]siać,
+a gdy [d]siał, jedno padło na skałę.
+K:
+[F]Gdy wzeszło słońce, wysu[G]szyło je,
+bo nie miało [A]ziemi.
+W:
+Nie [d]miało ziemi.
+
+KW:
+[d]Oto wyszedł siewca, (że)by [C]siać,
+a gdy [d]siał, jedno padło między ciernie.
+K:
+[F]Razem z ziarnem wybu[G]jały ciernie
+i zagłuszyły [A]je.
+W:
+I zagłu[d]szyły je.
+
+KW:
+[d]Oto wyszedł siewca, (że)by [C]siać,
+a gdy [d]siał, jedno padło na ziemię
+K:
+[F]i wydało plon: [G]jedni trzydzieści,
+a inni sześć[A]dziesiąt,
+W:
+a [d]inni sto.
+
+K:
+[g]Kto ma [d]uszy
+[g]i chce zro[A]zumieć,
+niech [d]słucha,
+W:
+niech słucha.
+KW:
+[g]Żebym nie był [d]drogą.
+KW:
+[g]Żebym nie był [d]skałą.
+KW:
+[g]Żebym nie był ci[d]erniem.
+K:
+[g]Lecz żebym był [AS]ziemią.
+W:
+[g]Dobrą [A]ziemią.
+K:
+Na [d]której Jezus
+[AS]mógłby [d]wzrastać.
+W:
+Na [d]której Jezus
+[AS]mógłby [d]wzrastać.

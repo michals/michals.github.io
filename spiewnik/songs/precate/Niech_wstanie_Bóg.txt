@@ -1,0 +1,87 @@
+===
+title: "Niech wstanie Bóg"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S119NiechWstanieBog"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "Ps"
+    where: "68, 2.4-7"
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "Zaśpiewajcie Bogu"
+index:
+  - "Bóg"
+  - "chwalić"
+  - "cwałować"
+  - "dawać"
+  - "dom"
+  - "droga"
+  - "hymn"
+  - "imię"
+  - "śpiewać"
+  - "mieszkanie"
+  - "najbiedniejszy"
+  - "obłok"
+  - "oblicze"
+  - "Ojciec"
+  - "On"
+  - "opiekun"
+  - "Pan"
+  - "pierzchać"
+  - "radość"
+  - "radować"
+  - "sierota"
+  - "sprawiedliwy"
+  - "uwalniać"
+  - "uwięzić"
+  - "wdowa"
+  - "weselić"
+  - "wróg"
+  - "wstać"
+  - "wyrównać"
+  - "zaśpiewać"
+footnote: "Zaśpiewajcie BoguNiech wstanie BógWłoski pochodzi od początku ostatniego refrenu, a hiszpański od pierwszego wersetu psalmu (przyp. red.)"
+===
+
+KW:
+[E]Zaśpiewajcie Bogu,
+
+hymnem chwalcie Jego imię,
+
+zaśpiewajcie Bogu,
+wyrów[dNmS]najcie drogę
+cwałującemu na o[E]błokach.
+
+K:
+„Pan” jest Jego imię,
+ra[dNmS]dujcie się przed Jego obliczem:
+
+Bowiem Ojcem jest dla sierot
+
+i dla wdów jest Opiekunem
+- [E]Bóg.
+Tym najbied[dNmS]niejszym
+daje mieszkanie w swoim [E]domu
+[dNmS]i uwięzionych On uwalnia z ra[E]dością.
+
+W:
+[E]Niech wstanie Bóg,
+
+Jego wrogowie niech pierzchają,
+
+sprawiedliwi niech weselą się
+
+i śpie[dNmS]wają z ra[E]dości!
+W:
+[E]Zaśpiewajcie Bogu,
+
+hymnem chwalcie Jego imię,
+
+zaśpiewajcie Bogu,
+wyrów[dNmS]najcie drogę
+cwałującemu na o[E]błokach.

@@ -1,0 +1,87 @@
+===
+title: "Maryjo, Domie Błogosławieństwa"
+subtitle: "Wesele w Kanie"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S112MaryjoDomieBlogoslawienstwa"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "J"
+    where: "2, 1-10"
+  - what: "*OPA"
+    where: ""
+  - what: "*MAR"
+    where: ""
+  - what: "*KOM"
+    where: ""
+alttone:
+  - "cis"
+index:
+  - "alleluja"
+  - "błogosławieństwo"
+  - "braknąć"
+  - "Chrystus"
+  - "czynić"
+  - "dom"
+  - "dostrzec"
+  - "Galilejski"
+  - "Kana"
+  - "śmierć"
+  - "święto"
+  - "życie"
+  - "mówić"
+  - "Maryja"
+  - "nauczyć"
+  - "nowy"
+  - "On"
+  - "panować"
+  - "pokorny"
+  - "posłuszeństwo"
+  - "przemienić"
+  - "przybytek"
+  - "przywieść"
+  - "Syn"
+  - "wieczny"
+  - "wiek"
+  - "wino"
+  - "woda"
+  - "wszystko"
+  - "zbawienie"
+  - "ziemski"
+  - "Zmartwychwstały"
+  - "zwycięstwo"
+footnote: "Akordy poprawione za śpiewnikiem hiszpańskim i nagraniem na płycie Paloma Incorrupta, San Pablo Multimedia, Madryt 2010. Jako wariant pozostawiono akord z „Risuscitò”. (przyp. red.)"
+===
+
+W:
+[a]Maryjo, [d]Domie Błogosła[a]wieństwa,
+Zba[d]wienie naszego [a]wieku,
+Przy[ES]bytku ziemski Pokornego.
+
+K:
+[d]Ty, jak w Kanie Gali[ES]lejskiej
+[d]dostrzegłaś, że brakło nam [ES]wina,
+że nasze [F]święto nie było świętem,
+że nasze życie nie było życiem,
+albowiem śmierć panowała nad [ES]nami.
+
+W:
+[a]Maryjo, [d]Domie Błogosła[a]wieństwa,
+[d]Zbawienie naszego [a]wieku,
+Przy[ES]bytku ziemski Pokornego.
+
+K:
+[d]Ty przywiodłaś nas do Swego [ES]Syna
+[d]i nauczyłaś nas posłuszeństwa,
+i czynić wszystko, co On nam [ES]mówi,
+[F]aby przemienił naszą wodę w nowe [ES]wino.
+
+a/F
+W:
+Zwycięstwo, zwy[G]cięstwo,
+życie [F]wieczne w Chrystusie Zmartwych[ES]wstałym!
+Allelu[a]ja, alle[G]lu-, allelu[a]ja.
+Allelu[a]ja, alle[G]lu-, allelu[a]ja!

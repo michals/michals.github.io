@@ -1,0 +1,47 @@
+===
+title: "Święty Palm"
+subtitle: "Palestyna 1974"
+section: "liturg"
+color: "liturg"
+tone: "d"
+songid: "S006SwietyHosannaPalm"
+author:
+  - "K"
+  - "SC"
+year: 1993
+address:
+  - what: "*MSZ"
+    where: ""
+  - what: "*PAS"
+    where: ""
+knownas:
+  - "Święty, święty, święty"
+  - "Hosanna palm"
+  - "Święty Betlejemskie"
+  - "Święty - Palestyna 1974"
+  - "1974"
+yhwh: true
+index:
+  - "błogosławiony"
+  - "hosanna"
+  - "iść"
+  - "imię"
+  - "Jahwe"
+  - "święty"
+  - "niebiosa"
+  - "niebo"
+  - "Pan"
+  - "Sabaoth"
+  - "wypełnić"
+  - "wysoki"
+  - "ziemia"
+footnote: "Dawniej: Okres Paschalny. Święty, święty, święty - Hosanna palm (i Okres Paschalny)Santo, Santo, Santo - Osanna delle palme (e Tempo Pasquale) (przyp. red.)"
+===
+
+W:
+[d]Święty, święty, święty,
+[g]święty, święty, święty,
+[A]Święty, święty, święty!
+[g]Święty jest nasz [A]Pan
+[g]Jahwe Saba[A]oth,
+[g]Jahwe Saba[A]oth.

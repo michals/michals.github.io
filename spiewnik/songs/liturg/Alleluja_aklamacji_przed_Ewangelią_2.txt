@@ -1,0 +1,32 @@
+===
+title: "Alleluja aklamacji przed Ewangelią (2)"
+subtitle: "Melodia „Już nadchodzi Królestwo”"
+section: "liturg"
+color: "liturg"
+tone: "a"
+songid: "S024AllelujaNaAklamacjeMelodiaTrzecia"
+author:
+  - "K"
+year: 1992
+index:
+  - "alleluja"
+  - "dawać"
+  - "mówić"
+  - "miłować"
+  - "nowy"
+  - "Pan"
+  - "przykazanie"
+  - "umiłować"
+  - "wzajemny"
+===
+
+W:
+[C]Alleluja, alle[E]luja, allelu[a]ja.‡‡‡ [GS]
+[C]Alleluja, alle[E]luja, allelu[a]ja
+K:
+[C]Daję wam przykazanie [E]nowe, mówi [a]Pan:‡‡
+(G7)
+[C]abyście się wzajemnie miło[E]wali, jak ja was umiło[a]wałem.
+W:
+[C]Alleluja, alle[E]luja, allelu[a]ja.[GS]
+[C]Alleluja, alle[E]luja, allelu[a]ja

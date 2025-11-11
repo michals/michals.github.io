@@ -1,0 +1,126 @@
+===
+title: "O Jezu, miłości moja"
+section: "precate"
+color: "communion"
+tone: "a"
+songid: "S279OJezuMilosciMoja"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*HYM"
+    where: ""
+  - what: "*OWP"
+    where: ""
+  - what: "*LAM"
+    where: ""
+knownas:
+  - "1987"
+index:
+  - "bicz"
+  - "bogactwo"
+  - "cały"
+  - "chciwość"
+  - "cichość"
+  - "cierń"
+  - "czystość"
+  - "dostać"
+  - "grób"
+  - "grzech"
+  - "gwóźdź"
+  - "jakże"
+  - "Jezus"
+  - "krzyż"
+  - "śmierć"
+  - "żółć"
+  - "życie"
+  - "miłość"
+  - "nieczystość"
+  - "obelga"
+  - "ocet"
+  - "oddać"
+  - "odrzeć"
+  - "Pan"
+  - "pokora"
+  - "posłuszeństwo"
+  - "przebaczyć"
+  - "pycha"
+  - "raz"
+  - "sam"
+  - "siebie"
+  - "słodycz"
+  - "szaty"
+  - "ukochać"
+  - "uległość"
+  - "wziąć"
+  - "zbawienie"
+  - "złożenie"
+  - "zmartwychwstać"
+  - "zniewaga"
+footnote: "Za „Zmartwychwstał Pan 2025”: zmysłowość→nieczystość, wyrzeczenie się bogactw→bogactwo, żółć do picia→żółć i ocet, obelgi, zniewagi→obelgi i zniewagi. (przyp. red.)"
+===
+
+∼
+KW:
+[a]O Jezu, miłości [F]moja,
+jakże mnie ukochałeś, jakże mnie uko[E]chałeś!
+K:
+[a]O Jezu, Ty [G]wziąłeś grzechy o[a]de mnie,
+abym ja [F]dostał przebaczenie od [E]Ciebie.
+W:
+[a]O Jezu, miłości [F]moja,
+jakże mnie ukochałeś, jakże mnie uko[E]chałeś!
+K:
+[a]Ty [G]wziąłeś ciernie: pychę o[a]de mnie,
+abym ja [F]dostał pokorę i cichość od [E]Ciebie.
+W:
+[a]O Jezu, miłości [F]moja,
+jakże mnie ukochałeś, jakże mnie uko[E]chałeś!
+K:
+Ty wziąłeś [G]razy i bicze: nieczystość o[a]de mnie,
+abym ja [F]dostał czystość i miłość od [E]Ciebie.
+W:
+[a]O Jezu, miłości [F]moja,
+jakże mnie ukochałeś, jakże mnie uko[E]chałeś!
+K:
+[a]Ty [G]wziąłeś odarcie z szat: chciwość [a]ode mnie,
+abym ja [F]dostał bogactwo od [E]Ciebie.
+W:
+[a]O Jezu, miłości [F]moja,
+jakże mnie ukochałeś, jakże mnie uko[E]chałeś!
+K:
+Ty [G]wziąłeś żółć i ocet o[a]de mnie,
+abym ja [F]dostał słodycz od [E]Ciebie.
+Ty [G]wziąłeś obelgi i zniewagi o[a]de mnie,
+abym ja [F]dostał uległość od [E]Ciebie.
+
+Ty [G]wziąłeś gwoździe o[a]de mnie,
+abym ja [F]dostał posłuszeństwo od [E]Ciebie.
+W:
+[a]O Jezu, miłości [F]moja,
+jakże mnie ukochałeś, jakże mnie uko[E]chałeś!
+K:
+[a]Ty wziąłeś [G]krzyż o[a]de mnie,
+abym ja [F]dostał zbawienie od [E]Ciebie.
+W:
+[a]O Jezu, miłości [F]moja,
+jakże mnie ukochałeś, jakże mnie uko[E]chałeś!
+K:
+[a]Ty wziąłeś [G]śmierć o[a]de mnie,
+abym ja [F]dostał życie od [E]Ciebie.
+W:
+[a]O Jezu, miłości [F]moja,
+jakże mnie ukochałeś, jakże mnie uko[E]chałeś!
+K:
+[a]Ty wziąłeś złożenie [G]w grobie o[a]de mnie,
+abym ja [F]dostał zmartwychwstanie od [E]Ciebie.
+W:
+[a]O Jezu, miłości [F]moja,
+jakże mnie ukochałeś, jakże mnie uko[E]chałeś!
+K:
+[a]Ode mnie, Panie, [G]wziąłeś śmierć i [a]grzech,
+abym ja [F]dostał od Ciebie: Ciebie sa[E]mego.
+Siebie sa[F]mego całego mi od[E]dałeś.
+W:
+[a]O Jezu, miłości [F]moja,
+jakże mnie ukochałeś, jakże mnie uko[E]chałeś!

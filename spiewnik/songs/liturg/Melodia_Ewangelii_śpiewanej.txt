@@ -1,0 +1,99 @@
+===
+title: "Melodia Ewangelii śpiewanej"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "L00Ewangelia"
+author:
+  - "K"
+year: 2023
+address:
+  - what: "J"
+    where: "3, 11-15"
+  - what: "*MSZ"
+    where: ""
+knownas:
+  - "Ewangelia śpiewana"
+  - "Śpiewana Ewangelia"
+index:
+  - "Bóg"
+  - "Chrystus"
+  - "chwała"
+  - "cośmy"
+  - "czas"
+  - "człowieczy"
+  - "dać"
+  - "duch"
+  - "ewangelia"
+  - "jakżeż"
+  - "Jan"
+  - "jednorodzony"
+  - "Jezus"
+  - "każdy"
+  - "świadczyć"
+  - "świadectwo"
+  - "świat"
+  - "święty"
+  - "życie"
+  - "mówić"
+  - "Mojżesz"
+  - "niebieski"
+  - "niebo"
+  - "nikt"
+  - "On"
+  - "oprócz"
+  - "owy"
+  - "Pański"
+  - "Pan"
+  - "potrzeba"
+  - "powiadać"
+  - "powiedzieć"
+  - "przyjmować"
+  - "pustynia"
+  - "słowo"
+  - "sprawa"
+  - "Syn"
+  - "umiłować"
+  - "uwierzyć"
+  - "wąż"
+  - "według"
+  - "widzieć"
+  - "wieczny"
+  - "wiedzieć"
+  - "wierzyć"
+  - "wstąpić"
+  - "wywyższyć"
+  - "zaprawdę"
+  - "zginąć"
+  - "ziemski"
+  - "zstąpić"
+footnote: "Na tę melodię prezbiter może śpiewać Ewangelię Eucharystii (przyp. włoski). Należy tak rozłożyć tekst perykopy na frazy, aby zakończyć ją frazą o numerze parzystym: 2 albo 4. Akordy pochodzą z nagrania Evangelio cantado Camino Neocatecumenal con acordes Padre Mario Pezzi. „Resucitó 2023” w ramach ujednolicania wprowadziło w trzeciej frazie akordy włoskie GH7G. , str. , także ma tę melodię (przyp. red.)."
+===
+
+P:
+1[e]Pan [HS]z wa[e]mi.
+e H7 e
+W:
+2[a]I z duchem twoim.
+H7 e
+P:
+1[e]Słowa Ewangelii według świętego Jana.
+e H7 e
+W:
+2[a]Chwała Tobie, Panie.
+H7 e
+P:
+1[e]W owym czasie Jezus powiedział: „Zaprawdę, zaprawdę,powiadam ci, że to mówimy, co wiemy,i o tym świadczymy, cośmy widzieli,a świadectwa naszego nie przyjmujecie.
+e H7 e
+2 [a]Jeżeli wam mówię o tym, co jest ziemskie, a nie wierzycie,                  to jakżeż uwierzycie temu,               co wam powiem o sprawach niebieskich?
+3 [G]I nikt nie wstąpił do nieba, oprócz Tego,                        który z nieba zstąpił - Syna Człowiecz[D]eg[G]o.
+e H7 e
+4 [a]A jak Mojżesz wywyższył węża na pustyni,                                             tak potrzeba, by wywyższono Syna Człowieczego,
+3 [G]aby każdy, kto w Niego wierzy, miał życie wi[D]ecz[G]ne.
+e H7 e
+4 [a]Tak bowiem Bóg umiłował świat,               że Syna swego Jednorodzonego dał,            aby każdy, kto w Niego wierzy, nie zginął,       ale miał życie wieczne”.
+P:
+3[G]Oto słowo P[D]ań[G]skie.
+e H7 e
+W:
+4[a]Chwała Tobie, Chryste.

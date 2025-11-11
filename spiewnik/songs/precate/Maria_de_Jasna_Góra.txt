@@ -1,0 +1,113 @@
+===
+title: "Maria de Jasna Góra"
+subtitle: "Hymn do Madonny Częstochowskiej"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S121MariaDiJasnaGora"
+author:
+  - "K"
+year: 1996
+address:
+  - what: "*MAR"
+    where: ""
+  - what: "*HYM"
+    where: ""
+knownas:
+  - "Częstochowa 1991"
+  - "1991"
+  - "Maryjo z Jasnej Góry"
+  - "Maryjo, Święta Maryjo"
+  - "Maria, Sancta Maria"
+index:
+  - "abscondita"
+  - "Anna"
+  - "chodzić"
+  - "Chrystus"
+  - "Debora"
+  - "Dziewica"
+  - "Estera"
+  - "góra"
+  - "góry"
+  - "jasny"
+  - "Judyta"
+  - "ślad"
+  - "śpiewać"
+  - "święty"
+  - "Maria"
+  - "Maryja"
+  - "Mater"
+  - "matka"
+  - "modlić"
+  - "nauczyć"
+  - "niebieski"
+  - "Niewiasta"
+  - "nobis"
+  - "Odkupiciel"
+  - "ora"
+  - "pokorny"
+  - "powstać"
+  - "redemptoris"
+  - "semper"
+  - "sługa"
+  - "sollicita"
+  - "Syn"
+  - "troskliwy"
+  - "ukryć"
+  - "wstawić"
+  - "zawsze"
+  - "zbawić"
+footnote: "„Zmartwychwstał Pan 2025” przywrócił łacińskie de zamiast włoskiego di. Przeciwstawny spójnik łaciński at powinien być tłumaczony np. na a jednak albo, gdy nie ma miejsca w melodii, jak tutaj, na lecz. Tłumaczenie na samo a może być mylące. (przyp. red.)"
+===
+
+W:
+[H]Maria de Jasna Góra,
+Mater abscondita
+at semper sollicita,
+[a]Tu, Redemptoris Mater,
+ora pro [H]nobis.
+
+[H]Maryjo z Jasnej Góry,
+Matko ukryta,
+a zawsze troskliwa,
+[a]Ty, Matko Odkupiciela
+módl się za [H]nami.
+
+K:
+[e]Powstań tak jak Debora,
+[a]zbaw nas tak jak Judyta,
+∼
+śpiewaj dla nas tak jak Anna,
+wstaw się za nami jak Es[H]tera.
+W:
+[H]Maria de Jasna Góra,
+Mater abscondita
+at semper sollicita,
+[a]Tu, Redemptoris Mater,
+ora pro [H]nobis.
+
+[H]Maryjo z Jasnej Góry,
+Matko ukryta,
+a zawsze troskliwa,
+[a]Ty, Matko Odkupiciela
+módl się za [H]nami.
+
+K:
+[e]Niewiasto niebieska,
+[a]naucz nas chodzić śladami Chrystusa,
+śladami (świętego) Sługi,
+pokornego Syna,
+pokornej Matki,
+zawsze Dziewicy Ma[H]ryi.
+W:
+[H]Maria de Jasna Góra,
+Mater abscondita
+at semper sollicita,
+[a]Tu, Redemptoris Mater,
+ora pro [H]nobis.
+
+[H]Maryjo z Jasnej Góry,
+Matko ukryta,
+a zawsze troskliwa,
+[a]Ty, Matko Odkupiciela
+módl się za [H]nami.

@@ -1,0 +1,79 @@
+===
+title: "Tyś jest moją nadzieją, o Panie"
+section: "cate"
+color: "cate"
+tone: "d"
+songid: "S285TysJestMojaNadziejaOPanie"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*ODA"
+    where: "29"
+  - what: "*OAD"
+    where: ""
+knownas:
+  - "Wydobyłeś mnie z głębokości szeolu"
+  - "1988"
+index:
+  - "anioł"
+  - "chwała"
+  - "dać"
+  - "głębokość"
+  - "śmierć"
+  - "Mesjasz"
+  - "miłosierdzie"
+  - "moc"
+  - "nadzieja"
+  - "naród"
+  - "odnieść"
+  - "On"
+  - "Pan"
+  - "paszcza"
+  - "słowo"
+  - "stworzyć"
+  - "szeol"
+  - "tajemnica"
+  - "toczyć"
+  - "uwierzyć"
+  - "wielki"
+  - "wojna"
+  - "wychować"
+  - "wydobyć"
+  - "wyrwać"
+  - "wyznać"
+  - "zakryć"
+  - "zawieść"
+  - "znak"
+  - "zwycięstwo"
+footnote: "Ten akord należy grać arpeggio (trącać struny jedna po drugiej a nie razem), tylko na strunach wiolinowych (przyp. włoski). Proponuję dla akordu septymowego zmniejszonego chwyt pełny wyprowadzony od układu: q q . Ma on tę przewagę, że jest klasyczny, zupełny i transponowalny do innych tonacji. Akord składa się z czterech małych tercji - dzięki temu przesunięty o trzy półtony nie zmienia brzmienia i można go zawsze sprowadzić do pierwszych trzech pozycji - wystarczy, że którykolwiek ze składników będzie prymą akordu (przyp. red.)."
+===
+
+K:
+[cisdimS]Tyś jest moją nadzieją, o Panie,
+[BS]i nie zawiodę [AS]się.
+[cisdimS]W swojej chwale Ty nas stwo[AS]rzyłeś
+i w swym miło[BS]sierdziu nas wycho[AS]wałeś.
+Wydo[d]byłeś mnie z głębokości sze[AS]olu,
+z paszczy [BS]śmierci mnie wyr[AS]wałeś.
+W:
+Wydo[d]byłeś mnie z głębokości sze[AS]olu,
+z paszczy [BS]śmierci mnie wyr[AS]wałeś.
+I [d]tak uwierzyłem w Twojego Mes[AS]jasza
+i [BS]że On jest Panem, ja wyz[AS]nałem.
+K:
+[g]Panie, Ty dałeś nam wielki [AS]znak,
+[g]tajemnicę zakrytą przed anio[AS]łami,
+by toczyć [BS]wojnę mocą Twego [AS]Słowa
+i odnieść [BS]zwycięstwo nad naro[AS]dami.
+{{{ 2x
+W:
+Tyś [d]jest moją nadzieją, o [AS]Panie,
+i [BS]nie zawiodę [AS]się.
+}}}
+W:
+Wydo[d]byłeś mnie z głębokości sze[AS]olu,
+z paszczy [BS]śmierci mnie wyr[AS]wałeś.
+I [d]tak uwierzyłem w Twojego Mes[AS]jasza
+i [BS]że On jest Panem, ja wyz[AS]nałem.
+q

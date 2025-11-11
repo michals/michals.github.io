@@ -1,0 +1,64 @@
+===
+title: "Rozciągnąłem moje ręce"
+section: "precate"
+color: "communion"
+tone: "D"
+songid: "S283RozciagnalemMojeRece"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*ODA"
+    where: "27"
+  - what: "*LAM"
+    where: ""
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "Abba, Ojcze mój"
+  - "1990"
+index:
+  - "abba"
+  - "drzewo"
+  - "duch"
+  - "modlić"
+  - "Ojciec"
+  - "Pan"
+  - "ponieważ"
+  - "powierzać"
+  - "ręka"
+  - "rozciągnąć"
+  - "rozpostrzeć"
+  - "trwać"
+  - "wyprostować"
+  - "wywyższyć"
+  - "znak"
+===
+
+KW:
+[D]Rozciągnąłem[h] moje [G]ręce,
+rozcią[E]gnąłem moje [A]ręce
+[G]i modliłem się do [D]Pana,
+mod[A]liłem się tak jak [D]Pan.
+
+K:
+[Fis]Abba, Ojcze mój, [G]Abba, Ojcze [Fis]mój,
+[E]W Twoje ręce powierzam ducha [A]mego.
+[G]W Twoje [D]ręce pow[A]ierzam ducha [D]mego.
+W:
+[D]Rozciągnąłem[h] moje [G]ręce,
+rozcią[E]gnąłem moje [A]ręce
+[G]i modliłem się do [D]Pana,
+(h G)
+mod[A]liłem się tak jak [D]Pan.
+
+K:
+[E]Ponieważ rozpostarte ręce są znakiem [A]Jego
+[G]i trwam wyprosto[D]wany,
+drzewo wywyż[A]szone,
+drzewo wywyż[D]szone.
+W:
+[D]Rozciągnąłem[h] moje [G]ręce,
+rozcią[E]gnąłem moje [A]ręce
+[G]i modliłem się do [D]Pana,
+mod[A]liłem się tak jak [D]Pan.

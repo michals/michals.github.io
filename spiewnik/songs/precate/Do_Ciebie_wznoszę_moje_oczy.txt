@@ -1,0 +1,76 @@
+===
+title: "Do Ciebie wznoszę moje oczy"
+section: "precate"
+color: "precate"
+tone: "d"
+songid: "S126DoCiebieWznoszeMojeOczy"
+author:
+  - "K"
+year: 1994
+address:
+  - what: "Ps"
+    where: "123"
+  - what: "*OWP"
+    where: ""
+alttone:
+  - "f"
+knownas:
+  - "Miej litość nad nami, o Panie"
+  - "1993"
+index:
+  - "dusza"
+  - "litość"
+  - "ludzie"
+  - "mieszkać"
+  - "nasycony"
+  - "nazbyt"
+  - "niebo"
+  - "niewolnik"
+  - "oko"
+  - "pan"
+  - "Pan"
+  - "pani"
+  - "pogarda"
+  - "prześmiewca"
+  - "pyszny"
+  - "ręka"
+  - "sługa"
+  - "szyderstwo"
+  - "ufać"
+  - "wpatrywać"
+  - "wpatrzony"
+  - "wypełnić"
+  - "wznosić"
+  - "zmiłować"
+footnote: "Za „Zmartwychwstał Pan 2025”: są w Panu→wpatrują się w Pana. (przyp. red.)"
+===
+
+KW:
+[d]Do Ciebie wznoszę moje [AS]oczy,
+do [g]Ciebie, który mieszkasz [AS]w niebie.
+
+K:
+[d]Jak oczy sług
+są wpatrzone w ręce ich [AS]panów,
+jak [g]oczy niewolnicy
+w ręce jej [AS]pani,
+tak [BS]nasze oczy wpatrują się [AS]w Pana,
+B7/g
+ufając, że się zmi[AS]łuje,
+u[BS]fając, że się zmi[AS]łuje.
+
+N Miej [d]litość nad nami, o [AS]Panie.
+M Miej [BS]litość nad nami, o [AS]Panie.
+
+N Nasza [d]dusza jest nasycona po[AS]gardą.
+M Bo [BS]nazbyt nas wypełnili szy[AS]derstwem.
+
+N Po[d]gardą ludzi [AS]pysznych.
+M Szy[BS]derstwem prze[AS]śmiewców.
+
+N Miej [d]litość nad nami, o [AS]Panie.
+M Miej [BS]litość nad nami, o [AS]Panie.
+
+W:
+[d]Do Ciebie wznoszę moje [AS]oczy,
+do [g]Ciebie, który mieszkasz [AS]w niebie.

@@ -1,0 +1,76 @@
+===
+title: "Resurrexit"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S146Resurrexit"
+author:
+  - "K"
+year: 2013
+address:
+  - what: "J"
+    where: "11, 25-27"
+  - what: "*OPA"
+    where: ""
+alttone:
+  - "c"
+knownas:
+  - "2013"
+  - "Ja jestem Zmartwychwstaniem"
+  - "["
+index:
+  - "alleluja"
+  - "Boży"
+  - "choćby"
+  - "Chrystus"
+  - "gloria"
+  - "każdy"
+  - "świat"
+  - "la"
+  - "żyć"
+  - "przyjść"
+  - "Resurrexit"
+  - "Syn"
+  - "umrzeć"
+  - "wiek"
+  - "wierzyć"
+  - "zmartwychwstać"
+footnote: "Scenariusz według włoskiego „Risuscitò 2023”; różni się od nagrań autorskich oraz śpiewnika hiszpańskiego „Resucitó 2023” co do miejsca występowania refrenów muzycznych i partii powtarzanych. Akordy uzgodnione ze śpiewnikiem hiszpańskim. (przyp. red.)"
+===
+
+W:
+[a]Resurrexit, Resur[ES]rexit, Resur[F]rexit, Resur[E]rexit.
+[a]Gloria, [ES]Gloria, [F]Gloria, [E]Gloria.
+K:
+[a]Ja jestem, jestem Zmartwych[ES]wstaniem,
+[d]zmartwychwstaniem, zmartwych[ES]wstaniem.
+Kto wierzy [d]we mnie, choćby umarł żyć [ES]będzie,
+a [d]każdy kto żyje i wierzy [F]we mnie,
+nie umrze na [ES]wieki, [F]nie umrze na [ES]wieki.
+W:
+[a]Resurrexit, Resur[ES]rexit, Resur[F]rexit, Resur[E]rexit.
+[a]Gloria, [ES]Gloria, [F]Gloria, [E]Gloria.
+K:
+[a]Ja jestem, jestem Zmartwych[ES]wstaniem,
+[d]zmartwychwstaniem, zmartwych[ES]wstaniem.
+Kto wierzy [d]we mnie, choćby umarł żyć [ES]będzie,
+a [d]każdy kto żyje i wierzy [F]we mnie,
+nie umrze na [ES]wieki, [F]nie umrze na [ES]wieki.
+
+K:
+[d]Czy ty w to [ES]wierzysz? [d]Czy ty w to [ES]wierzysz?
+[F]Tak, ja wierzę, że ty jesteś Chrystusem,
+Synem [ES]Bożym, który [F]miał przyjść na [ES]świat.
+W:
+[a]Resurrexit, Resur[ES]rexit, Resur[F]rexit, Resur[E]rexit.
+[a]Gloria, [ES]Gloria, [F]Gloria, [E]Gloria.
+W:
+[a]La la la la la la, La la la la la [E]la la la,
+[a]La la la la la la, [d]La la la [E]la.
+[a]Alleluja, alle[ES]luja, alle[F]luja, alle[E]luja.
+W:
+[a]Resurrexit, Resur[ES]rexit, Resur[F]rexit, Resur[E]rexit.
+[a]Gloria, [ES]Gloria, [F]Gloria, [E]Gloria.
+W:
+[a]Alleluja, alle[ES]luja, alle[F]luja, alle[E]luja.
+Allelu[a]ja.

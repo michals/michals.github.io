@@ -1,0 +1,73 @@
+===
+title: "Witaj, Królowo Niebios"
+subtitle: "Ave Regina Caelorum"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S110WitajKrolowoNiebios"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*MAR"
+    where: ""
+  - what: "*HYM"
+    where: ""
+knownas:
+  - "1965"
+  - "["
+  - "Rozraduj się, Dziewico Maryjo"
+index:
+  - "anioł"
+  - "brama"
+  - "Chrystus"
+  - "droga"
+  - "Dziewica"
+  - "korzeń"
+  - "Królowa"
+  - "światło"
+  - "Maryja"
+  - "najpiękniejszy"
+  - "niebiosa"
+  - "otworzyć"
+  - "Pani"
+  - "prosić"
+  - "rozradować"
+  - "służebnica"
+  - "wieczny"
+  - "witać"
+  - "wszyscy"
+footnote: "Ave Regina Cælorum, to starożytna antyfona maryjna, występująca w rękopisach od XII wieku, odmawiana w czasie Liturgii Godzin na zakończenie komplety. (przyp. red.)"
+===
+
+∼
+K:
+[a]Witaj, Królowo Niebios,
+o P[G]ani, Pani A[F]niołów.
+Witaj, Korzeniu;
+Witaj, [E]Bramo!
+[ES]Ty … Ty … Ty …
+otwarłaś drogę dla naszego [a]światła.
+
+W:
+[a]Rozraduj się, Dziewico Ma[E]ryjo,
+ze wszystkich najpięk[a]niejsza.
+{{{ 2x
+[d]Witaj, wieczna służe[a]bnico,
+proś Chry[E]stusa za [a]nami.
+}}}
+∼
+K:
+[a]I … [G]i … [F]i …
+Witaj, Korzeniu;
+Witaj, [E]Bramo!
+[ES]Ty … Ty … Ty …
+otwarłaś drogę dla naszego [a]światła.
+
+W:
+[a]Rozraduj się, Dziewico Ma[E]ryjo,
+ze wszystkich najpięk[a]niejsza.
+{{{ 2x
+[d]Witaj, wieczna służe[a]bnico,
+proś Chry[E]stusa za [a]nami.
+}}}

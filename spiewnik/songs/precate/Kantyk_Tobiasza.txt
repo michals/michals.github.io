@@ -1,0 +1,139 @@
+===
+title: "Kantyk Tobiasza"
+subtitle: "Jerozolima odbudowana"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S093BlogoslawDuszoMojaPana"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Tb"
+    where: "13, 9-18"
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*PAX"
+    where: ""
+alttone:
+  - "a"
+  - "e"
+knownas:
+  - "Błogosław duszo moja Pana"
+  - "1977"
+index:
+  - "alleluja"
+  - "błogosławić"
+  - "błogosławiony"
+  - "błyszczeć"
+  - "brama"
+  - "burzyć"
+  - "cenny"
+  - "cieszyć"
+  - "czysty"
+  - "dom"
+  - "dotrzeć"
+  - "dusza"
+  - "imię"
+  - "Jerozolima"
+  - "kamień"
+  - "Król"
+  - "kraniec"
+  - "śpiew"
+  - "śpiewać"
+  - "światło"
+  - "liczny"
+  - "lud"
+  - "mówić"
+  - "miejsce"
+  - "mieszkaniec"
+  - "miłować"
+  - "mury"
+  - "naród"
+  - "niszczyć"
+  - "nowy"
+  - "odbudować"
+  - "odbudowywać"
+  - "Ofir"
+  - "okrutny"
+  - "Pan"
+  - "plac"
+  - "pokój"
+  - "pokolenie"
+  - "przebywać"
+  - "przeklęty"
+  - "przyjść"
+  - "radość"
+  - "radować"
+  - "równać"
+  - "rubin"
+  - "słowa"
+  - "szafir"
+  - "szmaragd"
+  - "ulica"
+  - "wiele"
+  - "wielki"
+  - "wieża"
+  - "wszystek"
+  - "wybrany"
+  - "wznosić"
+  - "zabrzmieć"
+  - "zawsze"
+  - "ziemia"
+  - "złoto"
+footnote: "Błogosław duszo moja PanaBenedici anima mia il SignoreJerozolima odbudowana Błogosław duszo moja Pana (przyp. red.)"
+===
+
+K:
+[a]Błogosław duszo moja [G]Pana,
+błogosław duszo moja wielkiego [a]Króla,
+albowiem będzie odbudo[G]wana
+Jerozolima, Jerozo[a]lima.
+W:
+Jerozo[a]lima, Jerozo[G]lima,
+Jerozolima, Jerozo[a]lima,
+Jerozolima odbudo[G]wana,
+Jerozolima na [a]zawsze.
+K:
+Twoje bramy będą odbudo[G]wane
+z szafiru i ze szma[a]ragdu,
+z cennych kamieni twoje [G]mury,
+twoje wieże z czystego [a]złota.
+Twoje place błyszczą ru[G]binem,
+twe ulice złotem z O[a]firu,
+w twoich bramach będzie [G]radość,
+w twoich domach zabrzmi [a]śpiew:
+W:
+Jerozolima …
+K:
+[a]Twoje światło dotrze        aż do krańców [G]ziemi,
+przyjdą do ciebie liczne [a]ludy,
+mieszkańcy wielu na[G]rodów
+do miejsca, gdzie przebywa twe [a]imię.
+
+Pokolenia radować się [G]będą,
+wszystkie narody śpiewać ci [a]będą
+i w niej imię Twego Wybra[G]nego
+będzie na zawsze, będzie na [a]zawsze.
+W:
+Jerozolima …
+K:
+[a]Przeklęci, którzy mówią ci słowa ok[G]rutne;
+przeklęci, którzy cię [a]niszczą,
+którzy burzą twoje [G]mury
+i równają z ziemią twoje [a]wieże.
+Ale błogosła[G]wieni,
+błogosławieni na [a]zawsze
+ci, którzy cię odbudo[G]wują,
+ci, którzy cię wznoszą na [a]nowo,
+błogosławieni, którzy cię mi[G]łują,
+którzy cieszą się z twego po[a]koju.
+W:
+W twoich bramach będzie ra[G]dość,
+w twoich domach zabrzmi [a]śpiew.
+Jerozolima …
+W:
+[a]Alleluja, alle[G]luja, alleluja, alle[a]luja,
+alleluja, alle[G]luja, alleluja, alle[a]luja.

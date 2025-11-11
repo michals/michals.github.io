@@ -1,0 +1,82 @@
+===
+title: "O jak pięknie, ile radości"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S037OJakPieknieIleRadosci"
+author:
+  - "PM"
+year: 1992
+address:
+  - what: "Ps"
+    where: "133"
+  - what: "*PAX"
+    where: ""
+alttone:
+  - "a"
+  - "d"
+knownas:
+  - "Jak jest pięknie, ile radości"
+index:
+  - "Aaron"
+  - "błogosławić"
+  - "brat"
+  - "broda"
+  - "dawać"
+  - "góry"
+  - "głowa"
+  - "Hermon"
+  - "ile"
+  - "żyć"
+  - "życie"
+  - "olej"
+  - "Pan"
+  - "piękny"
+  - "płaszcz"
+  - "radość"
+  - "razem"
+  - "rosa"
+  - "skraj"
+  - "spadać"
+  - "spływać"
+  - "Syjon"
+  - "wiek"
+  - "wysoki"
+footnote: "„Zmartwychwstał Pan 2025” zmienił spływa→opada. W rytmie pieśni jest tutaj miejsce tylko na dwie sylaby, więc robimy spada, tym bardziej, że w Tysiąclatce jest jak rosa Hermonu, która spada na górę Syjon. Jeżeli ktoś ma potrzebę poprawiania, proponuję góry Syjonu→zbocza Syjonu, gdyż góra Syjon jest tylko jedna. (przyp. red.)"
+===
+
+W:
+[a]O jak [d]pięknie, [a]ile ra[E]dości,
+(G)
+[a]kiedy [d]bracia [a]ży[E]ją [a]razem!
+
+KW:
+[F]Jest to jak [G]olej, który [F]z głowy [G]spływa
+[F]aż na brodę Aa[E]rona.
+W:
+[a]O jak [d]pięknie, [a]ile ra[E]dości,
+(G)
+[a]kiedy [d]bracia [a]ży[E]ją [a]razem!
+
+KW:
+[F]Jest to jak [G]olej, który [F]z głowy [G]spływa
+[F]aż na skraj jego [E]płaszcza.
+W:
+[a]O jak [d]pięknie, [a]ile ra[E]dości,
+(G)
+[a]kiedy [d]bracia [a]ży[E]ją [a]razem!
+
+KW:
+[F]Jest to jak [G]rosa, co z Her[F]monu [G]spada
+[F]aż na góry Sy[E]jonu.
+W:
+[a]O jak [d]pięknie, [a]ile ra[E]dości,
+(G)
+[a]kiedy [d]bracia [a]ży[E]ją [a]razem!
+
+KW:
+[F]Tam błogo[G]sławi nam [F]Pan z wy[G]soka,
+[F]daje nam życie na [E]wieki.
+W:
+[a]O jak [d]pięknie, [a]ile ra[E]dości,
+[a]kiedy [d]bracia [a]ży[E]ją [a]razem!

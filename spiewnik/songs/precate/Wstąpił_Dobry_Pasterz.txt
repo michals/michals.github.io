@@ -1,0 +1,105 @@
+===
+title: "Wstąpił Dobry Pasterz"
+subtitle: "Hymn na Nieszpory Wniebowstąpienia Pańskiego"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S017WstapilDobryPasterz"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*OPA"
+    where: ""
+  - what: "*HYM"
+    where: ""
+  - what: "*BRE"
+    where: ""
+alttone:
+  - "c"
+knownas:
+  - "Nieszpory Wniebowstąpienia"
+  - "["
+  - "Jutrznia od Wniebowstąpienia"
+  - "Wniebowstąpienie"
+index:
+  - "amen"
+  - "apostoł"
+  - "Bóg"
+  - "blask"
+  - "boski"
+  - "chwała"
+  - "czuwać"
+  - "dar"
+  - "dobry"
+  - "Duch"
+  - "ewangelia"
+  - "herold"
+  - "jedyny"
+  - "krzyżmo"
+  - "świątynia"
+  - "światło"
+  - "święty"
+  - "źródło"
+  - "mądrość"
+  - "mały"
+  - "Maryja"
+  - "miłość"
+  - "namaszczać"
+  - "odsłonić"
+  - "Ojciec"
+  - "pasterz"
+  - "prawica"
+  - "proroczy"
+  - "przyjść"
+  - "serce"
+  - "spływać"
+  - "tajemnica"
+  - "trójca"
+  - "trzódka"
+  - "uczynić"
+  - "wieczernik"
+  - "wieczny"
+  - "wiekuisty"
+  - "wstąpić"
+footnote: "Jest to w brewiarzu włoskim Hymn na Nieszpory Wniebowstąpienia Pańskiego i na Jutrznię od Wniebowstąpienia do Zesłania Ducha Świętego. Hymn na Nieszpory Wniebowstąpienia PańskiegoInno dei Vespri del giorno dell’Ascensione e inno delle Lodi dall’Ascensione a Pentecoste Śpiewa się jak , str. . Hymn na WniebowstąpienieWstąpił Dobry PasterzTytuł włoski odstępuje od hiszpańskiego na rzecz pierwszego wersetu (przyp. red.)"
+===
+
+KW:
+[a]Wstąpił Dobry [G]Pasterz
+na prawicę [a]Ojca,
+czuwa mała [G]trzódka
+z Maryją w wieczer[a]niku.
+
+K:
+Z blasków wieku[G]istych
+spływa krzyżmo pro[a]rocze,
+namaszczając apos[G]tołów
+na heroldów Ewan[a]gelii.
+
+W:
+[a]Wstąpił Dobry [G]Pasterz
+na prawicę [a]Ojca,
+czuwa mała [G]trzódka
+z Maryją w wieczer[a]niku.
+
+K:
+Przyjdź, o Boski [G]Duchu
+ze świętymi da[a]rami
+i uczyń nasze [G]serca
+świątynią Twojej [a]chwały.
+
+W:
+[a]Wstąpił Dobry [G]Pasterz
+na prawicę [a]Ojca,
+czuwa mała [G]trzódka
+z Maryją w wieczer[a]niku.
+
+K:
+O światło wiekuistej mą[G]drości
+odsłoń nam tajem[a]nicę
+Boga w Trójcy jedy[G]nego,
+źródło wiecznej mi[a]łości.
+
+W:
+[G]Am[a]en.

@@ -1,0 +1,123 @@
+===
+title: "Hymn o miłości"
+section: "precate"
+color: "precate"
+tone: "C"
+songid: "S262HymnOMilosci"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "1 Kor"
+    where: "13, 1-7"
+  - what: "*KOM"
+    where: ""
+  - what: "*HYM"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*OPE"
+    where: ""
+alttone:
+  - "Cis"
+knownas:
+  - "1971"
+  - "Gdybym mówił językami aniołów"
+  - "Albowiem miłość"
+  - "Miłość"
+index:
+  - "anioł"
+  - "Bóg"
+  - "cały"
+  - "ciało"
+  - "cierpliwy"
+  - "cieszyć"
+  - "dar"
+  - "góry"
+  - "gdyby"
+  - "gniew"
+  - "godność"
+  - "iżby"
+  - "język"
+  - "korzyść"
+  - "majątek"
+  - "mówić"
+  - "miłość"
+  - "Miłość"
+  - "nic"
+  - "niesprawiedliwość"
+  - "pamiętać"
+  - "pełny"
+  - "poklask"
+  - "prawda"
+  - "prorokować"
+  - "przenosić"
+  - "przetrzymać"
+  - "pycha"
+  - "radować"
+  - "rozdać"
+  - "spalić"
+  - "szukać"
+  - "tajemnica"
+  - "taki"
+  - "ubogi"
+  - "ufać"
+  - "unosić"
+  - "usłużny"
+  - "wiara"
+  - "wierzyć"
+  - "własny"
+  - "wszystek"
+  - "wszystko"
+  - "wybaczać"
+  - "wystawić"
+  - "zawiść"
+  - "złe"
+  - "znać"
+footnote: "Za „Zmartwychwstał Pan 2025”: chętna do usług→jest usłużna, jest Bogiem→to Bóg. (przyp. red.)"
+===
+
+K:
+[C]Gdybym mówił językami aniołów,
+[a]a miłości bym [F]nie miał:
+[G]jestem niczym!
+[C]Gdybym miał dar prorokowania
+i znał wszystkie tajem[a]nice,
+[C]gdybym miał taką wiarę,
+iżbym góry przenosił,[a]
+a miłości bym [F]nie miał:
+[G]jestem niczym!
+[C]Gdybym cały mój majątek rozdał ubogim,
+a ciało wystawił na spa[a]lenie,
+lecz miłości bym [F]nie miał:
+[G]jestem niczym!
+W:
+Albowiem [C]Miłość,
+M[a]iłość,
+M[C]iłość
+jest cierpliwa,
+jest usłużna,
+nie zna za[a]wiści,
+
+nie szuka pok[C]lasku,
+nie unosi się pychą,
+pełna god[a]ności:
+nie szuka własnej ko[F]rzyści,
+nie unosi się [G]gniewem,
+nie pamięta [C]złego,
+nie pamięta [a]złego,
+nie cieszy się z niesprawiedli[F]wości,
+lecz raduje się p[G]rawdą.
+{{{ 2x
+Wszystkiemu [C]wierzy,
+wszystkiemu [a]ufa,
+[C]wszystko wybacza,
+przetrzyma wszystko,
+przetrzyma wszystko.
+}}}
+Albowiem Miłość,
+M[a]iłość
+al[C]bowiem Miłość
+to Bóg,
+to Bóg,
+to Bóg!

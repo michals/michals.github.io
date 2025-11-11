@@ -1,0 +1,97 @@
+===
+title: "Pan potężny ogłasza dobrą nowinę"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S102PanPoteznyOglaszaDobraNowine"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "68, 12-16.33.34"
+  - what: "*WEJ"
+    where: ""
+knownas:
+  - "A piękna pani domu rozdziela zdobycze"
+  - "1981"
+index:
+  - "cienisty"
+  - "dobry"
+  - "dom"
+  - "góra"
+  - "głos"
+  - "gołębica"
+  - "grzmieć"
+  - "hymn"
+  - "król"
+  - "śnieg"
+  - "śpiewać"
+  - "niebiosa"
+  - "nieprzyjaciel"
+  - "niezmierzony"
+  - "nowina"
+  - "odblaski"
+  - "odwieczny"
+  - "ogłaszać"
+  - "owca"
+  - "Pan"
+  - "pani"
+  - "pióra"
+  - "piękny"
+  - "podczas"
+  - "pokrywać"
+  - "pomiędzy"
+  - "potężny"
+  - "przemierzać"
+  - "rozdzielać"
+  - "skrzydło"
+  - "spać"
+  - "spadać"
+  - "srebro"
+  - "uciekać"
+  - "wraz"
+  - "zagroda"
+  - "zastęp"
+  - "zdobycze"
+  - "złoto"
+  - "zwiastun"
+footnote: "Na melodię tego psalmu śpiewana jest także Konsekracja i Aklamacja Drugiej Modlitwy Eucharystycznej w wersji 1987, str. , oraz Psalmodia Jutrzni, str. nr 6. (przyp. red.)"
+===
+
+KW:
+[G]Pan potężny ogłasza dobrą no[e]winę,
+[a]zwiastunów niezmie[e]rzone zastępy;
+[a]królowie nieprzyjaciół [e]uciekają, uciekają,
+a [G]piękna pani domu roz[h]dziela zdo[e]bycze.
+
+K:
+[G]Podczas gdy wy śpicie,
+[h]pomiędzy zagrodami owiec
+pokry[a]wają się srebrem
+skrzydła gołę[e]bicy,
+a jej [G]pióra [h]odblaskami [e]złota.
+[G]A wraz z nią spada śnieg
+na [h]górę,
+na [A]górę cie[e]nistą.
+
+W:
+[G]Pan potężny ogłasza dobrą no[e]winę,
+[a]zwiastunów niezmie[e]rzone zastępy;
+[a]królowie nieprzyjaciół [e]uciekają, uciekają,
+a [G]piękna pani domu roz[h]dziela zdo[e]bycze.
+
+K:
+[G]Śpiewajcie Panu, śpiewajcie,
+[h]hymny śpiewajcie;
+[a]Pan przemierza niebiosa,
+niebiosa od[e]wieczne.
+[G]Oto grzmi Jego głos,
+Jego [h]głos,
+Jego [A]głos po[e]tężny.
+
+W:
+[G]Pan potężny ogłasza dobrą no[e]winę,
+[a]zwiastunów niezmie[e]rzone zastępy;
+[a]królowie nieprzyjaciół [e]uciekają, uciekają,
+a [G]piękna pani domu roz[h]dziela zdo[e]bycze.

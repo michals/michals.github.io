@@ -1,0 +1,92 @@
+===
+title: "Szlom lech Mariám"
+subtitle: "Zdrowaś Mario w starożytnym aramejskim"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S133SzlomLechMariam"
+author:
+  - "K"
+year: 1999
+address:
+  - what: "Łk"
+    where: "1, 28nn"
+  - what: "*MAR"
+    where: ""
+knownas:
+  - "Święta, święta Maryjo"
+  - "Ave Maria III (1997)"
+  - "1997"
+index:
+  - "Bóg"
+  - "błogosławiona"
+  - "błogosławiony"
+  - "dopomóc"
+  - "Dziewica"
+  - "grzesznik"
+  - "Jezus"
+  - "łaska"
+  - "łono"
+  - "święta"
+  - "lech"
+  - "Mariám"
+  - "Maryja"
+  - "matka"
+  - "między"
+  - "modlić"
+  - "niewiasta"
+  - "owoc"
+  - "Pan"
+  - "pełny"
+  - "płakać"
+  - "Słowo"
+  - "szlom"
+  - "wypełniać"
+  - "zdrowaś"
+footnote: "Wymowa tej modlitwy w języku aramejskim wydaje się być nieco inna, tak przy słowach tai buta→tai boto, Maran→Moran, jak i przy akcentowaniu, np. imienia Máriam. (przyp. red.)"
+===
+
+KW:
+[e]Szlom [HS]lech Ma[e]riám
+Maliat [HS]tai bu[e]ta
+Ma[C]rán, Marán a[HS]méch
+Ma[C]rán, Marán a[HS]méch.
+
+K:
+[e]Zdrowaś Maryjo
+Pełna łaski
+[C]Pan, Pan jest [HS]z Tobą.
+Błogosła[C]wionaś Ty między niewias[HS]tami
+[C]i błogosławiony [a]owoc łona Twego, Je[HS]zus.
+{{{ 2x
+W:
+[e]Święta, święta Maryjo
+Matko, Matko Boga,
+[C]módl się, módl się za [HS]nami,
+bo jes[C]teśmy, bo jesteśmy grzeszni[HS]kami.
+}}}
+
+K:
+[a]Maryjo, nie [HS]płacz,
+∼
+[a]Maryjo, Maryjo, Maryjo. [HS]
+{{{ 2x
+W:
+[e]Święta, święta Maryjo
+Matko, Matko Boga,
+[C]módl się, módl się za [HS]nami,
+bo jes[C]teśmy, bo jesteśmy grzeszni[HS]kami.
+}}}
+
+K:
+[G]Maryjo, do[HS]pomóż nam,
+Ma[a]ryjo, do[HS]pomóż nam,
+[a]Dziewico Maryjo, do[HS]pomóż nam,
+∼
+[a]Dziewico Maryjo,
+niech wypełnia się w nas Jego [HS]Słowo.
+W:
+[e]Szlom [HS]lech Ma[e]riám
+Maliat [HS]tai bu[e]ta
+Ma[C]rán, Marán a[HS]méch
+Ma[C]rán, Marán a[HS]méch.

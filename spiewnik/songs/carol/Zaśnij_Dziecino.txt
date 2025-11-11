@@ -1,0 +1,64 @@
+===
+title: "Zaśnij, Dziecino"
+section: "carol"
+color: "carol"
+tone: "a"
+songid: "S721ZasnijDziecino"
+author:
+  - "FR"
+  - "AU"
+year: 1903
+address:
+  - what: "Łk"
+    where: "2, 16"
+  - what: "*KOL"
+    where: ""
+  - what: "*DZI"
+    where: ""
+children: true
+index:
+  - "anielski"
+  - "błogosławić"
+  - "cały"
+  - "chór"
+  - "chwała"
+  - "dar"
+  - "Dziecię"
+  - "Dziecina"
+  - "głosić"
+  - "hojny"
+  - "świat"
+  - "święty"
+  - "życie"
+  - "modlitwa"
+  - "oczęta"
+  - "oddać"
+  - "pasterz"
+  - "pociecha"
+  - "rączka"
+  - "serce"
+  - "uśpić"
+  - "wznieść"
+  - "zasnąć"
+  - "zmrużyć"
+  - "znosić"
+footnote: "W rytmie wolnego walca. Kolędę stworzył w 1903 roku Antoni Sas-Uruski (1872-1934), kompozytor, nauczyciel muzyki i śpiewu w seminariach nauczycielskich w Krośnie, Lwowie, Rzeszowie, Stanisławowie i Czortkowie, pianista i kompozytor, twórca głębokich utworów religijnych. Melodia nawiązuje do mazurków Szopena, którego muzyki był miłośnikiem. Tekst napisał Franciszek Ryling, skrzypek, dyrygent, pedagog i kompozytor, także rodem ze Lwowa."
+===
+
+[a]Zaśnij, Dziecino, [d]Święte Dzie[ES]cię.
+[a]Tyś nam po[F]ciechą [G]na tym świe[C]cie.
+
+[G]Zmruż oczęta [C]swoje [ES]tyś serce [a]moje
+[d]Modlitwa [a]moja niech [ES]uśpi [a]Cię.
+
+[a]Wznieś rączkę swoją [d]błogosław [ES]nam.
+[a]Całe swe [F]życie [G]Tobie od[C]dam.
+
+[G]Zmruż oczęta [C]swoje [ES]tyś serce [a]moje
+[d]Modlitwa [a]moja niech [ES]uśpi [a]Cię.
+
+[a]Anielskie chóry [d]chwałę gło[ES]szą,
+[a]Pasterze [F]hojnie [G]dary zno[C]szą.
+
+[G]Zmruż oczęta [C]swoje [ES]tyś serce [a]moje
+[d]Modlitwa [a]moja niech [ES]uśpi [a]Cię.

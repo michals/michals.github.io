@@ -1,0 +1,135 @@
+===
+title: "Anioł pasterzom mówił"
+section: "carol"
+color: "carol"
+tone: "D"
+songid: "S712AniolPasterzomMowil"
+author:
+  - "tr"
+year: 1551
+address:
+  - what: "Lb"
+    where: "17, 23"
+  - what: "Mt"
+    where: "17, 5"
+  - what: "Łk"
+    where: "2, 9-11.16"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+alttone:
+  - "F"
+index:
+  - "Aaron"
+  - "anioł"
+  - "Bóg"
+  - "bardzo"
+  - "Betlejem"
+  - "bieżeć"
+  - "całość"
+  - "chcieć"
+  - "Chrystus"
+  - "chwała"
+  - "cześć"
+  - "czystość"
+  - "dowiedzieć"
+  - "Duch"
+  - "Dziecię"
+  - "dziwny"
+  - "figura"
+  - "jako"
+  - "Józef"
+  - "jedyny"
+  - "kosztowny"
+  - "kwitnąć"
+  - "święty"
+  - "żaden"
+  - "żłób"
+  - "mówić"
+  - "Maryja"
+  - "miasto"
+  - "najmilszy"
+  - "narodzić"
+  - "nigdy"
+  - "obiecać"
+  - "Ojciec"
+  - "On"
+  - "owoc"
+  - "pałac"
+  - "Pan"
+  - "panieństwo"
+  - "Panna"
+  - "pasterz"
+  - "począć"
+  - "podły"
+  - "porodzić"
+  - "poselstwo"
+  - "raj"
+  - "różdżka"
+  - "rodząca"
+  - "skwapliwy"
+  - "słuchać"
+  - "spełnić"
+  - "stać"
+  - "stworzenie"
+  - "Syn"
+  - "tak"
+  - "taki"
+  - "trójca"
+  - "ubóstwo"
+  - "uniżyć"
+  - "ustać"
+  - "wesoły"
+  - "wielki"
+  - "wszego"
+  - "wysłowić"
+  - "wysoki"
+  - "zalecać"
+  - "zbudować"
+  - "zielony"
+  - "znaleźć"
+footnote: "Kolęda polska. Słowa pochodzą z XVI wieku, są przekładem fragmentu łacińskiego utworu średniowiecznego na Boże Narodzenie Dies est laetitiae (Angelus pastoribus) (z dokładnością do rozdrobnienia na szóstej zgłosce drugiego wersetu). W Rękopisie kórnickim (1551-1555) znajduje się siedem zwrotek bez zapisu melodii. Melodia zachowała się w tabulaturze organowej z II połowy XVII wieku. Dokładny zapis nutowy zamieścił dopiero Mioduszewski w swoim zbiorze Śpiewnik kościelny, czyli pieśni nabożne z melodyjami w Kościele katolickim używane z 1838 roku."
+===
+
+[D]Anioł [A]paste[D]rzom [AS]mów[h]ił:
+[D]Chrystus [G]się wam [A]na[E]ro[A]dził
+[D]W Betle[G]jem [D]nie bar[e]dzo pod[D]łym mieś[A]cie.
+[D]Naro[e]dził się w [D]ubóst[A]wie
+[D]Pan [h]wsze[G]go st[A]worze[D]nia.
+
+Chcąc się dowiedzieć tego
+poselstwa wesołego,
+bieżeli do Betlejem skwapliwie.
+Znaleźli Dziecię w żłobie,
+Maryję z Józefem.
+
+Taki Pan chwały wielkiej,
+uniżył się Wysoki,
+pałacu kosztownego żadnego
+nie miał zbudowanego
+Pan wszego stworzenia.
+
+O dziwne narodzenie,
+nigdy nie wysłowione!
+Poczęła Panna Syna w czystości,
+porodziła w całości
+Panieństwa swojego.
+
+Już się ono spełniło,
+co pod figurą było:
+Arona różdżka ona zielona
+stała się nam kwitnąca
+i owoc rodząca.
+
+Słuchajcież Boga Ojca,
+jako wam Go zaleca:
+Ten ci jest Syn najmilszy, jedyny,
+w raju wam obiecany,
+Tego wy słuchajcie.
+
+Bogu bądź cześć i chwała,
+która by nie ustała,
+Jak Ojcu, tak i Jego Synowi,
+i Świętemu Duchowi,
+w Trójcy jedynemu.

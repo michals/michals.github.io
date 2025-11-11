@@ -1,0 +1,13 @@
+===
+title: Wszystkie akordy
+===
+
+KW:
+Krótka linia
+Ak[C]ord_C Ak[Cis]ord_Cis Ak[D]ord_D Ak[Dis]ord_Dis Ak[E]ord_E Ak[F]ord_F Ak[Fis]ord_Fis Ak[G]ord_G Ak[Gis]ord_Gis Ak[A]ord_A Ak[B]ord_B Ak[H]ord_H
+Ak[c]ord_c Ak[cis]ord_cis Ak[d]ord_d Ak[dis]ord_dis Ak[e]ord_e Ak[f]ord_f Ak[fis]ord_fis Ak[g]ord_g Ak[gis]ord_gis Ak[a]ord_a Ak[b]ord_b Ak[h]ord_h
+
+P:
+Nowy akapit
+Z kilkoma liniami
+Trzecia liniami

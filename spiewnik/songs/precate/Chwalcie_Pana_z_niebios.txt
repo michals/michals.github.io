@@ -1,0 +1,218 @@
+===
+title: "Chwalcie Pana z niebios"
+section: "precate"
+color: "precate"
+tone: "C"
+songid: "S042ChwalciePanaZniebios"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "148"
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "1967"
+index:
+  - "anioł"
+  - "błyszczący"
+  - "bydło"
+  - "cedr"
+  - "chwała"
+  - "chwalić"
+  - "drzewo"
+  - "dziecko"
+  - "dziewczę"
+  - "dziki"
+  - "góry"
+  - "grad"
+  - "gwałtowny"
+  - "gwiazda"
+  - "huragan"
+  - "imię"
+  - "Izrael"
+  - "jaśnieć"
+  - "król"
+  - "księżyc"
+  - "śnieg"
+  - "lud"
+  - "mgła"
+  - "miłować"
+  - "młodzieniec"
+  - "moc"
+  - "morski"
+  - "nadać"
+  - "najwyższy"
+  - "naród"
+  - "niebiosa"
+  - "niebo"
+  - "ogień"
+  - "On"
+  - "otchłanie"
+  - "owoce"
+  - "pagórek"
+  - "Pan"
+  - "pełnić"
+  - "pełzać"
+  - "pieśń"
+  - "pochwalny"
+  - "pomnażać"
+  - "ponad"
+  - "potwór"
+  - "powiedzieć"
+  - "prawo"
+  - "przemijać"
+  - "ptactwo"
+  - "razem"
+  - "rodząca"
+  - "sędzia"
+  - "skrzydlaty"
+  - "słońce"
+  - "Słowo"
+  - "starzec"
+  - "stworzyć"
+  - "syn"
+  - "utwierdzić"
+  - "uwielbiać"
+  - "wiek"
+  - "wierny"
+  - "władca"
+  - "woda"
+  - "wszelaki"
+  - "wszelki"
+  - "wszyscy"
+  - "wszystek"
+  - "wychwalać"
+  - "wysokość"
+  - "wzniosły"
+  - "zastęp"
+  - "zawsze"
+  - "ziemia"
+  - "ziemski"
+  - "zostać"
+  - "zwierzę"
+footnote: "Zmianę to, co pełza po ziemi→gady „Zmartwychwstał Pan 2025” wycofał. (przyp. red.)"
+===
+
+K:
+=[C]Chwalcie Pana z niebios:
+W:
+Chwalcie Go!
+K:
+Chwalcie Go na wysokości [a]nieba:
+W:
+Uwielbiajcie Go!
+K:
+[C]Chwalcie Go wszyscy Jego Aniołowie,
+W:
+Chwalcie Go!
+K:
+chwalcie Go wszystkie Jego za[a]stępy.
+W:
+Uwielbiajcie Go!
+K:
+[C]Chwalcie Go słońce i księżycu,
+W:
+Chwalcie Go!
+K:
+chwalcie Go wszystkie gwiazdy błysz[a]czące.
+W:
+Uwielbiajcie Go!
+K:
+[C]Chwalcie Go nieba najwyższe
+W:
+Chwalcie Go!
+K:
+i wody ponad nie[a]bami.
+W:
+Uwielbiajcie Go!
+K:
+[C]Niech wszyscy imię Pana wychwalają,
+W:
+Chwalcie Go!
+K:
+On bowiem powiedział i zostały stwo[a]rzone.
+W:
+Uwielbiajcie Go!
+K:
+[C]Utwierdził je na zawsze, na wieki,
+W:
+Chwalcie Go!
+K:
+nadał im prawo, które nie prze[a]mija.
+W:
+Uwielbiajcie Go!
+K:
+[C]Chwalcie Pana z ziemi,
+W:
+Chwalcie Go!
+K:
+potwory morskie i wszystkie ot[a]chłanie.
+W:
+Uwielbiajcie Go!
+K:
+[C]Ogniu i gradzie, śniegu i mgło,
+W:
+Chwalcie Go!
+
+K:
+gwałtowny huraganie, co pełnisz Jego [a]Słowo.
+W:
+Uwielbiajcie Go!
+K:
+[C]Góry i wszelkie pagórki,
+W:
+Chwalcie Go!
+K:
+drzewa rodzące owoce i wszystkie [a]cedry.
+W:
+Uwielbiajcie Go!
+K:
+[C]Dzikie zwierzęta i bydło wszelakie,
+W:
+Chwalcie Go!
+K:
+to, co pełza po ziemi i ptactwo skrzy[a]dlate.
+W:
+Uwielbiajcie Go!
+K:
+[C]Królowie ziemscy i wszystkie narody,
+W:
+Chwalcie Go!
+K:
+władcy i sędziowie na [a]ziemi.
+W:
+Uwielbiajcie Go!
+K:
+[C]Młodzieńcy i dziewczęta,
+W:
+Chwalcie Go!
+K:
+starcy razem [a]z dziećmi.
+W:
+Uwielbiajcie Go!
+K:
+[C]Chwalcie imię Pana,
+W:
+Chwalcie Go!
+K:
+bo tylko Jego imię jest [a]wzniosłe.
+W:
+Uwielbiajcie Go!
+K:
+[C]Jego chwała jaśnieje na ziemi i w niebie.
+W:
+Chwalcie Go!
+K:
+On pomnaża moc swojego [a]ludu.
+W:
+Uwielbiajcie Go!
+K:
+[C]Jest to pieśń pochwalna dla wszystkich Jego wiernych,
+W:
+Chwalcie Go!
+K:
+dla synów Izraela, ludu, który On mi[a]łuje.
+W:
+Uwielbiajcie Go!

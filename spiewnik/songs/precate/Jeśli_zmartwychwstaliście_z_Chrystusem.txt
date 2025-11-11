@@ -1,0 +1,96 @@
+===
+title: "Jeśli zmartwychwstaliście z Chrystusem"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S297JesliZmartwychwstaliscieZChrystusem"
+author:
+  - "K"
+year: 2012
+address:
+  - what: "Kol"
+    where: "3, 1-4"
+  - what: "*OPA"
+    where: ""
+alttone:
+  - "fis"
+knownas:
+  - "Dążcie do tego, co w niebie"
+  - "Gdy się ukaże Chrystus"
+  - "2005"
+index:
+  - "Bóg"
+  - "Chrystus"
+  - "chwała"
+  - "dążyć"
+  - "góra"
+  - "życie"
+  - "niebo"
+  - "On"
+  - "prawica"
+  - "przebywać"
+  - "razem"
+  - "siedzieć"
+  - "szukać"
+  - "ukazać"
+  - "ukryć"
+  - "umarły"
+  - "wtedy"
+  - "ziemia"
+  - "zmartwychwstać"
+footnote: "Akordy poprawione za nagraniami autorskimi i śpiewnikiem hiszpańskim, z alternatywnymi akordami włoskimi, bowiem W „Risuscitò” i w „Zmartwychwstał Pan” akordy są inne. Z kolei w „Resucitó 2023” scenariusz jest nieco inny, a tekst jest śpiewany dwukrotnie. (przyp. red.)"
+===
+
+H7/a
+KW:
+[e]Jeśli zmartwychwstaliście z Chrystusem
+szukajcie tego, co [e]w górze
+D/a              C/H7
+KW:
+gdzie przebywa Chrystus.
+KW:
+[C]Gdzie przebywa Chrystus,
+siedzący po prawicy [HS]Boga.
+
+H7/a
+KW:
+[e]Dążcie do tego, co w niebie,
+nie do tego, co na [e]ziemi.
+D/a            C/H7
+K:
+Wy jesteście umarli,
+a/C
+[C]wy jesteście umarli, i wasze życie
+jest ukryte z Chrystusem [HS]w Bogu.
+
+{{{ 2x
+H7/a
+W:
+[e]Jeśli zmartwychwstaliście z Chrystusem
+szukajcie tego, co [e]w górze.
+}}}
+D/a              C/H7
+K:
+gdzie przebywa Chrystus.
+KW:
+[C]Gdzie przebywa Chrystus,
+siedzący po prawicy [HS]Boga.
+
+∼       H7/a
+K:
+[a]Gdy się ukaże Chrystus, [a]wasze [HS]życie,
+C/a
+wtedy i wy, razem z Nim
+ukażecie się [HS]w chwale.
+{{{ 2x
+H7/a
+W:
+[e]Jeśli zmartwychwstaliście z Chrystusem
+szukajcie tego, co [e]w górze.
+}}}
+D/a              C/H7
+K:
+gdzie przebywa Chrystus.
+KW:
+[C]Gdzie przebywa Chrystus,
+siedzący po prawicy [HS]Boga.

@@ -1,0 +1,137 @@
+===
+title: "Posłuchajcie, wyspy dalekie"
+subtitle: "II pieśń Sługi Jahwe"
+section: "precate"
+color: "precate"
+tone: "D"
+songid: "S203KrolowieCieUjrza"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "Iz"
+    where: "49, 1-16"
+  - what: "*OBN"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+  - what: "*KOM"
+    where: ""
+knownas:
+  - "Królowie Cię ujrzą"
+  - "Pieśń Sługi Jahwe II"
+yhwh: true
+index:
+  - "cały"
+  - "choćby"
+  - "daleki"
+  - "dłoń"
+  - "dziecko"
+  - "dzień"
+  - "Izrael"
+  - "Jahwe"
+  - "jaki"
+  - "kochać"
+  - "król"
+  - "książę"
+  - "łaska"
+  - "śmierć"
+  - "święty"
+  - "życie"
+  - "źródło"
+  - "lud"
+  - "mówić"
+  - "matka"
+  - "naród"
+  - "niemowlę"
+  - "niewidomy"
+  - "opuścić"
+  - "Pan"
+  - "panujący"
+  - "popatrzeć"
+  - "poprowadzić"
+  - "posłuchać"
+  - "powiedzieć"
+  - "przejrzeć"
+  - "przestać"
+  - "przymierze"
+  - "rodzony"
+  - "sługa"
+  - "sponiewierać"
+  - "stanąć"
+  - "Syjon"
+  - "twarz"
+  - "uczynić"
+  - "ujrzeć"
+  - "upaść"
+  - "uwięzić"
+  - "wspomóc"
+  - "wszystek"
+  - "wybrać"
+  - "wychodzić"
+  - "wypisać"
+  - "wysłuchać"
+  - "wyspa"
+  - "wzgarda"
+  - "zapomnieć"
+  - "zdumiony"
+  - "ziemia"
+footnote: "Posłuchajcie wyspy dalekieKrólowie Cię ujrząWłoski pochodzi od początku refrenu, a hiszpański od początku pieśni (przyp. red.)"
+===
+
+K:
+[AS]Posłuchajcie, wyspy dalekie, narody wszystkie,
+tak mówi Pan, Święty Izraela:
+„[D]Do tego, kto ma życie sponiewierane
+[fis]i jest wzgardą [G]ludów, do sługi panu[Fis]jących”.
+{{{ 2x
+W:
+[D]Królowie Cię ujrzą, staną zdumieni,
+[fis]książęta całej ziemi
+na twarz u[G]padną,
+bo Ja Cię wybrałem, Ja Cię wyb[Fis]rałem.
+}}}
+
+K:
+[D]W dzień łaski wysłucham Ciebie,
+w dzień [fis]śmierci wspomogę [G]Ciebie,
+bo uczyniłem Cię przymierzem dla na[Fis]rodów.
+{{{ 2x
+W:
+[D]Królowie Cię ujrzą, staną zdumieni,
+[fis]książęta całej ziemi
+na twarz u[G]padną,
+bo Ja Cię wybrałem, Ja Cię wyb[Fis]rałem.
+}}}
+
+K:
+[D]Powiesz uwięzionym: Wychodźcie!
+[fis]powiesz niewidomym: Przej[G]rzyjcie!
+Poprowadzisz ludy do źródeł [Fis]życia.
+{{{ 2x
+W:
+[D]Królowie Cię ujrzą, staną zdumieni,
+[fis]książęta całej ziemi
+na twarz u[G]padną,
+bo Ja Cię wybrałem, Ja Cię wyb[Fis]rałem.
+}}}
+
+K:
+[h]Lecz Syjon mówi: „[e]Jahwe mnie o[h]puścił
+[e]Jahwe zapomniał [h]o mnie”.
+[G]Czyż zapomni matka o swym niemow[Fis]lęciu?
+[G]Czyż matka przestanie kochać rodzone [Fis]dziecko?
+(f♯)
+W:
+„[D]Choćby jakaś matka zapomniała o swym [G]dziecku,
+Ja nie zapomnę [Fis]Ciebie.
+{{{ 2x
+[G]Popatrz, na moich dłoniach mam cię wypi[Fis]saną.
+}}}
+{{{ 2x
+W:
+[D]Królowie Cię ujrzą, staną zdumieni,
+[fis]książęta całej ziemi
+na twarz u[G]padną,
+bo Ja Cię wybrałem, Ja Cię wyb[Fis]rałem.
+}}}

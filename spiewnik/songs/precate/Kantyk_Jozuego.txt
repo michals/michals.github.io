@@ -1,0 +1,109 @@
+===
+title: "Kantyk Jozuego"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S034KantykJozuego"
+author:
+  - "AV"
+year: 1992
+address:
+  - what: "Joz"
+    where: "24, 2-18"
+knownas:
+  - "Śpiew Jozuego"
+  - "Dalekie to jest od nas"
+  - "Po tamtej stronie rzeki"
+index:
+  - "Bóg"
+  - "budować"
+  - "cud"
+  - "dać"
+  - "daleki"
+  - "dokonać"
+  - "drugi"
+  - "egipski"
+  - "góry"
+  - "karmić"
+  - "żywy"
+  - "manna"
+  - "miasto"
+  - "morze"
+  - "naród"
+  - "niewolnik"
+  - "ojciec"
+  - "oko"
+  - "opuścić"
+  - "orzeł"
+  - "otworzyć"
+  - "piękny"
+  - "płodny"
+  - "potężny"
+  - "potomstwo"
+  - "przenieść"
+  - "przeogromny"
+  - "pustynia"
+  - "ramię"
+  - "rok"
+  - "rozmnożyć"
+  - "rzeka"
+  - "sadzić"
+  - "sitowie"
+  - "skrzydło"
+  - "starzec"
+  - "strona"
+  - "studnia"
+  - "tamten"
+  - "tryskać"
+  - "winnica"
+  - "woda"
+  - "wybrać"
+  - "wywieść"
+  - "zdumiony"
+  - "ziemia"
+footnote: "Zmiana Morze Czerwone→Morze Sitowia za „Zmartwychwstał Pan 2025”, a ten za „Risuscitò 2023”. (przyp. red.)"
+===
+
+K:
+[e]Po tamtej stronie [D]rzeki
+wy[e]brałem waszych [D]ojców
+i [C]z niepłodnego [D]starca
+rozmnożyłem po[HS]tomstwo.
+W:
+Da[E]lekie to jest [gis]od nas,
+by o[Cis]puścić naszego [fis]Boga,
+który do[A]konał przeogromnych [E]cudów
+na [HS]naszych zdumionych [E]oczach.
+
+K:
+[e]Naród niewol[D]ników
+wy[e]wiodłem z egipskiej [D]ziemi,
+a ra[C]mieniem po[D]tężnym
+otworzyłem Morze Si[HS]towia.
+W:
+Da[E]lekie to jest [gis]od nas,
+by o[Cis]puścić naszego [fis]Boga,
+który do[A]konał przeogromnych [E]cudów
+na [HS]naszych zdumionych [E]oczach.
+
+K:
+La[e]tami na pu[D]styni
+kar[e]miłem was [D]manną,
+a [C]na skrzydłach [D]orła
+przeniosłem was na drugą stronę [HS]gór.
+W:
+Da[E]lekie to jest [gis]od nas,
+by o[Cis]puścić naszego [fis]Boga,
+który do[A]konał przeogromnych [E]cudów
+na [HS]naszych zdumionych [E]oczach.
+
+K:
+I [e]dałem wam piękną [D]ziemię,
+[e]miasta nie budowane [D]przez was,
+win[C]nice przez was nie sa[D]dzone,
+studnie tryskające wodą [HS]żywą.
+W:
+Da[E]lekie to jest [gis]od nas,
+by o[Cis]puścić naszego [fis]Boga,
+który do[A]konał przeogromnych [E]cudów
+na [HS]naszych zdumionych [E]oczach.

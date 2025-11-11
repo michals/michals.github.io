@@ -1,0 +1,107 @@
+===
+title: "Rzekł Pan do Pana mego"
+section: "precate"
+color: "precate"
+tone: "E"
+songid: "S115RzeklPanDoPanaMego"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "110"
+  - what: "*OPA"
+    where: ""
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "1987"
+index:
+  - "berło"
+  - "droga"
+  - "głowa"
+  - "jako"
+  - "jutrzenka"
+  - "kapłan"
+  - "łono"
+  - "żal"
+  - "Melchizedek"
+  - "naród"
+  - "nieprzyjaciel"
+  - "Pan"
+  - "panować"
+  - "podnóżek"
+  - "podnieść"
+  - "położyć"
+  - "pośród"
+  - "potok"
+  - "pragnienie"
+  - "prawica"
+  - "przysiąc"
+  - "rosa"
+  - "rozpościerać"
+  - "rzec"
+  - "sądzić"
+  - "siąść"
+  - "stopa"
+  - "Syjon"
+  - "ugasić"
+  - "wiek"
+  - "władza"
+  - "woda"
+  - "wróg"
+  - "wszystek"
+  - "wysoki"
+  - "wzór"
+  - "zniweczyć"
+  - "zrodzić"
+footnote: "Za „Zmartwychwstał Pan 2025”: Bowiem Pan. (przyp. red.)"
+===
+
+KW:
+[E]Rzekł Pan do Pana mego:
+„[Gis]Siądź po mojej prawicy,
+aż po[A]łożę twych nieprzyjaciół
+[E]jak podnóżek pod twe stopy,
+[HS]jak podnóżek pod twe [E]stopy,
+[HS]jak podnóżek pod twe [E]stopy”.
+
+K:
+[cis]Berło Twojej [Gis]władzy
+[H]rozpościera Pan z Sy[Gis]jonu:
+„[A]Panuj pośród swoich w[E]rogów,
+[HS]panuj pośród swoich w[E]rogów.
+[cis]Z łona jut[Gis]rzenki
+[H]jako rosę cię zro[Gis]dziłem,
+[A]z łona jut[E]rzenki
+[HS]jako rosę cię zro[E]dziłem”.
+
+W:
+[E]Rzekł Pan do Pana mego:
+„[Gis]Siądź po mojej prawicy,
+aż [A]położę twych nieprzyjaciół
+[E]jak podnóżek pod twe stopy,
+[HS]jak podnóżek pod twe [E]stopy,
+[HS]jak podnóżek pod twe [E]stopy”.
+
+K:
+[cis]Pan przysiągł i żal mu nie [Gis]będzie:
+„[A]Tyś jest kapłanem na [E]wieki
+[HS]na wzór Melchize[E]deka,
+[HS]na wzór Melchize[E]deka.
+[cis]Pan jest po Twojej pra[Gis]wicy,
+[H]zniweczy wszystkich Twoich [Gis]wrogów,
+[A]będzie sądził na[E]rody,
+[HS]będzie sądził na[E]rody.
+[cis]Bowiem w drodze ugasi pragnienie wodą z po[Gis]toku
+[H]i podniesie głowę wy[Gis]soko,
+[A]i podniesie głowę wy[E]soko,
+[HS]i podniesie głowę wy[E]soko.
+
+W:
+[E]Rzekł Pan do Pana mego:
+„[Gis]Siądź po mojej prawicy,
+aż po[A]łożę twych nieprzyjaciół
+[E]jak podnóżek pod twe stopy,
+[HS]jak podnóżek pod twe [E]stopy,
+[HS]jak podnóżek pod twe [E]stopy”.

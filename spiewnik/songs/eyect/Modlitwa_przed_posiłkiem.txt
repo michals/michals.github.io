@@ -1,0 +1,98 @@
+===
+title: "Modlitwa przed posiłkiem"
+subtitle: "Ty jesteś chlebem ubogich"
+section: "eyect"
+color: "eyect"
+tone: "C"
+songid: "S085ModlitwaPrzedPosilkiem"
+author:
+  - "MM"
+year: 1983
+address:
+  - what: "["
+    where: "p"
+alttone:
+  - "D"
+knownas:
+  - "Beracha"
+  - "1967"
+yhwh: true
+index:
+  - "biedny"
+  - "chleb"
+  - "dawać"
+  - "deszcz"
+  - "dzięki"
+  - "iść"
+  - "Jahwe"
+  - "karmić"
+  - "święty"
+  - "moc"
+  - "niebieski"
+  - "Pan"
+  - "pokazać"
+  - "posyłać"
+  - "ptaki"
+  - "radość"
+  - "radować"
+  - "ramię"
+  - "resztka"
+  - "siła"
+  - "spiekota"
+  - "szeol"
+  - "szukać"
+  - "trawa"
+  - "tron"
+  - "ubogi"
+  - "wkoło"
+  - "władca"
+  - "wszyscy"
+  - "wzrost"
+  - "zły"
+  - "zrzucić"
+footnote: "Tego śpiewu nie ma w „Resucitó”, „Risuscitò”, ani w „Zmartwychwstał Pan”. Występował w historycznej już wersji hiszpańskiej „Resucitó 1967” z nawiązaniem do Kantyku Anny (1 Sm 2,1-10). Przypisywany jest Miguelowi Manzano (1934-2024), hiszpańskiemu muzykowi, kompozytorowi, etnomuzykologowi, pochodzącemu z Zamory, gdzie był organistą w katedrze. (przyp. red.)"
+===
+
+W:
+[C]Ty jesteś chlebem ubogich,
+jesteś radością dla [G]wszystkich.
+O, Panie, dzięki [C]Ci.
+
+Ty karmisz ptaki niebieskie,
+[F]posyłasz deszcz swóji dajesz wzrost [C]trawie.
+O, Panie, [G]dzięki [C]Ci,
+o, Panie, [G]dzięki [C]Ci.
+
+W:
+[C]Biedni szukają Cię wkoło,
+sił resztką idą w spie[G]kocie
+by się radować w Jah[C]we.
+
+Pokaż moc swego ramienia,
+[F]zrzuć do Szeoluzłych władców z ich [C]tronów.
+Któż święty [G]jak Jah[C]we,
+któż święty [G]jak Jah[C]we?
+
+Rok          Popie-    Wielka-    Wniebo-     Pięćdzie-   Boże    I Niedziela
+Pański         lec       noc      wstąpienie   siątnica    Ciało    Adwentu
+2024   B    II    14 II     31 III      12 V        19 V      30 V       1 XII
+2025   C     I     5 III    20 IV        1 VI        8 VI     19 VI     30 XI
+2026   A    II    18 II      5 IV       17 V        24 V       4 VI     29 XI
+2027   B     I    10 II     28 III       9V         16 V      27 V      28 XI
+2028   C    II     1 III    16 IV       28 V         4 VI     15 VI      3 XII
+2029   A     I    14 II      1 IV       13 V        20 V      31 V       2 XII
+2030   B    II     6 III    21 IV        2 VI        9 VI     20 VI      1 XII
+2031   C     I    26 II     13 IV       25 V         1 VI     12 VI     30 XI
+2032   A    II    11 II     28 III       9V         16 V      27 V      28 XI
+2033   B     I     2 III    17 IV       29 V         5 VI     16 VI     27 XI
+2034   C    II    22 II      9 IV       21 V        28 V       8 VI      3 XII
+2035   A     I     7 II     25 III       6V         13 V      24 V       2 XII
+2036   B    II    27 II     13 IV       25 V         1 VI     12 VI     30 XI
+2037   C     I    18 II      5 IV       17 V        24 V       4 VI     29 XI
+2038   A    II    10 III    25 IV        6 VI       13 VI     24 VI     28 XI
+2039   B     I    23 II     10 IV       22 V        29 V       9 VI     27 XI
+2040   C    II    15 II      1 IV       13 V        20 V      31 V       2 XII
+2041   A     I     6 III    21 IV        2 VI        9 VI     20 VI      1 XII
+2042   B    II    19 II      6 IV       18 V        25 V       5 VI     30 XI
+2043   C     I    11 II     29 III      10 V        17 V      28 V      29 XI
+2044   A    II     2 III    17 IV       29 V         5 VI     16 VI     27 XI

@@ -1,0 +1,144 @@
+===
+title: "Zacheusz"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S144Zacheusz"
+author:
+  - "K"
+year: 2008
+address:
+  - what: "Łk"
+    where: "19, 1-10"
+  - what: "*OWP"
+    where: ""
+  - what: "*BRE"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+knownas:
+  - "2008"
+  - "Gdy Jezus wszedł do Jerycha"
+  - "Dzisiaj zbawienie weszło do tego domu"
+index:
+  - "Abraham"
+  - "bardzo"
+  - "bogaty"
+  - "celnik"
+  - "człowieczy"
+  - "człowiek"
+  - "dawać"
+  - "dobra"
+  - "dom"
+  - "dziś"
+  - "dzisiaj"
+  - "góra"
+  - "grzesznik"
+  - "imię"
+  - "Jerycho"
+  - "Jezus"
+  - "ktoś"
+  - "móc"
+  - "miasto"
+  - "miejsce"
+  - "naprzód"
+  - "niski"
+  - "odpowiedzieć"
+  - "okraść"
+  - "On"
+  - "Pan"
+  - "pełny"
+  - "pobiegnąć"
+  - "poczwórny"
+  - "połowa"
+  - "pośpiech"
+  - "powiedzieć"
+  - "próbować"
+  - "prędki"
+  - "przechodzić"
+  - "przyjąć"
+  - "przyjść"
+  - "radość"
+  - "rzec"
+  - "spojrzeć"
+  - "sykomora"
+  - "syn"
+  - "Syn"
+  - "szemrać"
+  - "szukać"
+  - "tamtędy"
+  - "trzeba"
+  - "ubogi"
+  - "wejść"
+  - "więc"
+  - "widzieć"
+  - "wspiąć"
+  - "wstać"
+  - "wszyscy"
+  - "wzrost"
+  - "Zacheusz"
+  - "zbawić"
+  - "zbawienie"
+  - "zejść"
+  - "zginąć"
+  - "zobaczyć"
+  - "zwierzchnik"
+  - "zwrócić"
+===
+
+KW:
+[a]Gdy Jezus wszedł do Jerycha,
+przechodził przez to [G]miasto,
+gdy Jezus wszedł do [F]Jerycha,
+przechodził przez to [E]miasto.
+K:
+[a]A oto człowiek imieniem Zacheusz,
+zwierzchnik celników, bardzo [G]bogaty,
+próbował zobaczyć Je[F]zusa, ale nie mógł, bo był niskiego [E]wzrostu.
+[a]Pobiegł więc naprzód
+i wspiął się na syko[G]morę,
+bo miał tamtędy prze[F]chodzić,
+miał tamtędy prze[E]chodzić.
+[a]Gdy Jezus przyszedł na to miejsce,
+spojrzał w górę i go zo[G]baczył,
+i [F]rzekł mu: „Zacheuszu, zejdź prędko,
+albowiem trzeba, abym dziś wszedł do twego [E]domu”.
+W:
+[a]Gdy Jezus wszedł do Jerycha,
+przechodził przez to [G]miasto,
+gdy Jezus wszedł do [F]Jerycha,
+przechodził przez to [E]miasto.
+K:
+[a]Zacheusz zszedł w pośpiechu
+i przyjął Go pełen ra[G]dości,
+a [F]widząc to, wszyscy szemrali:
+„Wszedł do domu grze[E]sznika!”.
+
+[a]Zacheusz wstał i powiedział do Pana:
+„Panie, oto połowę moich dóbr daję u[G]bogim,
+a jeśli kogoś okradłem,
+poczwórnie mu to [E]zwrócę”.
+A [a]Jezus mu odpowiedział:
+KW:
+„[a]Dzisiaj zbawienie weszło do tego [G]domu,
+[F]dzisiaj zbawienie weszło do tego [E]domu”.
+K:
+„[d]Bo także on jest synem Abra[E]hama,
+al[d]bowiem Syn Człowieczy przyszedł szukaći zbawić to, co zgi[E]nęło”.
+W:
+[a]Gdy Jezus wszedł do Jerycha,
+przechodził przez to [G]miasto,
+gdy Jezus wszedł do [F]Jerycha,
+przechodził przez to [E]miasto.
+W:
+„[a]Dzisiaj zbawienie weszło do tego [G]domu,
+[F]dzisiaj zbawienie weszło do tego [E]domu”.
+KW:
+[d]Zacheuszem jesteś [E]ty,
+KW:
+„[d]zejdź [E]prędko,
+K:
+al[F]bowiem trzeba, abym dziś         wszedł do twego [E]domu”.
+W:
+„[a]Dzisiaj zbawienie weszło do tego [G]domu,
+[F]dzisiaj zbawienie weszło do tego [E]domu”.

@@ -1,0 +1,79 @@
+===
+title: "Wezmę was spośród ludów"
+subtitle: "Kantyk Ezechiela"
+section: "precate"
+color: "precate"
+tone: "d"
+songid: "S140WezmeWasSposrodLudow"
+author:
+  - "K"
+year: 2004
+address:
+  - what: "Ez"
+    where: "36, 24-28"
+  - what: "*OPA"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+knownas:
+  - "1997"
+  - "Umieszczę mojego Ducha"
+  - "I dam wam serce nowe"
+index:
+  - "Bóg"
+  - "ciało"
+  - "czysta"
+  - "dać"
+  - "Duch"
+  - "kamienny"
+  - "kraj"
+  - "żyć"
+  - "lud"
+  - "nowy"
+  - "oczyścić"
+  - "odebrać"
+  - "pokropić"
+  - "serce"
+  - "słowo"
+  - "spośród"
+  - "sprawić"
+  - "tchnąć"
+  - "umieścić"
+  - "według"
+  - "wnętrze"
+  - "woda"
+  - "wszystek"
+  - "wziąć"
+  - "zgromadzić"
+footnote: "Na zakończenie Kiko śpiewa jeszcze trzykrotne Alleluja. (przyp. red.)"
+===
+
+W:
+[d]Wezmę was [DS]spośród ludów,
+zgromadzę was ze wszystkich [g]krajów
+I was po[A]kropię czystą [d]wodą.
+[B]Ja oczyszczę [A]was.
+
+K:
+[DS]I dam wam serce nowe,
+tchnę w wasze wnętrze nowego [g]Ducha,
+i od[A]biorę wam serce ka[d]mienne,
+[B]a dam wam serce [A]z ciała.
+
+W:
+[d]Wezmę was spośród [DS]ludów,
+zgromadzę was ze wszystkich [g]krajów
+I was po[A]kropię czystą [d]wodą.
+[B]Ja oczyszczę [A]was.
+
+K:
+[DS]Umieszczę mojego Ducha
+w waszym [g]wnętrzu
+i sprawię, [A]byście żyli według mojego [d]słowa,
+[B]i będziecie moim ludem, a Ja będę waszym [A]Bogiem.
+
+W:
+[d]Wezmę was spośród [DS]ludów,
+zgromadzę was ze wszystkich [g]krajów
+I was po[A]kropię czystą [d]wodą.
+[B]Ja oczyszczę [A]was.

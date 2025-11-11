@@ -1,0 +1,119 @@
+===
+title: "Z przepastnych głębin śmierci"
+subtitle: "Hymn na Jutrznię Paschy do Wniebowstąpienia"
+section: "precate"
+color: "precate"
+tone: "h"
+songid: "S016HymnNaJutrznieZPrzepastnych"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*OPA"
+    where: ""
+  - what: "*HYM"
+    where: ""
+knownas:
+  - "Rozbłyska słońce Paschy"
+  - "Jutrznia do Wniebowstąpienia"
+  - "Wniebowstąpienie, Jutrznia przed"
+index:
+  - "amen"
+  - "Chrystus"
+  - "chrzest"
+  - "chwała"
+  - "cześć"
+  - "czuwać"
+  - "dawny"
+  - "Duch"
+  - "głębina"
+  - "grób"
+  - "Jezus"
+  - "Kościół"
+  - "Król"
+  - "śmierć"
+  - "śpiew"
+  - "światło"
+  - "święty"
+  - "miłość"
+  - "niebo"
+  - "nieśmiertelny"
+  - "obok"
+  - "odrodzony"
+  - "ojciec"
+  - "Ojciec"
+  - "pascha"
+  - "pokój"
+  - "powstawać"
+  - "próżno"
+  - "przepastny"
+  - "przyłączyć"
+  - "pusty"
+  - "radość"
+  - "rękojmia"
+  - "razem"
+  - "rozbłyskać"
+  - "rozbrzmiewać"
+  - "rozpromienić"
+  - "słońce"
+  - "strażnik"
+  - "teraz"
+  - "unosić"
+  - "wiek"
+  - "ziemia"
+  - "zmartwychwstać"
+  - "zwycięski"
+  - "zwycięstwo"
+footnote: "Jest to w brewiarzu włoskim hymn na Jutrznię od Paschy do Wniebowstąpienia. Hymn na Jutrznię od Paschy do WniebowstąpieniaInno delle lodi da Pasqua all’Ascensione (przyp. red.) Ta melodia może być również wykorzystana do śpiewania innych hymnów Liturgii Godzin, które mają po trzy wersety w każdej strofie. (przyp. włoski)"
+===
+
+W:
+[h]Z przepastnych głębin [A]śmierci
+Chrystus powstaje zwy[h]cięski
+[G]razem z dawnymi oj[Fis]cami.
+
+K:
+[h]Rozbłyska słońce [A]Paschy,
+rozbrzmiewa niebo [h]śpiewem,
+[G]radością unosi się [Fis]ziemia.
+
+W:
+[h]Z przepastnych głębin [A]śmierci
+Chrystus powstaje zwy[h]cięski
+[G]razem z dawnymi oj[Fis]cami.
+
+K:
+[h]Obok pustego [A]grobu
+na próżno czuwa [h]strażnik:
+[G]Jezus Chrystus zmar[Fis]twychwstał.
+
+W:
+[h]Z przepastnych głębin [A]śmierci
+Chrystus powstaje zwy[h]cięski
+[G]razem z dawnymi oj[Fis]cami.
+
+K:
+[h]O Jezu, Królu nieśmier[A]telny,
+przyłącz do Twego zwy[h]cięstwa
+[G]we chrzcie odro[Fis]dzonych.
+
+W:
+[h]Z przepastnych głębin [A]śmierci
+Chrystus powstaje zwy[h]cięski
+[G]razem z dawnymi oj[Fis]cami.
+
+K:
+[h]Rozpromień Twój [A]Kościół
+światłem Twojej [h]Paschy:
+[G]rękojmią miłości i po[Fis]koju.
+
+W:
+[h]Z przepastnych głębin [A]śmierci
+Chrystus powstaje zwy[h]cięski
+[G]razem z dawnymi oj[Fis]cami.
+
+W:
+[h]Chwała i cześć Chrystu[A]sowi
+Ojcu, Duchowi Świę[h]temu
+[G]teraz i na wieki [Fis]wieków.
+A[h]men! A[A]men! A[h]men!
