@@ -1,0 +1,1323 @@
+{
+	"header": {
+		"source": "SpiewnikNeokatechumenalnyAlpha.pdf",
+		"version": "pdfcpu v0.11.1 dev",
+		"creation": "2025-11-13 22:03:21 CET",
+		"title": "Zmartwychwstał Pan - Śpiewy Drogi Neokatechumenalnej",
+		"author": "Andrzej Stanisaw Odyniec",
+		"creator": "LaTeX with hyperref package",
+		"producer": "LuaTeX-1.7.0",
+		"subject": "Śpiewnik",
+		"keywords": "śpiewy, liturgia, pieśni, neokatechumenat, droga neokatechumenalna, kolędy"
+	},
+	"bookmarks": [
+		{
+			"title": "Strona tytułowa",
+			"page": 1
+		},
+		{
+			"title": "Spis treści",
+			"page": 11
+		},
+		{
+			"title": "Indeks alfabetyczny",
+			"page": 19
+		},
+		{
+			"title": "Indeks analityczny",
+			"page": 47
+		},
+		{
+			"title": "Indeks źródłowy",
+			"page": 63
+		},
+		{
+			"title": "Indeks słów",
+			"page": 71
+		},
+		{
+			"title": "Pieśni Liturgiczne",
+			"page": 91,
+			"kids": [
+				{
+					"title": "Aklamacje do Ewangelii w Wielkim Poście",
+					"page": 91
+				},
+				{
+					"title": "Alleluja na Aklamacje do Ewangelii",
+					"page": 92
+				},
+				{
+					"title": "Alleluja paschalne",
+					"page": 93
+				},
+				{
+					"title": "Anafora liturgii pokutnej",
+					"page": 94
+				},
+				{
+					"title": "Baranku Boży Agnus Dei",
+					"page": 95
+				},
+				{
+					"title": "Błogosławienie wody źródła chrzcielnego",
+					"page": 96
+				},
+				{
+					"title": "Chwała Bogu na wysokości Gloria mszalne",
+					"page": 98
+				},
+				{
+					"title": "Credo apostolskie Etap Wyznania wiary",
+					"page": 99
+				},
+				{
+					"title": "Litania do Wszystkich Świętych Liturgia Chrzcielna",
+					"page": 100
+				},
+				{
+					"title": "Litania pokutna I",
+					"page": 101
+				},
+				{
+					"title": "Litania pokutna II",
+					"page": 102
+				},
+				{
+					"title": "Melodia ewangelii śpiewanej (J 3, 11–15)",
+					"page": 103
+				},
+				{
+					"title": "Melodia modlitwy powszechnej",
+					"page": 104
+				},
+				{
+					"title": "Melodie psalmu responsoryjnego",
+					"page": 105
+				},
+				{
+					"title": "Modlitwa Eucharystyczna II (1) Prefacja Adwentowa",
+					"page": 106
+				},
+				{
+					"title": "Modlitwa Eucharystyczna II (1) Prefacja Paschalna",
+					"page": 107
+				},
+				{
+					"title": "Modlitwa Eucharystyczna II (1) Prefacja",
+					"page": 108
+				},
+				{
+					"title": "Modlitwa Eucharystyczna II (1) Konsekracja i Aklamacja",
+					"page": 109
+				},
+				{
+					"title": "Modlitwa Eucharystyczna II (1) Słowa po Konsekracji",
+					"page": 110
+				},
+				{
+					"title": "Modlitwa Eucharystyczna II (1) Doksologie końcowe",
+					"page": 111
+				},
+				{
+					"title": "Modlitwa Eucharystyczna II (2) 1987 Prefacja na Okres Zwykły",
+					"page": 112
+				},
+				{
+					"title": "Modlitwa Eucharystyczna II (2) 1987 Konsekracja i Aklamacja",
+					"page": 113
+				},
+				{
+					"title": "Modlitwa Eucharystyczna IV Prefacja",
+					"page": 114
+				},
+				{
+					"title": "Modlitwa Eucharystyczna IV Przejście",
+					"page": 115
+				},
+				{
+					"title": "Modlitwa Eucharystyczna IV Konsekracja",
+					"page": 116
+				},
+				{
+					"title": "Modlitwa Eucharystyczna IV Anamneza i Ofiarowanie",
+					"page": 117
+				},
+				{
+					"title": "Modlitwa Eucharystyczna IV Modlitwy i Doksologia",
+					"page": 118
+				},
+				{
+					"title": "Ojcze nasz Etap wybrania (Mt 6, 9–13)",
+					"page": 119
+				},
+				{
+					"title": "Orędzie Paschalne Exultet",
+					"page": 120
+				},
+				{
+					"title": "Psalmodie Jutrzni Etap Ojcze nasz; Adwent i Wielki Post",
+					"page": 122
+				},
+				{
+					"title": "Różaniec śpiewany",
+					"page": 124
+				},
+				{
+					"title": "Święty z baraków (1965 — Palomeras)",
+					"page": 125
+				},
+				{
+					"title": "Święty jest święty Melodia hebrajska",
+					"page": 126
+				},
+				{
+					"title": "Święty palm (1974 — Palestyna)",
+					"page": 127
+				},
+				{
+					"title": "Święty (1977 — Rzym)",
+					"page": 128
+				},
+				{
+					"title": "Święty (1982)",
+					"page": 129
+				},
+				{
+					"title": "Święty (1988)",
+					"page": 130
+				},
+				{
+					"title": "Te Deum Ciebie, Boże, chwalimy",
+					"page": 131
+				},
+				{
+					"title": "Wezwania i odpowiedzi modlitwy wiernych",
+					"page": 132
+				},
+				{
+					"title": "Błogosławieństwo nowo poślubionych Msza za nowożeńców",
+					"page": 133
+				}
+			]
+		},
+		{
+			"title": "Pieśni Prekatechumenatu",
+			"page": 135,
+			"kids": [
+				{
+					"title": "A głupi myśli, że nie ma Boga (Ps 14)",
+					"page": 135
+				},
+				{
+					"title": "Abba, Ojcze (Rz 8, 15–17)",
+					"page": 136
+				},
+				{
+					"title": "Abraham Objawienie w Mamre (Rdz 18, 1–5)",
+					"page": 137
+				},
+				{
+					"title": "Akedá Targum Neofiti (Rdz 22, 9–10)",
+					"page": 138
+				},
+				{
+					"title": "Amen, amen, amen (Ap 7, 12–14)",
+					"page": 139
+				},
+				{
+					"title": "Anioł przyszedł z nieba Kolęda (Łk 2, 9–12.15–16; Iz 1, 3)",
+					"page": 140
+				},
+				{
+					"title": "Ave Maria 1984 (Łk 1, 28nn)",
+					"page": 141
+				},
+				{
+					"title": "Baranka Boża (Mt 1, 18nn; 2, 13n.18; por. Lb 5, 11–31)",
+					"page": 142
+				},
+				{
+					"title": "Barankowi Paschalnemu Sekwencja na Paschę",
+					"page": 143
+				},
+				{
+					"title": "Bardzo mnie prześladowali (Ps 129)",
+					"page": 144
+				},
+				{
+					"title": "Błogosław, duszo moja, Jahwe (Ps 103)",
+					"page": 145
+				},
+				{
+					"title": "Błogosławcie wszyscy Pana Melodia hebrajska (Ps 134)",
+					"page": 146
+				},
+				{
+					"title": "Błogosławić będę Pana w każdym czasie (Ps 34)",
+					"page": 147
+				},
+				{
+					"title": "Bracia, nie dajmy nikomu powodu do upadku (2 Kor 6, 3–16)",
+					"page": 148
+				},
+				{
+					"title": "Bramy, podnieście (Ps 24)",
+					"page": 149
+				},
+				{
+					"title": "Byli dwaj aniołowie Melodia hebrajska",
+					"page": 150
+				},
+				{
+					"title": "Całuj mnie (Pnp 1, 2–4.7–8)",
+					"page": 151
+				},
+				{
+					"title": "Caritas Christi (2 Kor 5, 14–15.17.21; 1 Kor 9, 16b)",
+					"page": 152
+				},
+				{
+					"title": "Carmen '63 Rabindranath Tagore",
+					"page": 153
+				},
+				{
+					"title": "Chrystus jest Światłością (J 14, 6; por. J 8, 12)",
+					"page": 154
+				},
+				{
+					"title": "Chwalcie Boga (Ps 150)",
+					"page": 155
+				},
+				{
+					"title": "Chwalcie Pana z niebios (Ps 148)",
+					"page": 156
+				},
+				{
+					"title": "Ciebie, Panie, należy wielbić na Syjonie (Ps 65)",
+					"page": 157
+				},
+				{
+					"title": "Ciężka droga Go down Moses (por. Wj 7, 26)",
+					"page": 158
+				},
+				{
+					"title": "Córki jerozolimskie Marsz żałobny (Łk 23, 28.31.34.43.46)",
+					"page": 159
+				},
+				{
+					"title": "Dayenú Haggada z Paschy hebrajskiej",
+					"page": 160
+				},
+				{
+					"title": "Dla miłości moich braci Melodia hebrajska (Ps 122)",
+					"page": 162
+				},
+				{
+					"title": "Dlaczego buntują się narody? (Ps 2)",
+					"page": 163
+				},
+				{
+					"title": "Do Ciebie, Panie, głośno wołam o pomoc (Ps 142)",
+					"page": 164
+				},
+				{
+					"title": "Do Ciebie, Panie, wznoszę moją duszę (Ps 25)",
+					"page": 165
+				},
+				{
+					"title": "Do Ciebie wołam (Ps 141)",
+					"page": 166
+				},
+				{
+					"title": "Do Ciebie wznoszę moje oczy (Ps 123)",
+					"page": 167
+				},
+				{
+					"title": "Duch Pana, Duch Pana ogarnął Mnie (Łk 4, 18–19; por. Iz 61, 1–3)",
+					"page": 168
+				},
+				{
+					"title": "Dzień odpoczynku Melodia hebrajska (J 8, 51.56)",
+					"page": 169
+				},
+				{
+					"title": "Dziewico, tak bardzo przedziwna Dante Alighieri",
+					"page": 170
+				},
+				{
+					"title": "Dzięki Ci, Jahwe Melodia hebrajska (Ps 136)",
+					"page": 171
+				},
+				{
+					"title": "Elí, Elí, lemá sabachthaní? (Ps 22)",
+					"page": 172
+				},
+				{
+					"title": "Espada (Ez 21, 14–22)",
+					"page": 174
+				},
+				{
+					"title": "Gdy się zbudzę, nasycę się obliczem Twym, Panie (Ps 17)",
+					"page": 175
+				},
+				{
+					"title": "Gdyśmy doszli do rzek Babilonii (Ps 137)",
+					"page": 176
+				},
+				{
+					"title": "Głos mego ukochanego (Pnp 2, 8–17)",
+					"page": 177
+				},
+				{
+					"title": "Godzien jesteś Pieśń Baranka (Ap 5, 9–10.12)",
+					"page": 178
+				},
+				{
+					"title": "Gołębico nieskalana Kontakia Romana Melodosa",
+					"page": 179
+				},
+				{
+					"title": "Hevenu szalom alehem Melodia hebrajska",
+					"page": 180
+				},
+				{
+					"title": "Hymn do Chrystusa Światłości Święty Grzegorz z Nazjanzu",
+					"page": 181
+				},
+				{
+					"title": "Hymn o kenozie Jezus Chrystus jest Panem! (Flp 2, 1–11)",
+					"page": 182
+				},
+				{
+					"title": "Hymn o miłości (1 Kor 13, 1–7)",
+					"page": 183
+				},
+				{
+					"title": "Idźcie i ogłoście moim braciom (Mt 28, 7–10.16–20)",
+					"page": 184
+				},
+				{
+					"title": "Jahwe Pan jest mym pasterzem (Ps 23)",
+					"page": 185
+				},
+				{
+					"title": "Jahwe, Tyś Bogiem mym (Iz 25, 1–8)",
+					"page": 186
+				},
+				{
+					"title": "Jak długo jeszcze (Ps 13)",
+					"page": 187
+				},
+				{
+					"title": "Jak jest pięknie, ile radości (Ps 133)",
+					"page": 188
+				},
+				{
+					"title": "Jak owca, co widzi Kontakion Romana Melodosa",
+					"page": 189
+				},
+				{
+					"title": "Jakby skazani na zabicie (1 Kor 4, 9–13)",
+					"page": 190
+				},
+				{
+					"title": "Jakże są miłe Twe przybytki (Ps 84)",
+					"page": 191
+				},
+				{
+					"title": "Jasny głos Hymn adwentowy",
+					"page": 192
+				},
+				{
+					"title": "Jego fundamenty (Ps 87)",
+					"page": 193
+				},
+				{
+					"title": "Jest cierpliwy Hymn do Ducha Świętego",
+					"page": 194
+				},
+				{
+					"title": "Jeśli dziś usłyszycie Jego głos (Ps 95)",
+					"page": 195
+				},
+				{
+					"title": "Jeśli Pan nie wybuduje domu (Ps 127)",
+					"page": 196
+				},
+				{
+					"title": "Jeśli zmartwychwstaliście z Chrystusem (Kol 3, 1–4)",
+					"page": 197
+				},
+				{
+					"title": "Jezus obchodził wszystkie miasta (por. Mt 9, 35—10, 42)",
+					"page": 198
+				},
+				{
+					"title": "Jeżeli w Panu znalazłem schronienie (Ps 11)",
+					"page": 199
+				},
+				{
+					"title": "Jutrzenka barwi purpurą niebo Hymn na Paschę",
+					"page": 200
+				},
+				{
+					"title": "Już idzie mój Bóg Kolęda",
+					"page": 201
+				},
+				{
+					"title": "Już nadchodzi Królestwo (Ap 19, 6–9)",
+					"page": 202
+				},
+				{
+					"title": "Kantyk Balaama (Lb 23, 7–24)",
+					"page": 203
+				},
+				{
+					"title": "Kantyk Jozuego (Joz 24, 2–18)",
+					"page": 204
+				},
+				{
+					"title": "Kantyk Mojżesza (Wj 15, 1–18)",
+					"page": 205
+				},
+				{
+					"title": "Kantyk Tobiasza Jerozolima odbudowana (Tb 13, 9–18)",
+					"page": 206
+				},
+				{
+					"title": "Kantyk trzech młodzieńców w piecu ognistym (1) (Dn 3, 52–57)",
+					"page": 207
+				},
+				{
+					"title": "Kantyk trzech młodzieńców w piecu ognistym (2) (Dn 3, 57–88)",
+					"page": 208
+				},
+				{
+					"title": "Kantyk Zachariasza Benedictus (Łk 1, 68–79)",
+					"page": 209
+				},
+				{
+					"title": "Każda rzecz ma swój czas (Koh 3, 1–15)",
+					"page": 210
+				},
+				{
+					"title": "Kiedy Izrael wyszedł z Egiptu (Ps 114)",
+					"page": 211
+				},
+				{
+					"title": "Kiedy Pan sprawił (Ps 126)",
+					"page": 212
+				},
+				{
+					"title": "Kim jest ta (Pnp 8, 5–7)",
+					"page": 213
+				},
+				{
+					"title": "Kochajcie waszych nieprzyjaciół Błogosławieństwa (Łk 6, 20–30.37)",
+					"page": 214
+				},
+				{
+					"title": "Kocham Cię, Panie (Ps 18)",
+					"page": 215
+				},
+				{
+					"title": "Królowie Cię ujrzą II pieśń Sługi Jahwe (Iz 49, 1–16)",
+					"page": 216
+				},
+				{
+					"title": "Kto nas odłączy (Rz 8, 33–39)",
+					"page": 217
+				},
+				{
+					"title": "Któż jest Ten, co przybywa z Edomu (Iz 63, 1–6)",
+					"page": 218
+				},
+				{
+					"title": "Ku tobie miasto święte Eucharystyczny hymn procesyjny",
+					"page": 219
+				},
+				{
+					"title": "Ludu mój ludu Wielki Piątek, Adoracja Krzyża",
+					"page": 220
+				},
+				{
+					"title": "Magnificat (Łk 1, 46–55)",
+					"page": 221
+				},
+				{
+					"title": "Maria de Jasna Góra Hymn do Madonny Częstochowskiej",
+					"page": 222
+				},
+				{
+					"title": "Maryjo, Domie Błogosławieństwa Wesele w Kanie (J 2, 1–10)",
+					"page": 223
+				},
+				{
+					"title": "Maryjo, maluczka Maryjo Hymn do Dziewicy Maryi",
+					"page": 224
+				},
+				{
+					"title": "Maryjo, Matko drogi gorejącej Hymn do Madonny Trzeciego Tysiąclecia",
+					"page": 225
+				},
+				{
+					"title": "Maryjo, Matko moja (J 19, 26–34)",
+					"page": 226
+				},
+				{
+					"title": "Mesjasz, lew, by zwyciężać Święty Wiktoryn z Patawii (Ap 5, 5–6)",
+					"page": 227
+				},
+				{
+					"title": "Miłosierdzia, Boże, miłosierdzia (Ps 51)",
+					"page": 228
+				},
+				{
+					"title": "Miłuję Pana (Ps 116)",
+					"page": 229
+				},
+				{
+					"title": "Nadchodzi Pan, przyodziany w blask (Ps 93; Ap 1, 5–7)",
+					"page": 230
+				},
+				{
+					"title": "Naród kroczący w ciemnościach (Iz 9, 1–5)",
+					"page": 231
+				},
+				{
+					"title": "Nie ma Go tu (Mt 28, 1–7)",
+					"page": 232
+				},
+				{
+					"title": "Nie ma w Nim żadnego wdzięku IV pieśń Sługi Jahwe (Iz 53, 2–7)",
+					"page": 233
+				},
+				{
+					"title": "Nie umrę, nie (Ps 118)",
+					"page": 234
+				},
+				{
+					"title": "Niebiosa, deszcz z góry spuśćcie (Iz 45, 8)",
+					"page": 236
+				},
+				{
+					"title": "Niech błogosławiony będzie Bóg (Ef 1, 3–13)",
+					"page": 237
+				},
+				{
+					"title": "Niech dotrze moja modlitwa do Ciebie (Ps 119, 169–176)",
+					"page": 238
+				},
+				{
+					"title": "Niech wstanie Bóg (Ps 68, 2.4–7)",
+					"page": 239
+				},
+				{
+					"title": "Niewiasta obleczona w słońce (Una gran señal) (Ap 12)",
+					"page": 240
+				},
+				{
+					"title": "Noli me tangere (J 20, 15–17)",
+					"page": 242
+				},
+				{
+					"title": "O Boże, przez imię Twoje wybaw mnie (Ps 54)",
+					"page": 243
+				},
+				{
+					"title": "O Boże, Tyś jest mym Bogiem (Ps 63)",
+					"page": 244
+				},
+				{
+					"title": "O Jezu, miłości moja",
+					"page": 245
+				},
+				{
+					"title": "O nasz Panie, o nasz Boże (Ps 8)",
+					"page": 246
+				},
+				{
+					"title": "O Panie, nie karć mnie w swoim gniewie (Ps 6)",
+					"page": 247
+				},
+				{
+					"title": "O śmierci, gdzie jest twe zwycięstwo? (1 Kor 15, 1–8.52–57)",
+					"page": 248
+				},
+				{
+					"title": "Oto Ja niebawem przyjdę (Ap 22, 12–16)",
+					"page": 249
+				},
+				{
+					"title": "Oto mój Sługa I pieśń Sługi Jahwe (Iz 42, 1–4; Mt 12, 18–21)",
+					"page": 250
+				},
+				{
+					"title": "Pan jest światłem i zbawieniem moim (Ps 27)",
+					"page": 251
+				},
+				{
+					"title": "Pan podarował mi III pieśń Sługi Jahwe (Iz 50, 4–10)",
+					"page": 252
+				},
+				{
+					"title": "Pan potężny ogłasza dobrą nowinę (Ps 68, 12–16.33.34)",
+					"page": 253
+				},
+				{
+					"title": "Pan wstępuje wśród okrzyków (Ps 47)",
+					"page": 254
+				},
+				{
+					"title": "Panie, pomagaj mi",
+					"page": 255
+				},
+				{
+					"title": "Pentecoste (por. Dz 2, 1–13)",
+					"page": 256
+				},
+				{
+					"title": "Pocieszajcie mój lud Melodia hebrajska (Iz 40, 1–3.10–11)",
+					"page": 257
+				},
+				{
+					"title": "Pośrodku wielkiego tłumu (Łk 8, 42–48)",
+					"page": 258
+				},
+				{
+					"title": "Powiedzcie zatrwożonym w sercu (Iz 35, 4nn)",
+					"page": 259
+				},
+				{
+					"title": "Pragnę pójść do Jeruzalem Pieśń Sefardyjczyków",
+					"page": 260
+				},
+				{
+					"title": "Przybądź, Duchu Święty Sekwencja na Pentecoste",
+					"page": 261
+				},
+				{
+					"title": "Przybywam by zgromadzić (Iz 66, 18–22)",
+					"page": 262
+				},
+				{
+					"title": "Przyjdź, Duchu Stworzycielu Veni Creator Spiritus",
+					"page": 263
+				},
+				{
+					"title": "Przyjdź, Synu Człowieczy (Ap 22, 17nn)",
+					"page": 264
+				},
+				{
+					"title": "Przyjdź z Libanu (Pnp 4, 8nn; 7, 11nn; 2, 11nn; 8, 6n)",
+					"page": 265
+				},
+				{
+					"title": "Przyjdźcie do Mnie wy wszyscy (Mt 11, 28–30)",
+					"page": 266
+				},
+				{
+					"title": "Przyobleczcie się w zbroję Bożą (Ef 6, 11–17)",
+					"page": 267
+				},
+				{
+					"title": "Radujcie się sprawiedliwi w Panu (Ps 33)",
+					"page": 268
+				},
+				{
+					"title": "Resurrexit (J 11, 25–27)",
+					"page": 269
+				},
+				{
+					"title": "Rozciągnąłem moje ręce XXVII Oda Salomona",
+					"page": 270
+				},
+				{
+					"title": "Ruszajmy już pasterze Kolęda",
+					"page": 271
+				},
+				{
+					"title": "Rzekł Pan do Pana mego (Ps 110)",
+					"page": 272
+				},
+				{
+					"title": "Sama na sam",
+					"page": 273
+				},
+				{
+					"title": "Sekwencja na Boże Ciało Lauda Sion Salvatorem",
+					"page": 274
+				},
+				{
+					"title": "Skosztujcie i zobaczcie (Ps 34, 2–7.9)",
+					"page": 276
+				},
+				{
+					"title": "Stabat Mater dolorosa Sekwencja z XIII wieku",
+					"page": 277
+				},
+				{
+					"title": "Szczęście dla człowieka (Ps 128)",
+					"page": 278
+				},
+				{
+					"title": "Szczęśliwy człowiek (Ps 1)",
+					"page": 279
+				},
+				{
+					"title": "Szlom lech Mariám Zdrowaś Mario w starożytnym aramejskim (Łk 1, 28nn)",
+					"page": 280
+				},
+				{
+					"title": "Śpiew dzieci podczas czuwania w noc paschalną",
+					"page": 281
+				},
+				{
+					"title": "Śpiew wyzwolonych (Iz 12, 4–6)",
+					"page": 282
+				},
+				{
+					"title": "Tak jako łania (Ps 42—43)",
+					"page": 283
+				},
+				{
+					"title": "Tak mówi Amen (Ap 3, 14–22)",
+					"page": 284
+				},
+				{
+					"title": "To jest moje przykazanie (J 15, 12.13.16.18; 17, 21)",
+					"page": 285
+				},
+				{
+					"title": "Tobie chcę śpiewać (Ps 57)",
+					"page": 286
+				},
+				{
+					"title": "Tobie Panie, grzech mój wyznałem (Ps 32)",
+					"page": 287
+				},
+				{
+					"title": "Ty, która mieszkasz w ogrodach (Pnp 8, 10b–14)",
+					"page": 288
+				},
+				{
+					"title": "Ty, któryś jest wierny (Ps 143)",
+					"page": 289
+				},
+				{
+					"title": "Ty mi ukażesz ścieżkę życia (Ps 16)",
+					"page": 290
+				},
+				{
+					"title": "Ty okryłeś śmierć wstydem Homilia Paschalna Melitona z Sardes",
+					"page": 291
+				},
+				{
+					"title": "Tyś jest błogosławiona, Maryjo (Łk 1, 42–45)",
+					"page": 292
+				},
+				{
+					"title": "Tyś najpiękniejszy (Ps 45)",
+					"page": 293
+				},
+				{
+					"title": "Urí, urí, urí, urá Kolęda",
+					"page": 294
+				},
+				{
+					"title": "Uwiodłeś mnie, Panie (Jer 20, 7–18)",
+					"page": 295
+				},
+				{
+					"title": "W noc pełną ciemności Święty Jan od Krzyża",
+					"page": 296
+				},
+				{
+					"title": "W obliczu aniołów (Ps 138)",
+					"page": 297
+				},
+				{
+					"title": "W Twojej światłości, Panie (Ps 36)",
+					"page": 298
+				},
+				{
+					"title": "Wezmę, podniosę kielich zbawienia (Ps 116)",
+					"page": 299
+				},
+				{
+					"title": "Wezmę was spośród ludów Kantyk Ezechiela (Ez 36, 24–28)",
+					"page": 300
+				},
+				{
+					"title": "Weź mnie do nieba (Flp 1, 23)",
+					"page": 301
+				},
+				{
+					"title": "Widzę nieba otwarte (Ap 19, 11–20)",
+					"page": 302
+				},
+				{
+					"title": "Witaj Królowo, Matko miłosierdzia",
+					"page": 303
+				},
+				{
+					"title": "Witaj, Królowo niebios Ave Regina Caelorum",
+					"page": 304
+				},
+				{
+					"title": "Wołajcie radośnie (Iz 12, 1nn)",
+					"page": 305
+				},
+				{
+					"title": "Wstąpił Dobry Pasterz Hymn na Nieszpory Wniebowstąpienia Pańskiego",
+					"page": 306
+				},
+				{
+					"title": "Wy jesteście światłem świata (Mt 5, 14–16)",
+					"page": 307
+				},
+				{
+					"title": "Wyrasta różdżka z pnia Jessego (Iz 11, 1–11a.16)",
+					"page": 308
+				},
+				{
+					"title": "Wysławiajcie Pana mieszkańcy całej ziemi (Ps 100)",
+					"page": 309
+				},
+				{
+					"title": "Wysławiajcie Pana wszystkie ludy na ziemi (Ps 117)",
+					"page": 310
+				},
+				{
+					"title": "Wznoszę me oczy ku górom (Ps 121)",
+					"page": 311
+				},
+				{
+					"title": "Z głębokości wołam do Ciebie (Ps 130)",
+					"page": 312
+				},
+				{
+					"title": "Z przepastnych głębin śmierci Hymn na Jutrznię Paschy do Wniebowstąpienia",
+					"page": 313
+				},
+				{
+					"title": "Zacheusz (Łk 19, 1–10)",
+					"page": 314
+				},
+				{
+					"title": "Zaufałem, zaufałem Panu (Ps 40)",
+					"page": 315
+				},
+				{
+					"title": "Zdrowaś Maryjo Ave Maria I (Łk 1, 28nn)",
+					"page": 316
+				},
+				{
+					"title": "Zmartwychwstał Pan (1 Kor 15, 54–58)",
+					"page": 317
+				},
+				{
+					"title": "Zmiłuj się nade mną, Boże (Ps 51)",
+					"page": 318
+				},
+				{
+					"title": "Zobaczcie, jak jest piękna (Ps 133)",
+					"page": 319
+				},
+				{
+					"title": "Zobaczcie, jak jest pięknie Melodia hebrajska (Ps 133)",
+					"page": 320
+				},
+				{
+					"title": "Żniwo narodów (J 4, 31–38)",
+					"page": 321
+				},
+				{
+					"title": "Żyjcie radośni (Flp 4, 4n)",
+					"page": 322
+				}
+			]
+		},
+		{
+			"title": "Pieśni Katechumenatu",
+			"page": 323,
+			"kids": [
+				{
+					"title": "Débora (Sdz 5)",
+					"page": 323
+				},
+				{
+					"title": "Hymn o krzyżu chwalebnym Hymn z II wieku",
+					"page": 324
+				},
+				{
+					"title": "Jak poryw gniewu VII Oda Salomona",
+					"page": 325
+				},
+				{
+					"title": "Jakub (Rdz 32, 23–29)",
+					"page": 326
+				},
+				{
+					"title": "Kiedy jeszcze spałam (Pnp 5, 2nn)",
+					"page": 327
+				},
+				{
+					"title": "Nie opierajcie się złu (Mt 5, 38nn)",
+					"page": 328
+				},
+				{
+					"title": "Nie unoś się gniewem (Ps 37)",
+					"page": 329
+				},
+				{
+					"title": "Nikt nie może służyć dwom panom (Mt 6, 24–33)",
+					"page": 330
+				},
+				{
+					"title": "O Panie, moje serce nie ma już pretensji (Ps 131)",
+					"page": 331
+				},
+				{
+					"title": "Oto zwierciadłem naszym jest Pan XIII Oda Salomona",
+					"page": 332
+				},
+				{
+					"title": "Panie, Ty mnie badasz i przenikasz (Ps 139, 1–8.23–24)",
+					"page": 333
+				},
+				{
+					"title": "Siedź samotnie i w milczeniu (Lm 3)",
+					"page": 334
+				},
+				{
+					"title": "Siewca (Mk 4, 3–9)",
+					"page": 335
+				},
+				{
+					"title": "Szemá Izrael (Pp 6, 4–9)",
+					"page": 336
+				},
+				{
+					"title": "Ten sam Bóg (2 Kor 4, 6–12)",
+					"page": 337
+				},
+				{
+					"title": "Tyś jest moją nadzieją, o Panie XXIX Oda Salomona",
+					"page": 338
+				}
+			]
+		},
+		{
+			"title": "Pieśni Wybrania",
+			"page": 339,
+			"kids": [
+				{
+					"title": "Gdzie się ukryłeś, Umiłowany Święty Jan od Krzyża",
+					"page": 339
+				},
+				{
+					"title": "Gołębica spoczęła XXIV Oda Salomona",
+					"page": 340
+				},
+				{
+					"title": "Jak sączy się miód XL Oda Salomona",
+					"page": 341
+				},
+				{
+					"title": "Jesteś piękna, przyjaciółko moja (Pnp 6—7)",
+					"page": 342
+				},
+				{
+					"title": "Moja miła jest dla mnie (Pnp 1, 13–16; 2, 8–17)",
+					"page": 343
+				},
+				{
+					"title": "Na wieczerzy Baranka Hymn na Nieszpory od Paschy do Wniebowstąpienia",
+					"page": 344
+				},
+				{
+					"title": "Niech wstąpi Oblubieniec na drzewo swego łoża Hymn św. Quodvultdeusa",
+					"page": 345
+				},
+				{
+					"title": "Skradłaś mi serce (Pnp 4, 9—5, 1)",
+					"page": 346
+				}
+			]
+		},
+		{
+			"title": "Pieśni wyrzucone, regionalne i wersje alternatywne",
+			"page": 347,
+			"kids": [
+				{
+					"title": "Akedá (wersja włoska) Targum Neofiti (Rdz 22, 9–10)",
+					"page": 347
+				},
+				{
+					"title": "Anioł zstępuje z nieba Kolęda (Łk 2, 9–12.15–16; Iz 1, 3)",
+					"page": 348
+				},
+				{
+					"title": "Błogosławię Cię, Panie (Ps 63)",
+					"page": 349
+				},
+				{
+					"title": "Boże, jesteś moją ucieczką (Ps 43)",
+					"page": 350
+				},
+				{
+					"title": "Chrystus jest Światłością (wersja włoska) (J 14, 6; por. J 8, 12)",
+					"page": 351
+				},
+				{
+					"title": "Chwała Bogu (Ef 2, 4–10)",
+					"page": 352
+				},
+				{
+					"title": "Daj chwałę Panu (Ps 146)",
+					"page": 353
+				},
+				{
+					"title": "Fale śmierci (Ps 18)",
+					"page": 354
+				},
+				{
+					"title": "Gdzie się ukryłeś, Ukochany Święty Jan od Krzyża",
+					"page": 355
+				},
+				{
+					"title": "Haggada Paschalna Jesteś głodny",
+					"page": 356
+				},
+				{
+					"title": "Hymn na Jutrznię, Adwent do 16 XII Już dźwięczny głos się rozlega",
+					"page": 357
+				},
+				{
+					"title": "Hymn na Jutrznię, Adwent po 16 XII Głosy proroków",
+					"page": 358
+				},
+				{
+					"title": "Hymn na Jutrznię Pentecoste Dzień bezkresnej radości",
+					"page": 359
+				},
+				{
+					"title": "Jak owca, która widzi Hymn Romana Melodosa",
+					"page": 360
+				},
+				{
+					"title": "Kantyk Jonasza (Jon 2)",
+					"page": 361
+				},
+				{
+					"title": "Kantyk Symeona Nunc dimittis (Łk 2, 29–32)",
+					"page": 362
+				},
+				{
+					"title": "Kiedy Izrael był dziecięciem (Oz 11, 1–11)",
+					"page": 363
+				},
+				{
+					"title": "Modlitwa przed posiłkiem Ty jesteś chlebem ubogich",
+					"page": 364
+				},
+				{
+					"title": "Nie zostawisz mego życia w grobie (Ps 16)",
+					"page": 365
+				},
+				{
+					"title": "Niewiasta obleczona w słońce Potem wielki znak (Ap 12)",
+					"page": 366
+				},
+				{
+					"title": "Nowe przymierze (Jer 31, 31–34)",
+					"page": 368
+				},
+				{
+					"title": "O Panie, ześlij Twego Ducha (Ps 104)",
+					"page": 369
+				},
+				{
+					"title": "Ojciec, co jest w niebie",
+					"page": 370
+				},
+				{
+					"title": "Pieśń czterech nocy Melodia hebrajska",
+					"page": 371
+				},
+				{
+					"title": "Pieśń liczb Melodia hebrajska",
+					"page": 372
+				},
+				{
+					"title": "Sprawiedliwy jaśnieje w ciemnościach (Ps 112, 4–8a.9)",
+					"page": 373
+				},
+				{
+					"title": "Stabat Mater dolorosa (z brewiarza) Sekwencja z XIII wieku",
+					"page": 374
+				},
+				{
+					"title": "Śpiewaj Jahwé, Jeruzalém (Ps 147)",
+					"page": 375
+				},
+				{
+					"title": "Śpiewajcie Panu nową pieśń (Ps 149, 1–5)",
+					"page": 376
+				},
+				{
+					"title": "Śpiewajmy radośnie Panu (Ps 95)",
+					"page": 377
+				},
+				{
+					"title": "Śpiewajmy, śpiewajmy (Wj 15, 1–2)",
+					"page": 378
+				},
+				{
+					"title": "To jest Pascha Pana (por. Wj 3, 15n; por. Dz 2, 22nn)",
+					"page": 379
+				},
+				{
+					"title": "Ukryj mnie (Ps 27)",
+					"page": 380
+				},
+				{
+					"title": "Usta dzieci i niemowląt (Ps 8)",
+					"page": 381
+				},
+				{
+					"title": "W Twojej światłości, Panie (wersja włoska) (Ps 36)",
+					"page": 382
+				},
+				{
+					"title": "Witaj Królowo, Matko miłosierdzia (wersja włoska)",
+					"page": 383
+				},
+				{
+					"title": "Wzywam Jahwe (Ps 18)",
+					"page": 384
+				},
+				{
+					"title": "Z głębokości serca (Ps 130)",
+					"page": 385
+				},
+				{
+					"title": "Żyjcie radośni (wersja włoska) (Flp 4, 4n)",
+					"page": 386
+				}
+			]
+		},
+		{
+			"title": "Kolędy",
+			"page": 389,
+			"kids": [
+				{
+					"title": "Ach, ubogi żłobie (Łk 2, 16)",
+					"page": 389
+				},
+				{
+					"title": "Anioł pasterzom mówił (Lb 17, 23; Mt 17, 5; Łk 2, 9–11.16)",
+					"page": 390
+				},
+				{
+					"title": "Bóg się rodzi, moc truchleje (Mt 2, 11; Łk 2, 7; J 1, 14a)",
+					"page": 391
+				},
+				{
+					"title": "Bracia patrzcie jeno (Łk 2, 8–12)",
+					"page": 392
+				},
+				{
+					"title": "Cicha noc (Łk 2, 16)",
+					"page": 393
+				},
+				{
+					"title": "Do szopy, hej pasterze (Łk 2, 7.13.15–16; Mt 2, 11)",
+					"page": 394
+				},
+				{
+					"title": "Dzieci betlejemskie (Mt 2, 1–12)",
+					"page": 395
+				},
+				{
+					"title": "Dzisiaj w Betlejem (Łk 2, 16; Mt 2, 11)",
+					"page": 396
+				},
+				{
+					"title": "Gdy się Chrystus rodzi (Łk 2, 8–18.20)",
+					"page": 397
+				},
+				{
+					"title": "Gdy śliczna Panna (Łk 2, 16)",
+					"page": 398
+				},
+				{
+					"title": "Gore gwiazda Jezusowi (Mt 2, 2; Łk 2, 7–13)",
+					"page": 399
+				},
+				{
+					"title": "Jezus malusieńki (Łk 2, 16)",
+					"page": 400
+				},
+				{
+					"title": "Kolęda Kowbojska Cowboy Carol",
+					"page": 401
+				},
+				{
+					"title": "Lulajże Jezuniu (Łk 2, 16)",
+					"page": 402
+				},
+				{
+					"title": "Mędrcy świata, monarchowie (Mt 2, 1–12)",
+					"page": 403
+				},
+				{
+					"title": "Mizerna cicha stajenka licha (Łk 2, 16)",
+					"page": 404
+				},
+				{
+					"title": "Nie było miejsca dla Ciebie (Łk 2, 7)",
+					"page": 405
+				},
+				{
+					"title": "Pójdźmy wszyscy do stajenki",
+					"page": 406
+				},
+				{
+					"title": "Przybieżeli do Betlejem pasterze (Łk 2, 8–18)",
+					"page": 407
+				},
+				{
+					"title": "Świeć gwiazdeczko mała, świeć (Mt 2, 1–2)",
+					"page": 408
+				},
+				{
+					"title": "Tryumfy Króla niebieskiego (Łk 2, 8–16)",
+					"page": 409
+				},
+				{
+					"title": "W żłobie leży (Mt 1, 23; 2, 11.16–18; Łk 2, 15–16)",
+					"page": 410
+				},
+				{
+					"title": "Wśród nocnej ciszy (Łk 2, 8–18)",
+					"page": 411
+				},
+				{
+					"title": "Z moim osiołkiem małym (Łk 2, 15–16)",
+					"page": 412
+				},
+				{
+					"title": "Z narodzenia Pana dzień dziś wesoły (Łk 2, 8–20)",
+					"page": 413
+				},
+				{
+					"title": "Zaśnij, Dziecino (Łk 2, 16)",
+					"page": 414
+				}
+			]
+		}
+	]
+}
