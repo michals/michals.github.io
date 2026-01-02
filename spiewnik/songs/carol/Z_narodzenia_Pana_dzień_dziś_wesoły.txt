@@ -110,7 +110,6 @@ index:
   - "zaraz"
   - "Zbawiciel"
   - "zesłany"
-footnote: "Polska kolęda pochwalna, nawiązująca tekstem do najstarszych i pochodzących z łaciny pieśni okresu Bożego Narodzenia. Powstała najprawdopodobniej na przełomie XVIII i XIX wieku. Pierwsza wzmianka pochodzi z Dodatku do śpiewnika kościelnego, wydanego w 1842 roku przez księdza Mioduszewskiego. Dzisiaj najpopularniejsza melodia ma charakter skocznego i marszowego mazura."
 ===
 
 [D]Z narodze[G]nia [D]Pa[A]na [D]dzień dziś [A]weso[D]ły.

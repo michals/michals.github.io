@@ -69,7 +69,6 @@ index:
   - "złożyć"
   - "znać"
   - "zobaczyć"
-footnote: "W „Resucitó” i w nagraniach Kiko nadal tutaj akordy są inne, niż w „Risuscitò 2023” i w „Zmartwychwstał Pan 2025”. (przyp. red.)"
 ===
 
 W:
@@ -96,15 +95,12 @@ jedynym moim [E]szczęściem.
 
 K:
 [d]Słuchaj, Panie, ja [E]płaczę,
-F/d
-bo jestem w wielkiej u[E]dręce.
+[d]bo jestem w wielkiej u[E]dręce.
 [F]Uwolnij mnie Ty od wrogów,
 [G]co są mocniejsi o[E]de mnie;
-a/F
-wyrwij moją duszę z tego więzienia,
+[F]wyrwij moją duszę z tego więzienia,
 [G]a złożę dzięki Twemu i[E]mieniu;
-d/F
-wtedy otoczą mnie sprawie[F]dliwi,
+[F]wtedy otoczą mnie sprawie[F]dliwi,
 radować się będą Twą miłością [E]do mnie.
 
 W:

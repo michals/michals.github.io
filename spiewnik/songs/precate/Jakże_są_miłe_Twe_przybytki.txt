@@ -75,15 +75,13 @@ index:
   - "zastęp"
   - "zawsze"
   - "znajdować"
-footnote: "Kiko na koniec nie śpiewa zwrotki Jeden dzień…, ale Wszyscy razem śpiewają Szczęśliwy kto mieszka…. (przyp. red.)"
 ===
 
 K:
 [C]Jakże są [e]miłe Twe przy[a]bytki,
 [C]Panie, Panie zas[e]tępów!
 Dusza [F]moja pożąda i [C]pragnie
-(C e a)
-żyć w przedsionkach [G]Pana.
+żyć w przedsionkach [G]Pana.([C] [e] [a])
 [C]Także wróbel znaj[e]duje schro[a]nienie,
 [C]jaskółka wije [e]gniazdo
 przy [F]Twoich ołtarzach, [C]Panie,

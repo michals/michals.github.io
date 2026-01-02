@@ -66,13 +66,11 @@ index:
   - "wznieść"
   - "zesłać"
   - "ziemia"
-footnote: "Tej pieśni nie ma w „Resucitó”, „Risuscitò”, ani w „Zmartwychwstał Pan”, chociaż jej refren śpiewamy jako inwokację do Ducha Świętego. Akordy z publikowanych nut, chociaż niekiedy preferuje się nad słowem oblicze akord d zamiast D. (przyp. red.)"
 ===
 
 W:
 [a]O Panie, [d]ześlij Twego [a]Ducha,
-aE7 a
-[G]by od[C]nowił o[F]bli[D]cze ziemi.
+[G]by od[C]nowił o[F]bli[D]cze [a][ES][a]ziemi.
 
 K:
 [a]O Panie, niech ma [G]dusza błogo[C]sławi Cię, [d]Bo[ES]że!
@@ -82,8 +80,7 @@ Na [a]wysokościach, prze[G]chadzasz się na [F]skrzy[a]dłach wia[G]tr[a]u.
 
 W:
 [a]O Panie, [d]ześlij Twego [a]Ducha,
-aE7 a
-[G]by od[C]nowił o[F]bli[D]cze ziemi.
+[G]by od[C]nowił o[F]bli[D]cze [a][ES][a]ziemi.
 
 K:
 [a]To wiatr niesie Twe prze[G]słanie dla [C]świata. [d]Bo[ES]że!
@@ -93,8 +90,7 @@ Ty [a]karmisz nas. Ty [G]sprawiasz, że nasz [F]chleb [a]kiełku[G]je[a].
 
 W:
 [a]O Panie, [d]ześlij Twego [a]Ducha,
-aE7 a
-[G]by od[C]nowił o[F]bli[D]cze ziemi.
+[G]by od[C]nowił o[F]bli[D]cze [a][ES][a]ziemi.
 
 K:
 [a]Na Twą miłość wycze[G]kuje każdy [C]człowiek, [d]Bo[ES]że!
@@ -104,5 +100,4 @@ i [a]są stworzeni. O[G]dnawiasz ob[F]lic[a]ze tej Zie[G]m[a]i.
 
 W:
 [a]O Panie, [d]ześlij Twego [a]Ducha,
-aE7 a
-[G]by od[C]nowił o[F]bli[D]cze ziemi.
+[G]by od[C]nowił o[F]bli[D]cze [a][ES][a]ziemi.

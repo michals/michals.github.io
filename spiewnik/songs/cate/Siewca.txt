@@ -48,7 +48,6 @@ index:
   - "ziarno"
   - "ziemia"
   - "zrozumieć"
-footnote: "Ze względu na rytm szybkiego walczyka zręczniej byłoby śpiewać słowa Salió el sembra-dor a sem-brar w przekładzie siew-ca by zamiast siew-ca że-by. Drobienie sylab w tym miejscu zakłóca oryginalny rytm. (przyp. red.)"
 ===
 
 KW:

@@ -37,10 +37,8 @@ index:
   - "wieczny"
   - "witać"
   - "wszyscy"
-footnote: "Ave Regina Cælorum, to starożytna antyfona maryjna, występująca w rękopisach od XII wieku, odmawiana w czasie Liturgii Godzin na zakończenie komplety. (przyp. red.)"
 ===
 
-∼
 K:
 [a]Witaj, Królowo Niebios,
 o P[G]ani, Pani A[F]niołów.
@@ -56,7 +54,7 @@ ze wszystkich najpięk[a]niejsza.
 [d]Witaj, wieczna służe[a]bnico,
 proś Chry[E]stusa za [a]nami.
 }}}
-∼
+
 K:
 [a]I … [G]i … [F]i …
 Witaj, Korzeniu;

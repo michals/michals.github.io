@@ -58,7 +58,6 @@ index:
   - "wybrać"
   - "zbawienie"
   - "zostać"
-footnote: "Za „Zmartwychwstał Pan 2025”: Jego→swojej, pieczęcią. (przyp. red.)"
 ===
 
 K:
@@ -104,7 +103,7 @@ K:
 gdyśmy usłyszeli Słowo [h]prawdy,
 [Fis]Dobrą Nowinę
 o naszym zba[h]wieniu,
-zostaliśmy opieczęto[A]wani          przez Ducha Świę[G]tego,
+zostaliśmy opieczęto[A]wani     przez Ducha Świę[G]tego,
 który uczynił z nas swój [Fis]lud.
 W:
 Byśmy [h]byli

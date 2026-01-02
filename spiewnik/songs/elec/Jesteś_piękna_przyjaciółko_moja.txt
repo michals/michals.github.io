@@ -59,7 +59,6 @@ index:
   - "włosy"
   - "wschodzić"
   - "zostać"
-footnote: "Za „Zmartwychwstał Pan 2025”: oczy jak→oczy są jak, w nich uwięziony→w niej uwięziony, Jerozolima→Jerozolimo. (przyp. red.)"
 ===
 
 KW:
@@ -70,14 +69,14 @@ Jerozo[g]lima, Jerozo[AS]lima,
 Jerozo[g]lima, Jerozo[AS]lima.
 
 K:
-[g]Jak piękne są twoje stopy w sandałach, córko ksią[AS]żęca!
+[g]Jak piękne są twoje stopy w sandałach,         córko ksią[AS]żęca!
 [g]Linia twych bioder dziełem rąk ar[AS]tysty;
 twój [B]pępek jest jak okrągła [AS]czasza;
 [B]twoja szyja jak wieża z kości sło[AS]niowej;
-twoje [g]oczy są jak‡‡‡ sadzawki Chesz[AS]bonu;
+twoje [g]oczy są jak sadzawki Chesz[AS]bonu;
 twoja [g]głowa jest jak góra [AS]Karmel;
 twoje [B]włosy są jak pur[AS]pura;
-[g]król został w niej‡‡‡ uwię[AS]ziony.
+[g]król został w niej uwię[AS]ziony.
 
 W:
 [d]Jesteś piękna, przyjaciółko moja,
@@ -103,5 +102,5 @@ Jerozo[g]lima, Jerozo[AS]lima,
 Jerozo[g]lima, Jerozo[AS]lima.
 
 K:
-[AS]Jerozolimo, A[g]aj, Jero[AS]zolimo,‡‡‡
-Jerozo[B]limo, Jerozo[AS]limo.‡‡‡
+[AS]Jerozolimo, A[g]aj, Jero[AS]zolimo,
+Jerozo[B]limo, Jerozo[AS]limo.

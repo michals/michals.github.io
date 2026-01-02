@@ -60,7 +60,6 @@ index:
   - "wino"
   - "włóczęga"
   - "zabrać"
-footnote: "Szałasy pasterzyCałuj mnieTytuł włoski odwołuje się do początku pieśni, gdy hiszpański do wersetu ósmego (przyp. red.)"
 ===
 
 KN:

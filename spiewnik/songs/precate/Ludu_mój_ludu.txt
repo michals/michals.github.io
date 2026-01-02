@@ -55,7 +55,6 @@ index:
   - "ziemia"
   - "zły"
   - "zrobić"
-footnote: "Lamentacje PanaLamenti del Signore To utrwaliło rozbieżności. (przyp. red.)"
 ===
 
 W:
@@ -65,10 +64,9 @@ cóż złegom ci uczynił,
 i w czym cię zasmuciłem,
 daj mi odpowiedź,
 [HS]w czym cię zasmuciłem?
-p
-(a6 p p )
+
 K:
-[a]To Ja wywiodłem cię z Egiptu,
+[a]To Ja wywiodłem cię z E([aX])giptu,
 [a]to Ja wywiodłem cię z Egiptu,
 a [HS]ty, a ty przygotowałeś mi krzyż!
 
@@ -81,11 +79,9 @@ daj mi odpowiedź,
 [HS]w czym cię zasmuciłem?
 
 K:
-[a]Za to, żep wiodłem cię
-(a6 p p )
-czterdzieści lat przez pustynię,                         p
-(a6 p p )
-[a]za to, że twój głód koiłem manną,
+[a]Za to, że wiodłem cię
+czterdzieści lat przez pu([aX])stynię,
+[a]za to, że twój głód koiłem ([aX])manną,
 [a]i wprowadziłem cię do Ziemi Obiecanej,
 [HS]ty, ty przygotowałeś mi krzyż!
 
@@ -98,14 +94,12 @@ daj mi odpowiedź,
 [HS]w czym cię zasmuciłem?
 
 K:
-[a]Co
-p   jeszcze miałem ci uczynić,
-(a6 p p )
-a nie zrobiłem?
+[a]Co jeszcze miałem ci uczynić,
+a nie zro([aX])biłem?
 [a]Ja ci śpiewałem: „winnico moja ukochana”,
 a [HS]ty, a ty stałaś się gorzka!
 
-[a]Ágios      o Theós,
+[a]Ágios       o Theós,
 άγιος ο Θεός   - Święty Boże
 W:
 Sanctus Deus,
@@ -116,7 +110,7 @@ Sanctus fortis,
 K:
 ágios athánatos, άγιος αθάνατος - Święty a nieśmiertelny
 W:
-eléison imás,    ελέησον ημάς - zmiłuj się nad nami
+eléison imás,     ελέησον ημάς - zmiłuj się nad nami
 K:
 Sanctus immortalis,
 W:

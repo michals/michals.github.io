@@ -60,7 +60,6 @@ index:
   - "ziemia"
   - "złożyć"
   - "zwierzę"
-footnote: "Pieśń obecna w śpiewniku Alfreda Cholewińskiego SJ, śpiewana w Polsce, a potem wyrzucona przez katechistów włoskich. (przyp. red.)"
 ===
 
 K:

@@ -44,7 +44,6 @@ index:
   - "winnica"
   - "wzgórze"
   - "znaleźć"
-footnote: "Ty, która mieszkasz w ogrodachTu che abiti nei giardiniUchodź, mój kochany (przyp. red.)"
 ===
 
 K:

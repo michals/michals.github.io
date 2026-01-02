@@ -50,11 +50,10 @@ index:
   - "występek"
   - "zbawiony"
   - "zmartwychwskrzesić"
-footnote: "Pieśń obecna w śpiewniku Alfreda Cholewińskiego SJ, wyrzucona potem przez katechistów włoskich. Występuje w śpiewniku ruchu Światło-Życie na etap trzeci oraz w niektórych śpiewnikach kościelnych. Zawsze bez jakichkolwiek wskazań na jej autorów. Zapis nutowy możliwy był na podstawie nagrania Kasi Kulisiewicz z Łodzi. (przyp. red.)"
 ===
 
 W:
-[e]Chwała [a]Bogu, alle[e]luja, alle[H]luja.‡
+[e]Chwała [a]Bogu, alle[e]luja, alle[H]luja.
 [e]Chwała [a]Bogu, alle[e]luja, alle[H]luja.
 K:
 Bóg [e]pełen dobroci i [D]łaski,

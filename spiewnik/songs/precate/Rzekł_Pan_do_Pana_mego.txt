@@ -55,7 +55,6 @@ index:
   - "wzór"
   - "zniweczyć"
   - "zrodzić"
-footnote: "Za „Zmartwychwstał Pan 2025”: Bowiem Pan. (przyp. red.)"
 ===
 
 KW:

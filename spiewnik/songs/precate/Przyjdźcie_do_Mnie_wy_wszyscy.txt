@@ -38,7 +38,6 @@ index:
   - "wszyscy"
   - "wziąć"
   - "znaleźć"
-footnote: "Zaimek osobowy wy jest tutaj nadmiarowy i brzmi jak kalka z języka obcego. W Tysiąclatce go nie ma. Jednak w oryginale jest zwrot hiszpański vosotros todos i melodia wymaga dwóch słów. (przyp. red.)"
 ===
 
 K:

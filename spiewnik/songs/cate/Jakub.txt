@@ -65,7 +65,6 @@ index:
   - "zwać"
   - "zwichnąć"
   - "zwyciężać"
-footnote: "Ta fraza powinna być podzielona pomiędzy słowami Wtedy oraz ktoś, aby wpasować się w oryginalną melodię. Stąd przesunięcie pierwszego akordu. (przyp. red.)"
 ===
 
 K:
@@ -80,7 +79,7 @@ i przeprawił przez potok,
 całe swe [E]mienie:
 i pozostał sam [a]jeden.
 KW:
-[G]Wtedy ktoś zmagał się [a]z nim.††
+[G]Wtedy ktoś zmagał się [a]z nim.
 K:
 Wtedy [G]ktoś zmagał się z nim
 aż do jut[a]rzenki.
@@ -114,6 +113,6 @@ Izra[G]el: będziesz zwy[a]ciężać.
 Izra[G]el: poznałeś swoją bez[a]silność.
 Izra[G]el: Bóg będzie twoim o[a]parciem.
 W:
-Izra[G]el, Izra[a]el, Izra[G]el,‡
+Izra[G]el, Izra[a]el, Izra[G]el,
 K:
-Izrael będzie twe [a]imię.‡
+Izrael będzie twe [a]imię.

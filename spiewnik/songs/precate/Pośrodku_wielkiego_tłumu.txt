@@ -46,7 +46,6 @@ index:
   - "wszystek"
   - "zatrzymać"
   - "zbawić"
-footnote: "W „Resucitó” ten fragment śpiewają dwukrotnie Wszyscy na melodię pierwszego refrenu z pominięciem drugiego wersetu, więc akordy są inne. (przyp. red.)"
 ===
 
 KW:

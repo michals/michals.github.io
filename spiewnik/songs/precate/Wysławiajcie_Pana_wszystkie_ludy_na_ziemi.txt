@@ -31,17 +31,15 @@ index:
   - "wszystek"
   - "wysławiać"
   - "ziemia"
-footnote: "„Risuscitò 2023” zmieniło e la sua misericordia è eterna (jest wieczne) na e la sua misericordia dura in eterno (trwa na wieki); „Resucitó” ma es eterna su misericordia (Jego miłosierdzie jest wieczne), przy czym kolejność zwrotek jest inna - to mogło zaważyć na włoskiej poprawce redakcyjnej. Myśmy kiedyś śpiewali trwa na wieki a potem poprawili na jest wieczne; Tysiąclatka ma tutaj wierność Pańska trwa na wieki; „Zmartwychwstał Pan 2025” zmienił jest wieczne→trwa na wieki. (przyp. red.)"
 ===
 
 W:
 [G]Wysławiajcie Pana
 [a]wszystkie ludy na ziemi,
 na[C]rody dajcie Mu [HS]chwałę.
-∼
+
 K:
 [G]Bo mocna jest Jego miłość do nas,
-∼
 [a]a Jego wierność trwa na wieki,
 [C]narody, wysławiajcie [HS]Pana
 
@@ -49,10 +47,9 @@ W:
 [G]Wysławiajcie Pana
 [a]wszystkie ludy na ziemi,
 na[C]rody dajcie Mu [HS]chwałę.
-∼
+
 K:
 [G]Bo wielka jest Jego miłość do nas,
-∼
 [a]a Jego miłosierdzie trwa na wieki,
 [C]narody, dajcie Mu [HS]chwałę.
 

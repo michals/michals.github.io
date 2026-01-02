@@ -62,20 +62,17 @@ index:
   - "wszystko"
   - "zbawiać"
   - "zgięty"
-footnote: "Ta pieśń była kiedyś popularna, także w Polsce. Autor Haggadę (podobnie jak i ) nagrał na płycie winylowej La nostra festa è Cristo, F-CAM 30.2 Edizioni Paoline, Roma 1975, z przekazaniem materialnych praw autorskich i o te prawa się ponoć upomniano. Skutkiem przepychanek prawnych Kiko miał podjąć decyzję o wycofaniu Haggady z oficjalnego śpiewnika. Pieśń przeżywa w hiszpańskich wspólnotach drugą młodość. Pieśń występuje w śpiewniku włoskim z nutami Risuscitò Canti del cammino neocatecumenale Edizione Musicale, Parrocchia ss. Martiri Canadesi, Via G.B. de Rossi 46, Roma 1977. (przyp. red.)"
 ===
 
 W:
 [D]Jes[A]teś [D]głodny,
 [G]przyjdź i Paschę [AS]z nami [D]świ[h]ęć.
 [G]masz prag[D]nie[h]nie,
-GDA
-[G]przyjdź i Paschę z nami [D]święć.
+[G]przyjdź i Paschę [G][D][A]z nami [D]święć.
 [D]Wczo[A]raj w nie[D]woli,
 [G]zgięci pod [AS]ręką fara[D]on[h]a,
 [G]dzisiaj [D]wol[h]ni
-GDAD
-[G]z Panem naszym w Izraelu.
+[G]z Panem naszym [G][D][A][D]w Izraelu.
 K:
 [G]Gdyby Święty do nas nie [A]przyszedł,
 [G]by nas z Egiptu u[A]wolnić,

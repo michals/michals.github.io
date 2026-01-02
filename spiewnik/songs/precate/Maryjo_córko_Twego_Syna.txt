@@ -46,7 +46,6 @@ index:
   - "utworzyć"
   - "wydać"
   - "ziemia"
-footnote: "Zainspirowany Pieśnią XXXIII „Dziewico Matko, Córo swego Syna”, Dantego Alighieri, Boska komedia, Raj (przyp. hiszp.), w której poeta kontempluje tajemnicę Trójcy Świętej i dwóch natur, boskiej i ludzkiej, Chrystusa. Dziewico tak bardzo przedziwna (przyp. red.)"
 ===
 
 KW:

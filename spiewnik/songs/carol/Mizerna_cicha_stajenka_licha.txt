@@ -135,8 +135,6 @@ index:
   - "ziemia"
   - "złoty"
   - "zstępować"
-footnote: "Kolęda polska. Słowa napisał Teofil Lenartowicz w swojej Szopce (Wrocław 1849). Pierwotną melodię napisał ks. Jakub Wrzeciono, ale najbardziej znaną jest wersja Jana Galla. Wielu uważa, że zajmuje ona drugie miejsce po „Bóg się rodzi” Franciszka Karpińskiego. Chociaż trudno wskazać ściśle powiązane wersety biblijne, to w formie liryku fabularnego przywoływana jest rzeczywistość ewangeliczna: „Jezus mały”, leżący, śpiący, pastuszkowie, ludzie prości i ubodzy - my, jeśli w pokorze padniemy na kolana. Boskość - to niebieska chwała, promienie, aniołowie, Bóg-człowiek. Boga określają: „Mądrość mądrości” i „światłość
-światłości”: obie pochodzenia ewangelicznego - kalka łacińskiej formy genetivus obiectivus, a genetycznie hebraizm (jak „pieśń nad pieśniami”, czy „król królów”) spopularyzowane dzięki Wulgacie ks. Jakuba Wujka. Tworzą, podobnie jak wers „Słowo ciałem się stało”, kontekst teologiczny kolędy."
 ===
 
 [e]Mizerna, [a]cicha, [e]stajenka [HS]licha,
@@ -149,7 +147,7 @@ I pochyleni klęczą;
 Z włosy złotemi, z skrzydły białemi
 Pod malowaną tęczą.
 
-Wielkie zdziwienie,                                    wszelkie stworzenie,
+Wielkie zdziwienie,                                     wszelkie stworzenie,
 Cały świat orzeźwiony;
 Mądrość Mądrości,                                      światłość światłości,
 Bóg-człowiek tu wcielony.

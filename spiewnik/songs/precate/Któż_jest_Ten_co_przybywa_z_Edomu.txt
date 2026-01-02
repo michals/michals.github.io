@@ -57,7 +57,6 @@ index:
   - "wyzwoliciel"
   - "zdumiewać"
   - "ziemia"
-footnote: "Ten, co wygniata winogrona w tłoczni Przywrócono tytuł sprzed lat. (przyp. red.)"
 ===
 
 KW:

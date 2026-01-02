@@ -30,7 +30,6 @@ index:
   - "Syn"
   - "ubogi"
   - "uciszyć"
-footnote: "Wszyscy powtarzają."
 ===
 
 K:
@@ -76,8 +75,6 @@ KpW:
 При[HS]ди, Господь Ии[e]сус!
 
 [e]Przyjdź, Synu Czło[a]wieczy
-∼
 [HS]Przyjdź … Przyjdź … Przyjdź …
-∼         ∼
 Panie … Panie … Przyjdź …
 Panie J[e]ezu!

@@ -87,7 +87,6 @@ index:
   - "zawsze"
   - "zbawienie"
   - "zniszczyć"
-footnote: "„Zmartwychwstał Pan 2025” wycofał sugestię, by śpiewać Adonaj zamiast Jahwe. (przyp. red.)"
 ===
 
 K:
@@ -95,10 +94,8 @@ K:
 śpiewajmy na cześć [AS]Pana,
 który się okrył [DS]chwałą,
 chwałą, chwałą.
-−
-Pogrążył w wodach [GS]morza
-−
-konia i jeźdźca [CS]jego.
+-Pogrążył w wodach [GS]morza
+-konia i jeźdźca [CS]jego.
 
 W:
 Mą mocą i mą [F]pieśnią

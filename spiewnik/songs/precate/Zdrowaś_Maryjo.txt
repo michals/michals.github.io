@@ -42,7 +42,6 @@ index:
   - "pełny"
   - "teraz"
   - "zdrowaś"
-footnote: "Pozdrowienie anielskie w obu wersjach, tak w „Resucitó” jak i w „Risuscitò”, ma tytuł Ave Maria z dodatkowymi oznaczeniami (jak Ave Maria II, (1984)). Tylko w „Zmartwychwstał Pan” wersja starsza ma spolszczony tytuł Zdrowaś Maryjo, co utrzymał też „Zmartwychwstał Pan 2025”. (przyp. red.)"
 ===
 
 K:
@@ -50,7 +49,6 @@ K:
 [C]łaski [E]peł[a]na,
 [F]Pan jest [E]z Tobą!
 Błogosła[a]wionaś Ty
-∼
 między [d]niewias[E]tami
 i błogosławiony [a]owoc
 łona [d]Twego Je[E]zus.

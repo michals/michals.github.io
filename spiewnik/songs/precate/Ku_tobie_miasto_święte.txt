@@ -58,7 +58,6 @@ index:
   - "Zbawiciel"
   - "ziemia"
   - "zjednoczony"
-footnote: "Rytm marsza hiszpańskiego wymaga w przedtakcie dwóch sylab, np. iść ku, jak jest w hiszpańskim ha-cia czy włoskim ver-so. (przyp. red.)"
 ===
 
 W:
@@ -70,7 +69,7 @@ K:
 Jesteśmy Twoim świętym [a]ludem,
 który dziś wędruje zjedno[G]czony.
 Przychodzisz między [F]nas,
-Twa miłość nas ///
+Twa miłość nas
 popro[E]wadzi.
 Ty jesteś naszą [a]drogą,
 Tyś jest nadzieją [G]naszą,

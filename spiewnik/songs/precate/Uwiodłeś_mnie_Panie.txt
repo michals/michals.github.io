@@ -65,7 +65,6 @@ index:
   - "zmagać"
   - "zniewaga"
   - "zwyciężyć"
-footnote: "Ten akord zmieniał się od wydania do wydania poprzez różne zmniejszone i niekoniecznie zgodne z nimi schematy, aż po E7 , który ostatecznie wprowadził „Zmartwychwstał Pan 2025”. (przyp. red.)"
 ===
 
 KW:
@@ -87,13 +86,11 @@ W:
 Zmagałeś się [ES]ze mną i zwycię[a]żyłeś;
 ujarz[F]miłeś mnie i prze[ES]mogłeś!
 
-E7 /a
 K:
-Przeklęty dzień, gdy się uro[ES]dziłem!
+[a]Przeklęty dzień, gdy się uro[ES]dziłem!
 Przeklęty człowiek, który powiadomił mego ojca:
 „Urodził ci się syn, [a]chłopiec!”
 Dla[ES]czego wyszedłem z łona mej matki,
-∼
 gdy [F]tylko muszę oglądać cierpienie i[ES] ból?
 KW:
 [C]Ale jest Pan [G]u mego boku

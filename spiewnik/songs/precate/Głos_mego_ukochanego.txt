@@ -93,7 +93,6 @@ index:
   - "zaglądać"
   - "zatrzymywać"
   - "zima"
-footnote: "„Zmartwychwstał Pan 2025” zmienia podobny mój kochany→kochany mój podobny, pójdź→przyjdź, rozsiewa→wydaje (styl powtórzeniowy, błąd semantyczny, nie uwzględniam), wróć Panie, wróć Panie, wróć Panie→Mój miły, powróć, powróć. (przyp. red.)"
 ===
 
 K:
@@ -108,7 +107,7 @@ kochany mój podobny do ga[E]zeli.
 [a]za naszym [F]murem,
 patrzy przez okno,
 zagląda przez [E]kratę.
-[C]Teraz mówi mój kochany,                   mówi do mnie:
+[C]Teraz mówi mój kochany,                           mówi do mnie:
 W:
 [C]Powstań, przyjaciółko [E]moja,
 [F]powstań, moja piękna i [E]przyjdź!
@@ -119,12 +118,12 @@ K:
 czas śpiewania pieśni po[E]wrócił,
 [dNmS]głos synogarlicy już [E]słychać,
 
-[F]figa wydała pierwsze owocea winorośl kwitnącarozsiewa woń przy[E]jemną!
+[F]figa wydała pierwsze owoce a winorośl kwitnąca rozsiewa woń przy[E]jemną!
 W:
 [C]Powstań przyjaciółko [E]moja,
 [F]powstań moja piękna i [E]przyjdź!
 K:
-[d]O gołąbko moja ukryta                      w szczelinach [E]skały,
+[d]O gołąbko moja ukryta                   w szczelinach [E]skały,
 [d]w kryjówkach skalnego ur[E]wiska,
 [F]daj mi twój głos usłyszeć,
 daj mi go us[E]łyszeć!
@@ -138,8 +137,7 @@ K:
 [d]Mój ukochany jest [E]dla mnie,
 a [d]ja jestem dla [E]niego;
 [d]nim wiatr wieczorny po[E]wieje
-(E)
-[d]i wydłużą się cienie (wraz ze [E]śmiercią),
+[d]i wydłużą się ([E])cienie (wraz ze [E]śmiercią),
 {{{ 2x
 W:
 Mój [a]miły, [G]powróć, [a]powróć!

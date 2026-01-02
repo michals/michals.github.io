@@ -89,7 +89,6 @@ index:
   - "zgon"
   - "złość"
   - "złoto"
-footnote: "Polska kolęda z XVIII wieku. Znajduje się w Śpiewniczku Siedleckiego z 1878 roku."
 ===
 
 M[C]ędrcy świata, m[F]onarch[C]owie,

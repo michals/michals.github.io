@@ -65,7 +65,6 @@ index:
   - "zwracać"
   - "zwyciężony"
   - "zwyciężyć"
-footnote: "Bramy, podnieście (przyp. red.)"
 ===
 
 KW:

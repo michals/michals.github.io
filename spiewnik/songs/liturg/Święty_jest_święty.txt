@@ -33,7 +33,6 @@ index:
   - "wypełnić"
   - "wysokość"
   - "ziemia"
-footnote: "Dawniej: Okres Wielkiego Postu. Melodii można się doszukać w pieśni hebrajskiej Siman Tov Mazel Tov (Wszystkiego dobrego i powodzenia) śpiewanej na żydowskich ceremoniach zaślubin (w znacznie szybszym tempie). (przyp. red.)"
 ===
 
 W:

@@ -85,7 +85,6 @@ index:
   - "znaczyć"
   - "znosić"
   - "zrozumienie"
-footnote: "Z nagrania Kiko na konwiwencji początku roku w Porto San Giorgio 2018, przyjętego za referencyjne na konwiwencji krajowej. Na podstawie Hymnu do Ducha Świętego Kiko. (przyp. red.)"
 ===
 
 KW:
@@ -131,8 +130,7 @@ K:
 [d]jest naszą chwałą,
 jest prawdą,
 świętością,
-(F)
-jest tym co znaczy być chrześcija[E]ninem.
+([F])jest tym co znaczy być chrześcija[E]ninem.
 W:
 [a]Jest cierpliwy, jest łagodny,
 jest Najwyższym [E]Dobrem,

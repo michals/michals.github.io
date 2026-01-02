@@ -52,14 +52,11 @@ index:
   - "wyprowadzać"
   - "zadrżeć"
   - "ziemia"
-footnote: "W zależności od wykonania stosowane są tutaj akordy durowe lub molowe. (przyp. red.)"
 ===
 
-e/E                                     e/E
 K:
-Kiedy Izra[F]el wyszedł z Egiptu,
-e/E
-dom Ja[F]kuba od ludu obcego,
+[E]Kiedy Izra[F]el wyszedł z E[E]giptu,
+dom Ja[F]kuba od ludu ob[E]cego,
 
 KW:
 [E]Juda stał się Jego przy[F]bytkiem,
@@ -67,15 +64,13 @@ Izrael Jego włas[E]nością.
 
 K:
 [a]Ujrzało to morze i uciekło,
-F♯ F
-a [G]Jordan bieg swój odwrócił,
+a [G]Jordan bieg swój odwrócił,[Fis] [F]
 skakały góry jak baranki,
 pagórki niby jag[E]nięta.
 
 W:
 [a]Czemu, morze, uciekasz,
-F♯ F
-a ty, Jor[G]danie, czemu płyniesz do tyłu?
+a ty, Jor[G]danie, czemu płyniesz do tyłu?[Fis] [F]
 A wy góry skaczecie jak baranki,
 pagórki niby jag[E]nięta?
 [A]Zadrżyj ziemio, zadrżyj
@@ -83,11 +78,9 @@ przed Panem [Fis]Bogiem, On prze[h]chodzi,
 przed [D]Panem Bogiem Jaku[A]bowym.
 On ze [G]skały wodę wypro[Fis]wadza.
 
-f♯/F♯                                   f♯/F♯
 K:
-Kiedy Izra[G]el wyszedł z Egiptu,
-f♯/F♯
-dom Ja[G]kuba od ludu obcego,
+[Fis]Kiedy Izra[G]el wyszedł z E[Fis]giptu,
+dom Ja[G]kuba od ludu ob[Fis]cego,
 
 KW:
 [Fis]Juda stał się Jego przy[G]bytkiem,
@@ -95,15 +88,13 @@ Izrael Jego włas[Fis]nością.
 
 K:
 [h]Ujrzało to morze i uciekło,
-G♯ G
-a [A]Jordan bieg swój odwrócił,
+a [A]Jordan bieg swój odwrócił,[Gis] [G]
 skakały góry jak baranki,
 pagórki niby jag[Fis]nięta.
 
 W:
 [h]Czemu, morze, uciekasz,
-G♯ G
-a ty, Jor[A]danie, czemu płyniesz do tyłu?
+a ty, Jor[A]danie, czemu płyniesz do tyłu?[Gis] [G]
 A wy góry skaczecie jak baranki,
 pagórki niby jag[Fis]nięta?
 [H]Zadrżyj ziemio, zadrżyj

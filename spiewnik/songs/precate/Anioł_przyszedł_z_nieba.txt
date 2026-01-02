@@ -71,7 +71,6 @@ index:
   - "znak"
   - "zwać"
   - "zwyczajny"
-footnote: "Tekst tłumaczony we własnym zakresie z „Resucitó 2023”; unika błędów rytmu i akcentowania. Akordy i przedostatnia zwrotka za „Resucitó”. Wersja „oficjalna”, tłumaczona z włoskiego, za „Zmartwychwstał Pan 2025”: , str. . (przyp. red.)"
 ===
 
 KW:

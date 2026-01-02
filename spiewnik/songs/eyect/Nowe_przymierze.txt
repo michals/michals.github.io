@@ -54,17 +54,16 @@ index:
   - "zawrzeć"
   - "ziemia"
   - "złamać"
-footnote: "Polska pieśń neokatechumenalna, obecna w śpiewniku Alfreda Cholewińskiego SJ, wyrzucona potem przez katechistów włoskich. (przyp. red.)"
 ===
 
 W:
 [D]Oto nadchodzą [A]dni, oto nadchodzą [h]dni,
-kiedy [D]nowe przymierze, kiedy [A]nowe przymierze         [e]zawrę z narodem Izra[h]ela.
+kiedy [D]nowe przymierze, kiedy [A]nowe przymierze               [e]zawrę z narodem Izra[h]ela.
 kiedy [D]nowe przymierze, kiedy [A]nowe przymierze[e]zawrę z na[Fis]rodem Izra[h]ela.
 W:
 [h]Był taki czas, były takie [e]dni,
 K:
-kiedy zawarłem przymierze                                                          z domem Izra[h]ela.
+kiedy zawarłem przymierze                                                  z domem Izra[h]ela.
 W:
 Był taki czas, były takie [e]dni,
 K:
@@ -74,11 +73,11 @@ mimo, że [fis]Ja, mimo, że [e]Ja                                  byłem ich [
 W:
 [h]Przyjdzie taki czas, przyjdą takie [e]dni,
 K:
-kiedy odnowię przymierze                                                          z domem Izra[h]ela.
+kiedy odnowię przymierze                                                  z domem Izra[h]ela.
 W:
 Przyjdzie taki czas, przyjdą takie [e]dni,
 K:
-kiedy wezmę ich za ręce,                                        by wyprowadzić z ziemi e[h]gipskiej.
+kiedy wezmę ich za ręce,                                          by wyprowadzić z ziemi e[h]gipskiej.
 I [fis]Ja, i [e]Ja będę im [h]Bogiem,
 a [fis]oni, a [e]oni będą mi na[Fis]rodem!
 
@@ -92,14 +91,14 @@ w głę[e]binach [Fis]ich je[h]stestwa!
 W:
 [h]Przyjdzie taki czas, przyjdą takie [e]dni,
 K:
-kiedy nie będą musieli                                                        wzajemnie się po[h]uczać.
+kiedy nie będą musieli                                               wzajemnie się po[h]uczać.
 W:
 Przyjdzie taki czas, przyjdą takie [e]dni,
 K:
-kiedy wszyscy od najmniejszego                                                  do największego poznają [h]Mnie!
-Bo [fis]Ja, bo [e]Ja                                          odpuszczę im wy[h]stępki,
-bo [fis]Ja, bo [e]Ja                                        zapomnę o ich [Fis]grzechach!
+kiedy wszyscy od najmniejszego                                         do największego poznają [h]Mnie!
+Bo [fis]Ja, bo [e]Ja                                      odpuszczę im wy[h]stępki,
+bo [fis]Ja, bo [e]Ja                                    zapomnę o ich [Fis]grzechach!
 W:
 [D]Oto nadchodzą [A]dni, oto nadchodzą [h]dni,
-kiedy [D]nowe przymierze, kiedy [A]nowe przymierze                  [e]zawrę z narodem Izra[h]ela.
+kiedy [D]nowe przymierze, kiedy [A]nowe przymierze              [e]zawrę z narodem Izra[h]ela.
 kiedy [D]nowe przymierze, kiedy [A]nowe przymierze[e]zawrę z na[Fis]rodem Izra[h]ela.

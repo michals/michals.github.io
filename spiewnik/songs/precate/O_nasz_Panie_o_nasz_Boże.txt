@@ -61,7 +61,6 @@ index:
   - "wznosić"
   - "ziemia"
   - "zmusić"
-footnote: "Przekład polski dodaje, za przekładem włoskim, nieistniejące w oryginale hiszpańskim ani w Tysiąclatce A jednak (Eppure) zamiast Uczyniłeś go (Lo hiciste), więc następny werset ma dodane uczyniłeś go i zyskując nawet więcej sylab, niż we włoskim, nie mieści się w oryginalnej melodii. (przyp. red.)"
 ===
 
 W:

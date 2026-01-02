@@ -44,7 +44,6 @@ index:
   - "wszystek"
   - "zaraz"
   - "zostawać"
-footnote: "Melodia Ma Nishtaná - Co takiego jest innego? została zaadaptowana przez Kiko z kompozycji Efraima Abilea (Niswickiego) z 1936 roku (fragment oratorium Chag Ha-Cherut). Co takiego jest innego w tej nocyŚpiew dzieci w Noc PaschalnąWłoski dotyczy funkcji, a hiszpański sięga do oryginału hebrajskiego Śpiew dzieci podczas czuwania w Noc Paschalną (przyp. red.)"
 ===
 
 D:

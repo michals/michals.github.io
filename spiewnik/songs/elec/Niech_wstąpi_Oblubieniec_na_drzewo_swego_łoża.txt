@@ -67,7 +67,6 @@ index:
   - "zasypiać"
   - "ziemia"
   - "zostać"
-footnote: "Według mowy św. Quodvultdeusa z Kartaginy (-454) O wyznaniu wiary (De Symbolo, CCL 60, 305-334), I Symbol VI. Tekst za „Zmartwychwstał Pan 2024(?)”. (przyp. red.)"
 ===
 
 KW:
@@ -99,10 +98,9 @@ K:
 [d]to misterium Oblubieńca i Oblubie[E]nicy!
 
 [F]Oblubienica nakłada welon,kiedy umiera Oblu[E]bieniec,
-∼
 [F]i Oblubieniec łączy się z Oblubie[d]nicą
 kiedy ze śmierci po[E]wstaje.
-∼
+
 [F]A kiedy Oblubieniec wstępuje na Niebiosa, aj!
 Oblubienica staje się płodna na całej [E]ziemi.
 

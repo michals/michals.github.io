@@ -38,11 +38,10 @@ index:
   - "wielki"
   - "wszystek"
   - "wybielić"
-footnote: "W przeciwieństwie do śpiewnika włoskiego, w hiszpańskim tutaj i dalej używany jest akord durowy, nie molowy (tutaj są oznaczone obydwa). Tak jest w oryginalnym nagraniu na singlu winylowym Hacia ti morada santa, C-3092 Discoteca Pax, Madrid 1972. Tamże użyto np. przejścia przez subdominantę przy słowach z wielkiego utrapienia a refren Amen jest cały na tonicznym. (przyp. red.)"
 ===
 
 W:
-[C]Amen, amen, amen!‡‡
+[C]Amen, amen, amen!
 A[a]men, amen, amen!
 A[GS]men, amen, a[C]men!
 
@@ -55,11 +54,9 @@ oddajmy [C]Bogu.
 A[a]men, amen, amen!
 A[GS]men, amen, a[C]men!
 
-E/e
 K:
-Cześć i [F]moc, i wszystką potęgę‡‡‡ ,
-E/e
-cześć i [F]moc oddajmy Bogu‡‡‡ .
+Cześć i [F]moc, i wszystką po[e]tęgę,
+cześć i [F]moc oddajmy [e]Bogu.
 
 W:
 [GS]Błogosła[C]wieństwo,
@@ -70,12 +67,10 @@ oddajmy [C]Bogu.
 A[a]men, amen, amen!
 A[GS]men, amen, a[C]men!
 
-E/e
 K:
-Kim [F]są i skąd przychodzą‡‡‡ ?
-E/e
+Kim [F]są i skąd przy[e]chodzą?
 W:
-Kim [F]są i skąd przychodzą‡‡‡ ?
+Kim [F]są i skąd przy[e]chodzą?
 
 W:
 [GS]To ci, którzy przy[C]chodzą
@@ -83,13 +78,10 @@ z wiel[G]kiego utra[C]pienia.
 [GS]To ci, którzy przy[C]chodzą
 z wiel[G]kiego utra[C]pienia.
 K:
-I opłu[F]kali swe szaty,‡‡‡‡
-C/e
-i je wybielili‡‡‡
-E/e
-we [F]krwi Baranka‡‡‡ ,
-E/e
-we [F]krwi Baranka‡‡‡ .
+I opłu[F]kali swe szaty,
+i je wybie[e]lili
+we [F]krwi Ba[e]ranka,
+we [F]krwi Ba[e]ranka.
 W:
 [GS]To ci, którzy przy[C]chodzą
 z wiel[G]kiego utra[C]pienia.
@@ -100,5 +92,3 @@ W:
 [C]Amen, amen, amen!
 A[a]men, amen, amen!
 A[GS]men, amen, a[C]men!
-
-Początkowy fragment tej pieśni jest użyty w Doksologii końcowej (1) na str. . (przyp. red.)

@@ -42,7 +42,6 @@ index:
   - "trwać"
   - "wszyscy"
   - "wznieść"
-footnote: "Melodia zaczerpnięta z refrenu Shir Hamaalot (Pieśń Wstępujących pod Górę), Psalmu 134, który skomponował Chaim Warshawsky (1870-1948). W „Resucitó 2023” początek najpierw śpiewają Dzieci, powtarzając po soliście. (przyp. red.)"
 ===
 
 W:
@@ -70,6 +69,5 @@ Alleluja, [AS]Alleluja, [B]Allelu[A]ja,
 KpW:
 Allelu-, Allelu-, Al[B]lelu[A]ja,
 Allelu-, Allelu-, Al[B]lelu[A]ja!
-∼
 K:
 [B]Allelu[AS]ja.

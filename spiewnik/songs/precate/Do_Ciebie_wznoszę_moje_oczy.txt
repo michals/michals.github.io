@@ -42,7 +42,6 @@ index:
   - "wypełnić"
   - "wznosić"
   - "zmiłować"
-footnote: "Za „Zmartwychwstał Pan 2025”: są w Panu→wpatrują się w Pana. (przyp. red.)"
 ===
 
 KW:
@@ -55,21 +54,28 @@ są wpatrzone w ręce ich [AS]panów,
 jak [g]oczy niewolnicy
 w ręce jej [AS]pani,
 tak [BS]nasze oczy wpatrują się [AS]w Pana,
-B7/g
-ufając, że się zmi[AS]łuje,
+u[g]fając, że się zmi[AS]łuje,
 u[BS]fając, że się zmi[AS]łuje.
 
-N Miej [d]litość nad nami, o [AS]Panie.
-M Miej [BS]litość nad nami, o [AS]Panie.
+N:
+Miej [d]litość nad nami, o [AS]Panie.
+M:
+Miej [BS]litość nad nami, o [AS]Panie.
 
-N Nasza [d]dusza jest nasycona po[AS]gardą.
-M Bo [BS]nazbyt nas wypełnili szy[AS]derstwem.
+N:
+Nasza [d]dusza jest nasycona po[AS]gardą.
+M:
+Bo [BS]nazbyt nas wypełnili szy[AS]derstwem.
 
-N Po[d]gardą ludzi [AS]pysznych.
-M Szy[BS]derstwem prze[AS]śmiewców.
+N:
+Po[d]gardą ludzi [AS]pysznych.
+M:
+Szy[BS]derstwem prze[AS]śmiewców.
 
-N Miej [d]litość nad nami, o [AS]Panie.
-M Miej [BS]litość nad nami, o [AS]Panie.
+N:
+Miej [d]litość nad nami, o [AS]Panie.
+M:
+Miej [BS]litość nad nami, o [AS]Panie.
 
 W:
 [d]Do Ciebie wznoszę moje [AS]oczy,

@@ -110,11 +110,9 @@ index:
   - "złoto"
   - "zmieszać"
   - "znój"
-footnote: "Kolęda polska. Autorem słów jest Franciszek Karpiński - poeta doby stanisławowskiej. Poeta stworzył ją jako Pieśń o Narodzeniu Pańskim w 1787 r. w Białymstoku, gdzie spędzał wakacje zaproszony przez Elżbietę Branicką (pisze o tym w sierpniu 1787 r. do ks. Marcina Poczobuta: „… śpiewać wkrótce w kościele będą”). Jak przekazuje tradycja, melodię zaczerpnięto z poloneza koronacyjnego królów polskich. Najwcześniejszy jej zapis znamy z pastorałki z przełomu XVIII i XIX w., opracowanej na sopran, bas i dwoje skrzypiec (rękopis w bibliotece seminarium duchownego w Sandomierzu). W 1838 r. zapisuje melodię
-Mioduszewski (Śpiewnik kościelny). Tekst wydrukowano w Supraślu w 1792 r. w zbiorku Pieśni nabożnych."
 ===
 
-[C]Bóg się r[CS]odzi, m[F]oc truchleje,*
+[C]Bóg się r[CS]odzi, m[F]oc truchleje,
 P[C]an niebiosów [AS]obnaż[GS]ony?
 [C]Ogień krz[CS]epnie, bl[F]ask ciemnieje,
 M[C]a granice N[AS]ieskończ[GS]ony:
@@ -124,7 +122,7 @@ Wzg[G]ardzon[GS]y okr[C]yty chwałą,
 [d]I mieszkało m[G]iędzy n[GS]am[C]i.
 
 Cóż masz, niebo nad ziemiany?
-Bóg porzucił szczęście twoje** .
+Bóg porzucił szczęście twoje.
 Wszedł między lud ukochany
 Dzieląc z nim trudy i znoje.
 Niemało cierpiał, niemało,
@@ -151,10 +149,10 @@ A Słowo ciałem się stało
 I mieszkało między nami.
 
 Podnieś rękę, Boże Dziecię,
-Błogosław ojczyznę†† miłą;
+Błogosław ojczyznę miłą;
 W dobrych radach, dobrym bycie,
 Wspieraj Jej siłę Swą siłą.
 Dom nasz i majętność całą
-I wszystkie‡ wioski z miastami
+I wszystkie wioski z miastami
 A Słowo ciałem się stało
 I mieszkało między nami.

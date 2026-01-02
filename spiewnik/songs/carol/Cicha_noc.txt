@@ -60,10 +60,9 @@ index:
   - "wszego"
   - "wznosić"
   - "zadziwić"
-footnote: "W Wigilię Bożego Narodzenia 1818 roku Joseph Mohr, wikary w kościele św. Mikołaja we wsi Oberndorf, pokazał Franzowi Gruberowi, organiście, wiersz napisany w 1816 roku aby ten ułożył prostą melodię, gdyż organy kościelne (a właściwie pozytyw) zepsuły się nagle. Gruber ułożył melodię na dwa głosy solo i sam akompaniował na gitarze. Gruber i Mohr śpiewali Stille Nacht po raz pierwszy w Boże Narodzenie w czasie pasterki. Słowa polskie: Piotr Maszyński, 1930."
 ===
 
-C[G]icha noc, święta noc‡‡‡
+C[G]icha noc, święta noc
 p[a]okój n[DS]iesie l[G]udziom wsz[GS]em,
 [C]a u żł[D]óbka M[G]atka Św[e]ięta,
 cz[a]uwa s[DS]ama [G]uśmiechn[e]ięta,

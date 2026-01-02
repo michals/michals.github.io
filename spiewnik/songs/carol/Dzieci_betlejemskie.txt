@@ -78,7 +78,6 @@ index:
   - "złoto"
   - "zobaczyć"
   - "zrodzić"
-footnote: "Kolęda włoska z płyty Seminarzystów Redemptoris Mater „Kolędy Świata” 2006. Tekst przekładu to kompilacja z broszury płyty CD oraz z innych źródeł. Adaptacja do rytmu własna. W nutach także włoska wersja oryginalna."
 ===
 
 W:
@@ -90,7 +89,6 @@ Ale [HS]skąd wy przyby[e]wacie
 na tych [AS]koniach i wiel[D]błądach.
 Kim je[G]steście, kim jesteście,
 żeście [DS]przyszli właśnie [G]tu.
-
 D:
 1 Pochodzę z Dalekiego Wschodu,
 tam, gdzie złota i srebra     mnóstwo [DS]wszędzie.

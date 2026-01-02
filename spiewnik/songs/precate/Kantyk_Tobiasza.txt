@@ -83,7 +83,6 @@ index:
   - "zawsze"
   - "ziemia"
   - "złoto"
-footnote: "Błogosław duszo moja PanaBenedici anima mia il SignoreJerozolima odbudowana Błogosław duszo moja Pana (przyp. red.)"
 ===
 
 K:
@@ -108,7 +107,7 @@ w twoich domach zabrzmi [a]śpiew:
 W:
 Jerozolima …
 K:
-[a]Twoje światło dotrze        aż do krańców [G]ziemi,
+[a]Twoje światło dotrze               aż do krańców [G]ziemi,
 przyjdą do ciebie liczne [a]ludy,
 mieszkańcy wielu na[G]rodów
 do miejsca, gdzie przebywa twe [a]imię.

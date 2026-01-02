@@ -62,7 +62,6 @@ index:
   - "ziemia"
   - "zmartwychwstać"
   - "zstąpić"
-footnote: "Do śpiewania tylko przez wspólnoty, które przeżyły etap Redditio Symboli [czyli po polsku: Wyznanie wiary. (przyp. red.)]."
 ===
 
 [d]Wierz[F]ę w Boga Ojca Wszechmogącego,

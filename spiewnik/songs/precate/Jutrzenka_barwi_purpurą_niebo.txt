@@ -65,7 +65,6 @@ index:
   - "wszyscy"
   - "zamykać"
   - "zmartwychwstać"
-footnote: "Na podstawie Aurora lucis rutilat, hymnu paschalnego (przyp. włoski) z IV-V wieku, przypisywanego św. Ambrożemu (340-397). Hymn na Paschę Zmiana tonacji za „Risuscitò 2023”. (przyp. red.)"
 ===
 
 K:
@@ -83,7 +82,7 @@ by nas prowadzić do [a]życia.
 }}}
 
 K:
-[a]Ciężki kamień zamykał        Jego grobowiec,
+[a]Ciężki kamień zamykał           Jego grobowiec,
 liczne straże go pilno[ES]wały,
 lecz Chrystus tryumfuje Chwalebny
 i ze śmierci, ze śmierci budzi [a]się:

@@ -115,20 +115,14 @@ index:
   - "znak"
   - "zostać"
   - "zstąpić"
-footnote: "„Zmartwychwstał Pan 2025” sięgnął po akordy włoskiej przeróbki. Tam, gdzie się różnią, zamieszczam oba, najpierw hiszpański. (przyp. red.)"
 ===
 
-∼
 P:
-[e]O Boże, [a]poprzez znaki sakramen[HS]talne,                                         Ty dokonujesz niewidzialną mocą                                cudów zba[e]wienia.
-∼                                                               C/D
-[e]Ty w ciągu dziejów [a]w wieloraki sposób                          przygotowałeś [C]wodę, Twoje stworzenie,                          aby stała się znakiem [HS]chrztu.
-∼
-[e]Od początku Twój Duch [a]unosił się nad wo[HS]dami,                                                                              aby już wtedy woda nabrała mocy uświęcania.
-∼
+[e]O Boże, [a]poprzez znaki sakramen[HS]talne,                                           Ty dokonujesz niewidzialną mocą                                      cudów zba[e]wienia.
+[e]Ty w ciągu dziejów [a]w wieloraki sposób                      [D]przygotowałeś [C]wodę, Twoje stworzenie,                             aby stała się znakiem [HS]chrztu.
+[e]Od początku Twój Duch [a]unosił się nad wo[HS]dami,                                                                     aby już wtedy woda nabrała mocy uświęcania.
 [e]A także w wodach potopu [a]dałeś nam obraz [HS]chrztu,aby [e]dzisiaj, tak jak wtedy, [D]woda oznaczała[C]koniec grzechu i początek nowego [HS]życia.
-[e]Tyś wyzwolił z niewoli synów Abra[D]hama,                     przeprowadzając ich suchą nogą przez Morze Czer[e]wone,                  aby stali się obrazem przyszłego [D]ludu ochrz[e]czonych.
-C/D                   H7/e
-A na końcu, gdy nadeszła pełnia [D]czasów,                                 Twój [e]Syn, ochrzczony przez Jana w wodach Jo[D]rdanu                                          został namaszczony przez Ducha Świętego.
+[e]Tyś wyzwolił z niewoli synów Abra[D]hama,                przeprowadzając ich suchą nogą przez Morze Czer[e]wone,             aby stali się obrazem przyszłego [D]ludu ochrz[e]czonych.
+A na końcu, gdy nadeszła pełnia [D]czasów,               Twój [e]Syn, ochrzczony przez Jana w wodach Jo[D]rdanu                       został namasz[D]czony przez Ducha Świę[e]tego.
 PW:
 [e]Podniesiony na [D]krzyżu wylał ze swego [C]boku krew i [HS]wodę.

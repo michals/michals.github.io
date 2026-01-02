@@ -63,7 +63,6 @@ index:
   - "ziemia"
   - "zostać"
   - "zstąpić"
-footnote: "Polska pieśń neokatechumenalna ze śpiewnika Alfreda Cholewińskiego SJ, wyrzucona przez katechistów włoskich. Palcówka gitary: E6-G-H-E1-H-G-A-G, w rytmie bossa novy. (przyp. red.)"
 ===
 
 K:

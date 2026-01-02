@@ -42,7 +42,6 @@ index:
   - "wstępować"
   - "zabrać"
   - "złożyć"
-footnote: "Za „Zmartwychwstał Pan 2025”: lecz idź ogłosić→idź i ogłoś. (przyp. red.)"
 ===
 
 K:
@@ -75,7 +74,6 @@ W:
 [f]Boga mego i Boga wa[c]szego;
 W:
 że wstę[As]puję do Ojca mego i Ojca wa[G]szego,
-∼
 Boga [As]mego i Boga wa[G]szego;
 W:
 [C]Panie, jeżeli Go przeniosłeś ty …

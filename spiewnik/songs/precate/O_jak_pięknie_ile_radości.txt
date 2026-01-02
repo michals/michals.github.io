@@ -42,37 +42,32 @@ index:
   - "Syjon"
   - "wiek"
   - "wysoki"
-footnote: "„Zmartwychwstał Pan 2025” zmienił spływa→opada. W rytmie pieśni jest tutaj miejsce tylko na dwie sylaby, więc robimy spada, tym bardziej, że w Tysiąclatce jest jak rosa Hermonu, która spada na górę Syjon. Jeżeli ktoś ma potrzebę poprawiania, proponuję góry Syjonu→zbocza Syjonu, gdyż góra Syjon jest tylko jedna. (przyp. red.)"
 ===
 
 W:
 [a]O jak [d]pięknie, [a]ile ra[E]dości,
-(G)
-[a]kiedy [d]bracia [a]ży[E]ją [a]razem!
+[a]kiedy [d]bracia [a]ży[E]ją [a]razem!([G])
 
 KW:
 [F]Jest to jak [G]olej, który [F]z głowy [G]spływa
 [F]aż na brodę Aa[E]rona.
 W:
 [a]O jak [d]pięknie, [a]ile ra[E]dości,
-(G)
-[a]kiedy [d]bracia [a]ży[E]ją [a]razem!
+[a]kiedy [d]bracia [a]ży[E]ją [a]razem!([G])
 
 KW:
 [F]Jest to jak [G]olej, który [F]z głowy [G]spływa
 [F]aż na skraj jego [E]płaszcza.
 W:
 [a]O jak [d]pięknie, [a]ile ra[E]dości,
-(G)
-[a]kiedy [d]bracia [a]ży[E]ją [a]razem!
+[a]kiedy [d]bracia [a]ży[E]ją [a]razem!([G])
 
 KW:
 [F]Jest to jak [G]rosa, co z Her[F]monu [G]spada
 [F]aż na góry Sy[E]jonu.
 W:
 [a]O jak [d]pięknie, [a]ile ra[E]dości,
-(G)
-[a]kiedy [d]bracia [a]ży[E]ją [a]razem!
+[a]kiedy [d]bracia [a]ży[E]ją [a]razem!([G])
 
 KW:
 [F]Tam błogo[G]sławi nam [F]Pan z wy[G]soka,

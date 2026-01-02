@@ -100,7 +100,6 @@ index:
   - "ziemia"
   - "zimno"
   - "zwierzę"
-footnote: "Po każdym wersecie Wszyscy odpowiadają: Błogosławcie Pana."
 ===
 
 K:
@@ -140,7 +139,7 @@ Góry i pagórki
 Wszystkie rośliny na ziemi
 Źródła wodne
 Morza i rzeki
-Potwory morskie i wszystko, co się porusza w wodzie
+Potwory morskie i wszystko,      co się porusza w wodzie
 Wszelkie ptaki powietrzne
 Dzikie zwierzęta i trzody
 Synowie ludzcy

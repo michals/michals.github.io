@@ -143,7 +143,6 @@ index:
   - "znieść"
   - "znosić"
   - "zwycięstwo"
-footnote: "Hymn przypisuje się Jacopone da Todi (1230-1306) - średniowiecznemu włoskiemu poecie i mistykowi. Polskie przekłady z łaciny znane są od połowy XVI wieku. Tutaj: przekład Leopolda Staffa z brewiarza. Kursywą złożono zwrotki pominięte przez Kiko (patrz str. ). (przyp. red.)"
 ===
 
 W:

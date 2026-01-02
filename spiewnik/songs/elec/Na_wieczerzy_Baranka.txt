@@ -77,7 +77,6 @@ index:
   - "zapalony"
   - "zwycięstwo"
   - "zwycięzca"
-footnote: "Ad cenam Agni providi to łaciński hymn nieszporny na okres wielkanocny z VI w. Hymn na Nieszpory od Paschy do WniebowstąpieniaInno dei vespri da Pasqua all’Ascensione (przyp. red.)"
 ===
 
 W:

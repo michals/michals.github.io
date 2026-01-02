@@ -68,7 +68,6 @@ index:
   - "wiekuisty"
   - "wzburzony"
   - "zesłać"
-footnote: "Beáta nobis gáudia to łaciński hymn na Jutrznię Zesłania Ducha Świętego. Śpiewa się jak , str. . Tekst wydaje się być przekładem z brewiarza włoskiego. (przyp. red.)"
 ===
 
 W:

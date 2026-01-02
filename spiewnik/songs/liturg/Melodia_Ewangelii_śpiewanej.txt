@@ -67,33 +67,24 @@ index:
   - "zginąć"
   - "ziemski"
   - "zstąpić"
-footnote: "Na tę melodię prezbiter może śpiewać Ewangelię Eucharystii (przyp. włoski). Należy tak rozłożyć tekst perykopy na frazy, aby zakończyć ją frazą o numerze parzystym: 2 albo 4. Akordy pochodzą z nagrania Evangelio cantado Camino Neocatecumenal con acordes Padre Mario Pezzi. „Resucitó 2023” w ramach ujednolicania wprowadziło w trzeciej frazie akordy włoskie GH7G. , str. , także ma tę melodię (przyp. red.)."
 ===
 
 P:
 1[e]Pan [HS]z wa[e]mi.
-e H7 e
 W:
-2[a]I z duchem twoim.
-H7 e
+2[a]I z duchem [e] [HS] [e]twoim.
 P:
-1[e]Słowa Ewangelii według świętego Jana.
-e H7 e
+1[e]Słowa Ewangelii według świętego Ja[HS] [e]na.
 W:
-2[a]Chwała Tobie, Panie.
-H7 e
+2[a]Chwała Tobie, [e] [HS] [e]Panie.
 P:
-1[e]W owym czasie Jezus powiedział: „Zaprawdę, zaprawdę,powiadam ci, że to mówimy, co wiemy,i o tym świadczymy, cośmy widzieli,a świadectwa naszego nie przyjmujecie.
-e H7 e
-2 [a]Jeżeli wam mówię o tym, co jest ziemskie, a nie wierzycie,                  to jakżeż uwierzycie temu,               co wam powiem o sprawach niebieskich?
-3 [G]I nikt nie wstąpił do nieba, oprócz Tego,                        który z nieba zstąpił - Syna Człowiecz[D]eg[G]o.
-e H7 e
-4 [a]A jak Mojżesz wywyższył węża na pustyni,                                             tak potrzeba, by wywyższono Syna Człowieczego,
+1[e]W owym czasie Jezus powiedział: „Zaprawdę, zaprawdę,powiadam ci, że to mówimy, co wiemy,i o tym świadczymy, cośmy widzieli,a świadectwa naszego nie przyjmuj[HS] [e]ecie.
+2 [a]Jeżeli wam mówię o tym, co jest ziemskie, a nie wierzycie,     to jakżeż uwierzycie temu,         co wam powiem o sprawach nie[e] [HS] [e]bieskich?
+3 [G]I nikt nie wstąpił do nieba, oprócz Tego,                                        który z nieba zstąpił - Syna Człowiecz[D]eg[G]o.
+4 [a]A jak Mojżesz wywyższył węża na pustyni,                            tak potrzeba, by wywyższono Syna Człowie[e] [HS] [e]czego,
 3 [G]aby każdy, kto w Niego wierzy, miał życie wi[D]ecz[G]ne.
-e H7 e
-4 [a]Tak bowiem Bóg umiłował świat,               że Syna swego Jednorodzonego dał,            aby każdy, kto w Niego wierzy, nie zginął,       ale miał życie wieczne”.
+4 [a]Tak bowiem Bóg umiłował świat,       że Syna swego Jednorodzonego dał,   aby każdy, kto w Niego wierzy, nie zginął,  ale miał życie [e] [HS] [e]wieczne”.
 P:
 3[G]Oto słowo P[D]ań[G]skie.
-e H7 e
 W:
-4[a]Chwała Tobie, Chryste.
+4[a]Chwała Tobie, [e] [HS] [e]Chryste.

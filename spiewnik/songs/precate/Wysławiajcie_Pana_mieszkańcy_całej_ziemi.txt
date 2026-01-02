@@ -49,13 +49,12 @@ index:
   - "wysławiać"
   - "wyznać"
   - "ziemia"
-footnote: "Zmiana tonacji na hiszpańską za „Zmartwychwstał Pan 2025”. (przyp. red.)"
 ===
 
 W:
 [d]Wysławiajcie Pana miesz[g]kańcy całej [d]ziemi,
 z ra[F]dością cześć na[G]leżną mu od[AS]dajcie.
-∼
+
 K:
 Przy[d]stąpcie do Nie[AS]go
 z uwielbie[d]niem.
@@ -63,7 +62,7 @@ z uwielbie[d]niem.
 W:
 [d]Wysławiajcie Pana miesz[g]kańcy całej [d]ziemi,
 z ra[F]dością cześć na[G]leżną mu od[AS]dajcie.
-∼
+
 K:
 Wy[d]znajcie, że Pan jest Bo[AS]giem,
 On nas stworzył, jesteśmy Jego lu[d]dem.
@@ -71,7 +70,7 @@ On nas stworzył, jesteśmy Jego lu[d]dem.
 W:
 [d]Wysławiajcie Pana miesz[g]kańcy całej [d]ziemi,
 z ra[F]dością cześć na[G]leżną mu od[AS]dajcie.
-∼
+
 K:
 Prze[d]stąpcie Jego progi z hymnami dziękczy[AS]nienia,
 chwalcie i błogosławcie Jego I[d]mię.
@@ -79,10 +78,9 @@ chwalcie i błogosławcie Jego I[d]mię.
 W:
 [d]Wysławiajcie Pana miesz[g]kańcy całej [d]ziemi,
 z ra[F]dością cześć na[G]leżną mu od[AS]dajcie.
-∼
+
 K:
 Bo [d]dobry jest Pa[AS]n,
-∼
 Jego miłość trwa na wie[d]ki
 
 W:

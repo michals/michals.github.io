@@ -49,7 +49,6 @@ index:
   - "wygnaniec"
   - "wzdychać"
   - "zwrócić"
-footnote: "Antyfona łacińska Salve Regina ku czci Najświętszej Maryi Panny, śpiewana w Kościele od dnia Najświętszej Trójcy aż do Adwentu. Antyfona ta kończy również modlitwę różańcową i jest często używana w czasie pogrzebów. Autorstwo łacińskiego oryginału przypisywane jest św. Hermanowi z Reichenau (1013-1054). Pieśń wreszcie zaistniała w śpiewniku włoskim „Risuscitò 2020”. W hiszpańskim „Resucitó” obecna od bardzo dawna. Witaj KrólowoSalve ReginaLa Salve (przyp. red.)"
 ===
 
 K:

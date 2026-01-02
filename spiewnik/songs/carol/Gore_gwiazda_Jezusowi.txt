@@ -68,7 +68,6 @@ index:
   - "wesele"
   - "wycinać"
   - "zstąpić"
-footnote: "Tekst pastorałki znalazł się w XVIII-wiecznym rękopisie krakowskiego klasztoru Sióstr Karmelitanek (obecnie w zbiorach Biblioteki Głównej Uniwersytetu im. Adama Mickiewicza w Poznaniu). Łącznie z melodią pojawił się po raz pierwszy w wydanym przez ks. M. Mioduszewskiego w 1843 roku zbiorze Pastorałki i kolędy z melodyjami, w spisie widniejąc pod krótszym tytułem Gore gwiazda. Na początku XX wieku kolędę zamieszczono w znanym zbiorze Karola Miarki z 1904 roku, już pod obecnym tytułem Gore gwiazda Jezusowi."
 ===
 
 [e]Gore gwiazda Jezusowi

@@ -64,7 +64,6 @@ index:
   - "wszystek"
   - "zachować"
   - "znak"
-footnote: "Refren śpiewa się na dwa chóry (przyp. włoski), naprzemiennie, po hebrajsku głosem wyższym. (przyp. hiszp.)"
 ===
 
 K:
@@ -74,7 +73,7 @@ W:
 [a]Szemá Izrael, [G]szemá Izrael,
 Ado[F]naj Elohenu, Adonaj E[a]had.
 W:
-[a]Słuchaj Izraelu,           - Szemá Izrael
-[G]Słuchaj Izraelu,          - Szemá Izrael
-[F]Pan jest naszym Bogiem, - Adonaj Elohenu
-Pan jest je[a]dyny.          - Adonaj Ehad
+[a]Słuchaj Izraelu, - Szemá Izrael
+[G]Słuchaj Izraelu,                 - Szemá Izrael
+[F]Pan jest naszym Bogiem,          - Adonaj Elohenu
+Pan jest je[a]dyny.                 - Adonaj Ehad

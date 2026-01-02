@@ -56,7 +56,6 @@ index:
   - "ziemia"
   - "zmartwychwstać"
   - "zstąpić"
-footnote: "W tym akordzie słychać c i g, co wskazuje nie na akord D♯7 (czy, jak sugeruje „Risuscitò 2023” E♭ ) ale C7 (jak w „Resucitó 2023”). W tym chwycie wybrzmi śpiewana właśnie kwinta. (przyp. red.)"
 ===
 
 K:
@@ -100,5 +99,3 @@ W:
 [g]Nie ma Go [DS]tu, Zmar[g]twychwstał!
 [g]Nie ma Go [DS]tu, Zmar[g]twychwstał!
 Nie ma Go [c]tu, Zmar[DS]twychwstał!
-
-7

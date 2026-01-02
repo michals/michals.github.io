@@ -45,7 +45,6 @@ index:
   - "zesłać"
   - "ziemia"
   - "zimno"
-footnote: "Pieśń występuje na płycie La nostra festa è Cristo, F-CAM 30.2 Edizioni Paoline, Roma 1975 pt „Preghiera dei poveri Di Jahvè”. Z nieznanych powodów nie została wyrzucona, jak (str. ). (przyp. red.)"
 ===
 
 W:

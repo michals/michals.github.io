@@ -43,7 +43,6 @@ index:
   - "szlom"
   - "wypełniać"
   - "zdrowaś"
-footnote: "Wymowa tej modlitwy w języku aramejskim wydaje się być nieco inna, tak przy słowach tai buta→tai boto, Maran→Moran, jak i przy akcentowaniu, np. imienia Máriam. (przyp. red.)"
 ===
 
 KW:
@@ -68,7 +67,6 @@ bo jes[C]teśmy, bo jesteśmy grzeszni[HS]kami.
 
 K:
 [a]Maryjo, nie [HS]płacz,
-∼
 [a]Maryjo, Maryjo, Maryjo. [HS]
 {{{ 2x
 W:
@@ -82,7 +80,6 @@ K:
 [G]Maryjo, do[HS]pomóż nam,
 Ma[a]ryjo, do[HS]pomóż nam,
 [a]Dziewico Maryjo, do[HS]pomóż nam,
-∼
 [a]Dziewico Maryjo,
 niech wypełnia się w nas Jego [HS]Słowo.
 W:

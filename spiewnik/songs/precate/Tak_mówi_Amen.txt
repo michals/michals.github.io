@@ -71,7 +71,6 @@ index:
   - "zimny"
   - "złoto"
   - "znać"
-footnote: "W kręgach hiszpańskojęzycznych jako autor podawany jest a nie . (przyp. red.)"
 ===
 
 W:

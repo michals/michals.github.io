@@ -68,7 +68,6 @@ index:
   - "wziąć"
   - "zaprawdę"
   - "zmartwychwstać"
-footnote: "Ta wersja konsekracji pojawiła się dopiero w „Risuscitò 2023”, gdzie Przejście i Epikleza są recytowane, tymczasem w „Resucitó 2023” są śpiewane. Śpiewa się na melodię wziętą z psalmu , str. . (przyp. red.)"
 ===
 
 Przejście
@@ -90,7 +89,6 @@ P:
 [e]podał swoim uczniom, mówiąc:
 „[G]bierzcie i pijcie z niego wszyscy:
 [h]to jest bowiem kielich krwi mojej       [a]nowego i wiecz[e]nego przymierza,
-∼
 [G]która za was i za wielu będzie wy[h]lanana odpusz[A]czenie [e]grzechów.
 [G]To czyńcie na [h]moją pa[e]miątkę”.
 Aklamacja

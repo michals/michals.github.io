@@ -64,7 +64,6 @@ index:
   - "zmuszać"
   - "zsyłać"
   - "zwrot"
-footnote: "Te strofy w hiszpańskim „Resucitó” są w odwrotnej kolejności. (przyp. red.)"
 ===
 
 K:
@@ -97,7 +96,7 @@ nie opierajcie się [h]złu.
 
 K:
 [D]Słyszeliście, że powiedziano:
-[h]Kochaj bliźniego swego,       nienawidź swego wroga.
+[h]Kochaj bliźniego swego,             nienawidź swego wroga.
 [A]A ja wam powiadam,
 a ja wam po[h]wiadam:
 [D]kochajcie waszych wrogów,
@@ -105,14 +104,14 @@ czyńcie dobrze [h]tym, co was nienawidzą,
 [A]módlcie się za waszych prześladowców,
 błogo[h]sławcie waszym oszczercom.
 K:
-[G]Bądźcie doskonali, [h]jak jest doskonały‡‡‡‡
+[G]Bądźcie doskonali, [h]jak jest doskonały
 Ojciec wasz w niebie:
 [G]bo On jest dobry [A]dla grzeszników,
 [G]bo On jest dobry [AS]dla złoczyńców.
 W:
 [D]Nie opierajcie się złu …
 K:
-[h]A będziecie [D]dziećmi‡‡‡‡
+[h]A będziecie [D]dziećmi
 waszego Ojca na niebie,
 [A]który sprawia, że słońce wschodzi
 nad dobrymi i nad [h]złymi,

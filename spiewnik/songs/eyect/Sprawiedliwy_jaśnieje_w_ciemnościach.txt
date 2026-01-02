@@ -57,7 +57,6 @@ index:
   - "zaufać"
   - "zawsze"
   - "zły"
-footnote: "Pieśń nagrana przez Kiko po hiszpańsku w 1986. jako psalm responsoryjny z V niedzieli zwykłej roku A. Tutaj tekst z lekcjonarza. Patrz też na str. . (przyp. red.)"
 ===
 
 KW:
@@ -94,12 +93,12 @@ W:
 [a]Sprawiedliwy jaśnieje w ciem[E]nościach
 [F]jak światło dla prawych, jak światło dla [E]prawych.
 K:
-[F]On wschodzi w ciemnościach                                           jak światło dla [E]prawych,
+[F]On wschodzi w ciemnościach                              jak światło dla [E]prawych,
 ła[F]godny, miłosierny i sprawie[E]dliwy.
-[a]Dobrze się wiedzie człowiekowi,                                 który z litości po[E]życza,
+[a]Dobrze się wiedzie człowiekowi,                           który z litości po[E]życza,
 [F]on nigdy, przenigdy się nie za[E]chwieje.
 W:
-[a]Dobrze się wiedzie człowiekowi,                                        który z litości po[E]życza,
+[a]Dobrze się wiedzie człowiekowi,                           który z litości po[E]życza,
 [F]on nigdy, przenigdy się nie za[E]chwieje
 K:
 [F]Pozostanie w wiecznej pa[E]mięci

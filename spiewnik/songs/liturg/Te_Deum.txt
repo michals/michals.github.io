@@ -100,7 +100,6 @@ index:
   - "zmiłować"
   - "zrodzić"
   - "zwycięzca"
-footnote: "Wczesnochrześcijański hymn Te Deum laudamus z IV w., przypisywany przez tradycję św. Ambrożemu (340-397) i św. Augustynowi (354-430), a obecnie św. Nicetasowi (366-414). (przyp. red.)"
 ===
 
 K:

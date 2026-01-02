@@ -84,7 +84,6 @@ index:
   - "zło"
   - "zmartwychwstać"
   - "zmiłować"
-footnote: "Można śpiewać na melodię Ewangelii, akordy e, a, H7 (przyp. włoski). Tekst z Mszału. Litania po włosku pojawiła się dopiero w „Risuscitò 2023”, i tam, a za nim też w „Zmartwychwstał Pan 2025”, początek jest w grece: Kyrie, eleison, Christe, eleison, Kyrie, eleison. W „Resucitó 2023” wezwania początkowe i końcowe są w całości na akordzie tonicznym, i po hiszpańsku. (przyp. red.)"
 ===
 
 KW:
@@ -149,7 +148,7 @@ Jeśli są kandydaci do chrztu:
 Jeśli nie ma kandydatów do chrztu:
 ↱Prosimy Cię, abyś swoją łaskąuświęcił tę wodę,przez którą mają się odrodzićTwoje dzieci, wysłuchaj nas Panie.
 
-↱Prosimy Cię, Jezu,                         Synu Boga żywego, wysłuchaj nas Panie.
+↱Prosimy Cię, Jezu,                   Synu Boga żywego, wysłuchaj nas Panie.
 K:
 [C]Chryste, usłysz [e]nas.
 W:

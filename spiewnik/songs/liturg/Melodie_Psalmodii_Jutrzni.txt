@@ -123,7 +123,6 @@ index:
   - "zgnębiony"
   - "ziemia"
   - "zwracać"
-footnote: "Akordy tutaj dla Psalmu 46 ma w nutach Psalmodia 7, Iz 38,10nn. (przyp. red.)"
 ===
 
 1. Psalm 92
@@ -143,7 +142,7 @@ K:
 [a]Bóg jest dla nas ucieczką i [G]siłą,
 najpewniejszą pomocą w trud[a]nościach.
 W:
-[G]Przeto nie będziemy się bali,choćby zatrzęsła się [a]ziemia
+[G]Przeto nie będziemy się bali, choćby zatrzęsła się [a]ziemia
 [G]i góry zapadły w otchłań [a]morza.
 
 3. Psalm 136
@@ -180,6 +179,3 @@ K:
 W:
 [e]Ty otwierasz swą [G]rękę
 i [A]karmisz do syta wszystko, co [e]żyje.
-
-Wybór melodii za „Risuscitò 2023”. Teksty z brewiarza.
-W nutach zapis ponad dwudziestu pięciu melodii z akordami. (przyp. red.)

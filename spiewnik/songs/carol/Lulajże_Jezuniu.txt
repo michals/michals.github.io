@@ -52,9 +52,6 @@ index:
   - "zemdlony"
   - "ziemia"
   - "znużony"
-footnote: "Kolęda polska o charakterze kołysanki (a więc raczej do kolędowania a nie do liturgii), powstała najprawdopodobniej w drugiej połowie XVII wieku. Najwcześniejsza zachowana wersja tekstu pochodzi ze zbioru z 1705, przechowywanego w Archiwum Archidiecezjalnym w Poznaniu. Zapisy tekstu kolędy figurują również m.in. w rękopisach przechowywanych w klasztorze benedyktynek w Staniątkach: dwóch kancjonałach Gąsiorowskiej z lat 1754 i 1758 oraz tzw. kancjonale Kiernickiej z 1754 r. (sama kolęda datowana tam na 1738 r.). Zamieszczono go także w dwóch osiemnastowiecznych rękopiśmiennych kancjonałach
-franciszkanek oraz w jednym rękopisie karmelitanek z końca XVIII wieku z 2. częścią kantyczki Chybińskiego. Drukiem tekst kolędy ukazał się nakładem lwowskiej oficyny Szlichtynów w zbiorze kantyczek najpierw w 1767, a następnie w 1785 roku. Zapis melodii, nieco różniący się od dzisiejszej, pojawił się drukiem w wydanej w 1843 roku antologii ks. Michała Marcina Mioduszewskiego pt. Pastorałki i kolędy z melodyjami czyli piosnki wesołe ludu w czasie świąt Bożego Narodzenia po domach śpiewane a przez X.M.M.M. zebrane. Kolęda stanowiła inspirację dla wielu twórców, m.in. Fryderyk Chopin wykorzystał jej motyw w środkowej
-części swego Scherzo h-moll op. 20. Cytat z kolędy pojawił się również w utworze Jacka Kaczmarskiego pt. Wigilia na Syberii. W III akcie Betlejem polskiego Lucjana Rydla chór aniołów śpiewa Lulajże, Jezuniu. Tekst tutaj za: Siedlecki Jan, Śpiewniczek zawierający pieśni kościelne z melodyami dla użytku młodzieży szkolnej, Kraków, Księża Misjonarze na Kleparzu, 1908."
 ===
 
 [C]Lulajże [d]Jezuniu, [G]moja Pe[C]rełko,

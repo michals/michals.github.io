@@ -53,7 +53,6 @@ index:
   - "zbroja"
   - "zerwać"
   - "zyskać"
-footnote: "Rabindranath Tagore, poemat LXXIV, Fruit-Gathering, autorski przekład z Bengali na angielski, The Macmillan Company, Nowy Jork 1916. Wyd. hiszpańskie La Cosecha, przekład Zenobia Camprubi de Jiménez, wiersz Juan Ramón Jiménez, A. de Ángel Alcoy, Madryt 1917. (przyp. red.)"
 ===
 
 KW:
@@ -72,14 +71,14 @@ i wo[F]łają mnie, i wołają [E]mnie,
 [a]Ale już mój miecz jest wy[e]kuty,
 [a]włożyłem już [e]zbroję,
 [G]już mój koń się niecier[H]pliwi,
-[D]a ja ///po[A]zyskam me Kró[Fis]lestwo,
-a [h]ja ///po[G]zyskam me Kró[Fis]lestwo.
+[D]a ja po[A]zyskam me Kró[Fis]lestwo,
+a [h]ja po[G]zyskam me Kró[Fis]lestwo.
 
 {{{ 2x
 W:
-///
+
 Po[D]zyskam me Kró[A]lestwo,
-///
+
 po[D]zyskam me Kró[A]lestwo,
 oto [E]idę w każdą [A]stronę.
 }}}
@@ -92,8 +91,9 @@ oto idę w każdą [E]stronę.
 
 {{{ 2x
 W:
-///      Po[D]zyskam me Kró[A]lestwo,
-///
+
+Po[D]zyskam me Kró[A]lestwo,
+
 po[D]zyskam me Kró[A]lestwo,
 oto [E]idę w każdą [A]stronę.
 }}}

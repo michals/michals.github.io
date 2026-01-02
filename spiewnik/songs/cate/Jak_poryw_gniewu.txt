@@ -62,7 +62,6 @@ index:
   - "zastrzeżenie"
   - "zmiłować"
   - "znać"
-footnote: "Za „Zmartwychwstał Pan 2025”: zlitował→zmiłował. (przyp. red.)"
 ===
 
 K:
@@ -107,7 +106,7 @@ Ty jesteś [E]życiem.
 K:
 [C]Bóg, co mnie stworzył, [a]zanim jeszcze [d]byłem,
 znał wszystko [GS]to, co miałem u[C]czynić,[a]
-[AS]dlatego zmiłował† się nade mną i w swym miło[d]sierdziu
+[AS]dlatego zmiłował się nade mną i w swym miło[d]sierdziu
 [G]sprawił, bym wypraszał Jego na[C]turę.
 W:
 [a]Ty jesteś drogą, jakże to cudow[E]ne!

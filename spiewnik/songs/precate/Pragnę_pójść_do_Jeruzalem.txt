@@ -45,7 +45,6 @@ index:
   - "przyjaźń"
   - "spożywać"
   - "zioła"
-footnote: "Melodia pochodzi z opracowania tradycyjnej Ir me kero madre/Ladino. (przyp. red.)"
 ===
 
 K:

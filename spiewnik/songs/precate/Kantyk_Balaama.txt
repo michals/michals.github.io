@@ -87,7 +87,6 @@ index:
   - "wzgórze"
   - "zdołać"
   - "zliczyć"
-footnote: "Śpiew BalaamaCanto di BalaamO jakże piękne twe namioty Śpiew Balaama To przywróciło tytuł sprzed ćwierćwiecza. (przyp. red.)"
 ===
 
 K:

@@ -33,8 +33,7 @@ K:
 [a]Boże, mój Boże, szukam [HS]Ciebie
 [a]i pragnie Ciebie moja [HS]dusza.
 [C]Ciało moje tęskni za [HS]Tobą
-(a)
-[C]jak zeschła ziemia łaknąca [HS]wody.
+[C]jak zeschła ([a])ziemia łaknąca [HS]wody.
 
 W:
 [e]Ciebie, mój [a]Boże, pragnie moja [HS]dusza.

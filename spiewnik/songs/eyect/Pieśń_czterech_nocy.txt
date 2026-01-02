@@ -93,7 +93,6 @@ index:
   - "zginąć"
   - "zmartwychwstać"
   - "Zmartwychwstały"
-footnote: "Pieśń pochodzi z roku 1983. Nie ma jej w śpiewnikach. Jest jednak śpiewana podczas Paschy przez dzieci we Włoszech i w Hiszpanii. (przyp. red.)"
 ===
 
 [a]Podczas pierwszej [C]nocy [d]Pan Bóg był sa[a]motny.

@@ -67,7 +67,6 @@ index:
   - "zmartwychwstały"
   - "zwyciężyć"
   - "zwycięstwo"
-footnote: "W tym fragmencie w „Resucitó 2023” są inne akordy, niż w „Risuscitò 2023”. (przyp. red.)"
 ===
 
 K:
@@ -93,11 +92,9 @@ Gdzież jest, o śmierci, twe zwy[Fis]cięstwo? Alleluja, alleluja.
 Gdzież jest, o śmierci, oścień [h]twój? Alleluja, alleluja.
 Alle[A]luja, alle[G]luja, allelu[Fis]ja.
 
-F♯/A
 K:
-Przypominam wam, [D]bracia, Ewangelię,
-h/G
-którą wam ogłosiłem,
+Przypominam wam, [D]bracia, Ewan[A]gelię,
+którą wam ogło[G]siłem,
 którą [G]też sam otrzy[Fis]małem:
 że [D]Chrystus zmarł za grzechy,
 W:

@@ -92,7 +92,6 @@ index:
   - "wonny"
   - "wszystko"
   - "zażywać"
-footnote: "Kolęda polska o charakterze kołysanki. Jej melodię podają rękopisy karmelitańskie: BJ 3638, rękopis z biblioteki klasztornej, sygn. 95, a także cztery rękopisy franciszkanek. Różni się nieznacznie pod względem rytmicznym od śpiewanej dzisiaj zgodnie z zapisem Mioduszewskiego (Pastorałki i kolędy, 1843). Tekst podają pozostałe rękopisy karmelitanek (w kantyczce Chybińskiego nosi ona tytuł: Panna Najświętsza Synaczka swego najmilszego uprzejmie śpiewając lula), rękopis BJ 3639 i jeden z kancjonałów staniąteckich (Gąsiorowskiej z 1754 roku). Liczy tam osiem lub więcej zwrotek."
 ===
 
 [G]Gdy [D]śliczna [G]Panna [a]Syna [D]kołysa[G]ła,

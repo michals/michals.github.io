@@ -27,7 +27,6 @@ index:
   - "pozdrowienie"
   - "radosny"
   - "szalom"
-footnote: "„Resucitó 2023” proponuje, aby całość śpiewali Wszyscy. (przyp. red.)"
 ===
 
 K:

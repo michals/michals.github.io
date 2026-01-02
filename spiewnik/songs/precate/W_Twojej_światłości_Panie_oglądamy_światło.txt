@@ -88,7 +88,6 @@ index:
   - "znienawidzić"
   - "zostać"
   - "zwierzę"
-footnote: "Pieśń z konwiwencji początku roku 2023. Kiko śpiewał ją w 1981 r. z brewiarza, z antyfoną jako refrenem. Tysiąclatka ma tekst nieco inny, niż brewiarz. Tutaj tekst z Liturgii Godzin. (przyp. red.)"
 ===
 
 KW:

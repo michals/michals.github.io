@@ -61,7 +61,6 @@ index:
   - "zasadzić"
   - "zły"
   - "znajdować"
-footnote: "Ten werset w wykonaiu Kiko jest powtarzany dwukrotnie, pierwszy raz na jednej nucie. (przyp. red.)"
 ===
 
 W:

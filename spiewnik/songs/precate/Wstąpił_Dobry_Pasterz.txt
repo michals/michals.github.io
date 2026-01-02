@@ -62,7 +62,6 @@ index:
   - "wieczny"
   - "wiekuisty"
   - "wstąpić"
-footnote: "Jest to w brewiarzu włoskim Hymn na Nieszpory Wniebowstąpienia Pańskiego i na Jutrznię od Wniebowstąpienia do Zesłania Ducha Świętego. Hymn na Nieszpory Wniebowstąpienia PańskiegoInno dei Vespri del giorno dell’Ascensione e inno delle Lodi dall’Ascensione a Pentecoste Śpiewa się jak , str. . Hymn na WniebowstąpienieWstąpił Dobry PasterzTytuł włoski odstępuje od hiszpańskiego na rzecz pierwszego wersetu (przyp. red.)"
 ===
 
 KW:

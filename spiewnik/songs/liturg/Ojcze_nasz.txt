@@ -35,7 +35,6 @@ index:
   - "zbawić"
   - "ziemia"
   - "złe"
-footnote: "Do śpiewania tylko przez wspólnoty, które przeżyły etap końcowy Ojcze Nasz."
 ===
 
 K:

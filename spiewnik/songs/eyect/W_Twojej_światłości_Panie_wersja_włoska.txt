@@ -84,7 +84,6 @@ index:
   - "znaleźć"
   - "znienawidzić"
   - "zwierzę"
-footnote: "Pieśń z konwiwencji rocznej 2023. Tekst z „oficjalnej” kartki. Tłumaczyli go chyba obcokrajowcy; pozostawia wiele do życzenia. Dodane „o” w refrenie jest wymysłem tłumacza. (przyp. red.)"
 ===
 
 KW:
@@ -126,7 +125,7 @@ oglądamy [e]światło
 }}}
 K:
 [e]Jak cenna jest Twoja łaska, [a]Boże!
-synowie ludzcy chronią się          w cieniu Twych [e]skrzydeł,
+synowie ludzcy chronią się         w cieniu Twych [e]skrzydeł,
 sycą się obfitością Twojego [a]domu,
 poisz ich potokiem Twoich roz[e]koszy.
 {{{ 2x

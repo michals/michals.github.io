@@ -98,10 +98,9 @@ index:
   - "znakomity"
   - "zobaczyć"
   - "zrodzić"
-footnote: "Kolęda polska. Nie wiadomo, kiedy powstała. Autorem tekstu był Franciszek Karpiński, chociaż niektórzy poddają to w wątpliwość. Dość, że Mioduszewski jej nie znał. Podaje ją natomiast Teofil Klonowski w: Zbiór pieśni z melodyjami z 1858 roku."
 ===
 
-Br[G]acia p[D]atrzcie j[G]eno‡‡
+Br[G]acia p[D]atrzcie j[G]eno
 j[G]ak nieb[D]o gor[G]eje!
 Zn[G]ać, że c[D]oś dziwn[G]ego
 w B[G]etlej[D]em się dz[G]ieje.

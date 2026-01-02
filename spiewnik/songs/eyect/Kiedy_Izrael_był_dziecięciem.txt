@@ -62,7 +62,6 @@ index:
   - "ziemia"
   - "zniszczyć"
   - "zza"
-footnote: "Śpiewnik „Zmartwychwstał Pan 2018” nie powtarzał: Izraelu, Izraelu wbrew nagraniom i śpiewnikom włoskim sprzed 2020. (przyp. red.)"
 ===
 
 K:

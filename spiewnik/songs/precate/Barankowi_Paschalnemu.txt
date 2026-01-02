@@ -70,14 +70,13 @@ index:
   - "zmartwychwstać"
   - "zobaczyć"
   - "zwycięski"
-footnote: "Sekwencja na Paschę, średniowieczny hymn łaciński Victimæ paschali laudes (przyp. hiszp.). Jedna z dwóch średniowiecznych sekwencji zachowanych w liturgii katolickiej do dzisiaj (przyp. red.)."
 ===
 
 K:
 [a]Barankowi Paschalnemu[AS]
-niech się wzniesie dzisiaj           święta ofiara uwiel[dNmS]bienia:
+niech się wzniesie dzisiaj                 święta ofiara uwiel[dNmS]bienia:
 [FSp]Baranek odkupił swą ow[E]czarnię,
-[dNmS]niewinny [F]pojednał nasgrzeszników [E]z Ojcem.
+[dNmS]niewinny [F]pojednał nas          grzeszników [E]z Ojcem.
 
 K:
 [a]Śmierć i [AS]życie spotkały się ze sobą
@@ -85,13 +84,13 @@ w przedziwnym pojedyn[dNmS]ku.
 [FSp]Twórca życia był u[E]marły,
 a [dNmS]teraz jest [F]żywy i tryum[E]fuje.
 
-„[AS]Opowiedz nam, Mario,                  coś zobaczyła na drodze:”
+„[AS]Opowiedz nam, Mario,                     coś zobaczyła na drodze:”
 „[FSp]Grób mojego Pana [E]pusty,
 [dNmS]chwałę [F]Pana i żywego Chry[E]stusa,
 [F]aniołów, opaski i [E]całun”.
 
 K:
-„Bowiem [F]Chrystus, ma nadzieja,        zmart[E]wychwstał
+„Bowiem [F]Chrystus, ma nadzieja,            zmart[E]wychwstał
 [F]i nas wyprzedza do Gali[E]lei”,
 W:
 [F]i nas wyprzedza do Gali[E]lei.
@@ -108,4 +107,4 @@ W:
 [F]i nas wyprzedza do Gali[E]lei.
 
 K:
-[F]Ty, Królu zwycięski,                     daj nam Twoje zba[E]wienie!
+[F]Ty, Królu zwycięski,daj nam Twoje zba[E]wienie!

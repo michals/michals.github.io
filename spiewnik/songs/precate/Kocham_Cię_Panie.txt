@@ -63,21 +63,22 @@ index:
   - "zadrżeć"
   - "ziemia"
   - "zstąpić"
-footnote: "Nagrania autorskie oraz „Resucitó” zaczynają od tej zwrotki. Włoski „Risuscitò” zaczyna od Fale śmierci… i taki też tytuł ma w nim ten psalm, a tytułową zwrotkę psalmu Kocham Cię, Panie… każe śpiewać dopiero na końcu. Wersja włoska na str. . (przyp. red.)"
 ===
 
 K:
 [D]Kocham Cię, [Fis]Panie, Tyś moją [h]skałą.
 [G]Tyś mym Wybawicielem, Tyś moim [Fis]Bogiem.
 [G]Kocham Cię, kocham Cię, [Fis]Panie.
-S melodia a)
+S:
+melodia a)
 
 W:
 [D]Fale śmierci ogar[h]niały mnie,
 przera[G]żały mnie trąby Be[D]liala,
 ścis[A]kały mnie pęta sze[G]olu,
 pochwycony byłem w sidła [D]śmierci.
-S melodia b)
+S:
+melodia b)
 
 K:
 [Fis]Wołałem Pana w moim udręczeniu,
@@ -88,7 +89,6 @@ i dotarł do Jego ucha mój [Fis]krzyk;
 
 i [G]ziemia poruszyła się i zach[Fis]wiała,
 za[G]drżały fundamenty [Fis]gór
-∼
 bowiem ob[G]niżył niebiosa i [Fis]zstąpił.
 
 [A]I ukazało się dno [Fis]morza

@@ -63,15 +63,14 @@ index:
   - "zaśpiewać"
   - "zapisywać"
   - "zbudować"
-footnote: "Syjon, matka wszystkich narodówJego fundamentyHiszpański pochodzi od tytułu psalmu, włoski od pierwszego wersetu (przyp. red.)"
 ===
 
 K:
 [a]Jego fundamenty są na świętych górach, [F]
-Pan miłuje bramy Syjonu             bardziej niż wszystkie namioty Ja[E]kuba.
-[HS]O Tobie głoszą rzeczy wspaniałe,             o miasto [E]Boga!
+Pan miłuje bramy Syjonu                     bardziej niż wszystkie namioty Ja[E]kuba.
+[HS]O Tobie głoszą rzeczy wspaniałe,                     o miasto [E]Boga!
 [a]Przywołam Rahab i Babilonię,[F]
-Palestynę, Tyr i Etiopię,     kiedy ktoś się w nich rodzi,   mówi się: „on się tam u[E]rodził!”
+Palestynę, Tyr i Etiopię,kiedy ktoś się w nich rodzi,mówi się: „on się tam u[E]rodził!”
 [HS]Ale o Syjonie mówi się: „[E]Matka”!
 KW:
 [a]Bowiem [d]wszyscy [E]w nim się naro[a]dzili,
@@ -84,7 +83,7 @@ W:
 K:
 [a]Pan zapisuje w swojej księdze:[F]
 „Ten się tam u[E]rodził”;
-[HS]i tańcząc zaśpiewają:                „W Tobie są wszystkie me [E]źródła”!
+[HS]i tańcząc zaśpiewają:                 „W Tobie są wszystkie me [E]źródła”!
 KW:
 [a]I śpie[d]waniem i [E]tańcem ogła[a]szają:
 KW:

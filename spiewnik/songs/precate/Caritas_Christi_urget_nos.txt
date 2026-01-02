@@ -54,7 +54,6 @@ index:
   - "wszystko"
   - "zmartwychwstać"
   - "znać"
-footnote: "Scenariusz za śpiewnikiem „Risuscitò 2023”. W „Resucitó 2023” wersety śpiewa naprzemiennie Kantor oraz Wszyscy. W „Risuscitò 2020” Wszyscy powtarzali dwa ostatnie wersety. (przyp. red.)"
 ===
 
 W:
@@ -63,24 +62,23 @@ W:
 
 W:
 [a]Miłość Chrystusa[C]przynagla nas, świadomych [E]tego;
-[F]Miłość Chrystusa           przynagla nas, świadomych [E]tego,
-[a]że skoro jeden umarł za wszystkich, [C]wszyscy są u[E]marli;
-[F]że skoro Chrystus umarł za wszystkich,            wszyscy są u[E]marli.
-∼
+[F]Miłość Chrystusa                   przynagla nas, świadomych [E]tego,
+[a]że skoro jeden umarł za wszystkich,        [C]wszyscy są u[E]marli;
+[F]że skoro Chrystus umarł za wszystkich,                    wszyscy są u[E]marli.
+
 K:
 [d]A umarł On za wszystkich, aby ci, co [E]żyją,
 [d]nie żyli już więcej dla [E]siebie,
 [F]ale dla Tego, który [dNmS]umarł
-∼FE
-[G]i zmartwychwstał za [E]nich
+[G]i zmartwychwstał za [E]nic[F][E]h
 W:
 [a]Caritas Christi [C]urget [E]nos!
 [F]Caritas Christi urget [E]nos!
 
 K:
-[d]Jeśli ktoś jest w Chrystusie,           jest nowym stwo[E]rzeniem.
+[d]Jeśli ktoś jest w Chrystusie,                 jest nowym stwo[E]rzeniem.
 [d]To co stare minęło, a oto wszystko jest [E]nowe.
-[F]Tego, który nie znał [dNmS]grzechu,          uczynił Bóg grzechem,
+[F]Tego, który nie znał [dNmS]grzechu,                    uczynił Bóg grzechem,
 [G]abyśmy stali się sprawiedliwością Bożą [E]w Nim.
 
 KW:

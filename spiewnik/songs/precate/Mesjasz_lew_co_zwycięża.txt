@@ -49,12 +49,10 @@ index:
   - "zagubić"
   - "zstąpić"
   - "zwyciężać"
-footnote: "Na podstawie In Apocalypsin (Komentarz Apokalipsy) Świętego Wiktoryna z Patawii (przyp. hiszp.) (łac. Victorinus Petavionensis, 230-304), pierwszego egzegety łacińskiego, ojca Kościoła, świętego Kościoła Katolickiego i Prawosławnego. Mesjasz, Lew, by zwyciężać (przyp. red.)"
 ===
 
 KW:
 [a]Mesjasz, lew, co zwy[E]cięża,
-
 stał się Barankiem aby [a]cierpieć.
 
 K:
@@ -66,7 +64,6 @@ jako [F]posag dla swej Oblubienicy Dzie[E]wicy.
 {{{ 2x
 W:
 [a]Mesjasz, lew, co zwy[E]cięża,
-
 stał się Barankiem aby [a]cierpieć.
 }}}
 
@@ -79,6 +76,5 @@ szu[F]kając zagubionej [E]owcy.
 {{{ 2x
 W:
 [a]Mesjasz, lew, co zwy[E]cięża,
-
 stał się Barankiem aby [a]cierpieć.
 }}}

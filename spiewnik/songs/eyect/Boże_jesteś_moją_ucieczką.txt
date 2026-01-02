@@ -49,11 +49,10 @@ index:
   - "zbawienie"
   - "zesłać"
   - "zgnębiony"
-footnote: "Pieśń neokatechumenalna, obecna w śpiewniku Alfreda Cholewińskiego SJ, wyrzucona potem przez katechistów włoskich. (przyp. red.)"
 ===
 
 K:
-[a]Ty Boże, jesteś moją u[d]cieczką,††
+[a]Ty Boże, jesteś moją u[d]cieczką,
 dlaczego mnie odrzu[a]ciłeś?
 Czemu chodzę smutny i [d]prześladowany
 przez [a]wroga?

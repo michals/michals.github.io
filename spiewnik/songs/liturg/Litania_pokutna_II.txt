@@ -76,7 +76,6 @@ index:
   - "złośliwość"
   - "zmiłować"
   - "znieważać"
-footnote: "W wersji hiszpańskiej słowa Zmiłuj się Panie występują czterokrotnie i są powtarzane po Kantorze. (przyp. red.)"
 ===
 
 K:
@@ -179,7 +178,7 @@ Za grzechy popełnione szemraniem w naszym sercu,
 W:
 zmiłuj się nad nami, bo jesteśmy grzesznikami!
 K:
-Za grzechy popełnione                                       zasmucaniem Ducha Świętego,
+Za grzechy popełnione                            zasmucaniem Ducha Świętego,
 W:
 zmiłuj się nad nami, bo jesteśmy grzesznikami!
 K:

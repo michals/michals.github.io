@@ -25,7 +25,6 @@ index:
   - "radosny"
   - "wczas"
   - "zbawić"
-footnote: "Tekst nieco poprawiony względem „oficjalnego”: , str. , aby liczba sylab pasowała do melodii a akcenty wpisywały się w rytm. By zaradzić dzikiemu akcentowi na ostatnią sylabę słowa żyjcié, konieczna była zmiana szyku, i przydałaby się też zmiana tytułu. Rytm pieśni wymaga, aby poza pierwszym wersetem, pozostałe kończyły się oksytonami (sylabą akcentowaną, w oryginale hiszpańskim za „Resucitó”: viene ya, salvará, valor, temáis), co w języku polskim zmusza do używania słów jednosylabowych, jak bądź czy nieco anachronicznego wczas, oznaczającego „na porę” albo „bez spóźnienia”. (przyp. red.)"
 ===
 
 W:

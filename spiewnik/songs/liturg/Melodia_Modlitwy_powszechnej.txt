@@ -77,7 +77,6 @@ index:
   - "zgromadzeni"
   - "zjednoczony"
   - "zostać"
-footnote: "Tekst przykładowy, przeznaczony do nauki melodii, a nie do śpiewania zawsze na liturgiach."
 ===
 
 K:
@@ -87,8 +86,7 @@ za wszystkich kardynałów, biskupów, proboszczów,
 prezbiterów, diakonów, osoby duchowne i cały lud [G]Boży,
 dziękując za tę niedzielę, za tę Eucharystię,
 za Kościół zjednoczony w Chrystusie
-eDe
-głoszeniem Ewangelii.
+głoszeniem Ewan[e][D][e]gelii.
 W:
 Wysłuchaj nas [D]o Pa[e]nie.
 K:
@@ -96,23 +94,20 @@ Módlmy się, bracia, za władców i za wszystkich ludzi,
 którzy zostali ustanowieni jako przywódcy i rządzący naro[G]dami:
 aby za ich przyczyną wojny ustały, by podziały zanikły,
 a powstały drogi do pokoju i sprawiedliwości
-eDe
-we wszystkich narodach.
+we wszystkich na[e][D][e]rodach.
 W:
 Wysłuchaj nas [D]o Pa[e]nie.
 K:
 Módlmy się za cierpiących na ciele lub na duchu
 z powodu chorób, ubóstwa i [G]wojen,
 aby przyczyny cierpienia ustały
-eDe
-a wszystkim głoszono Dobrą Nowinę.
+a wszystkim głoszono Dobrą No[e][D][e]winę.
 W:
 Wysłuchaj nas [D]o Pa[e]nie.
 K:
 Módlmy się za nas samych, tutaj zgromadzonych,
 przeżywających Boży cud Eucha[G]rystii,
 aby nasze serca zostały nim odnowione
-eDe
-i pospieszyły ożywiać naszych najbliższych.
+i pospieszyły ożywiać naszych naj[e][D][e]bliższych.
 W:
 Wysłuchaj nas [D]o Pa[e]nie.

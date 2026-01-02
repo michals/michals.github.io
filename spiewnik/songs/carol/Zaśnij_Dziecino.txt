@@ -42,7 +42,6 @@ index:
   - "zasnąć"
   - "zmrużyć"
   - "znosić"
-footnote: "W rytmie wolnego walca. Kolędę stworzył w 1903 roku Antoni Sas-Uruski (1872-1934), kompozytor, nauczyciel muzyki i śpiewu w seminariach nauczycielskich w Krośnie, Lwowie, Rzeszowie, Stanisławowie i Czortkowie, pianista i kompozytor, twórca głębokich utworów religijnych. Melodia nawiązuje do mazurków Szopena, którego muzyki był miłośnikiem. Tekst napisał Franciszek Ryling, skrzypek, dyrygent, pedagog i kompozytor, także rodem ze Lwowa."
 ===
 
 [a]Zaśnij, Dziecino, [d]Święte Dzie[ES]cię.

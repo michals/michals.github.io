@@ -55,22 +55,23 @@ index:
   - "zadrżeć"
   - "ziemia"
   - "zstąpić"
-footnote: "Wersja włoska pieśni (str. ), promowana w „Risuscitò”, zapewne jako reminiscencja ŚDM Loreto 1995, gdzie refrenu Kiko uczył po włosku. Kocham Cię, PanieTi amo, Signore W „Resucitó” zwrotka Kocham Cię, Panie… jest na początku, jak w Biblii i od niej pochodzi tytuł. (przyp. red.)"
 ===
 
 W:
-[D]Fale śmierci ogar[h]niały mnie,‡‡
+[D]Fale śmierci ogar[h]niały mnie,
 przera[G]żały mnie trąby Be[D]liala,
 ścis[A]kały mnie pęta sze[G]olu,
 pochwycony byłem w sidła [D]śmierci.
-S melodia a) ‡‡‡
+S:
+melodia a)
 
 W:
-[D]Le onde della morte mi avvol[h]gevano,‡‡‡‡
+[D]Le onde della morte mi avvol[h]gevano,
 mi spaven[G]tavano le trombe di Be[D]lial,
 mi strin[A]gevano i lacci dello [G]Sheol,
 ero preso nei ceppi della [D]morte.
-S melodia b) ‡‡‡
+S:
+melodia b)
 
 K:
 [Fis]Wołałem Pana w moim udręczeniu,

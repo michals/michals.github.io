@@ -61,7 +61,6 @@ index:
   - "zło"
   - "złość"
   - "zostać"
-footnote: "Grzech mój, Panie, Tobie wyznałem (przyp. red.)"
 ===
 
 W:

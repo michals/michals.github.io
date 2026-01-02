@@ -51,7 +51,6 @@ index:
   - "wszystek"
   - "wybrać"
   - "ziemia"
-footnote: "Akordy zmienione za „Zmartwychwstał Pan 2025”, ten za „Risuscitò 2023”, który z kolei za „Resucitó 2023”. (przyp. red.)"
 ===
 
 KW:

@@ -50,7 +50,6 @@ index:
   - "zachwiać"
   - "ziemia"
   - "zobaczyć"
-footnote: "„Zmartwychwstał Pan 2025” usunął to powtórzenie, co pozostawia pustkę w części frazy i rujnuje rytm wersetu. (przyp. red.)"
 ===
 
 {{{ 2x

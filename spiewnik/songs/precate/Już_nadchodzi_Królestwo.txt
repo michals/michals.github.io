@@ -35,20 +35,17 @@ index:
   - "On"
   - "Pan"
   - "zaproszony"
-footnote: "Za „Zmartwychwstał Pan 2025”: zbliżyły się→nadeszły. (przyp. red.)"
 ===
 
-(D7)
 W:
-[G]Alleluja, alle[HS]luja, allelu[e]ja.
+[G]Alleluja, alle[HS]luja, allelu[e]ja.([DS])
 Alle[G]luja, alle[HS]luja, allelu[e]ja.
 
 K:
 Już nadchodzi Kró[HS]lestwo
 Pana i Jego Chry[e]stusa.
 Nadchodzi Kró[HS]lestwo
-(D7)
-Pana, naszego [e]Boga.
+Pana, naszego [e]Boga.([DS])
 
 W:
 Alle[G]luja, alle[HS]luja, allelu[e]ja.
@@ -58,8 +55,7 @@ K:
 Dajmy Mu [HS]chwałę,
 bo nadeszły [e]gody;
 dajmy Mu [HS]chwałę,
-(D7)
-to gody naszego [e]Boga.
+to gody naszego [e]Boga.([DS])
 
 W:
 Alle[G]luja, alle[HS]luja, allelu[e]ja.
@@ -69,8 +65,7 @@ K:
 Błogosła[HS]wieni
 zaproszeni na [e]gody,
 zapro[HS]szeni
-(D7)
-na gody Ba[e]ranka.
+na gody Ba[e]ranka.([DS])
 
 W:
 Alle[G]luja, alle[HS]luja, allelu[e]ja.
@@ -80,11 +75,8 @@ K:
 Błogosła[HS]wieni
 zaproszeni na [e]gody,
 na [HS]gody
-(D7)
-naszego [e]Pana.
+naszego [e]Pana.([DS])
 
 W:
 Alle[G]luja, alle[HS]luja, allelu[e]ja.
 Alle[G]luja, alle[HS]luja, allelu[e]ja.
-
-Na melodię tej pieśni śpiewa się także , str. . (przyp. red.)

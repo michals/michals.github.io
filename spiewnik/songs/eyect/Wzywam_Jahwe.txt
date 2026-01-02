@@ -44,7 +44,6 @@ index:
   - "wyrywać"
   - "wysoki"
   - "wzywać"
-footnote: "Pieśń neokatechumenalna, obecna w śpiewniku Alfreda Cholewińskiego SJ, wyrzucona potem przez katechistów włoskich. Ostatnia z pieśni z tego śpiewnika, której melodii poszukiwanie zakończyło się, jak na razie, tylko połowicznym sukcesem, bo zapis nutowy wprawdzie jest, ale bardzo mocno „przybliżony”. Nadal więc każdy ślad melodii oryginalnej jest gorąco oczekiwany. (przyp. red.)"
 ===
 
 KW:

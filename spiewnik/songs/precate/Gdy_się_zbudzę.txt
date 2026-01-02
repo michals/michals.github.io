@@ -99,7 +99,6 @@ index:
   - "zobaczyć"
   - "zostać"
   - "zważyć"
-footnote: "„Zmartwychwstał Pan 2024(?)” zmienił tonację na a, od dawna zalecaną. „Zmartwychwstał Pan 2025” zmienił tonację na h. (przyp. red.)"
 ===
 
 W:
@@ -135,7 +134,7 @@ K:
 [e]nadstaw ucha, wysłuchaj mego [h]głosu,
 okaż mi [G]cuda Twej mi[Fis]łości,
 bo Ty [G]zbawiasz ufających [Fis]Tobie,
-bo Ty po[G]magaszszukającym wsparcia Twej pra[Fis]wicy;
+bo Ty po[G]magasz szukającym wsparcia Twej pra[Fis]wicy;
 [e]jak źrenicę Twego oka o[Fis]chraniaj mnie,
 [e]w cieniu Twych skrzydeł mnie [Fis]ukryj,
 [G]zobacz, że chcą mnie [Fis]zabić.

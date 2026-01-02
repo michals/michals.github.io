@@ -64,7 +64,6 @@ index:
   - "wypełnić"
   - "zbudzić"
   - "ziemia"
-footnote: "Na podstawie Vox clara ecce intonat, łacińskiego hymnu z VI wieku, z Jutrzni Adwentu."
 ===
 
 K:

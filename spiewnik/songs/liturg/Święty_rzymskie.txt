@@ -27,7 +27,6 @@ index:
   - "wypełnić"
   - "wysoki"
   - "ziemia"
-footnote: "Dawniej: Okres Zwykły. Święty (Okres Zwykły)Santo (Tempo Ordinario) (przyp. red.)"
 ===
 
 {{{ 2x

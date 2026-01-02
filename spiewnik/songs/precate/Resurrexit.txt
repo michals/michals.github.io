@@ -35,7 +35,6 @@ index:
   - "wiek"
   - "wierzyć"
   - "zmartwychwstać"
-footnote: "Scenariusz według włoskiego „Risuscitò 2023”; różni się od nagrań autorskich oraz śpiewnika hiszpańskiego „Resucitó 2023” co do miejsca występowania refrenów muzycznych i partii powtarzanych. Akordy uzgodnione ze śpiewnikiem hiszpańskim. (przyp. red.)"
 ===
 
 W:

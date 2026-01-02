@@ -112,11 +112,10 @@ index:
   - "znaleźć"
   - "zostać"
   - "zwodziciel"
-footnote: "W „Resucitó” i w „Zmartwychwstał Pan 2025” wyłącznie jako pieśń , str. , starej wersji tam nie ma. „Risuscitò 2023” połączył obie wersje tej pieśni, promując starą, chociaż miała nieco inną melodię i rytmikę, pewnie dlatego, że była nagrana po włosku; dodano refren hiszpański, a na końcu La la la. Pozycje akordów poprawione odpowiednio do włoskiego nagrania Kiko. (przyp. red.)"
 ===
 
 W:
-[a]Potem wielki znak się ukazał,                   znak wielki na ni[G]ebie,
+[a]Potem wielki znak się ukazał, znak wielki na ni[G]ebie,
 Niewiasta obleczona w sł[a]ońce
 i księżyc pod jej stopami,
 a na jej głowie królewska kor[G]ona z gwiazd dwunastu;
@@ -147,8 +146,8 @@ został strąc[F]ony na ziemię, a z nim jego anioł[E]owie.
 W:
 P[a]otem wielki znak się ukazał …
 K:
-T[a]eraz, kiedy smok ujrzał,      że z[G]ostał strącony na ziemię,
-począł śc[F]igać Niewiastę,       która porodziła mężcz[E]yznę.
+T[a]eraz, kiedy smok ujrzał,        że z[G]ostał strącony na ziemię,
+począł śc[F]igać Niewiastę,        która porodziła mężcz[E]yznę.
 [a]Ale dano Niewieście
 dwa skrzydła orła wielki[G]ego,                    by leciała na pustynię,
 [F]gdzie jest żywiona przez czas,
@@ -157,7 +156,7 @@ dwa czasy i połowę cz[E]asu.
 i odszedł, by toczyć w[F]ojnę     przeciwko reszcie jej pot[E]omstwa;
 [a]przeciwko tym, którzy strz[G]egąprzyk[F]azań Boga
 i są w posiadaniu świadectwa Jez[E]usa.
-Dl[a]atego radujcie się niebiosa          i ich mieszk[G]ańcy,
+Dl[a]atego radujcie się niebiosa           i ich mieszk[G]ańcy,
 bo został strącony
 oskarż[F]yciel naszych br[E]aci.
 Lecz bi[a]ada wam ziemio i morze,

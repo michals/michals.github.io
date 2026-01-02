@@ -132,7 +132,6 @@ index:
   - "zjawiony"
   - "zostać"
   - "zrównać"
-footnote: "Polska kolęda o początkach sięgających XVII wieku. Tekst tej kolędy pochodzi z XVIII wieku, melodia zaś z XIX. Zamieszcza ją Mioduszewski w Dodatku do Śpiewnika kościelnego z 1842 roku. W dzisiejszej praktyce przyjęła się inna wersja melodii, którą to zamieścił Siedlecki w Śpiewniczku z 1878 roku."
 ===
 
 [G]Pójdźmy wszyscy do stajenki,

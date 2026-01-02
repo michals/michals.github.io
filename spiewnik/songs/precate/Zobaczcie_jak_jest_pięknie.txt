@@ -41,7 +41,6 @@ index:
   - "udzielić"
   - "wiek"
   - "zobaczyć"
-footnote: "Śpiewa się na dwa chóry (przyp. włoski). Ta wersja Psalmu 133 śpiewana jest na tradycyjną melodię hebrajską (chasydzką) Hine ma tov uma nayim. W kręgach hiszpańskojęzycznych, jako autor podawany jest niekiedy , być może poprzez pomyłkę z , str. . (przyp. red.)"
 ===
 
 KW:

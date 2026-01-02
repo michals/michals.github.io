@@ -53,7 +53,6 @@ index:
   - "ziemski"
   - "Zmartwychwstały"
   - "zwycięstwo"
-footnote: "Akordy poprawione za śpiewnikiem hiszpańskim i nagraniem na płycie Paloma Incorrupta, San Pablo Multimedia, Madryt 2010. Jako wariant pozostawiono akord z „Risuscitò”. (przyp. red.)"
 ===
 
 W:
@@ -79,9 +78,8 @@ K:
 i czynić wszystko, co On nam [ES]mówi,
 [F]aby przemienił naszą wodę w nowe [ES]wino.
 
-a/F
 W:
-Zwycięstwo, zwy[G]cięstwo,
+Zwy[F]cięstwo, zwy[G]cięstwo,
 życie [F]wieczne w Chrystusie Zmartwych[ES]wstałym!
 Allelu[a]ja, alle[G]lu-, allelu[a]ja.
 Allelu[a]ja, alle[G]lu-, allelu[a]ja!

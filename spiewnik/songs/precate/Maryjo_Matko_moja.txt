@@ -55,7 +55,6 @@ index:
   - "wszystko"
   - "wypłynąć"
   - "zamieszkać"
-footnote: "Maryja, Matka Kościoła To wprowadza rozbieżności. (przyp. red.)"
 ===
 
 K:
@@ -70,7 +69,6 @@ W:
 Ma[a]ryjo, Matko moja,
 Ma[GSPm]ryjo, Matko [a]nasza,
 [G]przyjdź i zamieszkaj [E]ze mną tu,
-//
 [G]wejdź do domu [E]mego
 i [ESPm]naucz nas kochać Twego [FSp]Syna,
 tak jak Go kochałaś [E]Ty,

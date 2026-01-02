@@ -52,7 +52,6 @@ index:
   - "zabity"
   - "ziemia"
   - "zostać"
-footnote: "Pieśń BarankaCanto dell’Agnelo (przyp. red.)"
 ===
 
 K:

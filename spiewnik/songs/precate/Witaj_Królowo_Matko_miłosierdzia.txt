@@ -60,8 +60,6 @@ index:
   - "wygnaniec"
   - "wzdychać"
   - "zwrócić"
-footnote: "Antyfona łacińska Salve Regina ku czci Najświętszej Maryi Panny, śpiewana w Kościele od dnia Najświętszej Trójcy aż do Adwentu. Antyfona ta kończy również modlitwę różańcową i jest często używana w czasie pogrzebów. Autorstwo łacińskiego oryginału przypisywane jest św. Hermanowi z Reichenau (1013-1054). Tekst z wieku XIV-XV, tradycyjnie śpiewany w Kościele. Pieśń pojawiła się w śpiewniku włoskim „Risuscitò 2020”. W hiszpańskim „Resucitó” obecna od bardzo dawna. Frazowanie (i pozycje akordów nad ostatnim wersetem) skorygowane do autorskiego nagrania udostępnianego w związku z katechezą
-wielkopostną 2022 (nagranie pochodzi z 1981 roku). Witaj KrólowoSalve ReginaLa Salve (przyp. red.)"
 ===
 
 K:
@@ -70,7 +68,7 @@ K:
 Do Ciebie wo[a]łamy wygnańcy, synowie [e]Ewy;
 do Ciebie wzdy[a]chamy jęcząc i [e]płacząc
 n[F]a tym łez pa[E]dole, n[F]a tym łez pa[E]dole.[a]
-Przeto, [Pani,] [F]Orędowniczko [E]nasza,
+Przeto, Pani, [F]Orędowniczko [E]nasza,
 [F]one miłosierne oczy Twoje na nas [E]zwróć,
 a Je[F]zusa, błogosławiony owoc żywota Two[E]jego,
 po tym wygnaniu nam okaż.[e]

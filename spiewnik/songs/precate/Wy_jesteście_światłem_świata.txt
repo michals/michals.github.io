@@ -37,7 +37,6 @@ index:
   - "wszyscy"
   - "wszystek"
   - "zapalać"
-footnote: "Trzygłosowa polifonia zainspirowana pieśnią Tomása Luisa de Victoria (1548-1611) Taedet animam meam. (przyp. hiszp.) Zgromadzenie może podzielić się na trzy głosy i wykonać ten początek w formie polifonii."
 ===
 
 W:
@@ -59,8 +58,7 @@ i nie umieszcza pod kor[a]cem,
 [C]Niech świe[E]ci tak wasze [a]światło
 [F]przed wszystkimi [E]ludźmi,
 [d]aby widzieli wasze [E]dzieła
-F/d
-i chwalili Ojca waszego, który jest [E]w niebie.
+[d]i chwalili Ojca waszego, który jest [E]w niebie.
 
 W:
 [a]W[E]y jesteście światłem [a]świata.

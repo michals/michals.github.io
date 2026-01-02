@@ -96,7 +96,6 @@ index:
   - "zło"
   - "złożyć"
   - "zniesławić"
-footnote: "Sformułowanie oblubienica obiecana nie występuje w języku polskim; jest włoską kalką językową z promessa sposa (hiszp. prometida) oznaczającego narzeczoną lub obiecaną. (przyp. red.)"
 ===
 
 K:
@@ -132,7 +131,7 @@ i [C]uciekł do Egiptu, bo Herod chciał zabić [HS]Dziecię!
 O, jakże gorzkie są wody, Ma[e]ryjo!
 W:
 [C]Baranko Boża …
-∼
+
 K:
 [e]Płacz i krzyk słychać w Rama, aj, aj, aj…
 [a]lament i zawodzenie wielkie,
@@ -142,7 +141,7 @@ W:
 [C]Baranko Boża …
 
 K:
-[e]I Anioł Pański ukazał się Józefowi                                     w Egipcie i rzekł mu:
+[e]I Anioł Pański ukazał się Józefowi                            w Egipcie i rzekł mu:
 „[a]Wstań i weź ze sobą Dziecię i Jego Matkę
 i wr[C]óć do ziemi Izra[HS]ela,
 albowiem z Egiptu wezwałem Mego [e]Syna!”

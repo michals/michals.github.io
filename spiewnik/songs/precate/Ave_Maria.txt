@@ -41,14 +41,11 @@ index:
   - "Pan"
   - "pełny"
   - "teraz"
-footnote: "Za „Zmartwychwstał Pan 2025”: błogosławion→błogosławiony. Ciekawe, że po Błogosławionaś nie dodano brakującego Ty, jak to uczyniono w , str. . (przyp. red.)"
 ===
 
-CE
 K:
-A v [F]e Mari[E]a,
-CE
-pełn[F]a ł[E]aski,
+[C] [E]A v [F]e Mari[E]a,
+[C] [E]pełn[F]a ł[E]aski,
 [F]Pan jest [E]z Tobą!
 Błogosła[F]wionaś
 między niewias[E]tami
@@ -56,11 +53,9 @@ i błogos[F]ławiony
 owoc Twego łona,
 Jez[E]us!
 
-CE
 W:
-Świę[F]ta Mary[E]jo,
-CE
-Mat[F]ko [E]Boga,
+[C] [E]Świę[F]ta Mary[E]jo,
+[C] [E]Mat[F]ko [E]Boga,
 [F]módl się za [E]nami,
 bo jes[F]teśmy
 grzeszni[E]kami,

@@ -67,11 +67,10 @@ index:
   - "ziemia"
   - "zobaczyć"
   - "zwyciężyć"
-footnote: "Pieśń obecna w śpiewniku Alfreda Cholewińskiego SJ. Występuje w Risuscitò Canti del cammino neocatecumenale Edizione Musicale, Parrocchia ss. Martiri Canadesi, Via G.B. de Rossi 46, Roma 1977, autorsko przypisana parafii św. Alberta Wielkiego w Rzymie. (przyp. red.)"
 ===
 
 W:
-[D]Błogo[G]sławię Cię, [D]Panie†
+[D]Błogo[G]sławię Cię, [D]Panie
 w moim [G]życiu.
 Do [C]Ciebie wznoszę me [G]ręce,
 alle[D]lu[G]ja.

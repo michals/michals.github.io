@@ -49,8 +49,6 @@ index:
   - "wszystek"
   - "wysłuchać"
   - "zachować"
-footnote: "Akordy za „Resucitó 2023”. Z powodu przekładów na linii hiszpański-włoski-polski, tutaj tylko w polskim „Zmartwychwstał Pan” znikło. W hiszpańskim „Resucitó” obydwie wersje tego wersetu są identyczne; mamy tam solo en él se encuentra el perdón (tylko u Niego jest przebaczenie), co po włosku, aby wyrazić i wyłączność, i bliskość, brzmiałoby soltanto presso in lui si trova il perdono. Ta treść nie mieści się w melodii, więc na potrzeby języka włoskiego zapewne, Kiko w jednym wystąpieniu wiersza wyraża bliskość presso di lui a w powtórzeniu wyłączność soltanto in lui. Po polsku tylko u Niego wyraża obydwie cechy,
-podobnie jak w hiszpańskim. Rozkaz kalkowania z włoskiego był jednak mocniejszy od zdrowego rozsądku. (przyp. red.)"
 ===
 
 K:
@@ -63,8 +61,7 @@ W:
 [a]Z głębokości [FS]wołam do [E]Cie[a]bie:
 [F]Panie, wysłuchaj mego [ES]głosu!
 [a]Niech Twe uszy [FS]będą o[E]twa[a]rte
-(a)
-na [F]głos mojej mo[E]dlitwy!
+na [F]głos mojej mo[E]dlitwy!([a])
 
 K:
 [G]Jeśli zachowasz pamięć o grzechach, [F]Pani[a]e,

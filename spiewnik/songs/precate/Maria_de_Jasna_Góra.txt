@@ -57,7 +57,6 @@ index:
   - "wstawić"
   - "zawsze"
   - "zbawić"
-footnote: "„Zmartwychwstał Pan 2025” przywrócił łacińskie de zamiast włoskiego di. Przeciwstawny spójnik łaciński at powinien być tłumaczony np. na a jednak albo, gdy nie ma miejsca w melodii, jak tutaj, na lecz. Tłumaczenie na samo a może być mylące. (przyp. red.)"
 ===
 
 W:
@@ -76,7 +75,6 @@ módl się za [H]nami.
 K:
 [e]Powstań tak jak Debora,
 [a]zbaw nas tak jak Judyta,
-∼
 śpiewaj dla nas tak jak Anna,
 wstaw się za nami jak Es[H]tera.
 W:

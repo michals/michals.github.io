@@ -47,7 +47,6 @@ index:
   - "zachwiać"
   - "zawsze"
   - "zostawić"
-footnote: "Psalm w tej wersji jest popularny wśród wspólnot włoskich. Obecny w śpiewniku Alfreda Cholewińskiego SJ. Nie sposób znaleźć nagranie w wykonaniu Kiko a jedynie Giorgio Filippucciego. Niemniej jako autor podawany jest Kiko. Psalm współdzieli melodię z na str. . (przyp. red.)"
 ===
 
 KW:

@@ -64,15 +64,13 @@ index:
   - "wszyscy"
   - "wszystek"
   - "ziemia"
-footnote: "Hymn zainspirowany kontakiami Romana Melodosa (490-555), wielkiego poety religijnego Cesarstwa Bizantyńskiego. Maryjo, Gołębica nieskalanaAve, o Maria, colomba incorrotta (przyp. red.)"
 ===
 
 K:
 [e]Rozraduj się, Mar[Fis]yjo,
 j[e]aśniejąca jak [Fis]słońce,
 [G]Ty wskazujesz nam [Fis]drogę,
-G/e
-nadziejo krańców ziemi.
+[e]nadziejo krańców ziemi.
 Ty jesteś jedyną Gołębicą nieska[Fis]laną,
 [e]W Tobie jest całe piękno [Fis]Ducha,
 „[G]Chwała”, która w świecie upiększa stwo[Fis]rzenie.
@@ -102,8 +100,7 @@ K:
 [e]Rozraduj się, Ma[Fis]ryjo,
 [e]jaśniejąca jak [Fis]słońce,
 [G]Ciebie błagają wszyscy [Fis]ludzie,
-G/e
-Matko, Ciebie prosimy za Kościół:
+[e]Matko, Ciebie prosimy za Kościół:
 Daj mu nową siłę łaski i świę[Fis]tości.
 W:
 [h]Rozraduj się, Ma[e]ryjo,

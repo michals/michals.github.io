@@ -58,18 +58,17 @@ index:
   - "znak"
   - "zstępować"
   - "zwać"
-footnote: "Anioł zstąpił z niebaUn angelo venne dal cielo - AllegriaWiwat! Wiwat! Dziś narodził się Zbawiciel Akordy za „Resucitó 2023”. Kolejny tekst „oficjalny” za „Zmartwychwstał Pan 2025”, wreszcie jako tako do wyśpiewania. (przyp. red.)"
 ===
 
 KW:
-[d]Anioł zstępuje z nieba*
+[d]Anioł zstępuje z nieba
 przynosząc wielką nowinę:
 KW:
 „[g]Dziś nam się na[d]rodził,
 dziś na[A]rodził się Zba[d]wiciel.”
 {{{ 2x
 W:
-Alle[F]gria, allegria, alle[A]gria,**
+Alle[F]gria, allegria, alle[A]gria,
 dziś na[B]rodził się Zbawiciel.
 Odpo[Des]czywa teraz w żłobie,
 to Chrystus nasz Odku[CS]piciel!

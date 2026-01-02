@@ -143,8 +143,6 @@ index:
   - "zobaczyć"
   - "zstąpić"
   - "zwyknąć"
-footnote: "Kolęda polska. Powstała w XVII lub XVIII wieku. Przypisywana Piotrowi Skardze - do melodii poloneza koronacyjnego króla Władysława IV. Zapis melodii znajduje się w kancjonałach benedyktynek staniąteckich począwszy od rękopisu z 1707 r. Tę samą muzykę z drobnymi odchyleniami rytmicznymi, podają trzy kancjonały franciszkanek z I poł. XVIII w.; trzy inne podają sam tekst. Rękopisy karmelitanek nie zawierają melodii, cztery z nich (kantyczka Chybińskiego, rękopis z biblioteki klasztornej, sygn. 95, rękopisy BJ 3640 i 3642) przekazują tekst. Melodia będąca dziś w użyciu pochodzi w pierwszej części z I wersji
-podawanej przez Mioduszewskiego, w drugiej części z wersji II."
 ===
 
 [D]W żłobie leży, [A]któż pobieży,

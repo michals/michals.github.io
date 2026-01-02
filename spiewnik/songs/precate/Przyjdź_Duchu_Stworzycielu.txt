@@ -72,8 +72,6 @@ index:
   - "zjednoczony"
   - "złe"
   - "zwycięski"
-footnote: "Należy podkreślić, że podążając za oryginalnym tekstem sprzed tysiąca lat, słowa ogniu oraz miłości powinny być w śpiewie recytatywu wyraźnie rozdzielone, gdyż inaczej niezręczność przekładu wiąże je w zwrot ogień miłości (chyba, że zaśpiewamy explicite ogniu-przecinek-miłości). Kiko w wykonaniach autorskich śpiewa ten werset na nieco inną melodię, niż w pozostałych zwrotkach. Zręczniej jest w oficjalnym tekście liturgicznym: Zdrój żywy, miłość, ognia żar albo w przekładzie Adama Mickiewicza: Źródłem Żywym, ogniem, miłością. Tutaj wystarczyłoby zamiast wołacza użyć narzędnika: Tyś darem Ojca najwyższego,
-wodą żywą, ogniem, miłością, świętym duszy namaszczeniem. (przyp. red.)"
 ===
 
 W:
@@ -114,5 +112,3 @@ zjednoczonych jedną mi[a]łością.
 
 W:
 [G]Am[a]en.
-
-Melodia może być również wykorzystana do śpiewania innych hymnów Liturgii Godzin, które mają cztery wersety w każdej strofie (przyp. włoski). Patrz , str. ; , str. ; , str. ; , str. (przyp. red.).

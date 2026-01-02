@@ -70,7 +70,6 @@ index:
   - "zawsze"
   - "zepsucie"
   - "zostawić"
-footnote: "Na koniec w nagraniach powtarza się dodatkowo słowa po Twej prawicy z rozwiązaniem na kwincie. (przyp. red.)"
 ===
 
 KW:
@@ -112,7 +111,6 @@ K:
 [E]także ciało spoczywa bezpiecznie,
 bo nie zo[d]stawisz mojego życia [E]w grobie,
 ani nie po[d]zwolisz, żeby Twój Święty
-∼
 widział ze[E]psucie, [d]widział ze[E]psucie.[d]
 
 W:

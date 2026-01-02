@@ -70,7 +70,6 @@ index:
   - "wszystko"
   - "zawsze"
   - "związek"
-footnote: "Scenariusz za „Risuscitò”. W „Resucitó” refren występuje w innych miejscach. (przyp. red.)"
 ===
 
 KW:
@@ -117,9 +116,9 @@ K:
 Mówimy wam pełni uf[d]ności,
 [F]ponieważ jesteśmy z was [E]dumni:
 KW:
-[d]nie wprzęgajcie się w nierówne jarzmo                  razem z poga[E]nami.
+[d]nie wprzęgajcie się w nierówne jarzmo      razem z poga[E]nami.
 K:
-Jaki [F]związek między świątynią Boga                     i świątynią i[E]doli?
+Jaki [F]związek między świątynią Boga         i świątynią i[E]doli?
 Bo [d]my jesteśmy świątynią [E]Boga.
 W:
 [a]Bracia!

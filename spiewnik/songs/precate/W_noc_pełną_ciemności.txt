@@ -63,7 +63,6 @@ index:
   - "wyjść"
   - "złączyć"
   - "znać"
-footnote: "Na podstawie pierwszych pięciu strof pieśni Śpiew duszy z poematów Droga na górę Karmel (hiszp. Subida al Monte Carmelo) oraz Noc ciemna (hiszp. Oscura noche del alma) Świętego Jana od Krzyża (1542-1591), hiszpańskiego poety i mistyka. (przyp. red.)"
 ===
 
 KW:

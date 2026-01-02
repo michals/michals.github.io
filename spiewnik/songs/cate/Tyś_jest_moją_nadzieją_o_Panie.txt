@@ -46,7 +46,6 @@ index:
   - "zawieść"
   - "znak"
   - "zwycięstwo"
-footnote: "Ten akord należy grać arpeggio (trącać struny jedna po drugiej a nie razem), tylko na strunach wiolinowych (przyp. włoski). Proponuję dla akordu septymowego zmniejszonego chwyt pełny wyprowadzony od układu: q q . Ma on tę przewagę, że jest klasyczny, zupełny i transponowalny do innych tonacji. Akord składa się z czterech małych tercji - dzięki temu przesunięty o trzy półtony nie zmienia brzmienia i można go zawsze sprowadzić do pierwszych trzech pozycji - wystarczy, że którykolwiek ze składników będzie prymą akordu (przyp. red.)."
 ===
 
 K:
@@ -76,4 +75,3 @@ Wydo[d]byłeś mnie z głębokości sze[AS]olu,
 z paszczy [BS]śmierci mnie wyr[AS]wałeś.
 I [d]tak uwierzyłem w Twojego Mes[AS]jasza
 i [BS]że On jest Panem, ja wyz[AS]nałem.
-q

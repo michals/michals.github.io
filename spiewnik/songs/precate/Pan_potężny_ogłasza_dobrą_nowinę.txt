@@ -56,7 +56,6 @@ index:
   - "zdobycze"
   - "złoto"
   - "zwiastun"
-footnote: "Na melodię tego psalmu śpiewana jest także Konsekracja i Aklamacja Drugiej Modlitwy Eucharystycznej w wersji 1987, str. , oraz Psalmodia Jutrzni, str. nr 6. (przyp. red.)"
 ===
 
 KW:

@@ -48,7 +48,6 @@ index:
   - "zawsze"
   - "zaznawać"
   - "zobaczyć"
-footnote: "Ten psalm w układzie z lekcjonarza na IV Niedzielę Wielkiego Postu rok C, służył kiedyś za przykład śpiewu psalmu responsoryjnego; w „Risuscitò” występuje nadal jako oddzielna pieśń, chociaż w „Risuscitò 2020” pojawiły się także (str. ). W śpiewniku hiszpańskim „Resucitó” nie występuje. Patrz także psalm na str. . (przyp. red.)"
 ===
 
 {{{ 2x

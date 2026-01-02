@@ -93,7 +93,6 @@ index:
   - "ziemia"
   - "zrodzić"
   - "zstąpić"
-footnote: "Polska kolęda powstała w połowie XVIII wieku. Najstarszy zapis tekstu i melodii został sporządzony przez Annę Kiernicką ze Zgromadzenia Sióstr Benedyktynek i znajduje się w Kancjonale pochodzącym z 1754 roku. Tekst kolędy zamieścił ks. Michał Marcin Mioduszewski w Śpiewniku kościelnym z roku 1853, natomiast zapis melodii znajduje się w Śpiewniczku zawierającym pieśni kościelne autorstwa ks. Jana Siedleckiego wydanym w Krakowie w 1879 roku."
 ===
 
 T[F]riumfy Kr[C]óla niebiesk[F]iego,

@@ -46,7 +46,6 @@ index:
   - "tuki"
   - "wiedzieć"
   - "wzlecieć"
-footnote: "Kolęda kolumbijska z płyty Seminarzystów Redemptoris Mater „Kolędy Świata” 2006. Tekst przekładu z broszury płyty CD. Adaptacja do melodii, rytmu i rymu własna. W nutach także hiszpańska wersja oryginalna."
 ===
 
 [G]Z moim osiołkiem małym [C]z nizin jadę [D]dziś do Betle[G]jem.

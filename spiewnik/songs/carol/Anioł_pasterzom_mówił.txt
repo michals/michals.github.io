@@ -89,7 +89,6 @@ index:
   - "zbudować"
   - "zielony"
   - "znaleźć"
-footnote: "Kolęda polska. Słowa pochodzą z XVI wieku, są przekładem fragmentu łacińskiego utworu średniowiecznego na Boże Narodzenie Dies est laetitiae (Angelus pastoribus) (z dokładnością do rozdrobnienia na szóstej zgłosce drugiego wersetu). W Rękopisie kórnickim (1551-1555) znajduje się siedem zwrotek bez zapisu melodii. Melodia zachowała się w tabulaturze organowej z II połowy XVII wieku. Dokładny zapis nutowy zamieścił dopiero Mioduszewski w swoim zbiorze Śpiewnik kościelny, czyli pieśni nabożne z melodyjami w Kościele katolickim używane z 1838 roku."
 ===
 
 [D]Anioł [A]paste[D]rzom [AS]mów[h]ił:

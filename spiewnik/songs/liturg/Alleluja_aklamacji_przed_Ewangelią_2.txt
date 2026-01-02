@@ -21,12 +21,11 @@ index:
 ===
 
 W:
-[C]Alleluja, alle[E]luja, allelu[a]ja.‡‡‡ [GS]
+[C]Alleluja, alle[E]luja, allelu[a]ja.[GS]
 [C]Alleluja, alle[E]luja, allelu[a]ja
 K:
-[C]Daję wam przykazanie [E]nowe, mówi [a]Pan:‡‡
-(G7)
-[C]abyście się wzajemnie miło[E]wali, jak ja was umiło[a]wałem.
+[C]Daję wam przykazanie [E]nowe, mówi [a]Pan:
+[C]abyście się wzajemnie miło[E]wali, jak ja was umiło[a]wałem.([GS])
 W:
 [C]Alleluja, alle[E]luja, allelu[a]ja.[GS]
 [C]Alleluja, alle[E]luja, allelu[a]ja

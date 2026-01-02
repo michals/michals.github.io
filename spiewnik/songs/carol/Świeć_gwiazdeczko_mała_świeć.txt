@@ -39,7 +39,6 @@ index:
   - "ziemia"
   - "zostawić"
   - "zstąpić"
-footnote: "Polska pastorałka, z połowy XVIII wieku. Powszechnie śpiewana przez dzieci w okresie Bożego Narodzenia. Popularność zawdzięcza zespołowi dziecięcemu Arka Noego."
 ===
 
 [h]Zaprowadź [A]mnie, [D]prosto do [h]Betlejem,

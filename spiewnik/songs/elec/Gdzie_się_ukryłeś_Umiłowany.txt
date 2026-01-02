@@ -143,51 +143,44 @@ index:
   - "zranić"
   - "zwiastun"
   - "zwierz"
-footnote: "„Pieśń między duszą i oblubieńcem” Pieśń Duchowa (hiszp. Cántico espiritual) św. Jana od Krzyża (przyp. włoski). Kiko śpiewał ją w stylu flamenco na hiszpańskiej krajowej 2015. Tu za „Resucitó”, przekład Karmelitów Bosych. Włoska: , str. (przyp. red.)."
 ===
 
 K:
-1 [E]Gdzie się ukryłeś, Umiłowany,*
+1 [E]Gdzie się ukryłeś, Umiłowany,
 i mnieś wśród jęków zostawił?
 Uciekłeś jak jeleń,
 gdyś mnie wpierw zranił;
-F7♯    qqE
-4+
-[a]Biegłam za Tobą [F]z płaczem,                 a Tyś [E]się oddalił.**
+[a]Biegłam za Tobą [F]z płaczem,a Tyś [E]się oddalił.[FSsQp] [E]
 K:
 2 [E]Pasterze, którzy podążacie
 poprzez ustronia na szczyt wzgórza wyniosłego,
 jeżeli kędyś napotkacie
 mego nad wszystko Umiłowanego,
-F7♯ q q E
-po[a]wiedzcie, że schnę, [F]mdleję, i umieram dla [E]Niego! 4+
+po[a]wiedzcie, że schnę, [F]mdleję,    i umieram dla [E]Niego![FSsQp] [E]
 K:
 3 [E]Szukając mojej miłości,
 pójdę przez góry i rozłogi.
 Nie zerwę kwiatów,
 przed dzikim zwierzem nie uczuję trwogi,
-F7♯ q q E
-[a]przejdę przez szyk o[F]bronny     i graniczne [E]progi! 4+
+[a]przejdę przez szyk o[F]bronny        i graniczne [E]progi![FSsQp] [E]
 K:
 4 [E]Zagaje i puszcze
 rękami mego Oblubieńca zasadzone,
 o łąki pełne zieleni,
 kwiatami ozdobione,
-F7♯ q q E
-po[a]wiedzcie, czy przeszedł [F]wśród was,w którą [E]stronę? 4+
+po[a]wiedzcie, czy przeszedł [F]wśród was,    w którą [E]stronę?[FSsQp] [E]
 W:
 5 [a]Rzucając wdzięków tysiące
 przebiegnął szybko wskroś boru ci[G]chego,
 a jedno tylko spoj[F]rzenie
 i blask Jego postaci
 okrył je szatą piękna czaro[E]wnego.
-∼
+
 K:
 6 [E]Aach! I któż uleczyć mnie może!
 Ukaż się mi już prawdziwie, bez [a]cienia!
-I nie chciej więcej wysyłać              już do mnie tylko zwias[G]tunów,
-F7♯   qqE
-którzy [F]nie zaspokoją mojego prag[E]nienia.                           Ach! 4+
+I nie chciej więcej wysyłać                                   już do mnie tylko zwias[G]tunów,
+którzy [F]nie zaspokoją mojego prag[E]nienia.                 Ach![FSsQp] [E]
 W:
 5 [a]Rzucając wdzięków tysiące …
 K:
@@ -201,19 +194,16 @@ K:
 Rozkosze mego Oblubieńca piłam,
 A kiedym wyszła, w zewnętrznej krainie
 O niczym nie wiedziałam,
-F7♯       qqE
-[a]I co dawniej [F]miałam,                    wszystko utra[E]ciłam. 4+
+[a]I co dawniej [F]miałam,          wszystko utra[E]ciłam.[FSsQp] [E]
 K:
 27[E]I tam mi piersi dał Jedyny,
 Tam mnie najsłodszej nauczył mądrości,
 Tam Mu oddałam siebie i swe czyny,
 Nie zostawiwszy żadnej własności,
-F7♯       qqE
-[a]I tam przy[F]rzekłam                      być Jego w mi[E]łości. 4+
+[a]I tam przy[F]rzekłam            być Jego w mi[E]łości.[FSsQp] [E]
 K:
 28[E]Dusza ma Tobą zajęta jedynie,
 Całe moje jestestwo Twa służba pochłania!
 Nie strzegę już stada
 I nie mam innego starania,
-F7♯               qqE
-[a]Zajęciem [F]moim jest słodycz ko[E]chania. 4+
+[a]Zajęciem [F]moim jest słodycz ko[E]chania.[FSsQp] [E]

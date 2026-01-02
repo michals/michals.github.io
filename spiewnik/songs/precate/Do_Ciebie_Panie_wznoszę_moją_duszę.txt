@@ -42,8 +42,7 @@ index:
 
 KW:
 [a]Do Ciebie, Panie, wznoszę moją [E]duszę,
-dF
-do Ciebie, o mój [E]Boże.
+do Ciebie, [d][F]o mój [E]Boże.
 
 K:
 [a]Tobie ufam, o [E]Panie,
@@ -53,8 +52,7 @@ naucz mnie, Panie, [d]Two[F]jej [E]ścieżki.
 
 W:
 [a]Do Ciebie, Panie, wznoszę moją [E]duszę,
-dF
-do Ciebie, o mój [E]Boże.
+do Ciebie, [d][F]o mój [E]Boże.
 
 K:
 [a]Wspomnij, Panie, na Twoją [E]miłość,
@@ -66,5 +64,4 @@ z[F]anurz mnie w Twoim miło[E]sierdziu.
 
 W:
 [a]Do Ciebie, Panie, wznoszę moją [E]duszę,
-dF
-do Ciebie, o mój [E]Boże.
+do Ciebie, [d][F]o mój [E]Boże.

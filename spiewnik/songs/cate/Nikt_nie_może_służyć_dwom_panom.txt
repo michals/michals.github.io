@@ -66,10 +66,8 @@ index:
   - "wszystko"
   - "wzgardzić"
   - "znaczyć"
-footnote: "Zmiana tonacji za „Zmartwychwstał Pan 2025”. (przyp. red.)"
 ===
 
-∼
 K:
 [e]Nikt nie może,
 [D]nie może służyć [C]dwom panom,
@@ -103,7 +101,6 @@ W:
 Szu[G]kajcie Kró[h]lestwa Bożego,
 [HS]a wszystko będzie wam [CS]dan[C]e.
 Nie możecie służyć dwom [H]panom!
-∼
 K:
 [e]Nikt nie może,
 [D]nie może służyć [C]dwom panom,

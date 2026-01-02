@@ -67,17 +67,15 @@ index:
   - "zasmucać"
   - "zawsze"
   - "zbłąkany"
-footnote: "Oryginalny tekst hiszpański brzmi tutaj Dios mío, Dios mío, czyli Mój Bóg, mój Bóg, który został przetłumaczony na włoskie dwusylabowe Di-o, Di-o. Przy tłumaczeniu z włoskiego po słowie mój w melodii pozostała nieobsadzona tekstem nuta, której usunięcie zmienia oryginalną melodię. (przyp. red.)"
 ===
 
 K:
-[D][Mój] Bóg, [mój] Bóg [fis]mnie zaprowadził,                                         mnie zaprowadzi[h]ł w ciem[D]ności.
-Sprawił dla mnie jarzmo[fis] i ścisnął moją głowę,                                                moją głow[h]ę i sz[D]czękę.
-Bóg napiął swój łuk                                             [fis]i uczynił mnie [h]celem swoich [D]strzał.
-Nawet gdy jęczę i krzyczę, [fis]On tłumi,                                           On tłum[h]i moją mo[D]dlitwę.
-[e]Widzieć, do czego mnie doprowadził                         w mym życiu zbłą[A]kanym:                           jest piołunem i [D]żółcią.
-(A G F♯)
-Co ja [Fis]pocznę, jeśli mnie opuści na[h]dzieja,[A]nadzieja, która przychodzi od [G]Pana,która przychodzi od [Fis]Pana.
+[D][Mój] Bóg, [mój] Bóg [fis]mnie zaprowadził,                                                   mnie zaprowadzi[h]ł w ciem[D]ności.
+Sprawił dla mnie jarzmo[fis] i ścisnął moją głowę,                                                                moją głow[h]ę i sz[D]czękę.
+Bóg napiął swój łuk                                                                     [fis]i uczynił mnie [h]celem swoich [D]strzał.
+Nawet gdy jęczę i krzyczę, [fis]On tłumi,                                                                   On tłum[h]i moją mo[D]dlitwę.
+[e]Widzieć, do czego mnie doprowadził                                      w mym życiu zbłą[A]kanym:                                            jest piołunem i [D]żółcią.
+Co ja [Fis]pocznę, jeśli mnie opuści na[h]dzieja,[A]nadzieja, która przychodzi od [G]Pana,która przychodzi od [Fis]Pana([A] [G] [Fis]).
 
 W:
 [D]Siedź samotnie i w mil[fis]czeniu,

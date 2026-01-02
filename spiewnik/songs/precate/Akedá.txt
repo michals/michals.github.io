@@ -52,16 +52,15 @@ index:
   - "złożyć"
   - "zobaczyć"
   - "związać"
-footnote: "Porządek targum (starożytnego tłumaczenia i objaśnienia pisma) w śpiewniku włoskim zepsuto. Za „Resucitó” porządek polega na: 1∘ przedstawieniu kontekstu kończąc Izaak powiedział: Akedá; Wszyscy powtarzają Akedá. 2∘ przetłumaczeniu, że to znaczy Zwiąż mnie mocno… i dlaczego; Wszyscy odpowiadają Akedá a następnie powtarzają streszczenie Zwiąż mnie mocno. 3∘ objaśnieniu Przyjdźcie i zobaczcie. Wszyscy odpowiadają obydwoma refrenami. Tak śpiewa Kiko. (przyp. red.)"
 ===
 
 K:
-[a]Była jeszcze noc, kiedy A[dNmS]braham,**
+[a]Była jeszcze noc, kiedy A[dNmS]braham,
 przygotowywał się, by złożyć syna w o[a]fierze;
 obydwaj patrzyli sobie długo [dNmS]w oczy
 i wtedy Izaak po[E]wiedział:
 KW:
-„Ake[a]dá, ake[dNmS]dá, akedá, ake[a]dá.”†
+„Ake[a]dá, ake[dNmS]dá, akedá, ake[a]dá.”
 
 K:
 „[a]Zwiąż mnie, zwiąż mnie mocno, ojcze [dNmS]mój,
@@ -69,16 +68,16 @@ bym czasem z lęku się nie o[a]pierał
 i wtedy nieważna będzie twoja o[dNmS]fiara,
 i obydwaj będziemy odrzu[E]ceni!”
 W:
-„Ake[a]dá, ake[dNmS]dá, akedá, ake[a]dá.”†
+„Ake[a]dá, ake[dNmS]dá, akedá, ake[a]dá.”
 KW:
 „[a]Zwiąż mnie, zwiąż mnie [dNmS]mocno
 ojcze mój, bym się nie o[a]pierał!”
 
 K:
 [a]Przyjdźcie i zobaczcie wiarę na ziemi,
-przyjdźcie i zobaczcie wiarę na [dNmS]ziemi:††
-ojciec, który poświęca swego syna‡ ,
-a syn najdroższy nadstawia swą [E]szyję!‡
+przyjdźcie i zobaczcie wiarę na [dNmS]ziemi:
+ojciec, który poświęca swego syna,
+a syn najdroższy nadstawia swą [E]szyję!
 W:
 „Ake[a]dá, ake[dNmS]dá, akedá, ake[a]dá.”
 „[a]Zwiąż mnie, zwiąż mnie [dNmS]mocno

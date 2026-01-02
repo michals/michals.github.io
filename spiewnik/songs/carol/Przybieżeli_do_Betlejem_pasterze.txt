@@ -72,7 +72,6 @@ index:
   - "Zbawca"
   - "ziemia"
   - "znać"
-footnote: "Polska kolęda z XVII wieku. Tekst figuruje w Symfoniach anielskich z 1630 r. jako symfonia trzydziesta pierwsza. Nie ma natomiast dzisiejszego refrenu. Ową pierwotną wersję tekstu zawierają rękopisy karmelitańskie BJ3642 i 3646 oraz kantyczka Chybińskiego w swej II części. Kiedy zaczęto śpiewać pastorałkę w dzisiejszej wersji, tzn. bez powtórzeń i z obecnym refrenem, nie wiemy. Tutaj tekst za: Siedlecki Jan, Śpiewniczek zawierający pieśni kościelne z melodyami dla użytku młodzieży szkolnej, Kraków, Księża Misjonarze na Kleparzu, 1908."
 ===
 
 [C]Przybieżeli do Betlejem past[F]erz[C]e,

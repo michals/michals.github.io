@@ -85,7 +85,6 @@ index:
   - "zliczyć"
   - "zobaczyć"
   - "zwój"
-footnote: "W nagraniach Kiko zamiast tego refrenu powtarza się jeszcze raz zwrotkę Krwawych ofiar…. (przyp. red.)"
 ===
 
 KW:

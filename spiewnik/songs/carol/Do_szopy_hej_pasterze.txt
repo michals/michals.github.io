@@ -81,7 +81,6 @@ index:
   - "zbutwiały"
   - "złożyć"
   - "zły"
-footnote: "Kolęda pojawiła się drukiem w śpiewniku Śpiewajmy Panu! Śpiewnik Kościelny do użytku Młodzieży Szkolnej, Lwów 1931. Autor tekstu nieznany, ale co najmniej część przypisuje się kompozytorowi, Józefowi Albinowi Gwoździowskiemu. Posiada rytm i cechy kujawiaka. (przyp. red.)"
 ===
 
 [G]Do szopy, hej pa[D]sterze,

@@ -52,7 +52,6 @@ index:
   - "wiedzieć"
   - "wrogi"
   - "ziemia"
-footnote: "Pieśni nie ma w śpiewnikach. Jest jednak śpiewana podczas Paschy przez dzieci w Hiszpanii i w Polsce. W nutach są alternatywne elementy wyliczanki. (przyp. red.)"
 ===
 
 K:
@@ -62,7 +61,7 @@ D:
 1 Ja [a]wiem, co to jest [e]jeden.
 Ja [HS]wiem, co to jest [e]jeden.
 D:
-1 [e]Jeden jest nasz Bóg          [a]w niebie i na ziemi.
+1 [e]Jeden jest nasz Bóg            [a]w niebie i na ziemi.
 W:
 [e]Jeden jest nasz Bóg[HS]w niebie i na [e]ziemi.
 

@@ -101,7 +101,6 @@ index:
   - "zrodzić"
   - "zrozumieć"
   - "zupełny"
-footnote: "Kolęda polska. Pojawia się u Mioduszewskiego w Pastorałkach i kolędach z 1843 roku."
 ===
 
 [C]Gdy się Chr[F]ystus r[G]odz[C]i

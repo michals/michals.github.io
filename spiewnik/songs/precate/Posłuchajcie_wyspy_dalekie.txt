@@ -76,7 +76,6 @@ index:
   - "zapomnieć"
   - "zdumiony"
   - "ziemia"
-footnote: "Posłuchajcie wyspy dalekieKrólowie Cię ujrząWłoski pochodzi od początku refrenu, a hiszpański od początku pieśni (przyp. red.)"
 ===
 
 K:
@@ -121,9 +120,8 @@ K:
 [e]Jahwe zapomniał [h]o mnie”.
 [G]Czyż zapomni matka o swym niemow[Fis]lęciu?
 [G]Czyż matka przestanie kochać rodzone [Fis]dziecko?
-(f♯)
 W:
-„[D]Choćby jakaś matka zapomniała o swym [G]dziecku,
+„[D]Choćby jakaś m([fis])atka zapomniała o swym [G]dziecku,
 Ja nie zapomnę [Fis]Ciebie.
 {{{ 2x
 [G]Popatrz, na moich dłoniach mam cię wypi[Fis]saną.

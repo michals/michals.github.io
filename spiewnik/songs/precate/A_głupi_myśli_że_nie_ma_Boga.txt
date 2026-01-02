@@ -52,17 +52,16 @@ index:
   - "zbłądzić"
   - "zepsuty"
   - "zobaczyć"
-footnote: "Za „Zmartwychwstał Pan 2025”: kto by czynił→kto czyni, spogląda z nieba na synów ludzkich→z nieba pochyla się nad ludźmi. (przyp. red.)"
 ===
 
 KW:
 [d]A głupi myśli, że nie ma [AS]Boga.
 Są zepsuci, ohydne rzeczy popeł[d]niają.
-[g]Nie ma nikogo, kto czyni* [AS]dobro,
-nie ma ni[B]kogo, kto czyni* [AS]dobro.
+[g]Nie ma nikogo, kto czyni [AS]dobro,
+nie ma ni[B]kogo, kto czyni [AS]dobro.
 
 K:
-[d]Pan z nieba pochyla się nad [AS]ludźmi* ,
+[d]Pan z nieba pochyla się nad [AS]ludźmi,
 by zobaczyć, czy istnieje jakiś człowiek [d]mądry,
 [g]człowiek, który szuka [AS]Boga,
 czł[B]owiek, który szuka [AS]Boga.
@@ -90,5 +89,5 @@ W:
 W:
 [d]A głupi myśli, że nie ma [AS]Boga.
 Są zepsuci, ohydne rzeczy popeł[d]niają.
-[g]Nie ma nikogo, kto czyni* [AS]dobro,
-nie ma ni[B]kogo, kto czyni* [AS]dobro.
+[g]Nie ma nikogo, kto czyni [AS]dobro,
+nie ma ni[B]kogo, kto czyni [AS]dobro.

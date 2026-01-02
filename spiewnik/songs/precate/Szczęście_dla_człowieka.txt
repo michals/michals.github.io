@@ -46,7 +46,6 @@ index:
   - "szczep"
   - "winny"
   - "zobaczyć"
-footnote: "Tutaj jest jeszcze zdanie Pokój nad Izraelem, które Kiko śpiewa po włosku, hiszpańsku, i jest obecne tak w śpiewniku hiszpańskim jak i w Biblii. Tylko „Risuscitò” je zagubił. (przyp. red.)"
 ===
 
 KW:

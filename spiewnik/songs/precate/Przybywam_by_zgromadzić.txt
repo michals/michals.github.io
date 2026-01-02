@@ -47,7 +47,6 @@ index:
   - "ziemia"
   - "znak"
   - "zobaczyć"
-footnote: "Gloria, gloria, gloriaGloria, gloria, gloria (przyp. red.)"
 ===
 
 K:
@@ -89,7 +88,7 @@ W:
 [A]Glo[E]ria, [A]glo[E]ria, [HS]glo[E]ria.
 
 K:
-[cis]Albowiem tak, jak nowe niebiosa                           i nowa ziemia, które Ja u[Gis]czynię,
+[cis]Albowiem tak, jak nowe niebiosa i nowa ziemia, które Ja u[Gis]czynię,
 trwać [H]będą na [Gis]zawsze,
 [A]tak będzie [E]trwać
 ich po[HS]tomstwo na [E]zawsze.

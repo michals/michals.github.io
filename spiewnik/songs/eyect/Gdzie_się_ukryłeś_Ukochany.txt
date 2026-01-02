@@ -120,7 +120,6 @@ index:
   - "zrywać"
   - "zwiastun"
   - "zwierz"
-footnote: "Miał być to akord durowy z septymą wielką oraz dodaną kwartą (albo, jak kto woli, undecymą) zwiększoną. W „Resucitó 2019” akord ten opublikowano jako q q q (bez kwinty, ponoć Kiko tak go chwytał). Poprawiono go w „Resucitó 2023” i w „Risuscitò 2023”; teraz jest z kwintą a de facto jest to F bez barré. (przyp. red.)"
 ===
 
 K:
@@ -128,30 +127,25 @@ K:
 wśród jęków mnie zostawiłeś?
 Uciekłeś jak jeleń,
 jak już mnie zraniłeś,
-F7♯   qqE
-4+
-[a]wyszłam za Tobą wo[F]łając,                    a Ty się odda[E]liłeś!
+[a]wyszłam za Tobą wo[F]łając,a Ty się odda[E]liłeś![FSsQp] [E]
 K:
 2 [E]Pasterze, co przemierzacie pastwiska
 aż po wierch wyniosły,
 gdy przypadkiem Go spotkacie,
 mego Najukochańszego,
-F7♯      qqE
-po[a]wiedzcie Mu, że [F]cierpię                   i mdleję dla [E]Niego. 4+
+po[a]wiedzcie Mu, że [F]cierpię          i mdleję dla [E]Niego.[FSsQp] [E]
 K:
 3 [E]Szukając mojej miłości
 pójdę przez góry i doliny.
 Nie będę zrywać kwiatów,
 przed zwierzem nie uczuję trwogi,
-F7♯                   qqE
-[a]przejdę przez [F]twierdze i graniczne [E]progi! 4+
+[a]przejdę przez [F]twierdze i graniczne [E]progi![FSsQp] [E]
 K:
 4 [E]O wy, gaje i lasy
 ręką Ukochanego zasadzone!
 O łąki pełne zieleni
 kwiatami ozdobione,
-F7♯                      qqE
-[a]powiedzcie, czy przechodził[F]przez was w którąś [E]stronę? 4+
+[a]powiedzcie, czy przechodził    [F]przez was w którąś [E]stronę?[FSsQp] [E]
 W:
 5 [a]Tysiąc łask rozlewając,
 przebiegał przez te gaje w poś[G]piechu,
@@ -163,8 +157,7 @@ K:
 6 [E]Aj, któż zdoła mnie uzdrowić?
 Oddaj mi się już wreszcie, całko[a]wicie
 i nie posyłaj już więcej żadnego zwia[G]stuna,
-F7♯ q q E
-bo nie [F]mogą oznajmić tego, czego [E]pragnę. 4+
+bo nie [F]mogą oznajmić tego, czego [E]pragnę.[FSsQp] [E]
 W:
 5 [a]Tysiąc łask rozlewając, …
 K:
@@ -181,23 +174,17 @@ K:
 piłam rozkosze Bożej mądrości,
 kiedy wyszłam na pastwiska
 porzuciłam swe puste pragnienia -
-F7♯ q q E
-[a]zostawiłam [F]stada, za którymi bie[E]gałam. 4+
+[a]zostawiłam [F]stada, za którymi bie[E]gałam.[FSsQp] [E]
 K:
 27[E]Tam dałeś mi czułość i pieszczoty,
 napełniłeś mnie słodyczą Twej mądrości.
 Ja oddałam Ci bez reszty całe swoje życie
-F7♯ q q E
-[a]i przyrzekłam, że Twoją [F]będę Oblubie[E]nicą. 4+
+[a]i przyrzekłam, że Twoją [F]będę Oblubie[E]nicą.[FSsQp] [E]
 K:
 28[E]Tyś jedynym mym pragnieniem,
 to co moje, Tobie oddaję.
 Już nie strzegę swego stada,
 innych zajęć nie przyjmuję,
-F7♯ q q E
-[a]bowiem troszczę się o Twoje [F]sprawy - o [E]Miłość. 4+
+[a]bowiem troszczę się o Twoje [F]sprawy        - o [E]Miłość.[FSsQp] [E]
 W:
 5 [a]Tysiąc łask rozlewając, …
-
-Jest kilka wersji tego śpiewu w wykonaniu Kiko, który w zależności od kontekstu wybiera dowolne zwrotki z oryginału i gdy je śpiewa, gra różne rytmy. Wersety, które znajdują się na tej stronie, służą do orientacji jako przewodnik.
-q

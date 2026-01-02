@@ -42,28 +42,26 @@ index:
   - "wschodzić"
   - "wskrzesić"
   - "zmartwychwstawać"
-footnote: "Pieśń z poczatku Drogi. Od dawna występuje w śpiewniku hiszpańskim. Zainspirowana Hymnem wieczornym św. Grzegorza z Nazjanzu (330-390). Przekład z katechezy paschalnej 2019. (przyp. red.)"
 ===
 
 KW:
 [e]Błogosławimy Cię w tej to godzinie
 o Chryste [a]mój, Słowo Boże!
-Światłość ze
-// Światłości bez po[e]czątku.
+Światłość ze Światłości bez po[e]czątku.
 Błogosła[HS]wimy Cię Słowo [e]Boże,
 Błogosła[HS]wimy Cię Słowo [e]Boże.
 K:
 [DS]Błogosławimy Cię, potrójna Świa[G]tłościniepodzielnej [HS]chwały!
 Ty pokonałeś ciem[e]ności,
-wskrzesiłeś [HS]Światłość                      zmartwychwstając ze [e]śmierci.
-Tyś jest wieczną Świa[HS]tłością,                   która oświeca nasze [e]życie.
-Tyś jest wieczną Świa[HS]tłością,                  która wschodzi nad [e]światem.
+wskrzesiłeś [HS]Światłość                    zmartwychwstając ze [e]śmierci.
+Tyś jest wieczną Świa[HS]tłością,                 która oświeca nasze [e]życie.
+Tyś jest wieczną Świa[HS]tłością,               która wschodzi nad [e]światem.
 Tyś jest wieczną Świa[HS]tłością,
 Błogosławimy Cię [e]Panie!
 W:
 [e]Błogosławimy Cię w tej to godzinie
 o Chryste [a]mój, Słowo Boże!
 Światłość ze
-// Światłości bez po[e]czątku.
+Światłości bez po[e]czątku.
 Błogosła[HS]wimy Cię Słowo [e]Boże,
 Błogosła[HS]wimy Cię Słowo [e]Boże.

@@ -67,8 +67,6 @@ index:
   - "zmiłować"
   - "zmyć"
   - "zmywać"
-footnote: "Kolęda polska. Najwcześniejszy zapis melodii zachowany jest w II części kantyczki Chybińskiego. Następny znamy od Mioduszewskiego w Pastorałkach i kolędach z 1843 r. W dzisiejszej praktyce przyjęła się melodia Piotra Studzińskiego w połowie XIX w. Podaje ją Siedlecki w Śpiewniczku z 1878 r. Tekst występuje w dwóch franciszkańskich rękopisach (z połowy i z końca XVIII w.), dwóch karmelitańskich (w kantyczce karmelitańskiej Chybińskiego oraz w rękopisie biblioteki klasztoru karmelitanek, sygn. 95) a także w rękopisie BJ 3639. W zbiorach drukowanych XVIII w. znajduje się w dziale „pieśni nowych” Kantyczek
-Szlichtyna z 1767 (i 1785) r. oraz Pieśni nabożnych z 1796 r. Wszystkie te przekazy jedynie pierwszą zwrotkę mają identyczną z wersją zapisaną przez Mioduszewskiego, która dziś jest śpiewana; pozostałe zwrotki, których w drukach jest 8, w rękopisach 8-11, są różne."
 ===
 
 [D]Ach, ubogi żłobie,

@@ -78,7 +78,6 @@ index:
   - "złorzeczyć"
   - "znienawidzić"
   - "zwrot"
-footnote: "Nadmiarowe wy dodali tłumacze; nie ma go w oryginale. W „Resucitó” mamy Dichosos los pobres, porque vuestro el Reino de Dios bez dodatkowego vosotros (wy). (przyp. red.)"
 ===
 
 K:
@@ -144,7 +143,4 @@ nie potę[H]piaj[Fis]cie,
 KW:
 przeba[H]czaj[Fis]cie,
 K:
-
-<footnote>Kochajcieawaszych
-[Cis]będzie    wam przeba[Fis]czone.
-nieprzyjaciółAmate i vostri nemiciKazanie na górze Polski w „Zmartwychwstał Pan 2025” bz. (przyp. red.)</footnote>
+a [Cis]będzie wam przeba[Fis]czone.

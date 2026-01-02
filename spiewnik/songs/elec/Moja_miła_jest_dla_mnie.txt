@@ -75,29 +75,28 @@ index:
   - "zapach"
   - "zechcieć"
   - "zieleń"
-footnote: "Błąd gramatyczny. Winno być jak narcyz, jak róża albo narcyzem, różą rosnącą. I myślnik dodany w „Zmartwychwstał Pan 2025” nic tu nie pomoże. (przyp. red.)"
 ===
 
 K:
-[h]Moja miła‡‡‡‡
+[h]Moja miła
 jest [e]dla mnie,
 - narcyz Sa[Fis]ronu,
 [G]róża rosnąca w do[Fis]linach.
 
 W:
-[h]Mój miły‡‡‡‡
+[h]Mój miły
 jest [e]dla mnie
 jak zapach [Fis]mirry,
 spo[G]czywa na mej [Fis]piersi.
 
 K:
-[h]Moja miła‡‡‡‡
+[h]Moja miła
 jest [e]dla mnie,
 jak lilia wśród [Fis]cierni,
 tak moja [G]miła jest pośród [Fis]dziewcząt.
 
 W:
-Mój [h]miły‡‡‡‡
+Mój [h]miły
 jest [e]dla mnie
 jak grono [Fis]henny,
 w win[G]nicach En-[Fis]gaddi.
@@ -138,5 +137,3 @@ KW:
 nie [G]budźcie, nie rozbudzajcie mi[Fis]łości,
 W:
 do[G]póki nie zechce [Fis]sama.
-
-Jak lilia wśród cierniMoja miła jest dla mnieTytuł hiszpański i włoski pochodzą z innych wersetów pieśni (przyp. red.)

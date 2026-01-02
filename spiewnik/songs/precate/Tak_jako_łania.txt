@@ -81,26 +81,23 @@ index:
   - "zbawienie"
   - "zesłać"
   - "zobaczyć"
-footnote: "Tłumaczenie z hiszpańskiego (al-ma mí-a) przez włoski (a-ni-ma mi-a), który dodał jedną sylabę i nutę, zaskutkowało nieistniejącym w tekście wykrzyknikiem o przed du-szo mo-ja. (przyp. red.)"
 ===
 
 K:
 [E]Tak jako łania pragnie wody źródlanej,
-∼
 tak samo
 dusza moja pragnie Ciebie [fis]Boże.
 Dusza moja jest spragniona Boga,
 Boga ży[HS]wego,
 kiedyż zobaczę oblicze [E]Boga?
 Łzy stały się moim chlebem we dnie i w nocy,
-∼
 podczas gdy moi wrogowie
 mówią mi dzień cały:
 „Gdzie jest twój [fis]Bóg?
 Gdzie jest twój Bóg?
 Gdzie jest twój Bóg?”
 O tym roz[HS]myślam i ściska mi się serce i dusza,
-jak kroczyłem wśród pierwszych               w świątecznym or[E]szaku.
+jak kroczyłem wśród pierwszych                          w świątecznym or[E]szaku.
 K:
 [Gis]Czemu się smucisz, (o) duszo moja?
 Czemu się trwożysz i jęczysz [cis]we mnie?
@@ -115,17 +112,14 @@ Bowiem [cis]On[Cis] jest zbawieniem mego ob[fis]licza:
 [A]On jest mym [Gis]Bogiem.
 W:
 Zaufaj [A]Bogu, zaufaj [Gis]Bogu,
-HBA
-zaufaj [A]Bogu, zaufaj [H]Bogu,
+zaufaj [A]Bogu, zaufaj [H]Bogu,[H] [B] [A]
 [A]a jeszcze Go będziesz [Gis]chwalić.
 K:
-[E]Ileż razy mówiłem do mojej Skały:                „Czemuś mnie opuścił?”
-∼
+[E]Ileż razy mówiłem do mojej Skały:                 „Czemuś mnie opuścił?”
 Dlaczego
 chodzę smutny, dręczony przez mych [fis]wrogów?
 Kości we mnie się łamią, gdy słyszę dzień [HS]cały:
 „Gdzie jest twój Bóg? Gdzie jest twój [E]Bóg?”
-∼
 Panie,
 ześlij Twoją światłość i Twą [fis]prawdę,
 niech one mnie zaprowadzą do Twojej świą[HS]tyni,

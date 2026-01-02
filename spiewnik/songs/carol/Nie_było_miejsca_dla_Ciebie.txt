@@ -82,7 +82,6 @@ index:
   - "Zbawiciel"
   - "zejść"
   - "ziemia"
-footnote: "Kolęda została napisana w Krakowie w roku 1932, przez ojca Mateusza Jeża. Muzykę skomponował dopiero w roku 1938 ojciec Józef Łaś. Po raz pierwszy została zaśpiewana 2 lutego 1939 roku w sali Domu Sodalicyjnego im. Piotra Skargi w Nowym Sączu przez chór gimnazjalny z Mielca. Tak zyskała popularność w regionie nowosądeckim a wśród młodzieży sądeckiej w obozach koncentracyjnych i gułagach."
 ===
 
 [a]Nie było miejsca dla [ES]Ciebie,

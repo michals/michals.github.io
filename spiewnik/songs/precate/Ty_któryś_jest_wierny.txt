@@ -60,12 +60,10 @@ index:
   - "wysłuchać"
   - "wzywać"
   - "ziemia"
-footnote: "O Panie, wysłuchaj mojej modlitwySignore, ascolta la mia preghiera (przyp. red.)"
 ===
 
 K:
 [C]O Panie,
-∼
 [D]wysłuchaj [c]mojej modlitwy:
 [D]Nastaw ucha
 [c]na moje błaganie[D]
@@ -78,8 +76,7 @@ od[DS]powiedz mi.
 
 K:
 [g]Nie wzywaj na sąd Twego [DS]sługi,
-
-Bo nikt żyjący                  nie jest sprawiedliwy przed [g]Tobą.
+Bo nikt żyjący                       nie jest sprawiedliwy przed [g]Tobą.
 Nieprzyjaciel mnie prześla[DS]duje,
 [c]Wdeptuje w ziemię moje [DS]życie.
 W:
@@ -105,9 +102,7 @@ W:
 K:
 [g]Naucz mnie pełnić Twoją [DS]wolę,
 Bo Ty jesteś moim [g]Bogiem.
-
-Niech mnie              Twój dobry Duch pro[DS]wadzi,
-∼
+Niech mnie                    Twój dobry Duch pro[DS]wadzi,
 [c]niech Twój Duch prowadzimnie po równej [DS]ziemi.
 W:
 [g]Ty, któryś jest [c]wierny,

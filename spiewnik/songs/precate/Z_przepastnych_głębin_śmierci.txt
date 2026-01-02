@@ -64,7 +64,6 @@ index:
   - "zmartwychwstać"
   - "zwycięski"
   - "zwycięstwo"
-footnote: "Jest to w brewiarzu włoskim hymn na Jutrznię od Paschy do Wniebowstąpienia. Hymn na Jutrznię od Paschy do WniebowstąpieniaInno delle lodi da Pasqua all’Ascensione (przyp. red.) Ta melodia może być również wykorzystana do śpiewania innych hymnów Liturgii Godzin, które mają po trzy wersety w każdej strofie. (przyp. włoski)"
 ===
 
 W:

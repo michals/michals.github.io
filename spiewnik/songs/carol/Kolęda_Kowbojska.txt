@@ -46,7 +46,6 @@ index:
   - "wskoczyć"
   - "wziąć"
   - "zacząć"
-footnote: "Wersja polska „Kolędy Kowbojskiej” („Cowboy Carol”). Na podstawie płyty Kolędy Świata 3 Seminarzystów RM z 2019. Kolędę z lat ’40 XX w. znaną też jako „There’ll be a New World Beginning from Tonight” od pierwszych słów tekstu, skomponował w stylu Country and Western Cecil Arthur Broadhurst (1908-1981), kanadyjski artysta, autor tekstów, aktor i dramaturg, pasjonat Westernu. Tekst z broszurki płyty. Rytmizacja własna."
 ===
 
 [C]Dzisiejszej [F]nocy się [CS]zacznie nowy [F]świat.

@@ -66,7 +66,6 @@ index:
   - "znać"
   - "znaleźć"
   - "znany"
-footnote: "Ten przeplatany scenariusz w „Resucitó 2023” śpiewają Wszyscy. (przyp. red.)"
 ===
 
 K:
@@ -74,8 +73,7 @@ K:
 Ty wiesz, kiedy się kładę spać i gdy pow[d]staję.
 Z daleka poznajesz moje [g]myśli:
 Tobie są do[gX]brze znane moje [d]drogi.
-(C7 )
-[C]Choć jeszcze nie mam słowa na ję[F]zyku,
+[C]Choć jeszcze nie mam ([CS])słowa na ję[F]zyku,
 [A]Ty już Panie, znasz je w ca[d]łości.
 [CS]Ty chwytasz mnie z tyłu, atakujesz mnie [F]z przodu,
 [A]a jednocześnie położyłeś na mnie swą [d]rękę:

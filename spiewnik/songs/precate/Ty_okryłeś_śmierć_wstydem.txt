@@ -88,7 +88,6 @@ index:
   - "zmaza"
   - "zrodzić"
   - "związany"
-footnote: "Wczesnochrześcijański utwór Melitona z Sardes (160-170 r.). Homilia Paschalna Melitona z SardesOmelia pasquale di Melitone di Sardi (przyp. red.)"
 ===
 
 KW:
@@ -129,8 +128,7 @@ prowadzony na ofiarę, ofiarowany wie[d]czorem;
 pogrzebany [AS]nocą,
 Twoje ciało błogosławione nie doznało ze[d]psucia.
 Ty z martwych po[AS]wstałeś,
-
-Ty dałeś zmartwychwstanie ludzkości         z otchłani [d]grobu.
+Ty dałeś zmartwychwstanie ludzkości        z otchłani [d]grobu.
 Tyś jest barankiem, co ust nie o[AS]twiera,
 Tyś jest barankiem zrodzonym z Ma[d]ryi.
 W:

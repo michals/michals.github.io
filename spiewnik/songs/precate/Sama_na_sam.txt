@@ -40,13 +40,11 @@ index:
   - "wiara"
   - "wieża"
   - "zdołać"
-footnote: "Co pewien czas powraca kwestia wprowadzania błędu ortograficznego do polskiego związku frazeologicznego „sam na sam” poprzez zapis drugiego „sam” z dużej litery. Taki zabieg Kiko zastosował w językach, które nie mają tego związku frazeologicznego i skrajne osamotnienie wyraża się w nich poprzez personifikację samotności. U nas związek frazeologiczny wyraża tę myśl ze swojej natury, bez dużej litery, której znaczenie jest niezrozumiałe, nieuzasadnione, i źle się kojarzy. (przyp. red.)"
 ===
 
 K:
 [dNmS]Sama na [g]sam
 pod krzy[A]żem,
-
 Maryjo, któż zdoła cię od[d]łączyć?
 
 K:

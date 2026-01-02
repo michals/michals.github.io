@@ -132,7 +132,6 @@ index:
   - "zesłać"
   - "zniweczyć"
   - "związek"
-footnote: "W śpiewnikach tego śpiewu nie ma. Częściowo przekład z Mszału hiszpańskiego wg wykonania ks. Michała Orlickiego RM. (przyp. red.)"
 ===
 
 P:

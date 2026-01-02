@@ -72,11 +72,10 @@ index:
   - "ziemia"
   - "zmartwychwstały"
   - "zwycięstwo"
-footnote: "Hymn inspirowany homilią Święta Pascha Anonima Kwartodecymana (Pseudo Hipolita) z II wieku. (przyp. włoski)"
 ===
 
 W:
-[E]Chwalebny krzyż*
+[E]Chwalebny krzyż
 [Gis]zmartwychwstałego P[cis]ana
 jest [fis]drzewem
 mojego zba[Gis]wienia;

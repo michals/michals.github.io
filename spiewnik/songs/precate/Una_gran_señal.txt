@@ -112,7 +112,6 @@ index:
   - "znaleźć"
   - "zostać"
   - "zwodziciel"
-footnote: "Wersja z płyty Paloma incorrupta (2010), w „Risuscitò” jako Una gran señal apareció en el cielo obok starszej wersji (str. ), nagranej po włosku. Polski tekst jest dostosowany do zmienionej melodii i rytmu, bez ostatniej zwrotki z wersji włoskiej. Akordy za „Resucitó 2023”. (przyp. red.)"
 ===
 
 W:
@@ -169,6 +168,5 @@ wielki Smok, udał się na [G]wojnę
 przeciwko [F]reszcie jej potomstwa:
 tym, którzy strzegą przykazań Boga
 i zachowują świadectwo Je[E]zusa.
-GFE
 W:
-La la la, la la, la [a]la …
+La la la, la la, la [a]la … [G] [F] [E]

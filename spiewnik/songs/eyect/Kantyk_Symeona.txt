@@ -30,7 +30,6 @@ index:
   - "sługa"
   - "zbawienie"
   - "zobaczyć"
-footnote: "Pieśń neokatechumenalna ze śpiewnika Alfreda Cholewińskiego SJ. (przyp. red.)"
 ===
 
 K:
