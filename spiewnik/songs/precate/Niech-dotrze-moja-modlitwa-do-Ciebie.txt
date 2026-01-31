@@ -1,0 +1,70 @@
+===
+title: "Niech dotrze moja modlitwa do Ciebie"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S036NiechDotrzeMojamodlitwaDoCiebie"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "119, 169-176"
+  - what: "*OAD"
+    where: ""
+  - what: "*OWP"
+    where: ""
+  - what: "*BRE"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+knownas:
+  - "1967"
+  - "Panie, Panie Jezu"
+  - "Przyjdź i szukaj Twego sługi"
+index:
+  - "chwała"
+  - "dotrzeć"
+  - "dusza"
+  - "gubić"
+  - "język"
+  - "Jezus"
+  - "ku"
+  - "śpiewać"
+  - "modlitwa"
+  - "nowy"
+  - "oczekiwać"
+  - "Pan"
+  - "pieśń"
+  - "pomoc"
+  - "popłynąć"
+  - "przyjść"
+  - "ręka"
+  - "Słowo"
+  - "sługa"
+  - "szukać"
+  - "usta"
+  - "wejrzeć"
+  - "wyzwolenie"
+  - "zgubiony"
+===
+
+K:
+[a]Panie, [F]Panie, [E]Jezu!
+[a]Niech dotrze moja modlitwa do Ciebie,
+niech [F]z ust mych popłynie nowa pieśń;
+niech [G]język mój śpiewa Twe Słowo,
+Duszo [F]moja, [E]Jezu!
+Niech [a]ze mną będzie Twa ręka ku mojej pomocy,
+ocze[F]kuję od Ciebie wyzwolenia;
+niech [G]język mój śpiewa Twą chwałę:
+wejrzyj [F]na mnie, jestem zgu[E]biony.
+W:
+[a]Przyjdź i szukaj Twego [G]sługi,
+[F]przyjdź, o Panie [E]Jezu!
+[a]Przyjdź, gdyż gubię się bez [G]Ciebie,
+[F]przyjdź, o Panie [E]Jezu!
+K:
+[a]Niech dotrze moja modlitwa do Ciebie, …
+W:
+[a]Przyjdź i szukaj Twego [G]sługi, …

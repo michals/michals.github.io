@@ -1,0 +1,96 @@
+===
+title: "Przybywam by zgromadzić"
+section: "precate"
+color: "precate"
+tone: "E"
+songid: "S128GloriaGloriaGloria"
+author:
+  - "K"
+year: 1994
+address:
+  - what: "Iz"
+    where: "66, 18-22"
+  - what: "*WEJ"
+    where: ""
+  - what: "*ZAK"
+    where: ""
+knownas:
+  - "Gloria, gloria, gloria"
+  - "1993"
+index:
+  - "brat"
+  - "chwała"
+  - "dar"
+  - "głosić"
+  - "gloria"
+  - "jako"
+  - "kapłan"
+  - "najdalszy"
+  - "naród"
+  - "niebiosa"
+  - "nowy"
+  - "Pan"
+  - "położyć"
+  - "potomstwo"
+  - "przybyć"
+  - "przybywać"
+  - "siebie"
+  - "spośród"
+  - "trwać"
+  - "uczynić"
+  - "wszystek"
+  - "wysłać"
+  - "wziąć"
+  - "zawsze"
+  - "zgromadzić"
+  - "ziemia"
+  - "znak"
+  - "zobaczyć"
+===
+
+K:
+[E]Przybywam, by zgromadzić,
+W:
+[E]przybywam, by zgromadzić
+K:
+[A]wszystkie na[E]rody,
+W:
+[A]wszystkie na[E]rody.
+K:
+Przy[Fis]będą i zobaczą moją [H]chwałę.
+W:
+Przy[A]będą i zobaczą moją [E]chwałę.
+W:
+[A]Glo[E]ria, [A]glo[E]ria, [H7]glo[E]ria.
+[A]Glo[E]ria, [A]glo[E]ria, [H7]glo[E]ria.
+
+K:
+[cis]Położę na nich znak
+i [A]wyślę ich do narodów naj[E]dalszych,
+[H7]aby głosili moją [E]chwałę,
+[H7]aby głosili moją [E]chwałę.
+W:
+[A]Glo[E]ria, [A]glo[E]ria, [H7]glo[E]ria.
+[A]Glo[E]ria, [A]glo[E]ria, [H7]glo[E]ria.
+
+K:
+[Gis]I zgromadzą waszych [A]braci
+ze wszystkich na[E]rodów,
+[H]jako dar dla [E]Pana,
+[H]jako dar dla [E]Pana.
+I [cis]wezmę spośród [Gis]nich
+ka[H]płanów dla [Gis]siebie,
+ka[A]płanów, by głosili moją [E]chwałę,
+ka[H7]płanów, by głosili moją [E]chwałę.
+W:
+[A]Glo[E]ria, [A]glo[E]ria, [H7]glo[E]ria.
+[A]Glo[E]ria, [A]glo[E]ria, [H7]glo[E]ria.
+
+K:
+[cis]Albowiem tak, jak nowe niebiosa i nowa ziemia, które Ja u[Gis]czynię,
+trwać [H]będą na [Gis]zawsze,
+[A]tak będzie [E]trwać
+ich po[H7]tomstwo na [E]zawsze.
+W:
+[A]Glo[E]ria, [A]glo[E]ria, [H7]glo[E]ria.
+[A]Glo[E]ria, [A]glo[E]ria, [H7]glo[E]ria.

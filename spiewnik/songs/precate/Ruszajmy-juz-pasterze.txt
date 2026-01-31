@@ -1,0 +1,79 @@
+===
+title: "Ruszajmy już pasterze"
+subtitle: "Kolęda"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S120RuszajmyJuzPasterze"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*DZI"
+    where: ""
+  - what: "*OBN"
+    where: ""
+  - what: "*KOL"
+    where: ""
+knownas:
+  - "Co za radość i wesele"
+  - "1967"
+children: true
+index:
+  - "Betlejem"
+  - "Dziecię"
+  - "dziś"
+  - "Emmanuel"
+  - "Józef"
+  - "śpiewać"
+  - "świat"
+  - "la"
+  - "laj"
+  - "mały"
+  - "Maryja"
+  - "matka"
+  - "nazwać"
+  - "ojciec"
+  - "pójść"
+  - "pasterz"
+  - "przyjść"
+  - "radość"
+  - "radować"
+  - "ruszać"
+  - "ubogi"
+  - "wesele"
+  - "Zbawca"
+  - "zrodzić"
+===
+
+W:
+[e]Ruszajmy już pasterze! Pójdziemy do Bet[H7]lejem!
+Dziś przyszło na świat Dziecię, nazwane: Emma[e]nuel,
+nazwane: Emmanuel, nazwane: Emma[H7]nuel;
+ruszajmy już pasterze! Pójdziemy do Bet[e]lejem!
+La-la laj-laj [H7]La la-la laj-laj.
+[e]La la-la laj-laj [H7]La-la-la-la laj-laj [e]La.
+
+K:
+Ubodzy już śpie[a]wają, a [H7]mali się ra[e]dują!
+W:
+Ubodzy już śpie[a]wają, a [H7]mali się ra[e]dują!
+
+W:
+Co za radość i we[a]sele, co za [H7]radość i we[e]sele,
+Co za radość i we[a]sele, dziś zro[H7]dzony Zbawca [e]nasz!
+
+W:
+[e]Ruszajmy już pasterze! Pójdźmy do Bet[H7]lejem!
+Dziś przyszło na świat Dziecię, nazwane: Emma[e]nuel,
+nazwane: Emmanuel, nazwane: Emma[H7]nuel;
+ruszajmy już pasterze! Pójdziemy do Bet[H7]lejem!
+
+K:
+Jego Matką Ma[a]ryja, Jego [H7]ojcem jest [e]Józef.
+W:
+Dziś przyszło na świat [a]Dziecię, na[H7]zwane: Emma[e]nuel,
+
+W:
+Co za radość i we[a]sele, co za [H7]radość i we[e]sele,
+Co za radość i we[e]sele, dziś zro[H7]dzony Zbawca [e]nasz!

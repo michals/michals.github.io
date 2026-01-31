@@ -1,0 +1,155 @@
+===
+title: "Wyrasta różdżka z pnia Jessego"
+section: "precate"
+color: "precate"
+tone: "G"
+songid: "S123WyrastaRozdzkaZpniaJessego"
+author:
+  - "K"
+year: 1999
+address:
+  - what: "Iz"
+    where: "11, 1-11a.16"
+  - what: "*OBN"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*OPE"
+    where: ""
+  - what: "*KOM"
+    where: ""
+knownas:
+  - "1991"
+index:
+  - "baranek"
+  - "bezbożnik"
+  - "bojaźń"
+  - "chłopiec"
+  - "chorągiew"
+  - "cielę"
+  - "czynić"
+  - "droga"
+  - "Duch"
+  - "dziecko"
+  - "dzień"
+  - "Dziewica"
+  - "gwałtownik"
+  - "igrać"
+  - "jadowity"
+  - "Jesse"
+  - "kobra"
+  - "koźlę"
+  - "korzeń"
+  - "krowa"
+  - "kryjówka"
+  - "leżeć"
+  - "lew"
+  - "żywić"
+  - "lud"
+  - "mądrość"
+  - "mały"
+  - "męstwo"
+  - "naród"
+  - "niedźwiedzica"
+  - "niemowlę"
+  - "nora"
+  - "odrośl"
+  - "On"
+  - "otworzyć"
+  - "owy"
+  - "Pański"
+  - "paść"
+  - "pójść"
+  - "Pan"
+  - "pantera"
+  - "pień"
+  - "pobożność"
+  - "pogłoska"
+  - "pomóc"
+  - "poprowadzić"
+  - "poznać"
+  - "przestawać"
+  - "rada"
+  - "różdżka"
+  - "rózga"
+  - "ręka"
+  - "razem"
+  - "rozum"
+  - "sądzić"
+  - "słoma"
+  - "słowo"
+  - "spoczywać"
+  - "tchnienie"
+  - "uciśniony"
+  - "uśmiercić"
+  - "usta"
+  - "wąż"
+  - "wół"
+  - "więcej"
+  - "wiedza"
+  - "wilk"
+  - "włożyć"
+  - "wskazać"
+  - "wszystek"
+  - "wyciągnąć"
+  - "wypełnić"
+  - "wyrastać"
+  - "wznieść"
+  - "zamieszkać"
+  - "ziemia"
+  - "zło"
+===
+
+W:
+[G]Wyrasta różdżka z pnia Jessego,
+[e]odrośl z jego ko[G]rzeni.
+Spo[C]czywa na Nim Duch [G]Pana,
+[D]Duch mądrości i ro[G]zumu,
+[D]Duch rady i [G]męstwa,
+Duch [C]wiedzy i poboż[G]ności,
+[D]Duch bojaźni [G]Pańskiej.
+
+K:
+[C]Nie będzie sądził z po[G]głosek,
+[D]lecz pomoże wszystkim uciś[G]nionym.
+[C]Jego słowo będzie rózgą dla gwałtow[G]nika
+[D]i tchnieniem ust swoich uśmierci bezboż[G]nika.
+[C]Wilk zamieszka z ba[G]rankiem,
+pan[C]tera leżeć będzie z koź[G]lęciem,
+lew i [D]cielę razem paść się [G]będą,
+a [C]mały chłopiec je popro[G]wadzi,
+[D]mały chłopiec [G]je poprowadzi.
+
+W:
+[G]Wyrasta różdżka z pnia Jessego,
+[e]odrośl z jego ko[G]rzeni.
+Spo[C]czywa na Nim Duch [G]Pana,
+[D]Duch mądrości i ro[G]zumu,
+[D]Duch rady i [G]męstwa,
+Duch [C]wiedzy i poboż[G]ności,
+[D]Duch bojaźni [G]Pańskiej.
+
+K:
+[C]Krowa i niedźwiedzica przestawać będą [G]razem,
+[C]lew żywić się będzie słomą jak [G]wół,
+nie[D]mowlę igrać będzie na norze [G]kobry,
+[C]dziecko włoży rękę do kryjówki jadowitego [G]węża.
+KW:
+Bo [D]zła nie będzie się już więcej [G]czynić.
+KW:
+Al[D]bowiem poznanie Pana wypełni [G]ziemię.
+K:
+Al[H7]bowiem w owym dniuKorzeń Jessego wzniesie sięjak chorągiew dla na[e]rodów
+i [a]ludy pójdą za Nim z bo[H7]jaźnią.
+W owym [C]dniu Pan wyciągnie swoją [H7]rękę.
+Bo [C]droga się ot[H7]worzy,
+[C]droga dla na[H7]rodów,
+którą [a]wskaże Dzie[H7]wica.
+W:
+[G]Wyrasta różdżka z pnia Jessego,
+[e]odrośl z jego ko[G]rzeni.
+Spo[C]czywa na Nim Duch [G]Pana,
+[D]Duch mądrości i ro[G]zumu,
+[D]Duch rady i [G]męstwa,
+Duch [C]wiedzy i poboż[G]ności,
+[D]Duch bojaźni [G]Pańskiej.

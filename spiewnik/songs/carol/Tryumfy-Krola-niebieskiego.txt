@@ -1,0 +1,144 @@
+===
+title: "Tryumfy Króla niebieskiego"
+section: "carol"
+color: "carol"
+tone: "F"
+songid: "S710TryumfyKrolaNiebieskiego"
+author:
+  - "tr"
+year: 1754
+address:
+  - what: "Łk"
+    where: "2, 8-16"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+index:
+  - "afekt"
+  - "badać"
+  - "Bóg"
+  - "betlejemski"
+  - "boska"
+  - "chwała"
+  - "cześć"
+  - "dar"
+  - "dawać"
+  - "dobytek"
+  - "dowiedzieć"
+  - "dusza"
+  - "Dzieciątko"
+  - "dzieje"
+  - "Dziewica"
+  - "iść"
+  - "jaśnieć"
+  - "Król"
+  - "ślad"
+  - "śpieszyć"
+  - "śpiewać"
+  - "światło"
+  - "światłość"
+  - "żywy"
+  - "ludzie"
+  - "ludzki"
+  - "Maryja"
+  - "matka"
+  - "narodzić"
+  - "niebieski"
+  - "niebo"
+  - "niskość"
+  - "nowy"
+  - "ochota"
+  - "odbieżeć"
+  - "Odkupiciel"
+  - "ofiara"
+  - "oświecony"
+  - "On"
+  - "Ona"
+  - "pałac"
+  - "pasterz"
+  - "piekło"
+  - "pobudzić"
+  - "podziwić"
+  - "pokój"
+  - "pokorny"
+  - "pole"
+  - "postawić"
+  - "potem"
+  - "powitanie"
+  - "prawdziwy"
+  - "przyczyna"
+  - "przyjąć"
+  - "przykład"
+  - "przynieść"
+  - "rodzic"
+  - "serce"
+  - "siebie"
+  - "stajnia"
+  - "stateczny"
+  - "stawać"
+  - "stróż"
+  - "tryumf"
+  - "trzoda"
+  - "uczyć"
+  - "uniżony"
+  - "uważać"
+  - "wieczny"
+  - "wiedzieć"
+  - "wybawić"
+  - "wysoki"
+  - "wysokość"
+  - "wyznawać"
+  - "Zbawiciel"
+  - "ziemia"
+  - "zrodzić"
+  - "zstąpić"
+===
+
+[F]Tryumfy Króla [C]niebies[F]kiego,
+zstąpiły z nieba [C]wyso[F]kiego.
+[C]Pobudziły [G]paste[C]rzów,
+dobytku swe[G]go stró[C]żów,
+śpiewa[F]niem, [g]śpiewa[F]niem, [g]śpie[C7]wa[F]niem.
+
+[F]Chwała bądź Bogu [C]w wyso[F]kości,
+a ludziom pokój [C]na nis[F]kości.
+[C]Narodził się [G]Zbawi[C]ciel,
+dusz ludzkich Od[G]kupi[C]ciel,
+na zie[F]mi, [g]na zie[F]mi, [g]na [C7]zie[F]mi.
+
+[F]Zrodziła Mary[C]ja Dzie[F]wica,
+wiecznego Boga [C]bez ro[F]dzica.
+[C]By nas z piekła [G]wyba[C]wił,
+a w niebieskich [G]posta[C]wił,
+pała[F]cach, [g]pała[F]cach, [g]pa[C7]ła[F]cach.
+
+[F]Pasterze w podzi[C]wieniu [F]stają,
+tryumfu przyczy[C]nę ba[F]dają.
+[C]Co się nowe[G]go dzie[C]je,
+że tak światłość [G]jaśnie[C]je,
+nie wie[F]dzą, [g]nie wie[F]dzą, [g]nie [C7]wie[F]dzą.
+
+[F]Że to Bóg, gdy się [C]dowie[F]dzieli,
+swej trzody w polu [C]odbie[F]żeli,
+[C]śpiesząc na po[G]wita[C]nie
+do Betlejem[G]skiej staj[C]nie
+Dziecią[F]tka, [g]Dziecią[F]tka, [g]Dzie[C7]cią[F]tka.
+
+[F]Niebieskim światłem [C]oświe[F]ceni
+pokornie przed Nim [C]uni[F]żeni,
+[C]Bogiem Go być [G]prawdzi[F]wym,
+sercem, afe[G]ktem ży[C]wym
+wyzna[F]ją, [g]wyzna[F]ją, [g]wy[C7]zna[F]ją.
+
+[F]I które mieli [C]z sobą [F]dary
+Dzieciątku dają [C]na o[F]fiary.
+[C]Przyjmij o Na[G]rodzo[C]ny,
+nas i dar przy[G]niesio[C]ny
+z ocho[F]tą, [g]z ocho[F]tą, [g]z o[C7]cho[F]tą.
+
+[F]A potem Mary[C]i cześć [F]dają,
+Za Matkę Boską Ją [C]uwa[F]żają.
+[C]Tak nas uczą [G]przykła[C]dem
+Jak iść mamy [G]ich śla[C]dem,
+State[F]cznie, [g]state[F]cznie, [g]sta[C7]tecz[F]nie.

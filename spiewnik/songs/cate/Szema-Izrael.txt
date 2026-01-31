@@ -1,0 +1,109 @@
+===
+title: "Szemá Izrael"
+section: "cate"
+color: "cate"
+tone: "a"
+songid: "S218SzemaIzrael"
+author:
+  - "GF"
+year: 1992
+address:
+  - what: "Pp"
+    where: "6, 4-9"
+  - what: "*PAS"
+    where: ""
+  - what: "*OPE"
+    where: ""
+alttone:
+  - "cis"
+knownas:
+  - "Słuchaj Izraelu"
+index:
+  - "Adonaj"
+  - "Bóg"
+  - "bliźni"
+  - "brama"
+  - "cały"
+  - "dom"
+  - "drugi"
+  - "Ehad"
+  - "Elohenu"
+  - "iść"
+  - "Izrael"
+  - "jako"
+  - "jedyny"
+  - "kochać"
+  - "żyć"
+  - "życie"
+  - "mówić"
+  - "między"
+  - "odrzwia"
+  - "oko"
+  - "pamiątka"
+  - "Pan"
+  - "pierwszy"
+  - "podobny"
+  - "podróż"
+  - "położyć"
+  - "przykazanie"
+  - "rano"
+  - "ręka"
+  - "sam"
+  - "serce"
+  - "siebie"
+  - "siła"
+  - "słowa"
+  - "słuchać"
+  - "spać"
+  - "syn"
+  - "szemá"
+  - "umysł"
+  - "wiek"
+  - "wpoić"
+  - "wstawać"
+  - "wszystek"
+  - "zachować"
+  - "znak"
+===
+
+K:
+[a]Szemá Izrael, [G]szemá Izrael,
+[F]Adonaj Elohenu, Adonaj E[a]had.
+W:
+[a]Szemá Izrael, [G]szemá Izrael,
+Ado[F]naj Elohenu, Adonaj E[a]had.
+W:
+[a]Słuchaj Izraelu, - Szemá Izrael
+[G]Słuchaj Izraelu,                 - Szemá Izrael
+[F]Pan jest naszym Bogiem,          - Adonaj Elohenu
+Pan jest je[a]dyny.                 - Adonaj Ehad
+
+K:
+[a]Będziesz kochał Pana, Boga twego
+[F]całym twoim [a]sercem,
+[F]całym twym u[a]mysłem,
+ze [F]wszystkich twoich [E]sił.
+[a]Połóż te moje [d]słowa
+jako [G]znak na twoich [a]rękach,
+jak pamiątkę między [d]oczy,
+na [G]odrzwiach domu i na twoich [E]bramach.
+W:
+[a]Szemá Izrael …
+[a]Słuchaj Izraelu- Szemá Izrael …
+
+K:
+[a]Wpoisz je twym synom, Izraelu,
+[F]będziesz o nich [a]mówił
+[F]W domu i w pod[a]róży,
+[F]idąc spać i wstając [E]rano.
+[a]Oto pierwsze przykazanie [d]życia,
+a [G]drugie jest mu po[a]dobne:
+kochaj bliźniego jak [d]siebie samego,
+za[G]chowaj je, a będziesz żył na [E]wieki.
+W:
+[a]Szemá Izrael …
+[a]Słuchaj Izraelu- Szemá Izrael …
+
+K:
+[a]Szemá Izrael, [G]szemá Izrael,
+[F]Adonaj Elohenu, Adonaj E[a]had.

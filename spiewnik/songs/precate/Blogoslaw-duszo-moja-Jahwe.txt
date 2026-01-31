@@ -1,0 +1,74 @@
+===
+title: "Błogosław, duszo moja, Jahwe"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S034BlogoslawDuszoMojaJahwe"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "103"
+  - what: "*OWP"
+    where: ""
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "1968"
+  - "On odpuszcza wszystkie twoje winy"
+yhwh: true
+index:
+  - "błogosławić"
+  - "bronić"
+  - "droga"
+  - "dusza"
+  - "dzieło"
+  - "imię"
+  - "Izrael"
+  - "Jahwe"
+  - "łaska"
+  - "śmierć"
+  - "śpiewać"
+  - "święty"
+  - "leczyć"
+  - "życie"
+  - "miłość"
+  - "Mojżesz"
+  - "najpokorniejszy"
+  - "nauczyć"
+  - "niemoc"
+  - "oddawać"
+  - "odpuszczać"
+  - "On"
+  - "pokazać"
+  - "sprawiedliwość"
+  - "wina"
+  - "wszystek"
+  - "wybawiać"
+  - "wypełniać"
+  - "zapominać"
+===
+
+W:
+[a]Błogosław, duszo moja, Jah[E]we,
+śpiewaj święte imię [a]Jego.
+Błogosław, duszo moja, Jah[E]we,
+nie zapominaj Jego mi[a]łości.
+
+K:
+[d]On odpuszcza wszystkie twoje winy,
+leczy wszystkie twe nie[a]moce,
+życie twe wybawia od [E]śmierci,
+wypełnia cię łaską i mi[a]łością.
+
+[d]On oddaje ci sprawiedliwość,
+broni najpokor[a]niejszych,
+Mojżesza nauczył dróg [E]swoich,
+Izraelowi pokazał swe [a]dzieła.
+
+W:
+Bło[a]gosław, duszo moja, Jah[E]we,
+śpiewaj święte imię [a]Jego.
+Błogosław, duszo moja, Jah[E]we,
+nie zapominaj Jego mi[a]łości.

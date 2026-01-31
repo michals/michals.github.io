@@ -1,0 +1,88 @@
+===
+title: "Weź mnie do nieba"
+section: "precate"
+color: "precate"
+tone: "E"
+songid: "S280WezMnieDoNieba"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Flp"
+    where: "1, 23"
+  - what: "*OAD"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*OPE"
+    where: ""
+  - what: "*ZAK"
+    where: ""
+knownas:
+  - "1987"
+index:
+  - "błagać"
+  - "dać"
+  - "dobry"
+  - "jakże"
+  - "jedno"
+  - "lepiej"
+  - "miłość"
+  - "niebo"
+  - "nigdy"
+  - "Pan"
+  - "prosić"
+  - "przebywać"
+  - "słodki"
+  - "umrzeć"
+  - "wątpić"
+  - "wiele"
+  - "wziąć"
+===
+
+KW:
+[E]Weź mnie do nieba,
+weź mnie do nieba,
+[cis]o mój [Gis]Panie!
+Albowiem [E]umrzeć,
+albowiem umrzeć
+[cis]jest dla mnie o wiele [Gis]lepiej!
+Jest [A]dla mnie o wiele [E]lepiej
+przebywać [H7]z Tobą,
+przebywać [E]z Tobą!
+
+K:
+[E]O to jedno Cię proszę,
+o to tylko Cię błagam:
+[cis]nie daj mi wątpić w Twoją mi[Gis]łość,
+[A]nigdy nie wątpić w Twoją mi[E]łość,
+przebywać [H7]z Tobą,
+przebywać [E]z Tobą!
+W:
+[E]Weź mnie do nieba,
+weź mnie do nieba,
+[cis]o mój [Gis]Panie!
+Albowiem [E]umrzeć,
+albowiem umrzeć
+[cis]jest dla mnie o wiele [Gis]lepiej!
+Jest [A]dla mnie o wiele [E]lepiej
+przebywać [H7]z Tobą,
+przebywać [E]z Tobą!
+
+K:
+[E]O jakże dobra,
+o jakże słodka
+[cis]była dla mnie miłość [Gis]Twa,
+była [A]dla mnie miłość [E]Twa!
+O jakże [H7]dobra,
+o jakże [E]słodka.
+W:
+[E]Weź mnie do nieba,
+weź mnie do nieba,
+[cis]o mój [Gis]Panie!
+Albowiem [E]umrzeć,
+albowiem umrzeć
+[cis]jest dla mnie o wiele [Gis]lepiej!
+Jest [A]dla mnie o wiele [E]lepiej
+przebywać [H7]z Tobą,
+przebywać [E]z Tobą!

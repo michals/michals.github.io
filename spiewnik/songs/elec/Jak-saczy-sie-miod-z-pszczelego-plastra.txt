@@ -1,0 +1,112 @@
+===
+title: "Jak sączy się miód z pszczelego plastra"
+section: "elec"
+color: "elec"
+tone: "a"
+songid: "S278JakSaczySieMiod"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*ODA"
+    where: "40"
+alttone:
+  - "cis"
+knownas:
+  - "["
+  - "["
+  - "["
+  - "1986"
+index:
+  - "alleluja"
+  - "bojaźń"
+  - "chwała"
+  - "członek"
+  - "czuć"
+  - "duch"
+  - "dziecko"
+  - "imię"
+  - "język"
+  - "kobieta"
+  - "kochać"
+  - "światło"
+  - "życie"
+  - "źródło"
+  - "miód"
+  - "miłość"
+  - "miłosny"
+  - "mleko"
+  - "namiot"
+  - "napełnić"
+  - "nieśmiertelny"
+  - "niezawodny"
+  - "oblicze"
+  - "On"
+  - "pieśń"
+  - "płynąć"
+  - "plaster"
+  - "pogodny"
+  - "pokładać"
+  - "ponieważ"
+  - "postawić"
+  - "prosty"
+  - "pszczeli"
+  - "radość"
+  - "radować"
+  - "rozkoszować"
+  - "sączyć"
+  - "serce"
+  - "słodycz"
+  - "spojrzenie"
+  - "spokojny"
+  - "ufność"
+  - "uspokajać"
+  - "usta"
+  - "uwielbienie"
+  - "uzdrawiać"
+  - "weselić"
+  - "woda"
+  - "wylewać"
+  - "wypełniać"
+  - "wznosić"
+  - "zbawienie"
+  - "zło"
+===
+
+KW:
+[a]Jak sączy się miód z pszczelego [d]plastra,
+[E]a mleko płynie z kobiety, kochającej swoje [a]dzieci,
+jak źródło wylewa spokojne [d]wody,
+[E]tak moje serce wylewa Jego [a]chwałę.
+K:
+[d]I moje usta wznoszą uwielbienie dla [E]Niego,
+[d]mój język napełniony słodyczą Jego i[E]mienia,
+[d]a moje członki rozkoszują się Jego pie[E]śniami.
+Ponieważ [F]Jego światło uspokaja moje [E]zło,
+ponieważ Jego [F]proste spojrzenie miłości uzdrawia moje s[E]erce,
+W:
+ponieważ życie nieśmier[F]telne swój namiot postawiło [E]w nas.
+{{{ 2x
+[F]Allelu[E]ja, [F]allelu[E]ja, [F]allelu-, allelu-, allelu[E]ja,
+}}}
+W:
+[a]Jak sączy się miód z pszczelego [d]plastra,
+[E]a mleko płynie z kobiety, kochającej swoje [a]dzieci,
+jak źródło wylewa spokojne [d]wody,
+[E]tak moje serce wylewa Jego [a]chwałę.
+K:
+[d]I moje oblicze weseli się Jego ra[E]dością,
+[d]i mój duch raduje się Jego mi[E]łością,
+i [d]moje serce wypełnia Jego pogodne światło,
+czuje Jego miłosne spoj[E]rzenie.
+KW:
+[F]Ponieważ bojaźń ufność w Nim po[E]kłada.
+KW:
+Ponieważ zba[F]wienie w Nim jest nieza[E]wodne.
+W:
+Ponieważ życie nieśmier[F]telne swój namiot postawiło [E]w nas.
+{{{ 2x
+[F]Allelu[E]ja, [F]allelu[E]ja, [F]allelu-, allelu-, allelu[E]ja,
+}}}
+W:
+[a]Jak sączy się miód z pszczelego [d]plastra …

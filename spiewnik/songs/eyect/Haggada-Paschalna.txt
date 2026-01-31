@@ -1,0 +1,104 @@
+===
+title: "Haggada Paschalna"
+subtitle: "Jesteś głodny"
+section: "eyect"
+color: "eyect"
+tone: "D"
+songid: "S512Haggadah"
+author:
+  - "GA"
+year: 1986
+address:
+  - what: "*INN"
+    where: ""
+knownas:
+  - "1976"
+  - "Gdyby Święty do nas nie przyszedł"
+  - "To jest chleb udręczenia"
+index:
+  - "alleluja"
+  - "Bóg"
+  - "ból"
+  - "błogosławić"
+  - "chleb"
+  - "chwalić"
+  - "czas"
+  - "dać"
+  - "dar"
+  - "dzięki"
+  - "dziecko"
+  - "dzisiaj"
+  - "Egipt"
+  - "faraon"
+  - "fermentować"
+  - "gdyby"
+  - "głodny"
+  - "Izrael"
+  - "kraj"
+  - "śpiewać"
+  - "święcić"
+  - "święty"
+  - "niewola"
+  - "On"
+  - "Pan"
+  - "pascha"
+  - "pęta"
+  - "pośpiech"
+  - "pragnienie"
+  - "prawo"
+  - "przenieść"
+  - "przyjść"
+  - "przymierze"
+  - "radość"
+  - "ręka"
+  - "spożywać"
+  - "sprawić"
+  - "uczynić"
+  - "udręczenie"
+  - "uwolnić"
+  - "wciąż"
+  - "wczoraj"
+  - "wolny"
+  - "wszystko"
+  - "zbawiać"
+  - "zgięty"
+===
+
+W:
+[D]Jes[A]teś [D]głodny,
+[G]przyjdź i Paschę [A7]z nami [D]świ[h]ęć.
+[G]masz prag[D]nie[h]nie,
+[G]przyjdź i Paschę [G][D][A]z nami [D]święć.
+[D]Wczo[A]raj w nie[D]woli,
+[G]zgięci pod [A7]ręką fara[D]on[h]a,
+[G]dzisiaj [D]wol[h]ni
+[G]z Panem naszym [G][D][A][D]w Izraelu.
+K:
+[G]Gdyby Święty do nas nie [A]przyszedł,
+[G]by nas z Egiptu u[A]wolnić,
+[Fis]my i nasze dzie[h]ci
+[E7]bylibyśmy w pętach [A7]wciąż.
+W:
+[D]Jes[A]teś [D]głodny, …
+
+K:
+[G]To jest chleb udrę[A]czenia,
+[G]chleb spożywany [A]tam.
+[Fis]nie miał czasu, by fermento[h]wać,
+[E7]bo w pośpiechu zbawiał [A7]Pan.
+W:
+[D]Jes[A]teś [D]głodny, …
+K:
+[G]Dzięki Ci, Panie, nasz [A]Boże,
+[G]za kraj, który nam [A]dałeś,
+[Fis]za dar prawa i przymie[h]rza,
+[E7]które z nami uczy[A7]niłeś.
+W:
+[D]Jes[A]teś [D]głodny, …
+K:
+Chwa[e]limy i błogosławimy [A]Tego,
+[e]który to wszystko [A]sprawił.
+[Fis]On nas z bólu do radości prze[h]niósł,
+śpie[E7]wajmy Mu: Allelu[A7]ja!
+W:
+[D]Jes[A]teś [D]głodny, …

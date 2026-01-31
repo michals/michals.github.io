@@ -1,0 +1,84 @@
+===
+title: "Jeżeli w Panu znalazłem schronienie"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S101JezeliWPanuZnalazlemSchronienie"
+author:
+  - "K"
+year: 1996
+address:
+  - what: "Ps"
+    where: "11"
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "1983"
+index:
+  - "badać"
+  - "Bóg"
+  - "bezbożny"
+  - "cięciwa"
+  - "ciemności"
+  - "człowiek"
+  - "fundament"
+  - "góra"
+  - "każdy"
+  - "ku"
+  - "łuk"
+  - "świat"
+  - "święty"
+  - "źrenica"
+  - "móc"
+  - "mówić"
+  - "napinać"
+  - "niby"
+  - "niebo"
+  - "oko"
+  - "otwarty"
+  - "Pan"
+  - "podobać"
+  - "prawy"
+  - "przemoc"
+  - "przenikać"
+  - "przybytek"
+  - "schronienie"
+  - "serce"
+  - "sprawiedliwy"
+  - "strzała"
+  - "tron"
+  - "uciekać"
+  - "ugodzić"
+  - "wiedzieć"
+  - "wróbel"
+  - "wstrząśnięty"
+  - "zakładać"
+  - "zdziałać"
+  - "znaleźć"
+===
+
+KW:
+[G]Jeżeli w Panu zna[H7]lazłem schronienie,
+jak możecie mi mówić, jak możecie mi [e]mówić,
+bym uciekał niby [C7]wróbel ku [H7]górze,
+bym u[C7]ciekał niby wróbel ku [H7]górze.
+K:
+[C]Ja wiem, że bezbożni napinają [H7]łuki
+i zakła[C]dają strzały na cię[H7]ciwy,
+by u[C7]godzić w ciemności prawych [H7]sercem.
+[a]Lecz kiedy wstrząśnięte są funda[H7]menty,
+[a]co może zdziałać sprawie[H7]dliwy?
+[a]Co może zdziałać sprawie[H7]dliwy?
+Ale [G]Pan, ale [H7]Pan jest w swym świętym przy[e]bytku,
+[C]Pan ma swój tron na [H7]niebie,
+Jego [C7]oczy są otwarte na [H7]świat,
+Jego źre[C7]nice badają każdego czło[H7]wieka.
+Bo [G]Pan, bo [H7]Pan przenika sprawie[e]dliwych,
+[C7]Pan przenika także bez[H7]bożnych,
+Panu [C7]Bogu nie podoba się [H7]przemoc.
+Panu [C7]Bogu nie podoba się [H7]przemoc.
+W:
+[G]Jeżeli w Panu zna[H7]lazłem schronienie,
+jak możecie mi mówić, jak możecie mi [e]mówić,
+bym uciekał niby [C7]wróbel ku [H7]górze,
+bym u[C7]ciekał niby wróbel ku [H7]górze.

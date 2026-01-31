@@ -1,0 +1,95 @@
+===
+title: "Jego fundamenty"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S221JegoFundamenty"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "87"
+  - what: "*MAR"
+    where: ""
+  - what: "*ZAK"
+    where: ""
+  - what: "*PAS"
+    where: ""
+alttone:
+  - "h"
+knownas:
+  - "Matko, matko, miasto Boga"
+  - "Bowiem wszyscy w nim się narodzili"
+  - "I śpiewaniem i tańcem ogłaszają"
+index:
+  - "Babilonia"
+  - "Bóg"
+  - "bardziej"
+  - "brama"
+  - "Etiopia"
+  - "fundament"
+  - "góry"
+  - "głosić"
+  - "Jakub"
+  - "księga"
+  - "ktoś"
+  - "śpiewać"
+  - "święty"
+  - "źródło"
+  - "mówić"
+  - "matka"
+  - "miasto"
+  - "miłować"
+  - "namiot"
+  - "narodzić"
+  - "ogłaszać"
+  - "On"
+  - "Palestyna"
+  - "Pan"
+  - "przywołać"
+  - "Rahab"
+  - "rodzić"
+  - "rzeczy"
+  - "sam"
+  - "stworzyć"
+  - "Syjon"
+  - "tańczyć"
+  - "taniec"
+  - "Tyr"
+  - "urodzić"
+  - "wspaniały"
+  - "wszyscy"
+  - "wszystek"
+  - "zaśpiewać"
+  - "zapisywać"
+  - "zbudować"
+===
+
+K:
+[a]Jego fundamenty są na świętych górach, [F]
+Pan miłuje bramy Syjonu                     bardziej niż wszystkie namioty Ja[E]kuba.
+[H7]O Tobie głoszą rzeczy wspaniałe,                     o miasto [E]Boga!
+[a]Przywołam Rahab i Babilonię,[F]
+Palestynę, Tyr i Etiopię,kiedy ktoś się w nich rodzi,mówi się: „on się tam u[E]rodził!”
+[H7]Ale o Syjonie mówi się: „[E]Matka”!
+KW:
+[a]Bowiem [d]wszyscy [E]w nim się naro[a]dzili,
+KW:
+[G]Pan - On [F]sam go stworzył i zbu[E]dował!
+{{{ 2x
+W:
+[a]Matko, [G]matko, [F]miasto [E]Boga!
+}}}
+K:
+[a]Pan zapisuje w swojej księdze:[F]
+„Ten się tam u[E]rodził”;
+[H7]i tańcząc zaśpiewają:                 „W Tobie są wszystkie me [E]źródła”!
+KW:
+[a]I śpie[d]waniem i [E]tańcem ogła[a]szają:
+KW:
+„[G]W Tobie [F]są wszystkie moje [E]źródła”.
+{{{ 2x
+W:
+[a]Matko, [G]matko, [F]miasto [E]Boga!
+}}}

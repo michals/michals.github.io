@@ -1,0 +1,251 @@
+===
+title: "Melodie Psalmodii Jutrzni"
+subtitle: "Adwent i Wielki Post; etap Ojcze Nasz"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "S401Psalmodia01"
+author:
+  - "K"
+  - "GA"
+  - "FD"
+  - "GF"
+year: 2023
+address:
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "2023"
+  - "Psalmodie Jutrzni"
+index:
+  - "bać"
+  - "bóg"
+  - "Bóg"
+  - "bogaty"
+  - "choćby"
+  - "chwała"
+  - "chwalić"
+  - "czas"
+  - "deszcz"
+  - "dobry"
+  - "droga"
+  - "dziękować"
+  - "dzieło"
+  - "góry"
+  - "głos"
+  - "głosić"
+  - "godny"
+  - "grzech"
+  - "imię"
+  - "Jakub"
+  - "karmić"
+  - "Król"
+  - "kraniec"
+  - "ku"
+  - "łaska"
+  - "łaskawość"
+  - "łaskawy"
+  - "śpiewać"
+  - "świat"
+  - "święty"
+  - "żyć"
+  - "los"
+  - "lud"
+  - "mieszkać"
+  - "mieszkaniec"
+  - "możny"
+  - "morze"
+  - "najpewniejszy"
+  - "najwyższy"
+  - "nakłonić"
+  - "napełniać"
+  - "naród"
+  - "narodzić"
+  - "niebiosa"
+  - "niski"
+  - "noc"
+  - "nowy"
+  - "odmienić"
+  - "odpuścić"
+  - "okazać"
+  - "oko"
+  - "On"
+  - "otchłań"
+  - "otwierać"
+  - "padać"
+  - "Pan"
+  - "pieśń"
+  - "pochodzenie"
+  - "podnosić"
+  - "podtrzymywać"
+  - "podziw"
+  - "pokolenie"
+  - "pomoc"
+  - "pouczenie"
+  - "powiedzieć"
+  - "powstać"
+  - "przeto"
+  - "równy"
+  - "rano"
+  - "ręka"
+  - "razem"
+  - "rosa"
+  - "siła"
+  - "sławić"
+  - "słowa"
+  - "słowo"
+  - "słuchać"
+  - "spływać"
+  - "sprawiedliwy"
+  - "syty"
+  - "trudność"
+  - "ubogi"
+  - "ucho"
+  - "ucieczka"
+  - "uczcić"
+  - "upadać"
+  - "uważać"
+  - "wiek"
+  - "wielki"
+  - "wierność"
+  - "wierny"
+  - "wina"
+  - "właściwy"
+  - "wszechwładny"
+  - "wszyscy"
+  - "wszystek"
+  - "wszystko"
+  - "wyspa"
+  - "zakryć"
+  - "zanim"
+  - "zapaść"
+  - "zatrząść"
+  - "zgnębiony"
+  - "ziemia"
+  - "zwracać"
+===
+
+1. Psalm 92
+
+K:
+[g]Dobrze jest dziękować [A7]Panu,
+W:
+[g]śpiewać Twojemu imieniu, Naj[A7]wyższy,
+K:
+[d]Rano głosić łaskawość [A]Twoją,
+W:
+a [B]wierność Twoją no[A]cami,
+
+2. Psalm 46
+
+K:
+[a]Bóg jest dla nas ucieczką i [G]siłą,
+najpewniejszą pomocą w trud[a]nościach.
+W:
+[G]Przeto nie będziemy się bali, choćby zatrzęsła się [a]ziemia
+[G]i góry zapadły w otchłań [a]morza.
+
+3. Psalm 136
+
+K:
+[d]Chwalcie Pana, bo jest [g]dobry,
+W:
+bo Jego łaska na [d]wieki.
+K:
+[d]Chwalcie Boga nad bo[g]gami,
+W:
+bo Jego łaska na [d]wieki.
+
+4. Pwt 32
+
+K:
+[a]Uważajcie, niebiosa, na to, co [E]powiem,
+[d]słuchaj, ziemio, głosu mo[E]jego.
+W:
+[a]Jak deszcz niech spływa moje pou[E]czenie,
+[d]jak rosa niech pada me [E]słowo,
+
+5. Psalm 145 (Nun)
+
+K:
+[e]Pan jest wierny we wszystkich swoich [G]słowach
+[A]i we wszystkich swoich dziełach [e]święty.
+W:
+[e]Pan podtrzymuje wszystkich, którzy upa[G]dają,
+i pod[A]nosi wszystkich zgnę[e]bionych.
+K:
+[G]Oczy wszystkich zwracają się ku [e]Tobie,
+[a]a Ty ich karmisz we właściwym [e]czasie.
+W:
+[e]Ty otwierasz swą [G]rękę
+i [A]karmisz do syta wszystko, co [e]żyje.
+
+6. Psalm 49,1-13
+
+W:
+[G]Słuchajcie tego, wszystkie na[e]rody,
+[a]nakłońcie ucha, wszyscy [e]mieszkańcy ziemi,
+K:
+[a]Niscy pochodzeniem [e]na równi z możnymi,
+[G]bogaci ra[h]zem z ubo[e]gimi.
+
+7. Psalm 85                                                                                         ○
+I
+
+K:
+[e]Łaskawym się okazałeś, Panie, dla Twej [a]zie[e]mi,
+W:
+odmie[G]niłeś los Ja[D]ku[e]ba.
+K:
+[e]Odpuściłeś winę swojemu lu[a]do[e]wi
+W:
+i za[G]kryłeś wszystkie jego [D]grze[e]chy.
+
+8. Ap 15, 3-4
+
+K:
+[G]Wielkie i godne podziwu są Twoje dzieła,
+W:
+[C]Panie, Boże wszech[G]władny.
+K:
+[G]Sprawiedliwe i wierne są drogi Twoje,
+W:
+[C]Królu na[G]rodów.
+K:
+Któż by się nie bał, Panie,
+i nie uczcił Twojego imienia?
+W:
+[C]Bo tylko Tyś jest [G]święty.
+
+9. Iz 42, 9-13
+
+K:
+[e]Śpiewajcie Panu pieśń nową,
+[D]Jego chwała aż po krańce [e]ziemi.
+W:
+[e]Niech sławi Go morze i to, co je napełnia,
+[C]i wyspy razem z tymi, którzy [H7]tam mie[e]szkają.
+
+10. Psalm 89
+
+K:
+[a]Panie, Ty dla nas byłeś u[E]cieczką
+W:
+z pokolenia na poko([d]len[E])ie.
+K:
+[d]Zanim narodziły się góry,
+nim powstał świat i [E]zie[a]mia,
+W:
+[d]od wieku po wiek Ty jesteś [E]Bogiem.
+
+to samo w tonacji z „Resucitó 2023”
+i „Zmartwychwstał Pan 2025”
+K:
+[d]Panie, Ty dla nas byłeś u[A]cieczką
+W:
+z pokolenia na poko([g]len[A])ie.
+K:
+[g]Zanim narodziły się góry,
+nim powstał świat i [A]zie[d]mia,
+W:
+[g]od wieku po wiek Ty jesteś [A]Bogiem.

@@ -1,0 +1,137 @@
+===
+title: "Dzisiaj w Betlejem"
+section: "carol"
+color: "carol"
+tone: "C"
+songid: "S705DzisiajWBetlejem"
+author:
+  - "tr"
+year: 1878
+address:
+  - what: "Łk"
+    where: "2, 16"
+  - what: "Mt"
+    where: "2, 11"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+alttone:
+  - "F"
+  - "D"
+knownas:
+  - "Chrystus się rodzi"
+children: true
+index:
+  - "anioł"
+  - "Bóg"
+  - "Betlejem"
+  - "bydlę"
+  - "choć"
+  - "Chrystus"
+  - "cud"
+  - "czysta"
+  - "dar"
+  - "Dzieciątko"
+  - "dziś"
+  - "dzisiaj"
+  - "grać"
+  - "Józef"
+  - "Jezus"
+  - "klękać"
+  - "kosztowny"
+  - "król"
+  - "Król"
+  - "śpiewać"
+  - "ludzie"
+  - "Maryja"
+  - "nieskończony"
+  - "niezmierzony"
+  - "nowina"
+  - "ogłaszać"
+  - "On"
+  - "oswobodzić"
+  - "pójść"
+  - "Pan"
+  - "Panna"
+  - "pasterz"
+  - "piastować"
+  - "pielęgnować"
+  - "pochwalić"
+  - "porodzić"
+  - "pozdrowić"
+  - "przecież"
+  - "przybyć"
+  - "przywitać"
+  - "rodzić"
+  - "siano"
+  - "sławić"
+  - "stajeneczka"
+  - "stary"
+  - "Syn"
+  - "trzy"
+  - "uwielbić"
+  - "wesoły"
+  - "wieczny"
+  - "witać"
+  - "wkrótce"
+  - "wschód"
+  - "zielony"
+  - "złożony"
+  - "złożyć"
+===
+
+[C]Dzisiaj w Betlejem, dzisiaj w Betlejem
+wesoła no[G]wina,
+[C]że Panna czysta, że Panna czysta
+porodziła [G]Syna.
+
+[G7]Chrystus się rodzi, [C]nas oswobodzi,
+[G7]Anieli grają, [C]króle witają,
+pasterze śpiewają, bydlęta klękają,
+cuda, [A]cuda [d]ogła[G]sza[C]ją.
+
+[C]Maryja Panna, Maryja Panna
+Dzieciątko pia[G]stuje,
+[C]i Józef stary, i Józef stary
+Ono pielę[G]gnuje.
+
+[G7]Chrystus się rodzi, [C]nas oswobodzi,
+[G7]Anieli grają, [C]króle witają,
+pasterze śpiewają, bydlęta klękają,
+cuda, [A]cuda [d]ogła[G]sza[C]ją.
+
+[C]Choć w stajeneczce, choć w stajeneczce
+Panna Syna [G]rodzi;
+[C]Przecież On wkrótce, przecież On wkrótce
+ludzi oswo[G]bodzi.
+
+[G7]Chrystus się rodzi …
+
+[C]I Trzej Królowie, i Trzej Królowie
+od wschodu przy[G]byli
+[C]I dary Panu, i dary Panu
+kosztowne zło[G]żyli.
+
+[G7]Chrystus się rodzi …
+
+[C]Pójdźmy też i my, pójdźmy też i my
+przywitać Je[G]zusa;
+[C]Króla nad królmi, Króla nad królmi
+uwielbić Chrys[G]tusa.
+
+[G7]Chrystus się rodzi …
+
+[C]Bądźże pochwalon, bądźże pochwalon
+dziś, nasz wieczny [G]Panie,
+[C]Któryś złożony, któryś złożony
+na zielonym [G]sianie.
+
+[G7]Chrystus się rodzi …
+
+[C]Bądź pozdrowiony, bądź pozdrowiony
+Boże nieskoń[G]czony.
+[C]Sławimy Ciebie, sławimy Ciebie,
+Boże niezmie[G]rzony.
+
+[G7]Chrystus się rodzi …

@@ -1,0 +1,94 @@
+===
+title: "Ciebie, Panie, należy wielbić na Syjonie"
+section: "precate"
+color: "precate"
+tone: "d"
+songid: "S100CiebiePanieNalezyWielbicNaSyjonie"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "65"
+  - what: "*OWP"
+    where: ""
+  - what: "*BRE"
+    where: ""
+alttone:
+  - "e"
+knownas:
+  - "["
+  - "1981"
+index:
+  - "cud"
+  - "dobra"
+  - "dom"
+  - "dopełniać"
+  - "grzech"
+  - "Jerozolima"
+  - "ślub"
+  - "śmiertelnik"
+  - "świętość"
+  - "mieszkać"
+  - "miłość"
+  - "modlitwa"
+  - "należy"
+  - "nasycić"
+  - "odpowiadać"
+  - "Pan"
+  - "przebaczać"
+  - "przedsionek"
+  - "przemawiać"
+  - "przybytek"
+  - "przychodzić"
+  - "przygarnąć"
+  - "przygniatać"
+  - "sprawiedliwość"
+  - "Syjon"
+  - "szczęśliwy"
+  - "wielbić"
+  - "wina"
+  - "wszelki"
+  - "wybrać"
+  - "wysłuchiwać"
+===
+
+K:
+[d]Ciebie, Panie, należy wielbić na Sy[A7]jonie,
+Tobie dopełniać ślubów w Jerozo[d]limie.
+K:
+Do [g]Ciebie, który wysłuchujesz mo[d]dlitwy,
+przychodzi wszelki śmier[A7]telnik,
+przychodzi wszelki śmier[d]telnik.
+W:
+Do [B]Ciebie, który wysłuchujesz mo[A7]dlitwy,
+przy[B]chodzi wszelki śmiertelnik,
+przychodzi wszelki śmier[A7]telnik.
+
+K:
+[d]Przygniatają nas nasze [A7]winy,
+ale Ty przebaczasz nasze [d]grzechy.
+Szczęśliwy, kogo wybrałeś i przygar[A7]nąłeś,
+mieszkać będzie w Twoich przed[d]sionkach.
+K:
+Do [g]Ciebie, który wysłuchujesz mo[d]dlitwy,
+przychodzi wszelki śmier[A7]telnik,
+przychodzi wszelki śmier[d]telnik.
+W:
+Do [B]Ciebie, który wysłuchujesz mod[A7]litwy,
+przy[B]chodzi wszelki śmiertelnik,
+przychodzi wszelki śmier[A7]telnik.
+
+K:
+[d]Nasycimy się dobrami Twego [A7]domu,
+świętością Twego przy[d]bytku.
+Cudami Twojej miłości do nas prze[A7]mawiasz,
+cudami Twojej sprawiedliwości nam odpo[d]wiadasz.
+K:
+Do [g]Ciebie, który wysłuchujesz mo[d]dlitwy,
+przychodzi wszelki śmier[A7]telnik,
+przychodzi wszelki śmier[d]telnik.
+W:
+Do [B]Ciebie, który wysłuchujesz mod[A7]litwy,
+przy[B]chodzi wszelki śmiertelnik,
+przychodzi wszelki śmier[A7]telnik.

@@ -1,0 +1,89 @@
+===
+title: "Pan jest światłem i zbawieniem moim"
+section: "precate"
+color: "precate"
+tone: "d"
+songid: "S044PanJestSwiatlemIzbawieniemMoim"
+author:
+  - "FV"
+year: 1992
+address:
+  - what: "Ps"
+    where: "27"
+knownas:
+  - "Miej nadzieję w Panu, odwagi"
+  - "Wierzę, że kiedyś na pewno"
+index:
+  - "bezpieczny"
+  - "bitwa"
+  - "chronić"
+  - "dobroć"
+  - "dom"
+  - "dzień"
+  - "iść"
+  - "jedno"
+  - "ku"
+  - "światło"
+  - "lękać"
+  - "życie"
+  - "móc"
+  - "nadzieja"
+  - "odwaga"
+  - "Pan"
+  - "pewno"
+  - "podpora"
+  - "poszukiwać"
+  - "prosić"
+  - "przebywać"
+  - "ręka"
+  - "rozgorzeć"
+  - "skrzydło"
+  - "trwożyć"
+  - "wierzyć"
+  - "wszystek"
+  - "wyciągać"
+  - "zbawienie"
+  - "zobaczyć"
+===
+
+K:
+[d]Pan jest światłem [G]i zbawieniem [d]moim,
+[B]czego [C]mam się [d]lękać?
+Pan podporą [G]jest mojego [d]życia,
+[B]przed kim [C]mam się [d]trwożyć?
+
+W:
+[d]Wierzę, że kiedyś na pewno
+dobroć Twą, [g]Panie, zobaczę.
+[A7]Miej nadzieję w Panu, odwagi!
+[d]Miej nadzieję w Panu, odwagi!
+[A7]Miej nadzieję w Panu, odwagi!
+[d]Miej nadzieję w Panu!
+
+K:
+O [d]jedno tylko [G]proszę mego [d]Pana,
+[B]tego [C]poszu[d]kuję,
+bym w domu [G]Pana mógł prze[d]bywać
+[B]po wszystkie [C]moje [d]dni.
+
+W:
+[d]Wierzę, że kiedyś na pewno
+dobroć Twą, [g]Panie, zobaczę.
+[A7]Miej nadzieję w Panu, odwagi!
+[d]Miej nadzieję w Panu, odwagi!
+[A7]Miej nadzieję w Panu, odwagi!
+[d]Miej nadzieję w Panu!
+
+K:
+[d]Pan mnie chroni [G]pod skrzydłami [d]swymi,
+[B]gdy rozgo[C]rzeje [d]bitwa.
+Pan wyciąga [G]ku mnie swoją [d]rękę,
+[B]będę [C]szedł bez[d]piecznie.
+
+W:
+[d]Wierzę, że kiedyś na pewno
+dobroć Twą, [g]Panie, zobaczę.
+[A7]Miej nadzieję w Panu, odwagi!
+[d]Miej nadzieję w Panu, odwagi!
+[A7]Miej nadzieję w Panu, odwagi!
+[d]Miej nadzieję w Panu!

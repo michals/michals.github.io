@@ -1,0 +1,78 @@
+===
+title: "Ty, która mieszkasz w ogrodach"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S271TyKtoraMieszkaszWogrodach"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Pnp"
+    where: "8, 10b-14"
+  - what: "*OPA"
+    where: ""
+  - what: "*KOM"
+    where: ""
+  - what: "*ZAK"
+    where: ""
+knownas:
+  - "Uchodź mój kochany"
+  - "Biegnij jak gazela"
+  - "Moja winnica jest tu"
+  - "1981"
+index:
+  - "biegnąć"
+  - "dać"
+  - "druh"
+  - "gazela"
+  - "głos"
+  - "jako"
+  - "jeleń"
+  - "kochany"
+  - "mieszkać"
+  - "młody"
+  - "nasłuchiwać"
+  - "niby"
+  - "ogród"
+  - "oko"
+  - "pachnący"
+  - "pokój"
+  - "schronić"
+  - "ta"
+  - "uchodzić"
+  - "usłyszeć"
+  - "winnica"
+  - "wzgórze"
+  - "znaleźć"
+===
+
+K:
+[a]Ty, która mieszkasz w o[d]grodach,
+gdzie druhowie nasłuchują twego g[E]łosu.
+[F]Daj mi go usłyszeć,
+daj mi go u[E]słyszeć.
+
+W:
+„[A]Uchodź, mój kochany,
+biegnij jak ga[E]zela,
+[fis]niby młody jeleń
+[E]schroń się na pachnące [A]wzgórza!”
+
+K:
+[a]Jestem w jego [d]oczach
+jako ta, która znalazła [a]pokój.
+Moja winnica jest [E]tu, tu prze[a]de mną.
+Moja winnica jest [E]tu, tu prze[a]de mną.
+
+W:
+„[A]Uchodź, mój kochany,
+biegnij jak ga[E]zela,
+[fis]niby młody jeleń
+[E]schroń się na pachnące [A]wzgórza!”
+
+K:
+[a]Ty, która mieszkasz w o[d]grodach,
+gdzie druhowie nasłuchują twego g[E]łosu.
+[F]Daj mi go usłyszeć!
+Daj mi go u[E]słyszeć!

@@ -1,0 +1,208 @@
+===
+title: "W żłobie leży"
+section: "carol"
+color: "carol"
+tone: "D"
+songid: "S711WZlobieLezy"
+author:
+  - "PS"
+  - "trm"
+year: 1707
+address:
+  - what: "Mt"
+    where: "1, 23"
+  - what: "Mt"
+    where: "2, 11.16-18"
+  - what: "Łk"
+    where: "2, 15-16"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+alttone:
+  - "F"
+knownas:
+  - "Pastuszkowie, przybywajcie"
+index:
+  - "anioł"
+  - "Bóg"
+  - "bardziej"
+  - "bydlę"
+  - "cały"
+  - "chcieć"
+  - "choć"
+  - "Chrystus"
+  - "chwała"
+  - "czekać"
+  - "czem"
+  - "czemu"
+  - "człek"
+  - "człowiek"
+  - "dać"
+  - "dar"
+  - "doczesny"
+  - "dziś"
+  - "Emmanuel"
+  - "empirejski"
+  - "głos"
+  - "grzesznik"
+  - "jako"
+  - "Jezus"
+  - "kąpać"
+  - "kąpiel"
+  - "kochać"
+  - "kolędować"
+  - "kontentować"
+  - "kraj"
+  - "król"
+  - "krwawy"
+  - "krzyżowy"
+  - "kwiat"
+  - "łóżeczko"
+  - "łoże"
+  - "świat"
+  - "leżeć"
+  - "żłób"
+  - "żłobeczek"
+  - "Mały"
+  - "Maleńki"
+  - "móc"
+  - "miłość"
+  - "monarcha"
+  - "najprzód"
+  - "narodzić"
+  - "nazwać"
+  - "niebieski"
+  - "niebiosa"
+  - "niebo"
+  - "niskość"
+  - "ocean"
+  - "oddawać"
+  - "ofiara"
+  - "On"
+  - "opuścić"
+  - "opuszczać"
+  - "państwo"
+  - "Pan"
+  - "panięty"
+  - "pastuszek"
+  - "piosneczka"
+  - "płakać"
+  - "pobieżeć"
+  - "poddaństwo"
+  - "położyć"
+  - "polny"
+  - "posłać"
+  - "pospieszyć"
+  - "przybywać"
+  - "przyczyna"
+  - "przygrywać"
+  - "przyjąć"
+  - "przyrównać"
+  - "przywitać"
+  - "Rachela"
+  - "Rama"
+  - "rozkosz"
+  - "sam"
+  - "serce"
+  - "sianko"
+  - "siano"
+  - "skąd"
+  - "słać"
+  - "sprawić"
+  - "stajnia"
+  - "stanąć"
+  - "syn"
+  - "szacować"
+  - "tedy"
+  - "trzy"
+  - "ubogi"
+  - "ucieszyć"
+  - "wdzięczny"
+  - "wesołość"
+  - "więc"
+  - "większy"
+  - "widzieć"
+  - "witać"
+  - "wolność"
+  - "wschodni"
+  - "wszędy"
+  - "wszyscy"
+  - "wysokość"
+  - "wywyższyć"
+  - "wzbijać"
+  - "zabrzmieć"
+  - "zaś"
+  - "zaśpiewać"
+  - "zbawiony"
+  - "ziemski"
+  - "złość"
+  - "złożony"
+  - "zobaczyć"
+  - "zstąpić"
+  - "zwyknąć"
+===
+
+[D]W żłobie leży, [A]któż pobieży,
+[D]Kolę[G]dować [A]Małe[D]mu
+[D]Jezusowi [A]Chrystusowi
+[D]Dziś nam [G]naro[A]dzone[D]mu?
+[D]Pastuszkowie, [G]przybywaj[A]cie,
+[A]Jemu wdzięcznie [D]przygrywajcie
+[G]Jako Pa[A]nu nasze[D]mu.
+
+[D]My zaś sami [A]z piosneczkami
+[D]za wa[G]mi po[A]spieszy[D]my,
+[D]a tak tego [A]Maleńkiego
+[D]niech wszys[G]cy zo[A]baczy[D]my:
+[D]Jak, ubogo [G]narodzo[A]ny,
+[A]płacze w stajni [D]położony,
+[G]więc Go dziś [A]ucieszy[D]my.
+
+[D]Najprzód tedy [A]niechaj wszędy
+[D]zabrzmi [G]świat w we[A]soło[D]ści,
+[D]że posłany, [A]nam jest dany
+[D]Ema[G]nuel [A]w nisko[D]ści.
+[D]Jego tedy [G]przywitaj[A]my,
+[A]z Aniołami [D]zaśpiewajmy:
+[G]„chwała na [A]wysoko[D]ści!”
+
+[D]Witaj, Panie, [A]cóż się stanie,
+[D]że roz[G]kosze [A]niebie[D]skie
+[D]opuściłeś, [A]a zstąpiłeś
+[D]na te [G]nisko[A]ści ziems[D]kie?
+[D]Miłość Moja [G]to sprawi[A]ła,
+[A]by człowieka [D]wywyższyła
+[G]pod nieba [A]Empirej[D]skie.
+
+[D]Czem’ w żłobeczku, [A]nie w łóżeczku
+[D]na sian[G]kuś po[A]łożo[D]ny?
+[D]Czem’ z bydlęty, [A]nie z panięty,
+[D]w stajni [G]jesteś [A]złożo[D]ny?
+[D]By człek sianu [G]przyrówna[A]ny,
+[A]grzesznik bydlę[D]ciem nazwany,
+[G]przeze mnie [A]był zbawio[D]ny.
+
+[D]Twoje państwo [A]i poddaństwo
+[D]jest świat [G]cały, [A]o Bo[D]że!
+[D]Tyś polny kwiat, [A]czemu Cię świat
+[D]przyjąć [G]nie chce, [A]choć mo[D]że?
+[D]Bo świat doczes[G]ne wolno[A]ści
+[A]zwykł kochać, Mnie [D]zaś w swej złości
+[G]krzyżowe [A]ściele ło[D]że.
+
+[D]W Ramie głosy [A]pod niebiosy
+[D]wzbija[G]ją się [A]Rache[D]li,
+[D]gdy swe syny [A]bez przyczyny
+[D]w krwawej [G]widzi [A]kąpie[D]li.
+[D]Większe Mnie dla [G]nich kąpa[A]nie
+[A]w krwawym czeka [D]oceanie
+[G]skąd niebo [A]będą mie[D]li.
+
+[D]Trzej królowie, [A]monarchowie
+[D]wschodni [G]kraj o[A]puszcza[D]ją,
+[D]serc ofiary [A]z trzema dary
+[D]Tobie [G]Panu [A]odda[D]ją.
+[D]Darami się [G]kontentu[A]jesz,
+[A]bardziej serca [D]ich szacujesz,
+[G]za co [A]niech niebo ma[D]ją.

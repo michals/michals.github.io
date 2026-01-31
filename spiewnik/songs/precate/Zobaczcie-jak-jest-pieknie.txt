@@ -1,0 +1,82 @@
+===
+title: "Zobaczcie, jak jest pięknie"
+subtitle: "Melodia hebrajska"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S037ZobaczcieJakJestPieknie"
+author:
+  - "GG"
+  - "K"
+  - "trm"
+year: 1992
+address:
+  - what: "Ps"
+    where: "133"
+  - what: "*HEB"
+    where: ""
+  - what: "*PAX"
+    where: ""
+knownas:
+  - "Hinei ma tov uma nayim"
+yhwh: true
+index:
+  - "Aaron"
+  - "błogosławieństwo"
+  - "brat"
+  - "góry"
+  - "głowa"
+  - "Hermon"
+  - "Jahwe"
+  - "życie"
+  - "olej"
+  - "piękny"
+  - "podarować"
+  - "przebywać"
+  - "razem"
+  - "rosa"
+  - "spływać"
+  - "Syjon"
+  - "udzielić"
+  - "wiek"
+  - "zobaczyć"
+===
+
+KW:
+[e]Zobaczcie, jak jest [a]pięk[e]nie
+[H7]przebywać razem [e]z braćmi.
+KW:
+[e]Jak [C]jest [D]pięk[e]nie
+[G]przebywać [h]razem [e]z braćmi.
+
+KW:
+[e]Jest to jak olej, co [a]spły[e]wa
+[H7]na głowę Aa[e]rona.
+KW:
+[e]Tak [C]jak [D]ole[e]j
+[G]na głowę [h]Aa[e]rona.
+
+KW:
+[e]Jest to jak rosa Her[a]mo[e]nu
+[H7]na górach Sy[e]jonu.
+KW:
+[e]Tak [C]jak [D]ro[e]sa
+[G]na gó[h]rach Sy[e]jonu.
+
+KW:
+[e]Tam Jahwe nam u[a]dzie[e]lił
+[H7]swego błogosła[e]wieństwa.
+KW:
+[e]Tam [C]ud[D]zie[e]lił
+[G]swego bło[h]gosła[e]wieństwa.
+
+KW:
+[e]Tam Jahwe poda[a]ro[e]wał
+[H7]życie aż na [e]wieki.
+KW:
+[e]Po[C]da[D]ro[e]wał
+[G]życie [h]aż na [e]wieki.
+
+KW:
+[e]Zobaczcie, jak jest p[a]ięk[e]nie
+[H7]przebywać razem [e]z braćmi.

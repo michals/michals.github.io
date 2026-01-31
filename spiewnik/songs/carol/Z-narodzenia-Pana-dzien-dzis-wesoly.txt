@@ -1,0 +1,147 @@
+===
+title: "Z narodzenia Pana dzień dziś wesoły"
+section: "carol"
+color: "carol"
+tone: "D"
+songid: "S716ZNarodzeniaPana"
+author:
+  - "tr"
+year: 1842
+address:
+  - what: "Łk"
+    where: "2, 8-20"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+  - what: "*DZI"
+    where: ""
+children: true
+index:
+  - "anielski"
+  - "anioł"
+  - "Bóg"
+  - "bór"
+  - "Betlejem"
+  - "bić"
+  - "bieżeć"
+  - "budzić"
+  - "cały"
+  - "chcieć"
+  - "chwała"
+  - "ciało"
+  - "dać"
+  - "dar"
+  - "dnieć"
+  - "dolina"
+  - "dumać"
+  - "dzieje"
+  - "dzień"
+  - "dziś"
+  - "głos"
+  - "Izrael"
+  - "Jezus"
+  - "każdy"
+  - "kolano"
+  - "łuna"
+  - "świat"
+  - "świtać"
+  - "żłób"
+  - "żyć"
+  - "żywioł"
+  - "ludzie"
+  - "ludzki"
+  - "maleńki"
+  - "między"
+  - "miła"
+  - "miłować"
+  - "narodzić"
+  - "niebianin"
+  - "niebo"
+  - "nieustanny"
+  - "noc"
+  - "obłok"
+  - "odchodzić"
+  - "oddać"
+  - "ogień"
+  - "oko"
+  - "On"
+  - "paść"
+  - "Pan"
+  - "pasterz"
+  - "pastuszek"
+  - "pełny"
+  - "poklękać"
+  - "potem"
+  - "prośba"
+  - "prorok"
+  - "prosty"
+  - "przemiana"
+  - "przy"
+  - "pytać"
+  - "radość"
+  - "radować"
+  - "serce"
+  - "siebie"
+  - "skąd"
+  - "słynąć"
+  - "słyszeć"
+  - "ta"
+  - "taki"
+  - "trwać"
+  - "wół"
+  - "wesele"
+  - "wesoły"
+  - "widok"
+  - "widzieć"
+  - "wieczny"
+  - "witać"
+  - "wśród"
+  - "wraz"
+  - "wszędzie"
+  - "wydać"
+  - "wykrzyknąć"
+  - "wyśpiewywać"
+  - "wypadać"
+  - "wysłuchać"
+  - "wziąć"
+  - "zaraz"
+  - "Zbawiciel"
+  - "zesłany"
+===
+
+[D]Z narodze[G]nia [D]Pa[A]na [D]dzień dziś [A]weso[D]ły.
+[D]Wyśpiewu[G]ją [D]chwa[A]łę [D]Bogu [A]żywio[D]ły.
+Radość ludzi [A]wszędzie słynie,
+[D]Anioł budzi [A]przy dolinie
+[D]pasterzów, [G]co [D]pa[A]śli [D]pod bo[A]rem wo[D]ły.
+
+[D]Wypada [G]wśród [D]no[A]cy [D]ogień [A]z obło[D]ku,
+[D]dumają [G]pa[D]ste[A]rze [D]w takim [A]wido[D]ku.
+Każdy pyta: [A]Co się dzieje?
+[D]Czy nie świta? [A]Czy nie dnieje?
+[D]Skąd ta łu[G]na [D]bi[A]je [D]tak mi[A]ła o[D]ku?!
+
+[D]Ale gdy [G]A[D]niel[A]skie [D]głosy [A]słysze[D]li,
+[D]zaraz do [G]Be[D]tle[A]jem [D]prosto [A]bieże[D]li.
+Tam witali [A]w żłobie Pana,
+[D]poklękali [A]na kolana
+[D]i odda[G]li [D]da[A]ry, [D]co z so[A]bą wzię[D]li.
+
+[D]Potem wy[G]krzy[D]knę[A]li [D]w głos, na [A]przemia[D]ny,
+[D]żyj, Jezu [G]ma[D]leń[A]ki, [D]na świat [A]wyda[D]ny:
+Bądź Ci, Panie, [A]od nas chwała,
+[D]nieustannie [A]wiecznie trwała;
+[D]żyj, żyj, Zba[G]wi[D]cie[A]lu, [D]z nieba [A]zesła[D]ny.
+
+[D]Odchodząc [G]z Be[D]tle[A]jem [D]pełni [A]wese[D]la,
+[D]że już Bóg [G]wy[D]słu[A]chał [D]próśb I[A]zrae[D]la,
+gdyż tej nocy [A]to widzieli,
+[D]co Prorocy [A]widzieć chcieli,
+[D]w ciele ludz[G]kim [D]Bo[A]ga [D]i Zba[A]wicie[D]la.
+
+[D]I my z pa[G]stu[D]szka[A]mi [D]dziś się [A]raduj[D]my,
+[D]chwałę z A[G]nio[D]ła[A]mi [D]wraz wy[A]śpiewuj[D]my,
+bo ten Jezus [A]z nieba dany,
+[D]weźmie nas mię[A]dzy niebiany,
+[D]tylko Go [G]z ca[D]łe[A]go [D]serca [A]miłuj[D]my.

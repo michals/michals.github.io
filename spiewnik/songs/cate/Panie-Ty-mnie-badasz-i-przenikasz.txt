@@ -1,0 +1,102 @@
+===
+title: "Panie, Ty mnie badasz i przenikasz"
+section: "cate"
+color: "cate"
+tone: "d"
+songid: "S213PanieTyMnieBadaszIPrzenikasz"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "Ps"
+    where: "139, 1-8.23-24"
+knownas:
+  - "Gdzież się oddalę przed Twym Duchem"
+  - "Wiedza tak wzniosła, że jej nie rozumiem"
+  - "1980"
+index:
+  - "atakować"
+  - "badać"
+  - "całość"
+  - "choć"
+  - "chodzić"
+  - "chwytać"
+  - "daleki"
+  - "dobry"
+  - "droga"
+  - "Duch"
+  - "język"
+  - "jednoczesny"
+  - "jeszcze"
+  - "kłaść"
+  - "ścieżka"
+  - "śmierć"
+  - "móc"
+  - "myśl"
+  - "niebo"
+  - "nigdy"
+  - "obłuda"
+  - "oblicze"
+  - "oddalić"
+  - "Pan"
+  - "pojąć"
+  - "położyć"
+  - "powstawać"
+  - "poznawać"
+  - "próba"
+  - "przód"
+  - "przenikać"
+  - "ręka"
+  - "rozumieć"
+  - "serce"
+  - "słowo"
+  - "spać"
+  - "tajemniczy"
+  - "tył"
+  - "uciec"
+  - "wiedza"
+  - "wiedzieć"
+  - "wstąpić"
+  - "wystawiać"
+  - "wzniosły"
+  - "zbyt"
+  - "zejść"
+  - "znać"
+  - "znaleźć"
+  - "znany"
+===
+
+K:
+[d]Panie, Ty mnie badasz i prze[g]nikasz,
+Ty wiesz, kiedy się kładę spać i gdy pow[d]staję.
+Z daleka poznajesz moje [g]myśli:
+Tobie są do[gX]brze znane moje [d]drogi.
+[C]Choć jeszcze nie mam ([C7])słowa na ję[F]zyku,
+[A]Ty już, Panie, znasz je w ca[d]łości.
+[C7]Ty chwytasz mnie z tyłu, atakujesz mnie [F]z przodu,
+[A]a jednocześnie położyłeś na mnie swą [d]rękę:
+jest to [g]wiedza zbyt tajemnicza [A]dla mnie,
+[g]wiedza, której nie mogę [A]pojąć,
+[g]wiedza tak wzniosła, że jej nie ro[A]zumiem.
+
+W:
+[F]Gdzież się oddalę przed Twym [a]Duchem,
+gdzież od Twego oblicza uciec [B]mam?
+K:
+Gdy wstąpię do nieba, Ty tam [A]jesteś,
+W:
+[B]gdy zejdę w śmierć, tam Cię [A]znajdę.
+[F]Ty chwytasz mnie z tyłu, atakujesz mnie [a]z przodu,
+K:
+a jednocześnie położyłeś na[B] mnie swą rękę:
+W:
+jest to wiedza zbyt tajemnicza [A]dla mnie,
+K:
+[B]wiedza, której nie mogę [A]pojąć,
+W:
+[B]wiedza tak wzniosła, że jej nie ro[A]zumiem.
+K:
+[d]Panie, Ty mnie badasz i prze[g]nikasz,
+Ty wystawiasz na próbę moje [d]serce,
+bym już nie chodził drogą o[g]błudy
+i bym się nie oddalił nigdy od Twojej [d]ścieżki.

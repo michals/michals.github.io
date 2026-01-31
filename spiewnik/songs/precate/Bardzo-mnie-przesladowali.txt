@@ -1,0 +1,91 @@
+===
+title: "Bardzo mnie prześladowali"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S130BardzoMniePrzesladowali"
+author:
+  - "K"
+year: 1996
+address:
+  - what: "Ps"
+    where: "129"
+knownas:
+  - "Niech odstąpią nienawidzący Syjonu"
+  - "1994"
+index:
+  - "bardzo"
+  - "bruzda"
+  - "dach"
+  - "grzbiet"
+  - "Izrael"
+  - "jarzmo"
+  - "kosiarz"
+  - "mówić"
+  - "młodość"
+  - "napełnić"
+  - "ni"
+  - "nienawidzić"
+  - "nigdy"
+  - "odstąpić"
+  - "On"
+  - "orać"
+  - "oracz"
+  - "Pan"
+  - "połamać"
+  - "prześladować"
+  - "przemóc"
+  - "ręka"
+  - "rosnąć"
+  - "snop"
+  - "sprawiedliwy"
+  - "stanąć"
+  - "Syjon"
+  - "trawa"
+  - "usychać"
+  - "wydłużyć"
+  - "wyplenić"
+  - "występny"
+  - "zanadrze"
+  - "zanim"
+  - "zbierać"
+===
+
+K:
+[a]Bardzo mnie prześladowali
+od mojej mło[E]dości;
+bardzo mnie prześladowali,
+niech mówi [a]Izrael.
+W:
+Bardzo mnie prześladowali
+od mojej mło[E]dości;
+bardzo mnie prześladowali,
+ale nie prze[a]mogli.
+
+KW:
+Na mym grzbiecie orali o[E]racze,
+na mym grzbiecie wydłużyli [a]bruzdy.
+K:
+Ale Pan jest sprawie[E]dliwy,
+On połamał jarzmo wy[a]stępnych.
+Ale Pan jest sprawie[E]dliwy,
+On połamał jarzmo wy[a]stępnych.
+
+KW:
+Niech odstąpią nienawidzący Sy[E]jonu,
+niech odstąpią nienawidzący Sy[a]jonu.
+
+K:
+Niech staną się jak trawa, co rośnie na [E]dachach,
+która, zanim ją wyplenią, u[a]sycha.
+Nigdy nie napełni nią kosiarz swojej [E]ręki,
+ni zanadrza ten, co zbiera [a]snopy.
+W:
+Niech odstąpią nienawidzący Sy[E]jonu,
+niech odstąpią nienawidzący Sy[a]jonu.
+
+W:
+Bardzo mnie prześladowali
+od mojej mło[E]dości;
+bardzo mnie prześladowali,
+ale nie prze[a]mogli.

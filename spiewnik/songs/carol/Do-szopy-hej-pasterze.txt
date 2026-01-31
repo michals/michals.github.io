@@ -1,0 +1,138 @@
+===
+title: "Do szopy, hej pasterze"
+section: "carol"
+color: "carol"
+tone: "G"
+songid: "S726DoSzopyHejPasterze"
+author:
+  - "JAG"
+year: 1931
+address:
+  - what: "Łk"
+    where: "2, 7.13.15-16"
+  - what: "Mt"
+    where: "2, 11"
+  - what: "*KOL"
+    where: ""
+knownas:
+  - "Śpiewajcie Aniołowie"
+index:
+  - "anioł"
+  - "Bóg"
+  - "Bóstwo"
+  - "Boży"
+  - "budzić"
+  - "bydlę"
+  - "chwała"
+  - "cierpieć"
+  - "cud"
+  - "cześć"
+  - "dług"
+  - "Dziecię"
+  - "godny"
+  - "grać"
+  - "hej"
+  - "Jezus"
+  - "kłaniać"
+  - "kolano"
+  - "król"
+  - "śpiewać"
+  - "leżeć"
+  - "żłób"
+  - "ludzki"
+  - "miłość"
+  - "najdroższy"
+  - "najsłodszy"
+  - "niebo"
+  - "niepojęty"
+  - "oddawać"
+  - "Ojciec"
+  - "On"
+  - "opuszczać"
+  - "paść"
+  - "Pan"
+  - "pasterz"
+  - "patrzeć"
+  - "pojąć"
+  - "raczyć"
+  - "ród"
+  - "równy"
+  - "rodzić"
+  - "sen"
+  - "siano"
+  - "skarb"
+  - "słodki"
+  - "służba"
+  - "spać"
+  - "stwórca"
+  - "Syn"
+  - "szopa"
+  - "tron"
+  - "ubóstwo"
+  - "wdzięczność"
+  - "wieczny"
+  - "witać"
+  - "własność"
+  - "wśród"
+  - "wszelki"
+  - "wszystko"
+  - "wziąć"
+  - "zbawić"
+  - "zbutwiały"
+  - "złożyć"
+  - "zły"
+===
+
+[G]Do szopy, hej pa[D]sterze,
+Do szopy, bo tam [G]cud!
+Syn Boży w żłobie [D]leży,
+by zbawić ludzki [G]ród.
+Śpiewajcie Anio[a]łowie,
+pa[D]sterze, grajcie [G]Mu.
+Kłaniajcie się Kró[D]lowie,
+nie budźcie Go ze [G]snu.
+
+Padnijmy na ko[D]lana,
+to Dziecię to nasz [G]Bóg,
+Witajmy swego [D]Pana;
+wdzięczności złóżmy [G]dług.
+Śpiewajcie Anio[a]łowie,
+pa[D]sterze, grajcie [G]Mu.
+Kłaniajcie się Kró[D]lowie,
+nie budźcie Go ze [G]snu.
+
+O Boże niepo[D]jęty,
+kto pojmie miłość [G]Twą?
+Na sianie wśród by[D]dlęty,
+masz tron i służbę [G]swą.
+Śpiewajcie Anio[a]łowie,
+pa[D]sterze, grajcie [G]Mu.
+Kłaniajcie się Kró[D]lowie,
+nie budźcie Go ze [G]snu.
+
+On Ojcu równy w [D]Bóstwie
+opuszcza niebo [G]swe
+A rodzi się w u[D]bóstwie
+i cierpi wszystko [G]złe
+Śpiewajcie Anio[a]łowie,
+pa[D]sterze, grajcie [G]Mu.
+Kłaniajcie się Kró[D]lowie,
+nie budźcie Go ze [G]snu.
+
+Bóg, Stwórca wiecznej [D]chwały,
+Bóg godzien wszelkiej [G]czci,
+patrz, w szopie tej zbu[D]twiałej,
+jak słodko On tam [G]śpi.
+Śpiewajcie Anio[a]łowie,
+pa[D]sterze, grajcie [G]Mu.
+Kłaniajcie się Kró[D]lowie,
+nie budźcie Go ze [G]snu.
+
+Jezuniu mój naj[D]słodszy,
+Tobie oddaję [G]się.
+O skarbie mój naj[D]droższy,
+racz wziąć na własność [G]mnie.
+Śpiewajcie Anio[a]łowie,
+pa[D]sterze, grajcie [G]Mu.
+Kłaniajcie się Kró[D]lowie,
+nie budźcie Go ze [G]snu.

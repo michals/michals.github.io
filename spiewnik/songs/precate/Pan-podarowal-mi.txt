@@ -1,0 +1,137 @@
+===
+title: "Pan podarował mi"
+subtitle: "III pieśń Sługi Jahwe"
+section: "precate"
+color: "communion"
+tone: "h"
+songid: "S207PanPodarowalMi"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Iz"
+    where: "50, 4-10"
+  - what: "*LAM"
+    where: ""
+knownas:
+  - "Jeśli jesteś, jeśli jesteś blisko"
+  - "Pan Jahwe otworzył mi ucho"
+  - "A ja się nie oparłem"
+  - "Pieśń Sługi Jahwe III"
+  - "Trzecia pieśń Sługi Jahwe"
+  - "1977"
+yhwh: true
+index:
+  - "bać"
+  - "Bóg"
+  - "bić"
+  - "bliski"
+  - "broda"
+  - "budzić"
+  - "ciemności"
+  - "dlatego"
+  - "głos"
+  - "grzbiet"
+  - "imię"
+  - "Jahwe"
+  - "jaki"
+  - "język"
+  - "ktoś"
+  - "móc"
+  - "nieść"
+  - "oblicze"
+  - "On"
+  - "oparcie"
+  - "opluć"
+  - "oprzeć"
+  - "otworzyć"
+  - "Pan"
+  - "pewny"
+  - "podać"
+  - "podarować"
+  - "podtrzymywać"
+  - "pokładać"
+  - "pokrzepić"
+  - "policzek"
+  - "pomagać"
+  - "pomoc"
+  - "poranek"
+  - "potępić"
+  - "przyjść"
+  - "rwać"
+  - "skała"
+  - "słowo"
+  - "słuchać"
+  - "sługa"
+  - "spór"
+  - "strudzony"
+  - "twardy"
+  - "twarz"
+  - "ucho"
+  - "uczeń"
+  - "uczynić"
+  - "ufność"
+  - "umieć"
+  - "wiedzieć"
+  - "wieść"
+  - "wspomagać"
+  - "wszyscy"
+  - "zasłonić"
+  - "zbawiać"
+  - "zniewaga"
+===
+
+K:
+[h]Pan podarował [C]mi
+język [h]ucznia,
+abym mógł nieść strudzone[C]mu
+jakieś słowo pokrze[h]pienia.
+Poranek po po[C]ranku
+budzisz moje [h]ucho,
+abym umiał słu[C]chać,
+jak [h]uczeń.
+{{{ 2x
+W:
+[D]Pan Jahwe,
+Pan [fis]Jahwe,
+Pan [G]Jahwe
+otworzył mi [Fis]ucho.
+}}}
+K:
+Dlatego [D]Ja,
+Ja się nie o[fis]parłem, Ja się nie oparłem.
+Po[D]dałem mój [G]grzbiet tym,          którzy mnie [Fis]bili.
+W:
+A [D]Ja,
+Ja się nie o[fis]parłem, Ja się nie oparłem.
+K:
+Po[D]dałem moje po[G]liczki tym,      którzy rwali mi [Fis]brodę.
+W:
+A [D]Ja,
+Ja się nie o[fis]parłem, Ja się nie oparłem.
+
+K:
+Nie zasło[D]niłem mej [G]twarzyprzed zniewagami i o[Fis]pluciem.
+[h]Albowiem już wie[C]działem,
+że przyjdziesz mi z po[h]mocą,
+dlatego uczy[C]niłem
+moje oblicze twarde jak [h]skała:
+bo byłem pew[C]ny,
+że Ty mnie będziesz podtrzy[h]mywał.
+W:
+Jeśli [D]jesteś,
+jeśli jesteś [fis]blisko,
+jeśli [G]zbawiasz,
+kto wieść ze mną będzie [Fis]spór?
+Jeśli wspo[D]magasz,
+jeśli mi po[fis]magasz,
+jeśli [G]zbawiasz,
+kto potępi [Fis]mnie?
+K:
+[h]Wy wszyscy, którzy boicie się Bo[C]ga,
+słuchajcie głosu jego [h]sługi:
+jeśli ktoś jest w ciemnoś[C]ciach,
+niech pokłada ufność [h]w Nim,
+niech ma o[C]parcie w Jego i[h]mieniu.
+W:
+Jeśli [D]jesteś …

@@ -1,0 +1,95 @@
+===
+title: "Nadchodzi Pan, przyodziany w blask"
+section: "precate"
+color: "precate"
+tone: "d"
+songid: "S095NadchodziPanPrzyodzianyWBlask"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "93"
+  - what: "Ap"
+    where: "1, 5-7"
+  - what: "*OAD"
+    where: ""
+index:
+  - "blask"
+  - "cały"
+  - "chwała"
+  - "dom"
+  - "grzech"
+  - "kapłański"
+  - "kochać"
+  - "królestwo"
+  - "świat"
+  - "świętość"
+  - "moc"
+  - "nadchodzić"
+  - "naród"
+  - "niewzruszony"
+  - "obłok"
+  - "oblec"
+  - "On"
+  - "Pan"
+  - "przebóść"
+  - "przepasać"
+  - "przychodzić"
+  - "przyodziać"
+  - "przystoi"
+  - "tron"
+  - "uczynić"
+  - "utwierdzać"
+  - "uwalniać"
+  - "wiek"
+  - "wszyscy"
+  - "wszystek"
+  - "zachwiać"
+  - "ziemia"
+  - "zobaczyć"
+===
+
+{{{ 2x
+W:
+[d]Nadchodzi Pan, przyodziany [g]w blask,
+przepasany mocą, obleczony [d]w chwałę.
+}}}
+
+K:
+Utwierdza świat, tak że się nie zach[g]wieje,
+Twój tron niewzruszony, Tyś jest od [d]wieków;
+domowi Twemu przystoi [g]świętość,
+W:
+domowi Twemu przystoi [d]świętość!
+
+{{{ 2x
+W:
+[d]Nadchodzi Pan, przyodziany [g]w blask,
+przepasany mocą, obleczony [d]w chwałę.
+}}}
+
+K:
+[d]Temu, który nas kocha i uwalnia od [g]grzechów,
+i uczynił nas królestwem ka[d]płańskim,
+KW:
+Jemu niech będzie chwała i [g]moc,
+przez wszystkie wieki [d]wieków,
+
+{{{ 2x
+W:
+[d]Nadchodzi Pan, przyodziany [g]w blask,
+przepasany mocą, obleczony [d]w chwałę.
+}}}
+
+K:
+[d]Oto przychodzi, przychodzi na ob[g]łokach,
+oto przychodzi i wszyscy Go zo[d]baczą,
+także ci, [także] ci, co Go prze[g]bodli,
+wszystkie narody całej [d]ziemi!
+
+{{{ 2x
+W:
+[d]Nadchodzi Pan, przyodziany [g]w blask,
+przepasany mocą, obleczony [d]w chwałę.
+}}}

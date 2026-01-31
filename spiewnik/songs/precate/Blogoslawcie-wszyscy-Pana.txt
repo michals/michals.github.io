@@ -1,0 +1,73 @@
+===
+title: "Błogosławcie wszyscy Pana"
+subtitle: "Melodia hebrajska"
+section: "precate"
+color: "precate"
+tone: "d"
+songid: "S103BlogoslawcieWszyscyPana"
+author:
+  - "K"
+  - "ChW"
+year: 1992
+address:
+  - what: "Ps"
+    where: "134"
+  - what: "*OPA"
+    where: ""
+  - what: "*HEB"
+    where: ""
+  - what: "*DZI"
+    where: ""
+  - what: "*PAX"
+    where: ""
+alttone:
+  - "f"
+knownas:
+  - "Allelu-, Allelu-, Alleluja"
+  - "Wznieście ku Niemu ręce"
+children: true
+index:
+  - "alleluja"
+  - "Bóg"
+  - "błogosławić"
+  - "czuwać"
+  - "dom"
+  - "ku"
+  - "noc"
+  - "On"
+  - "Pański"
+  - "Pan"
+  - "ręka"
+  - "sługa"
+  - "trwać"
+  - "wszyscy"
+  - "wznieść"
+===
+
+W:
+[A]Allelu-, Allelu-, Al[B]lelu[A]ja,
+Allelu-, Allelu-, Al[B]lelu[A]ja!
+
+K:
+[d]Błogosławcie wszyscy Pana,
+błogosławcie wszyscy Pana,
+błogosławcie słudzy [A7]Pańscy.
+Błogosławcie wszyscy Pana,
+błogosławcie wszyscy Pana,
+którzy trwacie na czuwaniu w domu [d]Pańskim.
+
+W:
+Wznieście ku Niemu ręce,
+wznieście ku Niemu ręce
+i błogosławcie [A7]Pana,
+którzy trwacie w domu Pana, swego Boga,
+czuwając no[d]cami!
+
+W:
+Alleluja, [A7]Alleluja, [B]Allelu[A]ja,
+[d]Alleluja, [A7]Alleluja, [B]Allelu[A]ja!
+KpW:
+Allelu-, Allelu-, Al[B]lelu[A]ja,
+Allelu-, Allelu-, Al[B]lelu[A]ja!
+K:
+[B]Allelu[A7]ja.

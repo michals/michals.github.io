@@ -1,0 +1,84 @@
+===
+title: "Przyjdź, Synu Człowieczy"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S054PrzyjdzPanieJezu"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ap"
+    where: "22, 17nn"
+  - what: "*OAD"
+    where: ""
+  - what: "*OPE"
+    where: ""
+knownas:
+  - "1965"
+index:
+  - "człowieczy"
+  - "Duch"
+  - "Jezus"
+  - "święty"
+  - "mówić"
+  - "Maranatha"
+  - "miłość"
+  - "oblubienica"
+  - "ogień"
+  - "Pan"
+  - "przyjść"
+  - "słuchać"
+  - "sługa"
+  - "Syn"
+  - "ubogi"
+  - "uciszyć"
+===
+
+K:
+[e]Przyjdź, Synu Czło[a]wieczy.
+[H7]Przyjdź, Panie [e]Jezu!
+KpW:
+[e]Przyjdź, sługo ub[a]ogich.
+[H7]Przyjdź, Panie [e]Jezu!
+
+K:
+Duch [C]Święty mówi: [e]Przyjdź!
+Ten, kto [C]słucha, niech mówi: [H7]Przyjdź!
+W:
+Przyjdź! Przyjdź! Przyjdź!
+
+KpW:
+[e]Przyjdź, miłości [a]moja.
+[H7]Przyjdź, Panie [e]Jezu!
+KpW:
+[e]Ucisz, Ty ten [a]ogień.
+[H7]Przyjdź, Panie J[e]ezu!
+
+K:
+Oblubie[C]nica mówi: [e]Przyjdź!
+Ten, kto [C]słucha, niech mówi: [H7]Przyjdź!
+W:
+Przyjdź! Przyjdź! Przyjdź!
+
+KpW:
+[e]Vieni, Figlio dell’[a]uomo
+[H7]Vieni, Signore Ge[e]sù!
+
+[e]Ven, Hijo del [a]Hombre
+[H7]Ven, Señor Je[e]sus!
+
+[e]Viens, Fils de l’[a]Homme
+[H7]Viens, Seigneur [e]Jésus!
+
+[e]Come, Son of the [a]Man
+[H7]Come, Lord [e]Jesus!
+
+При[e]ди, Сын Чело[a]веческий
+При[H7]ди, Господь Ии[e]сус!
+
+[e]Przyjdź, Synu Czło[a]wieczy
+[H7]Przyjdź … Przyjdź … Przyjdź …
+Panie … Panie … Przyjdź …
+Maranatha!
+Panie J[e]ezu!

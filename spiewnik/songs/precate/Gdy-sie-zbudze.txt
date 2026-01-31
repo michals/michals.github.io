@@ -1,0 +1,153 @@
+===
+title: "Gdy się zbudzę"
+section: "precate"
+color: "precate"
+tone: "h"
+songid: "S082GdySieZbudzeNasyceSieObliczemTwymPanie"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "17"
+  - what: "*OWP"
+    where: ""
+  - what: "*BRE"
+    where: ""
+  - what: "*PAS"
+    where: ""
+knownas:
+  - "Wysłuchaj, Panie mej modlitwy"
+  - "1979"
+index:
+  - "błaganie"
+  - "chcieć"
+  - "cień"
+  - "cud"
+  - "czynić"
+  - "dobra"
+  - "dostosować"
+  - "droga"
+  - "dziecko"
+  - "głos"
+  - "gwałtownik"
+  - "iść"
+  - "jeszcze"
+  - "kłamać"
+  - "krok"
+  - "krzyczeć"
+  - "ścieżka"
+  - "świat"
+  - "życie"
+  - "źrenica"
+  - "ludzie"
+  - "mówić"
+  - "miłość"
+  - "modlitwa"
+  - "nacierać"
+  - "nadstawić"
+  - "napełnić"
+  - "nasycić"
+  - "noc"
+  - "oblicze"
+  - "ochraniać"
+  - "odpowiedzieć"
+  - "ogień"
+  - "okazać"
+  - "oko"
+  - "Pan"
+  - "pomagać"
+  - "pomóc"
+  - "prawica"
+  - "przebudzić"
+  - "pycha"
+  - "serce"
+  - "skrzydło"
+  - "słowo"
+  - "słuszny"
+  - "sprawa"
+  - "syn"
+  - "szukać"
+  - "ucho"
+  - "ufać"
+  - "ukryć"
+  - "usta"
+  - "uwolnić"
+  - "warga"
+  - "widzieć"
+  - "wiedzieć"
+  - "wołanie"
+  - "wsparcie"
+  - "wyjść"
+  - "wyniosły"
+  - "wypróbować"
+  - "wyrok"
+  - "wysłuchać"
+  - "wystrzegać"
+  - "zabić"
+  - "zachwiać"
+  - "zależeć"
+  - "zamknięty"
+  - "zbadać"
+  - "zbawiać"
+  - "zbudzić"
+  - "zdradliwy"
+  - "złość"
+  - "zobaczyć"
+  - "zostać"
+  - "zważyć"
+===
+
+KW:
+[h]Gdy się zbudzę,
+na[G]sycę się o[h]bliczem Twym, Panie
+gdy się [e]zbudzę,
+nasycę się o[h]bliczem Twym, Panie.
+K:
+Wy[e]słuchaj, Panie, mej mo[h]dlitwy,
+[e]zważ na moje wo[h]łanie,
+nadstaw [G]ucha na moje bła[Fis]ganie:
+bo moje [G]wargi nie są zdradliwe, o [Fis]Panie;
+niech [G]wyjdzie od Ciebie [Fis]wyrok,
+niech Twoje [e]oczy widzą,
+niech Twoje oczy widzą słuszną [Fis]sprawę.
+W:
+Gdy się [h]zbudzę …
+K:
+[e]Zbadaj, Panie, me [h]serce,
+[e]zbadaj mnie nocą, [h]Panie,
+wy[G]próbuj mnie w ogniu, wy[Fis]próbuj mnie w ogniu,
+bo Ty [G]wiesz, że nie ma złości [Fis]we mnie.
+Moje [G]usta nie kłamią, jak to czynią [Fis]ludzie,
+bo [e]szedłem za Twym słowem,
+wystrzegałem się ścieżek gwałtow[Fis]nika;
+do Twojej [G]drogi dostosowałem moje [Fis]kroki
+i [e]nie zachwieję się, i nie zachwieję [Fis]się.
+W:
+Gdy się [h]zbudzę …
+
+K:
+[e]Do Ciebie krzyczę, Panie, od[h]powiedz mi,
+[e]nadstaw ucha, wysłuchaj mego [h]głosu,
+okaż mi [G]cuda Twej mi[Fis]łości,
+bo Ty [G]zbawiasz ufających [Fis]Tobie,
+bo Ty po[G]magasz szukającym wsparcia Twej pra[Fis]wicy;
+[e]jak źrenicę Twego oka o[Fis]chraniaj mnie,
+[e]w cieniu Twych skrzydeł mnie [Fis]ukryj,
+[G]zobacz, że chcą mnie [Fis]zabić.
+W:
+Gdy się [h]zbudzę …
+K:
+[e]Zobacz ich, zamknięci są [h]w pysze,
+[e]mówią wyniośle ich [h]usta;
+nacie[G]rają na mnie, nacie[Fis]rają na mnie!
+[G]Pomóż mi Ty, o [Fis]Panie,
+u[G]wolnij mnie od ludzi tego [Fis]świata,
+od [e]ludzi, którym zależy tylko na tym [Fis]życiu;
+na[G]pełnij ich Twymi dobrami, [Fis]Panie,
+niech na[G]sycą się nimi też ich sy[Fis]nowie
+(i niech zo[G]stanie jeszcze dla ich [Fis]dzieci),
+a [e]ja gdy się przebudzę, ja gdy się przebudzę,
+nasycę się Twoim obliczem, [Fis]Panie.
+W:
+Gdy się [h]zbudzę …

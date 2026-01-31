@@ -1,0 +1,189 @@
+===
+title: "Gdzie się ukryłeś, Ukochany?"
+subtitle: "Święty Jan od Krzyża"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S942GdzieSieUkrylesUkochany"
+author:
+  - "K"
+year: 2023
+index:
+  - "aj"
+  - "biegać"
+  - "Boży"
+  - "całkowity"
+  - "cały"
+  - "cierpieć"
+  - "czemu"
+  - "czułość"
+  - "dać"
+  - "dolina"
+  - "gaj"
+  - "góry"
+  - "głębina"
+  - "graniczny"
+  - "inny"
+  - "jęk"
+  - "jedyne"
+  - "jeleń"
+  - "jeszcze"
+  - "konać"
+  - "kwiat"
+  - "łąka"
+  - "łaska"
+  - "las"
+  - "żaden"
+  - "żyć"
+  - "życie"
+  - "mądrość"
+  - "móc"
+  - "miłość"
+  - "miły"
+  - "najukochańszy"
+  - "napełnić"
+  - "oblubienica"
+  - "oddać"
+  - "oddalić"
+  - "oddawać"
+  - "odziany"
+  - "On"
+  - "ozdobić"
+  - "oznajmić"
+  - "pójść"
+  - "pasterz"
+  - "pastwisko"
+  - "pełny"
+  - "pić"
+  - "piękno"
+  - "pieszczoty"
+  - "piwnica"
+  - "pogrążać"
+  - "pojmować"
+  - "pośpiech"
+  - "porzucić"
+  - "postać"
+  - "posyłać"
+  - "powiedzieć"
+  - "praca"
+  - "pragnąć"
+  - "pragnienie"
+  - "próg"
+  - "przebiegać"
+  - "przechodzić"
+  - "przejść"
+  - "przemierzać"
+  - "przyjmować"
+  - "przypadek"
+  - "przyrzec"
+  - "pusty"
+  - "ranić"
+  - "ręka"
+  - "reszta"
+  - "rozkosz"
+  - "rozlewać"
+  - "sam"
+  - "słodycz"
+  - "spojrzeć"
+  - "spotkać"
+  - "sprawa"
+  - "stado"
+  - "staranie"
+  - "strona"
+  - "strzała"
+  - "strzec"
+  - "szukać"
+  - "troszczyć"
+  - "trwać"
+  - "trwoga"
+  - "twierdza"
+  - "tysiąc"
+  - "uciec"
+  - "uczuć"
+  - "ukochany"
+  - "ukryć"
+  - "umierać"
+  - "uzdrowić"
+  - "wciąż"
+  - "więcej"
+  - "wierch"
+  - "winna"
+  - "wśród"
+  - "wołać"
+  - "wreszcie"
+  - "wyjść"
+  - "wyniosły"
+  - "zasadzić"
+  - "zdołać"
+  - "zieleń"
+  - "zostawić"
+  - "zranić"
+  - "zrywać"
+  - "zwiastun"
+  - "zwierz"
+===
+
+K:
+1 [E]Gdzie się ukryłeś, Ukochany,
+wśród jęków mnie zostawiłeś?
+Uciekłeś jak jeleń,
+jak już mnie zraniłeś,
+[a]wyszłam za Tobą wo[F]łając,a Ty się odda[E]liłeś![FSsQp] [E]
+K:
+2 [E]Pasterze, co przemierzacie pastwiska
+aż po wierch wyniosły,
+gdy przypadkiem Go spotkacie,
+mego Najukochańszego,
+po[a]wiedzcie Mu, że [F]cierpię         i umieram dla [E]Niego.[FSsQp] [E]
+K:
+3 [E]Szukając mojej miłości
+pójdę przez góry i doliny.
+Nie będę zrywać kwiatów,
+przed zwierzem nie uczuję trwogi,
+[a]przejdę przez [F]twierdze i graniczne [E]progi![FSsQp] [E]
+K:
+4 [E]O wy, gaje i lasy
+ręką Ukochanego zasadzone!
+O łąki pełne zieleni
+kwiatami ozdobione,
+[a]powiedzcie, czy przechodził    [F]przez was w którąś [E]stronę?[FSsQp] [E]
+W:
+5 [a]Tysiąc łask rozlewając,
+przebiegał przez te gaje w poś[G]piechu,
+a gdy na nie [F]spojrzał,
+samą swą postacią
+zostawił je odziane w swoje [E]piękno.
+
+K:
+6 [E]Aj, któż zdoła mnie uzdrowić?
+Oddaj mi się już wreszcie, całko[a]wicie
+i nie posyłaj już więcej żadnego zwia[G]stuna,
+bo nie [F]mogą oznajmić tego, czego [E]pragnę.[FSsQp] [E]
+W:
+5 [a]Tysiąc łask rozlewając, …
+K:
+8 [E]Czemu jeszcze trwasz, o życie
+wciąż nie żyjąc tam, gdzie żyjesz,
+pogrążając się w konaniu od strzał
+które tym cię [a]ranią, że Mi[F]łego nie poj[E]mujesz.
+K:
+26[E]W głębinie winnej piwnicy,
+piłam rozkosze Bożej mądrości,
+kiedy wyszłam na pastwiska
+porzuciłam swe puste pragnienia -
+[a]zostawiłam [F]stada, za którymi bie[E]gałam.[FSsQp] [E]
+K:
+27[E]Tam dałeś mi czułość i pieszczoty,
+napełniłeś mnie słodyczą Twej mądrości.
+Ja oddałam Ci bez reszty całe swoje życie
+[a]i przyrzekłam, że Twoją [F]będę Oblubie[E]nicą.[FSsQp] [E]
+K:
+28[E]Tyś jedynym mym staraniem,
+to co moje, Tobie oddaję.
+Już nie strzegę swego stada,
+innej pracy nie przyjmuję,
+[a]bowiem troszczę się o Twoje [F]sprawy        - o [E]Miłość.[FSsQp] [E]
+W:
+5 [a]Tysiąc łask rozlewając, …
+
+0]512

@@ -1,0 +1,81 @@
+===
+title: "Chwała Bogu"
+section: "eyect"
+color: "eyect"
+tone: "e"
+songid: "S511ChwalaBoguAlleluja"
+author:
+  - "U"
+year: 1986
+address:
+  - what: "Ef"
+    where: "2, 4-10"
+alttone:
+  - "e"
+  - "c"
+knownas:
+  - "Bóg pełen dobroci i łaski"
+index:
+  - "alleluja"
+  - "Bóg"
+  - "chlubić"
+  - "Chrystus"
+  - "chwała"
+  - "dobroć"
+  - "dobry"
+  - "dzieło"
+  - "Jezus"
+  - "ku"
+  - "łaska"
+  - "życie"
+  - "móc"
+  - "miłość"
+  - "niebiosa"
+  - "nikt"
+  - "On"
+  - "pełny"
+  - "płynąć"
+  - "pochodzić"
+  - "posadzić"
+  - "przewidzieć"
+  - "przywrócić"
+  - "razem"
+  - "siebie"
+  - "skutek"
+  - "stworzyć"
+  - "uczynek"
+  - "umarły"
+  - "wiara"
+  - "wielki"
+  - "występek"
+  - "zbawiony"
+  - "zmartwychwskrzesić"
+===
+
+W:
+[e]Chwała [a]Bogu, alle[e]luja, alle[H]luja.
+[e]Chwała [a]Bogu, alle[e]luja, alle[H]luja.
+K:
+Bóg [e]pełen dobroci i [D]łaski,
+przez wielką swą miłość ku [e]nam,
+nas umarłych na skutek wy[D]stępków
+z Chrystusem przywrócił do [e]życia.
+Przez łaskę zba[D]wieni,
+z Nim zmartwychwskrze[e]szeni.
+Posadził nas [D]razem
+na niebiosach [e]z Nim.
+W:
+[e]Chwała [a]Bogu, alle[e]luja, alle[H]luja.
+[e]Chwała [a]Bogu, alle[e]luja, alle[H]luja.
+K:
+Zba[e]wieni jesteśmy przez [D]wiarę,
+nie pochodzi to z nas, ale [e]z Boga.
+Nie płynie to z naszych u[D]czynków,
+aby nikt nie mógł się chlubić [e]sobą.
+Jego dziełem jes[D]teśmy
+stworzeni w Je[e]zusie
+dla dobrych u[D]czynków
+przewidzianych przez [e]Boga.
+W:
+[e]Chwała [a]Bogu, alle[e]luja, alle[H]luja.
+[e]Chwała [a]Bogu, alle[e]luja, alle[H]luja.

@@ -1,0 +1,113 @@
+===
+title: "Modlitwa eucharystyczna II (1)"
+subtitle: "Słowa po Konsekracji"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "L00PoKoM2"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "*MSZ"
+    where: ""
+alttone:
+  - "e"
+  - "fis"
+knownas:
+  - "Konsekracja, słowa po"
+  - "Wspominając śmierć i zmartwychwstanie"
+index:
+  - "apostoł"
+  - "Bóg"
+  - "biskup"
+  - "błagać"
+  - "Bogurodzica"
+  - "brat"
+  - "cały"
+  - "chleb"
+  - "Chrystus"
+  - "ciąg"
+  - "ciało"
+  - "dać"
+  - "dopuścić"
+  - "Duch"
+  - "duchowieństwo"
+  - "dziękować"
+  - "Dziewica"
+  - "Józef"
+  - "Jezus"
+  - "kielich"
+  - "Kościół"
+  - "krew"
+  - "łaska"
+  - "śmierć"
+  - "świat"
+  - "światłość"
+  - "święty"
+  - "życie"
+  - "lud"
+  - "Maryja"
+  - "miłość"
+  - "nadzieja"
+  - "najświętszy"
+  - "oblubieniec"
+  - "odejść"
+  - "ofiarować"
+  - "oglądać"
+  - "Ona"
+  - "pamiętać"
+  - "papież"
+  - "podobać"
+  - "pokorny"
+  - "prosić"
+  - "przyjmować"
+  - "razem"
+  - "siostra"
+  - "służyć"
+  - "sprawić"
+  - "stać"
+  - "Syn"
+  - "udział"
+  - "wieczny"
+  - "wiek"
+  - "wspominać"
+  - "wszyscy"
+  - "wszystek"
+  - "wybrać"
+  - "wychwalać"
+  - "wzrastać"
+  - "zasnąć"
+  - "zbawienie"
+  - "ziemia"
+  - "zjednoczyć"
+  - "zmarły"
+  - "zmartwychwstać"
+  - "zmiłować"
+===
+
+Anamneza
+P:
+[G]Wspominając śmierć i zmartwychwstanie Twojego [e]Syna,
+[a]ofiarujemy Tobie, Boże, Chleb życia i [e]Kielich zbawienia
+i [a]dziękujemy, że nas wybrałeś, [e]abyśmy stali przed Tobą i Tobie służyli.
+Epikleza
+Po[G]kornie błagamy, [h]aby Duch Święty zjednoczył nas wszystkich,
+[a]przyjmujących Ciało [e]i Krew Chrystusa.
+Modlitwy wstawiennicze
+[G]Pamiętaj Boże, o Twoim Kościele na całej [e]ziemi.
+[a]Spraw, aby lud Twój wzrastał w miłości [e]razem z naszym Papieżem N.,
+[a]naszym Biskupem N. [e]oraz całym duchowieństwem.
+[G]Pamiętaj także o naszych zmarłych braciach i siostrach,
+[h]którzy zasnęli z nadzieją zmartwychwstania,
+[a]i o wszystkich, [e]którzy w Twojej łasce odeszli z tego świata.
+[G]Dopuść ich do oglądania [h]Twojej świat[e]łości.
+Wspomnienie Świętych
+[G]Prosimy Cię, zmiłuj się nad nami wszys[e]tkimi
+[a]i daj nam udział w życiu wiecznym
+[e]z Najświętszą Bogurodzicą Dziewicą Maryją,
+ze świętym Józefem, Jej oblubieńcem,
+[a]ze świętymi Apostołami i wszystkimi Świętymi,
+[e]którzy w ciągu wieków podobali się Tobie,
+[G]abyśmy z nimi wychwalali Ciebie
+przez Twojego [h]Syna, Je[A]zusa Chry[e]stusa.

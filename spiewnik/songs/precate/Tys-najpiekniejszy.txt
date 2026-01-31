@@ -1,0 +1,133 @@
+===
+title: "Tyś najpiękniejszy"
+section: "precate"
+color: "precate"
+tone: "E"
+songid: "S117TysNajpiekniejszy"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "45"
+  - what: "*KOM"
+    where: ""
+  - what: "*ZAK"
+    where: ""
+knownas:
+  - "1989"
+  - "Santiago de Compostela 1989"
+index:
+  - "Adam"
+  - "błogosławiony"
+  - "blask"
+  - "bok"
+  - "córka"
+  - "cichość"
+  - "cytra"
+  - "dawać"
+  - "dom"
+  - "kości"
+  - "król"
+  - "królewski"
+  - "Królowa"
+  - "kroczyć"
+  - "książę"
+  - "łaska"
+  - "łuk"
+  - "śpiewać"
+  - "ludzie"
+  - "miecz"
+  - "moc"
+  - "mocarz"
+  - "najpiękniejszy"
+  - "nakłonić"
+  - "napiąć"
+  - "naród"
+  - "obrona"
+  - "oddać"
+  - "Ofir"
+  - "ojciec"
+  - "On"
+  - "ostry"
+  - "pałac"
+  - "Pan"
+  - "pełny"
+  - "piękność"
+  - "poddawać"
+  - "prawda"
+  - "prawica"
+  - "przypasać"
+  - "rozlać"
+  - "rydwan"
+  - "słoniowy"
+  - "słuchać"
+  - "spodobać"
+  - "spojrzeć"
+  - "spośród"
+  - "sprawiedliwość"
+  - "stać"
+  - "strzała"
+  - "syn"
+  - "ucho"
+  - "uczynić"
+  - "ulubienica"
+  - "warga"
+  - "wdzięk"
+  - "wśród"
+  - "wstąpić"
+  - "zamiast"
+  - "zapomnieć"
+  - "zawsze"
+  - "ziemia"
+  - "złoto"
+===
+
+W:
+[E]Tyś najpiękniejszy, Tyś najpiękniejszy,
+wśród synów Adama, wśród synów Adama;
+wdzięk się rozlał na twych wargach,
+jesteś błogosławiony, błogosławiony na zawsze.
+W:
+[E]Eres hermoso, el más hermoso
+de los hijos de Adán, de los hijos de Adán.
+La gracia está en tus labios,
+eres bendito, el bendito para siempre.
+
+K:
+[cis]Przypasz mocarzu miecz do Twego [Gis]boku
+i [A]wstąp na rydwan pełen łaski i [Gis]blasku.
+[fis]Krocz w obronie prawdy, cichości i sprawiedli[Gis]wości,
+napnij swój łuk, który moc [A]daje twej pra[Gis]wicy.
+[fis]Ostre są twe [Gis]strzały;
+Pod[H]dają się [A]Tobie na[Gis]rody.
+W:
+[E]Tyś najpiękniejszy, Tyś najpiękniejszy,
+spośród synów Adama, spośród synów Adama;
+wdzięk się rozlał na twych wargach,
+jesteś błogosławiony, błogosławiony na zawsze.
+
+K:
+[cis]Z pałaców z kości sło[Gis]niowej
+[A]cytry śpiewają dla [Gis]Ciebie;
+[fis]córki królewskie twymi ulubieni[Gis]cami,
+KW:
+[H]po twej prawicy stoi Kró[A]lowa w złocie z O[Gis]firu.
+W:
+[E]Tyś najpiękniejszy, Tyś najpiękniejszy,
+spośród synów Adama, spośród synów Adama;
+wdzięk się rozlał na twych wargach,
+jesteś błogosławiony, błogosławiony na zawsze.
+
+K:
+[cis]Słuchaj, córko, [Gis]spójrz, [A]nakłoń [Gis]ucha,
+[fis]zapomnij o swym ludzie i o domu [Gis]ojca,
+[H]a królowi spodoba [A]się twoja [Gis]piękność;
+[fis]on jest twym [Gis]Panem, [A]oddaj się [Gis]Jemu,
+[H]a zamiast ojców będziesz mieć [A]synów,
+których uczynisz książętami nad [Gis]ziemią.
+W:
+[E]Tyś najpiękniejszy, Tyś najpiękniejszy,
+spośród synów Adama, spośród synów Adama;
+wdzięk się rozlał na twych wargach,
+jesteś błogosławiony, błogosławiony na zawsze.

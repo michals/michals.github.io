@@ -1,0 +1,184 @@
+===
+title: "Litania pokutna II"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "S002LitaniaPokutnaDluga"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*POK"
+    where: ""
+  - what: "*HEB"
+    where: ""
+knownas:
+  - "Za grzechy popełnione zatwardziałością"
+  - "Zmiłuj się nad nami"
+index:
+  - "arogancja"
+  - "bezwstydny"
+  - "bliźni"
+  - "Boży"
+  - "chęć"
+  - "chciwość"
+  - "Duch"
+  - "górować"
+  - "grzech"
+  - "grzesznik"
+  - "ignorancja"
+  - "inny"
+  - "kąkol"
+  - "kłamstwo"
+  - "święty"
+  - "lekkomyślny"
+  - "lenistwo"
+  - "lub"
+  - "mówić"
+  - "namiętność"
+  - "nauczyciel"
+  - "nieodpowiedzialność"
+  - "nieroztropność"
+  - "niski"
+  - "obżarstwo"
+  - "oczerniać"
+  - "okazywać"
+  - "opierać"
+  - "owładnąć"
+  - "Pan"
+  - "pijaństwo"
+  - "pogarda"
+  - "popełnić"
+  - "praca"
+  - "premedytacja"
+  - "prywatny"
+  - "przemoc"
+  - "przyzwolenie"
+  - "publiczny"
+  - "pycha"
+  - "rodzice"
+  - "rozmowa"
+  - "rozsiewać"
+  - "seksualność"
+  - "serce"
+  - "spojrzenie"
+  - "stosować"
+  - "szemrać"
+  - "wola"
+  - "zaniedbanie"
+  - "zasmucać"
+  - "zatwardziałość"
+  - "zazdrość"
+  - "złośliwość"
+  - "zmiłować"
+  - "znieważać"
+===
+
+K:
+[e]Za grzechy popełnione zatwardziałością serc [a]naszych,
+W:
+zmiłuj się nad [H7]nami, bo jes[a]teśmy grzeszni[H7]kami!
+[C]Zmiłuj się [H7]Panie!
+K:
+[e]Za grzechy popełnione publicznie lub pry[a]watnie,
+W:
+zmiłuj się nad [H7]nami, bo jes[a]teśmy grzeszni[H7]kami!
+K:
+[e]Za grzechy popełnione przez nieroz[a]tropność,
+W:
+zmiłuj się nad [H7]nami, bo jes[a]teśmy grzeszni[H7]kami!
+K:
+[e]Za grzechy popełnione zaniedbaniem i le[a]nistwem,
+W:
+zmiłuj się nad [H7]nami, bo jes[a]teśmy grzeszni[H7]kami!
+K:
+[e]Za grzechy popełnione z igno[a]rancji,
+W:
+zmiłuj się nad [H7]nami, bo jes[a]teśmy grzeszni[H7]kami!
+K:
+[e]Za grzechy popełnione z premedytacją i złośli[a]wością,
+W:
+zmiłuj się nad [H7]nami, bo jes[a]teśmy grzeszni[H7]kami!
+K:
+[e]Za grzechy popełnione stosowaniem prze[a]mocy,
+W:
+zmiłuj się nad [H7]nami, bo jes[a]teśmy grzeszni[H7]kami!
+K:
+[e]Za grzechy popełnione przyzwoleniem,by nami owładnęły niskie namięt[a]ności,
+W:
+zmiłuj się nad [H7]nami, bo jes[a]teśmy grzeszni[H7]kami!
+K:
+[e]Za grzechy popełnione okazywaniem pogardy rodzicom i nauczy[a]cielom,
+W:
+zmiłuj się nad [H7]nami, bo jes[a]teśmy grzeszni[H7]kami!
+K:
+[e]Za grzechy popełnione w naszej [a]pracy,
+W:
+zmiłuj się nad [H7]nami, bo jes[a]teśmy grzeszni[H7]kami!
+K:
+[e]Za grzechy popełnione chęcią górowania nad in[a]nymi,
+W:
+zmiłuj się nad [H7]nami, bo jes[a]teśmy grzeszni[H7]kami!
+
+K:
+[e]Za grzechy popełnione naszą chci[a]wością,
+W:
+zmiłuj się nad [H7]nami, bo jes[a]teśmy grzeszni[H7]kami!
+K:
+[e]Za grzechy popełnione pychą i aro[a]gancją,
+W:
+zmiłuj się nad [H7]nami, bo jes[a]teśmy grzeszni[H7]kami!
+K:
+[e]Za grzechy popełnione znieważaniem bliź[a]niego,
+W:
+zmiłuj się nad [H7]nami, bo jes[a]teśmy grzeszni[H7]kami!
+[C]Zmiłuj się [H7]Panie!
+K:
+Za grzechy popełnione mówieniem kłamstwa,
+W:
+zmiłuj się nad nami, bo jesteśmy grzesznikami!
+K:
+Za grzechy popełnione lekkomyślnymi rozmowami,
+W:
+zmiłuj się nad nami, bo jesteśmy grzesznikami!
+K:
+Za grzechy popełnione oczernianiem bliźniego,
+W:
+zmiłuj się nad nami, bo jesteśmy grzesznikami!
+K:
+Za grzechy popełnione naszą seksualnością,
+W:
+zmiłuj się nad nami, bo jesteśmy grzesznikami!
+K:
+Za grzechy popełnione bezwstydnymi spojrzeniami,
+W:
+zmiłuj się nad nami, bo jesteśmy grzesznikami!
+K:
+Za grzechy popełnione zazdrością,
+W:
+zmiłuj się nad nami, bo jesteśmy grzesznikami!
+K:
+Za grzechy popełnione obżarstwem i pijaństwem,
+W:
+zmiłuj się nad nami, bo jesteśmy grzesznikami!
+K:
+Za grzechy popełnione nieodpowiedzialnością,
+W:
+zmiłuj się nad nami, bo jesteśmy grzesznikami!
+K:
+Za grzechy popełnione rozsiewaniem kąkolu,
+W:
+zmiłuj się nad nami, bo jesteśmy grzesznikami!
+K:
+Za grzechy popełnione szemraniem w naszym sercu,
+W:
+zmiłuj się nad nami, bo jesteśmy grzesznikami!
+K:
+Za grzechy popełnione                            zasmucaniem Ducha Świętego,
+W:
+zmiłuj się nad nami, bo jesteśmy grzesznikami!
+K:
+[e]Za grzechy popełnione opieraniem się woli [a]Bożej.
+W:
+zmiłuj się nad [H7]nami, bo jes[a]teśmy grzeszni[H7]kami!
+[C]Zmiłuj się [H7]Panie!

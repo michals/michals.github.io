@@ -1,0 +1,78 @@
+===
+title: "Nie zostawisz mego życia w grobie"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S502NieZostawiszMegoZyciaWGrobie"
+author:
+  - "K"
+year: 1986
+address:
+  - what: "Ps"
+    where: "16"
+index:
+  - "bezpieczny"
+  - "ciało"
+  - "cząstka"
+  - "czekać"
+  - "dusza"
+  - "dziedzictwo"
+  - "grób"
+  - "koniec"
+  - "ścieżka"
+  - "życie"
+  - "móc"
+  - "obecność"
+  - "oko"
+  - "Pan"
+  - "pełnia"
+  - "ponieważ"
+  - "pozostawić"
+  - "pozwolić"
+  - "prawica"
+  - "radość"
+  - "radować"
+  - "również"
+  - "ręka"
+  - "rozkład"
+  - "serce"
+  - "siebie"
+  - "słodycz"
+  - "spoczywać"
+  - "stać"
+  - "stawiać"
+  - "ukazać"
+  - "ulegnąć"
+  - "weselić"
+  - "zachwiać"
+  - "zawsze"
+  - "zostawić"
+===
+
+KW:
+[a]Nie zostawisz mego życia [G]w grobie,
+nie po[F]zwolisz, bym uległ rozkła[E]dowi.
+K:
+[E]Panie, cząstko mego dzie[F]dzictwa,
+w Twych rękach jest me [E]życie.
+Zawsze stawiam sobie przed oczy [F]Pana;
+stoi po mojej prawicy, nie mogę się [E]zachwiać.
+W:
+[a]Nie zostawisz mego życia [G]w grobie,
+nie po[F]zwolisz, bym uległ rozkła[E]dowi.
+K:
+[E]Z tego weseli się me [F]serce,
+raduje się moja [E]dusza,
+również ciało moje spoczywa bez[F]piecznie,
+bo nie pozostawisz życia mego [E]w grobie.
+W:
+[a]Nie zostawisz mego życia [G]w grobie,
+nie po[F]zwolisz, bym uległ rozkła[E]dowi.
+K:
+U[a]każesz mi ścieżkę [G]życia,
+w Twej obec[F]ności czeka mnie pełnia ra[E]dości.
+[a]Ukażesz mi ścieżkę [G]życia,
+po [F]Twojej prawicy słodycz bez [E]końca.
+W:
+Ponieważ [a]nie zostawisz mego życia [G]w grobie,
+nie po[F]zwolisz, bym uległ rozkła[E]dowi.

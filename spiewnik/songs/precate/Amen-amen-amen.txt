@@ -1,0 +1,95 @@
+===
+title: "Amen, amen, amen"
+section: "precate"
+color: "precate"
+tone: "C"
+songid: "S074AmenAmenAmen"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ap"
+    where: "7, 12-14"
+  - what: "*BRE"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+knownas:
+  - "1967"
+  - "Błogosławieństwo chwałę i mądrość"
+  - "Kim są i skąd przychodzą?"
+index:
+  - "amen"
+  - "Bóg"
+  - "Baranek"
+  - "błogosławieństwo"
+  - "chwała"
+  - "cześć"
+  - "dziękczynienie"
+  - "krew"
+  - "mądrość"
+  - "moc"
+  - "oddać"
+  - "opłukać"
+  - "potęga"
+  - "przychodzić"
+  - "skąd"
+  - "szaty"
+  - "utrapienie"
+  - "wielki"
+  - "wszystek"
+  - "wybielić"
+===
+
+W:
+[C]Amen, amen, amen!
+A[a]men, amen, amen!
+A[G]men, amen, a[C]men!
+
+W:
+[C]Błogosławieństwo,
+chwałę i [G]mądrość,
+i dziękczynienie
+oddajmy [C]Bogu.
+[C]Amen, amen, amen!
+A[a]men, amen, amen!
+A[G]men, amen, a[C]men!
+
+K:
+Cześć i [F]moc, i wszystką po[e]tęgę,
+cześć i [F]moc oddajmy [e]Bogu.
+
+W:
+[G7]Błogosła[C]wieństwo,
+chwałę i [G]mądrość,
+i dziękczynienie
+oddajmy [C]Bogu.
+[C]Amen, amen, amen!
+A[a]men, amen, amen!
+A[G]men, amen, a[C]men!
+
+K:
+Kim [F]są i skąd przy[e]chodzą?
+W:
+Kim [F]są i skąd przy[e]chodzą?
+
+W:
+[G7]To ci, którzy przy[C]chodzą
+z wiel[G]kiego utra[C]pienia.
+[G7]To ci, którzy przy[C]chodzą
+z wiel[G]kiego utra[C]pienia.
+K:
+I opłu[F]kali swe szaty,
+i je wybie[e]lili
+we [F]krwi Ba[e]ranka,
+we [F]krwi Ba[e]ranka.
+W:
+[G7]To ci, którzy przy[C]chodzą
+z wiel[G]kiego utra[C]pienia.
+[G7]To ci, którzy przy[C]chodzą
+z wiel[G]kiego utra[C]pienia.
+
+W:
+[C]Amen, amen, amen!
+A[a]men, amen, amen!
+A[G]men, amen, a[C]men!

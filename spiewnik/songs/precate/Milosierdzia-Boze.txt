@@ -1,0 +1,211 @@
+===
+title: "Miłosierdzia, Boże"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S063MilosierdziaBoze"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "51"
+  - what: "*BRE"
+    where: ""
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "Miserere"
+  - "Misericordia, Deus, misericordia"
+  - "1977"
+index:
+  - "Bóg"
+  - "błądzić"
+  - "całopalenie"
+  - "chcieć"
+  - "choćby"
+  - "chwała"
+  - "czysty"
+  - "dać"
+  - "dlatego"
+  - "dobroć"
+  - "droga"
+  - "duch"
+  - "Duch"
+  - "głosić"
+  - "grzech"
+  - "grzesznik"
+  - "hyzop"
+  - "jako"
+  - "język"
+  - "Jeruzalem"
+  - "kości"
+  - "krew"
+  - "łaska"
+  - "śnieg"
+  - "święty"
+  - "żertwa"
+  - "mądrość"
+  - "matka"
+  - "miłość"
+  - "miłosierdzie"
+  - "moc"
+  - "mury"
+  - "nauczać"
+  - "nieprawość"
+  - "obciążyć"
+  - "obiata"
+  - "oblicze"
+  - "obmyć"
+  - "oczyścić"
+  - "odbierać"
+  - "odbudować"
+  - "odnowić"
+  - "odrzucać"
+  - "odwrócić"
+  - "ofiara"
+  - "ofiarny"
+  - "okazać"
+  - "oko"
+  - "ołtarz"
+  - "otworzyć"
+  - "Pan"
+  - "począć"
+  - "poczuć"
+  - "pokorny"
+  - "prawy"
+  - "przeciwko"
+  - "przepisać"
+  - "przewinienie"
+  - "przyjąć"
+  - "przywrócić"
+  - "radość"
+  - "radować"
+  - "rozradować"
+  - "sąd"
+  - "sam"
+  - "serce"
+  - "składać"
+  - "skruszony"
+  - "skruszyć"
+  - "sławić"
+  - "sprawić"
+  - "sprawiedliwość"
+  - "sprawiedliwy"
+  - "stanąć"
+  - "stworzyć"
+  - "Syjon"
+  - "szczerość"
+  - "uczyć"
+  - "uczynić"
+  - "urodzić"
+  - "usta"
+  - "uwolnić"
+  - "uznawać"
+  - "wówczas"
+  - "warga"
+  - "wesele"
+  - "wielki"
+  - "wina"
+  - "wnętrze"
+  - "wrócić"
+  - "wszystek"
+  - "wtedy"
+  - "wybieleć"
+  - "wyroki"
+  - "wzgardzić"
+  - "wzrok"
+  - "zawsze"
+  - "zbawienie"
+  - "zgładzić"
+  - "zgrzeszyć"
+  - "zły"
+  - "zmazać"
+  - "zmiłować"
+  - "zupełny"
+===
+
+K:
+[e]Zmiłuj się nade mną, Boże, w swoim miło[a]sierdziu,
+w swej wielkiej dobroci zgładź moją nie[e]prawość.
+W:
+[e]Miłosierdzia, Boże[D], miło[e]sierdzia.
+K:
+[e]Obmyj mnie zupełnie z mojej [a]winy
+i oczyść mnie z grzechu mo[e]jego.
+[e]Uznaję bowiem moją [a]winę,
+a grzech mój jest zawsze prze[e]de mną.
+W:
+Miłosierdzia, Boże, miłosierdzia.
+
+K:
+Przeciwko Tobie, przeciwko Tobie                          samemu zgrzeszyłem
+i uczyniłem, co złe jest w Twoich oczach.
+Dlatego sprawiedliwy jesteś w swoich wyrokach
+i prawy w swoim sądzie.
+W:
+Miłosierdzia, Boże, miłosierdzia.
+
+K:
+Oto urodziłem się obciążony winą
+i jako grzesznika poczęła mnie matka.
+Ale Ty chcesz szczerości serca
+i w moim wnętrzu uczysz mnie mądrości.
+W:
+Miłosierdzia, Boże, miłosierdzia.
+
+K:
+Oczyść mnie hyzopem, a stanę się czysty,
+obmyj mnie, a nad śnieg wybieleję.
+Spraw, abym poczuł radość i wesele,
+rozradują się kości, które skruszyłeś.
+W:
+Miłosierdzia, Boże, miłosierdzia.
+
+K:
+Odwróć swój wzrok od moich grzechów,
+zmaż wszystkie moje przewinienia.
+Stwórz, Boże, we mnie serce czyste
+i odnów we mnie moc ducha.
+W:
+Miłosierdzia, Boże, miłosierdzia.
+
+K:
+Nie odrzucaj mnie od swego oblicza
+i nie odbieraj mi Świętego Ducha Twego.
+Przywróć mi radość z Twojego zbawienia
+i odnów we mnie ducha ofiarnego.
+W:
+Miłosierdzia, Boże, miłosierdzia.
+
+K:
+Będę błądzących nauczał dróg Twoich
+i wrócą do Ciebie grzesznicy.
+Uwolnij mnie od krwi, Boże,                           Boże mojego zbawienia,
+język mój będzie sławić                              Twoją sprawiedliwość.
+W:
+Miłosierdzia, Boże, miłosierdzia.
+
+K:
+Panie, otwórz wargi moje,
+a usta moje będą głosić Twoją chwałę.
+Ofiarą bowiem Ty się nie radujesz,
+a całopalenia, choćbym dał, nie przyjmiesz.
+W:
+Miłosierdzia, Boże, miłosierdzia.
+
+K:
+Moją ofiarą dla Boga jest duch skruszony,
+pokornym i skruszonym sercem,                         Ty, o Boże, nie wzgardzisz.
+Okaż Syjonowi łaskę w swej miłości,
+odbuduj mury Jeruzalem.
+W:
+Miłosierdzia, Boże, miłosierdzia.
+
+K:
+Wówczas przyjmiesz przepisane ofiary,
+całopalenie i obiatę;
+wtedy składać będą żertwy ofiarne
+na Twoim ołtarzu.
+W:
+Miłosierdzia, Boże, miłosierdzia.

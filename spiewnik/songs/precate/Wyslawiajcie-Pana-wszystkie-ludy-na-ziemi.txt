@@ -1,0 +1,59 @@
+===
+title: "Wysławiajcie Pana wszystkie ludy na ziemi"
+section: "precate"
+color: "precate"
+tone: "G"
+songid: "S057WyslawiajciePana"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "Ps"
+    where: "117"
+  - what: "*BRE"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+index:
+  - "chwała"
+  - "dać"
+  - "lud"
+  - "miłość"
+  - "miłosierdzie"
+  - "mocny"
+  - "naród"
+  - "On"
+  - "Pan"
+  - "trwać"
+  - "wiek"
+  - "wielki"
+  - "wierność"
+  - "wszystek"
+  - "wysławiać"
+  - "ziemia"
+===
+
+W:
+[G]Wysławiajcie Pana
+[a]wszystkie ludy na ziemi,
+na[C]rody dajcie Mu [H7]chwałę.
+
+K:
+[G]Bo mocna jest Jego miłość do nas,
+[a]a Jego wierność trwa na wieki,
+[C]narody, wysławiajcie [H7]Pana.
+
+W:
+[G]Wysławiajcie Pana
+[a]wszystkie ludy na ziemi,
+na[C]rody dajcie Mu [H7]chwałę.
+
+K:
+[G]Bo wielka jest Jego miłość do nas,
+[a]a Jego miłosierdzie trwa na wieki,
+[C]narody, dajcie Mu [H7]chwałę.
+
+W:
+[G]Wysławiajcie Pana
+[a]wszystkie ludy na ziemi,
+[C]narody dajcie Mu [H7]chwałę.

@@ -22,7 +22,6 @@ index:
   - "bród"
   - "cały"
   - "czas"
-  - "dłużej"
   - "dziecko"
   - "imię"
   - "Izrael"
@@ -71,7 +70,7 @@ K:
 [a]Noc już zapadła,
 gdy Jakub powstał,
 zabrał swe [F]żony
-i wszystkie swe [ES]dzieci,
+i wszystkie swe [E7]dzieci,
 i przeprawił się przez bród Jab[a]boku.
 Kiedy już ich zabrał
 i przeprawił przez potok,
@@ -97,12 +96,12 @@ KW:
 [C]Ja nie wy[D]puszczę Cię,
 jeśli [F]mnie nie pobłogo[E]sławisz.
 K:
-A [ES]Bóg go za[a]pytał:
+A [E7]Bóg go za[a]pytał:
 „Jakie jest twe imię”
 „Jakie jest twe imię”
 „[F]Jakub” odpowiedział on,
 „Jakub” odpowiedział [E]on.
-[ES]Nie będziesz zwał się dłużej Ja[a]kubem.
+[E7]Nie będziesz zwał się już Ja[a]kubem.
 W:
 Izra[G]el, Izra[a]el,
 Izra[G]el będzie twe [a]imię.

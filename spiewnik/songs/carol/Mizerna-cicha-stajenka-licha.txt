@@ -1,0 +1,193 @@
+===
+title: "Mizerna cicha stajenka licha"
+section: "carol"
+color: "carol"
+tone: "e"
+songid: "S715MizernaCicha"
+author:
+  - "TL"
+  - "JG"
+year: 1849
+address:
+  - what: "Łk"
+    where: "2, 16"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+index:
+  - "anioł"
+  - "Bóg"
+  - "Bóg-człowiek"
+  - "biały"
+  - "blask"
+  - "cały"
+  - "choć"
+  - "chwała"
+  - "ciało"
+  - "cichy"
+  - "cisza"
+  - "czart"
+  - "czas"
+  - "czekać"
+  - "czysta"
+  - "dawać"
+  - "długi"
+  - "dobry"
+  - "drżeć"
+  - "dusza"
+  - "Dziecię"
+  - "dziecina"
+  - "gościć"
+  - "hej"
+  - "jako"
+  - "jeszcze"
+  - "Jezus"
+  - "klęczeć"
+  - "kościół"
+  - "kolano"
+  - "śpiący"
+  - "świat"
+  - "światłość"
+  - "leżący"
+  - "lichy"
+  - "lico"
+  - "lilija"
+  - "lot"
+  - "ludzie"
+  - "lulać"
+  - "mądrość"
+  - "mały"
+  - "malować"
+  - "Maryja"
+  - "migać"
+  - "mizerny"
+  - "mnogi"
+  - "nadzieja"
+  - "natchnienie"
+  - "niebieski"
+  - "niebo"
+  - "niedola"
+  - "oglądać"
+  - "oko"
+  - "On"
+  - "orzeźwić"
+  - "otwarty"
+  - "pan"
+  - "Pan"
+  - "pastuszek"
+  - "pełny"
+  - "piekło"
+  - "płynąć"
+  - "pobożny"
+  - "pochylony"
+  - "pokój"
+  - "promień"
+  - "promienny"
+  - "prosty"
+  - "przepaść"
+  - "przy"
+  - "ptaszyna"
+  - "rad"
+  - "radość"
+  - "rosić"
+  - "rozbudzić"
+  - "rozgorzeć"
+  - "roztaczać"
+  - "rozwarty"
+  - "rumiany"
+  - "rzesza"
+  - "senny"
+  - "serce"
+  - "siebie"
+  - "skończony"
+  - "skrzydło"
+  - "Słowo"
+  - "spać"
+  - "stać"
+  - "stajenka"
+  - "stanąć"
+  - "staruszek"
+  - "strzecha"
+  - "stworzenie"
+  - "taki"
+  - "tęcza"
+  - "ubogi"
+  - "uśmiech"
+  - "uśmiechać"
+  - "umiłować"
+  - "upadek"
+  - "upaść"
+  - "usta"
+  - "wcielony"
+  - "wiać"
+  - "wiele"
+  - "wielki"
+  - "włosy"
+  - "wola"
+  - "wszelki"
+  - "wszyscy"
+  - "wzdychać"
+  - "wznosić"
+  - "zawarty"
+  - "zbawienie"
+  - "zdziwienie"
+  - "ziemia"
+  - "złoty"
+  - "zstępować"
+===
+
+[e]Mizerna, [a]cicha, [e]stajenka [H7]licha,
+[e]Pełna nie[C]bieskiej [G]chwa[H]ły;
+[e]Oto le[a]żący, [e]przed nami [H7]śpiący,
+[C]W promieniach [G]Je[H7]zus [e]mały.
+
+[e]Nad nim A[a]nieli [e]w locie sta[H7]nęli
+[e]I pochy[C]leni [G]klę[H]czą;
+[e]Z włosy zło[a]temi, [e]z skrzydły bia[H7]łemi
+[C]Pod malo[G]wa[H7]ną [e]tęczą.
+
+Wielkie zdziwienie,                                       wszelkie stworzenie,
+Cały świat orzeźwiony;
+Mądrość mądrości,                                         światłość światłości,
+Bóg-człowiek tu wcielony.
+
+I oto mnodzy ludzie ubodzy
+Radzi oglądać Pana;
+Pełni natchnienia, pełni zbawienia,
+Upadli na kolana.
+
+[e]Długo cze[a]kali, [e]długo wzdy[H7]chali,
+[e]Aż niebo [C]rozgo[G]rza[H]ło,
+[e]Piekło za[a]warte, [e]niebo ot[H7]warte,
+[C]Słowo cia[G]łem [H7]się [e]stało.
+
+[e]Śpi jeszcze [a]senne [e]Dziecię pro[H7]mienne,
+[e]W ciszy u[C]bogiej [G]strze[H]chy;
+[e]Na licach [a]białych, [e]na ustach [H7]małych,
+[C]Migają [G]się [H7]uśm[e]iechy.
+
+Jako w kościele choć ludzi wiele
+Cisza pobożna wieje;
+Oczy się roszą, dusze się wznoszą,
+Płyną w serca nadzieje.
+
+Lulaj dziecino, lulaj ptaszyno,
+Nasze umiłowanie;
+Gdy się rozbudzi, w tej rzeszy ludzi,
+Zbawienie nam się stanie.
+
+Oto Maryja, czysta lilija,
+Przy niej Staruszek drżący,
+Stoją przed nami, przed pastuszkami,
+Tacy uśmiechający.
+
+Hej! Ludzie prości, Bóg z nami gości,
+Skończony czas niedoli.
+On daje siebie, chwała na niebie,
+Pokój ludziom dobrej woli.
+
+[e]Radość na [a]ziemi, [e]bo nad wszy[H7]stkiemi,
+[e]Roztacza [C]blask ru[G]mia[H7]ny.
+[e]Przepaść roz[a]warta, [e]upadek [H7]czarta,
+[C]Zstępuje [G]Pan [H7]nad [e]pany.

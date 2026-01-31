@@ -1,0 +1,120 @@
+===
+title: "Skradłaś mi serce"
+section: "elec"
+color: "elec"
+tone: "d"
+songid: "S296SkradlasMiSerce"
+author:
+  - "K"
+year: 2009
+address:
+  - what: "Pnp"
+    where: "4, 9-5, 1"
+knownas:
+  - "2009"
+  - "Powstań, wietrze południa"
+  - "["
+index:
+  - "aloes"
+  - "balsam"
+  - "drzewo"
+  - "granat"
+  - "język"
+  - "Liban"
+  - "źródło"
+  - "móc"
+  - "miód"
+  - "miłość"
+  - "mirra"
+  - "mleko"
+  - "najdroższy"
+  - "nard"
+  - "oblubienica"
+  - "ociekać"
+  - "ogród"
+  - "olejek"
+  - "owoce"
+  - "pić"
+  - "piękny"
+  - "plaster"
+  - "południe"
+  - "powiać"
+  - "powstać"
+  - "przybyć"
+  - "przyjaciel"
+  - "przyjść"
+  - "raj"
+  - "rozkoszować"
+  - "rozlać"
+  - "serce"
+  - "siostra"
+  - "skraść"
+  - "smaczniejszy"
+  - "spożyć"
+  - "szafran"
+  - "szaty"
+  - "ukochany"
+  - "upajać"
+  - "warga"
+  - "wejść"
+  - "wiatr"
+  - "wino"
+  - "woń"
+  - "wonności"
+  - "wszystek"
+  - "wyborny"
+  - "zamknąć"
+  - "zapach"
+  - "zapieczętować"
+===
+
+Oblubieniec
+KMW:
+[d]Skradłaś mi [g]serce,
+skradłaś mi [d]serce,
+siostro ma, oblubie[g]nico,
+skradłaś [A7]mi,
+skradłaś mi [d]serce.
+
+Oblubieniec
+KM:
+[d]Jak piękne twe mi[g]łości,
+jak piękne twe mi[d]łości!
+Zapach twoich o[g]lejków
+nad [A7]wszystkie balsamy mi[d]łości.
+[g]Miodem ociekają twoje wargi,        oblubienico, moja siostro,
+miód i [A7]mleko pod two[d]im językiem.
+Zapach twoich szat wonią Li[g]banu,            oblubienico, ma oblubienico,
+smaczniejsze od [A7]wina są twe mi[d]łości.
+[C]Ogrodem zamkniętym jesteś, siostro [d]moja;
+[C]źródłem zapieczętowanym, ma oblubie[d]nico!
+Twoje o[g]woce - raj drzew gra[A7]natu,
+[g]nardu i szafranu, mirry i alo[A7]esu.
+
+Oblubienica
+KNW:
+[C]Powstań,
+wietrze południa i [F]przybądź!
+KNW:
+[A7]Powiej w moim ogrodzie,
+aby rozlał swe won[d]ności,
+KN:
+[C]by mógł wejść mój ukochany
+[F]i rozkoszować się jego wybor[A7]nymiowo[d]cami.
+
+Oblubieniec
+KM:
+[g]Wszedłem już do mego ogrodu,      ma oblubie[A7]nico,
+[g]spożyłem mój miód [A7]z plastra,
+[g]piłem moje wino i moje [A7]mleko.
+
+KW:
+Przyja[d]ciele, prz[C]yjdźcie,
+pi[B]jcie, o najdrożsi i upa[A7]jajcie się.
+
+W:
+[d]Skradłaś mi [g]serce,
+skradłaś mi [d]serce,
+siostro ma, oblubie[g]nico,
+skradłaś [A7]mi,
+skradłaś mi [d]serce.

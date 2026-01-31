@@ -1,0 +1,35 @@
+===
+title: "Aklamacja przed Ewangelią w Wielkim Poście (2)"
+subtitle: "Melodia druga"
+section: "liturg"
+color: "liturg"
+tone: "G"
+songid: "S025AklamacjaDoEwangeliiWielkiPostMDruga"
+author:
+  - "K"
+year: 1993
+knownas:
+  - "Chwała i cześć, chwała i cześć"
+index:
+  - "chwała"
+  - "cześć"
+  - "Jezus"
+  - "życie"
+  - "Pan"
+  - "umrzeć"
+  - "wiek"
+  - "wierzyć"
+  - "zmartwychwstać"
+===
+
+KW:
+[G]Chwała i cześć, chwała i cześć,
+chwała [C]Tobie Panie [D]Jezu, Panie [G]Jezu.
+K:
+[e]Ja [D]jestem zmartwychwstanie i [e]życie, kto we Mnie [D]wierzy,
+nie umrze na [e]wieki, kto we Mnie [D]wierzy, nie umrze na [e]wieki.
+{{{ 2x
+W:
+[G]Chwała i cześć, chwała i cześć,
+chwała [C]Tobie Panie [D]Jezu, Panie [G]Jezu.
+}}}

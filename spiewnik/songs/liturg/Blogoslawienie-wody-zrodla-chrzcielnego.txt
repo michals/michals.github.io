@@ -1,0 +1,146 @@
+===
+title: "Błogosławienie wody źródła chrzcielnego"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "LAnWodChr"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*PAS"
+    where: ""
+knownas:
+  - "Wody Błogosławienie"
+  - "Anafora Błogosławienia wody"
+index:
+  - "Abraham"
+  - "amen"
+  - "Bóg"
+  - "bok"
+  - "Chrystus"
+  - "chrzcić"
+  - "chrzest"
+  - "ciąg"
+  - "cud"
+  - "czas"
+  - "Czerwone"
+  - "człowiek"
+  - "dać"
+  - "dokonywać"
+  - "Duch"
+  - "dzieje"
+  - "dzisiaj"
+  - "ewangelia"
+  - "głosić"
+  - "grzech"
+  - "grzechowy"
+  - "iść"
+  - "imię"
+  - "jako"
+  - "Jan"
+  - "jedyny"
+  - "Jordan"
+  - "Kościół"
+  - "koniec"
+  - "krew"
+  - "krzyż"
+  - "łaska"
+  - "śmierć"
+  - "święty"
+  - "życie"
+  - "źródło"
+  - "lud"
+  - "miłość"
+  - "moc"
+  - "morze"
+  - "nabrać"
+  - "nadejść"
+  - "nakazać"
+  - "namaszczony"
+  - "naród"
+  - "nieśmiertelny"
+  - "niewidzialny"
+  - "niewola"
+  - "noga"
+  - "nowy"
+  - "obmyć"
+  - "obraz"
+  - "ochrzczony"
+  - "odrodzić"
+  - "Ojciec"
+  - "On"
+  - "otrzymać"
+  - "oznaczać"
+  - "Pan"
+  - "pełnia"
+  - "początek"
+  - "podnieść"
+  - "pogrzebać"
+  - "poprzez"
+  - "potęga"
+  - "potop"
+  - "powstać"
+  - "przeprowadzać"
+  - "przygotować"
+  - "przyszły"
+  - "razem"
+  - "sakrament"
+  - "sakramentalny"
+  - "sposób"
+  - "sprawa"
+  - "sprawić"
+  - "stać"
+  - "stworzenie"
+  - "stworzyć"
+  - "suchy"
+  - "syn"
+  - "Syn"
+  - "teraz"
+  - "uczeń"
+  - "uświęcać"
+  - "unosić"
+  - "wejrzeć"
+  - "wieloraki"
+  - "woda"
+  - "wszyscy"
+  - "wszystek"
+  - "wtedy"
+  - "wylać"
+  - "wytrysnąć"
+  - "wyzwolić"
+  - "zbawienie"
+  - "zmartwychpowstanie"
+  - "zmaza"
+  - "znak"
+  - "zostać"
+  - "zstąpić"
+===
+
+P:
+[e]O Boże, [a]poprzez znaki sakramen[H7]talne,                                           Ty dokonujesz niewidzialną mocą                                      cudów zba[e]wienia.
+[e]Ty w ciągu dziejów [a]w wieloraki sposób                      [D]przygotowałeś [C]wodę, Twoje stworzenie,                             aby stała się znakiem [H7]chrztu.
+[e]Od początku Twój Duch [a]unosił się nad wo[H7]dami,                                                                     aby już wtedy woda nabrała mocy uświęcania.
+[e]A także w wodach potopu [a]dałeś nam obraz [H7]chrztu,aby [e]dzisiaj, tak jak wtedy, [D]woda oznaczała[C]koniec grzechu i początek nowego [H7]życia.
+[e]Tyś wyzwolił z niewoli synów Abra[D]hama,                przeprowadzając ich suchą nogą przez Morze Czer[e]wone,             aby stali się obrazem przyszłego [D]ludu ochrz[e]czonych.
+A na końcu, gdy nadeszła pełnia [D]czasów,               Twój [e]Syn, ochrzczony przez Jana w wodach Jo[D]rdanu                       został namasz[D]czony przez Ducha Świę[e]tego.
+PW:
+[e]Podniesiony na [D]krzyżu wylał ze swego [C]boku krew i [H7]wodę.
+
+P:
+A [e]po swym zmartwychpow[D]staniu nakazał [e]uczniom:                                                                             „Idźcie, głoście Ewan[D]gelię wszystkim na[e]rodom
+PW:
+[e]i chrzcijcie je w imię [D]Ojca i [C]Syna, i Ducha Świę[H7]tego”.
+P:
+[e]A teraz, teraz Ojcze wejrzyj z miłością na Twój [D]Kościół                                                                    i spraw, by dla [C]niego wytrysnęło źródło Chrztu Świę[H7]tego.
+[e]Wylej na tę [D]wodę za sprawą Ducha Świę[C]tego                                                                                                  łaskę Twego Jedynego [H7]Syna,
+[e]aby poprzez sakrament [D]chrztu               człowiek stworzony na Twój [e]obraz            był obmyty ze zmazy grze[D]chowej;                  i z wody, i z Ducha Świę[C]tego     odrodził się jako nowe stwo[H7]rzenie.
+
+[e]Niech zstąpi, Ojcze, [a]w tę wodę za sprawąTwego S[H7]yna po[a]tęga i moc Ducha Świę[H7]tego,[e]aby wszyscy ci, którzy w niej otrzymają [D]chrzest,pogrzebani razem z Chry[e]stusem
+PW:
+[e]w śmierci, razem z Nim po[D]wstali,                                                                           po[C]wstali do życia nieśmiertel[H7]nego.
+P:
+Przez Chrystusa naszego [e]Pana.
+
+W:
+Amen, a[D]men, a[e]men!

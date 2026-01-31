@@ -1,6 +1,6 @@
 ===
 title: "Credo"
-subtitle: "Etap Wyznania wiary"
+subtitle: "Skład Apostolski; etap Wyznania Wiary"
 section: "liturg"
 color: "liturg"
 tone: "d"

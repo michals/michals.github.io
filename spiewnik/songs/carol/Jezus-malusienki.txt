@@ -1,0 +1,130 @@
+===
+title: "Jezus malusieńki"
+section: "carol"
+color: "carol"
+tone: "a"
+songid: "S714JezusMalusienki"
+author:
+  - "tr"
+year: 1754
+address:
+  - what: "Łk"
+    where: "2, 16"
+  - what: "*KOL"
+    where: ""
+  - what: "*DZI"
+    where: ""
+children: true
+index:
+  - "albo"
+  - "chylić"
+  - "dać"
+  - "dosyć"
+  - "Dziecię"
+  - "Dziecina"
+  - "dzieje"
+  - "główeczka"
+  - "głowa"
+  - "hetman"
+  - "Jezus"
+  - "kolebeczka"
+  - "kwilić"
+  - "łzy"
+  - "lać"
+  - "leżeć"
+  - "lili"
+  - "żal"
+  - "żłób"
+  - "żłóbek"
+  - "malusieńki"
+  - "matula"
+  - "matusia"
+  - "męka"
+  - "mieszkać"
+  - "mieszkanie"
+  - "miłość"
+  - "najwyższy"
+  - "nóżki"
+  - "nosić"
+  - "okryć"
+  - "On"
+  - "otwarty"
+  - "pałac"
+  - "pójść"
+  - "Pan"
+  - "piękny"
+  - "płakać"
+  - "poduszeczka"
+  - "położyć"
+  - "prosić"
+  - "przestać"
+  - "przysposobić"
+  - "rąbek"
+  - "rączka"
+  - "serce"
+  - "serdeczny"
+  - "sianko"
+  - "siano"
+  - "stajenka"
+  - "sukienka"
+  - "Syn"
+  - "truchleć"
+  - "twardy"
+  - "ubogi"
+  - "uwinąć"
+  - "waleczny"
+  - "wczas"
+  - "wśród"
+  - "wola"
+  - "wyrzucić"
+  - "zdjąć"
+  - "zimno"
+  - "znieść"
+  - "związany"
+  - "zwyciężony"
+===
+
+[a]Jezus malu[E7]sieńki,
+[a]leży wśród sta[E7]jenki,
+[d]Płacze z zimna, [C]nie dała mu
+[G]Matula su[C]kienki.
+
+[a]Bo uboga [E7]była,
+[a]rąbek z głowy [E7]zdjęła,
+[d]W który Dziecię [C]uwinąwszy,
+[G]siankiem Go o[C]kryła.
+
+[a]Nie ma kole[E7]beczki,
+[a]ani podu[E7]szeczki,
+[d]We żłobie Mu [C]położyła
+[G]siana pod głó[C]weczki.
+
+[a]Dziecina się [E7]kwili,
+[a]Malusieńka [E7]lili,
+[d]W nóżki zimno, [C]żłóbek twardy,
+[G]stajenka się [C]chyli.
+
+[a]Matusia tru[E7]chleje,
+[a]serdeczne łzy [E7]leje,
+[d]O mój Synu! [C]Wola Twoja,
+[G]nie moja się [C]dzieje.
+
+[a]Przestań płakać, [E7]proszę,
+[a]bo żalu nie [E7]zniosę,
+[d]Dosyć go mam [C]z męki Twojej,
+[G]którą w sercu [C]noszę.
+
+[a]O najwyższy [E7]Panie!
+[a]Waleczny Het[E7]manie!
+[d]Zwyciężonyś, [C]mając rączki
+[G]miłością zwią[C]zane.
+
+[a]Pójdź do serca [E7]mego,
+[a]Tobie otwar[E7]tego,
+[d]Przysposób je [C]do mieszkania
+[G]i wczasu swo[C]jego.
+
+[a]Albo mi daj [E7]swoje,
+[a]wyrzuciwszy [E7]moje,
+[d]Tak będziesz miał [C]piękny pałac,
+[G]na mieszkanie [C]Twoje.

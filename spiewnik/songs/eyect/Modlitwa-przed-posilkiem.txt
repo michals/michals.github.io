@@ -1,0 +1,73 @@
+===
+title: "Modlitwa przed posiłkiem"
+subtitle: "Ty jesteś chlebem ubogich"
+section: "eyect"
+color: "eyect"
+tone: "C"
+songid: "S085ModlitwaPrzedPosilkiem"
+author:
+  - "MM"
+year: 1983
+address:
+  - what: "["
+    where: "p"
+alttone:
+  - "D"
+knownas:
+  - "Beracha"
+  - "1967"
+yhwh: true
+index:
+  - "biedny"
+  - "chleb"
+  - "dawać"
+  - "deszcz"
+  - "dzięki"
+  - "iść"
+  - "Jahwe"
+  - "karmić"
+  - "święty"
+  - "moc"
+  - "niebieski"
+  - "Pan"
+  - "pokazać"
+  - "posyłać"
+  - "ptaki"
+  - "radość"
+  - "radować"
+  - "ramię"
+  - "resztka"
+  - "siła"
+  - "spiekota"
+  - "szeol"
+  - "szukać"
+  - "trawa"
+  - "tron"
+  - "ubogi"
+  - "wkoło"
+  - "władca"
+  - "wszyscy"
+  - "wzrost"
+  - "zły"
+  - "zrzucić"
+===
+
+W:
+[C]Ty jesteś chlebem ubogich,
+jesteś radością dla [G]wszystkich.
+O, Panie, dzięki [C]Ci.
+
+Ty karmisz ptaki niebieskie,
+[F]posyłasz deszcz swój i dajesz wzrost [C]trawie.
+O, Panie, [G]dzięki [C]Ci,
+o, Panie, [G]dzięki [C]Ci.
+
+W:
+[C]Biedni szukają Cię wkoło,
+sił resztką idą w spie[G]kocie
+by się radować w Jah[C]we.
+
+Pokaż moc swego ramienia,
+[F]zrzuć do Szeoluzłych władców z ich [C]tronów.
+Któż święty [G]jak Jah[C]we,
+któż święty [G]jak Jah[C]we?

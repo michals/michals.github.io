@@ -1,0 +1,33 @@
+===
+title: "Żyjcie radośni (wersja włoska)"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S926ZyjcieRadosni"
+author:
+  - "K"
+year: 2020
+address:
+  - what: "Flp"
+    where: "4, 4n"
+===
+
+W:
+[a]Żyjcie radośni,
+Pan już jest [E]blisko.
+Żyjcie radośni,
+Pan już jest [a]blisko.
+Żyjcie ra[A7]dośni,
+przyjścia Pana nadszedł [d]czas,
+i wybawi [a]nas,
+i wybawi [E]nas,
+i wybawi [a]nas.
+K:
+Od[A]wagi,
+nie bój[A7]cie się,
+przyjścia Pana nadszedł [d]czas
+i wybawi [a]nas,
+i wybawi [E]nas,
+i wybawi [a]nas.
+W:
+[a]Żyjcie radośni, …

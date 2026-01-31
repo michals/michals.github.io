@@ -1,0 +1,107 @@
+===
+title: "Rzekł Pan do Pana mego"
+section: "precate"
+color: "precate"
+tone: "E"
+songid: "S115RzeklPanDoPanaMego"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "110"
+  - what: "*OPA"
+    where: ""
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "1987"
+index:
+  - "berło"
+  - "droga"
+  - "głowa"
+  - "jako"
+  - "jutrzenka"
+  - "kapłan"
+  - "łono"
+  - "żal"
+  - "Melchizedek"
+  - "naród"
+  - "nieprzyjaciel"
+  - "On"
+  - "Pan"
+  - "panować"
+  - "podnóżek"
+  - "podnieść"
+  - "położyć"
+  - "pośród"
+  - "potok"
+  - "pragnienie"
+  - "prawica"
+  - "przysiąc"
+  - "rosa"
+  - "rozpościerać"
+  - "rzec"
+  - "sądzić"
+  - "siąść"
+  - "stopa"
+  - "Syjon"
+  - "ugasić"
+  - "wiek"
+  - "władza"
+  - "woda"
+  - "wróg"
+  - "wszystek"
+  - "wysoki"
+  - "wzór"
+  - "zniweczyć"
+  - "zrodzić"
+===
+
+KW:
+[E]Rzekł Pan do Pana mego:
+„[Gis]Siądź po mojej prawicy,
+aż po[A]łożę twych nieprzyjaciół
+[E]jak podnóżek pod Twe stopy,
+[H7]jak podnóżek pod Twe [E]stopy,
+[H7]jak podnóżek pod Twe [E]stopy”.
+
+K:
+[cis]Berło Twojej [Gis]władzy
+[H]rozpościera Pan z Sy[Gis]jonu:
+„[A]Panuj pośród swoich w[E]rogów,
+[H7]panuj pośród swoich w[E]rogów.
+[cis]Z łona jut[Gis]rzenki
+[H]jako rosę Cię zro[Gis]dziłem,
+[A]z łona jut[E]rzenki
+[H7]jako rosę Cię zro[E]dziłem”.
+
+W:
+[E]Rzekł Pan do Pana mego:
+„[Gis]Siądź po mojej prawicy,
+aż [A]położę Twych nieprzyjaciół
+[E]jak podnóżek pod Twe stopy,
+[H7]jak podnóżek pod Twe [E]stopy,
+[H7]jak podnóżek pod Twe [E]stopy”.
+
+K:
+[cis]Pan przysiągł i żal Mu nie [Gis]będzie:
+„[A]Tyś jest kapłanem na [E]wieki
+[H7]na wzór Melchize[E]deka,
+[H7]na wzór Melchize[E]deka”.
+[cis]Pan jest po Twojej pra[Gis]wicy,
+[H]zniweczy wszystkich Twoich [Gis]wrogów,
+[A]będzie sądził na[E]rody,
+[H7]będzie sądził na[E]rody.
+[cis]Bowiem w drodze ugasi pragnienie wodą z po[Gis]toku
+[H]i podniesie głowę wy[Gis]soko,
+[A]i podniesie głowę wy[E]soko,
+[H7]i podniesie głowę wy[E]soko.
+
+W:
+[E]Rzekł Pan do Pana mego:
+„[Gis]Siądź po mojej prawicy,
+aż po[A]łożę twych nieprzyjaciół
+[E]jak podnóżek pod twe stopy,
+[H7]jak podnóżek pod twe [E]stopy,
+[H7]jak podnóżek pod twe [E]stopy”.

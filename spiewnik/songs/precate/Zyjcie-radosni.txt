@@ -1,0 +1,48 @@
+===
+title: "Żyjcie radośni"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S156ZyjcieRadosni"
+author:
+  - "K"
+year: 2016
+address:
+  - what: "Flp"
+    where: "4, 4n"
+  - what: "*OAD"
+    where: ""
+knownas:
+  - "1967"
+index:
+  - "bać"
+  - "bliski"
+  - "dzielny"
+  - "żyć"
+  - "On"
+  - "Pan"
+  - "przyjść"
+  - "radosny"
+  - "wczas"
+  - "zbawić"
+===
+
+W:
+[a]Radośni żyjcie,
+bo nasz Pan jest już [E]blisko.
+Radośni żyjcie,
+bo nasz Pan jest już [a]blisko.
+Ra[A]dośni [A7]żyjcie,
+bo nasz Pan przyjdzie [d]wczas,
+i On zbawi [a]nas,
+i On zbawi [E]nas,
+i On zbawi [a]nas.
+K:
+Dzielnym [A]bądź,
+nie bój [A7]się,
+bo nasz Pan przyjdzie [d]wczas,
+i On zbawi [a]nas,
+i On zbawi [E]nas,
+i On zbawi [a]nas.
+W:
+[a]Radośni żyjcie, …

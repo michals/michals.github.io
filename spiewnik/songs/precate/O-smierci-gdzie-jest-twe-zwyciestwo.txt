@@ -1,0 +1,118 @@
+===
+title: "O śmierci, gdzie jest twe zwycięstwo?"
+section: "precate"
+color: "precate"
+tone: "D"
+songid: "S051OSmierciGdzieJestTweZwyciestwo"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "1 Kor"
+    where: "15, 1-8.52-57"
+  - what: "*OPA"
+    where: ""
+  - what: "*KOM"
+    where: ""
+knownas:
+  - "W jednej chwili"
+  - "Dlatego śpiewajmy"
+  - "Zwycięstwo śmierć pochłonęło"
+index:
+  - "alleluja"
+  - "brat"
+  - "Chrystus"
+  - "chwila"
+  - "dlatego"
+  - "dwanaście"
+  - "ewangelia"
+  - "głos"
+  - "grzech"
+  - "jeden"
+  - "Jezus"
+  - "koniec"
+  - "śmierć"
+  - "śpiewać"
+  - "leżeć"
+  - "mówić"
+  - "martwy"
+  - "nieskazitelność"
+  - "ogłosić"
+  - "okamgnienie"
+  - "oścień"
+  - "ostateczny"
+  - "otrzymać"
+  - "pięćset"
+  - "Piotr"
+  - "pismo"
+  - "pochłonąć"
+  - "ponad"
+  - "potem"
+  - "powrócić"
+  - "powstać"
+  - "prawo"
+  - "przemienić"
+  - "przypominać"
+  - "raz"
+  - "sam"
+  - "siła"
+  - "trąba"
+  - "ukazać"
+  - "umarły"
+  - "zabrzmieć"
+  - "zemrzeć"
+  - "zmartwychwstały"
+  - "zwyciężyć"
+  - "zwycięstwo"
+===
+
+K:
+[dNmS]W jednej chwili, w jednym okamgnieniu,
+[a]na głos [aX]trąby osta[D7]tecznej, albowiem zabrzmi trąba,
+[G]a umarli [h]powstaną w nieskazitelności,
+a [C]my bę[a]dziemy przemie[Fis]nieni.
+W:
+Dlatego śpie[D]wamy:
+Zwycięstwo śmierć pochłonęło! Alleluja, alleluja.
+Gdzież jest, o śmierci, twe zwy[Fis]cięstwo? Alleluja, alleluja.
+Gdzież jest, o śmierci, oścień [h]twój? Alleluja, alleluja.
+
+K:
+[A]Ościeniem śmierci jest grzech,
+a siła grzechu leży [G]w prawie;
+ale my zwyciężyliśmy
+w Jezusie Chrystusie zmartwych[Fis]wstałym.
+W:
+Dlatego śpie[D]wamy:
+Zwycięstwo śmierć pochłonęło! Alleluja, alleluja.
+Gdzież jest, o śmierci, twe zwy[Fis]cięstwo? Alleluja, alleluja.
+Gdzież jest, o śmierci, oścień [h]twój? Alleluja, alleluja.
+Alle[A]luja, alle[G]luja, allelu[Fis]ja.
+
+K:
+Przypominam wam, [D]bracia, Ewan[A]gelię,
+którą wam ogło[G]siłem,
+którą [G]też sam otrzy[Fis]małem:
+że [D]Chrystus zmarł za grzechy,
+W:
+tak jak mówią Pisma!
+K:
+i że powrócił [Fis]z martwych,
+W:
+tak jak mówią Pisma!
+K:
+i że ukazał się Pio[h]trowi,
+a potem Dwu[A]nastu,
+a potem na raz ponad pięciuset [G]braciom,
+a na końcu ukazał się [Fis]mnie.
+W:
+Dlatego śpie[D]wamy:
+Zwycięstwo śmierć pochłonęło!
+Alleluja, alleluja.
+Gdzież jest, o śmierci, twe zwy[Fis]cięstwo?
+Alleluja, alleluja.
+Gdzież jest, o śmierci, oścień [h]twój?
+Alleluja, alleluja.
+Alle[A]luja, alle[G]luja, allelu[Fis]ja.
+
+114]54.1

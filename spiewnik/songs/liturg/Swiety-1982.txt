@@ -1,0 +1,56 @@
+===
+title: "Święty 1982"
+section: "liturg"
+color: "liturg"
+tone: "a"
+songid: "S007Swiety1983"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "*MSZ"
+    where: ""
+knownas:
+  - "Święty Rzymskie 1982"
+  - "1982"
+index:
+  - "Bóg"
+  - "błogosławiony"
+  - "chwała"
+  - "hosanna"
+  - "iść"
+  - "imię"
+  - "święty"
+  - "niebiosa"
+  - "niebo"
+  - "Pan"
+  - "pełny"
+  - "wszechświat"
+  - "wysoki"
+  - "ziemia"
+===
+
+{{{ 2x
+W:
+[a]Święty, święty, święty,
+[G]święty jest [a]Pan,
+}}}
+[G]Pan Bóg wszech[a]świata!
+K:
+[F]Niebiosa i [E]ziemia są [F]pełne Twojej [E]chwały.
+{{{ 2x
+W:
+[a]Hosanna! Hosanna! [d]Hosanna! Hosanna
+na [F]niebie wy[E]sokim.
+}}}
+K:
+[a]Błogosławiony Ten, który idzie,
+który [d]idzie w imię [E]Pana,
+który [d]idzie w imię [E]Pana!
+{{{ 2x
+W:
+[a]Hosanna! Hosanna! [d]Hosanna! Hosanna
+na [F]niebie wy[E]sokim.
+}}}
+
+252]7.1

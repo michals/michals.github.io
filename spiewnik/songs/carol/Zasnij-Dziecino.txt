@@ -1,0 +1,63 @@
+===
+title: "Zaśnij, Dziecino"
+section: "carol"
+color: "carol"
+tone: "a"
+songid: "S721ZasnijDziecino"
+author:
+  - "FR"
+  - "AU"
+year: 1903
+address:
+  - what: "Łk"
+    where: "2, 16"
+  - what: "*KOL"
+    where: ""
+  - what: "*DZI"
+    where: ""
+children: true
+index:
+  - "anielski"
+  - "błogosławić"
+  - "cały"
+  - "chór"
+  - "chwała"
+  - "dar"
+  - "Dziecię"
+  - "Dziecina"
+  - "głosić"
+  - "hojny"
+  - "świat"
+  - "święty"
+  - "życie"
+  - "modlitwa"
+  - "oczęta"
+  - "oddać"
+  - "pasterz"
+  - "pociecha"
+  - "rączka"
+  - "serce"
+  - "uśpić"
+  - "wznieść"
+  - "zasnąć"
+  - "zmrużyć"
+  - "znosić"
+===
+
+[a]Zaśnij, Dziecino, [d]Święte Dzie[E7]cię.
+[a]Tyś nam po[F]ciechą [G]na tym świe[C]cie.
+
+[G]Zmruż oczęta [C]swoje [E7]tyś serce [a]moje
+[d]Modlitwa [a]moja niech [E7]uśpi [a]Cię.
+
+[a]Wznieś rączkę swoją [d]błogosław [E7]nam.
+[a]Całe swe [F]życie [G]Tobie od[C]dam.
+
+[G]Zmruż oczęta [C]swoje [E7]tyś serce [a]moje
+[d]Modlitwa [a]moja niech [E7]uśpi [a]Cię.
+
+[a]Anielskie chóry [d]chwałę gło[E7]szą,
+[a]Pasterze [F]hojnie [G]dary zno[C]szą.
+
+[G]Zmruż oczęta [C]swoje [E7]tyś serce [a]moje
+[d]Modlitwa [a]moja niech [E7]uśpi [a]Cię.

@@ -1,0 +1,82 @@
+===
+title: "Oto Ja niebawem przyjdę"
+section: "precate"
+color: "precate"
+tone: "E"
+songid: "S054OtoJaNiebawemPrzyjde"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ap"
+    where: "22, 12-16"
+  - what: "*WEJ"
+    where: ""
+  - what: "*OAD"
+    where: ""
+knownas:
+  - "1967"
+  - "Błogosławieni, którzy płuczą swe szaty"
+  - "Jestem Alfa i Omega"
+index:
+  - "alfa"
+  - "błogosławiony"
+  - "czyn"
+  - "dać"
+  - "dawidowy"
+  - "drzewo"
+  - "gwiazda"
+  - "iść"
+  - "każdy"
+  - "koniec"
+  - "korzeń"
+  - "świecący"
+  - "życie"
+  - "niebawem"
+  - "omega"
+  - "ostatni"
+  - "otrzymać"
+  - "Pierwszy"
+  - "płukać"
+  - "początek"
+  - "poranny"
+  - "potomek"
+  - "prawo"
+  - "przyjść"
+  - "szaty"
+  - "według"
+  - "zapłata"
+===
+
+K:
+[E]Oto [A]Ja niebawem przyjdę,
+ze mną [E]idzie ma zapłata,
+którą [H]dam każdemu
+według czynów j[E]ego.
+
+[E7]Jestem Alfa i O[A]mega,
+jestem Pierwszy i O[E]statni,
+jestem Pierwszy i O[H]statni,
+Jam Początek, Jam [E]Koniec.
+
+{{{ 2x
+W:
+[E7]Błogosła[A]wieni,
+którzy płuczą swe [E]szaty,
+aby otrzymać [H]prawo
+do drzewa [E]życia.
+}}}
+
+K:
+[Cis]Jam jest
+Dawidowy Korzeń [fis]i Potomek.
+Jam [Cis]Gwiazda
+świecąca po[fis]ranna[E].
+
+{{{ 2x
+W:
+[E7]Błogosła[A]wieni,
+którzy płuczą swe [E]szaty,
+aby otrzymać [H]prawo
+do drzewa [E]życia.
+}}}

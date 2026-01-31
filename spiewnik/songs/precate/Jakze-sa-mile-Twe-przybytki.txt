@@ -1,0 +1,111 @@
+===
+title: "Jakże są miłe Twe przybytki"
+section: "precate"
+color: "precate"
+tone: "C"
+songid: "S094JakzeSaMileTwePrzybytki"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "84"
+  - what: "*WEJ"
+    where: ""
+  - what: "*OWP"
+    where: ""
+alttone:
+  - "Es"
+knownas:
+  - "Szczęśliwy, kto mieszka w Twym domu"
+  - "Przechodząc przez dolinę płaczu"
+  - "1978"
+index:
+  - "Bóg"
+  - "chwała"
+  - "dolina"
+  - "dom"
+  - "droga"
+  - "droższy"
+  - "dusza"
+  - "dzień"
+  - "gniazdo"
+  - "inny"
+  - "jakże"
+  - "jaskółka"
+  - "jeden"
+  - "Król"
+  - "śpiewać"
+  - "święta"
+  - "lepiej"
+  - "żyć"
+  - "życie"
+  - "źródło"
+  - "ludzie"
+  - "mieszkać"
+  - "miły"
+  - "możny"
+  - "odbyć"
+  - "ołtarz"
+  - "osiągnąć"
+  - "pałac"
+  - "Pan"
+  - "płacz"
+  - "podróż"
+  - "pożądać"
+  - "postanawiać"
+  - "pragnąć"
+  - "próg"
+  - "przechodzić"
+  - "przedsionek"
+  - "przy"
+  - "przybytek"
+  - "rosnąć"
+  - "schronienie"
+  - "serce"
+  - "siła"
+  - "stać"
+  - "Syjon"
+  - "szczęśliwy"
+  - "tysiące"
+  - "wróbel"
+  - "zamieniać"
+  - "zamieszkiwać"
+  - "zastęp"
+  - "zawsze"
+  - "znajdować"
+===
+
+K:
+[C]Jakże są [e]miłe Twe przy[a]bytki,
+[C]Panie, Panie zas[e]tępów!
+Dusza [F]moja pożąda i [C]pragnie
+żyć w przedsionkach [G]Pana.([C] [e] [a])
+[C]Także wróbel znaj[e]duje schro[a]nienie,
+[C]jaskółka swoje [e]gniazdo
+przy [F]Twoich ołtarzach, [C]Panie,
+mój Królu i mój [G]Boże,
+W:
+mój Królu i mój [C]Boże.
+W:
+Szczęś[F]liwy, kto mieszka w Twym [C]domu,
+zawsze śpiewa Twoją [G]chwałę, zawsze śpiewa Twoją [C]chwałę.
+Szczęś[F]liwy, kto znajduje w Tobie [C]siłę
+i postanawia w swym [G]sercu odbyć świętą [C]podróż.
+{{{ 2x
+W:
+Przechodząc przez do[e]linę [a]płaczu,
+za[C]mienia ją w źródło [e]życia;
+[F]rośnie w drodze jego [C]siła,
+aż osiągnie [G]Syjon, aż osiągnie [C]Syjon.
+K:
+Jeden [F]dzień w Twych przedsionkach, [C]Panie,
+jest mi droższy niż innych ty[G]siące,
+W:
+jest mi droższy niż innych ty[C]siące.
+K:
+Lepiej [F]stać na progu Twego [C]domu,
+niż zamiesz[G]kiwać pałace ludzi [C]możnych.
+}}}
+
+113]72

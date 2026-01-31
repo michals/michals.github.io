@@ -1,0 +1,114 @@
+===
+title: "W noc pełną ciemności"
+subtitle: "Święty Jan od Krzyża"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S291WNocPelnaCiemnosci"
+author:
+  - "K"
+year: 2000
+alttone:
+  - "h"
+knownas:
+  - "O nocy, coś prowadziła"
+  - "2000"
+  - "Noc ciemna"
+  - "Jan od Krzyża"
+  - "Droga na Górę Karmel"
+index:
+  - "bezpieczny"
+  - "blask"
+  - "ciemności"
+  - "dobry"
+  - "dom"
+  - "inny"
+  - "jutrzenka"
+  - "światło"
+  - "los"
+  - "miłość"
+  - "miłować"
+  - "miły"
+  - "milszy"
+  - "nic"
+  - "nikt"
+  - "noc"
+  - "oczekiwać"
+  - "owy"
+  - "patrzeć"
+  - "pełny"
+  - "pewnie"
+  - "płonąć"
+  - "po kryjomu"
+  - "podczas"
+  - "południe"
+  - "prócz"
+  - "prowadzenie"
+  - "prowadzić"
+  - "przebranie"
+  - "przemienić"
+  - "rozpalony"
+  - "schody"
+  - "serce"
+  - "spostrzec"
+  - "szczęśliwy"
+  - "tajemny"
+  - "tęsknota"
+  - "ukryć"
+  - "widać"
+  - "widzieć"
+  - "wiele"
+  - "wyciszyć"
+  - "wyjść"
+  - "złączyć"
+  - "znać"
+===
+
+KW:
+[a]W noc pełną ciemności
+tęskno[d]tami, w miłości rozpa[E]lona,
+[d]o losie szczę[F]śliwy!
+Wyszłam [d]nie spostrzeżona,
+podczas, gdy mój dom był już wyci[E]szony.
+
+K:
+[a]W ciemności i bezpieczna,
+po scho[d]dach tajemnych, w prze[E]braniu,
+o losie szczę[F]śliwy!
+W ciemności dobrze u[d]kryta,
+podczas, gdy mój dom był już wyci[E]szony.
+
+K:
+[d]Owej nocy szczęśli[E]wej,
+po kry[d]jomu tak, że nikt [F]mnie nie widział,
+ja nie patrzyłam na nic,
+[d]bez światła i prowadzenia,
+prócz tego, które w mym sercu pło[E]nęło.
+
+K:
+[a]I to mnie prowa[dNmS]dziło
+o wiele pewniej, niż światło po[a]łudnia,
+tam, gdzie mnie ocze[E]kiwał
+ten, kogo dobrze [a]znałam,
+gdzie nie [d]było widać nikogo in[E]nego.
+
+KW:
+[a]O nocy, coś prowa[dNmS]dziła!
+O nocy milsza od blasku ju[a]trzenki,
+o nocy, coś złą[E]czyła
+Mi[F]łego z miłowaną,
+miło[d]waną w Miłego przemie[E]nioną.
+
+W:
+[a]W noc pełną ciemności
+tęskno[d]tami, w miłości rozpa[E]lona,
+[d]o losie szczę[F]śliwy!
+Wyszłam nie spostrze[d]żona,
+podczas, gdy mój dom [E]był już wyciszony.
+
+W:
+[a]O nocy, coś prowa[dNmS]dziła!
+O nocy milsza od blasku ju[a]trzenki,
+o nocy, coś złą[E]czyła
+Mi[F]łego z miłowaną,
+miło[d]waną w Miłego przemie[E]nioną.

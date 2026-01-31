@@ -1,0 +1,308 @@
+===
+title: "Nie umrę, nie"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S084NieUmreNie"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "118"
+  - what: "*PAS"
+    where: ""
+knownas:
+  - "Ukarał mnie"
+  - "Otoczyli mnie"
+  - "Wysławiajcie Pana, bo jest dobry"
+  - "Miłosierdzie Jego trwa na wieki"
+  - "Kamień odrzucony przez budujących"
+  - "1984"
+index:
+  - "Aaron"
+  - "bać"
+  - "Bóg"
+  - "błogosławić"
+  - "błogosławiony"
+  - "brama"
+  - "cud"
+  - "cudowny"
+  - "człowiek"
+  - "czoło"
+  - "dać"
+  - "dobry"
+  - "dom"
+  - "dzięki"
+  - "dzieło"
+  - "dzień"
+  - "gałązka"
+  - "iść"
+  - "imię"
+  - "Izrael"
+  - "kamień"
+  - "śmierć"
+  - "światło"
+  - "lękać"
+  - "lepiej"
+  - "żyć"
+  - "ludzie"
+  - "móc"
+  - "mówić"
+  - "miłosierdzie"
+  - "moc"
+  - "możny"
+  - "namiot"
+  - "ocalić"
+  - "odpowiedzieć"
+  - "ogłaszać"
+  - "oko"
+  - "okrzyki"
+  - "ołtarz"
+  - "On"
+  - "orszak"
+  - "osaczyć"
+  - "otoczyć"
+  - "otworzyć"
+  - "Pański"
+  - "Pan"
+  - "pieśń"
+  - "pokładać"
+  - "pokonać"
+  - "pomoc"
+  - "popychać"
+  - "pragnąć"
+  - "radość"
+  - "radować"
+  - "róg"
+  - "rzeczy"
+  - "składać"
+  - "sprawiedliwość"
+  - "sprawiedliwy"
+  - "stać"
+  - "stawić"
+  - "trwać"
+  - "uciec"
+  - "uczynić"
+  - "udręka"
+  - "ufność"
+  - "ukarać"
+  - "umrzeć"
+  - "ustawić"
+  - "węgielny"
+  - "wchodzić"
+  - "wejść"
+  - "weselić"
+  - "więc"
+  - "wiek"
+  - "wielbić"
+  - "wielki"
+  - "wołać"
+  - "wróg"
+  - "wydać"
+  - "wysławiać"
+  - "wysłuchać"
+  - "zbawienie"
+  - "zielony"
+  - "złożyć"
+  - "zrobić"
+  - "zwycięstwo"
+===
+
+{{{ 2x
+K:
+[a]Nie umrę, nie,
+W:
+lecz będę żył
+}}}
+K:
+i o[F]głaszał
+W:
+wielkie dzieła [E7]Pana!
+{{{ 2x
+K:
+Ukarał [a]mnie,
+W:
+ukarał mnie,
+}}}
+K:
+ale [F]mnie
+W:
+na śmierć nie [E7]wydał!
+
+K:
+Wysła[a]wiajcie Pana, bo jest dobry.
+W:
+Miło[F]sierdzie Jego trwa na [E7]wieki.
+K:
+Niech [a]mówi dom Izraela:
+W:
+Miło[F]sierdzie Jego trwa na [E7]wieki.
+K:
+Niech [a]mówi dom Aarona:
+W:
+Miło[F]sierdzie Jego trwa na [E7]wieki.
+K:
+Niech [a]mówi, kto się boi Pana:
+W:
+Miło[F]sierdzie Jego trwa na [E7]wieki.
+K:
+⌜W u[C]dręce wołałem do Pana.
+W:
+[F]Odpowiedział mi Pan i mnie o[E7]calił.
+
+K:
+[a]Pan jest ze mną, więc się nie lękam.
+W:
+[F]Cóż mi może zrobić [E7]człowiek?
+K:
+[a]Pan jest ze mną, jest mą pomocą.
+W:
+[F]Stawię czoła moim [E7]wrogom.
+
+K:
+⌜[C]Lepiej się uciec do Pana,
+W:
+niż [F]ufność pokładać w czło[E7]wieku.
+K:
+⌜[C]Lepiej się uciec do Pana,
+W:
+niż [F]ufność pokładać [E7]w możnych.
+
+{{{ 2x
+K:
+[a]Otoczyli mnie,
+W:
+otoczyli mnie,
+}}}
+K:
+lecz w imię [F]Pana
+W:
+ich poko[E7]nałem!
+{{{ 2x
+K:
+[a]Osaczyli mnie,
+W:
+osaczyli mnie,
+}}}
+K:
+lecz w imię [F]Pana
+W:
+ich poko[E7]nałem!
+{{{ 2x
+K:
+[a]Popychali mnie,
+W:
+popychali mnie,
+}}}
+K:
+ale [F]Pan
+W:
+stał się mą po[E7]mocą.
+
+K:
+⌜Mą [C]mocą i mą pieśnią jest Pan,
+W:
+On [F]stał się moim zba[E7]wieniem.
+K:
+⌞O[F]krzyki radości i zwy[E7]cięstwa
+W:
+w na[F]miotach ludzi sprawie[E7]dliwych.
+
+K:
+⌜Pra[C]wica Pańska jest podniesiona,
+W:
+uczy[F]niła dla nas cudowne [E7]rzeczy.
+
+{{{ 2x
+K:
+[a]Nie umrę, nie,
+W:
+lecz będę żył
+}}}
+K:
+i o[F]głaszał
+W:
+wielkie dzieła [E7]Pana!
+{{{ 2x
+K:
+Ukarał [a]mnie,
+W:
+ukarał mnie,
+}}}
+K:
+ale [F]mnie
+W:
+na śmierć nie [E7]wydał!
+
+K:
+⌜O[C]twórzcie mi bramy sprawiedliwości,
+W:
+[F]wejdę w nie, by złożyć dzięki [E7]Panu.
+K:
+⌞[F]Oto jest brama [E7]Pana,
+W:
+[F]przez nią wchodzą sprawie[E7]dliwi.
+K:
+⌜[C]Dzięki Ci składam, że mnie wysłuchałeś,
+W:
+[F]że stałeś się moim zba[E7]wieniem.
+
+K:
+⌜[C]Kamień odrzucony przez budujących
+W:
+[F]stał się kamieniem wę[E7]gielnym.
+
+K:
+⌞[F]Oto jest dzieło [E7]Pana,
+W:
+[F]cudem jest w naszych [E7]oczach.
+
+K:
+⌜[C]Oto jest dzień, który Pan uczynił,
+W:
+ra[F]dujmy się w nim i we[E7]selmy!
+
+K:
+⌞[F]Daj, Panie, Twoje zba[E7]wienie,
+W:
+daj, [F]Panie, Twoje zwy[E7]cięstwo!
+K:
+⌜Błogosła[C]wiony Ten, który idzie            w imię naszego Pana.
+W:
+Błogosła[F]wimy Wam z domu Pań[E7]skiego,
+K:
+⌞[F]Pan Bóg, jest naszym [E7]światłem.
+W:
+U[F]stawcie orszak z gałązkamizielonymi aż do rogów oł[E7]tarza.
+K:
+⌞[F]Jesteś moim Bogiem, więc Ci dzięki [E7]składam,
+W:
+[F]Jesteś moim Bogiem, wielbić pragnę [E7]Ciebie.
+K:
+⌜Wysła[C]wiajcie Pana, bo jest dobry,
+W:
+miło[F]sierdzie Jego trwa na [E7]wieki.
+
+{{{ 2x
+K:
+[a]Nie umrę, nie,
+W:
+lecz będę żył
+}}}
+K:
+i o[F]głaszał
+W:
+wielkie dzieła [E7]Pana!
+{{{ 2x
+K:
+Ukarał [a]mnie.
+W:
+Ukarał mnie.
+}}}
+K:
+Ale [F]mnie
+W:
+na śmierć nie [E7]wydał!
+
+101]212

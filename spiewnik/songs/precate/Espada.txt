@@ -14,8 +14,6 @@ address:
     where: ""
   - what: "*MAR"
     where: ""
-alttone:
-  - "h"
 knownas:
   - "2011"
 index:
@@ -32,44 +30,46 @@ index:
   - "ostrze"
   - "prawa"
   - "strona"
-  - "Syn"
+  - "syn"
   - "wyostrzyć"
   - "zabić"
 ===
 
 KW:
-[a]Espada, e[ES]spada, bru[F]ñida para ma[ES]tar.
+[a]Espada, e[gisdimS]spada, bru[F]ñida para ma[E7]tar.
 KW:
-[C]Maria, Ma[ES]ria, [F]madre de [ES]Dios.
+[C]María, Ma[gisdimS] [F]ría, madre de [E7]Dios.
 
 K:
-[a]Krzycz, Synu czło[ES]wieczy,
-krzycz, Synu czło[a]wieczy.
-[d]Miecz jest dla mojego [ES]ludu,
-[F]miecz jest dla mojego [ES]ludu.
+[a]Krzycz, synu czło[E7]wieczy,
+krzycz, synu czło[a]wieczy.
+[d]Miecz jest dla mojego [E7]ludu,
+[F]miecz jest dla mojego [E7]ludu.
 W:
-[a]Espada, e[ES]spada, bru[F]ñida para ma[ES]tar.
+[a]Espada, e[gisdimS]spada, bru[F]ñida para ma[E7]tar.
 W:
-[C]Maria, Ma[ES]ria, [F]madre de [ES]Dios.
+[C]María, Ma[gisdimS] [F]ría, madre de [E7]Dios.
 
 K:
-[a]Odwróć się w twą prawą [ES]stronę,
-[d]odwróć się, odwróć się [ES]w lewo
-[d]Tam, gdzie twoje ostrza będą nasy[ES]cone,
-[F]tam, gdzie nasyci się moja [ES]dusza.
+[a]Odwróć się w twą prawą [E7]stronę,
+[d]odwróć się, odwróć się [E7]w lewo
+[d]Tam, gdzie twoje ostrza będą nasy[E7]cone,
+[F]tam, gdzie nasyci się moja [E7]dusza.
 W:
-[a]Espada, e[ES]spada, bru[F]ñida para ma[ES]tar.
+[a]Espada, e[gisdimS]spada, bru[F]ñida para ma[E7]tar.
 W:
-[C]Maria, Ma[ES]ria, [F]madre de [ES]Dios.
+[C]María, Ma[gisdimS] [F]ría, madre de [E7]Dios.
 
 K:
-[d]Wyostrzony, aby [ES]zabić,
-[F]wyostrzony, aby [ES]zabić.
-[a]Krzycz, Synu czło[ES]wieczy,
-[F]krzycz, Synu czło[a]wieczy.
-[d]Miecz jest dla mojego [ES]ludu,
-[F]miecz jest dla mojego [ES]ludu.
+[d]Wyostrzony, aby [E7]zabić,
+[F]wyostrzony, aby [E7]zabić.
+[a]Krzycz, synu czło[E7]wieczy,
+[F]krzycz, synu czło[a]wieczy.
+[d]Miecz jest dla mojego [E7]ludu,
+[F]miecz jest dla mojego [E7]ludu.
 W:
-[a]Espada, e[ES]spada, bru[F]ñida para ma[ES]tar.
+[a]Espada, e[gisdimS]spada, bru[F]ñida para ma[E7]tar.
 W:
-[C]Maria, Ma[ES]ria, [F]madre de [ES]Dios.
+[C]María, Ma[gisdimS] [F]ría, madre de [E7]Dios.
+
+42]82

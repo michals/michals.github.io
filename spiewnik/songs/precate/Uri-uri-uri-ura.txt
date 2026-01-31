@@ -1,0 +1,89 @@
+===
+title: "Urí, urí, urí, urá"
+subtitle: "Kolęda"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S073UriUriUra"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*DZI"
+    where: ""
+  - what: "*OBN"
+    where: ""
+  - what: "*KOL"
+    where: ""
+knownas:
+  - "Jak nazwą Go? Emmanuel"
+  - "Dziecina maleńka narodzi się"
+children: true
+index:
+  - "Betlejem"
+  - "cieśla"
+  - "Dzieciąteczko"
+  - "Dziecina"
+  - "Emmanuel"
+  - "la"
+  - "maleńki"
+  - "malusieńki"
+  - "Maryja"
+  - "matka"
+  - "narodzić"
+  - "nazwać"
+  - "ojciec"
+  - "On"
+  - "pam"
+  - "parapam"
+  - "przyjść"
+  - "rala"
+  - "urí"
+  - "urá"
+  - "wraz"
+===
+
+KW:
+U[e]rí, urí, urí, u[H7]rá,
+urí, urí, urí, u[e]rá,
+W:
+urí, urí, urí, u[H7]rá,
+pam pam, pam pam,         pam parapam [e]pam,
+pam pam, pam pam,        pam parapam [H7]pam,
+la rala la lala [e]la.
+
+KW:
+Dziecina maleńka narodzi [H7]się,
+Dziecina malu[e]sieńka.
+K:
+Jak nazwą Go? Emmanu[H7]el.
+W:
+Jak nazwą Go? Emmanu[e]el.
+Jak nazwą Go? Emmanu[H7]el.
+Przyjdź Dzieciąteczko, [e]przyjdź.
+
+W:
+U[e]rí, urí, urí, u[H7]rá,
+urí, urí, urí, u[e]rá,
+urí, urí, urí, u[H7]rá,
+pam pam, pam pam,         pam parapam [e]pam,
+pam pam, pam pam,        pam parapam [H7]pam,
+la rala la lala [e]la.
+
+KW:
+Matka Maryja jest w Bet[H7]lejem
+wraz z Jego ojcem [e]cieślą.
+K:
+Jak nazwą Go? Emmanu[H7]el.
+W:
+Jak nazwą Go? Emmanu[e]el.
+Jak nazwą Go? Emmanu[H7]el.
+Przyjdź Dzieciąteczko, [e]przyjdź.
+
+W:
+U[e]rí, urí, urí, u[H7]rá,
+urí, urí, urí, u[e]rá,
+urí, urí, urí, u[H7]rá,
+pam pam, pam pam,         pam parapam [e]pam,
+pam pam, pam pam,        pam parapam [H7]pam,
+la rala la lala [e]la.

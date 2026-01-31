@@ -1,0 +1,82 @@
+===
+title: "Ojciec, co jest w niebie"
+section: "eyect"
+color: "eyect"
+tone: "e"
+songid: "S510OjciecCoJestWNiebie"
+author:
+  - "GF"
+  - "SC"
+year: 2000
+address:
+  - what: "*INN"
+    where: ""
+knownas:
+  - "2000"
+  - "Zwyciężył moją śmierć"
+  - "Otworzył moje uszy"
+index:
+  - "biały"
+  - "dać"
+  - "darować"
+  - "dziś"
+  - "imię"
+  - "jeszcze"
+  - "krzyż"
+  - "śmierć"
+  - "życie"
+  - "naznaczyć"
+  - "niebo"
+  - "nowy"
+  - "Ojciec"
+  - "oko"
+  - "otworzyć"
+  - "podarować"
+  - "syn"
+  - "Syn"
+  - "szata"
+  - "ucho"
+  - "uczynić"
+  - "usta"
+  - "zanurzyć"
+  - "zapragnąć"
+  - "zwyciężyć"
+===
+
+W:
+[e]Ojciec co jest w niebie
+poda[D]rował mi [e]życie
+[e]a dziś zapragnął jeszcze
+u[D]czynić mnie swym [e]synem.
+
+K:
+Zwy[a]ciężył moją śmierć
+i [G]dał mi nowe imię,
+na[a]znaczył mnie swym [e]krzyżem,
+u[G]czynił [D7]mnie swym [e]synem.
+
+W:
+[e]Ojciec co jest w niebie
+poda[D]rował mi [e]życie
+[e]a dziś zapragnął jeszcze
+u[D]czynić mnie swym [e]synem.
+
+K:
+O[a]tworzył moje uszy,
+o[G]tworzył moje oczy,
+o[a]tworzył moje [e]usta,
+u[G]czynił [D7]mnie swym [e]synem.
+
+W:
+[e]Ojciec co jest w niebie
+poda[D]rował mi [e]życie
+[e]a dziś zapragnął jeszcze
+u[D]czynić mnie swym [e]synem.
+
+K:
+Za[a]nurzył mnie i w śmierci,
+i [G]w życiu Swego Syna,
+da[a]rował białą [e]szatę,
+n[G]owe [D7]życie [e]dla mnie.
+
+113]935

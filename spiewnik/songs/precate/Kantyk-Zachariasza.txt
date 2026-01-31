@@ -1,0 +1,138 @@
+===
+title: "Kantyk Zachariasza"
+subtitle: "Benedictus"
+section: "precate"
+color: "precate"
+tone: "d"
+songid: "S050KantykZachariasza"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Łk"
+    where: "1, 68-79"
+  - what: "*HYM"
+    where: ""
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "Błogosławion niech będzie Pan"
+index:
+  - "Abraham"
+  - "Bóg"
+  - "błogosławiony"
+  - "cień"
+  - "ciemności"
+  - "czas"
+  - "dać"
+  - "Dawid"
+  - "dawny"
+  - "dom"
+  - "droga"
+  - "dzięki"
+  - "dziecina"
+  - "dzień"
+  - "grzech"
+  - "Izrael"
+  - "krok"
+  - "śmierć"
+  - "świętość"
+  - "święty"
+  - "żyć"
+  - "lud"
+  - "miłosierdzie"
+  - "najwyższy"
+  - "nawiedzić"
+  - "nienawidzić"
+  - "oblicze"
+  - "obwieszczać"
+  - "odkupić"
+  - "odpuścić"
+  - "ojciec"
+  - "okazać"
+  - "oświecić"
+  - "On"
+  - "pójść"
+  - "pamiętać"
+  - "Pan"
+  - "pokój"
+  - "potężny"
+  - "prorok"
+  - "przygotować"
+  - "przymierze"
+  - "przysięga"
+  - "ręka"
+  - "skierować"
+  - "słońce"
+  - "sługa"
+  - "służyć"
+  - "sprawiedliwość"
+  - "strach"
+  - "usta"
+  - "uwolnić"
+  - "wielki"
+  - "wróg"
+  - "wschodzić"
+  - "wszyscy"
+  - "wszystek"
+  - "wybawić"
+  - "wypełnić"
+  - "wyrwać"
+  - "wysoki"
+  - "wzbudzać"
+  - "zapowiedziany"
+  - "Zbawiciel"
+  - "zbawienie"
+  - "zgodny"
+  - "złożyć"
+  - "zostać"
+  - "zwać"
+===
+
+W:
+[d]Błogosławion niech będzie Pan,
+[g]Bóg Izra[d]ela,
+K:
+bo nawiedził i odkupił swój lud,
+W:
+wzbu[g]dzając potężnego Zbawi[d]ciela
+w domu Da[A7]wida, swojego [d]sługi.
+
+K:
+Zgodnie [g]z tym, co zostało zapowiedziane                          w dawnych [d]czasach
+przez [g]usta Jego świętych pro[d]roków,
+że nas wy[A7]bawi od naszych wrogów        i z ręki wszystkich, co nas niena[d]widzą.
+Wy[g]pełnił tak swoje miło[d]sierdzie,które o[g]kazał ojcom [d]naszym,
+pamię[A7]tając o swoim świętym przymierzu
+i przysiędze złożonej ojcu naszemu Abraha[d]mowi,
+że [g]da nam, byśmy uwolnieni od [d]strachu
+i wyr[g]wani z ręki naszych [d]wrogów,
+[A7]służyli Mu w świętości i sprawiedliwości
+przed Jego obliczem przez wszystkie dni [d]nasze.
+
+W:
+[d]Błogosławion niech będzie Pan,
+[g]Bóg Izra[d]ela,
+K:
+bo nawiedził i odkupił swój lud,
+W:
+wzbu[g]dzając potężnego Zbawi[d]ciela
+w domu Da[A7]wida, swojego [d]sługi.
+
+K:
+A [g]ty, dziecino, zwać się będziesz                   prorokiem Najwyż[d]szego,
+bo [g]pójdziesz przed Panem                       przygotować Jego [d]drogi,
+obwie[A7]szczając ludowi zbawienie                    i odpuszczenie jego [d]grzechów.
+Dzięki wiel[g]kiemu miłosierdziu Boga na[d]szego
+na[g]wiedzi nas Słońce wschodzące z wy[d]soka,
+by o[A7]świecić tych, co żyją w ciemności                   i w cieniu [d]śmierci,
+by skie[A7]rować nasze kroki na drogę po[d]koju.
+
+W:
+[d]Błogosławion niech będzie Pan,
+[g]Bóg Izra[d]ela,
+K:
+bo nawiedził i odkupił swój lud,
+W:
+wzbu[g]dzając potężnego Zbawi[d]ciela
+w domu Da[A7]wida, swojego [d]sługi.

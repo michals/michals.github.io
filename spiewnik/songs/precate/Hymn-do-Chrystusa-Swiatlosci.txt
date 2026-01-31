@@ -1,0 +1,67 @@
+===
+title: "Hymn do Chrystusa - Światłości"
+subtitle: "Święty Grzegorz z Nazjanzu"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S150HymnDoChrystusaSwiatlosci"
+author:
+  - "K"
+year: 2019
+address:
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*HYM"
+    where: ""
+knownas:
+  - "1967"
+  - "["
+  - "["
+  - "["
+index:
+  - "błogosławić"
+  - "Boży"
+  - "Chrystus"
+  - "chwała"
+  - "ciemności"
+  - "godzina"
+  - "śmierć"
+  - "świat"
+  - "życie"
+  - "Światłość"
+  - "niepodzielny"
+  - "oświecać"
+  - "Pan"
+  - "początek"
+  - "pokonać"
+  - "potrójny"
+  - "Słowo"
+  - "wieczny"
+  - "wschodzić"
+  - "wskrzesić"
+  - "zmartwychwstawać"
+===
+
+KW:
+[e]Błogosławimy Cię w tej to godzinie
+o Chryste [a]mój, Słowo Boże!
+Światłość ze Światłości bez po[e]czątku.
+Błogosła[H7]wimy Cię, Słowo [e]Boże,
+Błogosła[H7]wimy Cię, Słowo [e]Boże.
+K:
+[D7]Błogosławimy Cię, potrójna Świa[G]tłościniepodzielnej [H7]chwały!
+Ty pokonałeś ciem[e]ności,
+wskrzesiłeś [H7]Światłość                    zmartwychwstając ze [e]śmierci.
+Tyś jest wieczną Świa[H7]tłością,                 która oświeca nasze [e]życie.
+Tyś jest wieczną Świa[H7]tłością,               która wschodzi nad [e]światem.
+Tyś jest wieczną Świa[H7]tłością,
+błogosławimy Cię [e]Panie!
+W:
+[e]Błogosławimy Cię w tej to godzinie
+o Chryste [a]mój, Słowo Boże!
+Światłość ze
+Światłości bez po[e]czątku.
+Błogosła[H7]wimy Cię, Słowo [e]Boże,
+Błogosła[H7]wimy Cię, Słowo [e]Boże.

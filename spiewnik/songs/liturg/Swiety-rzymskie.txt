@@ -1,0 +1,65 @@
+===
+title: "Święty rzymskie"
+subtitle: "Rzym 1977"
+section: "liturg"
+color: "liturg"
+tone: "a"
+songid: "S005SwietySwietySwiety"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "*MSZ"
+    where: ""
+alttone:
+  - "a"
+  - "c"
+knownas:
+  - "1977"
+index:
+  - "błogosławiony"
+  - "hosanna"
+  - "iść"
+  - "imię"
+  - "święty"
+  - "niebiosa"
+  - "niebo"
+  - "Pan"
+  - "wypełnić"
+  - "wysoki"
+  - "ziemia"
+===
+
+{{{ 2x
+W:
+[a]Święty, święty, święty,
+[G]Święty, święty, [a]święty.
+}}}
+
+K:
+Nie[G]biosa
+i [a]ziemia
+są wypeł[G]nione,
+są wypełnione [a]Tobą.
+
+W:
+Ho[F]sanna, ho[E]sanna, ho[F]sanna, ho[E]sanna,
+Ho[F]sanna, ho[G]sanna, na [F]niebie wy[E]sokim!
+
+Ho[F]sanna, ho[E]sanna, ho[F]sanna, ho[E]sanna,
+Ho[F]sanna, ho[G]sanna, na niebie wy[a]sokim!
+
+K:
+Błogosła[G]wiony
+Ten, który [a]idzie.
+Błogosła[G]wiony,
+który idzie w imię [a]Pana.
+
+W:
+Ho[F]sanna, ho[E]sanna, ho[F]sanna, ho[E]sanna,
+Ho[F]sanna, ho[G]sanna, na [F]niebie wy[E]sokim!
+
+Ho[F]sanna, ho[E]sanna, ho[F]sanna, ho[E]sanna,
+Ho[F]sanna, ho[G]sanna, na niebie wy[a]sokim!
+
+251]7.2

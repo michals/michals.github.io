@@ -1,0 +1,113 @@
+===
+title: "Modlitwa eucharystyczna IV"
+subtitle: "Konsekracja"
+section: "liturg"
+color: "liturg"
+tone: "a"
+songid: "L00ME4Co"
+author:
+  - "K"
+year: 2020
+address:
+  - what: "*MSZ"
+    where: ""
+alttone:
+  - "a"
+  - "c"
+index:
+  - "Bóg"
+  - "błogosławić"
+  - "brać"
+  - "chleb"
+  - "Chrystus"
+  - "chwała"
+  - "ciało"
+  - "czynić"
+  - "dar"
+  - "Duch"
+  - "dzięki"
+  - "głosić"
+  - "godzina"
+  - "grzech"
+  - "jako"
+  - "jeść"
+  - "Jezus"
+  - "kielich"
+  - "koniec"
+  - "krew"
+  - "łamać"
+  - "śmierć"
+  - "świat"
+  - "święty"
+  - "mówić"
+  - "misterium"
+  - "nadejść"
+  - "napełnić"
+  - "nowy"
+  - "oczekiwać"
+  - "odpuścić"
+  - "Ojciec"
+  - "On"
+  - "pamiątka"
+  - "Pan"
+  - "pić"
+  - "podać"
+  - "podobny"
+  - "prosić"
+  - "przyjść"
+  - "przymierze"
+  - "rozdawać"
+  - "składać"
+  - "spełnić"
+  - "spożywać"
+  - "stać"
+  - "tajemnica"
+  - "uczeń"
+  - "uświęcić"
+  - "umiłować"
+  - "uwielbić"
+  - "wiara"
+  - "wieczerza"
+  - "wieczny"
+  - "wiele"
+  - "wielki"
+  - "wino"
+  - "wszyscy"
+  - "wydać"
+  - "wylać"
+  - "wyznawać"
+  - "wziąć"
+  - "zmartwychwstać"
+  - "znak"
+  - "zostać"
+  - "zostawić"
+===
+
+Epikleza
+P:
+[C]Prosimy Cię, Boże, [D]niech Duch Święty uświęci te [a]dary,
+[D]aby się stały Ciałem ✠ i Krwią na[a]szego Pana, Jezusa Chrystusa,
+[D]dla spełnienia tego wielkiego misterium,
+które On nam zo[a]stawił jako znak wiecznego przymierza.
+Opowiadanie i konsekracja
+P:
+[C]Kiedy nadeszła godzina,
+aby Jezus został uwielbiony przez [a]Ciebie, Ojcze święty,
+[C]umiłowawszy swoich, którzy byli na świecie,
+do końca ich umi[a]łował, [F]i gdy spożywali wieczerzę,
+[a]wziął chleb, błogosławił, [F]łamał i rozdawał swoim uczniom, [G]mówiąc:
+[a]Bierzcie i [G]jedzcie z tego [a]wszyscy:
+[G]To jest bowiem Ciało moje, które za was będzie wy[a]dane.
+[C]Podobnie wziął kielich napełniony winem,
+dzięki [a]składał [D]i podał swoim uczniom, [E]mówiąc:
+[G]Bierzcie i pijcie z niego [a]wszyscy:
+[G]To jest bowiem kielich Krwi mojej nowego i wiecznego przy[a]mierza,
+[G]która za was i za wielu będzie wylana na odpuszczenie [a]grzechów.
+[F]To czyńcie na moją pa[E]miątkę.
+Aklamacja
+P:
+[G]Oto wielka tajemnica [a]wiary.
+W:
+[C]Głosimy śmierć Twoją, Panie Jezu,
+wyznajemy Twoje zmartwych[a]wstanie
+[F]i oczekujemy Twego przyjścia [E]w chwale.

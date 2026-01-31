@@ -1,0 +1,76 @@
+===
+title: "Wezmę was spośród ludów"
+subtitle: "Kantyk Ezechiela"
+section: "precate"
+color: "precate"
+tone: "d"
+songid: "S140WezmeWasSposrodLudow"
+author:
+  - "K"
+year: 2004
+address:
+  - what: "Ez"
+    where: "36, 24-28"
+  - what: "*OPA"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+knownas:
+  - "1997"
+index:
+  - "Bóg"
+  - "ciało"
+  - "czysta"
+  - "dać"
+  - "Duch"
+  - "kamienny"
+  - "kraj"
+  - "żyć"
+  - "lud"
+  - "nowy"
+  - "oczyścić"
+  - "odebrać"
+  - "pokropić"
+  - "serce"
+  - "słowo"
+  - "spośród"
+  - "sprawić"
+  - "tchnąć"
+  - "umieścić"
+  - "według"
+  - "wnętrze"
+  - "woda"
+  - "wszystek"
+  - "wziąć"
+  - "zgromadzić"
+===
+
+W:
+[d]Wezmę was [D7]spośród ludów,
+zgromadzę was ze wszystkich [g]krajów
+i was po[A]kropię czystą [d]wodą.
+[B]Ja oczyszczę [A]was.
+
+K:
+[D7]I dam wam serce nowe,
+tchnę w wasze wnętrze nowego [g]Ducha,
+i od[A]biorę wam serce ka[d]mienne,
+[B]a dam wam serce [A]z ciała.
+
+W:
+[d]Wezmę was spośród [D7]ludów,
+zgromadzę was ze wszystkich [g]krajów
+i was po[A]kropię czystą [d]wodą.
+[B]Ja oczyszczę [A]was.
+
+K:
+[D7]Umieszczę mojego Ducha
+w waszym [g]wnętrzu,
+i sprawię [A]byście żyli według mojego [d]Słowa,
+[B]i będziecie moim ludem, a Ja będę waszym [A]Bogiem.
+
+W:
+[d]Wezmę was spośród [D7]ludów,
+zgromadzę was ze wszystkich [g]krajów
+i was po[A]kropię czystą [d]wodą.
+[B]Ja oczyszczę [A]was.

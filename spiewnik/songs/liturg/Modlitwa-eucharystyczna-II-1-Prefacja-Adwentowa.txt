@@ -1,0 +1,109 @@
+===
+title: "Modlitwa eucharystyczna II (1)"
+subtitle: "Prefacja Adwentowa"
+section: "liturg"
+color: "liturg"
+tone: "a"
+songid: "L02AdwentIT"
+author:
+  - "K"
+year: 2020
+address:
+  - what: "*MSZ"
+    where: ""
+  - what: "*OAD"
+    where: ""
+alttone:
+  - "a"
+  - "h"
+index:
+  - "anioł"
+  - "archanioł"
+  - "Bóg"
+  - "chór"
+  - "Chrystus"
+  - "Chrzciciel"
+  - "chwała"
+  - "czuwać"
+  - "dlatego"
+  - "duch"
+  - "dziękczynienie"
+  - "dzięki"
+  - "Dziewica"
+  - "góra"
+  - "głosić"
+  - "godny"
+  - "Jan"
+  - "Jezus"
+  - "święta"
+  - "święty"
+  - "lud"
+  - "matka"
+  - "miłość"
+  - "modlitwa"
+  - "Narodzenie"
+  - "niebiosa"
+  - "obecność"
+  - "oczekiwać"
+  - "ogłosić"
+  - "Ojciec"
+  - "On"
+  - "Pan"
+  - "pełny"
+  - "pozwalać"
+  - "prorok"
+  - "przepowiadać"
+  - "przygotować"
+  - "przyjść"
+  - "radość"
+  - "razem"
+  - "serce"
+  - "składać"
+  - "słuszny"
+  - "sprawiedliwy"
+  - "wdzięczność"
+  - "wieczny"
+  - "wielki"
+  - "wśród"
+  - "wołać"
+  - "wszędzie"
+  - "wszechmogący"
+  - "wszyscy"
+  - "wznosić"
+  - "zaprawdę"
+  - "zawsze"
+  - "zbawienny"
+  - "znaleźć"
+  - "zwiastować"
+===
+
+P:
+[G]Pan [a]z wami.
+W:
+[G]i z duchem [a]twoim.
+P:
+[F]W górę [E]serca.
+W:
+[F]Wznosimy je do [E]Pana.
+P:
+[E7]Dzięki składajmy Panu, Bogu na[a]szemu.
+W:
+Godne [G]to i sprawie[a]dliwe.
+Godne [G]to i sprawie[a]dliwe.
+P:
+[e]Zaprawdę godne to i sprawiedliwe, słuszne i zba[G]wienne,
+[a]abyśmy zawsze i wszędzie Tobie składali dziękczy[e]nienie,
+[G]Panie, Ojcze święty, wszechmogący, wieczny [e]Boże,
+[a]przez naszego Pana Jezusa Chry[e]stusa.
+[e]Jego przepowiadali wszyscy Pro[G]rocy,
+[a]Dziewica Matka oczekiwała z wielką mi[e]łością,
+[G]Jan Chrzciciel zwiastował Jego [e]przyjście[a]i ogłosił jego obecność wśród [e]ludu.
+[e]On pozwala nam z radością                       przygotować się na święta Jego Naro[G]dzenia,
+[a]aby gdy przyjdzie, znalazł nas czuwających
+na modlitwie i pełnych wdzięcz[e]ności.
+[G]Dlatego z Aniołami i Archaniołami                         i z wszystkimi chórami [e]niebios
+gło[a]simy Twoją chwałę, razem z nimi wo[e]łając:
+
+Następuje „Święty”
+
+249]14

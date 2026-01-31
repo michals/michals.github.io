@@ -16,7 +16,6 @@ alttone:
   - "c"
 knownas:
   - "2013"
-  - "Ja jestem Zmartwychwstaniem"
   - "["
 index:
   - "alleluja"
@@ -38,38 +37,38 @@ index:
 ===
 
 W:
-[a]Resurrexit, Resur[ES]rexit, Resur[F]rexit, Resur[E]rexit.
-[a]Gloria, [ES]Gloria, [F]Gloria, [E]Gloria.
+[a]Resurrexit, Resur[E7]rexit, Resur[F]rexit, Resur[E]rexit.
+[a]Gloria, [E7]Gloria, [F]Gloria, [E]Gloria.
 K:
-[a]Ja jestem, jestem Zmartwych[ES]wstaniem,
-[d]zmartwychwstaniem, zmartwych[ES]wstaniem.
-Kto wierzy [d]we mnie, choćby umarł żyć [ES]będzie,
-a [d]każdy kto żyje i wierzy [F]we mnie,
-nie umrze na [ES]wieki, [F]nie umrze na [ES]wieki.
+[a]Ja jestem, jestem zmartwych[E7]wstaniem,
+[d]zmartwychwstaniem, zmartwych[E7]wstaniem.
+Kto wierzy [d]we Mnie, choćby umarł żyć [E7]będzie,
+a [d]każdy kto żyje i wierzy [F]we Mnie,
+nie umrze na [E7]wieki, [F]nie umrze na [E7]wieki.
 W:
-[a]Resurrexit, Resur[ES]rexit, Resur[F]rexit, Resur[E]rexit.
-[a]Gloria, [ES]Gloria, [F]Gloria, [E]Gloria.
+[a]Resurrexit, Resur[E7]rexit, Resur[F]rexit, Resur[E]rexit.
+[a]Gloria, [E7]Gloria, [F]Gloria, [E]Gloria.
 K:
-[a]Ja jestem, jestem Zmartwych[ES]wstaniem,
-[d]zmartwychwstaniem, zmartwych[ES]wstaniem.
-Kto wierzy [d]we mnie, choćby umarł żyć [ES]będzie,
-a [d]każdy kto żyje i wierzy [F]we mnie,
-nie umrze na [ES]wieki, [F]nie umrze na [ES]wieki.
+[a]Ja jestem, jestem zmartwych[E7]wstaniem,
+[d]zmartwychwstaniem, zmartwych[E7]wstaniem.
+Kto wierzy [d]we Mnie, choćby umarł żyć [E7]będzie,
+a [d]każdy kto żyje i wierzy [F]we Mnie,
+nie umrze na [E7]wieki, [F]nie umrze na [E7]wieki.
 
 K:
-[d]Czy ty w to [ES]wierzysz? [d]Czy ty w to [ES]wierzysz?
-[F]Tak, ja wierzę, że ty jesteś Chrystusem,
-Synem [ES]Bożym, który [F]miał przyjść na [ES]świat.
+[d]Czy ty w to [E7]wierzysz? [d]Czy ty w to [E7]wierzysz?
+[F]Tak, ja wierzę, że Ty jesteś Chrystusem,
+Synem [E7]Bożym, który [F]miał przyjść na [E7]świat.
 W:
-[a]Resurrexit, Resur[ES]rexit, Resur[F]rexit, Resur[E]rexit.
-[a]Gloria, [ES]Gloria, [F]Gloria, [E]Gloria.
+[a]Resurrexit, Resur[E7]rexit, Resur[F]rexit, Resur[E]rexit.
+[a]Gloria, [E7]Gloria, [F]Gloria, [E]Gloria.
 W:
 [a]La la la la la la, La la la la la [E]la la la,
 [a]La la la la la la, [d]La la la [E]la.
-[a]Alleluja, alle[ES]luja, alle[F]luja, alle[E]luja.
+[a]Alleluja, alle[E7]luja, alle[F]luja, alle[E]luja.
 W:
-[a]Resurrexit, Resur[ES]rexit, Resur[F]rexit, Resur[E]rexit.
-[a]Gloria, [ES]Gloria, [F]Gloria, [E]Gloria.
+[a]Resurrexit, Resur[E7]rexit, Resur[F]rexit, Resur[E]rexit.
+[a]Gloria, [E7]Gloria, [F]Gloria, [E]Gloria.
 W:
-[a]Alleluja, alle[ES]luja, alle[F]luja, alle[E]luja.
+[a]Alleluja, alle[E7]luja, alle[F]luja, alle[E]luja.
 Allelu[a]ja.

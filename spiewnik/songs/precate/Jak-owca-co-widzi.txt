@@ -1,0 +1,127 @@
+===
+title: "Jak owca, co widzi"
+subtitle: "Kontakion Romana Melodosa"
+section: "precate"
+color: "communion"
+tone: "e"
+songid: "S159MatkaBolesna"
+author:
+  - "K"
+year: 2016
+address:
+  - what: "*LAM"
+    where: ""
+  - what: "*MAR"
+    where: ""
+  - what: "*HYM"
+    where: ""
+  - what: "*OWP"
+    where: ""
+  - what: "*OPA"
+    where: ""
+alttone:
+  - "fis"
+knownas:
+  - "Roman Melodos, kontakion"
+  - "Maryja u stóp krzyża"
+  - "Mój synu, mój synu i mój Boże"
+  - "Synu mój, Synu mój i Boże mój"
+  - "Matka Bolesna"
+  - "2016"
+index:
+  - "Adam"
+  - "Bóg"
+  - "ból"
+  - "biada"
+  - "bieg"
+  - "chcieć"
+  - "cierpieć"
+  - "czemu"
+  - "dogasać"
+  - "dokąd"
+  - "dotrzeć"
+  - "Ewa"
+  - "iść"
+  - "jagniątko"
+  - "jakże"
+  - "kończyć"
+  - "krzyż"
+  - "światło"
+  - "życie"
+  - "móc"
+  - "mówić"
+  - "Maryja"
+  - "matka"
+  - "możliwe"
+  - "nagły"
+  - "nienawiść"
+  - "nigdy"
+  - "omijać"
+  - "On"
+  - "owca"
+  - "płakać"
+  - "pochłonąć"
+  - "powracać"
+  - "prowadzić"
+  - "przybijać"
+  - "przypuszczać"
+  - "słowo"
+  - "sprawiedliwość"
+  - "stanąć"
+  - "Syn"
+  - "taki"
+  - "trzeba"
+  - "ujrzeć"
+  - "umierać"
+  - "uwierzyć"
+  - "wbrew"
+  - "więc"
+  - "więzić"
+  - "widzieć"
+  - "wieść"
+  - "wszelki"
+  - "zabić"
+  - "zbawić"
+  - "złość"
+  - "zobaczyć"
+  - "zrozumieć"
+===
+
+K:
+[e]Jak owca, co widzi, jak prowadzą jej jagniątko na za[a]bicie,
+Maryja szła za Nim pochłonięta przez [e]ból.
+I mówiła: Dokąd cię wiodą Synu [a]mój?
+Jakże kończy się tak nagle bieg Twojego [H7]życia?
+K:
+[C]Mów do mnie, nie omijaj mnie bez [H7]słowa.
+KW:
+[a]Mój Synu, mój Synu i mój [H7]Boże.
+
+Maryja:
+K:
+[e]Nigdy bym nie przypuszczała, że zobaczę Cię w tym [a]stanie.
+Nigdy bym nie uwierzyła, że dotrą aż do takiej nienawiści i [e]złości,
+więzić Ciebie wbrew wszelkiej sprawiedli[H7]wości.
+KW:
+[C]Chciałabym zrozumieć, [a]biada mi,
+KW:
+jak to możliwe, że światło do[H7]gasa?
+K:
+[a]jak to możliwe, że przybijają Cię do [H7]krzyża?
+KW:
+[a]Mój Synu, mój Synu i mój [H7]Boże.
+
+Chrystus:
+K:
+[e]Czemu płaczesz, czemu płaczesz Matko [a]moja?
+Czemu płaczesz, czemu płaczesz Matko [e]moja?
+Czy nie trzeba, żebym [aX]cierpiał?
+Czy nie trzeba, żebym umie[H7]rał?
+Jak więc [C]będę mógł zbawić A[H7]dama?
+Jak [a]więc będę mógł ujrzeć Ewę, jak powraca do [H7]życia?
+W:
+[e]Jak owca, co widzi, jak prowadzą jej jagniątko na za[a]bicie, …
+K:
+[C]Mów do mnie, nie omijaj mnie bez [H7]słowa.
+KW:
+[a]Mój Synu, mój Synu i mój [H7]Boże.

@@ -1,0 +1,93 @@
+===
+title: "Pośrodku wielkiego tłumu"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S143PosrodkuWielkiegoTlumu"
+author:
+  - "K"
+year: 2007
+address:
+  - what: "Łk"
+    where: "8, 42-48"
+  - what: "*KOM"
+    where: ""
+knownas:
+  - "2007"
+  - "Córko, twoja wiara cię zbawiła"
+index:
+  - "Boży"
+  - "cały"
+  - "córka"
+  - "chcieć"
+  - "Chrystus"
+  - "cierpieć"
+  - "dotknąć"
+  - "dotykać"
+  - "drżeć"
+  - "kobieta"
+  - "krew"
+  - "ludzie"
+  - "móc"
+  - "między"
+  - "nieczysty"
+  - "On"
+  - "pośrodku"
+  - "pomiędzy"
+  - "przyjść"
+  - "rzec"
+  - "Syn"
+  - "szata"
+  - "tłum"
+  - "upływ"
+  - "wiara"
+  - "wielki"
+  - "wszystek"
+  - "zatrzymać"
+  - "zbawić"
+===
+
+KW:
+[a]Pośrodku wielkiego tłumu
+pomiędzy wszystkimi [G]ludźmi,
+ko[E]bieta, ko[F]bieta dotknęła [E]Go.
+
+K:
+„[a]Kto Mnie dotknął,
+kto Mnie [G]dotknął?”
+rzekł [E]Chrystus, rzekł [F]Chrystusi zatrzymał [E]się.
+
+Ko[a]bieta cała drżąca,
+kobieta cała [G]drżąca,
+[F]rzekła Chrystusowi: „To byłam [E]ja,
+K:
+bo [a]jestem kobietą nieczystą
+i cierpię na upływ [G]krwi,
+bo [F]jestem kobietą nieczystą
+i cierpię na upływ [E]krwi.
+K:
+[a]Lecz gdy dotknęłam Twej szaty,
+lecz gdy dotknęłam Twej [G]szaty,
+[F]upływ krwi zatrzymał [E]się”.
+
+KW:
+„[a]Córko, twoja [G]wiara,
+twoja [F]wiara cię zba[E]wiła!”
+
+W:
+[a]Pośrodku wielkiego tłumu
+między tymi wszystkimi [G]ludźmi,
+ko[E]bieta, ko[F]bieta dotknęła [E]Go.
+
+K:
+Je[a]żeli chcesz dotknąć Chrystusa,
+jeżeli chcesz dotknąć Chry[G]stusa,
+[F]możesz dotykać Go [E]wiarą:
+bo [a]On jest Synem Bożym,
+bo On jest Synem [G]Bożym,
+który prz[F]yszedł, aby ciebie [E]zbawić.
+
+W:
+[a]Pośrodku wielkiego tłumu
+między tymi wszystkimi [G]ludźmi,
+ko[E]bieta, ko[F]bieta dotknęła [E]Go.

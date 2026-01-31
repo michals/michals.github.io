@@ -1,0 +1,115 @@
+===
+title: "Żniwo narodów"
+section: "precate"
+color: "precate"
+tone: "h"
+songid: "S114ZniwoNarodow"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "J"
+    where: "4, 31-38"
+  - what: "*ZAK"
+    where: ""
+alttone:
+  - "dis"
+knownas:
+  - "Przybyli uczniowie i rzekli Mu"
+  - "Czyż nie mówicie"
+  - "Jeszcze cztery miesiące, a nadejdzie pora żniwa"
+  - "1986"
+index:
+  - "bieleć"
+  - "cztery"
+  - "czynić"
+  - "dzieło"
+  - "gotowy"
+  - "gromadzić"
+  - "inny"
+  - "jeść"
+  - "jeszcze"
+  - "korzystać"
+  - "żniwiarz"
+  - "żniwo"
+  - "życie"
+  - "mówić"
+  - "miesiąc"
+  - "nadejść"
+  - "napracować"
+  - "natrudzić"
+  - "odbierać"
+  - "odpowiedzieć"
+  - "oko"
+  - "On"
+  - "owoce"
+  - "podnieść"
+  - "pokarm"
+  - "pole"
+  - "popatrzeć"
+  - "pora"
+  - "posłać"
+  - "powiadać"
+  - "przybyć"
+  - "Rabbi"
+  - "radować"
+  - "razem"
+  - "rzec"
+  - "siać"
+  - "trud"
+  - "uczeń"
+  - "wieczny"
+  - "wola"
+  - "wyście"
+  - "wypełnić"
+  - "zapłata"
+  - "zbierać"
+  - "znać"
+===
+
+K:
+[h]Przybyli uczniowie i rzekli Mu:
+[e]„Rabbi [Fis]jedz, [e]Rabbi [Fis]jedz!”
+[G]A On odpowiedział:
+„Mam do jedzenia pokarm,                             którego wy nie [Fis]znacie.
+[G]Moim pokarmem jest czynić wolę                  Tego, który Mnie [Fis]posłał,
+[e]by wypełnić Jego [Fis]dzieło”.
+W:
+Czyż nie mó[h]wi[Fis]cie:
+„Jeszcze cztery miesiące, a nadejdzie pora [h]żniwa”?
+Czyż [A]nie [G]mó[Fis]wicie:
+„Jeszcze cztery miesiące, a nadejdzie pora [h]żniwa”?
+
+K:
+[e]Oto powiadam wam:
+„Podn[A]ieście wasze oczy i popatrzcie na [G]pola,
+jak już bieleją gotowe na [Fis]żniwo!
+W:
+[G]Gotowe na [Fis]żniwo!”
+W:
+Czyż nie mó[h]wi[Fis]cie:
+„Jeszcze cztery miesiące, a nadejdzie pora [h]żniwa”?
+Czyż [A]nie [G]mó[Fis]wicie:
+„Jeszcze cztery miesiące, a nadejdzie pora [h]żniwa”?
+
+K:
+[G]Już się gromadzą żni[Fis]wiarze
+[G]i odbierają zapłatę, i zbierają owoce
+na życie [Fis]wieczne.
+W:
+[G]Na życie [Fis]wieczne!
+W:
+Czyż nie mó[h]wi[Fis]cie:
+„Jeszcze cztery miesiące,                         a nadejdzie pora [h]żniwa”?
+Czyż [A]nie [G]mó[Fis]wicie:
+„Jeszcze cztery miesiące,                         a nadejdzie pora [h]żniwa”?
+
+K:
+[e]Ja was posłałem zbierać to[G],nad czym wyście się nie napracowa[Fis]li,
+[G]inni natrudzili się,              a wy korzystacie z ich [Fis]trudu,
+[e]żeby się radowali razem,                 kto sieje i kto [Fis]zbiera.
+W:
+Czyż nie mó[h]wi[Fis]cie:
+„Jeszcze cztery miesiące,                     a nadejdzie pora [h]żniwa”?
+Czyż [A]nie [G]mó[Fis]wicie:
+„Jeszcze cztery miesiące,                     a nadejdzie pora [h]żniwa”?

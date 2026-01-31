@@ -1,0 +1,165 @@
+===
+title: "Błogosławieństwo nowo poślubionych"
+subtitle: "Msza za nowożeńców"
+section: "liturg"
+color: "liturg"
+tone: "a"
+songid: "LBlogNow"
+author:
+  - "K"
+year: 2015
+alttone:
+  - "a"
+  - "h"
+knownas:
+  - "["
+index:
+  - "amen"
+  - "Bóg"
+  - "błogosławieństwo"
+  - "błogosławiony"
+  - "córka"
+  - "Chrystus"
+  - "ciało"
+  - "czerpać"
+  - "człowiek"
+  - "czystość"
+  - "dać"
+  - "dobry"
+  - "doczekać"
+  - "Duch"
+  - "dwoje"
+  - "dziecko"
+  - "dzieje"
+  - "ewangelia"
+  - "głosić"
+  - "grzech"
+  - "jako"
+  - "jedno"
+  - "jedność"
+  - "kara"
+  - "kobieta"
+  - "kochać"
+  - "Kościół"
+  - "łączyć"
+  - "ład"
+  - "łaska"
+  - "święta"
+  - "święty"
+  - "żona"
+  - "życie"
+  - "ludzki"
+  - "mąż"
+  - "małżeński"
+  - "mężczyzna"
+  - "miłość"
+  - "naśladować"
+  - "nauczyć"
+  - "nic"
+  - "niebo"
+  - "nieodłączny"
+  - "niewiasta"
+  - "nigdy"
+  - "obdarzać"
+  - "obdarzyć"
+  - "oboje"
+  - "obyczaj"
+  - "otaczać"
+  - "otrzymać"
+  - "Pan"
+  - "pierworodny"
+  - "pismo"
+  - "pochwała"
+  - "początek"
+  - "podobieństwo"
+  - "pokój"
+  - "pożycie"
+  - "pomoc"
+  - "postępować"
+  - "potęga"
+  - "potop"
+  - "pouczyć"
+  - "powołanie"
+  - "pozostać"
+  - "pozwolić"
+  - "prosić"
+  - "przejść"
+  - "przekazać"
+  - "przykazanie"
+  - "przymierze"
+  - "radować"
+  - "równość"
+  - "rodzice"
+  - "rok"
+  - "rozłączać"
+  - "rozlać"
+  - "schyłek"
+  - "serce"
+  - "siebie"
+  - "siła"
+  - "sprawić"
+  - "stanowić"
+  - "stworzyć"
+  - "symbol"
+  - "szacunek"
+  - "tajemnica"
+  - "teraz"
+  - "uczynić"
+  - "umiłować"
+  - "ustanowić"
+  - "uznawać"
+  - "według"
+  - "wejrzeć"
+  - "wiara"
+  - "wielki"
+  - "wierny"
+  - "wnuk"
+  - "wola"
+  - "wolno"
+  - "wprowadzić"
+  - "wspólnota"
+  - "wspólny"
+  - "wszechświat"
+  - "wszyscy"
+  - "wszystko"
+  - "wytrwać"
+  - "wyznawca"
+  - "zachowywać"
+  - "zaślubić"
+  - "zaufanie"
+  - "zawrzeć"
+  - "zesłać"
+  - "zniweczyć"
+  - "związek"
+===
+
+P:
+[a]O Boże, [d]Ty swoją potęgą stworzyłeś wszystko z ni[E7]czego
+i wprowa[d]dziłeś ład na początku wszech[E7]świata,
+[F]a stworzywszy człowieka na Twoje podo[E7]bieństwo,
+[a]dałeś mężczyźnie kobietę jako nieodłączną pomoc, [d]aby we dwoje stanowili jedno [E7]ciało.
+Ty pou[F]czyłeś nas, że tej jedności przez Ciebie ustanowionej nigdy nie wolno roz[E7]łączać.
+[a]Boże, [d]Ty uczyniłeś związek małżeński tak wielką i świętą tajem[E7]nicą,
+że wspól[F]nota zaślubionych jest symbolem związku Chrystusa z Koś[E7]ciołem.
+[a]Boże, [d]z Twojej woli, żona łączy się [E7]z mężem,
+[d]a związek ten, ustanowiony na początku dziejów ludz[E7]kich
+[F]otrzymał od Ciebie tak wielkie błogosławieństwo, że nie zniweczył go nawet grzech pierworodny, ani kara po[E7]topu.
+[E7]Wejrzyj z miłością na [a]Twoich wyznawców, którzy [G]zawarli związek mał[F]żeński,
+a teraz proszą o Twoje błogosła[E7]wieństwo.
+[a]Ześlij na nich łaskę Ducha świę[G]tego aby Twa miłość rozlana w ich [a]sercach,
+pozwoliła im pozostać wie[G]rnymi przymierzu małżeń[a]skiemu.
+Obdarz Twoją córkę [G]N. łaską miłości i po[a]koju.
+[a]Naucz ją naśladować święte nie[G]wiasty, których pochwałę głosi Pismo [a]Święte.
+Niech N., jej mąż, obdarza ją zau[G]faniem
+i uznaje jej równość we wspólnym życiu i powołaniu do [F]łaski
+niech ją otacza szacunkiem i tak kocha jak Chrystus umiłował swój Ko[E7]ściół.
+[a]Prosimy Cię Boże, [d]spraw, aby o[E7]boje
+wytr[F]wali w wierze i postępowali według Twych przy[E7]kazań
+[a]Niech wierni sobie zachowują czystość obyczajów we wspólnym po[G]życiu,
+a czerpiąc siły z Ewangelii niech głoszą wszystkim Chry[a]stusa.
+(Niech radują się dziećmi, którym przekażą życie, i będą dla nich dobrymi rodzi[G]cami,
+niech doczekają się [a]wnuków.)
+Spraw także, aby u schyłku swych lat przeszli do [G]życia
+błogosła[F]wionych [E7]w niebie. Przez Chrystusa Pana na[a]szego.
+W:
+A[a]men, a[G]men, a[a]men.

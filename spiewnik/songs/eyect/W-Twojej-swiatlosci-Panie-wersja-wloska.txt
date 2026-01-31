@@ -1,0 +1,159 @@
+===
+title: "W Twojej światłości, Panie (wersja włoska)"
+section: "eyect"
+color: "eyect"
+tone: "e"
+songid: "S929WTwojejSwiatlosciOPanie"
+author:
+  - "K"
+year: 2023
+address:
+  - what: "Ps"
+    where: "36"
+alttone:
+  - "f"
+index:
+  - "Bóg"
+  - "bezbożnik"
+  - "bojaźń"
+  - "cenny"
+  - "chronić"
+  - "cień"
+  - "czynić"
+  - "dobry"
+  - "dogonić"
+  - "dom"
+  - "dosięgać"
+  - "droga"
+  - "góry"
+  - "głębia"
+  - "grzesznik"
+  - "łaska"
+  - "łoże"
+  - "łudzić"
+  - "światło"
+  - "światłość"
+  - "życie"
+  - "źródło"
+  - "ludzie"
+  - "ludzki"
+  - "mądrość"
+  - "móc"
+  - "najwyższy"
+  - "niebo"
+  - "nieprawość"
+  - "obfitość"
+  - "obłok"
+  - "ocalać"
+  - "oglądać"
+  - "oko"
+  - "otchłań"
+  - "Pan"
+  - "podstęp"
+  - "poić"
+  - "ponieważ"
+  - "potok"
+  - "powalić"
+  - "powstać"
+  - "prawy"
+  - "przemawiać"
+  - "pyszałek"
+  - "ręka"
+  - "rozkosz"
+  - "runąć"
+  - "sam"
+  - "serce"
+  - "siebie"
+  - "skrzydło"
+  - "słowa"
+  - "sprawiedliwość"
+  - "stopa"
+  - "stronić"
+  - "sycić"
+  - "syn"
+  - "udzielić"
+  - "usta"
+  - "wielki"
+  - "wierność"
+  - "wina"
+  - "wkraczać"
+  - "wypędzać"
+  - "wyroki"
+  - "zamyślać"
+  - "zaniechać"
+  - "złe"
+  - "znać"
+  - "znaleźć"
+  - "znienawidzić"
+  - "zwierzę"
+===
+
+KW:
+[e]W Twojej światłości, (o) [a]Panie,
+oglądamy [e]światło
+K:
+[e]W głębi serca bezbożnika przemawia nie[a]prawość,
+nie ma przed jego oczyma bojaźni [e]Boga.
+Ponieważ łudzi samego [a]siebie,
+że znajdzie swą winę, by ją zniena[e]widzić.
+Nieprawość i podstęp to słowa ust [a]jego,
+zaniechał mądrości i czynienia [e]dobrze.
+{{{ 2x
+W:
+[e]W Twojej światłości, (o) [a]Panie,
+oglądamy [e]światło
+}}}
+K:
+[e]Na swoim łożu zamyśla nieprawość,
+wkracza na niedobrą [a]drogę,
+nie stroni od [e]złego.
+Panie, Twoja łaska dosięga [a]nieba,
+a Twoja wierność o[e]błoków.
+{{{ 2x
+W:
+[e]W Twojej światłości, (o) [a]Panie,
+oglądamy [e]światło
+}}}
+K:
+[e]Twoja sprawiedliwość jak najwyższe [a]góry,
+Twoje wyroki jak Wielka [e]Otchłań:
+ocalasz ludzi i zwie[e]rzęta,
+o Panie, o P[e]anie.
+
+{{{ 2x
+W:
+[e]W Twojej światłości, (o) [a]Panie,
+oglądamy [e]światło
+}}}
+K:
+[e]Jak cenna jest Twoja łaska, [a]Boże!
+synowie ludzcy chronią się         w cieniu Twych [e]skrzydeł,
+sycą się obfitością Twojego [a]domu,
+poisz ich potokiem Twoich roz[e]koszy.
+{{{ 2x
+W:
+[e]W Twojej światłości, (o) [a]Panie,
+oglądamy [e]światło
+}}}
+K:
+[e]W Tobie jest źródło [a]życia,
+w Twojej światłości oglądamy [e]światło.
+Udziel Twej łaski znającym [a]Ciebie,
+i Twej sprawiedliwości ludziom prawego [e]serca.
+{{{ 2x
+W:
+[e]W Twojej światłości, (o) [a]Panie,
+oglądamy [e]światło
+}}}
+K:
+[e]Niech mnie nie dogoni stopa py[a]szałka,
+i ręka grzesznika niech mnie nie wy[e]pędza.
+Oto runęli czyniący nie[a]prawość,
+powaleni, nie mogą [e]powstać.
+{{{ 2x
+W:
+[e]W Twojej światłości, (o) [a]Panie,
+oglądamy [e]światło
+}}}
+
+168]931

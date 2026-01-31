@@ -1,0 +1,125 @@
+===
+title: "Błogosławię Cię, Panie"
+section: "eyect"
+color: "eyect"
+tone: "G"
+songid: "S506BlogoslawieCiePanie"
+author:
+  - "U"
+year: 1986
+address:
+  - what: "Ps"
+    where: "63"
+knownas:
+  - "Do Ciebie wznoszę me ręce"
+index:
+  - "alleluja"
+  - "Bóg"
+  - "bardziej"
+  - "błogosławić"
+  - "cały"
+  - "chwalić"
+  - "ciało"
+  - "cień"
+  - "dlatego"
+  - "dusza"
+  - "dzień"
+  - "głębina"
+  - "grzech"
+  - "imię"
+  - "jakże"
+  - "jedyny"
+  - "kłamstwo"
+  - "śpiewać"
+  - "świtanie"
+  - "życie"
+  - "miłość"
+  - "mocniejszy"
+  - "myśl"
+  - "napełnić"
+  - "noc"
+  - "obfitość"
+  - "oczyścić"
+  - "opuszczać"
+  - "Pan"
+  - "podnosić"
+  - "pogrzebać"
+  - "pomoc"
+  - "pragnąć"
+  - "prawica"
+  - "przyjść"
+  - "ręka"
+  - "sen"
+  - "serce"
+  - "siła"
+  - "spękać"
+  - "szukać"
+  - "tęsknić"
+  - "usta"
+  - "warga"
+  - "woda"
+  - "woleć"
+  - "wróg"
+  - "wspierać"
+  - "wszystek"
+  - "wznosić"
+  - "zawsze"
+  - "ziemia"
+  - "zobaczyć"
+  - "zwyciężyć"
+===
+
+W:
+[D]Błogo[G]sławię Cię, [D]Panie
+w moim [G]życiu.
+Do [C]Ciebie wznoszę me [G]ręce,
+alle[D]lu[G]ja.
+K:
+[g]O Panie, Ty jesteś moim [D]Bogiem,
+szukam Cię od świ[g]tania,
+Ciebie pragnie moja [D]dusza,
+za Tobą tęskni moje [g]ciało
+jak [e]ziemia spę[D]kana bez [G]wody,
+W:
+dla[C]tego przyszedłem Cię zo[G]baczyć.
+[D]Błogo[G]sławię Cię, [D]Panie
+w moim [G]życiu.
+Do [C]Ciebie wznoszę me [G]ręce,
+alle[D]lu[G]ja.
+K:
+[g]Wolę Twoją miłość bardziej niż [D]życie.
+Tobie śpiewają moje [g]wargi,
+jakże Cię nie chwalić przez cały [D]dzień,
+w Twoje imię podnoszę me [g]ręce.
+Napeł[e]niłeś moją [D]duszę obfi[G]tością,
+W:
+dla[C]tego przyszedłem Cię zo[G]baczyć.
+[D]Błogo[G]sławię Cię, [D]Panie
+w moim [G]życiu.
+Do [C]Ciebie wznoszę me [G]ręce,
+alle[D]lu[G]ja.
+
+K:
+[g]O Boże, w nocy opuszcza mnie [D]sen,
+za dnia jesteś zawsze moją [g]myślą,
+Ty jesteś moją jedyną po[D]mocą,
+Twoja prawica wspiera mnie [g]z siłą.
+[e]Z Tobą [D]jestem jak [G]w cieniu,
+W:
+dla[C]tego przyszedłem Cię zo[G]baczyć.
+[D]Błogo[G]sławię Cię, [D]Panie
+w moim [G]życiu.
+Do [C]Ciebie wznoszę me [G]ręce,
+alle[D]lu[G]ja.
+K:
+[g]O Boże, zwyciężyłeś wszystkich moich [D]wrogów,
+w głębinach mojego [g]serca.
+pogrzebałeś wszystkie moje [D]grzechy,
+oczyściłeś moje usta [g]z kłamstwa.
+[e]Byłeś moc[D]niejszy o[G]de mnie,
+W:
+dla[C]tego przyszedłem Cię zo[G]baczyć.
+[D]Błogo[G]sławię Cię, [D]Panie
+w moim [G]życiu.
+Do [C]Ciebie wznoszę me [G]ręce,
+alle[D]lu[G]ja.

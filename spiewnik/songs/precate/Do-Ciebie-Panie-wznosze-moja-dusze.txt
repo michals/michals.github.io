@@ -1,0 +1,68 @@
+===
+title: "Do Ciebie, Panie, wznoszę moją duszę"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S124DoCiebiePanieWznoszeMojaDusze"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "Ps"
+    where: "25"
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "Tobie ufam, o Panie"
+  - "1992"
+index:
+  - "Bóg"
+  - "droga"
+  - "dusza"
+  - "grzech"
+  - "ścieżka"
+  - "miłość"
+  - "miłosierdzie"
+  - "nauczyć"
+  - "pamiętać"
+  - "Pan"
+  - "podarować"
+  - "pokazać"
+  - "tryumfować"
+  - "ufać"
+  - "wieczny"
+  - "wróg"
+  - "współczucie"
+  - "wspominać"
+  - "wspomnieć"
+  - "wznosić"
+  - "zanurzyć"
+===
+
+KW:
+[a]Do Ciebie, Panie, wznoszę moją [E]duszę,
+do Ciebie, [d][F]o mój [E]Boże.
+
+K:
+[a]Tobie ufam, o [E]Panie,
+niech nie tryumfują nade mną [d]mo[F]i wro[E]gowie.
+[a]Pokaż mi, Panie, Twoją [E]drogę,
+naucz mnie, Panie, [d]Two[F]jej [E]ścieżki.
+
+W:
+[a]Do Ciebie, Panie, wznoszę moją [E]duszę,
+do Ciebie, [d][F]o mój [E]Boże.
+
+K:
+[a]Wspomnij, Panie, na Twoją [E]miłość,
+na Twoje współczucie, [d]któ[F]re jest [E]wieczne.
+[a]Moich grzechów, Panie, nie wspo[E]minaj,
+pamiętaj, Panie, [d]żeś [F]jest Miło[E]sierdziem.
+[F]Podaruj mi, Panie, Twoje miło[E]sierdzie,
+z[F]anurz mnie w Twoim miło[E]sierdziu.
+
+W:
+[a]Do Ciebie, Panie, wznoszę moją [E]duszę,
+do Ciebie, [d][F]o mój [E]Boże.
+
+‘

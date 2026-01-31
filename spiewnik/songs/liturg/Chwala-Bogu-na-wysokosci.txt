@@ -1,0 +1,85 @@
+===
+title: "Chwała Bogu na wysokości"
+subtitle: "Gloria mszalne"
+section: "liturg"
+color: "liturg"
+tone: "D"
+songid: "S004ChwalaBoguNaWysokosci"
+author:
+  - "PR"
+  - "K"
+year: 1992
+address:
+  - what: "*MSZ"
+    where: ""
+  - what: "*HYM"
+    where: ""
+knownas:
+  - "1976"
+index:
+  - "amen"
+  - "Bóg"
+  - "Baranek"
+  - "błaganie"
+  - "błogosławić"
+  - "Boży"
+  - "Chrystus"
+  - "chwała"
+  - "chwalić"
+  - "Duch"
+  - "dzięki"
+  - "gładzić"
+  - "grzech"
+  - "jednorodzony"
+  - "Jezus"
+  - "kochać"
+  - "Król"
+  - "świat"
+  - "święty"
+  - "ludzie"
+  - "najwyższy"
+  - "niebo"
+  - "Ojciec"
+  - "Pan"
+  - "pokój"
+  - "prawica"
+  - "przyjąć"
+  - "siedzieć"
+  - "składać"
+  - "Syn"
+  - "wielbić"
+  - "wielki"
+  - "wszechmogący"
+  - "wysokość"
+  - "ziemia"
+  - "zmiłować"
+===
+
+W:
+[D]Chwała Bogu na wyso[A]kości,
+a na [G]ziemi pokój ludziom, których kocha [A]Bóg.
+Chwa[D]limy Cię, błogosła[A]wimy,
+wiel[G]bimy, dzięki Ci składamy za wielką Twoją [A]chwałę.
+K:
+Panie [G]Boże, Królu nieba, Boże Ojcze wszechmo[fis]gący,
+Panie, Synu Jednoro[e]dzony,
+W:
+Jezu [A]Chryste!
+K:
+Panie [G]Boże, Baranku Boży, Synu [fis]Ojca.
+Ty, który gładzisz grzechy [e]świata,
+W:
+zmiłuj się nad [A]nami!
+K:
+Ty, który [G]gładzisz grzechy świata, przyjm błaganie [fis]nasze.
+Ty, który siedzisz po prawicy [e]Ojca,
+W:
+zmiłuj się nad [A]nami!
+Albowiem [G]tylko Tyś jest Święty, tylko Tyś jest [fis]Panem,
+tylko Tyś Naj[e]wyższy,
+Jezu [A]Chryste!
+K:
+[A]Z Duchem Świętym
+w chwale Boga [D]Ojca.
+W:
+A[D]men, [G]am[D]en!

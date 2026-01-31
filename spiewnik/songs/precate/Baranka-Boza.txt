@@ -1,0 +1,154 @@
+===
+title: "Baranka Boża"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S272BarankaBoza"
+author:
+  - "K"
+year: 1996
+address:
+  - what: "Mt"
+    where: "1, 18nn"
+  - what: "Mt"
+    where: "2, 13n.18"
+  - what: "["
+    where: "p"
+  - what: "*MAR"
+    where: ""
+  - what: "*OBN"
+    where: ""
+alttone:
+  - "g"
+knownas:
+  - "["
+  - "["
+  - "1981"
+index:
+  - "aj"
+  - "anioł"
+  - "Baranka"
+  - "Boży"
+  - "brzemienna"
+  - "chcieć"
+  - "dać"
+  - "Duch"
+  - "Dziecię"
+  - "dziecko"
+  - "Dziewica"
+  - "Egipt"
+  - "gorzki"
+  - "gospoda"
+  - "Herod"
+  - "Izrael"
+  - "jakże"
+  - "Józef"
+  - "Jezus"
+  - "krzyk"
+  - "świat"
+  - "święty"
+  - "lament"
+  - "żaden"
+  - "żłób"
+  - "mąż"
+  - "Maryja"
+  - "matka"
+  - "miejsce"
+  - "modlić"
+  - "noc"
+  - "obiecać"
+  - "oblubienica"
+  - "oddalić"
+  - "On"
+  - "Ona"
+  - "opierać"
+  - "opłakiwać"
+  - "owinąć"
+  - "Pański"
+  - "pieluszka"
+  - "płacz"
+  - "pocieszyć"
+  - "pokorny"
+  - "postanowić"
+  - "potajemny"
+  - "Rachela"
+  - "Rama"
+  - "razem"
+  - "rzec"
+  - "siebie"
+  - "słychać"
+  - "sprawa"
+  - "sprawiedliwy"
+  - "stać"
+  - "Syn"
+  - "uciec"
+  - "ukazać"
+  - "wezwać"
+  - "wielki"
+  - "woda"
+  - "wpierw"
+  - "wrócić"
+  - "wstać"
+  - "wydać"
+  - "wziąć"
+  - "zabić"
+  - "zamieszkać"
+  - "zawodzić"
+  - "ziemia"
+  - "zło"
+  - "złożyć"
+  - "zniesławić"
+===
+
+K:
+[e]Dziewica Maryja była
+oblubienicą obie[a]caną Józefowi,
+kiedy [C]wpierw nim zamieszkali razem,stała się brzemienną za sprawą Ducha Świę[H7]tego.
+[e]A Józef - mąż sprawiedliwy -
+nie chcąc [a]Jej zniesławić,
+posta[C]nowił oddalić Ją pota[H7]jemnie.
+O, jakże gorzkie są wody, Ma[e]ryjo!
+W:
+[C]Baranko Boża, pokorna Baranko,
+[e]Ty, która nie opierasz się złu,
+[a]Matko Jezusa i Matko nasza,
+módl się za [H7]nami, módl się za [e]nami!
+
+K:
+[e]Maryja wydała na świat swego Syna,
+owi[a]nęła Go w pieluszki i złożyła w żłobie,
+bo nie [C]było dla nich miejsca w żadnej gos[H7]podzie.
+O, jakże gorzkie są wody, Ma[e]ryjo!
+W:
+[C]Baranko Boża, pokorna Baranko,
+[e]Ty, która nie opierasz się złu,
+[a]Matko Jezusa i Matko nasza,
+módl się za [H7]nami,
+módl się za [e]nami!
+
+K:
+[e]A wstawszy, Józef
+[a]wziął ze sobą Dziecię i Jego Matkę,
+i [C]uciekł nocą do Egiptu,               bo Herod chciał zabić [H7]Dziecię!
+O, jakże gorzkie są wody, Ma[e]ryjo!
+W:
+[C]Baranko Boża …
+
+K:
+[e]Płacz i krzyk słychać w Rama, aj, aj, aj…
+[a]lament i zawodzenie wielkie,
+to Ra[C]chela, która opłakuje swoje dziecii nie chce dać się pocieszyć, bo już ich [H7]nie ma.
+O, jakże gorzkie są wody, Ma[e]ryjo!
+W:
+[C]Baranko Boża …
+
+K:
+[e]I Anioł Pański ukazał się Józefowi                            w Egipcie, i rzekł mu:
+„[a]Wstań i weź ze sobą Dziecię i Jego Matkę,
+i wr[C]óć do ziemi Izra[H7]ela,
+albowiem z Egiptu wezwałem Mego [e]Syna!”
+W:
+[C]Baranko Boża, pokorna Baranko,
+[e]Ty, która nie opierasz się złu,
+[a]Matko Jezusa i Matko nasza,
+módl się za [H7]nami, módl się za [e]nami!

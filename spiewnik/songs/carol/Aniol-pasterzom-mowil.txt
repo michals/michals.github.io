@@ -1,0 +1,133 @@
+===
+title: "Anioł pasterzom mówił"
+section: "carol"
+color: "carol"
+tone: "D"
+songid: "S712AniolPasterzomMowil"
+author:
+  - "tr"
+year: 1551
+address:
+  - what: "Lb"
+    where: "17, 23"
+  - what: "Mt"
+    where: "17, 5"
+  - what: "Łk"
+    where: "2, 9-11.16"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+alttone:
+  - "F"
+index:
+  - "Aaron"
+  - "anioł"
+  - "Bóg"
+  - "bardzo"
+  - "Betlejem"
+  - "bieżeć"
+  - "całość"
+  - "chcieć"
+  - "Chrystus"
+  - "chwała"
+  - "cześć"
+  - "czystość"
+  - "dowiedzieć"
+  - "Duch"
+  - "Dziecię"
+  - "dziwny"
+  - "figura"
+  - "jako"
+  - "Józef"
+  - "jedyny"
+  - "kosztowny"
+  - "kwitnąć"
+  - "święty"
+  - "żaden"
+  - "żłób"
+  - "mówić"
+  - "Maryja"
+  - "miasto"
+  - "najmilszy"
+  - "narodzić"
+  - "nigdy"
+  - "obiecać"
+  - "Ojciec"
+  - "On"
+  - "owoc"
+  - "pałac"
+  - "Pan"
+  - "panieństwo"
+  - "Panna"
+  - "pasterz"
+  - "począć"
+  - "podły"
+  - "porodzić"
+  - "poselstwo"
+  - "raj"
+  - "różdżka"
+  - "rodząca"
+  - "skwapliwy"
+  - "słuchać"
+  - "spełnić"
+  - "stać"
+  - "stworzenie"
+  - "Syn"
+  - "taki"
+  - "trójca"
+  - "ubóstwo"
+  - "uniżyć"
+  - "ustać"
+  - "wesoły"
+  - "wielki"
+  - "wszego"
+  - "wysłowić"
+  - "wysoki"
+  - "zalecać"
+  - "zbudować"
+  - "zielony"
+  - "znaleźć"
+===
+
+[D]Anioł [A]paste[D]rzom [A7]mó[h]wił:
+[D]Chrystus [G]się wam [A]na[E]ro[A]dził
+[D]W Betle[G]jem [D]nie bar[e]dzo po[D]dłym mieś[A]cie.
+[D]Naro[e]dził się [D]w ubós[A]twie
+[D]Pan [h]wsze[G]go [A]stworze[D]nia.
+
+[D]Chcąc się [A]dowie[D]dzieć [A7]teg[h]o
+[D]posel[G]stwa we[A]so[E]łe[A]go,
+[D]bieże[G]li [D]do Be[e]tlejem [D]skwapli[A]wie.
+[D]Znaleź[e]li Dzie[D]cię w żło[A]bie,
+[D]Ma[h]ry[G]ję [A]z Józe[D]fem.
+
+[D]Taki [A]Pan chwa[D]ły [A7]wiel[h]kiej,
+[D]uni[G]żył się [A]Wy[E]so[A]ki,
+[D]pała[G]cu [D]koszto[e]wnego [D]żadne[A]go
+[D]nie miał [e]zbudo[D]wane[A]go
+[D]Pan [h]wsze[G]go [A]stworze[D]nia.
+
+[D]O dzi[A]wne na[D]ro[A7]dze[h]nie,
+[D]nigdy [G]nie wy[A]sło[E]wio[A]ne!
+[D]Poczę[G]ła [D]Panna [e]Syna [D]w czysto[A]ści,
+[D]poro[e]dziła [D]w cało[A]ści
+[D]Pa[h]nień[G]stwa [A]swoje[D]go.
+
+[D]Już się [A]ono [D]speł[A7]nił[h]o,
+[D]co pod [G]figu[A]rą [E]by[A]ło:
+[D]Aro[G]na [D]różdżka [e]ona [D]zielo[A]na
+[D]stała [e]się nam [D]kwitną[A]ca
+[D]i [h]o[G]woc [A]rodzą[D]ca.
+
+[D]Słuchaj[A]cież Bo[D]ga [A7]Ojc[h]a,
+[D]jako [G]wam Go [A]za[E]le[A]ca:
+[D]Ten ci [G]jest [D]Syn naj[e]milszy, [D]jedy[A]ny,
+[D]w raju [e]wam o[D]bieca[A]ny,
+[D]Te[h]go [G]wy [A]słuchaj[D]cie.
+
+[D]Bogu [A]bądź cześć [D]i [A7]chwa[h]ła,
+[D]która [G]by nie [A]us[E]ta[A]ła,
+[D]Jak Oj[G]cu, [D]tak i [e]Jego [D]Syno[A]wi,
+[D]i Świę[e]temu [D]Ducho[A]wi,
+[D]w Trój[h]cy [G]je[A]dyne[D]mu.

@@ -1,0 +1,101 @@
+===
+title: "Nie ma Go tu, zmartwychwstał"
+section: "precate"
+color: "precate"
+tone: "C"
+songid: "S139NieMaGoTu"
+author:
+  - "K"
+year: 2003
+address:
+  - what: "Mt"
+    where: "28, 1-7"
+  - what: "*OPA"
+    where: ""
+alttone:
+  - "D"
+knownas:
+  - "Po upływie szabatu"
+  - "2003"
+index:
+  - "anioł"
+  - "bać"
+  - "drugi"
+  - "dzień"
+  - "Galilea"
+  - "grób"
+  - "iść"
+  - "Jezus"
+  - "kamień"
+  - "świt"
+  - "Magdalena"
+  - "Maria"
+  - "martwy"
+  - "niebo"
+  - "niewiasta"
+  - "odsunąć"
+  - "On"
+  - "Pański"
+  - "pierwszy"
+  - "powiedzieć"
+  - "powstać"
+  - "szabat"
+  - "szukać"
+  - "szybki"
+  - "teraz"
+  - "trzęsienie"
+  - "tydzień"
+  - "uczeń"
+  - "udać"
+  - "ujrzeć"
+  - "ukrzyżować"
+  - "upływ"
+  - "wiedzieć"
+  - "wielki"
+  - "wyprzedzać"
+  - "ziemia"
+  - "zmartwychwstać"
+  - "zstąpić"
+===
+
+K:
+[C]Po upływie szabatu,
+[E]o świcie pierwszego dnia ty[F]godnia
+Maria Magdalena i [d]druga Maria
+udały się do [E]grobu.
+[d]A oto powstało wielkie trzęsienie [E]ziemi:
+[F]Anioł Pański [G]zstąpił z nieba,
+[E]odsunął kamień [d]i powiedział nie[E]wiastom:
+[D7]„Nie bójcie się!
+[C7]Wiem, że szukacie Jezusa [D7]Ukrzyżowanego.
+
+K:
+[g]Nie ma Go [D7]tu, Zmar[g]twychwstał!
+[g]Nie ma Go [D7]tu, Zmar[g]twychwstał!
+Nie ma Go [c]tu, Zmar[D7]twychwstał!
+W:
+[g]Nie ma Go [D7]tu, Zmar[g]twychwstał!
+[g]Nie ma Go [D7]tu, Zmar[g]twychwstał!
+Nie ma Go [c]tu, Zmar[D7]twychwstał!
+
+K:
+[g]Idźcie szybko powiedzieć Jego ucz[D7]niom:
+On powstał [g]z martwych!
+[c]On powstał z martwych
+i was wyprzedza do Gali[D7]lei.”
+
+W:
+[g]Nie ma Go [D7]tu, Zmar[g]twychwstał!
+[g]Nie ma Go [D7]tu, Zmar[g]twychwstał!
+Nie ma Go [c]tu, Zmar[D7]twychwstał!
+
+K:
+„[g]Idźcie szybko powiedzieć Jego [D7]uczniom:
+On powstał [g]z martwych!
+[c]a teraz was wyprzedza do Gali[D7]lei,
+[c]tam Go uj[D7]rzycie.”
+
+W:
+[g]Nie ma Go [D7]tu, Zmar[g]twychwstał!
+[g]Nie ma Go [D7]tu, Zmar[g]twychwstał!
+Nie ma Go [c]tu, Zmar[D7]twychwstał!

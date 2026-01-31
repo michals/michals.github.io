@@ -1,0 +1,150 @@
+===
+title: "Zaufałem, zaufałem Panu"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S077ZaufalemZaufalemPanu"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "Ps"
+    where: "40"
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "1977"
+  - "Z dołu śmierci mnie wydobył"
+index:
+  - "Bóg"
+  - "błogosławiony"
+  - "błotnisty"
+  - "bojaźń"
+  - "całopalenie"
+  - "chcieć"
+  - "cud"
+  - "dół"
+  - "dlatego"
+  - "dorównać"
+  - "droga"
+  - "gdyby"
+  - "głębia"
+  - "grzęzawisko"
+  - "grzech"
+  - "iść"
+  - "ile"
+  - "kłamstwo"
+  - "krok"
+  - "krwawy"
+  - "krzyk"
+  - "księga"
+  - "śmierć"
+  - "ludzie"
+  - "można"
+  - "napisać"
+  - "nikt"
+  - "nowy"
+  - "obiata"
+  - "odczuć"
+  - "ofiara"
+  - "On"
+  - "otworzyć"
+  - "Pan"
+  - "pełnić"
+  - "pewny"
+  - "pieśń"
+  - "plan"
+  - "pochylić"
+  - "położyć"
+  - "powiedzieć"
+  - "pragnąć"
+  - "prawo"
+  - "pyszny"
+  - "serce"
+  - "skała"
+  - "stawać"
+  - "stopa"
+  - "strona"
+  - "ucho"
+  - "uczynić"
+  - "ufność"
+  - "usta"
+  - "utwierdzić"
+  - "uwielbienie"
+  - "więcej"
+  - "wiele"
+  - "włożyć"
+  - "wola"
+  - "wydobyć"
+  - "wymagać"
+  - "wypowiedzieć"
+  - "wysłuchać"
+  - "zamiana"
+  - "zaufać"
+  - "zawierzyć"
+  - "zliczyć"
+  - "zobaczyć"
+  - "zwój"
+===
+
+KW:
+[a]Zaufałem, zaufałem [e]Panu,
+a [a]On nade mną się po[e]chylił
+i wy[F]słuchał mego [E7]krzyku,
+z dołu [F]śmierci mnie wy[E]dobył!
+K:
+Z dołu [a]śmierci mnie wy[e]dobył,
+z błotni[a]stego grzęza[e]wiska,
+na [F]skale utwierdził moje [E7]stopy,
+pew[F]nymi uczynił moje [E]kroki.
+W:
+[a]Zaufałem, zaufałem [e]Panu,
+a [a]On nade mną się po[e]chylił
+i wy[F]słuchał mego [E7]krzyku,
+z dołu [F]śmierci mnie wy[E]dobył!
+K:
+W moje [a]usta włożył nową [e]pieśń,
+uwiel[a]bienie dla naszego [e]Boga;
+wielu zo[F]baczy i odczuje [E7]bojaźń
+i po[F]łoży swoją ufność [E]w Panu.
+W:
+[a]Zaufałem, zaufałem [e]Panu,
+a [a]On nade mną się po[e]chylił
+i wy[F]słuchał mego [E7]krzyku,
+z dołu [F]śmierci mnie wy[E]dobył!
+K:
+Błogosła[a]wiony, kto zawierzył [e]Panu,
+i nie [a]staje po stronie ludzi [e]pysznych,
+ani [F]tych, którzy idą drogą [E7]kłamstwa.
+Błogosła[F]wiony, kto zawierzył [E]Panu.
+
+W:
+[a]Zaufałem, zaufałem [e]Panu,
+a [a]On nade mną się po[e]chylił
+i wy[F]słuchał mego [E7]krzyku,
+z dołu [F]śmierci mnie wy[E]dobył!
+K:
+Ileż [a]cudów dla nas uczy[e]niłeś,
+ileż [a]planów, w których nikt Ci nie do[e]równa;
+gdybym [F]chciał je wypo[E7]wiedzieć,
+jest ich [F]więcej, niż by można [E]zliczyć.
+W:
+[a]Zaufałem, zaufałem [e]Panu,
+a [a]On nade mną się po[e]chylił
+i wy[F]słuchał mego [E7]krzyku,
+z dołu [F]śmierci mnie wy[E]dobył!
+KW:
+Krwawych [a]ofiar ani obiat Ty nie p[e]ragniesz;
+w zamian [a]za to otworzyłeś moje [e]uszy.
+Całopa[F]lenia za grzech nie wyma[E7]gałeś,
+dlategom po[F]wiedział: „Oto idę, by pełnić Twoją [E]wolę”.
+K:
+W zwoju [a]księgi o mnie napi[e]sano,
+że mam [a]pełnić, Panie, Twoją [e]wolę;
+Boże [F]mój, tego właśnie [E7]pragnę:
+Twego [F]prawa w głębi mego [E]serca.
+W:
+[a]Zaufałem, zaufałem [e]Panu,
+a [a]On nade mną się po[e]chylił
+i wy[F]słuchał mego [E7]krzyku,
+z dołu [F]śmierci mnie wy[E]dobył!

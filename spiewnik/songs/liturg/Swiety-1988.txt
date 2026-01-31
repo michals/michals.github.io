@@ -1,0 +1,58 @@
+===
+title: "Święty 1988"
+section: "liturg"
+color: "liturg"
+tone: "a"
+songid: "S007SwietySwietySwiety1988"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "*MSZ"
+    where: ""
+alttone:
+  - "a"
+  - "h"
+knownas:
+  - "1988"
+  - "Święty nowe 1988"
+index:
+  - "błogosławiony"
+  - "chwała"
+  - "hosanna"
+  - "iść"
+  - "imię"
+  - "święty"
+  - "niebiosa"
+  - "niebo"
+  - "Pan"
+  - "pełny"
+  - "wysoki"
+  - "ziemia"
+===
+
+W:
+[a]Święty, [G]święty, [a]święty!
+[a]Święty, [G]święty, [a]święty!
+KW:
+[a]Niebiosa i [G]ziemia
+są pełne Twojej [a]chwały!
+KW:
+Ho[F]sanna na niebie wy[E7]sokim!
+W:
+[a]Święty, [G]święty, [a]święty!
+[a]Święty, [G]święty, [a]święty!
+KW:
+[a]Błogosławiony, który [G]idzie,
+który idzie w imię [a]Pana!
+KW:
+Ho[F]sanna na niebie wy[E7]sokim!
+W:
+[a]Święty, [G]święty, [a]święty!
+[a]Święty, [G]święty, [a]święty!
+K:
+[F]Święty, święty, [E7]święty!
+W:
+[F]Święty, święty, [E7]święty!
+
+256]26

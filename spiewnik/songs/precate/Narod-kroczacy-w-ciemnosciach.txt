@@ -1,0 +1,119 @@
+===
+title: "Naród kroczący w ciemnościach"
+section: "precate"
+color: "precate"
+tone: "C"
+songid: "S088NarodKroczacyWCiemnosciach"
+author:
+  - "RR"
+year: 1992
+address:
+  - what: "Iz"
+    where: "9, 1-5"
+  - what: "*OAD"
+    where: ""
+  - what: "*OBN"
+    where: ""
+alttone:
+  - "Es"
+knownas:
+  - "Na ramionach Jego spoczęła władza"
+index:
+  - "Bóg"
+  - "bark"
+  - "but"
+  - "ciemności"
+  - "doradca"
+  - "dręczyciel"
+  - "Dziecię"
+  - "dzień"
+  - "dzielić"
+  - "gnieść"
+  - "jarzmo"
+  - "każdy"
+  - "kraina"
+  - "krew"
+  - "kroczący"
+  - "kroczyć"
+  - "książę"
+  - "łup"
+  - "światło"
+  - "światłość"
+  - "żniwa"
+  - "lud"
+  - "Madian"
+  - "mroczny"
+  - "naród"
+  - "narodzić"
+  - "nazwać"
+  - "odwieczny"
+  - "ogień"
+  - "Ojciec"
+  - "pójść"
+  - "pastwa"
+  - "płaszcz"
+  - "pokój"
+  - "pomnożyć"
+  - "potężny"
+  - "przedziwny"
+  - "przemoc"
+  - "przy"
+  - "radość"
+  - "radować"
+  - "rózga"
+  - "ramię"
+  - "rozradować"
+  - "spalić"
+  - "spocząć"
+  - "spotęgować"
+  - "Syn"
+  - "uciskać"
+  - "wesele"
+  - "weselić"
+  - "wielki"
+  - "wierny"
+  - "władza"
+  - "wszelki"
+  - "zabłysnąć"
+  - "zbroczyć"
+  - "zesłany"
+  - "złamać"
+  - "zobaczyć"
+  - "zostać"
+===
+
+K:
+[C]Naród kroczący w ciem[a]nościach
+zo[F]baczył światłość [a]wielką.
+[G]Nad kroczącymi w krainie [a]mrocznej
+za[G]błysło potężne [a]światło.
+[C]Pomnożyłeś im [a]radość,
+spotęgo[F]wałeś ich we[a]sele,
+[G]rozradowali się przed [a]Tobą,
+[G]jak radują się we [a]żniwa,
+[G]jak weselą się przy dzieleniu [a]łupu.
+
+W:
+[a]Na ramionach [C]Jego spoczęła [a]władza.
+I nazwany [Gis]będzie, i nazwany [G]będzie:
+Prze[C]dziwny i Wierny Do[a]radca,
+Bóg Po[F]tężny, Odwieczny [a]Ojciec,
+[G]Książę Po[a]koju, [G]Książę Po[a]koju.
+
+K:
+[C]Albowiem jarzmo, które lud ucis[a]kało,
+jarzmo, [F]które gniotło jego [a]barki,
+[G]rózgę dręczy[a]ciela
+zła[G]małeś jak w dzień Ma[a]dianu.
+[C]I tak każdy but prze[a]mocy
+i [F]wszelki płaszcz krwią zbro[a]czony
+[G]pójdą na spalenie, na pastwę [a]ognia,
+[G]bo Dziecię nam się naro[a]dziło
+[G]i Syn został nam ze[a]słany.
+
+W:
+[a]Na ramionach [C]Jego spoczęła [a]władza.
+I nazwany [Gis]będzie, i nazwany [G]będzie:
+Prze[C]dziwny i Wierny Do[a]radca,
+Bóg Po[F]tężny, Odwieczny [a]Ojciec,
+[G]Książę Po[a]koju, [G]Książę Po[a]koju.

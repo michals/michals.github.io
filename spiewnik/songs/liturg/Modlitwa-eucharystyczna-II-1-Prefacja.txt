@@ -1,0 +1,107 @@
+===
+title: "Modlitwa eucharystyczna II (1)"
+subtitle: "Prefacja"
+section: "liturg"
+color: "liturg"
+tone: "a"
+songid: "L00PrefM2"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*MSZ"
+    where: ""
+alttone:
+  - "a"
+  - "h"
+index:
+  - "anioł"
+  - "Bóg"
+  - "Chrystus"
+  - "chwała"
+  - "człowiek"
+  - "dlatego"
+  - "duch"
+  - "Duch"
+  - "dziękczynienie"
+  - "dzięki"
+  - "Dziewica"
+  - "góra"
+  - "głosić"
+  - "godny"
+  - "jako"
+  - "Jezus"
+  - "krzyż"
+  - "śmierć"
+  - "święty"
+  - "lud"
+  - "moc"
+  - "nabyć"
+  - "narodzić"
+  - "objawić"
+  - "Odkupiciel"
+  - "Ojciec"
+  - "On"
+  - "Pan"
+  - "pokonać"
+  - "ręka"
+  - "razem"
+  - "serce"
+  - "składać"
+  - "Słowo"
+  - "słuszny"
+  - "spełniać"
+  - "sprawa"
+  - "sprawiedliwy"
+  - "stać"
+  - "stworzyć"
+  - "Syn"
+  - "umiłowany"
+  - "wołać"
+  - "wola"
+  - "wszędzie"
+  - "wszystek"
+  - "wszystko"
+  - "wyciągnąć"
+  - "wznosić"
+  - "zaprawdę"
+  - "zawsze"
+  - "Zbawiciel"
+  - "zbawienny"
+  - "zesłać"
+  - "zmartwychwstać"
+===
+
+P:
+[G]Pan [a]z wami.
+W:
+[G]i z duchem [a]twoim.
+P:
+[F]W górę [E]serca.
+W:
+[F]Wznosimy je do [E]Pana.
+P:
+[E7]Dzięki składajmy Panu, Bogu na[a]szemu.
+W:
+Godne [G]to i sprawie[a]dliwe. Godne [G]to i sprawie[a]dliwe.
+P:
+Zaprawdę godne to i sprawied[G]liwe, słuszne i zba[a]wienne,
+abyśmy [C]Tobie, Ojcze [a]Święty
+zawsze i [G]wszędzie składali dziękczynienie
+przez umiłowanego Syna Twojego, Jezusa Chry[a]stusa.
+On jest Słowem [G]Twoim, przez które wszystko stwo[a]rzyłeś,
+Jego nam zes[C]łałeś, jako Zbawiciela i Odkupi[a]ciela,
+który [G]stał się człowiekiem za sprawą Ducha Świętego       i narodził się z Dzie[a]wicy.
+[F]On spełniając Twoją [E]wolę, [F]nabył dla Ciebie lud [E]święty
+Rytm.
+PW:
+gdy wy[a]ciągnął swoje ręce na [G]krzyżu,
+aby śmierć po[F]konać
+i objawić moc zmartwych[E]wstania.
+P:
+Dla[a]tego z Anio[G]łami i wszystkimi Świę[a]tymi
+głosimy Twoją [G]chwałę, razem z nimi wo[a]łając:
+
+Następuje „Święty”
+
+236]22

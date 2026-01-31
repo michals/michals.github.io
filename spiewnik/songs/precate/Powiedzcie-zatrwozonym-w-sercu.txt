@@ -1,0 +1,89 @@
+===
+title: "Powiedzcie zatrwożonym w sercu"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S086PowiedzcieZatrwozonymWSercu"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Iz"
+    where: "35, 4nn"
+  - what: "*OAD"
+    where: ""
+  - what: "*OWP"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+knownas:
+  - "Pieśń o drodze"
+  - "Albowiem będzie tam droga"
+index:
+  - "alleluja"
+  - "bać"
+  - "Bóg"
+  - "biedny"
+  - "chromy"
+  - "droga"
+  - "głuchy"
+  - "grzesznik"
+  - "iść"
+  - "język"
+  - "jeleń"
+  - "ślepy"
+  - "śpiewać"
+  - "niemy"
+  - "oddalony"
+  - "odwaga"
+  - "oko"
+  - "otworzyć"
+  - "Pan"
+  - "powiedzieć"
+  - "powracać"
+  - "przychodzić"
+  - "radość"
+  - "serce"
+  - "skakać"
+  - "słyszeć"
+  - "szczęście"
+  - "ubogi"
+  - "ucho"
+  - "wielki"
+  - "wszyscy"
+  - "wtedy"
+  - "wyzwolić"
+  - "zakrzyczeć"
+  - "zatrwożony"
+  - "zbawić"
+  - "zbawienie"
+===
+
+K:
+[a]Powiedzcie zatrwożonym [dNmS]w sercu,
+powiedzcie to, powiedzcie to u[a]bogim:
+„odwa[F]gi, nie [E]bójcie się,
+wasz [F]Bóg przychodzi, by was zba[E]wić”.
+[a]I wtedy otworzą się oczy [dNmS]ślepych,
+będą słyszeć uszy [a]głuchych,
+i wted[F]y chromy skakać będzie jak [E]jeleń,
+[F]zakrzyczą z radości języki [E]niemych.
+W:
+[C]Albowiem będzie [e]tam dr[C]oga,
+[e]droga zba[a]wienia,
+[C]droga zba[e]wienia dla u[a]bogich
+K:
+i po niej [e]idąc powracać będą wyzwo[a]leni przez Pana,
+W:
+i po niej [e]idąc powracać będą wyzwo[a]leni przez Pana.
+K:
+Wszyscy [e]biedni, ślepi, chromi, odda[a]leni od Pana,
+W:
+wszyscy [e]biedni, ślepi, chromi, odda[a]leni od Pana,
+K:
+i grzesz[e]nicy.
+W:
+I śpiewać [F]będą z wielkiego [E]szczęścia!
+I śpiewać [F]będą z wielkiego [E]szczęścia!
+Allelu[F]ja, allelu[E]ja!
+Allelu[F]ja, allelu[E]ja!

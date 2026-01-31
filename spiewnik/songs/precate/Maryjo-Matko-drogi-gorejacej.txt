@@ -1,0 +1,84 @@
+===
+title: "Maryjo, Matko drogi gorejącej"
+subtitle: "Hymn do Madonny Trzeciego Tysiąclecia"
+section: "precate"
+color: "precate"
+tone: "G"
+songid: "S132MaryjoMatkoDrogiGorejacej"
+author:
+  - "K"
+year: 1999
+address:
+  - what: "*OAD"
+    where: ""
+  - what: "*MAR"
+    where: ""
+  - what: "*HYM"
+    where: ""
+knownas:
+  - "["
+  - "Matko drogi gorejącej"
+  - "1996"
+index:
+  - "anioł"
+  - "cichy"
+  - "cnota"
+  - "droga"
+  - "goreć"
+  - "jakże"
+  - "Jeruzalem"
+  - "każdy"
+  - "konać"
+  - "krzyż"
+  - "łaska"
+  - "Maryja"
+  - "matka"
+  - "milenium"
+  - "namiętność"
+  - "niebieski"
+  - "niepokalany"
+  - "obraz"
+  - "ogień"
+  - "piękno"
+  - "powiedzieć"
+  - "przyjąć"
+  - "rosa"
+  - "skarbnica"
+  - "stróż"
+  - "Syn"
+  - "trzeci"
+  - "ukazać"
+  - "uwalniać"
+  - "wstawiennictwo"
+  - "wszelki"
+  - "wszystek"
+  - "wyśpiewywać"
+===
+
+K:
+[G]Maryjo,[e] Matko [C]drogi gore[A]jącej,
+{{{ 2x
+Ty nas u[C]walniasz od ognia namięt[G]ności
+rosą Two[D]jego wstawien[G]nictwa.
+}}}
+
+W:
+[e]Cicha Mary[C]jo, [A]wszystka niepoka[D]lana,
+[C]aniele stróżu trzeciego mile[G]nium,
+[D]skarbnico wszelkich [G]łask,
+o[C]brazie każdej [G]cnoty,
+[D]Twe piękno wyśpiewuje Jeruzalem nie[G]bieskie.
+
+K:
+[e]Ty [C]ukazałaś nam [A]drogę,
+pod [C]krzyżem przyjęłaś [G]nas.
+[D]Matko drogi gore[G]jącej,
+pod [C]krzyżem przyjęłaś [G]nas.
+[D]Jakże powiedzieć: „nie”, Twemu Synowi, [G]gdy kona.
+
+W:
+[e]Cicha Mary[C]jo, [A]wszystka niepoka[D]lana,
+[C]aniele stróżu trzeciego mile[G]nium,
+[D]skarbnico wszelkich [G]łask,
+o[C]brazie każdej [G]cnoty,
+[D]Twe piękno wyśpiewuje Jeruzalem nie[G]bieskie.

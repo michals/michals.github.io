@@ -1,0 +1,275 @@
+===
+title: "Dzięki Ci, Jahwe"
+subtitle: "Melodia hebrajska"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S039DziekiCiJahwe"
+author:
+  - "GG"
+  - "EG"
+year: 1993
+address:
+  - what: "Ps"
+    where: "136"
+  - what: "*OPA"
+    where: ""
+  - what: "*PAX"
+    where: ""
+  - what: "*KOM"
+    where: ""
+  - what: "*ZAK"
+    where: ""
+knownas:
+  - "Panie, dzięki Ci"
+yhwh: true
+index:
+  - "alleluja"
+  - "Bóg"
+  - "cud"
+  - "czas"
+  - "część"
+  - "czynić"
+  - "dać"
+  - "dawać"
+  - "dwa"
+  - "dzięki"
+  - "dziękować"
+  - "Egipt"
+  - "gnębiciel"
+  - "Izrael"
+  - "Jahwe"
+  - "jeden"
+  - "klęska"
+  - "księżyc"
+  - "środkiem"
+  - "światło"
+  - "lud"
+  - "mądrość"
+  - "miód"
+  - "miłość"
+  - "mleko"
+  - "morze"
+  - "niebiosa"
+  - "nieprzyjaciel"
+  - "niewola"
+  - "obietnica"
+  - "On"
+  - "opuszczać"
+  - "płynąć"
+  - "podzielić"
+  - "pokarm"
+  - "prowadzić"
+  - "przeogromny"
+  - "przeprowadzić"
+  - "pustynia"
+  - "sam"
+  - "słońce"
+  - "stworzenie"
+  - "syn"
+  - "uczynić"
+  - "uderzyć"
+  - "utwierdzić"
+  - "uwalniać"
+  - "według"
+  - "wiek"
+  - "wielki"
+  - "władać"
+  - "woda"
+  - "wojsko"
+  - "wszelki"
+  - "wybrany"
+  - "wyprowadzić"
+  - "zatopić"
+  - "ziemia"
+===
+
+W:
+[e]Dzięki [D]Ci, Jah[e]we, al[D]lelu[e]ja.
+Dzięki [D]Ci, Jah[e]we, al[D]lelu[e]ja.
+[a]Dzięki [e]Ci, Jahwe, al[a]lelu[e]ja.
+[a]Dzięki [e]Ci, Jahwe, al[H7]lelu[e]ja.
+
+K:
+[C]Dzię[e]kujmy [D]Bogu na[G]szemu,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+On sam [h]jeden czyni wielkie [e]cuda.
+W:
+Dzięki [D]Ci, Jah[e]we, …
+
+K:
+[C]On w mą[e]drości nie[D]biosa u[G]czynił,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+On utwierdził [h]ziemię nad wo[e]dami.
+W:
+Dzięki [D]Ci, Jah[e]we, …
+
+K:
+[C]On u[e]czynił [D]przeogromne [G]światła,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+Słońce, księżyc, [h]by władały [e]czasem.
+W:
+Dzięki [D]Ci, Jah[e]we, …
+
+K:
+[C]On u[e]derzył [D]Egipt w jego [G]synach,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+Wyprowadził z nie[h]woli Izra[e]ela.
+W:
+Dzięki [D]Ci, Jah[e]we, …
+
+K:
+[C]On po[e]dzielił [D]morze na dwie [G]części,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+Przeprowadził [h]środkiem lud wy[e]brany.
+W:
+Dzięki [D]Ci, Jah[e]we, …
+
+K:
+[C]On za[e]topił [D]wojsko nieprzy[G]jaciół,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+I prowadził [h]lud swój przez pu[e]stynię.
+W:
+Dzięki [D]Ci, Jah[e]we, …
+
+K:
+[C]Dał nam [e]według [D]swojej obie[G]tnicy,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+Ziemię mlekiem i [h]miodem pły[e]nącą.
+W:
+Dzięki [D]Ci, Jah[e]we, …
+
+K:
+[C]W naszej [e]klęsce [D]On nas nie o[G]puszcza,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+On nas u[h]walnia od naszych gnębi[G]cieli.
+W:
+Dzięki [D]Ci, Jah[e]we, …
+
+K:
+[C]Daje [e]pokarm wszel[D]kiemu stwo[G]rzeniu,
+W:
+[C]bo na [e]wieki [D]Jego wielka [G]miłość.
+K:
+Dziękujmy [h]Bogu na[e]szemu.
+W:
+Dzięki [D]Ci, Jah[e]we, …
+
+W:
+[e]Elí, E([E7])lí, lem[a]á sabach[e]thaní?
+Boże mój, Boże mój, [a]czemu mnie opuś[e]ciłeś?
+K:
+[H7]Jakże dalekie Twoje zbawienie od mego jęku,
+wołam Cię w dzień, a nie odpowiadasz,
+krzyczę i nocą, a nie zaznaję spo[e]czynku.
+W:
+[e]Elí, E([E7])lí, lem[a]á sabach[e]thaní?
+Boże mój, Boże mój, [a]czemu mnie opuś[e]ciłeś?
+K:
+[H7]A przecież Ty jesteś Święty,
+Ty, który mieszkasz w uwielbieniu mego ludu.
+Tobie zaufali moi ojcowie,
+zaufali, a Tyś ich wyzwolił;
+do Ciebie krzyczeli i ich wybawiłeś,
+Tobie zaufali i nie zostali zawie[e]dzeni.
+Ale ([E7])ja? Dlaczego mi ni[a]e pomagasz?
+Czyż nie jestem czło[e]wiekiem?
+Oto [H7]ja jestem robakiem!
+Pośmiewisko ludzi! Wzgarda ludu!
+Szydzą ze mnie ci, którzy na mnie patrzą,
+wykrzywiają usta, potrząsają głową, oni mówią:
+„Niech woła do Boga, niechaj go uwolni
+jeśli to prawda, że tak bardzo go mi[e]łuje”.
+([E7])Tak, Ty mnie kochasz, tak, Ty mnie mi[a]łujesz!
+Ty mnie wydobyłeś z łona mej [e]matki.
+
+Od mego [H7]narodzenia Ty mnie przyjąłeś,
+od łona mojej matki jesteś moim Bogiem.
+Zostałem powierzony Tobie, gdy się ro[e]dziłem.
+W:
+[e]Elí, E([E7])lí, lem[a]á sabach[e]thaní?
+Boże mój, Boże mój, [a]czemu mnie opuś[e]ciłeś?
+K:
+Ota[H7]czają mnie byki niezliczone,
+osaczają mnie byki Baszanu.
+Rozwierają przeciw mnie swoje paszcze
+jak lew drapieżny i ryczący, jak wściekłe [e]psy.
+Jestem brudną wodą, do wy[a]lania.
+Są rozłączone wszystkie moje [e]kości.
+Jak wosk jest moje [H7]serce,
+topnieje pośród mych wnętrzności.
+Moje gardło suche jak skorupa,
+język mój przywarł do podniebienia,
+położyłeś mnie w prochu śmi[e]erci.
+W:
+[e]Elí, E([E7])lí, lem[a]á sabach[e]thaní?
+Boże mój, Boże mój, [a]czemu mnie opuś[e]ciłeś?
+K:
+Sfora psów mnie o[H7]pada,
+osacza mnie zgraja złoczyńców;
+przebodli moje ręce i moje nogi,
+policzyć mogę wszystkie moje kości.
+Wpatrują się we mnie, obserwują mnie:
+dzielą między siebie moje szaty,
+o moją suknię los rzuc[e]ają.
+
+A Ty, o Panie, ([E7])nie stój z da[a]leka,
+mocy moja, mocy moja,
+spiesz mi, spiesz mi na [e]pomoc.
+Ocal mnie od [H7]miecza,
+z psich pazurów wyrwij moje życie,
+wybaw mnie z paszczy lwa,
+i od bawolich rogów,
+ratuj moją duszę, ratuj moją [e]duszę.
+Będę głosił([E7]) Twoje [a]imię moim braciom,
+chwalić Cię będę pośród zgroma[e]dzenia:
+chwalcie [H7]Pana wy, co się Go boicie,
+niech Mu odda chwałę potomstwo Jakuba,
+niech się Go boi dom Izra[e]ela;
+bowiem [a]On nie wzgardził,
+ani się nie brzydził tym bie[e]dakiem,
+[H7]ale wysłuchał go, gdy krzyczał o pomoc,
+nie ukrył przed nim swojego oblicza,
+ale przyszedł mu z po[e]mocą.
+[a]Ty jesteś moją chwałą w wielkim zgroma[e]dzeniu,
+wy[a]pełnię moje śluby przed wier[e]nymi.
+
+Teraz wiem, teraz wiem,
+że u[H7]bodzy będą jedli do syta,
+chwalić Cię będą wszyscy ci, którzy Cię szukają,
+że ich serce, serce biedaków, ubogich,
+żyć będzie na [e]zawsze.
+Powrócą do [a]Pana wszystkie krańce [e]ziemi,
+pokłon Mu oddadzą wszystkie rodziny na[H7]rodów.
+Bo królestwo, bo królestwo należy do Pana,
+On panuje nad wszystkimi narodami.
+Tylko Jemu pokłon oddadzą
+wszyscy śpiący pod ziemią,
+zegną się przed Nim
+ci, którzy w proch zstę[e]pują,
+bowiem ja, bowiem [a]ja żyć będę, żyć będę,
+żyć będę dla [e]Niego,
+Jemu służyć będzie moje po[H7]tomstwo.
+Opowie o Panu pokoleniu, które przyjdzie;
+[e]ogłosi to [a]wszystko, co uczynił [e]ze mną;
+ludowi, który się narodzi, [H7]powie:
+„Oto dzieło [e]Pana!”
+W:
+[e]Elí, E([E7])lí, lem[a]á sabach[e]thaní?
+Boże mój, Boże mój, [a]czemu mnie opuś[e]ciłeś?

@@ -1,0 +1,131 @@
+===
+title: "Pieśń czterech nocy"
+subtitle: "Melodia hebrajska"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S922PiesnCzterechNocy"
+author:
+  - "LSa"
+  - "trm"
+year: 2022
+address:
+  - what: "*DZI"
+    where: ""
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*HEB"
+    where: ""
+alttone:
+  - "c"
+  - "d"
+knownas:
+  - "1983"
+children: true
+index:
+  - "Abraham"
+  - "Adam"
+  - "anioł"
+  - "bać"
+  - "Bóg"
+  - "bardzo"
+  - "cały"
+  - "Chrystus"
+  - "dać"
+  - "dlatego"
+  - "drugi"
+  - "dziś"
+  - "Egipt"
+  - "faraon"
+  - "Izaak"
+  - "jeden"
+  - "każdy"
+  - "kochać"
+  - "krzyk"
+  - "śmierć"
+  - "śpiewać"
+  - "świat"
+  - "święta"
+  - "żona"
+  - "życie"
+  - "żywy"
+  - "lud"
+  - "Mojżesz"
+  - "morze"
+  - "niewola"
+  - "niewolić"
+  - "nikt"
+  - "noc"
+  - "obietnica"
+  - "ojciec"
+  - "On"
+  - "Pan"
+  - "pascha"
+  - "paschalny"
+  - "pierwszy"
+  - "podczas"
+  - "podnieść"
+  - "potem"
+  - "przymierze"
+  - "przywódca"
+  - "radość"
+  - "radosny"
+  - "ramię"
+  - "samotny"
+  - "serce"
+  - "spełnić"
+  - "stać"
+  - "stworzyć"
+  - "trzeci"
+  - "urządzić"
+  - "wiara"
+  - "wlać"
+  - "wolność"
+  - "wstrzymać"
+  - "wszyscy"
+  - "wszystko"
+  - "wyzwolić"
+  - "zalać"
+  - "zawrzeć"
+  - "zbawiony"
+  - "zginąć"
+  - "zmartwychwstać"
+  - "Zmartwychwstały"
+===
+
+[a]Podczas pierwszej [C]nocy [d]Pan Bóg był sa[a]motny.
+[d]Kochał bardzo [a]życie, dla[E]tego wszystko [a]stworzył.
+[F]Stworzył też Adama i [G]cały świat mu [C]dał.
+[F]Dał mu żonę a potem [G]radość w sercu [C]miał.
+[G]Pan Bóg wszystko [a]stworzył, a [d]Chrystus już był [a]z Nim,
+[d]Pan Bóg wszystko [a]stworzył, a [E]Chrystus już był [a]z Nim.
+
+[a]Zawarł też przy[C]mierze [d]z ojcem Abra[a]hamem,
+[d]W Izaaku [a]spełnił [E]obietnicę [a]daną.
+[F]Tej to drugiej nocy [G]Anioł podniósł [C]krzyk,
+[F]Wstrzymał ramię ojca [G]i nie zginął [C]nikt.
+I[G]zaak był zba[a]wiony, a [d]Chrystus też był [a]z nim.
+I[d]zaak był zba[a]wiony, a [E]Chrystus też był [a]z nim.
+
+Gdy [a]byliśmy w E[C]gipcie, fa[d]raon nas nie[a]wolił,
+[d]Bóg urządził [a]Paschę, z nie[E]woli nas wy[a]zwolił.
+[F]Tej to trzeciej nocy nad [G]ludem Anioł [C]stał,
+[F]Morze tych zalało, co [G]się ich każdy [C]bał.
+[G]Mojżesz był przy[a]wódcą, a [d]Chrystus też był [a]z nim.
+[D]Mojżesz był przy[a]wódcą, a [E]Chrystus też był [a]z nim.
+
+W tę [a]świętą noc pa[C]schalną ra[d]dośnie dziś śpie[a]wamy,
+[d]Chrystus Zmartwy[a]chwstały, [E]żywy jest tu [a]z nami.
+[F]Jednej nocy [G]stworzył dla nas [C]świat,
+[F]Jednej nocy [G]wiarę w serca [C]wlał,
+[G]Jednej świętej [a]nocy [d]wszystkim wolność [a]dał,
+[d]Jednej świętej [a]nocy [E]dla nas zmartwych[a]wstał.
+
+{{{ 2x
+[F]Tej tu nocy [G]dla nas zmartwych[C]wstał.
+[F]I od śmierci [G]wszystkim wolność [C]dał.
+[G]Chrystus Zmartwych[a]wstały, [d]żywy jest tu [a]z nami.
+[d]Chrystus Zmartwych[a]wstały, [E]żywy jest tu [a]z nami.
+}}}

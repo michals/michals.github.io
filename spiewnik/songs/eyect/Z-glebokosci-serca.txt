@@ -1,0 +1,82 @@
+===
+title: "Z głębokości serca"
+section: "eyect"
+color: "eyect"
+tone: "D"
+songid: "S507ZGlebokosciSerca"
+author:
+  - "PR"
+year: 1986
+address:
+  - what: "Ps"
+    where: "130"
+index:
+  - "Bóg"
+  - "bardziej"
+  - "dusza"
+  - "głębokość"
+  - "grzech"
+  - "jutrzenka"
+  - "łaska"
+  - "lud"
+  - "miłosierdzie"
+  - "obfitować"
+  - "On"
+  - "ostać"
+  - "otwarty"
+  - "Pan"
+  - "pomnieć"
+  - "przebaczyć"
+  - "serce"
+  - "słowo"
+  - "strażnik"
+  - "ucho"
+  - "wołać"
+  - "wrócić"
+  - "wszechmocny"
+  - "wszystek"
+  - "wyczekiwać"
+  - "wysłuchać"
+  - "zaufać"
+===
+
+W:
+[D]Z głębokości [G]serca
+[D]wołam do Ciebie, [A]Panie.
+[D]Miej uszy o[G]twarte,
+wy[D]słuchaj mnie, o [A]Panie
+
+K:
+[F#7]Jeśli na grzechy [h]pomnisz,
+[F#7]któż się przed Tobą o[h]stoi?
+[G]Ale u Ciebie [A]jest przebaczenie,
+[G]byśmy do Ciebie wró[E]ci[A]li.
+W:
+[D]Z głębokości [G]serca
+[D]wołam do Ciebie, [A]Panie.
+[D]Miej uszy o[G]twarte,
+wy[D]słuchaj mnie, o [A]Panie
+
+K:
+[F#7]Serce me zau[h]fało
+[F#7]Twemu wszechmocnemu [h]słowu,
+[G]dusza moja wyczekuje [A]Pana
+[G]bardziej, niż strażnik ju[E]trzen[A]ki
+W:
+[D]Z głębokości [G]serca
+[D]wołam do Ciebie, [A]Panie.
+[D]Miej uszy o[G]twarte,
+wy[D]słuchaj mnie, o [A]Panie
+
+K:
+U [F#7]Boga jest miło[h]sierdzie
+[F#7]i obfituje [h]łaska
+[G]On przebaczy [A]swemu ludowi
+[G]wszystkie jego [E]grze[A]chy.
+W:
+[D]Z głębokości [G]serca
+[D]wołam do Ciebie, [A]Panie.
+[D]Miej uszy o[G]twarte,
+wy[D]słuchaj mnie, o [A]Panie
+
+187]926

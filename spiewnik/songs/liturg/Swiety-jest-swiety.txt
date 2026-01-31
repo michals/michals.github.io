@@ -1,0 +1,69 @@
+===
+title: "Święty jest święty"
+subtitle: "Melodia hebrajska"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "S005SwietyJestSwietyWielkiPost"
+author:
+  - "GG"
+  - "K"
+  - "trm"
+year: 1993
+address:
+  - what: "*MSZ"
+    where: ""
+  - what: "*HEB"
+    where: ""
+alttone:
+  - "e"
+  - "g"
+knownas:
+  - "Święty hebrajskie"
+yhwh: true
+index:
+  - "błogosławiony"
+  - "hosanna"
+  - "iść"
+  - "imię"
+  - "Jahwe"
+  - "święty"
+  - "niebiosa"
+  - "Pan"
+  - "Sabaoth"
+  - "wypełnić"
+  - "wysokość"
+  - "ziemia"
+===
+
+W:
+[e]Święty jest święty, Święty jest święty,
+[G]Święty jest święty, Święty jest święty,
+[a]Święty jest święty, Jahwe [e]Sabaoth.
+
+KW:
+[e]Niebiosa [a]i [e]ziemia
+[a]wypełnione są [e]Tobą.
+
+KW:
+[e]Hosanna [a]na wyso[e]kości,
+[a]hosan[e]na!
+
+W:
+[e]Święty jest święty, Święty jest święty,
+[G]Święty jest święty, Święty jest święty,
+[a]Święty jest święty, Jahwe [e]Sabaoth.
+
+KW:
+[e]Błogosławiony [a]Ten, który [e]idzie,
+[a]który idzie w imię [e]Pana.
+
+KW:
+[e]Hosanna [a]na wyso[e]kości,
+[a]hosa[e]nna!
+W:
+[e]Święty jest święty, Święty jest święty,
+[G]Święty jest święty, Święty jest święty,
+[a]Święty jest święty, Jahwe [e]Sabaoth.
+
+254]6.2

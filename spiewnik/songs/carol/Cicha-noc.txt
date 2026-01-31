@@ -1,0 +1,126 @@
+===
+title: "Cicha noc"
+section: "carol"
+color: "carol"
+tone: "G"
+songid: "S703CichaNoc"
+author:
+  - "JM"
+  - "FXG"
+year: 1818
+address:
+  - what: "Łk"
+    where: "2, 16"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+index:
+  - "anielski"
+  - "Betlejem"
+  - "biegnąć"
+  - "błogosławić"
+  - "Boży"
+  - "cały"
+  - "cichy"
+  - "cud"
+  - "czuwać"
+  - "Dzieciątko"
+  - "Dziecina"
+  - "dziś"
+  - "dzisiaj"
+  - "góra"
+  - "głos"
+  - "jaki"
+  - "świat"
+  - "święta"
+  - "żłóbek"
+  - "lud"
+  - "ludzie"
+  - "majestat"
+  - "matka"
+  - "narodzić"
+  - "nieść"
+  - "noc"
+  - "odkupienie"
+  - "Pan"
+  - "pastuszek"
+  - "pienie"
+  - "pokój"
+  - "rączęta"
+  - "sam"
+  - "sen"
+  - "spełnić"
+  - "Syn"
+  - "trzoda"
+  - "uśmiechnięty"
+  - "wielce"
+  - "wielki"
+  - "wina"
+  - "wszego"
+  - "wznosić"
+  - "zadziwić"
+===
+
+[G]Cicha noc, święta noc
+[a]pokój [D7]niesie [G]ludziom [G7]wszem,
+[C]a u [D]żłóbka [G]Matka [e]Święta,
+[a]czuwa [D7]sama [G]uśmiech[e]nięta,
+[a]nad Dzie[D7]ciątka [G]snem[e],
+[G]nad Dzie[D7]ciątka [G]snem.
+
+Cicha noc, święta noc,
+pastuszkowie od swych trzód,
+biegną wielce zadziwieni
+za anielskim głosem pieni,
+gdzie się spełnił cud,
+gdzie się spełnił cud.
+
+Cicha noc, święta noc,
+narodzony Boży Syn.
+Pan Wielkiego Majestatu
+niesie dziś całemu światu,
+odkupienie win,
+odkupienie win.
+
+[G]Cicha noc, święta noc,
+[a]jakiż [D7]w tobie [G]dzisiaj [G7]cud?
+[C]W Betle[D]jem Dzie[G]cina [e]święta
+[a]wznosi [D7]w górę [G]swe rą[e]częta,
+[a]błogo[D7]sławi [G]lud[e],
+[G]błogo[D7]sławi [G]lud.
+
+DE Stille Nacht! Heilige Nacht!
+Alles schläft, einsam wacht
+nur das traute hochheilige Paar.
+Holder Knabe im lockigen Haar
+Schlaf in himmlischer Ruh,
+Schlaf in himmlischer Ruh.
+
+EN Silent night! Holy night!
+All is calm, all is bright
+round yon Virgin Mother and Child,
+Holy Infant so tender and mild,
+sleep in heavenly peace!
+sleep in heavenly peace!
+
+FR Ô nuit de paix, Sainte nuit
+Dans le ciel L’astre luit
+Dans les champs tout repose en paix
+Mais soudain dans l’air pur et frais
+Le brillant coeur des anges
+Aux bergers apparaît
+
+IT Astro del ciel, Pargol divin,
+mite Agnello Redentor!
+Tu che i Vati da lungi sognar,
+Tu che angeliche voci nunziar,
+luce dona alle genti
+pace infondi nei cuor!
+
+ES Noche de paz, noche de amor,
+Todo duerme en derredor.
+Entre sus astros que esparcen su luz
+Bella anunciando al niñito Jesús
+Brilla la estrella de paz
+Brilla la estrella de paz

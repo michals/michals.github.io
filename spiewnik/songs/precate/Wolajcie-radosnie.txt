@@ -1,0 +1,105 @@
+===
+title: "Wołajcie radośnie"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S081WolajcieRadosnie"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Iz"
+    where: "12, 1nn"
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*KOM"
+    where: ""
+  - what: "*ZAK"
+    where: ""
+knownas:
+  - "Oto Bóg jest moim zbawieniem"
+  - "Z weselem czerpać będziecie"
+index:
+  - "Bóg"
+  - "cud"
+  - "czerpać"
+  - "głosić"
+  - "hymn"
+  - "imię"
+  - "Izrael"
+  - "kochać"
+  - "śpiewać"
+  - "święty"
+  - "lud"
+  - "mieszkaniec"
+  - "moc"
+  - "On"
+  - "Pan"
+  - "pieśń"
+  - "radosny"
+  - "rzeczy"
+  - "Syjon"
+  - "uczynić"
+  - "ulęknąć"
+  - "wesele"
+  - "wielki"
+  - "wśród"
+  - "woda"
+  - "wołać"
+  - "wszyscy"
+  - "wysławiać"
+  - "wzywać"
+  - "zaufać"
+  - "Zbawiciel"
+  - "zbawienie"
+  - "zdrój"
+===
+
+{{{ 2x
+W:
+[a]Wołajcie radośnie,
+bo wielki jest wśród [G]nas,
+[F]Święty Izra[E]ela!
+}}}
+
+K:
+[E]Pan Bóg jest moim zbawieniem,
+Jemu za[a]ufam i nie ulęknę się,
+bo mocą [F]moją i moją pieśnią jest [G]Pan,
+On [F]moim Zbawi[E]cielem.
+{{{ 2x
+W:
+[a]Wołajcie radośnie,
+bo wielki jest wśród [G]nas,
+[F]Święty Izra[E]ela!
+}}}
+
+K:
+[E]Z weselem czerpać bę[a]dziecie
+[E]wodę ze zdrojów zba[a]wienia.
+Wysławiajcie [G]Pana,
+Jego imię wzy[F]wajcie,
+głoście ludom Jego [E]cuda.
+
+{{{ 2x
+W:
+[a]Wołajcie radośnie,
+bo wielki jest wśród [G]nas,
+[F]Święty Izra[E]ela!
+}}}
+
+K:
+[E]Śpiewajcie hymny Panu,
+śpie[a]wajcie,
+[E]bo uczynił z nami rzeczy [a]wielkie.
+Wołajcie ra[G]dośnie,
+bo Pan was [F]kocha,
+wszyscy mieszkańcy Sy[E]jonu!
+{{{ 2x
+W:
+[a]Wołajcie radośnie,
+bo wielki jest wśród [G]nas,
+[F]Święty Izra[E]ela!
+}}}

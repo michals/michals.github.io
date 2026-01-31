@@ -1,0 +1,149 @@
+===
+title: "Przyjdź z Libanu"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S269PrzyjdzZLibanu"
+author:
+  - "PM"
+  - "NC"
+year: 1992
+address:
+  - what: "Pnp"
+    where: "4, 8nn"
+  - what: "Pnp"
+    where: "7, 11nn"
+  - what: "Pnp"
+    where: "2, 11nn"
+  - what: "Pnp"
+    where: "8, 6n"
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+  - what: "*KOM"
+    where: ""
+knownas:
+  - "Szukałam miłości mojego życia"
+  - "Ja przynależę do mego miłego"
+  - "Połóż mnie jak pieczęć"
+  - "Powstań szybko, ma ukochana"
+  - "1975"
+index:
+  - "bogactwo"
+  - "cały"
+  - "górski"
+  - "gołębica"
+  - "Hermon"
+  - "kwiat"
+  - "śmierć"
+  - "śpiew"
+  - "świt"
+  - "Liban"
+  - "życie"
+  - "miłość"
+  - "miły"
+  - "nic"
+  - "nigdy"
+  - "noc"
+  - "oblubienica"
+  - "oddać"
+  - "On"
+  - "owoce"
+  - "oznaczać"
+  - "pójść"
+  - "pieczęć"
+  - "pochwycić"
+  - "położyć"
+  - "pole"
+  - "potężny"
+  - "powrócić"
+  - "powstać"
+  - "przeminąć"
+  - "przyjść"
+  - "przynależeć"
+  - "puścić"
+  - "ramię"
+  - "serce"
+  - "siostra"
+  - "słońce"
+  - "słychać"
+  - "spędzić"
+  - "stać"
+  - "synogarlica"
+  - "szczyt"
+  - "szukać"
+  - "szybki"
+  - "ugasić"
+  - "ukochana"
+  - "upalny"
+  - "wędrować"
+  - "wieniec"
+  - "winnica"
+  - "wioska"
+  - "woda"
+  - "wszystek"
+  - "wysoki"
+  - "zebrać"
+  - "zima"
+  - "znaleźć"
+  - "znowu"
+  - "zranić"
+===
+
+KM:
+[e]Przyjdź z Libanu, [D]oblubienico,
+[C]przyjdź z Li[D]banu, [e]przyjdź!
+[e]Twoim wieńcem będą [D]szczyty górskie,
+wy[C]sokie [D]szczyty Her[e]monu.
+[e]Serce mi zraniłaś, zra[D]niłaś mi serce,
+[C]siostro ma ob[D]lubie[e]nico.
+[e]Przyjdź z Libanu, [D]oblubienico,
+[C]przyjdź z Li[D]banu, [e]przyjdź!
+
+W:
+[e]Szukałam mi[G]łości mojego [A]życia,
+szu[a]kałam, lecz nie zna[e]lazłam;
+znalazłam [G]miłość mojego [A]życia,
+pochwy[C]ciłam Go i [D]nigdy już nie [e]puszczę!
+
+KN:
+[e]Ja przynależę do [D]mego miłego,
+a [C]On jest [D]cały [e]mój;
+Przyjdź, mój miły, wę[D]drujmy po polach,
+spę[C]dzimy [D]noc we [e]wioskach.
+Pójdziemy o świcie [D]do winnicy,
+zbie[C]rzemy [D]tam o[e]woce
+Ja przynależę do [D]mego miłego,
+a [C]on jest [D]cały [e]mój.
+
+W:
+[e]Szukałam mi[G]łości mojego [A]życia, …
+
+KM:
+[e]Powstań szybko, [D]ma ukochana,
+[C]przyjdź gołę[D]bico, [e]przyjdź!
+Bowiem zima już [D]przeminęła,
+[C]śpiew synogar[D]licy już [e]słychać,
+kwiaty powróciły [D]znowu na pola,
+[C]słońce stało [D]się u[e]palne.
+Powstań szybko, [D]ma ukochana,
+[C]przyjdź gołę[D]bico, [e]przyjdź!
+
+W:
+[e]Szukałam mi[G]łości mojego [A]życia, …
+
+KN:
+[e]Połóż mnie jak pieczęć [D]na twym sercu,
+jak [C]pieczęć [D]na twym ra[e]mieniu,
+bo miłość jest jak [D]śmierć potężna,
+[C]wody [D]jej nie u[e]gaszą
+Oddać za nią wszystkie [D]swoje bogactwa,
+o[C]znacza [D]mieć ją [e]za nic.
+Połóż mnie jak pieczęć [D]na twym sercu,
+jak [C]pieczęć [D]na twym ra[e]mieniu.
+
+W:
+[e]Szukałam mi[G]łości mojego [A]życia, …

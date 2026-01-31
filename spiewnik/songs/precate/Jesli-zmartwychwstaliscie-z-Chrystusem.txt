@@ -1,0 +1,82 @@
+===
+title: "Jeśli zmartwychwstaliście z Chrystusem"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S297JesliZmartwychwstaliscieZChrystusem"
+author:
+  - "K"
+year: 2012
+address:
+  - what: "Kol"
+    where: "3, 1-4"
+  - what: "*OPA"
+    where: ""
+alttone:
+  - "fis"
+knownas:
+  - "2005"
+index:
+  - "Bóg"
+  - "Chrystus"
+  - "chwała"
+  - "dążyć"
+  - "góra"
+  - "życie"
+  - "niebo"
+  - "On"
+  - "prawica"
+  - "przebywać"
+  - "razem"
+  - "siedzieć"
+  - "szukać"
+  - "ukazać"
+  - "ukryć"
+  - "umarły"
+  - "wtedy"
+  - "ziemia"
+  - "zmartwychwstać"
+===
+
+KW:
+[e]Jeśli zmartwychwstaliście z Chry[a]stusem
+szukajcie tego, co [e]w górze,
+KW:
+[a]gdzie przebywa [H7]Chrystus.
+KW:
+[C]Gdzie przebywa Chrystus,
+siedzący po prawicy [H7]Boga.
+
+KW:
+[e]Dążcie do tego, co [a]w niebie,
+nie do tego, co na [e]ziemi.
+K:
+[a]Wy jesteście u[H7]marli,
+[C]wy jesteście umarli i wasze [C]życie
+jest ukryte z Chrystusem [H7]w Bogu.
+
+{{{ 2x
+W:
+[e]Jeśli zmartwychwstaliście z Chry[a]stusem
+szukajcie tego, co [e]w górze.
+}}}
+K:
+[a]gdzie przebywa [H7]Chrystus.
+KW:
+[C]Gdzie przebywa Chrystus,
+siedzący po prawicy [H7]Boga.
+
+K:
+[a]Gdy się ukaże [a]Chrystus, [a]wasze [H7]życie,
+[a]wtedy i wy, razem z Nim
+ukażecie się [H7]w chwale.
+{{{ 2x
+W:
+[e]Jeśli zmartwychwstaliście z Chry[a]stusem
+szukajcie tego, co [e]w górze.
+}}}
+K:
+[a]gdzie przebywa [H7]Chrystus.
+KW:
+[C]Gdzie przebywa Chrystus,
+siedzący po prawicy [H7]Boga.

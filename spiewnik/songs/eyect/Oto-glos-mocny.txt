@@ -1,0 +1,94 @@
+===
+title: "Oto głos mocny"
+subtitle: "Hymn adwentowy"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S935HymnAdwentowy"
+author:
+  - "K"
+year: 2025
+knownas:
+  - "En clara vox redarguit"
+index:
+  - "amen"
+  - "Baranek"
+  - "chwała"
+  - "chwalebny"
+  - "ciemności"
+  - "darmo"
+  - "dlatego"
+  - "drugi"
+  - "Duch"
+  - "dusza"
+  - "echo"
+  - "głos"
+  - "gwiazda"
+  - "jaśnieć"
+  - "Jezus"
+  - "łzy"
+  - "śpiewać"
+  - "świat"
+  - "litościwy"
+  - "mocny"
+  - "nowy"
+  - "odrętwiały"
+  - "Ojciec"
+  - "okupić"
+  - "On"
+  - "osłonić"
+  - "pójść"
+  - "pełzać"
+  - "pieśń"
+  - "pochwalny"
+  - "pojawić"
+  - "posłać"
+  - "prosić"
+  - "przebaczyć"
+  - "przestać"
+  - "przyjść"
+  - "rozpraszać"
+  - "senny"
+  - "strach"
+  - "Syn"
+  - "ustąpić"
+  - "wina"
+  - "wschodzić"
+  - "wszyscy"
+  - "wypełnić"
+  - "zbudzić"
+  - "ziemia"
+  - "złudzenie"
+===
+
+K:
+[a]Oto głos mocny
+rozprasza swymi echami ciemności;
+ustąpcie senne złudzenia.
+Jezus jaśnieje [E]już!
+Niech dusza odrętwiała się [a]zbudzi
+i przestanie pełzać po [E]ziemi:
+wschodzi nowa [a]gwiazda!
+
+Ot[d]o jest nam posłany Baranek,
+aby darmo okupił nasze [a]winy,
+pójdźmy wszyscy ze [E7]łzami,
+prośmy Go o przeba[a]czenie.
+
+W:
+Tak [d]aby,
+gdy się pojawi chwalebny
+w swoim drugim [a]przyjściu
+i świat wypełni [E7]strachem,
+osłonił nas litoś[a]ciwie.
+
+{{{ 2x
+W:
+Dla[d]tego
+śpiewamy tę pieśń poch[a]walną
+Ojcu, Synowi i Du[E7]chowi,
+niech będzie chwała
+A[a]men!
+}}}
+
+0]922

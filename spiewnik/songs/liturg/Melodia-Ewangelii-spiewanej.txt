@@ -1,0 +1,90 @@
+===
+title: "Melodia Ewangelii śpiewanej"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "L00Ewangelia"
+author:
+  - "K"
+year: 2023
+address:
+  - what: "J"
+    where: "3, 11-15"
+  - what: "*MSZ"
+    where: ""
+knownas:
+  - "Ewangelia śpiewana"
+  - "Śpiewana Ewangelia"
+index:
+  - "Bóg"
+  - "Chrystus"
+  - "chwała"
+  - "cośmy"
+  - "czas"
+  - "człowieczy"
+  - "dać"
+  - "duch"
+  - "ewangelia"
+  - "jakżeż"
+  - "Jan"
+  - "jednorodzony"
+  - "Jezus"
+  - "każdy"
+  - "świadczyć"
+  - "świadectwo"
+  - "świat"
+  - "święty"
+  - "życie"
+  - "mówić"
+  - "Mojżesz"
+  - "niebieski"
+  - "niebo"
+  - "nikt"
+  - "On"
+  - "oprócz"
+  - "owy"
+  - "Pański"
+  - "Pan"
+  - "potrzeba"
+  - "powiadać"
+  - "powiedzieć"
+  - "przyjmować"
+  - "pustynia"
+  - "słowo"
+  - "sprawa"
+  - "Syn"
+  - "umiłować"
+  - "uwierzyć"
+  - "wąż"
+  - "według"
+  - "widzieć"
+  - "wieczny"
+  - "wiedzieć"
+  - "wierzyć"
+  - "wstąpić"
+  - "wywyższyć"
+  - "zaprawdę"
+  - "zginąć"
+  - "ziemski"
+  - "zstąpić"
+===
+
+P:
+1[e]Pan [H7]z wa[e]mi.
+W:
+2[a]I z duchem [e] [H7] [e]twoim.
+P:
+1[e]Słowa Ewangelii według świętego Ja[H7] [e]na.
+W:
+2[a]Chwała Tobie, [e] [H7] [e]Panie.
+P:
+1[e]W owym czasie Jezus powiedział: „Zaprawdę, zaprawdę,powiadam ci, że to mówimy, co wiemy,i o tym świadczymy, cośmy widzieli,a świadectwa naszego nie przyjmuj[H7] [e]ecie.
+2 [a]Jeżeli wam mówię o tym, co jest ziemskie, a nie wierzycie,     to jakżeż uwierzycie temu,         co wam powiem o sprawach nie[e] [H7] [e]bieskich?
+3 [G]I nikt nie wstąpił do nieba, oprócz Tego,                                        który z nieba zstąpił - Syna Człowiecz[D]eg[G]o.
+4 [a]A jak Mojżesz wywyższył węża na pustyni,                            tak potrzeba, by wywyższono Syna Człowie[e] [H7] [e]czego,
+3 [G]aby każdy, kto w Niego wierzy, miał życie wi[D]ecz[G]ne.
+4 [a]Tak bowiem Bóg umiłował świat,       że Syna swego Jednorodzonego dał,   aby każdy, kto w Niego wierzy, nie zginął,  ale miał życie [e] [H7] [e]wieczne”.
+P:
+3[G]Oto słowo P[D]ań[G]skie.
+W:
+4[a]Chwała Tobie, [e] [H7] [e]Chryste.

@@ -1,0 +1,85 @@
+===
+title: "Maryjo, Domie Błogosławieństwa"
+subtitle: "Wesele w Kanie"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S112MaryjoDomieBlogoslawienstwa"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "J"
+    where: "2, 1-10"
+  - what: "*OPA"
+    where: ""
+  - what: "*MAR"
+    where: ""
+  - what: "*KOM"
+    where: ""
+alttone:
+  - "d"
+index:
+  - "alleluja"
+  - "błogosławieństwo"
+  - "braknąć"
+  - "Chrystus"
+  - "czynić"
+  - "dom"
+  - "dostrzec"
+  - "Galilejski"
+  - "Kana"
+  - "śmierć"
+  - "święto"
+  - "życie"
+  - "mówić"
+  - "Maryja"
+  - "nauczyć"
+  - "nowy"
+  - "On"
+  - "panować"
+  - "pokorny"
+  - "posłuszeństwo"
+  - "przemienić"
+  - "przybytek"
+  - "przywieść"
+  - "Syn"
+  - "wieczny"
+  - "wiek"
+  - "wino"
+  - "woda"
+  - "wszystko"
+  - "zbawienie"
+  - "ziemski"
+  - "Zmartwychwstały"
+  - "zwycięstwo"
+===
+
+KW:
+[a]Maryjo, [d]Domie Błogosła[a]wieństwa,
+Zba[d]wienie naszego [a]wieku,
+Przy[E7]bytku ziemski Pokornego.
+
+K:
+[d]Ty, jak w Kanie Gali[E7]lejskiej,
+[d]dostrzegłaś, że brakło nam [E7]wina,
+że nasze [F]święto nie było świętem,
+że nasze życie nie było życiem,
+albowiem śmierć panowała nad [E7]nami.
+
+W:
+[a]Maryjo, [d]Domie Błogosła[a]wieństwa,
+[d]Zbawienie naszego [a]wieku,
+Przy[E7]bytku ziemski Pokornego.
+
+K:
+[d]Ty przywiodłaś nas do Swego [E7]Syna
+[d]i nauczyłaś nas posłuszeństwa,
+i czynić wszystko, co On nam [E7]mówi,
+[F]aby przemienił naszą wodę w nowe [E7]wino.
+
+W:
+Zwy[F]cięstwo, zwy[G]cięstwo,
+życie [F]wieczne w Chrystusie Zmartwych[E7]wstałym!
+Allelu[a]ja, alle[G]lu-, allelu[a]ja.
+Allelu[a]ja, alle[G]lu-, allelu[a]ja!

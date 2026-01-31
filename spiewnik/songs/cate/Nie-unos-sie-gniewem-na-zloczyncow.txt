@@ -1,0 +1,131 @@
+===
+title: "Nie unoś się gniewem na złoczyńców"
+section: "cate"
+color: "cate"
+tone: "a"
+songid: "S261NieUnosSieGniewem"
+author:
+  - "K"
+year: 1996
+address:
+  - what: "Ps"
+    where: "37"
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "Zaufaj swemu Panu, postępuj dobrze"
+  - "1977"
+index:
+  - "Bóg"
+  - "blask"
+  - "chwila"
+  - "cichy"
+  - "cieszyć"
+  - "czynić"
+  - "dać"
+  - "dobry"
+  - "droga"
+  - "działać"
+  - "gniew"
+  - "kłamstwo"
+  - "krótki"
+  - "ktoś"
+  - "świeży"
+  - "mówić"
+  - "miejsce"
+  - "mieszkać"
+  - "milczenie"
+  - "nadzieja"
+  - "niknąć"
+  - "oburzenie"
+  - "On"
+  - "Pan"
+  - "pokój"
+  - "posiąść"
+  - "postępować"
+  - "powierzyć"
+  - "przewrotny"
+  - "rozdrażniać"
+  - "rozkosz"
+  - "serce"
+  - "słoneczny"
+  - "spojrzeć"
+  - "sprawić"
+  - "sprawiedliwość"
+  - "trawa"
+  - "tryumfować"
+  - "ufać"
+  - "unosić"
+  - "wielki"
+  - "wierność"
+  - "wykluczony"
+  - "zabłysnąć"
+  - "zachować"
+  - "zaczekać"
+  - "zaniechać"
+  - "zapragnąć"
+  - "zaufać"
+  - "zazdrościć"
+  - "zieleń"
+  - "ziemia"
+  - "zło"
+  - "złoczyńca"
+  - "złożyć"
+  - "zniknąć"
+  - "zostać"
+  - "zwiędnąć"
+===
+
+KW:
+[a]Nie unoś się gniewem na zło[F]czyńców,
+ani nie zazdrość tym, co zło [E7]czynią.
+Oni tak [d]znikną, jak niknie [E7]trawa
+i [FoS]zwiędną, jak świeża [E7]zieleń.
+
+K:
+Za[a]ufaj swemu Panu, postępuj [F]dobrze,
+mieszkaj w swojej ziemi, zachowaj [E7]wierność.
+Niech [d]Pan Bóg będzie dla ciebie roz[E7]koszą,
+On [F]da ci to, czego zapragnie twoje [E7]serce.
+
+K:
+Powierz [a]swoją drogę Panu, Jemu za[F]ufaj,
+zaufaj Jemu, On będzie [E7]działał;
+sprawi, że za[d]błyśnie twoja sprawie[E7]dliwość,
+słonecznym [F]blaskiem twoja [E7]wierność.
+
+W:
+[a]Nie unoś się gniewem na zło[F]czyńców,
+ani nie zazdrość tym, co zło [E7]czynią.
+Oni tak [d]znikną, jak niknie [E7]trawa
+i [FoS]zwiędną, jak świeża [E7]zieleń.
+
+K:
+Zostań w mil[a]czeniu przed Panem, Jemu za[F]ufaj,
+nie unoś się gniewem, że ktoś tryum[E7]fuje,
+że tryum[d]fuje, mówiąc [E7]kłamstwa;
+zaufaj [F]Panu, miej w Nim na[E7]dzieję.
+
+W:
+[a]Nie unoś się gniewem na zło[F]czyńców,
+ani nie zazdrość tym, co zło [E7]czynią.
+Oni tak [d]znikną, jak niknie [E7]trawa
+i [FoS]zwiędną, jak świeża [E7]zieleń.
+
+K:
+Za[a]niechaj gniewu, złóż obu[F]rzenie,
+nie rozdrażniaj się, byś zła nie [E7]czynił,
+[d]kto czyni zło, będzie wyklu[E7]czony,
+ale [F]kto ufa Panu, posiądzie [E7]ziemię.
+
+K:
+Za[a]czekaj krótką chwilę, a już przewrotny [F]zniknął,
+spójrz na jego miejsce, już go tam [E7]nie ma.
+[d]Za to cisi posiądą [E7]ziemię,
+cieszą [F]się pokojem, wielkim po[E7]kojem.
+
+W:
+[a]Nie unoś się gniewem na zło[F]czyńców,
+ani nie zazdrość tym, co zło [E7]czynią.
+Oni tak [d]znikną, jak niknie [E7]trawa
+i [FoS]zwiędną, jak świeża [E7]zieleń.

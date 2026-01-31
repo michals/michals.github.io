@@ -1,0 +1,39 @@
+===
+title: "Aklamacja przed Ewangelią w Wielkim Poście (3)"
+subtitle: "Melodia trzecia"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "S025AklamacjaDoEwangeliiWielkiPostMTrzecia"
+author:
+  - "K"
+year: 2023
+alttone:
+  - "g"
+knownas:
+  - "Chwała Tobie o Chryste"
+index:
+  - "Chrystus"
+  - "chwała"
+  - "głos"
+  - "Król"
+  - "świetlany"
+  - "obłok"
+  - "odezwać"
+  - "słuchać"
+  - "Syn"
+  - "umiłowany"
+  - "wieczny"
+===
+
+KW:
+[e]Chwała Tobie o Chryste, [D]Chwała Tobie o Chryste,
+Królu wiecznej [e]chwały.
+K:
+[e]Z obłoku świetla[a]nego odezwał się [e]głos:
+„To jest mój Syn umiło[a]wany, Jego słu[e]chajcie”.
+{{{ 2x
+W:
+[e]Chwała Tobie o Chryste, [D]Chwała Tobie o Chryste,
+Królu wiecznej [e]chwały.
+}}}

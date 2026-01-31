@@ -1,0 +1,103 @@
+===
+title: "Miłuję Pana"
+section: "precate"
+color: "precate"
+tone: "G"
+songid: "S098MilujePana"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "Ps"
+    where: "116"
+  - what: "*OWP"
+    where: ""
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "Powróć, duszo moja, do swego pokoju"
+index:
+  - "błagać"
+  - "człowiek"
+  - "dobro"
+  - "dusza"
+  - "dzień"
+  - "fałszywy"
+  - "gorycz"
+  - "imię"
+  - "kielich"
+  - "krzyk"
+  - "ku"
+  - "ściskać"
+  - "śmierć"
+  - "mówić"
+  - "męczyć"
+  - "miłować"
+  - "modlitwa"
+  - "nakłonić"
+  - "nazbyt"
+  - "noga"
+  - "oddać"
+  - "okowa"
+  - "On"
+  - "Pański"
+  - "Pan"
+  - "piekło"
+  - "podnieść"
+  - "powiedzieć"
+  - "powrócić"
+  - "ratować"
+  - "słuchać"
+  - "smutek"
+  - "spokój"
+  - "szczęśliwy"
+  - "ucho"
+  - "uchronić"
+  - "udręka"
+  - "upadek"
+  - "wezwać"
+  - "więzy"
+  - "wierzyć"
+  - "wszystko"
+  - "wybawić"
+  - "wyświadczyć"
+  - "wzywać"
+  - "zbawienie"
+  - "znajdować"
+===
+
+K:
+[G]Miłuję Pana, albowiem [h]słucha
+krzyku mojej mo[C]dlitwy.
+Na[aX]kłonił ku mnie swe [D7]ucho
+w dniu, w którym Go wzywa[G]łem.
+K:
+Ściskały mnie więzy śmierci,
+znajdowałem się w okowach [h]piekła,
+mę[C]czyły mnie smutek i [aX]udręka,
+[D7]wezwałem imienia Pańskiego:
+„Błagam Cię, Panie, [G]ratuj mnie”.
+W:
+[G]Powróć, duszo moja, do swego spo[h]koju,
+[C]albowiem Pan wy[aX]świadczył ci [D7]dobro;
+{{{ 2x
+[C]On cię wybawił od [G]śmierci,
+uchronił twoje [D]nogi od u[G]padku.
+}}}
+
+K:
+[G]Ja wierzyłem, nawet gdy mó[h]wiłem:
+„Jestem nazbyt nieszczęśliwy”;
+powiedziałem z go[C]ry[aX]czą:
+„Człowiek jest fał[D7]szywy”.
+[G]Cóż oddam Panu za wszystko,
+co mi wy[h]świadczył?
+Pod[C]niosę kielich zba[aX]wienia
+[D7]i będę wzywał imienia Pańskiego.
+W:
+[G]Powróć, duszo moja, do swego spo[h]koju,
+[C]albowiem Pan wy[aX]świadczył ci [D7]dobro;
+{{{ 2x
+[C]On cię wybawił od [G]śmierci,
+uchronił twoje [D]nogi od u[G]padku.
+}}}

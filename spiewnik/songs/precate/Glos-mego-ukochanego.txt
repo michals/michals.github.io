@@ -1,0 +1,147 @@
+===
+title: "Głos mego ukochanego"
+section: "precate"
+color: "precate"
+tone: "C"
+songid: "S276GlosMegoUkochanego"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Pnp"
+    where: "2, 8-17"
+  - what: "*OPA"
+    where: ""
+  - what: "*KOM"
+    where: ""
+alttone:
+  - "D"
+knownas:
+  - "Powstań, przyjaciółko moja"
+  - "Bo oto zima już przeminęła"
+  - "1984"
+index:
+  - "albo"
+  - "cień"
+  - "czas"
+  - "dać"
+  - "deszcz"
+  - "figa"
+  - "góry"
+  - "gazela"
+  - "głos"
+  - "gołąbka"
+  - "jeleń"
+  - "kochany"
+  - "krata"
+  - "kryjówka"
+  - "kwiat"
+  - "kwiecie"
+  - "kwitnąć"
+  - "śmierć"
+  - "śpiewać"
+  - "lisy"
+  - "malusieńki"
+  - "mówić"
+  - "miły"
+  - "młody"
+  - "mur"
+  - "nadchodzić"
+  - "okno"
+  - "owoce"
+  - "pagórek"
+  - "patrzeć"
+  - "piękny"
+  - "pieśń"
+  - "pierwszy"
+  - "podobny"
+  - "pojawić"
+  - "pole"
+  - "powiać"
+  - "powrócić"
+  - "powstać"
+  - "precz"
+  - "przegonić"
+  - "przejść"
+  - "przeminąć"
+  - "przeskakiwać"
+  - "przyjaciółka"
+  - "przyjemny"
+  - "przyjść"
+  - "pustoszyć"
+  - "rozsiewać"
+  - "skakać"
+  - "skała"
+  - "skalny"
+  - "słychać"
+  - "synogarlica"
+  - "szczelina"
+  - "teraz"
+  - "ukochany"
+  - "ukryć"
+  - "urwisko"
+  - "usłyszeć"
+  - "ustać"
+  - "wiatr"
+  - "wieczorny"
+  - "winnica"
+  - "winorośl"
+  - "woń"
+  - "wydać"
+  - "wydłużyć"
+  - "zaglądać"
+  - "zatrzymywać"
+  - "zima"
+===
+
+K:
+[C]Głos mego ukochanego!
+[a]Oto nad[F]chodzi,
+skacząc po [E]górach,
+przeska[F]kując pa[E]górki.
+[C]Kochany mój podobny do gazeli,
+[a]albo do młodego je[F]lenia,
+kochany mój podobny do ga[E]zeli.
+[C]Oto zatrzymuje się
+[a]za naszym [F]murem,
+patrzy przez okno,
+zagląda przez [E]kratę.
+[C]Teraz mówi mój kochany,                           mówi do mnie:
+[C]Powstań, przyjaciółko [E]moja,
+[F]powstań, moja piękna i [E]przyjdź!
+W:
+[C]Powstań, przyjaciółko [E]moja,
+[F]powstań, moja piękna i [E]przyjdź!
+K:
+[d]Bo oto zima już przemi[E]nęła,
+[d]deszcze ustały już i prz[E]eszły,
+[F]kwiaty pojawiły się na polach,
+czas śpiewania pieśni po[E]wrócił,
+[dNmS]głos synogarlicy już [E]słychać,
+
+[F]figa wydała pierwsze owoce a winorośl kwitnąca rozsiewa woń przy[E]jemną!
+W:
+[C]Powstań przyjaciółko [E]moja,
+[F]powstań moja piękna i [E]przyjdź!
+K:
+[d]O gołąbko moja ukryta                   w szczelinach [E]skały,
+[d]w kryjówkach skalnego ur[E]wiska,
+[F]daj mi twój głos usłyszeć,
+daj mi go us[E]łyszeć!
+[C]Przegońcie precz lisy,                 [E]lisy malusieńkie,
+[F]co pustoszą [E]winnicę,
+W:
+[G]Bo nasza win[F]nica jest [E]w kwieciu,
+[G]bo nasza win[F]nica jest [E]w kwieciu!
+K:
+[d]Mój ukochany jest [E]dla mnie,
+a [d]ja jestem dla [E]niego;
+[d]nim wiatr wieczorny po[E]wieje
+[d]i wydłużą się ([E])cienie (wraz ze [E]śmiercią),
+{{{ 2x
+W:
+Mój [a]miły, [G]powróć, [a]powróć!
+}}}
+W:
+[C]Powstań przyjaciółko [E]moja,
+[F]powstań moja piękna i [E]przyjdź!

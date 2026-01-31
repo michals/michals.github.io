@@ -1,0 +1,107 @@
+===
+title: "Z głębokości wołam do Ciebie"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S033ZGlebokosciWolam"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "130"
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "Pan Bóg odkupi Izraela"
+  - "1979"
+index:
+  - "aj"
+  - "Bóg"
+  - "bardziej"
+  - "dusza"
+  - "głębokość"
+  - "głos"
+  - "grzech"
+  - "Izrael"
+  - "jutrzenka"
+  - "miłość"
+  - "modlitwa"
+  - "ocalić"
+  - "oczekiwać"
+  - "odkupić"
+  - "On"
+  - "otwarty"
+  - "pamięć"
+  - "Pan"
+  - "pełny"
+  - "pokładać"
+  - "przebaczyć"
+  - "słowo"
+  - "straż"
+  - "ucho"
+  - "udzielać"
+  - "ufać"
+  - "ufność"
+  - "wołać"
+  - "wszystek"
+  - "wysłuchać"
+  - "zachować"
+===
+
+K:
+[a]Z głębokości [F7]wołam do [E]Cie[a]bie:
+[F]Panie, wysłuchaj mego [E7]głosu!
+[a]Niech Twe uszy [F7]będą o[E]twa[a]rte
+na [F]głos mojej mo[E]dlitwy!
+
+W:
+[a]Z głębokości [F7]wołam do [E]Cie[a]bie:
+[F]Panie, wysłuchaj mego [E7]głosu!
+[a]Niech Twe uszy [F7]będą o[E]twa[a]rte
+na [F]głos mojej mo[E]dlitwy!([a])
+
+K:
+[G]Jeśli zachowasz pamięć o grzechach, [F]Pani[a]e,
+któż się ocali, któż się o[F7]ca[E7]li?
+Lecz [F]Ty udzielasz przeba[E7]czenia,
+bo Ty [F7]jesteś pełen mi[a]łości.
+
+W:
+Lecz [F]Ty udzielasz przeba[E7]czenia,
+bo Ty [F7]jesteś pełen mi[a]łości.
+
+K:
+Po[G]kładam ufność w Panu,
+a dusza [F]moja [a]ufa Jego słowu.
+
+Dusza [G]moja oczekuje Pana,
+[F]bardziej niż [a]straże oczekują jutrzenki.
+Izrael oczekuje Pana,
+bardziej niż [F7]straże oczekują ju[E7]trzenki.
+Albowiem [F]w Panu jest [E7]miłość,
+tylko u [F7]Niego jest przeba[a]czenie.
+
+W:
+Albowiem [F]w Panu jest [E7]miłość,
+tylko u [F7]Niego jest przeba[a]czenie.
+
+K:
+Pan Bóg odkupi Izraela.
+
+W:
+[E]Pan Bóg odkupi Izraela
+ze wszystkich Jego [a]grzechów.
+
+K:
+Pan Bóg odkupi Izraela.
+
+W:
+[E]Pan Bóg odkupi Izraela
+ze wszystkich Jego [a]grzechów.
+
+K:
+[a]Aj, aj, aj, aj,
+aj, aj, aj, [d]aj,
+aj, aj, aj, [a]aj,
+aj, aj, aj, aj!

@@ -1,0 +1,113 @@
+===
+title: "Ty, któryś jest wierny"
+section: "precate"
+color: "precate"
+tone: "g"
+songid: "S138OPanieWysluchaMojejModlitwy"
+author:
+  - "K"
+year: 2000
+address:
+  - what: "Ps"
+    where: "143"
+  - what: "*OWP"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+knownas:
+  - "O Panie, wysłuchaj mojej modlitwy"
+  - "2001"
+index:
+  - "Bóg"
+  - "błaganie"
+  - "dać"
+  - "dobry"
+  - "droga"
+  - "duch"
+  - "Duch"
+  - "życie"
+  - "żyjący"
+  - "modlitwa"
+  - "nastawić"
+  - "nauczyć"
+  - "nieprzyjaciel"
+  - "nikt"
+  - "odpowiedzieć"
+  - "omdlewać"
+  - "Pan"
+  - "pełnić"
+  - "poznać"
+  - "prędki"
+  - "prowadzić"
+  - "przebyć"
+  - "prześladować"
+  - "równa"
+  - "ręka"
+  - "sąd"
+  - "sługa"
+  - "sprawiedliwość"
+  - "sprawiedliwy"
+  - "ucho"
+  - "uciekać"
+  - "wdeptywać"
+  - "wierny"
+  - "wola"
+  - "wróg"
+  - "wybawić"
+  - "wyciągać"
+  - "wyschły"
+  - "wysłuchać"
+  - "wzywać"
+  - "ziemia"
+===
+
+K:
+[C]O Panie,
+[D]wysłuchaj [c]mojej modlitwy:
+[D]nastaw ucha
+[c]na moje błaganie.[D]
+W:
+[g]Ty, któryś jest [c]wierny,
+[g]Ty, któryś jest [c]wierny,
+od[D7]powiedz mi,
+[c]w swej sprawiedliwości
+od[D7]powiedz mi.
+
+K:
+[g]Nie wzywaj na sąd Twego [D7]sługi,
+bo nikt żyjący                       nie jest sprawiedliwy przed [g]Tobą.
+Nieprzyjaciel mnie prześla[D7]duje,
+[c]wdeptuje w ziemię moje [D7]życie.
+W:
+[g]Ty, któryś jest [c]wierny …
+
+K:
+[g]Do Ciebie wyciągam moje [D7]ręce,
+jestem przed Tobą jak wyschła [g]ziemia.
+Odpowiedz mi prędko, [D7]Panie,
+[c]bo omdlewa mój [D7]duch.
+
+W:
+[g]Ty, któryś jest [c]wierny …
+
+K:
+[g]Daj mi poznać [D7]drogę,
+drogę, którą mam [g]przebyć.
+Wybaw mnie od moich [D7]wrogów,
+[c]Panie, do Ciebie się u[D7]ciekam.
+W:
+[g]Ty, któryś jest [c]wierny …
+
+K:
+[g]Naucz mnie pełnić Twoją [D7]wolę,
+bo Ty jesteś moim [g]Bogiem.
+Niech mnie                    Twój dobry Duch pro[D7]wadzi,
+[c]niech Twój Duch prowadzimnie po równej [D7]ziemi.
+W:
+[g]Ty, któryś jest [c]wierny,
+[g]Ty, któryś jest [c]wierny,
+od[D7]powiedz mi,
+[c]w swej sprawiedliwości
+odpowie[D]dz mi.

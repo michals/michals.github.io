@@ -13,6 +13,7 @@ address:
 knownas:
   - "1973"
   - "Oto wyszedł siewca, żeby siać"
+  - "Żebym nie był drogą"
 index:
   - "chcieć"
   - "cierń"
@@ -99,12 +100,12 @@ KW:
 KW:
 [g]Żebym nie był ci[d]erniem.
 K:
-[g]Lecz żebym był [AS]ziemią.
+[g]Lecz żebym był [A7]ziemią.
 W:
 [g]Dobrą [A]ziemią.
 K:
 Na [d]której Jezus
-[AS]mógłby [d]wzrastać.
+[A7]mógłby [d]wzrastać.
 W:
 Na [d]której Jezus
-[AS]mógłby [d]wzrastać.
+[A7]mógłby [d]wzrastać.

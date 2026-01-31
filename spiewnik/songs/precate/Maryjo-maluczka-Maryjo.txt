@@ -1,0 +1,114 @@
+===
+title: "Maryjo, maluczka Maryjo"
+subtitle: "Hymn do Dziewicy Maryi"
+section: "precate"
+color: "precate"
+tone: "D"
+songid: "S066MaryjoMaluczkaMaryjo"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*MAR"
+    where: ""
+  - what: "*HYM"
+    where: ""
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "Tyś jest „owym miejscem obok mnie”"
+  - "Niechaj Pan idzie z nami"
+  - "1980"
+index:
+  - "arka"
+  - "Bóg"
+  - "błagać"
+  - "Boży"
+  - "córka"
+  - "chwała"
+  - "Duch"
+  - "dziedzictwo"
+  - "Dziewica"
+  - "Eliasz"
+  - "grzesznik"
+  - "iść"
+  - "Izrael"
+  - "jerozolimski"
+  - "krzak"
+  - "łagodny"
+  - "łaska"
+  - "świątynia"
+  - "maluczka"
+  - "Maryja"
+  - "matka"
+  - "miejsce"
+  - "Mojżesz"
+  - "namiot"
+  - "naród"
+  - "Nazaret"
+  - "nosić"
+  - "obłok"
+  - "obok"
+  - "oko"
+  - "osłaniać"
+  - "owy"
+  - "Pan"
+  - "płonący"
+  - "pochód"
+  - "pokazać"
+  - "powiew"
+  - "prawda"
+  - "przechodzić"
+  - "przykryć"
+  - "przymierze"
+  - "pustynia"
+  - "ręka"
+  - "skalny"
+  - "spalać"
+  - "spotkanie"
+  - "szczelina"
+  - "Szekina"
+  - "tchnienie"
+  - "wszystek"
+  - "znaleźć"
+===
+
+K:
+[D]Maryjo, maluczka Ma[fis]ryjo,
+po[G]wiewie ła[e]godny E[eX]liasza,
+Tyś [A7]tchnieniem Ducha Bo[D]żego.
+Tyś krzakiem płonącym Moj[fis]żesza,
+[G]który nosi Pana i się nie [A7]spala.
+
+K:
+Tyś [D]jest „owym miejscem obok [Fis]mnie”,
+które [G]Pan pokazał Mojże[D]szowi.
+Tyś [G]jest ową skalną szcze[D]liną,
+którą Bóg przykrył swoją [A]ręką,
+[G]gdy przecho[A]dziła Jego [D]Chwała.
+
+W:
+Niechaj Pan idzie [Fis]z nami,
+[G]jeśli znaleźliśmy łaskę w Jego [D]oczach.
+To [G]prawda, że jesteśmy grzeszni[D]kami,
+lecz Ty błagaj za [A]nami,
+a bę[G]dziemy [A]Jego dzie[D]dzictwem.
+
+K:
+[D]Maryjo, maluczka Ma[fis]ryjo,
+[G]Córko jerozo[A7]limska,
+[D]Matko wszystkich na[fis]rodów,
+Dzie[G]wico z Naza[A7]retu.
+
+Tyś [D]jest obłokiem na pus[Fis]tyni,
+który o[G]słania pochód Izra[D]ela,
+Tyś [G]jest Namiotem Spot[D]kania,
+Arką, która nosi Przy[A]mierze,
+Świą[G]tynią [A]Jego Szeki[D]na.
+
+W:
+Niechaj Pan idzie [Fis]z nami,
+[G]jeśli znaleźliśmy łaskę w Jego [D]oczach.
+To [G]prawda, że jesteśmy grzeszni[D]kami,
+lecz Ty błagaj za [A]nami,
+a bę[G]dziemy [A]Jego dzie[D]dzictwem.

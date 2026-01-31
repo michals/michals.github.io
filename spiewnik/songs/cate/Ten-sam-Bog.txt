@@ -1,0 +1,97 @@
+===
+title: "Ten sam Bóg"
+section: "cate"
+color: "cate"
+tone: "h"
+songid: "S263TenSamBog"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "2 Kor"
+    where: "4, 6-12"
+  - what: "*KOM"
+    where: ""
+knownas:
+  - "Nieustannie nosząc w naszym ciele"
+  - "Lecz skarb ten nosimy w naczyniach glinianych"
+  - "Naczynia gliniane"
+  - "1987"
+index:
+  - "Bóg"
+  - "Chrystus"
+  - "chwała"
+  - "ciało"
+  - "ciemności"
+  - "gliniany"
+  - "Jezus"
+  - "świat"
+  - "światło"
+  - "światłość"
+  - "świecić"
+  - "życie"
+  - "miłość"
+  - "moc"
+  - "naczynia"
+  - "nieustanny"
+  - "nosić"
+  - "objawić"
+  - "oblicze"
+  - "okazać"
+  - "opuszczony"
+  - "otrzymywać"
+  - "pokonany"
+  - "powalić"
+  - "poznać"
+  - "prześladować"
+  - "przemożny"
+  - "rozjaśnić"
+  - "rzec"
+  - "sam"
+  - "serce"
+  - "skarb"
+  - "ta"
+  - "ucisk"
+  - "umierać"
+  - "zajaśnieć"
+  - "zewsząd"
+  - "zmartwychwstać"
+  - "zmiażdżyć"
+  - "znosić"
+===
+
+K:
+[D]Ten sam Bóg, który [Fis]rzekł:
+„Niech [h]światłość świeci w ciemności”,
+[Fis]jest Tym, który zajaśniał w naszych sercach,
+aby roz[h]jaśnić światło poznania swej chwały,
+KW:
+która [A]jest na o[h]bliczu Chrystusa.
+KW:
+Lecz [Fis]skarb ten nosimy w naczyniach glinianych.
+KW:
+[h]by się okazało,
+że ta przemożna moc mi[A]łości jest od [h]Boga,
+[G]jest od Boga, a nie z nas [Fis]samych.
+K:
+[Fis]Zewsząd ucisk znosimy,
+lecz nie jesteśmy zmiażdżeni;
+prześladowani, lecz nie opuszczeni;
+powaleni, lecz nie pokonani.
+{{{ 2x
+W:
+[h]Nieustannie nosząc w naszym ciele
+umieranie Je[A]zusa;
+aby [h]także [G]objawiło się w nas
+Jego zmartwych[Fis]wstanie.
+}}}
+KW:
+I [Fis]tak kiedy my umieramy,
+świat otrzymuje życie.
+{{{ 2x
+W:
+[h]Nieustannie nosząc w naszym ciele
+umieranie Je[A]zusa;
+aby [h]także [G]objawiło się w nas
+jego zmartwych[Fis]wstanie.
+}}}

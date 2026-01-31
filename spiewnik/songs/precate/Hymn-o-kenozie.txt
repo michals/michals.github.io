@@ -1,0 +1,126 @@
+===
+title: "Hymn o kenozie"
+subtitle: "Jezus Chrystus jest Panem!"
+section: "precate"
+color: "communion"
+tone: "e"
+songid: "S064JezusChrystusJestPanem"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Flp"
+    where: "2, 1-11"
+  - what: "*OPA"
+    where: ""
+  - what: "*LAM"
+    where: ""
+  - what: "*HYM"
+    where: ""
+knownas:
+  - "Z tą samą miłością"
+  - "1977"
+index:
+  - "alleluja"
+  - "Bóg"
+  - "Chrystus"
+  - "chwała"
+  - "człowiek"
+  - "dać"
+  - "dlatego"
+  - "dostrzegać"
+  - "duch"
+  - "godność"
+  - "grzesznik"
+  - "iż"
+  - "imię"
+  - "inny"
+  - "jaki"
+  - "Jezus"
+  - "krzyżowy"
+  - "śmierć"
+  - "martwy"
+  - "miłość"
+  - "mimo"
+  - "nastawienie"
+  - "nic"
+  - "ogołocić"
+  - "On"
+  - "Pan"
+  - "pokora"
+  - "ponad"
+  - "posłuszny"
+  - "postać"
+  - "poważać"
+  - "pragnienie"
+  - "próżny"
+  - "przyjąć"
+  - "rywalizacja"
+  - "sam"
+  - "siebie"
+  - "sługa"
+  - "stać"
+  - "stawać"
+  - "więcej"
+  - "wskrzesić"
+  - "wszelki"
+  - "wszystko"
+  - "wywyższyć"
+  - "wzgląd"
+  - "złoczyńca"
+===
+
+K:
+[e]Z tą samą miłością,
+w tym samym [H7]duchu,
+z tym samym nasta[e]wieniem.
+[e]Niczego z rywalizacji
+ani dla próżnej [H7]chwały,
+ale wszystko z po[e]korą.
+[G]Dostrzegając pragnienia innych,
+poważając ich więcej niż samego [H7]siebie,
+z tym samym nastawieniem, co [e]Jezus.
+[G]On, mimo iż był Bogiem,
+nie miał względu na swoją [H7]godność,
+a nawet ogołocił samego siebie,                stając się czło[e]wiekiem,
+[G]a stawszy się człowiekiem,
+przyjął postać [H7]sługi,
+będąc posłuszny aż do [e]śmierci.
+[G]I jakiej śmierci, [a]śmierci zło[e]czyńcy,
+[a]śmierci grzesz[e]nika, [H7]śmierci krzyżowej!
+[G]Dlatego Bóg Go wy[a]wyższył,
+wskrzesił Go z martwych
+[H7]i dał Mu imię ponad wszelkie imiona.
+
+K:
+[e]Jezus Chrystus jest Panem!
+W:
+Alleluja!
+K:
+[D]Jezus Chrystus jest Panem!
+W:
+Alleluja!
+K:
+[C]Jezus Chrystus jest Panem!
+W:
+Alleluja! Allelu[H7]ja!
+Alle[e]luja, alleluja, alleluja.
+Alle[D]luja, alleluja, alleluja.
+Alle[C]luja, alleluja, alleluja!
+Allelu[H7]ja!
+K:
+[e]Jezus Chrystus jest mym Panem!
+W:
+Alleluja!
+K:
+[D]Jezus Chrystus jest twym Panem!
+W:
+Alleluja!
+K:
+[C]Jezus Chrystus jest Panem!
+W:
+Alleluja! Allelu[H7]ja!
+Alle[e]luja, alleluja, alleluja.
+Alle[D]luja, alleluja, alleluja.
+Alle[C]luja, alleluja, alleluja!
+Allelu[H7]ja!

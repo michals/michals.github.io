@@ -1,0 +1,145 @@
+===
+title: "Nie było miejsca dla Ciebie"
+section: "carol"
+color: "carol"
+tone: "a"
+songid: "S722NieByloMiejsca"
+author:
+  - "JL"
+  - "MJ"
+year: 1842
+address:
+  - what: "Łk"
+    where: "2, 7"
+  - what: "*KOL"
+    where: ""
+index:
+  - "Adam"
+  - "Betlejem"
+  - "chcieć"
+  - "chłód"
+  - "choć"
+  - "czart"
+  - "czemu"
+  - "czemuż"
+  - "człowieczy"
+  - "dusza"
+  - "dzisiaj"
+  - "gniazdeczko"
+  - "gospoda"
+  - "grzesznik"
+  - "iść"
+  - "jako"
+  - "jęk"
+  - "Jezus"
+  - "katusza"
+  - "kres"
+  - "krzyż"
+  - "łono"
+  - "łzy"
+  - "świat"
+  - "lisy"
+  - "żaden"
+  - "żłóbeczek"
+  - "ludzie"
+  - "ludzki"
+  - "ludzkość"
+  - "męka"
+  - "miejsce"
+  - "miłość"
+  - "miłośnie"
+  - "musieć"
+  - "najdroższy"
+  - "narodzić"
+  - "nędza"
+  - "niejeden"
+  - "nieszczęsny"
+  - "niewola"
+  - "nora"
+  - "ocalić"
+  - "ogień"
+  - "otworzyć"
+  - "plemię"
+  - "podać"
+  - "położyć"
+  - "poniewierka"
+  - "przytulić"
+  - "ptaki"
+  - "ramię"
+  - "serce"
+  - "skrwawić"
+  - "stajnia"
+  - "szukać"
+  - "tyle"
+  - "ubóstwo"
+  - "wśród"
+  - "wszyscy"
+  - "wybawić"
+  - "wyrwać"
+  - "zagłada"
+  - "zapalić"
+  - "zbawczy"
+  - "Zbawiciel"
+  - "zejść"
+  - "ziemia"
+===
+
+[a]Nie było miejsca dla [E7]Ciebie,
+w Betlejem w żadnej go[a]spodzie.
+I narodziłeś się [E7]Jezu,
+w stajni, w ubóstwie i [a]chłodzie.
+
+[a]Nie było miejsca choć [G]zszedłeś,
+[E7]jako Zbawiciel na [a]ziemię,
+by wyrwać z czarta nie[E7]woli,
+nieszczęsne Adama [a]plemię.
+
+Nie było miejsca choć [G]szedłeś,
+[E7]ogień miłości za[a]palić,
+i przez swą mękę naj[E7]droższą
+świat od zagłady o[a]calić.
+
+Gdy lisy mają swe nory
+i ptaki swoje gniazdeczka
+dla Ciebie miejsca nie było,
+musiałeś szukać żłóbeczka.
+
+A czemuż, Jezu, na świecie,
+tyle łez, jęków, katuszy?
+Bo nie ma miejsca dla Ciebie,
+w niejednej człowieczej duszy.
+
+Nie było miejsca choć szedłeś,
+ogień miłości zapalić,
+i przez swą mękę najdroższą
+świat od zagłady ocalić.
+
+Nie było miejsca, choć chciałeś
+ludzkość przytulić do łona
+i podać z krzyża grzesznikom
+zbawcze, skrwawione ramiona.
+
+Nie było miejsca, choć zszedłeś
+ogień miłości zapalić
+i przez swą mękę najdroższą
+świat od zagłady wybawić.
+
+Nie było miejsca choć szedłeś,
+ogień miłości zapalić,
+i przez swą mękę najdroższą
+świat od zagłady ocalić.
+
+[a]Nie było miejsca, choć [E7]chciałeś
+wszystkim otworzyć swe [a]Serce
+i kres położyć mi[E7]łośnie
+ludzkiej nędzy, ponie[a]wierce.
+
+[a]A dzisiaj, czemu wśród [G]ludzi
+[E7]tyle łez, jęku, ka[a]tuszy?
+Bo nie ma miejsca dla [E7]Ciebie
+W niejednej człowieczej [a]duszy.
+
+Nie było miejsca choć [G]szedłeś,
+[E7]ogień miłości za[a]palić,
+i przez swą mękę naj[E7]droższą
+świat od zagłady o[a]calić.

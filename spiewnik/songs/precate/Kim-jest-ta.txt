@@ -1,0 +1,92 @@
+===
+title: "Kim jest ta"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S275KimJestTa"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "Pnp"
+    where: "8, 5-7"
+  - what: "*OPA"
+    where: ""
+  - what: "*KOM"
+    where: ""
+  - what: "*ZAK"
+    where: ""
+alttone:
+  - "h"
+knownas:
+  - "Pod jabłonią cię obudziłem"
+  - "1982"
+index:
+  - "bogactwo"
+  - "chcieć"
+  - "dom"
+  - "gdyby"
+  - "iść"
+  - "jabłoń"
+  - "jako"
+  - "jedynie"
+  - "śmierć"
+  - "matka"
+  - "miłość"
+  - "oblubieniec"
+  - "obudzić"
+  - "oddać"
+  - "Pan"
+  - "pieczęć"
+  - "płomień"
+  - "pochodzić"
+  - "począć"
+  - "pogarda"
+  - "położyć"
+  - "potężny"
+  - "pustynia"
+  - "ręka"
+  - "serce"
+  - "ta"
+  - "tatuaż"
+  - "ugasić"
+  - "urodzić"
+  - "wesprzeć"
+  - "woda"
+  - "wszystek"
+  - "wyłaniać"
+  - "znaleźć"
+  - "zrodzić"
+===
+
+W:
+[a]Kim jest ta, co wy[d]łania się z pu[a]styni?
+Kim jest ta, co wy[F]łania się z pu[a]styni?
+Idzie [F]wsparta na swoim oblu[E]bieńcu.
+Idzie [F]wsparta na swym oblu[a]bieńcu.
+
+K:
+[G]Pod jabłonią [F]cię obu[a]dziłem,
+tam [G]gdzie cię po[F]częła twoja [a]matka,
+tam [F]gdzie twoja matka cię zro[E]dziła,
+tam [F]gdzie twoja matka cię uro[a]dziła.
+W:
+[a]Kim jest ta, co wy[d]łania się z pu[a]styni?
+Kim jest ta, co wy[F]łania się z pu[a]styni?
+Idzie [F]wsparta na swoim oblu[E]bieńcu.
+Idzie [F]wsparta na swym oblu[a]bieńcu.
+
+K:
+[G]Połóż mnie tak jako [F]pieczęć na twym [a]sercu,
+[G]jako ta[F]tuaż na twej [a]ręce.
+Bowiem jak [F]śmierć potężna jest [E]miłość,
+jak [F]płomień, co pochodzi od [E]Pana,
+i [F]wody jej nie u[E]gaszą.
+Gdybyś chciał [F]oddać za miłość
+wszystkie bogactwa swego [E]domu,
+[F]znalazłbyś jedynie po[E]gardę.
+W:
+[a]Kim jest ta, co wy[d]łania się z pu[a]styni?
+Kim jest ta, co wy[F]łania się z pu[a]styni?
+Idzie [F]wsparta na swoim oblu[E]bieńcu.
+Idzie [F]wsparta na swym oblu[a]bieńcu.

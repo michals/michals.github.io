@@ -1,0 +1,125 @@
+===
+title: "Kantyk Jonasza"
+section: "eyect"
+color: "eyect"
+tone: "e"
+songid: "S509KantykJonasza"
+author:
+  - "KK"
+year: 1986
+address:
+  - what: "Jon"
+    where: "2"
+knownas:
+  - "W utrapieniu moim wołałem"
+  - "Wygnany daleko z oczu Twoich"
+  - "Gdy życie we mnie umierało"
+yhwh: true
+index:
+  - "bałwan"
+  - "Bóg"
+  - "daleki"
+  - "dno"
+  - "dojrzeć"
+  - "fala"
+  - "głębia"
+  - "głębokość"
+  - "głos"
+  - "Jahwe"
+  - "jakże"
+  - "życie"
+  - "miasto"
+  - "modlitwa"
+  - "morski"
+  - "morze"
+  - "nurt"
+  - "obietnica"
+  - "ocean"
+  - "odejść"
+  - "odpowiedzieć"
+  - "ogarnąć"
+  - "oko"
+  - "Pan"
+  - "pomoc"
+  - "poza"
+  - "przejść"
+  - "przepaść"
+  - "rzucić"
+  - "szeol"
+  - "umierać"
+  - "usłyszeć"
+  - "utrapienie"
+  - "wnętrze"
+  - "wołać"
+  - "wrócić"
+  - "wspomnieć"
+  - "wszystek"
+  - "wygnać"
+  - "wyprowadzić"
+  - "wysłuchać"
+  - "wzywać"
+  - "zawora"
+  - "zawsze"
+  - "ziemia"
+  - "zostać"
+  - "zstąpić"
+===
+
+K:
+[e]W utrapieniu moim wołałem,
+w utra[a]pieniu moim wołałem
+do [h]Jahwe,
+a [a]odpowiedział mi,
+a [e]odpowiedział mi,
+a [a]odpowiedział [e]mi.
+[e]Z głębokości szeolu wzywałem,
+z głębo[a]kości szeolu wzywałem
+po[h]mocy,
+a [a]usłyszałeś mój głos,
+a [e]usłyszałeś mój głos,
+a [a]usłyszałeś mój [e]głos.
+[e]Rzuciłeś mnie na głębię,
+rzu[a]ciłeś mnie na głębię,
+we [h]wnętrze morza
+i [a]nurt ogarnął mnie,
+i [e]nurt ogarnął mnie,
+i [a]nurt ogarnął [e]mnie.
+[e]Wszystkie twe morskie bałwany,
+[a]wszystkie twe morskie bałwany
+i [h]fale,
+[a]przeszły nade mną,
+[e]przeszły nade mną,
+[a]przeszły nade [e]mną.
+
+{{{ 2x
+W:
+Wy[E7]gnany daleko od [a]oczu Twoich,
+[D]jakże mam dojrzeć [G]miasto Twe?
+Wy[e]gnany daleko od [a]oczu Twoich,
+[H7]jakże mam dojrzeć [e]Cię.
+}}}
+K:
+[e]To ja odszedłem od Ciebie,
+to [a]ja odszedłem od Ciebie, a o[h]cean
+[a]ogarnął mnie,
+[e]ogarnął mnie,
+[a]ogarnął [e]mnie.
+[e]Do dna zstąpiłem,
+[a]do dna zstąpiłem,
+a za[h]wory ziemi
+zo[a]stały poza mną
+zo[e]stały poza mną
+na [a]za[e]wsze.
+[e]Ale Ty wyprowadziłeś życie moje,
+ale [a]Ty wyprowadziłeś życie moje
+z prze[h]paści.
+O [a]Jahwe, Panie mój,
+o [e]Jahwe, Panie mój,
+mój [a]Bo[e]że.
+{{{ 2x
+W:
+[E7]Gdy życie we mnie [a]umierało,
+[D]wspomniałem na Twe [G]obietnice.
+[e]Modlitwy mojej [a]wysłuchałeś,
+wró[H7]ciłeś mi [e]życie.
+}}}

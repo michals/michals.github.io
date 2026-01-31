@@ -1,0 +1,161 @@
+===
+title: "Śpiewaj Jahwé, Jeruzalém"
+section: "eyect"
+color: "eyect"
+tone: "d"
+songid: "S154SpiewajJahweJeruzalem"
+author:
+  - "FVS"
+  - "JH"
+year: 2017
+address:
+  - what: "Ps"
+    where: "147"
+  - what: "*HEB"
+    where: ""
+yhwh: true
+index:
+  - "bać"
+  - "Bóg"
+  - "błogosławić"
+  - "brama"
+  - "budować"
+  - "chwalić"
+  - "chyży"
+  - "dawać"
+  - "dźwigać"
+  - "dobry"
+  - "gitara"
+  - "grać"
+  - "granica"
+  - "gromadzić"
+  - "gwiazda"
+  - "imię"
+  - "Izrael"
+  - "Jahwe"
+  - "Jakub"
+  - "Jeruzalem"
+  - "kochać"
+  - "łaska"
+  - "śnieg"
+  - "śpiewać"
+  - "leczyć"
+  - "liczba"
+  - "żaden"
+  - "mądrość"
+  - "mąż"
+  - "mknąć"
+  - "najlepszy"
+  - "naród"
+  - "nasycać"
+  - "niby"
+  - "niewypowiedziany"
+  - "nucić"
+  - "obwieścić"
+  - "On"
+  - "orędzie"
+  - "oznaczać"
+  - "Pan"
+  - "pieśń"
+  - "pochwalny"
+  - "podobać"
+  - "pokój"
+  - "pokorny"
+  - "poniżać"
+  - "popiół"
+  - "pouczyć"
+  - "psalm"
+  - "pszenica"
+  - "rana"
+  - "rozproszyć"
+  - "rozsiewać"
+  - "rumak"
+  - "serce"
+  - "siła"
+  - "słowa"
+  - "słowo"
+  - "Syjon"
+  - "syn"
+  - "szron"
+  - "uczynić"
+  - "umacniać"
+  - "upodobać"
+  - "ustawa"
+  - "uzdrawiać"
+  - "wdzięczny"
+  - "wełna"
+  - "wielki"
+  - "wołać"
+  - "wszystek"
+  - "wyczekiwać"
+  - "wyroki"
+  - "występny"
+  - "zapewniać"
+  - "zasobny"
+  - "zawora"
+  - "ziemia"
+  - "złamany"
+  - "zsyłać"
+===
+
+W:
+[d]Śpiewaj Jahwé, Jeruza[G]lém.
+[g]Syjonie Boga [d]chwal.
+On leczy wszystkie serca zła[C]mane,
+u[A7]zdrawia Izraela [d]z ran.
+
+K:
+Dobrze błogosławić Ja[G]hwé.
+[g]wdzięcznie pochwalną nucić [d]pieśń.
+Śpiewajcie Jahwe pieśni i [C]psalmy,
+[A7]grajcie na gitarze dla [d]Pana.
+W:
+[d]Śpiewaj Jahwé, Jeruza[G]lém …
+
+K:
+Pan buduje Jeruza[G]lém,
+gro[g]madzi rozproszonych z Izra[d]ela;
+Pan dźwiga po[C]kornych,
+a po[A7]niża występnych aż do [d]ziemi.
+W:
+[d]Śpiewaj Jahwé, Jeruza[G]lém …
+
+K:
+On liczbę gwiazd o[G]znacza,
+[g]wszystkie je woła po i[d]mieniu.
+Pan jest wielki i zasobny [C]w siły,
+mądrość [A7]Jego jest niewypowie[d]dziana.
+W:
+[d]Śpiewaj Jahwé, Jeruza[G]lém …
+
+K:
+Nie kocha się w sile ru[G]maka;
+[g]nie upodobał w sile [d]męża.
+Podobają się Panu, którzy [C]się Go boją,
+[A7]którzy wyczekują Jego [d]łaski.
+W:
+[d]Śpiewaj Jahwé, Jeruza[G]lém …
+
+K:
+Umacnia zawory bram [G]twoich
+i [g]błogosławi synom twoim [d]w tobie.
+Zapewnia pokój twoim gra[C]nicom,
+na[A7]syca cię najlepszą psze[d]nicą.
+W:
+[d]Śpiewaj Jahwé, Jeruza[G]lém …
+
+K:
+Na ziemię zsyła swoje o[G]rędzie,
+[g]mknie chyżo Jego [d]słowo.
+On daje śnieg niby [C]wełnę,
+a [A7]szron jak popiół roz[d]siewa.
+W:
+[d]Śpiewaj Jahwé, Jeruza[G]lém …
+
+K:
+Obwieścił swoje słowa Jaku[G]bowi,
+I[g]zraelowi ustawy swe i wy[d]roki.
+Żadnemu narodowi tak nie u[C]czynił:
+o [A7]swoich wyrokach ich nie po[d]uczył.
+W:
+[d]Śpiewaj Jahwé, Jeruza[G]lém …

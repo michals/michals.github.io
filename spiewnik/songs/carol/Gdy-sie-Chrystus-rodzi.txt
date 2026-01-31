@@ -1,0 +1,173 @@
+===
+title: "Gdy się Chrystus rodzi"
+section: "carol"
+color: "carol"
+tone: "C"
+songid: "S706GdySieChrystusRodzi"
+author:
+  - "tr"
+year: 1843
+address:
+  - what: "Łk"
+    where: "2, 8-18.20"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+knownas:
+  - "Aniołowie się radują"
+  - "Gloria, gloria, gloria in excelsis Deo"
+index:
+  - "anioł"
+  - "Bóg"
+  - "Betlejem"
+  - "boski"
+  - "brodzić"
+  - "Chrystus"
+  - "ciemny"
+  - "czynić"
+  - "Deo"
+  - "duchy"
+  - "Dziecię"
+  - "excelsis"
+  - "gloria"
+  - "godny"
+  - "iść"
+  - "iż"
+  - "jasność"
+  - "kolano"
+  - "świat"
+  - "ledwo"
+  - "żłób"
+  - "żyć"
+  - "mówić"
+  - "miejsce"
+  - "narodzić"
+  - "nic"
+  - "niebieski"
+  - "niebiosa"
+  - "niebo"
+  - "noc"
+  - "oddać"
+  - "Odkupiciel"
+  - "On"
+  - "osłodzić"
+  - "paść"
+  - "Pan"
+  - "pasterz"
+  - "pastuszek"
+  - "pełny"
+  - "pieluszka"
+  - "pobiegnąć"
+  - "pobieżeć"
+  - "pojmować"
+  - "pokłon"
+  - "położyć"
+  - "poseł"
+  - "powić"
+  - "powiedzieć"
+  - "prędzej"
+  - "promienisty"
+  - "przychodzić"
+  - "radować"
+  - "rodzić"
+  - "spieszny"
+  - "stać"
+  - "stanąć"
+  - "strach"
+  - "strzec"
+  - "stworzenie"
+  - "troska"
+  - "trzeba"
+  - "trzoda"
+  - "uczcić"
+  - "wesołość"
+  - "widzieć"
+  - "wielki"
+  - "wracać"
+  - "wreszcie"
+  - "wszego"
+  - "wszystko"
+  - "wyśpiewywać"
+  - "wyraźniej"
+  - "zadumienie"
+  - "zaraz"
+  - "zastać"
+  - "Zbawiciel"
+  - "zeznać"
+  - "ziemia"
+  - "zniżyć"
+  - "zrodzić"
+  - "zrozumieć"
+  - "zupełny"
+===
+
+[C]Gdy się [F]Chrystus [G]ro[C]dzi
+[C]i na [d]świat przy[G]cho[C]dzi,
+[C]ciemna [F]noc w ja[G]sno[C]ściach
+[C]promie[d]nistych [G]bro[C]dzi.
+[G]Aniołowie [C]się radują,
+[G]pod niebiosa [C]wyśpiewują:
+
+[C]Glo[C7]ria, [F]glo[f]ria, [G]glo[G7]ria
+[C]in ex[F]celsis [C]De-[G]e-[C]o!
+
+[C]Mówią [F]do pa[G]ste[C]rzy,
+[C]którzy [d]trzód swych [G]strze[C]gli,
+[C]aby [F]do Be[G]tle[C]jem
+[C]czym prę[d]dzej po[G]bie[C]gli,
+[G]bo się nar[C]odził Zbawiciel
+[G]wszego świata [C]Odkupiciel:
+
+[C]Glo[C7]ria, [F]glo[f]ria, [G]glo[G7]ria
+[C]in ex[F]celsis [C]De-[G]e-[C]o!
+
+[C]O nie[F]bieskie [G]du[C]chy
+[C]i po[d]słowie [G]nie[C]ba,
+[C]powiedz[F]cież wy[G]raź[C]niej,
+[C]co nam [d]czynić [G]trze[C]ba,
+[G]bo my nic nie [C]pojmujemy,
+[G]ledwo od stra[C]chu żyjemy:
+
+[C]Glo[C7]ria, [F]glo[f]ria, [G]glo[G7]ria
+[C]in ex[F]celsis [C]De-[G]e-[C]o!
+
+[C]Idźcie [F]do Be[G]tle[C]jem,
+[C]gdzie Dzie[d]cię zro[G]dzo[C]ne,
+[C]w pielu[F]szki po[G]wi[C]te,
+[C]w żłobie [d]poło[G]żo[C]ne,
+[G]oddajcie Mu [C]pokłon boski,
+[G]On osłodzi [C]wasze troski:
+
+[C]Glo[C7]ria, [F]glo[f]ria, [G]glo[G7]ria
+[C]in ex[F]celsis [C]De-[G]e-[C]o!
+
+[C]A gdy [F]pastu[G]szko[C]wie
+[C]wszystko [d]zrozu[G]mie[C]li,
+[C]zaraz [F]do Be[G]tle[C]jem
+[C]spieszno [d]pobie[G]że[C]li,
+[G]i zupełnie [C]tak zastali
+[G]jak Anieli [C]im zeznali:
+
+[C]Glo[C7]ria, [F]glo[f]ria, [G]glo[G7]ria
+[C]in ex[F]celsis [C]De-[G]e-[C]o!
+
+[C]A sta[F]nąwszy [G]w miej[C]scu
+[C]pełni [d]zadu[G]mie[C]nia,
+[C]iż się [F]Bóg tak [G]zni[C]żył
+[C]do swe[d]go stwo[G]rze[C]nia,
+[G]padli przed Nim [C]na kolana
+[G]i uczcili [C]swego Pana:
+
+[C]Glo[C7]ria, [F]glo[f]ria, [G]glo[G7]ria
+[C]in ex[F]celsis [C]De-[G]e-[C]o!
+
+[C]Wreszcie [F]kiedy [G]po[C]kłon
+[C]Panu [d]już od[G]da[C]li,
+[C]z wielką [F]weso[G]łoś[C]cią
+[C]do swych [d]trzód wra[G]ca[C]li,
+[G]że się stali [C]być godnymi
+[G]Boga widzieć [C]na tej ziemi:
+
+[C]Glo[C7]ria, [F]glo[f]ria, [G]glo[G7]ria
+[C]in ex[F]celsis [C]De-[G]e-[C]o!

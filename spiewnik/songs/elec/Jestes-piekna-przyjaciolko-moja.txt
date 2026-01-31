@@ -1,0 +1,104 @@
+===
+title: "Jesteś piękna, przyjaciółko moja"
+section: "elec"
+color: "elec"
+tone: "d"
+songid: "S293JestesPieknaPrzyjaciolkoMoja"
+author:
+  - "K"
+year: 2003
+address:
+  - what: "Pnp"
+    where: "6-7"
+  - what: "*OPA"
+    where: ""
+knownas:
+  - "Piękna jesteś, przyjaciółko moja"
+  - "2003"
+index:
+  - "aj"
+  - "artysta"
+  - "biodro"
+  - "córka"
+  - "Cheszbon"
+  - "czasza"
+  - "dzieło"
+  - "góra"
+  - "głowa"
+  - "jaśnieć"
+  - "Jerozolima"
+  - "jutrzenka"
+  - "Karmel"
+  - "kości"
+  - "król"
+  - "książęcy"
+  - "księżyc"
+  - "linia"
+  - "miłość"
+  - "oko"
+  - "okrągły"
+  - "pępek"
+  - "piękny"
+  - "przepiękny"
+  - "przyjaciółka"
+  - "purpura"
+  - "ręka"
+  - "rozkosz"
+  - "sadzawka"
+  - "sandały"
+  - "słońce"
+  - "słoniowy"
+  - "stopa"
+  - "szyja"
+  - "ta"
+  - "Tirsa"
+  - "uwięzić"
+  - "wieża"
+  - "włosy"
+  - "wschodzić"
+  - "zostać"
+===
+
+KW:
+[d]Jesteś piękna, przyjaciółko moja,
+jak [A7]Tirsa,
+przepiękna jak Jerozo[d]lima,
+Jerozo[g]lima, Jerozo[A7]lima,
+Jerozo[g]lima, Jerozo[A7]lima.
+
+K:
+[g]Jak piękne są twoje stopy w sandałach,        córko ksią[A7]żęca!
+[g]Linia twych bioder dziełem rąk ar[A7]tysty;
+twój [B]pępek jest jak okrągła [A7]czasza;
+[B]twoja szyja jak wieża z kości sło[A7]niowej;
+twoje [g]oczy jak sadzawki Chesz[A7]bonu;
+twoja [g]głowa jest jak góra [A7]Karmel;
+twoje [B]włosy są jak pur[A7]pura:
+[g]król został w niej uwię[A7]ziony.
+
+W:
+[d]Jesteś piękna, przyjaciółko moja,
+jak [A7]Tirsa,
+przepiękna jak Jerozo[d]lima,
+Jerozo[g]lima, Jerozo[A7]lima,
+Jerozo[g]lima, Jerozo[A7]lima.
+
+K:
+[D7]Kim jest ta, która wschodzi jak ju[g]trzenka,
+[B]piękna jak [A7]księżyc,
+jaśnie[B]jąca jak [A7]słońce?
+[d]Jak jesteś piękna, o mi[A7]łości,
+jak jesteś piękna, o roz[d]koszy.
+[g]Przepiękna jak Jerozo[A7]lima,
+[g]przepiękna jak Jerozo[A7]lima.
+
+W:
+[d]Jesteś piękna, przyjaciółko moja,
+jak [A7]Tirsa,
+przepiękna jak Jerozo[d]lima,
+Jerozo[g]lima, Jerozo[A7]lima,
+Jerozo[g]lima, Jerozo[A7]lima.
+
+K:
+[A7]Jerozolimo, A[g]aj, Jero[A7]zolimo,
+Jerozo[B]limo, Jerozo[A7]limo.

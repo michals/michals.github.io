@@ -1,0 +1,60 @@
+===
+title: "Sama na sam"
+section: "precate"
+color: "communion"
+tone: "d"
+songid: "S142SamaNaSam"
+author:
+  - "K"
+year: 2005
+address:
+  - what: "*OWP"
+    where: ""
+  - what: "*MAR"
+    where: ""
+  - what: "*LAM"
+    where: ""
+  - what: "*HYM"
+    where: ""
+knownas:
+  - "2005"
+  - "Dziewico sama"
+index:
+  - "Bóg"
+  - "Dziewica"
+  - "grzesznik"
+  - "kolumna"
+  - "krzyż"
+  - "Maryja"
+  - "matka"
+  - "miłość"
+  - "modlić"
+  - "niebo"
+  - "odłączyć"
+  - "pełny"
+  - "podtrzymywać"
+  - "przeniknąć"
+  - "sam"
+  - "słaby"
+  - "wiara"
+  - "wieża"
+  - "zdołać"
+===
+
+K:
+[dNmS]Sama na [g]sam
+pod krzy[A]żem,
+Maryjo, któż zdoła Cię od[d]łączyć?
+
+K:
+[d]Dziewico [g]sama,
+[A]Matko, Wieżo przenik[d]nięta.
+Kolumno mi[g]łości,
+Ty podtrzymujesz [A]niebo
+naszej słabej [d]wiary.
+
+W:
+[d]Sama na [C]sam
+Matko, pełna Bo[F]ga,[E]
+[F]módl się za [A]nami
+bo jes[B]teśmy grzeszni[A]kami.

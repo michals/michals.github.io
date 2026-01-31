@@ -1,0 +1,75 @@
+===
+title: "Szczęście dla człowieka"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S118SzczescieDlaCzlowieka"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "128"
+knownas:
+  - "Żył będzie z pracy rąk swoich"
+  - "1990"
+index:
+  - "bać"
+  - "błogosławić"
+  - "błogosławiony"
+  - "chodzić"
+  - "człowiek"
+  - "dobry"
+  - "dom"
+  - "dookoła"
+  - "droga"
+  - "dziecko"
+  - "Jeruzalem"
+  - "żyć"
+  - "mąż"
+  - "małżonka"
+  - "oliwka"
+  - "Pan"
+  - "pęd"
+  - "płodny"
+  - "pośrodku"
+  - "pomyślność"
+  - "posiąść"
+  - "praca"
+  - "ręka"
+  - "stół"
+  - "Syjon"
+  - "syn"
+  - "szczęście"
+  - "szczep"
+  - "winny"
+  - "zobaczyć"
+===
+
+KW:
+[a]Szczęście dla człowieka,
+[e]co boi się [a]Pana;
+[dNmS]szczęście dla człowieka,
+który [F]chodzi Jego dro[E]gami.
+
+K:
+[d]Żył będzie z pracy rąk [E]swoich,
+[d]szczęście posiądzie i dobrze mu [E]będzie.
+Mał[F]żonka jego jak płodny szczep winnypośrodku jego [E]domu,
+jego sy[F]nowie jak pędy oliwek       dookoła jego [E]stołu.
+W:
+[a]Szczęście dla człowieka,
+[e]co boi się [a]Pana;
+[dNmS]szczęście dla człowieka,
+który [F]chodzi Jego dro[E]gami.
+
+K:
+[d]Tak będzie błogosławiony mąż, co boi się [E]Pana:
+niechaj cię [d]Pan błogosławi z Sy[E]jonu!
+[F]Abyś zobaczył pomyślność Je[E]ruzalem!
+[F]Abyś zobaczył dzieci twoich [E]synów!
+W:
+[a]Szczęście dla człowieka,
+[e]co boi się [a]Pana;
+[dNmS]szczęście dla człowieka,
+który [F]chodzi Jego dro[E]gami.

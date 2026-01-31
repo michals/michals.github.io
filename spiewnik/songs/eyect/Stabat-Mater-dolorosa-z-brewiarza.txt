@@ -1,0 +1,246 @@
+===
+title: "Stabat Mater dolorosa (z brewiarza)"
+subtitle: "Sekwencja z XIII wieku"
+section: "eyect"
+color: "eyect"
+tone: "d"
+songid: "S107StabatMaterDolorosa"
+author:
+  - "LS"
+  - "K"
+year: 2005
+knownas:
+  - "Bolejąca Matka stała"
+index:
+  - "amen"
+  - "Bóg"
+  - "bat"
+  - "błogosławiona"
+  - "boleć"
+  - "bolejąca"
+  - "Boży"
+  - "cały"
+  - "chcieć"
+  - "Chrystus"
+  - "chwała"
+  - "ciało"
+  - "cierpieć"
+  - "crucem"
+  - "czekać"
+  - "człowiek"
+  - "czuć"
+  - "czysta"
+  - "czysty"
+  - "dać"
+  - "dawać"
+  - "dobro"
+  - "dobroć"
+  - "dojść"
+  - "dolorosa"
+  - "drżeć"
+  - "dum"
+  - "dusza"
+  - "Dziecię"
+  - "dzień"
+  - "filius"
+  - "gniew"
+  - "iuxta"
+  - "jakże"
+  - "jęk"
+  - "jedyny"
+  - "Jezus"
+  - "katusza"
+  - "konać"
+  - "kres"
+  - "krew"
+  - "krzyż"
+  - "łączyć"
+  - "łono"
+  - "łzy"
+  - "śmierć"
+  - "świat"
+  - "święta"
+  - "lacrimosa"
+  - "żal"
+  - "żałoba"
+  - "życie"
+  - "ludzki"
+  - "móc"
+  - "Mater"
+  - "matka"
+  - "męczarnia"
+  - "męka"
+  - "miecz"
+  - "miłość"
+  - "Miłość"
+  - "mocny"
+  - "nadejść"
+  - "narodzić"
+  - "obraz"
+  - "obrona"
+  - "ogień"
+  - "oko"
+  - "On"
+  - "Ona"
+  - "ostry"
+  - "owoc"
+  - "pałać"
+  - "palma"
+  - "Pan"
+  - "panna"
+  - "Panna"
+  - "pełny"
+  - "pendebat"
+  - "płakać"
+  - "płonąć"
+  - "pobliże"
+  - "podzielić"
+  - "powstrzymać"
+  - "pragnąć"
+  - "przejąć"
+  - "przy"
+  - "radość"
+  - "raj"
+  - "rana"
+  - "ranić"
+  - "razem"
+  - "rodzony"
+  - "rozpacz"
+  - "sąd"
+  - "samotny"
+  - "serce"
+  - "siebie"
+  - "smagać"
+  - "smutek"
+  - "smutny"
+  - "srogi"
+  - "stać"
+  - "stabat"
+  - "stanąć"
+  - "stopa"
+  - "strapiona"
+  - "Syn"
+  - "ta"
+  - "tkwić"
+  - "trwoga"
+  - "ukrzyżować"
+  - "umrzeć"
+  - "upajać"
+  - "wespół"
+  - "więc"
+  - "widzieć"
+  - "wieczysty"
+  - "wina"
+  - "wśród"
+  - "wylewać"
+  - "wyryć"
+  - "wziąć"
+  - "zapłakać"
+  - "zawisnąć"
+  - "zdrój"
+  - "zemrzeć"
+  - "zgraja"
+  - "znieść"
+  - "znosić"
+  - "zwycięstwo"
+===
+
+W:
+[dNmS]Stabat Mater dolorosa
+[C7]iuxta crucem lacri[B7]mosa
+dum pendebat [A]Fílius.
+
+K:
+[d]Bolejąca Matka stała
+[C7]U stóp krzyża, we łzach [B7]cała,
+Kiedy na nim zawisł [A]Syn
+
+A w Jej pełnym jęku duszy
+Od męczarni i katuszy
+Tkwił miecz ostry naszych win.
+
+W:
+Stabat Mater dolorosa …
+
+K:
+Jakże smutna i strapiona
+Była ta Błogosławiona,
+Z której się narodził Bóg
+
+Jak cierpiała i bolała.
+Jakże drżała, gdy widziała
+Dziecię swe wśród śmierci trwóg.
+
+W:
+Stabat Mater dolorosa …
+
+K:
+Któryż człowiek nie zapłacze,
+Widząc męki i rozpacze
+Matki Bożej w żalu tym?
+
+Któż od smutku się powstrzyma,
+Mając Matkę przed oczyma,
+Która cierpi z Synem swym?
+
+W:
+Stabat Mater dolorosa …
+
+K:
+Widzi, jak za ludzkie winy
+Znosi męki Syn jedyny,
+Jezus, jak Go smaga bat.
+
+Widzi, jak samotnie kona
+Owoc Jej czystego łona,
+Dając życie za ten świat.
+
+W:
+Stabat Mater dolorosa …
+
+K:
+Matko, coś miłości zdrojem.
+Przejmij mnie cierpieniem swoim,
+Abym boleć z Tobą mógł.
+Niechaj serce moje pała,
+By radością mą się stała
+Miłość, którą Chrystus Bóg.
+K:
+Matko święta, srogie rany,
+Które zniósł Ukrzyżowany,
+Wyryj mocno w duszy mej.
+Męką Syna rodzonego,
+Co dla dobra cierpiał mego,
+Ze mną się podzielić chciej.
+K:
+Pragnę płakać w Twym pobliżu,
+Cierpiąc z Tym, co zmarł na krzyżu,
+Po mojego życia kres.
+Chcę pod krzyżem stać przy Tobie,
+Z Tobą łączyć się w żałobie
+I wylewać zdroje łez.
+K:
+Panno czysta nad pannami,
+Niechaj dobroć Twoja da mi
+Płakać z żalu z Tobą współ.
+Bym z Chrystusem konał razem,
+Męki Jego był obrazem.
+Rany Jego w sobie czuł.
+K:
+Niech mnie do krwi rani zgraja,
+Niech mnie męki krzyż upaja
+I Twojego Syna krew.
+W ogniu, Panno, niech nie płonę,
+Więc mnie w swoją weź obronę,
+Gdy nadejdzie sądu gniew.
+K:
+[d]Gdy kres dni przede mną [gX]stanie,
+Przez Twą Matkę dojść mi, [B7]Panie,
+Do zwycięstwa palmy [A]daj.
+Kiedy umrze moje ciało,
+Niechaj duszę mą z swą chwałą
+Czeka Twój wieczysty raj.
+W:
+A[d]men, a[B7]men, a[A7]men!
+
+0]917

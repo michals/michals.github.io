@@ -1,0 +1,94 @@
+===
+title: "Wśród nocnej ciszy"
+section: "carol"
+color: "carol"
+tone: "G"
+songid: "S704WsrodNocnejCiszy"
+author:
+  - "tr"
+year: 1853
+address:
+  - what: "Łk"
+    where: "2, 8-18"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+index:
+  - "ach"
+  - "Bóg"
+  - "Betlejem"
+  - "chleb"
+  - "cisza"
+  - "czekać"
+  - "cześć"
+  - "cztery"
+  - "dać"
+  - "dawny"
+  - "Dzieciątko"
+  - "głos"
+  - "jako"
+  - "kapłan"
+  - "król"
+  - "żądać"
+  - "żłób"
+  - "noc"
+  - "nocny"
+  - "objawić"
+  - "On"
+  - "osoba"
+  - "paść"
+  - "pójść"
+  - "Pan"
+  - "pasterz"
+  - "pośpieszać"
+  - "prędzej"
+  - "prorok"
+  - "przyjść"
+  - "przywitać"
+  - "radość"
+  - "rodzić"
+  - "rok"
+  - "rozchodzić"
+  - "siebie"
+  - "skoro"
+  - "twarz"
+  - "tysiące"
+  - "wielki"
+  - "wierzyć"
+  - "wino"
+  - "witać"
+  - "wśród"
+  - "wstać"
+  - "wszystek"
+  - "wybierać"
+  - "wyglądać"
+  - "zawołać"
+  - "Zbawca"
+  - "znak"
+  - "znaleźć"
+===
+
+[G]Wśród [D]nocnej [G]ci[D]szy [G]głos się [D]rozcho[G]dzi:
+[G]Wstań[D]cie, pas[G]te[D]rze, [G]Bóg się [D]Wam ro[G]dzi.
+[G]Czym prędzej się [D7]wybierajcie,
+[G]Do Betlejem [D7]pośpieszajcie,
+[G]Przywi[D7]tać Pa[G]na.
+
+[G]Po[a7]szli, [D7]zna[G]le[h]źli [e7]Dzie[G7]cią[a]tko [D7]w żło[G]bie
+[G]Z wszys[a7]tki[D7]mi [G]zna[h]ki [e7]da[G7]ny[a]mi [D7]sob[G]ie.
+[G]Jako [e7]Bogu [a]cześć Mu [D7]dali,
+[G]A wi[e7]tając [a]zawo[D7]łali
+[G]Z wiel[e7]kiej [a]ra[D7]do[G]ści:
+
+[G]Ach, [D]witaj [G]Zbaw[D]co [G]z dawna [D]żąda[G]ny,
+[G]Czte[D]ry ty[G]sią[D]ce [G]lat wy[D]gląda[G]ny.
+[G]Na Ciebie kró[D7]le, prorocy,
+[G]Czekali, a [D7]Tyś tej nocy
+[G]Nam się [D7]obja[G]wił.
+
+[G]I [D]my cze[G]ka[D]my [G]na Cie[D]bie, Pa[G]na,
+[G]A [D]skoro [G]przyj[D]dziesz [G]na głos [D]kapła[G]na,
+[G]Padniemy na [D7]twarz przed Tobą,
+[G]Wierząc, żeś jest [D7]pod osobą
+[G]Chleba [D7]i wi[G]na.

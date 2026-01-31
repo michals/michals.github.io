@@ -1,0 +1,126 @@
+===
+title: "Bracia, nie dajmy nikomu powodu do upadku"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S294BraciaNieDajmyNikomuPowodu"
+author:
+  - "K"
+year: 2005
+address:
+  - what: "2 Kor"
+    where: "6, 3-16"
+knownas:
+  - "2005"
+index:
+  - "akceptować"
+  - "Bóg"
+  - "brat"
+  - "chwała"
+  - "cierpliwość"
+  - "czystość"
+  - "dać"
+  - "dobroć"
+  - "dobry"
+  - "Duch"
+  - "dumny"
+  - "idole"
+  - "jakby"
+  - "jaki"
+  - "jarzmo"
+  - "jednak"
+  - "świątynia"
+  - "święty"
+  - "lewy"
+  - "mówić"
+  - "między"
+  - "moc"
+  - "nic"
+  - "niedostatek"
+  - "nierówny"
+  - "niewierny"
+  - "nikt"
+  - "oręż"
+  - "oszczerstwo"
+  - "oszust"
+  - "pełny"
+  - "poganin"
+  - "pohańbienie"
+  - "ponieważ"
+  - "posiadać"
+  - "powód"
+  - "prawa"
+  - "prawda"
+  - "prawdomówny"
+  - "razem"
+  - "sam"
+  - "sława"
+  - "sprawiedliwość"
+  - "szczery"
+  - "trud"
+  - "ucisk"
+  - "ufność"
+  - "używać"
+  - "upadek"
+  - "utrapienie"
+  - "wierzący"
+  - "wśród"
+  - "wprzęgać"
+  - "wspólny"
+  - "wszystko"
+  - "zawsze"
+  - "związek"
+===
+
+KW:
+[a]Bracia, nie dajmy nikomu powodu do u[d]padku,
+braci[E]a, akceptujmy zawsze utra[a]pienia,
+[d]niedostatki, uciski i [E]trudy,
+[d]z cierpliwością, czystością i dob[E]rocią,
+w Duchu [F]Świętym i w mocy [E]Boga.
+
+K:
+[d]Używając oręża sprawiedli[E]wości,
+[d]tego po prawej, jak i po [E]lewej,
+[d]wśród chwały i pohań[E]bienia,
+[d]w oszczerstwach i dobrej [E]sławie,
+jakby o[F]szuści, a jednak prawdomówni,
+jak ten, co nie ma nic,           a jednak posiada [E]wszystko.
+W:
+[a]Bracia, nie dajmy nikomu powodu do u[d]padku,
+braci[E]a, akceptujmy zawsze utra[a]pienia,
+[d]niedostatki, uciski i [E]trudy,
+[d]z cierpliwością, czystością i dob[E]rocią,
+w Duchu [F]Świętym i w mocy [E]Boga.
+
+K:
+[A7]Bracia! Mówimy wam [d]szczerze,
+[F]mówimy wam samą [E]prawdę:
+KW:
+[d]nie wprzęgajcie się w nierówne jarzmo razem z poga[E]nami.
+
+K:
+[d]Co wspólnego ma wierzący z nie[E]wiernym?
+Jaki [F]związek między świątynią Boga i świątynią i[E]doli?
+Bo [d]my jesteśmy świątynią [E]Boga.
+W:
+[a]Bracia, nie dajmy nikomu powodu do u[d]padku,
+braci[E]a, akceptujmy zawsze utra[a]pienia,
+[d]niedostatki, uciski i [E]trudy,
+[d]z cierpliwością, czystością i dob[E]rocią,
+w Duchu [F]Świętym i w mocy [E]Boga.
+
+K:
+[A7]Bracia! Mówimy wam pełni uf[d]ności,
+[F]ponieważ jesteśmy z was [E]dumni.
+KW:
+[d]Nie wprzęgajcie się w nierówne jarzmo        razem z poga[E]nami.
+K:
+Jaki [F]związek między świątynią Boga          i świątynią i[E]doli?
+Bo [d]my jesteśmy świątynią [E]Boga.
+W:
+[a]Bracia, nie dajmy nikomu powodu do u[d]padku,
+braci[E]a, akceptujmy zawsze utra[a]pienia,
+[d]niedostatki, uciski i [E]trudy,
+[d]z cierpliwością, czystością i dob[E]rocią,
+w Duchu [F]Świętym i w mocy [E]Boga.

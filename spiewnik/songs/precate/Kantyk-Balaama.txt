@@ -1,0 +1,145 @@
+===
+title: "Kantyk Balaama"
+subtitle: "O jakże piękne twe namioty"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S089SpiewBalaama"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Lb"
+    where: "23, 7-24"
+  - what: "*PAX"
+    where: ""
+  - what: "*ZAK"
+    where: ""
+knownas:
+  - "Z Aramu sprowadził mnie"
+  - "Śpiew Balaama"
+  - "["
+  - "1978"
+index:
+  - "Aram"
+  - "Balak"
+  - "Bóg"
+  - "błogosławić"
+  - "chcieć"
+  - "chodzić"
+  - "człowiek"
+  - "góry"
+  - "gwiazda"
+  - "inny"
+  - "Izrael"
+  - "jakże"
+  - "Jakub"
+  - "kłaść"
+  - "król"
+  - "śmierć"
+  - "la"
+  - "lew"
+  - "żałować"
+  - "życie"
+  - "lud"
+  - "lwica"
+  - "móc"
+  - "mówić"
+  - "miejsce"
+  - "Moab"
+  - "może"
+  - "nakłonić"
+  - "namiot"
+  - "naród"
+  - "nikt"
+  - "ojciec"
+  - "okrzyki"
+  - "On"
+  - "piękny"
+  - "podziwiać"
+  - "poruszyć"
+  - "posłuchać"
+  - "potem"
+  - "pozwalać"
+  - "prorokować"
+  - "przeciągać"
+  - "przecież"
+  - "przeciw"
+  - "przekląć"
+  - "przeklinać"
+  - "przyjść"
+  - "rzesza"
+  - "Sippor"
+  - "skała"
+  - "słyszeć"
+  - "sprawiedliwy"
+  - "sprowadzić"
+  - "stamtąd"
+  - "syn"
+  - "takiego"
+  - "ucho"
+  - "widzieć"
+  - "wielki"
+  - "wschodni"
+  - "wschodzić"
+  - "wszystek"
+  - "wyprawiać"
+  - "wysokość"
+  - "wzgórze"
+  - "zdołać"
+  - "zliczyć"
+===
+
+K:
+[e]Z Aramu sprowadził [D]mnie
+Ba[e]lak, król Mo[D]abu,
+ze wschodnich [e]wzgórz:
+„[D]przyjdź i przeklnij mi Ja[e]kuba,
+[D]przyjdź i prorokuj przeciw Izrae[e]lowi”.
+[G]Jakże mam prze[D]klinać,
+jeśli [G]Bó[h]g mi nie poz[e]wala?
+[G]Jakże mam proro[D]kować,
+jeśli [G]Bó[h]g tego [e]nie chce?
+[D]Z wysokości tej skały ja go [e]widzę,
+[D]z wysokości tej góry podziwiam [e]go:
+[D]Ten lud jest inny niż wszystkie na[e]rody!
+{{{ 2x
+W:
+O jakże piękne twe na[D]mioty,
+o jakże piękne, Izra[e]elu.
+O jakże piękne twe na[D]mioty,
+o jakże piękne, Izra[e]elu.
+}}}
+K:
+[G]Któż może [D]zliczyć
+wi[G]el[h]ką twoją [e]rzeszę,
+W:
+[D]Jakubie, Ja[e]kubie,
+Ja[D]kubie, Ja[e]kubie?
+O jakże piękne …
+
+K:
+[e]Co takiego ty wy[D]prawiasz?
+ty go przecież błogo[e]sławisz;
+[D]chodź ze mną na inne miejsce,
+może stamtąd Bóg go [e]przeklnie.
+[G]Posłuchaj, synu Sip[D]pora,
+nakłoń [G]uc[h]ha, królu Ba[e]laku;
+[D]Bóg nie jest jak człowiek,
+co mówi, a potem ża[e]łuje:
+[D]gwiazda wschodzi z Ja[e]kuba,
+[D]słyszę okrzyki dla [e]króla,
+[D]Bóg, [Bóg] jest Jego [e]ojcem:
+[D]kładzie się jak [e]lew,
+[D]przeciąga jak [e]lwica,
+[D]nikt nie zdoła go po[e]ruszyć.
+W:
+O jakże piękne …
+K:
+[G]Niech moja [D]śmierć
+będzie jak [G]śmi[h]erć Sprawiedli[e]wego,
+W:
+[D]niech me życie będzie tam gdzie [e]On,
+[D]niech me życie będzie tam gdzie [e]On.
+O jakże piękne …
+[e]La… [D]la… [e]la… …

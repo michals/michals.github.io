@@ -1,0 +1,84 @@
+===
+title: "Lulajże Jezuniu"
+section: "carol"
+color: "carol"
+tone: "C"
+songid: "S713LulajzeJezuniu"
+author:
+  - "tr"
+year: 1705
+address:
+  - what: "Łk"
+    where: "2, 16"
+  - what: "*KOL"
+    where: ""
+  - what: "*DZI"
+    where: ""
+children: true
+index:
+  - "aniołeczek"
+  - "gwiazdeczka"
+  - "Jezus"
+  - "kochać"
+  - "kwiateczek"
+  - "łkanie"
+  - "świat"
+  - "lilijka"
+  - "lulać"
+  - "matula"
+  - "najśliczniejszy"
+  - "najozdobniejszy"
+  - "najprzyjemniejszy"
+  - "niebo"
+  - "oko"
+  - "On"
+  - "perełka"
+  - "piękny"
+  - "pieścidełko"
+  - "płacz"
+  - "powieki"
+  - "pragnąć"
+  - "przyjemny"
+  - "różyczka"
+  - "słoneczko"
+  - "spocząć"
+  - "ulubiony"
+  - "usteczka"
+  - "utulać"
+  - "utulić"
+  - "wdzięczny"
+  - "zamknąć"
+  - "zemdlony"
+  - "ziemia"
+  - "znużony"
+===
+
+[C]Lulajże [d]Jezuniu, [G]moja Pe[C]rełko,
+[A]lulaj, u[d]lubione [G]me pieści[C]dełko.
+[C]Lulajże [F]Jezuniu, [G]lulajże, [C]lulaj,
+[A]a Ty Go, [d]Matulu, [G7]w płaczu u[C]tulaj.
+
+[C]Zamknijże [d]znużone [G]płaczem po[C]wieczki,
+[A]utulże [d]zemdlone [G]łkaniem u[C]steczki.
+[C]Lulajże [F]Jezuniu, [G]lulajże, [C]lulaj,
+[A]a Ty Go, [d]Matulu, [G7]w płaczu u[C]tulaj.
+
+[C]Lulajże [d]piękniuchny [G]nasz Anio[C]łeczku,
+[A]lulajże [d]wdzięczniuchny [G]świata Kwia[C]teczku.
+[C]Lulajże [F]Jezuniu, [G]lulajże, [C]lulaj,
+[A]a Ty Go, [d]Matulu, [G7]w płaczu u[C]tulaj.
+
+[C]Lulajże [d]Różyczko [G]najozdo[C]bniejsza,
+[A]lulajże [d]Lilijko [G]najprzyjem[C]niejsza.
+[C]Lulajże [F]Jezuniu, [G]lulajże, [C]lulaj,
+[A]a Ty Go, [d]Matulu, [G7]w płaczu u[C]tulaj.
+
+[C]Lulajże [d]przyjemna [G]oczom Gwia[C]zdeczko,
+[A]lulaj, naj[d]śliczniejsze [G]świata Sło[C]neczko.
+[C]Lulajże [F]Jezuniu, [G]lulajże, [C]lulaj,
+[A]a Ty Go, [d]Matulu, [G7]w płaczu u[C]tulaj.
+
+[C]My z Tobą [d]tam w niebie [G]spocząć pra[C]gniemy,
+[A]Ciebie tu [d]na ziemi [G]kochać bę[C]dziemy.
+[C]Lulajże [F]Jezuniu, [G]lulajże, [C]lulaj,
+[A]a Ty Go, [d]Matulu, [G7]w płaczu u[C]tulaj.

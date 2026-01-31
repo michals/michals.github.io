@@ -1,0 +1,86 @@
+===
+title: "Maryjo, córko Twego Syna"
+subtitle: "Dante Alighieri"
+section: "precate"
+color: "precate"
+tone: "h"
+songid: "S111DziewicoTakBardzoPrzedziwna"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*OAD"
+    where: ""
+  - what: "*MAR"
+    where: ""
+  - what: "*HYM"
+    where: ""
+alttone:
+  - "d"
+knownas:
+  - "Dziewico tak bardzo przedziwna"
+  - "1985"
+index:
+  - "Bóg"
+  - "bardzo"
+  - "córka"
+  - "chwała"
+  - "Dziewica"
+  - "Jezus"
+  - "świat"
+  - "Maryja"
+  - "matka"
+  - "najmniejszy"
+  - "największy"
+  - "niebo"
+  - "niewiasta"
+  - "obraz"
+  - "Pan"
+  - "pełny"
+  - "począć"
+  - "przedziwny"
+  - "służebnica"
+  - "stworzenie"
+  - "stworzyciel"
+  - "Syn"
+  - "utworzyć"
+  - "wydać"
+  - "ziemia"
+===
+
+KW:
+[h]Maryjo, [e]córko Twego [h]Syna,
+[e]Matko Jezusa i Matko [h]nasza,
+Dzie[G]wico tak bardzo prze[Fis]dziwna.
+
+K:
+[h]Maryjo, [e]Tyś jest stwo[h]rzeniem,
+[e]które wydało na świat Stworzy[h]ciela;
+[G]Tyś Służebnicą, która poczęła swego [Fis]Pana.
+
+W:
+[h]Maryjo, [e]córko Twego [h]Syna,
+[e]Matko Jezusa i Matko [h]nasza,
+Dzie[G]wico tak bardzo prze[Fis]dziwna.
+
+K:
+[h]Maryjo, [e]utworzona [h]z ziemi,
+[e]Tyś jest pełnym [h]chwały,
+[G]pełnym chwały obrazem [Fis]nieba.
+
+W:
+[h]Maryjo, [e]córko Twego [h]Syna,
+[e]Matko Jezusa i Matko [h]nasza,
+Dzie[G]wico tak bardzo prze[Fis]dziwna.
+
+K:
+[h]Maryjo, [e]Ty będąc naj[h]mniejszą,
+[e]jesteś niewiastą naj[h]większą
+i [G]będąc córką Boga, jesteś Jego [Fis]Matką,
+[e]będąc córką Boga, jesteś Jego [Fis]Matką.
+Dzie[G]wico tak bardzo prze[Fis]dziwna.
+
+W:
+[h]Maryjo, [e]córko Twego [h]Syna,
+[e]Matko Jezusa i Matko [h]nasza,
+Dzie[G]wico tak bardzo prze[Fis]dziwna.

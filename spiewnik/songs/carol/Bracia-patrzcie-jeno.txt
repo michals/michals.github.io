@@ -1,0 +1,155 @@
+===
+title: "Bracia patrzcie jeno"
+section: "carol"
+color: "carol"
+tone: "G"
+songid: "S702BraciaPatrzcieJeno"
+author:
+  - "FK"
+  - "TK"
+year: 1858
+address:
+  - what: "Łk"
+    where: "2, 8-12"
+  - what: "*KOL"
+    where: ""
+index:
+  - "Bóg"
+  - "Betlejem"
+  - "biedny"
+  - "brat"
+  - "buda"
+  - "cały"
+  - "Chrystus"
+  - "chwila"
+  - "cieszyć"
+  - "coś"
+  - "cud"
+  - "czciciel"
+  - "czoło"
+  - "Dziecię"
+  - "dzieje"
+  - "dziwny"
+  - "goreć"
+  - "gwiazda"
+  - "jeno"
+  - "Juda"
+  - "każdy"
+  - "kraj"
+  - "krok"
+  - "ścigać"
+  - "śmiały"
+  - "śpieszyć"
+  - "świat"
+  - "światło"
+  - "żłób"
+  - "żłobek"
+  - "lud"
+  - "miasteczko"
+  - "migać"
+  - "niebo"
+  - "nowina"
+  - "obchodzić"
+  - "odwiedziny"
+  - "okryć"
+  - "pamiątka"
+  - "pamiętny"
+  - "Pan"
+  - "Panię"
+  - "Panna"
+  - "pasterz"
+  - "patrzeć"
+  - "pewnie"
+  - "powiedzieć"
+  - "prorok"
+  - "przy"
+  - "radość"
+  - "radować"
+  - "rzucić"
+  - "sławny"
+  - "stado"
+  - "stanąć"
+  - "Syn"
+  - "szczęśliwy"
+  - "szopa"
+  - "ucieszyć"
+  - "uczcić"
+  - "uczeń"
+  - "uderzyć"
+  - "ujrzeć"
+  - "warta"
+  - "wesoły"
+  - "więc"
+  - "wierzyć"
+  - "władać"
+  - "wszakże"
+  - "wszędzie"
+  - "zaś"
+  - "Zbawca"
+  - "ziomek"
+  - "znać"
+  - "znajdować"
+  - "znakomity"
+  - "zobaczyć"
+  - "zrodzić"
+===
+
+[G]Bracia [D]patrzcie [G]jeno
+[G]jak nie[D]bo go[G]reje!
+[G]Znać, że [D]coś dziw[G]nego
+[G]w Betle[D]jem się [G]dzieje.
+[D]Rzućmy [A]budy, [D]warty, [A]stada,
+[D]niechaj [A]nimi [D]Pan Bóg [A]wła[D]da.
+[G]A my do Betlejem,
+a my do Be[D]tle[G]jem,
+do [D]Betle[G]jem.
+
+[G]Patrzcie, [D]jak tam [G]gwiazda
+[G]światłem [D]swoim [G]miga!
+[G]Pewnie [D]do ucz[G]czenia
+[G]Pana [D]swego [G]ściga.
+[D]Krokiem [A]śmiałym [D]i we[A]sołym
+[D]śpieszmy [A]i u[D]derzmy [A]czo[D]łem;
+[G]przed Panem w Betlejem,
+przed Panem w Be[D]tle[G]jem,
+w Be[D]tle[G]jem.
+
+[G]Wszakże [D]powie[G]działem,
+[G]że cu[D]da uj[G]rzymy!
+[G]Dziecię, [D]Boga [G]świata,
+[G]w żłobie [D]zoba[G]czymy.
+[D]Patrzcie, [A]jak bie[D]dne o[A]kryte,
+[D]w żłobku [A]Panię [D]znako[A]mi[D]te.
+[G]W szopie przy Betlejem,
+w szopie przy Be[D]tle[G]jem,
+przy [D]Betle[G]jem.
+
+[G]Jak pro[D]rok po[G]wiedział,
+[G]Panna [D]zrodzi [G]Syna.
+[G]Dla lu[D]du ca[G]łego
+[G]szczęśli[D]wa no[G]wina.
+[D]Nam zaś [A]radość [D]w tej tu [A]chwili,
+[D]gdyśmy [A]Pana [D]zoba[A]czy[D]li
+[G]w szopie przy Betlejem,
+w szopie przy Be[D]tle[G]jem,
+przy [D]Betle[G]jem.
+
+[G]Betle[D]jem mia[G]steczko,
+[G]w Juda [D]sławne [G]będzie.
+[G]Pamię[D]tnym się [G]stanie,
+[G]w tym kra[D]ju i [G]wszędzie.
+[D]Ucie[A]szmy się [D]więc zio[A]mkowie,
+[D]Pana [A]tegoż [D]już u[A]cznio[D]wie.
+[G]W szopie przy Betlejem,
+w szopie przy Be[D]tle[G]jem,
+przy [D]Betle[G]jem.
+
+[G]Obcho[D]dząc pa[G]miątkę
+[G]odwie[D]dzin pa[G]sterzy,
+[G]każdy [D]czciciel [G]Boga,
+[G]co w Chry[D]stusa [G]wierzy,
+[D]niech się [A]cieszy [D]i ra[A]duje,
+[D]że Zba[A]wcę swe[D]go znaj[A]du[D]je
+[G]w szopie przy Betlejem,
+w szopie przy Be[D]tle[G]jem,
+przy [D]Betle[G]jem.

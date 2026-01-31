@@ -1,0 +1,103 @@
+===
+title: "Uwiodłeś mnie, Panie"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S290UwiodlesMniePanie"
+author:
+  - "K"
+year: 2000
+address:
+  - what: "Jer"
+    where: "20, 7-18"
+knownas:
+  - "1986"
+  - "Ale jest Pan u mego boku"
+index:
+  - "ból"
+  - "bok"
+  - "chłopiec"
+  - "ciemiężyć"
+  - "cierpieć"
+  - "człowiek"
+  - "dlaczego"
+  - "dzień"
+  - "hymn"
+  - "imię"
+  - "jako"
+  - "kości"
+  - "kpina"
+  - "krzyczeć"
+  - "łono"
+  - "śpiewać"
+  - "życie"
+  - "mówić"
+  - "matka"
+  - "mocarz"
+  - "musieć"
+  - "myśleć"
+  - "nurtować"
+  - "ogień"
+  - "oglądać"
+  - "ojciec"
+  - "On"
+  - "Pan"
+  - "płonący"
+  - "potężny"
+  - "powiadomić"
+  - "powiedzieć"
+  - "pozwolić"
+  - "przeklęty"
+  - "przemóc"
+  - "przemoc"
+  - "serce"
+  - "siebie"
+  - "Słowo"
+  - "syn"
+  - "ubogi"
+  - "ujarzmić"
+  - "urodzić"
+  - "uwieść"
+  - "wyjść"
+  - "wysławiać"
+  - "wyzwolić"
+  - "zmagać"
+  - "zniewaga"
+  - "zwyciężyć"
+===
+
+KW:
+[a]Uwiodłeś mnie, [E7]Panie, a ja pozwoliłem się [a]uwieść.
+Zmagałeś się [E7]ze mną i zwycię[a]żyłeś;
+ujarz[F]miłeś mnie i prze[E7]mogłeś!
+
+K:
+[a]Kiedy mówię, muszę krzy[E7]czeć:
+przemoc, ciemię[a]żenie!
+Tak Twoje [E7]Słowo jest kpiną i zniewagą [a]dla mnie.
+Powiedziałem [E7]sobie: nie będę już myślał o Nim,
+nie będę już mówił w Jego [a]imię.
+KW:
+[E7]Lecz w moim sercu był ogień płonący,
+który nur[F]tował w moich [E]kościach.
+W:
+[a]Uwiodłeś mnie, [E7]Panie, a ja pozwoliłem się [a]uwieść.
+Zmagałeś się [E7]ze mną i zwycię[a]żyłeś;
+ujarz[F]miłeś mnie i prze[E7]mogłeś!
+
+K:
+[a]Przeklęty dzień, gdy się uro[E7]dziłem!
+Przeklęty człowiek, który powiadomił mego ojca:
+„Urodził ci się syn - [a]chłopiec!”
+Dla[E7]czego wyszedłem z łona mej matki,
+gdy [F]tylko muszę oglądać cierpienie i[E7] ból?
+KW:
+[C]Ale jest Pan [G]u mego boku
+jako mocarz po[C]tężny.
+
+K:
+[a]Śpiewajcie hymny [E]Panu, wysławiajcie [a]Pana,
+bo wy[F]zwolił życie tego ubo[E]giego!
+W:
+[C]Ale jest Pan [G]u mego boku
+jako mocarz po[C]tężny.

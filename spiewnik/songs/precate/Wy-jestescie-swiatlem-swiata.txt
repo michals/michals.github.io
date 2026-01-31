@@ -1,0 +1,64 @@
+===
+title: "Wy jesteście światłem świata"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S141WyJestescieSwiatlemSwiata"
+author:
+  - "K"
+year: 2005
+address:
+  - what: "Mt"
+    where: "5, 14-16"
+knownas:
+  - "2004"
+index:
+  - "chwalić"
+  - "dom"
+  - "dzieło"
+  - "góra"
+  - "korzec"
+  - "świat"
+  - "światło"
+  - "świecić"
+  - "świecznik"
+  - "ludzie"
+  - "móc"
+  - "miasto"
+  - "niebo"
+  - "Ojciec"
+  - "pozostać"
+  - "stawiać"
+  - "ukryć"
+  - "umieszczać"
+  - "widzieć"
+  - "wszyscy"
+  - "wszystek"
+  - "zapalać"
+===
+
+W:
+[a]W[E]y jesteście światłem [a]świata.
+[d]Jesteście [E]światłem, [d]światłem świa[E]ta,
+[d]światłem [E]świata.
+
+K:
+[a]Nie może pozostać u[E]kryte
+miasto na g[a]órze.
+Nie może pozostać u[E]kryte
+miasto na g[a]órze.
+
+Nie zapala się też [E]światła
+i nie umieszcza pod kor[a]cem,
+[d]ale stawia się na świecz[E]niku,
+[d]aby świeciło wszystkim, którzy są w do[E]mu.
+
+[C]Niech świe[E]ci tak wasze [a]światło
+[F]przed wszystkimi [E]ludźmi,
+[d]aby widzieli wasze [E]dzieła
+[d]i chwalili Ojca waszego, który jest [E]w niebie.
+
+W:
+[a]W[E]y jesteście światłem [a]świata.
+[d]Jesteście [E]światłem, [a]światłem [E]świata,
+[d]światłem [E]świata.

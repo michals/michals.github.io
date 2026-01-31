@@ -17,9 +17,9 @@ address:
   - what: "*WEJ"
     where: ""
 knownas:
+  - "Dzisiaj zbawienie weszło do tego domu"
   - "2008"
   - "Gdy Jezus wszedł do Jerycha"
-  - "Dzisiaj zbawienie weszło do tego domu"
 index:
   - "Abraham"
   - "bardzo"
@@ -112,13 +112,13 @@ K:
 [a]Zacheusz zszedł w pośpiechu
 i przyjął Go pełen ra[G]dości,
 a [F]widząc to, wszyscy szemrali:
-„Wszedł do domu grze[E]sznika!”.
 
+„Wszedł do domu grze[E]sznika!”.
 [a]Zacheusz wstał i powiedział do Pana:
 „Panie, oto połowę moich dóbr daję u[G]bogim,
 a jeśli kogoś okradłem,
 poczwórnie mu to [E]zwrócę”.
-A [a]Jezus mu odpowiedział:
+A [a]Gdy Jezus mu odpowiedział:
 KW:
 „[a]Dzisiaj zbawienie weszło do tego [G]domu,
 [F]dzisiaj zbawienie weszło do tego [E]domu”.

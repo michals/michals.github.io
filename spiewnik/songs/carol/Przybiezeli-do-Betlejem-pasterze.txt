@@ -1,0 +1,133 @@
+===
+title: "Przybieżeli do Betlejem pasterze"
+section: "carol"
+color: "carol"
+tone: "C"
+songid: "S708PrzybiezeliDoBetlejem"
+author:
+  - "tr"
+year: 1630
+address:
+  - what: "Łk"
+    where: "2, 8-18"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+  - what: "*DZI"
+    where: ""
+knownas:
+  - "Chwała na wysokości"
+children: true
+index:
+  - "anioł"
+  - "Bóg"
+  - "Betlejem"
+  - "cały"
+  - "chwała"
+  - "Dzieciąteczko"
+  - "Dziecię"
+  - "dzisiaj"
+  - "dziw"
+  - "dziwić"
+  - "grać"
+  - "gromada"
+  - "Józef"
+  - "kłaniać"
+  - "kochać"
+  - "król"
+  - "łaskawy"
+  - "lira"
+  - "żywy"
+  - "Mesyjasz"
+  - "muzyka"
+  - "myśleć"
+  - "napowietrzny"
+  - "narodzić"
+  - "ochotny"
+  - "oddawać"
+  - "ogłosić"
+  - "On"
+  - "osioł"
+  - "Pański"
+  - "Pan"
+  - "Panna"
+  - "pasterz"
+  - "piastować"
+  - "pilnować"
+  - "podarunek"
+  - "pokój"
+  - "pokora"
+  - "poznać"
+  - "prawy"
+  - "przeczysty"
+  - "przybieżeć"
+  - "sam"
+  - "serce"
+  - "skoczny"
+  - "słyszeć"
+  - "trzy"
+  - "ukłony"
+  - "wół"
+  - "wszyscy"
+  - "wysokość"
+  - "Zbawca"
+  - "ziemia"
+  - "znać"
+===
+
+[C]Przybieżeli do Betlejem pas[F]te[C]rze,
+grając skocznie Dzieciąteczku na [F]lir[C]ze.
+
+[C]Chwała na [A]wysokości,
+[d]chwała na [G]wysokości,
+[C]a [F]po[C]kój [C]na [G]zie[C]mi.
+
+[C]Oddawali swe ukłony w po[F]ko[C]rze
+Tobie z serca ochotnego, o [F]Bo[C]że!
+
+[C]Chwała na [A]wysokości,
+[d]chwała na [G]wysokości,
+[C]a [F]po[C]kój [C]na [G]zie[C]mi.
+
+[C]Anioł Pański sam ogłosił te [F]dzi[C]wy,
+których oni nie słyszeli, jak [F]ży[C]wi.
+
+[C]Chwała na [A]wysokości,
+[d]chwała na [G]wysokości,
+[C]a [F]po[C]kój [C]na [G]zie[C]mi.
+
+[C]Dziwili się napowietrznej mu[F]zy[C]ce
+i myśleli: „Co to będzie za [F]Dzie[C]cię?”
+
+[C]Chwała na [A]wysokości,
+[d]chwała na [G]wysokości,
+[C]a [F]po[C]kój [C]na [G]zie[C]mi.
+
+[C]Któremu się wół i osioł kła[F]nia[C]ją,
+trzej królowie podarunki od[F]da[C]ją?
+
+[C]Chwała na [A]wysokości,
+[d]chwała na [G]wysokości,
+[C]a [F]po[C]kój [C]na [G]zie[C]mi.
+
+[C]I Anieli gromadami pil[F]nu[C]ją,
+Panna Przeczysta z Józefem pia[F]stu[C]ją?”
+
+[C]Chwała na [A]wysokości,
+[d]chwała na [G]wysokości,
+[C]a [F]po[C]kój [C]na [G]zie[C]mi.
+
+[C]Poznali Go Mesyjaszem być [F]pra[C]wym,
+narodzonym dzisiaj Panem ła[F]ska[C]wym
+
+[C]Chwała na [A]wysokości,
+[d]chwała na [G]wysokości,
+[C]a [F]po[C]kój [C]na [G]zie[C]mi.
+
+[C]My Go także Bogiem, Zbawcą już [F]zna[C]my
+i z całego serca wszyscy ko[F]cha[C]my
+
+[C]Chwała na [A]wysokości,
+[d]chwała na [G]wysokości,
+[C]a [F]po[C]kój [C]na [G]zie[C]mi.

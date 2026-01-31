@@ -1,0 +1,77 @@
+===
+title: "Tyś jest moją nadzieją, o Panie"
+section: "cate"
+color: "cate"
+tone: "d"
+songid: "S285TysJestMojaNadziejaOPanie"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*ODA"
+    where: "29"
+  - what: "*OAD"
+    where: ""
+knownas:
+  - "Wydobyłeś mnie z głębokości szeolu"
+  - "1988"
+index:
+  - "anioł"
+  - "chwała"
+  - "dać"
+  - "głębokość"
+  - "śmierć"
+  - "Mesjasz"
+  - "miłosierdzie"
+  - "moc"
+  - "nadzieja"
+  - "naród"
+  - "odnieść"
+  - "On"
+  - "Pan"
+  - "paszcza"
+  - "słowo"
+  - "stworzyć"
+  - "szeol"
+  - "tajemnica"
+  - "toczyć"
+  - "uwierzyć"
+  - "wielki"
+  - "wojna"
+  - "wychować"
+  - "wydobyć"
+  - "wyrwać"
+  - "wyznać"
+  - "zakryć"
+  - "zawieść"
+  - "znak"
+  - "zwycięstwo"
+===
+
+K:
+[cisdimS]Tyś jest moją nadzieją, o Panie,
+[B7]i nie zawiodę [A7]się.
+[cisdimS]W swojej chwale Ty nas stwo[A7]rzyłeś
+i w swym miło[B7]sierdziu nas wycho[A7]wałeś.
+Wydo[d]byłeś mnie z głębokości sze[A7]olu,
+z paszczy [B7]śmierci mnie wyr[A7]wałeś.
+W:
+Wydo[d]byłeś mnie z głębokości sze[A7]olu,
+z paszczy [B7]śmierci mnie wyr[A7]wałeś.
+I [d]tak uwierzyłem w Twojego Mes[A7]jasza
+i [B7]że On jest Panem, ja wyz[A7]nałem.
+K:
+[g]Panie, Ty dałeś nam wielki [A7]znak,
+[g]tajemnicę zakrytą przed anio[A7]łami,
+by toczyć [B7]wojnę mocą Twego [A7]Słowa
+i odnieść [B7]zwycięstwo nad naro[A7]dami.
+{{{ 2x
+W:
+Tyś [d]jest moją nadzieją, o [A7]Panie,
+i [B7]nie zawiodę [A7]się.
+}}}
+W:
+Wydo[d]byłeś mnie z głębokości sze[A7]olu,
+z paszczy [B7]śmierci mnie wyr[A7]wałeś.
+I [d]tak uwierzyłem w Twojego Mes[A7]jasza
+i [B7]że On jest Panem, ja wyz[A7]nałem.

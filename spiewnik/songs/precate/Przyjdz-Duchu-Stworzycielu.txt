@@ -1,0 +1,114 @@
+===
+title: "Przyjdź, Duchu Stworzycielu"
+subtitle: "Veni Creator Spiritus"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S018HymnNaNieszporyVeniCreator"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*HYM"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*OPE"
+    where: ""
+knownas:
+  - "Nieszpory od Wniebowstąpienia"
+  - "Nieszpory Zesłania Ducha"
+index:
+  - "amen"
+  - "balsam"
+  - "Bóg"
+  - "bronić"
+  - "dar"
+  - "Duch"
+  - "dusza"
+  - "jeden"
+  - "światło"
+  - "święty"
+  - "żywy"
+  - "mądrość"
+  - "miłość"
+  - "najwyższy"
+  - "namaszczenie"
+  - "napełnić"
+  - "nawiedzić"
+  - "nieprzyjaciel"
+  - "obiecać"
+  - "odsłonić"
+  - "ogień"
+  - "Ojciec"
+  - "palący"
+  - "palec"
+  - "płomień"
+  - "pocieszyciel"
+  - "pokój"
+  - "prowadzenie"
+  - "przyjść"
+  - "przynieść"
+  - "rana"
+  - "ręka"
+  - "rozum"
+  - "serce"
+  - "siedem"
+  - "słodki"
+  - "słowo"
+  - "stworzyć"
+  - "stworzyciel"
+  - "Syn"
+  - "tajemnica"
+  - "uleczyć"
+  - "umysł"
+  - "wiekuisty"
+  - "wielki"
+  - "woda"
+  - "wzbudzić"
+  - "zachować"
+  - "Zbawiciel"
+  - "zesłać"
+  - "zjednoczony"
+  - "złe"
+  - "zwycięski"
+===
+
+W:
+[a]Przyjdź, Duchu Stworzy[G]cielu,
+nawiedź nasze u[a]mysły,
+napełnij Twoją mi[G]łością,
+serca, które stwo[a]rzyłeś.
+
+K:
+O słodki Pocieszy[G]cielu,
+darze Ojca najwyż[a]szego,
+wodo żywa, ogniu, mi[G]łości,
+święte duszy namasz[a]czenie.
+
+W:
+Palcu ręki [G]Boga,
+obiecany przez Zbawi[a]ciela,
+ześlij Twoich siedem [G]darów,
+wzbudź w nas Twoje [a]słowo.
+
+K:
+Bądź światłem dla ro[G]zumu,
+płomieniem palącym [a]w sercu,
+ulecz nasze [G]rany
+balsamem Twojej mi[a]łości.
+
+W:
+Broń nas od nieprzyja[G]ciela,
+przynieś nam w darze [a]pokój,
+Twoje zwycięskie prowa[G]dzenie
+niech nas zachowa od [a]złego.
+
+K:
+Światło wiekuistej [G]mądrości,
+odsłoń nam wielką tajem[a]nicę
+Boga Ojca i [G]Syna,
+zjednoczonych jedną mi[a]łością.
+
+W:
+[G]Am[a]en.

@@ -1,0 +1,34 @@
+===
+title: "Alleluja aklamacji przed Ewangelią (1)"
+subtitle: "Melodia pierwsza"
+section: "liturg"
+color: "liturg"
+tone: "G"
+songid: "S024AllelujaNaAklamacjeMelodiaPierwsza"
+author:
+  - "K"
+year: 1994
+address:
+  - what: "*MSZ"
+    where: "*"
+index:
+  - "alleluja"
+  - "dawać"
+  - "mówić"
+  - "miłować"
+  - "nowy"
+  - "Pan"
+  - "przykazanie"
+  - "umiłować"
+  - "wzajemny"
+===
+
+KW:
+[G]Alleluja, alleluja, alle[C]lu[D]ja, allelu[G]ja.
+K:
+[e]Daję wam przykazanie [D]nowe, mówi [e]Pan:
+abyście się wza[D]jemnie miło[e]wali, jak [D]ja was umiło[e]wałem.
+{{{ 2x
+W:
+[G]Alleluja, alleluja, alle[C]lu[D]ja, allelu[G]ja.
+}}}

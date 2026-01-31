@@ -1,0 +1,104 @@
+===
+title: "Kto nas odłączy"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S046KtoNasOdlaczy"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "Rz"
+    where: "8, 33-39"
+  - what: "*OWP"
+    where: ""
+  - what: "*BRE"
+    where: ""
+  - what: "*KOM"
+    where: ""
+knownas:
+  - "1969"
+index:
+  - "Bóg"
+  - "Chrystus"
+  - "dzięki"
+  - "głód"
+  - "głęboki"
+  - "inny"
+  - "Jezus"
+  - "kochać"
+  - "śmierć"
+  - "żaden"
+  - "życie"
+  - "miłość"
+  - "może"
+  - "nagość"
+  - "objawić"
+  - "odłączyć"
+  - "On"
+  - "pewny"
+  - "prawica"
+  - "prześladować"
+  - "przyszłość"
+  - "stworzenie"
+  - "teraźniejszość"
+  - "ucisk"
+  - "umrzeć"
+  - "utrapienie"
+  - "wstawiać"
+  - "wszystko"
+  - "wysoki"
+  - "zdołać"
+  - "zmartwychwstać"
+  - "zwyciężać"
+===
+
+{{{ 2x
+W:
+[a]Kto nas odłączy,
+[G]kto nas odłączy
+od mi[F]łości [E]Boga?
+}}}
+K:
+Może Jezus [a]Chrystus,
+Ten, który umarł,
+Ten, który zmar[G]twychwstał,
+Ten, który po prawicy [F]Boga
+za nami się [E]wstawia?
+{{{ 2x
+W:
+[a]Kto nas odłączy,
+[G]kto nas odłączy
+od mi[F]łości [E]Boga?
+}}}
+K:
+[E]Utra[a]pienie,
+ucisk czy prześlado[G]wanie,
+głód, czy [F]nagość?
+Jeśli we wszystkim tym zwyciężamy,
+to dzięki temu, że On nas [E]kocha.
+
+{{{ 2x
+W:
+[a]Kto nas odłączy,
+[G]kto nas odłączy
+od mi[F]łości [E]Boga?
+}}}
+K:
+[E7]I jesteśmy [a]pewni,
+że ani śmierć, ani życie,
+ani teraźniejszość, ani przyszłość,
+ani co wysokie, ani co głę[G]bokie,
+ani żadne inne stwo[F]rzenie
+nie zdoła nas odłączyć od [E]Boga.
+W:
+Nie zdoła nas od[a]łączyć,
+nie zdoła nas od[G]łączyć
+od miłości [F]Boga
+objawionej w Chrystusie Je[E]zusie.
+{{{ 2x
+K:
+[a]Kto nas odłączy,
+[G]kto nas odłączy
+od mi[F]łości [E]Boga?
+}}}

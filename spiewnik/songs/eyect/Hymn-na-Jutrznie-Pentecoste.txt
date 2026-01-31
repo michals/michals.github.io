@@ -1,0 +1,136 @@
+===
+title: "Hymn na Jutrznię Pentecoste"
+subtitle: "Dzień bezkresnej radości"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S019DzienBezkresnejRadosci"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*HYM"
+    where: ""
+knownas:
+  - "Beáta nobis gáudia"
+  - "Jutrznia Pentecoste"
+index:
+  - "amen"
+  - "Bóg"
+  - "bezkresny"
+  - "błogosławiony"
+  - "cud"
+  - "czas"
+  - "dar"
+  - "Duch"
+  - "dzień"
+  - "jaśnieć"
+  - "język"
+  - "jedyny"
+  - "jubileusz"
+  - "Kościół"
+  - "łono"
+  - "świat"
+  - "światło"
+  - "święty"
+  - "źródło"
+  - "lud"
+  - "mądrość"
+  - "miasto"
+  - "miłość"
+  - "mistyczny"
+  - "narodziny"
+  - "niewolnik"
+  - "obwieszczać"
+  - "odnawiać"
+  - "odsłonić"
+  - "ogarniać"
+  - "Pan"
+  - "pięćdziesiąty"
+  - "pierwocina"
+  - "płomień"
+  - "pokój"
+  - "prorok"
+  - "przebaczyć"
+  - "przyjmować"
+  - "radość"
+  - "rok"
+  - "serce"
+  - "sprawiedliwość"
+  - "starodawny"
+  - "tajemnica"
+  - "trójca"
+  - "udzielić"
+  - "upojenie"
+  - "uwalniać"
+  - "wieczernik"
+  - "wieczny"
+  - "wiekuisty"
+  - "wzburzony"
+  - "zesłać"
+===
+
+W:
+[a]Dzień bezkresnej ra[G]dości
+w mieście naszego [a]Boga:
+płomień Ducha Świę[G]tego
+jaśnieje w wieczer[a]niku.
+
+K:
+Odnawiają się [G]cuda
+starodawnych pro[a]roków,
+mistyczne upo[G]jenie
+ogarnia języki i [a]serca.
+
+W:
+[a]Dzień bezkresnej ra[G]dości
+w mieście naszego [a]Boga:
+płomień Ducha Świę[G]tego
+jaśnieje w wieczer[a]niku.
+
+K:
+O błogosławiony [G]czasie
+narodzin Koś[a]cioła:
+on przyjmuje w swe [G]łono
+pierwociny [a]ludów.
+
+W:
+[a]Dzień bezkresnej ra[G]dości
+w mieście naszego [a]Boga:
+płomień Ducha Świę[G]tego
+jaśnieje w wieczer[a]niku.
+
+K:
+Oto jubi[G]leusz
+roku pięćdziesią[a]tego:
+uwalnia niewol[G]ników
+i obwieszcza przeba[a]czenie.
+
+W:
+[a]Dzień bezkresnej ra[G]dości
+w mieście naszego [a]Boga:
+płomień Ducha Świę[G]tego
+jaśnieje w wieczer[a]niku.
+
+K:
+Ześlij na nas, [G]Panie,
+dar Twojego [a]Ducha,
+udziel wzburzonemu [G]światu
+sprawiedliwości i po[a]koju.
+
+W:
+[a]Dzień bezkresnej ra[G]dości
+w mieście naszego [a]Boga:
+płomień Ducha Świę[G]tego
+jaśnieje w wieczer[a]niku.
+
+K:
+O światło wiekuistej mą[G]drości
+odsłoń nam tajem[a]nicę
+Boga w Trójcy jedy[G]nego,
+źródło wiecznej mi[a]łości.
+
+W:
+[G]Am[a]en.
+
+55]148[communion]

@@ -1,0 +1,51 @@
+===
+title: "Modlitwa eucharystyczna II (1)"
+subtitle: "Doksologia końcowa (1)"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "L00Dok2M2"
+author:
+  - "K"
+year: 1994
+address:
+  - what: "*MSZ"
+    where: ""
+alttone:
+  - "e"
+  - "fis"
+index:
+  - "amen"
+  - "Bóg"
+  - "błogosławieństwo"
+  - "Chrystus"
+  - "chwała"
+  - "cześć"
+  - "Duch"
+  - "dziękczynienie"
+  - "jedność"
+  - "święty"
+  - "mądrość"
+  - "oddać"
+  - "Ojciec"
+  - "wiek"
+  - "wszechmogący"
+  - "wszelki"
+  - "wszystek"
+===
+
+P:
+[G]Przez Chrystusa, z Chrystusem i w Chry[D7]stusie,
+Tobie, Boże Ojcze wszechmo[G]gący,
+[e]w jedności Ducha Świę[H7]tego,
+wszelka cześć i [e]chwała
+[C]przez wszystkie wieki wi[H7]eków.
+W:
+A[G]men, amen, amen!
+A[e]men, amen, amen!
+A[D]men, amen, a[G]men!
+Błogosławieństwo, chwałę i [D]mądrość
+i dziękczynienie oddajmy [G]Bogu.
+A[G]men, amen, amen!
+A[e]men, amen, amen!
+A[D]men, amen, a[G]men!

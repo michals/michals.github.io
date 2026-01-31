@@ -1,0 +1,111 @@
+===
+title: "Modlitwa eucharystyczna II (2) 1987"
+subtitle: "Prefacja na Okres Zwykły"
+section: "liturg"
+color: "liturg"
+tone: "a"
+songid: "L00PrefM2-1987"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*MSZ"
+    where: ""
+alttone:
+  - "a"
+  - "h"
+knownas:
+  - "1987"
+index:
+  - "anioł"
+  - "Bóg"
+  - "Chrystus"
+  - "chwała"
+  - "człowiek"
+  - "dlatego"
+  - "duch"
+  - "Duch"
+  - "dziękczynienie"
+  - "dzięki"
+  - "Dziewica"
+  - "góra"
+  - "głosić"
+  - "godny"
+  - "jako"
+  - "Jezus"
+  - "krzyż"
+  - "śmierć"
+  - "święty"
+  - "lud"
+  - "moc"
+  - "nabyć"
+  - "narodzić"
+  - "objawić"
+  - "Odkupiciel"
+  - "Ojciec"
+  - "On"
+  - "Pan"
+  - "pokonać"
+  - "ręka"
+  - "razem"
+  - "serce"
+  - "składać"
+  - "Słowo"
+  - "słuszny"
+  - "spełniać"
+  - "sprawa"
+  - "sprawiedliwy"
+  - "stać"
+  - "stworzyć"
+  - "Syn"
+  - "umiłowany"
+  - "wołać"
+  - "wola"
+  - "wszędzie"
+  - "wszystek"
+  - "wszystko"
+  - "wyciągnąć"
+  - "wznosić"
+  - "zaprawdę"
+  - "zawsze"
+  - "Zbawiciel"
+  - "zbawienny"
+  - "zesłać"
+  - "zmartwychwstać"
+===
+
+P:
+[a]P[G]an [a]z wami.
+W:
+I z [G]duchem [a]twoim.
+P:
+W górę [G]serca.
+W:
+Wznosimy je do [a]Pana.
+P:
+[G]Dzięki składajmy Panu Bogu na[a]szemu.
+W:
+[G]Godne to i sprawie[a]dliwe.
+P:
+Zaprawdę [G]godne to i sprawiedliwe, słuszne i zba[a]wienne,
+[G]ab[a]yśmy Tobie, Ojcze Święty,
+zawsze i wszędzie składali dziękczynienie
+[G]przez umiłowanego Syna Twojego, Jezusa Chry[a]stusa.
+On jest Słowem Twoim, [G]przez które wszystko stwo[a]rzyłeś,
+[G]Jego nam zes[F]łałeś, [a]jako Zbawiciela i Odkupiciela,
+[G]który stał się człowiekiem za sprawą Ducha Świętego
+i narodził się z Dzie[a]wicy.
+[G]On spełniając Twoją [a]wolę, nabył dla Ciebie lud święty,
+gdy [G]wyciągnął swoje ręce na [a]krzyżu, [G]aby śmierć po[a]konać
+i objawić [G]moc Zmartwych[a]wstania.
+{{{ 2x
+Rytmicznie
+W:
+i objawić [G]moc Zmartwych[a]wstania.
+}}}
+Recytatyw
+P:
+[G]Dlatego z Anio[a]łami i wszystkimi Świętymi
+[G]głosimy Twoją chwałę, razem z nimi wo[a]łając:
+
+Następuje „Święty”

@@ -1,0 +1,113 @@
+===
+title: "Do Ciebie wołam"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S125DoCiebieWolam"
+author:
+  - "K"
+year: 1996
+address:
+  - what: "Ps"
+    where: "141"
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "Przeciwko uwodzeniu przez grzech"
+  - "Postaw, Panie, przy moich ustach wartownika"
+  - "1992"
+index:
+  - "brama"
+  - "chronić"
+  - "czyn"
+  - "dusza"
+  - "głos"
+  - "głowa"
+  - "grzech"
+  - "kadzidło"
+  - "każdy"
+  - "kochać"
+  - "korygować"
+  - "liczny"
+  - "modlitwa"
+  - "niegodziwy"
+  - "ofiara"
+  - "oko"
+  - "olejek"
+  - "Pan"
+  - "patrzeć"
+  - "perfumować"
+  - "popełniać"
+  - "posłuchać"
+  - "pospieszyć"
+  - "postawić"
+  - "przejść"
+  - "przestępczy"
+  - "przy"
+  - "przybyć"
+  - "pułapka"
+  - "ręka"
+  - "sam"
+  - "serce"
+  - "sidła"
+  - "sieć"
+  - "skłaniać"
+  - "sprawiedliwy"
+  - "straż"
+  - "szkoda"
+  - "uderzać"
+  - "usta"
+  - "ustrzec"
+  - "warga"
+  - "wartownik"
+  - "wieczorny"
+  - "wołać"
+  - "wpaść"
+  - "wróg"
+  - "wznieść"
+  - "zastawić"
+  - "zepsuć"
+  - "zjednoczony"
+  - "złe"
+  - "zostawiać"
+===
+
+W:
+[e]Do Ciebie wołam, do Ciebie wołam, o [H7]Panie,
+[a]przybądź, pospiesz [H7]się,
+posłuchaj mego głosu - do Ciebie [e]wołam.
+[e]Niech moja modlitwa będzie jak ka[H7]dzidło,
+wzniesienie rąk moich - jak ofiara wie[e]czorna.
+
+K:
+[D]Postaw, Panie, [G]przy moich ustach wartow[H7]nika,
+[D]straże przy [C]bramie warg [H7]moich;
+[a]niech moje serce nie skłania się do [H7]złego,
+[a]do popełniania czynów przes[H7]tępczych.
+[G]Sprawiedliwy [e]niech uderza mnie, bo [H7]kocha i kory[e]guje,
+[C]aby olejek niegodziwego nie perfumował mojej [H7]głowy,
+[a]bo ja zepsułbym się jego grze[H7]chami,
+[C]bo ja zepsułbym się jego grze[H7]chami.
+
+W:
+[e]Do Ciebie wołam, do Ciebie wołam, o [H7]Panie,
+[a]przybądź, pospiesz [H7]się,
+posłuchaj mego głosu - do Ciebie [e]wołam.
+[e]Niech moja modlitwa będzie jak ka[H7]dzidło,
+wzniesienie rąk moich - jak ofiara wie[e]czorna.
+
+K:
+[D]Na Ciebie, [G]Panie, patrzą moje [H7]oczy,
+[D]w Tobie się [C]chronię,             nie zostawiaj samej mojej [H7]duszy!
+[a]Ustrzeż mnie Ty od sidła, które na mnie zasta[H7]wili,
+od pu[a]łapek licznych [H7]wrogów.
+[G]Niech wpadną oni, [e]każdy do swojej [H7]sieci,
+[C]a ja zjednoczony z Tobą przejdę bez [H7]szkody,
+[a]a ja zjednoczony z Tobą przejdę bez [H7]szkody.
+
+W:
+[e]Do Ciebie wołam, do Ciebie wołam, o [H7]Panie,
+[a]przybądź, pospiesz [H7]się,
+posłuchaj mego głosu - do Ciebie [e]wołam.
+[e]Niech moja modlitwa będzie jak ka[H7]dzidło,
+wzniesienie rąk moich - jak ofiara wie[e]czorna.

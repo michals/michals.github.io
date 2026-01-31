@@ -1,0 +1,204 @@
+===
+title: "Pójdźmy wszyscy do stajenki"
+section: "carol"
+color: "carol"
+tone: "G"
+songid: "S709PojdzmyWszyscyDoStajenki"
+author:
+  - "tr"
+year: 1842
+address:
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+knownas:
+  - "Witaj Jezu ukochany"
+index:
+  - "anioł"
+  - "Bóg"
+  - "Bóstwo"
+  - "boska"
+  - "boski"
+  - "cierpieć"
+  - "czart"
+  - "czas"
+  - "czekać"
+  - "czemu"
+  - "człowiek"
+  - "czuwać"
+  - "dać"
+  - "dar"
+  - "doznawać"
+  - "drogi"
+  - "dwa"
+  - "dwakroć"
+  - "Dziecię"
+  - "Dziecineczka"
+  - "dzieło"
+  - "dziś"
+  - "dziw"
+  - "hojny"
+  - "iść"
+  - "iż"
+  - "jaki"
+  - "Jezus"
+  - "kochać"
+  - "kochanie"
+  - "łączyć"
+  - "świat"
+  - "święta"
+  - "żądać"
+  - "żałować"
+  - "żłób"
+  - "życie"
+  - "Maleńki"
+  - "Maryja"
+  - "matka"
+  - "między"
+  - "mieszkanie"
+  - "miłość"
+  - "miłosierny"
+  - "moc"
+  - "naród"
+  - "narodzić"
+  - "natura"
+  - "nędza"
+  - "niebiosa"
+  - "noc"
+  - "obietnica"
+  - "odmawiać"
+  - "odwdzięczać"
+  - "ogłosić"
+  - "oglądać"
+  - "ojciec"
+  - "Ojciec"
+  - "On"
+  - "osoba"
+  - "pójść"
+  - "Panienka"
+  - "Panna"
+  - "pastuszek"
+  - "patriarcha"
+  - "pierwszy"
+  - "początek"
+  - "poniżać"
+  - "powitać"
+  - "poznać"
+  - "prawdziwy"
+  - "prorok"
+  - "przekładać"
+  - "przyczyna"
+  - "przywitać"
+  - "radość"
+  - "raj"
+  - "różne"
+  - "raz"
+  - "sam"
+  - "schronienie"
+  - "siebie"
+  - "słowa"
+  - "słyszeć"
+  - "sprawić"
+  - "stajenka"
+  - "stworzyć"
+  - "Syn"
+  - "szczęśliwy"
+  - "taki"
+  - "teraz"
+  - "ubóstwo"
+  - "ubogi"
+  - "ukochany"
+  - "umiłować"
+  - "upragniony"
+  - "wiek"
+  - "wierny"
+  - "witać"
+  - "wśród"
+  - "wszyscy"
+  - "wyjednać"
+  - "wykonać"
+  - "wyście"
+  - "wyniszczać"
+  - "wypowiedzieć"
+  - "wyrwać"
+  - "wyznawać"
+  - "wziąć"
+  - "wzywać"
+  - "zapewnić"
+  - "zbawienie"
+  - "zesłać"
+  - "zjawiony"
+  - "zostać"
+  - "zrównać"
+===
+
+[G]Pójdźmy wszyscy do stajenki,
+do Jezusa i Panienki;
+[a]powi[D]tajmy [G]Maleń[e]kiego
+[a]i Ma[D]ryję, [C]Matkę [G]Jego.
+
+[G]Witaj Jezu ukochany,
+od Patriarchów czekany,
+[a]od Pro[D]roków [G]ogło[e]szony,
+[a]od na[D]rodów [C]upra[G]gniony.
+
+[G]Witaj Dziecineczko w żłobie;
+Wyznajemy Boga w Tobie,
+[a]coś się [D]naro[G]dził tej [e]nocy,
+[a]boś nas [D]wyrwał [C]z czarta [G]mocy.
+
+[G]Witaj Jezu nam zjawiony;
+witaj dwakroć narodzony,
+[a]raz z Oj[D]ca przed [G]wieków [e]wiekiem,
+[a]a te[D]raz z Mat[C]ki czło[G]wiekiem.
+
+[G]Któż to słyszał takie dziwy?
+Tyś człowiek i Bóg prawdziwy,
+[a]Ty łą[D]czysz w Bos[G]kiej O[e]sobie
+[a]dwie na[D]tury [C]różne [G]sobie.
+
+[G]Tyś świat stworzył, a świat Ciebie
+nie poznał, mając wśród siebie:
+[a]idziesz [D]dla je[G]go zba[e]wienia,
+[a]on Ci [D]odma[C]wia schro[G]nienia.
+
+[G]Za to u świata ubogich,
+ale w czasach Twoich drogich,
+[a]pastusz[D]ków, któ[G]rzy czu[e]wali,
+[a]wzywasz, [D]by Cię [C]przywi[G]tali.
+
+[G]O szczęśliwi pastuszkowie!
+Któż radość waszą wypowie;
+[a]czego [D]ojco[G]wie żą[d]dali,
+[a]wyście [D]pierwsi [C]oglą[G]dali.
+
+[G]Obietnica w raju dana,
+dziś została wykonana;
+[a]Boże [D]jakieś [G]miło[e]sierny!
+[a]W darach [D]hojny, [C]w słowach [G]wierny.
+
+[G]Takeś świat ten umiłował,
+iżeś Syna nie żałował;
+[a]zesła[D]łeś Go [G]na cier[e]pienia,
+[a]od sa[D]mego [C]naro[G]dzenia.
+
+[G]O Jezu, nasze Kochanie,
+czemu nad niebios mieszkanie
+[a]przekła[D]dasz nę[G]dzę, u[e]bóstwo
+[a]i wy[D]niszczasz [C]swoje [G]Bóstwo.
+
+[G]Miłości to Twojej dzieło,
+z miłości początek wzięło;
+[a]byś nas [D]zrównał [G]z Anio[e]łami,
+[a]poni[D]żasz się [C]między [G]nami.
+
+[G]Spraw to, Jezu, Boskie Dziecię,
+niech Cię kochamy nad życie;
+[a]niech mi[D]łością [G]odwdzię[e]czamy,
+[a]miłość, [D]której [C]dozna[G]wamy.
+
+[G]Święta Panno, Twa przyczyna,
+niech nam wyjedna u Syna,
+[a]by to [D]Jego [G]naro[e]dzenie
+[a]zapew[D]niło [C]nam zba[G]wienie.

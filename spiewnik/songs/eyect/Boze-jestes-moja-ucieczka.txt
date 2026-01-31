@@ -1,0 +1,94 @@
+===
+title: "Boże, jesteś moją ucieczką"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S505BozeJestesMojaUcieczka"
+author:
+  - "U"
+year: 1986
+address:
+  - what: "Ps"
+    where: "43"
+knownas:
+  - "Panie, ześlij Twoją wierność"
+index:
+  - "Bóg"
+  - "Boży"
+  - "chodzić"
+  - "chwalić"
+  - "czemu"
+  - "dlaczego"
+  - "dźwięk"
+  - "dusza"
+  - "góra"
+  - "jeszcze"
+  - "światłość"
+  - "święta"
+  - "lutnia"
+  - "oblicze"
+  - "odrzucić"
+  - "ołtarz"
+  - "On"
+  - "Pan"
+  - "prześladować"
+  - "przy"
+  - "przybytek"
+  - "przystąpić"
+  - "radość"
+  - "smutny"
+  - "trwożyć"
+  - "ucieczka"
+  - "ufać"
+  - "wesele"
+  - "wieść"
+  - "wierność"
+  - "wróg"
+  - "wysławiać"
+  - "zaprowadzić"
+  - "zbawienie"
+  - "zesłać"
+  - "zgnębiony"
+===
+
+K:
+[a]Ty Boże, jesteś moją u[d]cieczką,
+dlaczego mnie odrzu[a]ciłeś?
+Czemu chodzę smutny i [d]prześladowany
+przez [a]wroga?
+{{{ 2x
+W:
+[a]Panie, ześlij Twoją [C]wierność,
+[d]Panie, ześlij Twoją [a]światłość.
+}}}
+K:
+[a]Ześlij światłość i wierność [d]Twoją,
+niech one mnie [a]wiodą,
+niech mnie zaprowadzą na Twoją świętą [d]górę
+i do Twoich przy[E]bytków.
+{{{ 2x
+W:
+[a]Panie, ześlij Twoją [C]wierność,
+[d]Panie, ześlij Twoją [a]światłość.
+}}}
+
+K:
+[a]I przystąpię do ołtarza Bo[G]żego,
+do [a]Boga, który jest moim weselem i ra[E]dością.
+[a]I będę Cię chwalił przy dźwiękach [G]lutni,
+[F]Boże mój, [E]Boże.
+{{{ 2x
+W:
+[a]Panie, ześlij Twoją [C]wierność,
+[d]Panie, ześlij Twoją [a]światłość.
+}}}
+K:
+[a]Czemu zgnębiona jesteś duszo [d]moja
+i czemu trwożysz się [a]we mnie?
+Ufaj Bogu, bo jeszcze wy[d]sławiać Go będę,
+On zba[E]wieniem mojego oblicza [d]i moim [E]Bogiem.
+{{{ 2x
+W:
+[a]Panie, ześlij Twoją [C]wierność,
+[d]Panie, ześlij Twoją [a]światłość.
+}}}

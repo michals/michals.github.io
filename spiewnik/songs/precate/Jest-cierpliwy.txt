@@ -1,0 +1,140 @@
+===
+title: "Jest cierpliwy"
+subtitle: "Hymn do Ducha Świętego"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S149JestCierpliwy"
+author:
+  - "K"
+year: 2018
+address:
+  - what: "*WEJ"
+    where: ""
+  - what: "*HYM"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*OPE"
+    where: ""
+  - what: "*KOM"
+    where: ""
+knownas:
+  - "2018"
+  - "Duch Święty jest jarzmem słodkim"
+index:
+  - "akceptować"
+  - "Bóg"
+  - "bronić"
+  - "całkowity"
+  - "Chrystus"
+  - "chrześcijanin"
+  - "chwała"
+  - "cierpieć"
+  - "cierpliwość"
+  - "cierpliwy"
+  - "człowiek"
+  - "dar"
+  - "dlaczego"
+  - "dobro"
+  - "dokąd"
+  - "droga"
+  - "Duch"
+  - "granica"
+  - "grzech"
+  - "gwarancja"
+  - "historia"
+  - "jaki"
+  - "jarzmo"
+  - "krzyż"
+  - "ku"
+  - "łagodność"
+  - "łagodny"
+  - "święta"
+  - "świętość"
+  - "święty"
+  - "lekki"
+  - "żaden"
+  - "życie"
+  - "mówić"
+  - "mieszkać"
+  - "miłość"
+  - "miłosierdzie"
+  - "nadzieja"
+  - "najwyższy"
+  - "oddanie"
+  - "On"
+  - "Pan"
+  - "Paraklet"
+  - "pełny"
+  - "ponieważ"
+  - "prawda"
+  - "pretensja"
+  - "prowadzić"
+  - "przebaczać"
+  - "rozumieć"
+  - "słodki"
+  - "uczyć"
+  - "upodobnić"
+  - "usprawiedliwiać"
+  - "wieczny"
+  - "wobec"
+  - "współczucie"
+  - "wszystko"
+  - "zawsze"
+  - "zmierzać"
+  - "znaczyć"
+  - "znosić"
+  - "zrozumienie"
+===
+
+KW:
+[a]Duch Święty jest jarzmem [E]słodkim,
+jest jarzmem słodkim i [a]lekkim.
+K:
+[d]Pełen zrozu[E]mienia,
+[d]pełen miłosierdzia wobec naszych [E]grzechów,
+[F]pełen łagodności i współ[E]czucia,
+[d]miłości bez [E]granic.
+W:
+[a]Jest cierpliwy, jest łagodny,
+jest Najwyższym [E]Dobrem,
+jest darem [a]Boga,
+[d]jest gwarancją Życia Wiecz[E]nego,
+[d]On, „Pa[E]raklet”.
+K:
+[a]Mieszkając w człowieku,
+zawsze nam prze[E]bacza,
+mieszkając w człowieku,
+zawsze ma na[a]dzieję.
+[d]Rozumie wszystko, usprawiedliwia [E]wszystko.
+K:
+[d]Zawsze nas broni
+i uczy nas cierpl[F]iwości wobec naszych [E]grzechów.
+[d]Mówi nam, kim jes[E]teśmy,
+[d]mówi nam, dokąd zmie[E]rzamy,
+[F]jaka jest droga i dlaczego cier[E]pimy.
+
+W:
+[a]Jest cierpliwy, jest łagodny,
+jest Najwyższym [E]Dobrem,
+jest darem [a]Boga,
+[d]jest gwarancją Życia Wiecz[E]nego.
+[d]On, „Pa[E]raklet”!
+K:
+[a]Mówi nam, że w naszym życiu wszystko jest [E]święte,
+że nasza historia jest [a]święta,
+[d]i prowadzi nas ku całkowitemu oddaniu się Chrystu[E]sowi.
+[d]W Nim nie ma się żadnych pre[E]tensji,
+[d]akceptuje się wszystko, [E]znosi się wszystko.
+[d]Ponieważ upodobnić się do Pana na [E]Krzyżu
+[d]jest naszą chwałą,
+jest prawdą,
+świętością,
+([F])jest tym, co znaczy być chrześcija[E]ninem.
+W:
+[a]Jest cierpliwy, jest łagodny,
+jest Najwyższym [E]Dobrem,
+jest darem [a]Boga,
+[d]jest gwarancją Życia Wiecz[E]nego.
+[d]On, „Pa[E]raklet”!

@@ -1,0 +1,136 @@
+===
+title: "Ty okryłeś śmierć wstydem"
+subtitle: "Homilia Paschalna Melitona z Sardes"
+section: "precate"
+color: "communion"
+tone: "d"
+songid: "S284HomiliaPaschalnaMelitonaZSardes"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*LAM"
+    where: ""
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*MAR"
+    where: ""
+knownas:
+  - "Wielki Czwartek"
+  - "Maryja, Baranka bez zmazy"
+  - "Melitona z Sardes, Homilia"
+  - "1988"
+index:
+  - "Abel"
+  - "Baranek"
+  - "Baranka"
+  - "błogosławiony"
+  - "ciało"
+  - "ciemności"
+  - "dać"
+  - "Dawid"
+  - "doznać"
+  - "faraon"
+  - "grób"
+  - "Izaak"
+  - "Józef"
+  - "królestwo"
+  - "śmierć"
+  - "światło"
+  - "żałoba"
+  - "życie"
+  - "ludzkość"
+  - "martwy"
+  - "Maryja"
+  - "Mojżesz"
+  - "niegodziwość"
+  - "niesprawiedliwość"
+  - "niewinny"
+  - "niewola"
+  - "noc"
+  - "ofiara"
+  - "ofiarować"
+  - "okryć"
+  - "otchłań"
+  - "otwierać"
+  - "pascha"
+  - "piekło"
+  - "pogrzebać"
+  - "porzucić"
+  - "potomstwo"
+  - "powstać"
+  - "pozbawić"
+  - "prorok"
+  - "prowadzić"
+  - "prześladować"
+  - "sprzedać"
+  - "stado"
+  - "tyran"
+  - "uderzyć"
+  - "usta"
+  - "wieczny"
+  - "wieczorem"
+  - "władza"
+  - "woda"
+  - "wolność"
+  - "wstyd"
+  - "wszystek"
+  - "wtrącić"
+  - "wyśmiać"
+  - "wyprowadzić"
+  - "wzięty"
+  - "zabity"
+  - "zbawienie"
+  - "zepsucie"
+  - "zmartwychwstać"
+  - "zmaza"
+  - "zrodzić"
+  - "związany"
+===
+
+KW:
+[d]Ty okryłeś śmierć [A7]wstydem,
+Ty wtrąciłeś piekło w ża[d]łobę,
+uderzyłeś niego[A7]dziwość,
+niesprawiedliwość pozbawiłeś po[d]tomstwa,
+[B]jak Mojżesz fara[A7]ona,
+[B]jak Mojżesz fara[A7]ona.
+
+K:
+[d]Ty wyprowadziłeś nas z niewoli na [A7]wolność,
+z ciemności na świa[d]tło, ze śmierci do [A7]życia,
+spod władzy tyrana do wiecznego kró[d]lestwa.
+Ty jesteś paschą naszego zba[A7]wienia,
+Tyś jest Barankiem zrodzonym z Ma[d]ryi.
+W:
+Maryja, Baranka bez [A7]zmazy,
+Maryja, niewinna Ba[d]ranka.
+
+K:
+Ty byłeś w Ablu za[A7]bity,
+Ty byłeś związany w Iza[d]aku,
+sprzedany w Jó[A7]zefie,
+w Mojżeszu porzucony na [d]wodach,
+
+prześladowany w Da[A7]widzie,
+wyśmiany we wszystkich pro[d]rokach.
+Tyś jest Barankiem, co ust nie o[A7]twiera,
+Tyś jest Barankiem zrodzonym z Ma[d]ryi.
+W:
+Maryja, Baranka bez [A7]zmazy,
+Maryja, niewinna Ba[d]ranka.
+
+K:
+Ty byłeś wzięty od [A7]stada,
+prowadzony na ofiarę, ofiarowany wie[d]czorem;
+pogrzebany [A7]nocą,
+Twoje ciało błogosławione nie doznało ze[d]psucia.
+Ty z martwych po[A7]wstałeś,
+Ty dałeś zmartwychwstanie ludzkości        z otchłani [d]grobu.
+Tyś jest Barankiem, co ust nie o[A7]twiera,
+Tyś jest Barankiem zrodzonym z Ma[d]ryi.
+W:
+Maryja, Baranka bez [A7]zmazy,
+Maryja, niewinna Ba[d]ranka.

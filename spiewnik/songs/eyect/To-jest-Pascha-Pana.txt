@@ -1,0 +1,85 @@
+===
+title: "To jest Pascha Pana"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S091ToJestPaschaPana"
+author:
+  - "GC"
+year: 1992
+address:
+  - what: "["
+    where: "p"
+  - what: "["
+    where: "p"
+  - what: "*INN"
+    where: ""
+knownas:
+  - "1972"
+index:
+  - "Abraham"
+  - "alleluja"
+  - "Bóg"
+  - "Czerwone"
+  - "droga"
+  - "Izaak"
+  - "Jakub"
+  - "śpiewać"
+  - "martwy"
+  - "morze"
+  - "myśmy"
+  - "On"
+  - "otworzyć"
+  - "Pan"
+  - "pascha"
+  - "posłać"
+  - "prowadzić"
+  - "przejść"
+  - "przejście"
+  - "przeprowadzać"
+  - "pustynia"
+  - "Syn"
+  - "wskrzesić"
+  - "wysławiać"
+===
+
+W:
+[a]To jest Pascha, przejście Pana:
+wysła[G]wiajmy [a]Go i śpie[E]wajmy.
+Alle[a]luja, alle[E]luja.
+
+K:
+[a]To Bóg Abrahama, Iza[E]aka,
+to jest Bóg Ja[a]kuba.
+
+W:
+[a]To jest Pascha, przejście Pana:
+wysła[G]wiajmy [a]Go i śpie[E]wajmy.
+Alle[a]luja, alle[E]luja.
+
+K:
+To [a]On otworzył Morze Czer[E]wone
+i myśmy przez nie [a]przeszli.
+
+W:
+[a]To jest Pascha, przejście Pana:
+wysła[G]wiajmy [a]Go i śpie[E]wajmy.
+Alle[a]luja, alle[E]luja.
+
+K:
+To [a]On przeprowadza przez pus[E]tynię
+i prowadzi nas na [a]drodze.
+
+W:
+[a]To jest Pascha, przejście Pana:
+wysła[G]wiajmy [a]Go i śpie[E]wajmy.
+Alle[a]luja, alle[E]luja.
+
+K:
+To [a]On posłał do nas swego [E]Syna
+i wskrzesił Go [a]z martwych.
+
+W:
+To jest [a]Pascha, przejście Pana:
+wysła[G]wiajmy [a]Go i śpie[E]wajmy.
+Alle[a]luja, alle[E]luja.

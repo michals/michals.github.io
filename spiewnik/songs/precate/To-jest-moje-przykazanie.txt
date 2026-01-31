@@ -1,0 +1,99 @@
+===
+title: "To jest moje przykazanie"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S295ToJestMojePrzykazanie"
+author:
+  - "K"
+year: 2007
+address:
+  - what: "J"
+    where: "15, 12.13.16.18"
+  - what: "J"
+    where: "17, 21"
+  - what: "*OPA"
+    where: ""
+knownas:
+  - "2006"
+  - "Nikt nie ma większej miłości"
+  - "Wy jesteście moimi przyjaciółmi"
+index:
+  - "jedno"
+  - "ktoś"
+  - "świat"
+  - "życie"
+  - "miłość"
+  - "miłować"
+  - "nienawidzić"
+  - "nikt"
+  - "oddawać"
+  - "Ojciec"
+  - "posłać"
+  - "przyjaciel"
+  - "przykazanie"
+  - "umiłować"
+  - "uwierzyć"
+  - "większy"
+  - "wiedzieć"
+  - "wpierw"
+  - "wybrać"
+  - "wyście"
+  - "wzajemny"
+  - "znienawidzić"
+===
+
+W:
+[a]T[C]o jest moje przyka[E]zanie:
+abyście się miło[a]wali.
+[C]To jest moje przyka[E]zanie:
+abyście się miło[a]wali
+[C]wza[E]jemnie,
+jak Ja was umiło[a]wałem,
+jak [F]Ja was umiło[E]wałem.
+K:
+[A7]Nikt nie ma większej miłości od tej,
+gdy ktoś życie oddaje             za swoich przy[d]jaciół.
+Wy jesteście moimi przyja[E]ciółmi,
+wy jes[F]teście moimi przyja[E]ciółmi.
+W:
+[a]Wy jesteście moimi przyja[G]ciółmi,
+wy jes[F]teście moimi przyja[E]ciółmi.
+KW:
+Nie [d]wyście wybrali [E]Mnie,
+KW:
+[d]ale Ja wybrałem [E]was.
+K:
+[A7]Jeśli świat was nienawidzi,
+wiedzcie, że wpierw znienawidził [d]Mnie,
+jeśli świat was niena[E]widzi.
+
+K:
+[A7]Ojcze, jak Ty jesteś we Mnie
+a Ja jestem [d]w Tobie,
+KW:
+niech będą jedno [E]w Nas,
+KW:
+[F]aby świat uwierzył,
+że Ty Mnie po[E]słałeś.
+KW:
+[d]To jest moje przyka[E]zanie,
+KW:
+abyście się miło[d]wali,
+jak Ja was umiło[E]wałem
+W:
+Wy jes[a]teście moimi przyja[G]ciółmi,
+wy jes[F]teście moimi przyja[E]ciółmi.
+Nie [d]wyście wybrali [E]Mnie,
+ale [d]Ja wybrałem [E]was.
+K:
+[A7]Jeśli świat was nienawidzi,
+wiedzcie, że wpierw znienawidził [d]Mnie,
+jeśli świat was niena[E]widzi.
+[A7]Ojcze, jak Ty jesteś we Mnie,
+a Ja jestem [d]w Tobie,
+KW:
+niech będą jedno [E]w Nas,
+KW:
+aby świat u[F]wierzył,
+że Ty Mnie po[E]słałeś.

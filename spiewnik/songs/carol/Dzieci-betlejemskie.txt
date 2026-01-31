@@ -1,0 +1,126 @@
+===
+title: "Dzieci betlejemskie"
+section: "carol"
+color: "carol"
+tone: "G"
+songid: "S720DzieciBetlejemskie"
+author:
+  - "tr"
+year: 2017
+address:
+  - what: "Mt"
+    where: "2, 1-12"
+  - what: "*KOL"
+    where: ""
+  - what: "*DZI"
+    where: ""
+knownas:
+  - "Małe dzieci betlejemskie"
+children: true
+index:
+  - "bawić"
+  - "betlejemski"
+  - "biedny"
+  - "chory"
+  - "daleki"
+  - "drugi"
+  - "dziecko"
+  - "dziś"
+  - "gwiazda"
+  - "iść"
+  - "jechać"
+  - "Jezus"
+  - "konie"
+  - "król"
+  - "Król"
+  - "kwiat"
+  - "świecić"
+  - "mag"
+  - "mały"
+  - "móc"
+  - "miasto"
+  - "mnóstwo"
+  - "narodzić"
+  - "niebo"
+  - "noc"
+  - "odkryć"
+  - "On"
+  - "perfumy"
+  - "pierwszy"
+  - "plac"
+  - "pochodzić"
+  - "przeto"
+  - "przybyć"
+  - "przybywać"
+  - "przyjść"
+  - "razem"
+  - "rosnąć"
+  - "skąd"
+  - "srebro"
+  - "trzeci"
+  - "trzy"
+  - "uczcić"
+  - "widzieć"
+  - "wielbłąd"
+  - "wielki"
+  - "wpatrywać"
+  - "wschód"
+  - "wszędzie"
+  - "wszyscy"
+  - "wszystek"
+  - "zasnąć"
+  - "Zbawiciel"
+  - "złoto"
+  - "zobaczyć"
+  - "zrodzić"
+===
+
+W:
+[G]Małe dzieci betlejemskie
+bawią [D7]się na placu [G]miasta.
+Oto idą trzej królowie:
+pierwszy, [D7]drugi, trzeci [G]też.
+Ale [H7]skąd wy przyby[e]wacie
+na tych [A7]koniach i wiel[D]błądach.
+Kim je[G]steście, kim jesteście,
+żeście [D7]przyszli właśnie [G]tu.
+D:
+1 Pochodzę z Dalekiego Wschodu,
+tam, gdzie złota i srebra     mnóstwo [D7]wszędzie.
+Ale [C]nocą nie mogę [G]zasnąć,
+bo gwiazdę wi[D]działem,tę gwiazdę na [G7]niebie.
+W:
+Ale [C]nocą nie może on [G]zasnąć,
+bo gwiazdę zo[D]baczył, tę gwiazdę na [G]niebie.
+
+D:
+2 Pochodzę z Dalekiego Wschodu,
+tam, gdzie kwiatów i perfum …
+
+W:
+Ale [C]nocą nie może on [G]zasnąć …
+
+D:
+3 Pochodzę z Dalekiego Wschodu,
+tam, gdzie biednych i chorych …
+W:
+Ale [C]nocą nie może on [G]zasnąć …
+
+D:
+W Jesteśmy z Dalekiego Wschodu,
+widzieliśmy, jak Jego gwiazda [D7]rośnie.
+Przy[C]byliśmy tu aby [G]uczcić Go,
+bowiem [D]dziś się narodził nam [G7]Król.
+W:
+Przy[C]byliśmy tu aby [G]uczcić Go,
+bowiem [D]dziś się narodził nam [G]Król.
+
+W:
+[G]Małe dzieci betlejemskie
+wszystkie [D7]się wpatrują [G]w niebo.
+Oto świeci wielka gwiazda
+tam, gdzie [D7]właśnie Jezus [G]jest.
+Przeto [H7]jedźmy wszyscy [e]razem
+na tych [A7]koniach i wiel[D]błądach
+za ma[G]gami, co odkryli,
+gdzie Zba[D7]wiciel zrodził [G]się.

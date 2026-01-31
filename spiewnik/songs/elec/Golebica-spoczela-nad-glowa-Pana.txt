@@ -1,0 +1,94 @@
+===
+title: "Gołębica spoczęła nad głową Pana"
+section: "elec"
+color: "elec"
+tone: "e"
+songid: "S277GolebicaZstapila"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*ODA"
+    where: "24"
+  - what: "*BRE"
+    where: ""
+alttone:
+  - "fis"
+knownas:
+  - "1985"
+index:
+  - "anioł"
+  - "blask"
+  - "ciemności"
+  - "dać"
+  - "droga"
+  - "głowa"
+  - "gołębica"
+  - "iść"
+  - "jakby"
+  - "każdy"
+  - "krzyk"
+  - "łaska"
+  - "śpiewać"
+  - "świętość"
+  - "miłość"
+  - "moc"
+  - "niebieski"
+  - "niewiasta"
+  - "niezrównany"
+  - "objawić"
+  - "On"
+  - "otchłanie"
+  - "otworzyć"
+  - "ozdobić"
+  - "Pan"
+  - "płakać"
+  - "pokazać"
+  - "prawda"
+  - "psalm"
+  - "rodząca"
+  - "rozlać"
+  - "słyszeć"
+  - "spocząć"
+  - "straszliwy"
+  - "wejrzenie"
+  - "wobec"
+  - "wszyscy"
+  - "wznosić"
+  - "zamiary"
+  - "zatracić"
+  - "zniweczyć"
+===
+
+KW:
+[e]Gołębica spoczęła nad głową [H7]Pana,
+śpiewała psalmy [e]wznosząc się nad Nim.
+A Pan objawił zamiary swej mi[aX]łości,
+za[H7]miary o niezrównanym blasku dla każ[e]dego.
+K:
+[a]I otwarły się ot[H7]chłanie,
+i dał się [a]słyszeć straszliwy krzyk
+jakby niewiast ro[H7]dzących,
+ale [C]Pan zniweczył ciemności
+swoim wej[H7]rzeniem.
+W:
+[e]Gołębica spoczęła nad głowę [H7]Pana,
+śpiewała psalmy [e]wznosząc się nad Nim.
+A Pan objawił zamiary swej mi[aX]łości,
+za[H7]miary o niezrównanym blasku dla każ[e]dego.
+
+K:
+[a]Lecz zamiary zatra[H7]cono
+[a]i aniołowie niebiescy pła[H7]kali,
+[a]zamiary wobec tych wszystkich,
+którzy nie szli za Jego [H7]prawdą.
+[C]Albowiem Pan pokazał swoją dr[H7]ogę
+[a]i rozlał swoją łaskę
+na tych, którzy za Nim [H7]idą;
+[C]i dał im tę moc,
+by ozdobili się Jego świę[H7]tością.
+W:
+[e]Gołębica spoczęła nad głowę [H7]Pana,
+śpiewała psalmy [e]wznosząc się nad Nim.
+A Pan objawił zamiary swej mi[aX]łości,
+za[H7]miary o niezrównanym blasku dla każ[e]dego.

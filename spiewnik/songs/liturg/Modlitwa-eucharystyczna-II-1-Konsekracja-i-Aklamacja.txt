@@ -1,0 +1,101 @@
+===
+title: "Modlitwa eucharystyczna II (1)"
+subtitle: "Konsekracja i Aklamacja"
+section: "liturg"
+color: "liturg"
+tone: "d"
+songid: "L00KonsM2"
+author:
+  - "K"
+year: 1996
+address:
+  - what: "*MSZ"
+    where: ""
+alttone:
+  - "d"
+  - "e"
+knownas:
+  - "Głosimy Twoją śmierć, o Jezu"
+  - "Aklamacja po podniesieniu"
+index:
+  - "błogosławić"
+  - "brać"
+  - "chleb"
+  - "ciało"
+  - "czynić"
+  - "dobrowolny"
+  - "dzięki"
+  - "głosić"
+  - "grzech"
+  - "jeść"
+  - "Jezus"
+  - "kielich"
+  - "krew"
+  - "łamać"
+  - "śmierć"
+  - "mówić"
+  - "Maranatha"
+  - "męka"
+  - "nowy"
+  - "odpuścić"
+  - "Ojciec"
+  - "On"
+  - "pamiątka"
+  - "pić"
+  - "podać"
+  - "podobny"
+  - "ponowny"
+  - "przymierze"
+  - "rozdawać"
+  - "składać"
+  - "tajemnica"
+  - "uczeń"
+  - "wiara"
+  - "wieczerza"
+  - "wieczny"
+  - "wiele"
+  - "wielki"
+  - "wszyscy"
+  - "wydać"
+  - "wylać"
+  - "wyznawać"
+  - "wziąć"
+  - "zmartwychwstać"
+===
+
+Przejście
+P:
+Zaprawdę, święty jesteś, Boże,
+źródło wszelkiej świętości.
+Epikleza. Modlitwa konsekracyjna
+Uświęć te dary mocą Twojego Ducha,
+aby stały się dla nas Ciałem ✠ i Krwią
+naszego Pana, Jezusa Chrystusa.
+Opowiadanie i konsekracja
+P:
+[d]On to, gdy dobrowolnie wydał się na mękę, wziął chleb
+i dzięki Tobie składając, Ojcze, Ojcze,
+[F]błogosławił, ła[g]mał i rozdawał swoim uczniom [d]mówiąc:
+„bierzcie i jedzcie z tego [A7]wszyscy:
+to jest [d]bowiem ciało moje, [A7]które za was będzie wy[d]dane”.
+P:
+[d]Podobnie po wieczerzy wziął kielich
+i ponownie dzięki Tobie składając, Ojcze, Ojcze,
+[F]błogosławił i podał swoim uczniom, mó[g]wiąc:
+„bierzcie i pijcie z niego [d]wszyscy:
+to jest bowiem kielich krwi [A7]mojej
+[d]nowego i wiecznego przymierza,
+która [A7]za was i za wielu będzie wylana
+na odpusz[d]czenie grzechów.
+To [A7]czyńcie na moją pa[d]miątkę”.
+Aklamacja
+P:
+[g]Oto wielka tajemnica [A7]wiary:
+W:
+[d]Głosimy Twoją śmierć, o Jezu,
+[g]wyznajemy Twoje zmartwychwstanie.
+Marana[A7]tha! Marana[g]tha! Marana[A7]tha!
+K:
+Marana[d]tha!
+
+236]23

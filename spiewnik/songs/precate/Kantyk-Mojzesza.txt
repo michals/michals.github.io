@@ -1,0 +1,184 @@
+===
+title: "Kantyk Mojżesza"
+section: "precate"
+color: "precate"
+tone: "F"
+songid: "S056KantykMojzesza"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "Wj"
+    where: "15, 1-18"
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+knownas:
+  - "Śpiewajmy na cześć Pana"
+  - "Mą mocą i mą pieśnią"
+  - "Pogrążył w wodach morza"
+  - "Konia i jeźdźca jego, pogrążył"
+  - "1986"
+yhwh: true
+index:
+  - "bóg"
+  - "Bóg"
+  - "blask"
+  - "chwała"
+  - "cud"
+  - "cześć"
+  - "czyn"
+  - "dobyć"
+  - "dopaść"
+  - "działać"
+  - "faraon"
+  - "góra"
+  - "głęboki"
+  - "imię"
+  - "Jahwe"
+  - "jeździec"
+  - "koń"
+  - "królować"
+  - "ścigać"
+  - "śmierć"
+  - "śpiewać"
+  - "świętość"
+  - "lud"
+  - "miecz"
+  - "mieszkanie"
+  - "miłość"
+  - "moc"
+  - "mocarz"
+  - "morze"
+  - "nieprzyjaciel"
+  - "obietnica"
+  - "obłupić"
+  - "odmęty"
+  - "okryć"
+  - "ołów"
+  - "On"
+  - "osadzić"
+  - "Pan"
+  - "pieśń"
+  - "pochwycić"
+  - "pogrążyć"
+  - "pośród"
+  - "potężny"
+  - "powiedzieć"
+  - "prawica"
+  - "przykryć"
+  - "równy"
+  - "ramię"
+  - "ręka"
+  - "rydwan"
+  - "straszliwy"
+  - "tchnienie"
+  - "uwielbiać"
+  - "wiek"
+  - "wieść"
+  - "wionąć"
+  - "woda"
+  - "wojna"
+  - "wojsko"
+  - "wprowadzić"
+  - "wykupić"
+  - "zatonąć"
+  - "zawsze"
+  - "zbawienie"
+  - "zniszczyć"
+===
+
+K:
+[C7]Śpiewajmy na cześć [F]Pana,
+śpiewajmy na cześć [A7]Pana,
+który się okrył [D7]chwałą,
+chwałą, chwałą.
+-Pogrążył w wodach [G7]morza
+-konia i jeźdźca [C7]jego.
+
+W:
+Mą mocą i mą [F]pieśnią
+jest Pan po[A7]tężny.
+On jest zbawieniem [D7]moim,
+Bogiem moim,
+uwielbiać będę [G7]Go.
+[C7]Pogrążył w wodach morza
+konia i jeźdźca jego,
+konia i jeźdźca jego.
+
+K:
+[C7]Pan jest mocarzem [F]wojny,
+Jahwe jest imię [A7]Jego;
+rydwany fara[D7]ona
+i wojsko nieprzyjaciół
+pogrążył w wodach [G7]morza.
+
+W:
+[C7]Pogrążył w wodach morza
+konia i jeźdźca jego,
+konia i jeźdźca jego,
+
+Mą mocą i mą [F]pieśnią
+jest Pan po[A7]tężny.
+On jest zbawieniem [D7]moim,
+Bogiem moim,
+uwielbiać będę [G7]Go.
+[C7]Pogrążył w wodach morza
+konia i jeźdźca jego,
+konia i jeźdźca jego.
+
+K:
+[C7]Prawica Twa, o [F]Panie,
+okryta blaskiem [A7]chwały,
+prawica Twa, o [D7]Panie,
+zniszczyła nieprzyjaciół,
+zniszczyła nieprzy[G7]jaciół.
+W:
+[C7]Pogrążył w wodach morza …
+
+K:
+[C7]Nieprzyjaciel po[F]wiedział:
+będę ich ścigał, do[A7]padnę,
+dobędę mego [D7]miecza,
+ma ręka ich pochwyci,
+ma ręka ich ob[G7]łupi.
+W:
+[C7]Pogrążył w wodach morza …
+
+K:
+[C7]Wionęło Twoje [F]tchnienie,
+przykryły ich [A7]wody,
+
+zatonęli jak [D7]ołów
+w wodach głębokich,
+w odmętach [G7]śmierci.
+W:
+[C7]Pogrążył w wodach morza …
+
+K:
+[C7]Któż równy Tobie pośród [F]bogów,
+któż równy Tobie, [A7]Panie,
+w blasku świę[D7]tości,
+straszliwy w czynach,
+działający [G7]cuda?
+W:
+[C7]Pogrążył w wodach morza …
+
+K:
+[C7]Wiodłeś lud swój, o [F]Panie,
+lud, który wyku[A7]piłeś
+swym potężnym ra[D7]mieniem
+na zawsze, w miłości,
+aż do Twego mie[G7]szkania.
+W:
+[C7]Pogrążył w wodach morza …
+
+K:
+[C7]Wprowadziłeś go i osa[F]dziłeś
+na górze Twej obie[A7]tnicy,
+gdzie Ty, Panie, kró[D7]lujesz,
+królujesz na wieki,
+królujesz na [G7]zawsze.
+W:
+[C7]Pogrążył w wodach morza …

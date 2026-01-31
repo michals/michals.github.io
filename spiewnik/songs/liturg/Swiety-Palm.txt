@@ -1,0 +1,76 @@
+===
+title: "Święty Palm"
+subtitle: "Palestyna 1974"
+section: "liturg"
+color: "liturg"
+tone: "d"
+songid: "S006SwietyHosannaPalm"
+author:
+  - "K"
+  - "SC"
+year: 1993
+address:
+  - what: "*MSZ"
+    where: ""
+  - what: "*PAS"
+    where: ""
+knownas:
+  - "Święty, święty, święty"
+  - "Hosanna palm"
+  - "Święty Betlejemskie"
+  - "Święty - Palestyna 1974"
+  - "1974"
+yhwh: true
+index:
+  - "błogosławiony"
+  - "hosanna"
+  - "iść"
+  - "imię"
+  - "Jahwe"
+  - "święty"
+  - "niebiosa"
+  - "niebo"
+  - "Pan"
+  - "Sabaoth"
+  - "wypełnić"
+  - "wysoki"
+  - "ziemia"
+===
+
+W:
+[d]Święty, święty, święty,
+[g]święty, święty, święty,
+[A]Święty, święty, święty!
+[g]Święty jest nasz [A]Pan
+[g]Jahwe Saba[A]oth,
+[g]Jahwe Saba[A]oth.
+
+K:
+[d]Nie[g]biosa
+i [d]ziemia
+są wypeł[A]nione,
+są [g]wypełnione [A]Tobą!
+
+{{{ 2x
+W:
+[d]Hosanna, hosanna,
+[A]hosanna, hosanna.
+}}}
+Ho[g]sanna na niebie wy[A]sokim,
+Ho[g]sanna, ho[A]sanna!
+
+K:
+[d]Błogosła[g]wiony
+jest Ten, który [d]idzie,
+jest Ten, który [A]idzie,
+idzie [g]w imię [A]Pana.
+
+{{{ 2x
+W:
+[d]Hosanna, hosanna,
+[A]hosanna, hosanna.
+}}}
+Ho[g]sanna na niebie wy[A]sokim,
+Ho[g]sanna, ho[A]sanna!
+
+250]5.2

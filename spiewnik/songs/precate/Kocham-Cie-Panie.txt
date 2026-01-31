@@ -1,0 +1,100 @@
+===
+title: "Kocham Cię, Panie"
+section: "precate"
+color: "precate"
+tone: "D"
+songid: "S131KochamCiePanie"
+author:
+  - "K"
+year: 1996
+address:
+  - what: "Ps"
+    where: "18"
+  - what: "*WEJ"
+    where: ""
+knownas:
+  - "Fale śmierci ogarniały mnie"
+  - "1995"
+index:
+  - "Bóg"
+  - "Belial"
+  - "dno"
+  - "dotrzeć"
+  - "fala"
+  - "fundament"
+  - "góry"
+  - "głębokość"
+  - "głos"
+  - "kochać"
+  - "krzyk"
+  - "ściskać"
+  - "śmierć"
+  - "świątynia"
+  - "świat"
+  - "morze"
+  - "niebiosa"
+  - "obniżyć"
+  - "odsłonić"
+  - "ogarniać"
+  - "Pan"
+  - "pęta"
+  - "pochwycić"
+  - "poruszyć"
+  - "przerażać"
+  - "przyzywać"
+  - "ręka"
+  - "sidła"
+  - "skała"
+  - "szeol"
+  - "trąba"
+  - "ucho"
+  - "udręczenie"
+  - "ukazać"
+  - "usłyszeć"
+  - "woda"
+  - "wołać"
+  - "wybawiciel"
+  - "wyciągnąć"
+  - "wydźwignąć"
+  - "zachwiać"
+  - "zadrżeć"
+  - "ziemia"
+  - "zstąpić"
+===
+
+K:
+[D]Kocham Cię, [Fis]Panie, Tyś moją [h]skałą.
+[G]Tyś mym Wybawicielem, Tyś moim [Fis]Bogiem.
+[G]Kocham Cię, kocham Cię, [Fis]Panie.
+S:
+melodia a)
+
+W:
+[D]Fale śmierci ogar[h]niały mnie,
+przera[G]żały mnie trąby Be[D]liala,
+ścis[A]kały mnie pęta sze[G]olu,
+pochwycony byłem w sidła [D]śmierci.
+S:
+melodia b)
+
+K:
+[Fis]Wołałem Pana w moim udręczeniu,
+mego Boga, mego Boga przyzy[h]wałem;
+
+[A]i usłyszał mój głos ze swej świą[G]tyni,
+i dotarł do Jego ucha mój [Fis]krzyk;
+
+i [G]ziemia poruszyła się i zach[Fis]wiała,
+za[G]drżały fundamenty [Fis]gór,
+bowiem ob[G]niżył niebiosa i [Fis]zstąpił.
+
+[A]I ukazało się dno [Fis]morza,
+i funda[A]menty świata się odsło[Fis]niły,
+i wy[G]ciągnął swą rękę, i mnie pochwycił,
+wydźwignął mnie z głębokości [Fis]wód.
+W:
+[D]Kocham Cię, [Fis]Panie, …
+W:
+[D]Fale śmierci …
+
+80]46

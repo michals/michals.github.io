@@ -1,0 +1,92 @@
+===
+title: "Jak długo jeszcze"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S035JakDlugoJeszcze"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "13"
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "1967"
+  - "Zaśpiewam Jahwe, memu Bogu"
+yhwh: true
+index:
+  - "Bóg"
+  - "ciemiężca"
+  - "długi"
+  - "Jahwe"
+  - "jeszcze"
+  - "śmierć"
+  - "móc"
+  - "mówić"
+  - "miłosierdzie"
+  - "oblicze"
+  - "Odkupiciel"
+  - "odpowiedzieć"
+  - "oko"
+  - "oświecić"
+  - "On"
+  - "pogrążyć"
+  - "rozradować"
+  - "serce"
+  - "skrywać"
+  - "spojrzeć"
+  - "tryumfować"
+  - "upaść"
+  - "wróg"
+  - "zaśpiewać"
+  - "zapominać"
+  - "zaufać"
+  - "zbawienie"
+  - "zwyciężyć"
+===
+
+K:
+[a]Jak długo jeszcze
+będziesz, Jahwe, zapominać [E]mnie
+i twe o[E7]blicze
+przede mną będziesz [a]skrywać?!
+W:
+Zaśpiewam [E7]Jahwe,
+memu [a]Bogu!
+Zaśpiewam [E7]Jahwe,
+On mym Odkupi[a]cielem!
+
+K:
+[a]Spojrzyj na mnie,
+odpowiedz Jahwe, Boże [E]mój,
+oświeć me [E7]oczy,
+bym się nie pogrążył [a]w śmierci.
+W:
+Zaśpiewam [E7]Jahwe,
+memu [a]Bogu!
+Zaśpiewam [E7]Jahwe,
+On mym Odkupi[a]cielem!
+
+K:
+[a]By mój wróg
+nie mógł mówić: „zwyciężyłem [E]go!”
+ani cie[E7]miężcy
+nie tryumfowali, gdy u[a]padnę.
+W:
+Zaśpiewam [E7]Jahwe,
+memu [a]Bogu!
+Zaśpiewam [E7]Jahwe,
+On mym Odkupi[a]cielem!
+
+K:
+[a]Ale ja
+zaufałem Twemu miło[E]sierdziu,
+Twoim zba[E7]wieniem
+rozraduje się me [a]serce.
+W:
+Zaśpiewam [E7]Jahwe,
+memu [a]Bogu!
+Zaśpiewam [E7]Jahwe,
+On mym Odkupi[a]cielem!

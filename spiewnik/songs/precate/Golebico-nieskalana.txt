@@ -1,0 +1,111 @@
+===
+title: "Gołębico nieskalana"
+subtitle: "Kontakia Romana Melodosa"
+section: "precate"
+color: "precate"
+tone: "h"
+songid: "S145MaryjoGolebicoNieskalana"
+author:
+  - "K"
+year: 2011
+address:
+  - what: "*OPA"
+    where: ""
+  - what: "*MAR"
+    where: ""
+  - what: "*HYM"
+    where: ""
+alttone:
+  - "d"
+knownas:
+  - "2010"
+  - "Maryjo, Gołębico nieskalana"
+  - "Rozraduj się Maryjo"
+  - "["
+  - "Roman Melodos, kontakia"
+index:
+  - "arka"
+  - "błagać"
+  - "cały"
+  - "chwała"
+  - "czystość"
+  - "dać"
+  - "doskonały"
+  - "droga"
+  - "Duch"
+  - "dusza"
+  - "filakteria"
+  - "gołębica"
+  - "jaśnieć"
+  - "jedyny"
+  - "Kościół"
+  - "kraniec"
+  - "łaska"
+  - "świat"
+  - "świętość"
+  - "święty"
+  - "ludzie"
+  - "Maryja"
+  - "matka"
+  - "nadzieja"
+  - "nieskalany"
+  - "nowy"
+  - "piękno"
+  - "prosić"
+  - "rozradować"
+  - "siła"
+  - "słaby"
+  - "słońce"
+  - "stworzenie"
+  - "ucieczka"
+  - "upiększać"
+  - "wonny"
+  - "wskazywać"
+  - "wstawiać"
+  - "wszyscy"
+  - "wszystek"
+  - "ziemia"
+===
+
+K:
+[e]Rozraduj się, Mar[Fis]yjo,
+j[e]aśniejąca jak [Fis]słońce,
+[G]Ty wskazujesz nam [Fis]drogę,
+[e]nadziejo krańców ziemi.
+Ty jesteś jedyną Gołębicą nieska[Fis]laną,
+[e]W Tobie jest całe piękno [Fis]Ducha,
+„[G]Chwała”, która w świecie upiększa stwo[Fis]rzenie.
+W:
+[h]Rozraduj się, Ma[e]ryjo,
+Jaśniejąca jak [Fis]słońce,
+Gołębico nieska[e]lana,
+Ucieczko słabych dusz,
+[G]Arko Ducha Świę[Fis]tego.
+
+K:
+[e]Rozraduj się, Ma[Fis]ryjo,
+[e]jaśniejąca jak [Fis]słońce,
+[G]Ty wstawiasz się za wszystkimi [Fis]ludźmi.
+[e]Tyś jest ucieczką słabych [Fis]dusz,
+[G]filakterio doskonałej czys[Fis]tości,
+[G]Arko wonna Ducha Świę[Fis]tego.
+
+W:
+[h]Rozraduj się, Ma[e]ryjo,
+Jaśniejąca jak [Fis]słońce,
+Gołębico nieska[e]lana,
+Ucieczko słabych dusz,
+[G]Arko Ducha Świę[Fis]tego.
+
+K:
+[e]Rozraduj się, Ma[Fis]ryjo,
+[e]jaśniejąca jak [Fis]słońce,
+[G]Ciebie błagają wszyscy [Fis]ludzie,
+[e]Matko, Ciebie prosimy za Kościół:
+Daj mu nową siłę łaski i świę[Fis]tości.
+W:
+[h]Rozraduj się, Ma[e]ryjo,
+Jaśniejąca jak [Fis]słońce,
+Gołębico nieska[e]lana,
+Ucieczko słabych dusz,
+[G]Arko Ducha Świę[Fis]tego.

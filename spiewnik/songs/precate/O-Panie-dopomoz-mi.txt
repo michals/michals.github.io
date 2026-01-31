@@ -1,0 +1,95 @@
+===
+title: "O Panie, dopomóż mi"
+subtitle: "Święty Jan od Krzyża, inspiracja"
+section: "precate"
+color: "precate"
+tone: "h"
+songid: "S289OPanieWspomagajMnie"
+author:
+  - "K"
+year: 1999
+address:
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "O Panie, wspomagaj mnie, o Panie"
+  - "I w tym płomieniu twej miłości"
+  - "Jan od Krzyża"
+  - "1998"
+index:
+  - "ażeby"
+  - "ciemny"
+  - "cierpieć"
+  - "czuć"
+  - "dopomóc"
+  - "dusić"
+  - "dusza"
+  - "jęczeć"
+  - "kwitnąć"
+  - "łaska"
+  - "żyć"
+  - "móc"
+  - "miłość"
+  - "nic"
+  - "niepokój"
+  - "nigdy"
+  - "obdarowywać"
+  - "ogród"
+  - "otwierać"
+  - "owijać"
+  - "Pan"
+  - "płótno"
+  - "płomień"
+  - "przemieszczać"
+  - "serce"
+  - "tysiące"
+  - "więcej"
+  - "woda"
+  - "wylewać"
+  - "zalewać"
+  - "zostawić"
+  - "zwątpić"
+===
+
+K:
+[h]O Panie, do[A]pomóż mi, o [h]Panie,
+W:
+O Panie, do[A]pomóż mi, o [h]Panie,
+KW:
+a[Fis]żebym nie zwątpił w Ciebie!
+W:
+O [h]Panie, do[A]pomóż mi, o [h]Panie,
+a[G]żebym nie zwątpił nigdy w Twoją [Fis]miłość.
+
+K:
+[A7]Twoja łaska, obdaro[D]wując,
+[h]zostawiła moje [G]serce kwit[Fis]nące
+tysią[e]cami niepokojów mi[Fis]łości,
+tysią[e]cami niepokojów mi[Fis]łości.
+
+K:
+[A]Nic więcej nie [G]mogę, jak [Fis]cierpieć,
+jak [G]tylko żyć w ję[Fis]czeniu.
+
+K:
+[D]I w tym płomieniu Twej miłości, [A]ciemnym,
+w tym płótnie, co owija moją duszę i [D]dusi ją,
+[G]czuję, jak me serce się prze[Fis]mieszcza,
+o[G]twiera się i wy[Fis]lewa,
+jak [e]woda, co zalewa Twój [Fis]ogród.
+
+K:
+O [h]Panie, do[A]pomóż mi, o [h]Panie,
+W:
+O Panie, do[A]pomóż mi, o [h]Panie,
+K:
+a[Fis]żebym nie zwątpił w Ciebie!
+W:
+O [h]Panie, do[A]pomóż mi, o [h]Panie,
+a[G]żebym nie zwątpił nigdy w Twoją [Fis]miłość.
+W:
+[D]I w tym płomieniu twej miłości, [A]ciemnym,
+w tym płótnie, co owija moją duszę i [D]dusi ją,
+[G]czuję jak me serce się prze[Fis]mieszcza,
+o[G]twiera się i wy[Fis]lewa,
+jak [e]woda, co zalewa Twój [Fis]ogród.

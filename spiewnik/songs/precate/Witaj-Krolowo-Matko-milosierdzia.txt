@@ -1,0 +1,79 @@
+===
+title: "Witaj Królowo, Matko miłosierdzia"
+subtitle: "Salve Regina"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S152WitajKrolowo"
+author:
+  - "K"
+year: 2016
+address:
+  - what: "*OWP"
+    where: ""
+  - what: "*MAR"
+    where: ""
+  - what: "*HYM"
+    where: ""
+knownas:
+  - "["
+  - "1965"
+index:
+  - "błogosławiony"
+  - "Boży"
+  - "Chrystusowy"
+  - "Ewa"
+  - "godny"
+  - "jęczeć"
+  - "Jezus"
+  - "Królowa"
+  - "łaskawy"
+  - "łzy"
+  - "święta"
+  - "litościwy"
+  - "życie"
+  - "żywot"
+  - "Maryja"
+  - "matka"
+  - "miłosierdzie"
+  - "miłosierny"
+  - "modlić"
+  - "nadzieja"
+  - "obietnica"
+  - "okazać"
+  - "oko"
+  - "Orędowniczka"
+  - "owoc"
+  - "padół"
+  - "Pani"
+  - "Panna"
+  - "płakać"
+  - "przeto"
+  - "Rodzicielka"
+  - "słodki"
+  - "słodycz"
+  - "stać"
+  - "syn"
+  - "witać"
+  - "wołać"
+  - "wygnanie"
+  - "wygnaniec"
+  - "wzdychać"
+  - "zwrócić"
+===
+
+K:
+[e]Witaj Królowo, [a]Matko Miło[e]sierdzia,
+[F]życie, słodyczy i nadziejo nasza, [E]witaj![e]
+Do Ciebie wo[a]łamy wygnańcy, synowie [e]Ewy;
+do Ciebie wzdy[a]chamy jęcząc i [e]płacząc
+n[F]a tym łez pa[E]dole, n[F]a tym łez pa[E]dole.[a]
+Przeto, Pani, [F]Orędowniczko [E]nasza,
+[F]one miłosierne oczy Twoje na nas [E]zwróć,
+a Je[F]zusa, błogosławiony owoc żywota Two[E]jego,
+po tym wygnaniu nam okaż.[e]
+O łaskawa, o lito[a]ściwa,
+o słodka Panno Ma[e]ryjo!
+[F]Módl się za nami święta Boża Rodzi[E]cielko.
+Abyśmy się stali godnymi o[F]bietnic
+Chrystu[E]sowych, Chrystusowych.

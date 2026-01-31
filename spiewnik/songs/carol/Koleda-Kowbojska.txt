@@ -1,0 +1,71 @@
+===
+title: "Kolęda Kowbojska"
+subtitle: "Cowboy Carol"
+section: "carol"
+color: "carol"
+tone: "F"
+songid: "S725KoledaKowbojska"
+author:
+  - "CB"
+year: 1944
+address:
+  - what: "*KOL"
+    where: ""
+  - what: "*DZI"
+    where: ""
+knownas:
+  - "There’ll be a New World Beginning from Tonight"
+children: true
+index:
+  - "błyskawica"
+  - "całkiem"
+  - "czekać"
+  - "człowiek"
+  - "dolina"
+  - "drugi"
+  - "dziś"
+  - "dzisiejszy"
+  - "każdy"
+  - "kraj"
+  - "świat"
+  - "życie"
+  - "nienawiść"
+  - "noc"
+  - "nowy"
+  - "On"
+  - "pojechać"
+  - "preria"
+  - "prosty"
+  - "serce"
+  - "siodło"
+  - "strona"
+  - "strzał"
+  - "szlak"
+  - "trafić"
+  - "uwolnić"
+  - "wskoczyć"
+  - "wziąć"
+  - "zacząć"
+===
+
+[C]Dzisiejszej [F]nocy się [C7]zacznie nowy [F]świat.
+Dzisiejszej [B]nocy się zacznie nowy [F]świat.
+Gdy na siodło moje [F7]wskoczę i do [B]serca wezmę [b]Go,
+dzisiejszej [F]nocy się [C7]zacznie nowy [F]świat.
+
+[C7]Z drugiej strony prerii,
+[F]prosto przez doli[C]nę,
+w serce, które [C7]każdy człowiek [G7]ma.
+Tam trafi [C]całkiem nowe [C7]życie,
+błyska[F]wicy strzałem
+i od niena[C]wiści u[G7]wolni każdy [C]kraj.
+
+Dzisiejszej [F]nocy się [C7]zacznie nowy [F]świat.
+Dzisiejszej [B]nocy się zacznie nowy [F]świat.
+Gdy na siodło moje [F7]wskoczę i do [B]serca wezmę [b]Go,
+dzisiejszej [F]nocy się [C7]zacznie nowy [F]świat.
+
+Yay! Yippee! Dziś [B]czeka na nas [F]szlak.
+Yay! Yippee! Po[G7]jadę nim i [C7]tak.
+Gdy na siodło moje [F7]wskoczę i do [B]serca wezmę [b]Go,
+dzisiejszej [F]nocy się [C7]zacznie nowy [F]świat, [B]nowy [F]świat.

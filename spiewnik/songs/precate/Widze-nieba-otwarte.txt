@@ -1,0 +1,122 @@
+===
+title: "Widzę nieba otwarte"
+subtitle: "Walka eschatologiczna"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S206WidzeNiebaOtwarte"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ap"
+    where: "19, 11-20"
+  - what: "*OPA"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+knownas:
+  - "1973"
+  - "Jakie Jego imię?"
+  - "Oto biały rumak"
+  - "On wygniata, sam wygniata w tłoczni"
+  - "Wygniatający w tłoczni"
+index:
+  - "alleluja"
+  - "Bóg"
+  - "bój"
+  - "bestia"
+  - "biały"
+  - "Boży"
+  - "cały"
+  - "dosiadać"
+  - "fałszywy"
+  - "gniew"
+  - "imię"
+  - "jaki"
+  - "krew"
+  - "miecz"
+  - "niebo"
+  - "odziany"
+  - "ogień"
+  - "oko"
+  - "On"
+  - "otwarty"
+  - "płomień"
+  - "pochwycić"
+  - "prorok"
+  - "przeciwko"
+  - "ranić"
+  - "razem"
+  - "rumak"
+  - "sam"
+  - "siedzieć"
+  - "skąpać"
+  - "Słowo"
+  - "stoczyć"
+  - "szata"
+  - "tamten"
+  - "tłocznia"
+  - "usta"
+  - "widzieć"
+  - "wychodzić"
+  - "wygniatać"
+  - "zapalczywy"
+  - "zebrani"
+===
+
+K:
+[E]Widzę nieba otwarte:
+a oto biały [F]rumak,
+i Ten, co go do[G]siada, odziany [F]w szatę,
+całą we [E]krwi, całą we krwi.
+[E]Jego oczy -
+płomienie [F]ognia,
+z Jego [G]ust wychodzi [F]miecz,
+by nim [E]ranić, by nim ranić.
+{{{ 2x
+K:
+[C]Jakie Jego imię?
+Jakie Jego imię?
+W:
+Jego imię [E]jest,
+Jego imię jest:
+Słowo [a]Boga.
+}}}
+
+K:
+[E]Widzę bestię
+i pro[F]roka,
+zebranych [G]po to,
+by stoczyć [F]bój,
+by stoczyć [E]bój,
+[E]przeciwko Temu, który siedzi na ru[F]maku,
+odziany [G]w szatę
+we krwi ską[F]paną, we krwi ską[E]paną.
+
+KW:
+[a]On wygniata, sam wygniata w tłoczni
+zapalczy[E]wego gniewu Bo[a]żego.
+
+K:
+[C]Oto bestia jest pochwy[E]cona,
+a z nią razem jej fałszywy [a]prorok
+przez Tamtego, który siedzi na ru[E]maku
+odziany w szatę we krwi ską[a]paną.
+
+W:
+Alleluja, alle[E]luja,
+alleluja, alle[a]luja,
+alleluja, alle[E]luja, alle[a]luja.
+{{{ 2x
+K:
+[C]Jakie Jego imię?
+Jakie Jego imię?
+W:
+Jego imię [E]jest,
+Jego imię jest:
+Słowo [a]Boga.
+}}}
+W:
+[E]Słowo [a]Boga,
+[E]Słowo [a]Boga.

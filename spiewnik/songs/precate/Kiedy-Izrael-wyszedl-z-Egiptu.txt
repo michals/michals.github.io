@@ -1,0 +1,106 @@
+===
+title: "Kiedy Izrael wyszedł z Egiptu"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S058KiedyIzraelWyszedlZegiptu"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "114"
+  - what: "*BRE"
+    where: ""
+  - what: "*OPA"
+    where: ""
+knownas:
+  - "Czemu, morze, uciekasz"
+  - "Zadrżyj ziemio, zadrżyj"
+index:
+  - "Bóg"
+  - "baranek"
+  - "bieg"
+  - "czemu"
+  - "dom"
+  - "Egipt"
+  - "góry"
+  - "Izrael"
+  - "jagnię"
+  - "Jakub"
+  - "jakubowy"
+  - "Jordan"
+  - "Juda"
+  - "lud"
+  - "morze"
+  - "niby"
+  - "obcy"
+  - "odwrócić"
+  - "On"
+  - "pagórek"
+  - "Pan"
+  - "płynąć"
+  - "przechodzić"
+  - "przybytek"
+  - "skakać"
+  - "skała"
+  - "stać"
+  - "tył"
+  - "uciec"
+  - "uciekać"
+  - "ujrzeć"
+  - "własność"
+  - "woda"
+  - "wyjść"
+  - "wyprowadzać"
+  - "zadrżeć"
+  - "ziemia"
+===
+
+K:
+[E]Kiedy Izra[F]el wyszedł z E[E]giptu,
+dom Ja[F]kuba od ludu ob[E]cego,
+
+KW:
+[E]Juda stał się Jego przy[F]bytkiem,
+Izrael Jego włas[E]nością.
+
+K:
+[a]Ujrzało to morze i uciekło,
+a [G]Jordan bieg swój odwrócił,[Fis] [F]
+skakały góry jak baranki,
+pagórki niby jag[E]nięta.
+
+W:
+[a]Czemu, morze, uciekasz,
+a ty, Jor[G]danie, czemu płyniesz do tyłu?[Fis] [F]
+A wy góry skaczecie jak baranki,
+pagórki niby jag[E]nięta?
+[A]Zadrżyj ziemio, zadrżyj
+przed Panem [Fis]Bogiem, On prze[h]chodzi,
+przed [D]Panem Bogiem Jaku[A]bowym.
+On ze [G]skały wodę wypro[Fis]wadza.
+
+K:
+[Fis]Kiedy Izra[G]el wyszedł z E[Fis]giptu,
+dom Ja[G]kuba od ludu ob[Fis]cego,
+
+KW:
+[Fis]Juda stał się Jego przy[G]bytkiem,
+Izrael Jego włas[Fis]nością.
+
+K:
+[h]Ujrzało to morze i uciekło,
+a [A]Jordan bieg swój odwrócił,[Gis] [G]
+skakały góry jak baranki,
+pagórki niby jag[Fis]nięta.
+
+W:
+[h]Czemu, morze, uciekasz,
+a ty, Jor[A]danie, czemu płyniesz do tyłu?[Gis] [G]
+A wy, góry, skaczecie jak baranki,
+pagórki niby jag[Fis]nięta?
+[H]Zadrżyj ziemio, zadrżyj
+przed Panem, [Gis]Bogiem, On prze[cis]chodzi,
+przed [E]Panem Bogiem Jaku[H]bowym.
+On ze [A]skały wodę wypro[Gis]wadza.

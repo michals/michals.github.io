@@ -1,0 +1,158 @@
+===
+title: "Bóg się rodzi, moc truchleje"
+section: "carol"
+color: "carol"
+tone: "C"
+songid: "S701BogSieRodzi"
+author:
+  - "FK"
+  - "KKR"
+year: 1787
+address:
+  - what: "Mt"
+    where: "2, 11"
+  - what: "Łk"
+    where: "2, 7"
+  - what: "J"
+    where: "1, 14a"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+knownas:
+  - "Podnieś rękę, Boże Dziecię"
+  - "Pieśń o Narodzeniu Pańskim"
+index:
+  - "Bóg"
+  - "Bóstwo"
+  - "błogosławić"
+  - "blask"
+  - "bogacz"
+  - "Boży"
+  - "bydło"
+  - "byt"
+  - "cały"
+  - "chwała"
+  - "ciało"
+  - "ciemnieć"
+  - "cierpieć"
+  - "cisnąć"
+  - "dać"
+  - "dań"
+  - "dar"
+  - "dobry"
+  - "dom"
+  - "Dziecię"
+  - "dzielić"
+  - "granica"
+  - "kadzidło"
+  - "kolebka"
+  - "król"
+  - "Król"
+  - "krzepnąć"
+  - "śmiertelny"
+  - "żłób"
+  - "lud"
+  - "majętność"
+  - "miasto"
+  - "między"
+  - "mieszkać"
+  - "miła"
+  - "mirra"
+  - "moc"
+  - "nędzny"
+  - "niebiosa"
+  - "niebo"
+  - "nieść"
+  - "niemały"
+  - "nieskończony"
+  - "obnażyć"
+  - "ofiara"
+  - "ogień"
+  - "ojczyzna"
+  - "okryć"
+  - "On"
+  - "otoczyć"
+  - "Pan"
+  - "pasterz"
+  - "podnieść"
+  - "porzucić"
+  - "potem"
+  - "prostota"
+  - "rada"
+  - "ręka"
+  - "razem"
+  - "rodzić"
+  - "sam"
+  - "siano"
+  - "siła"
+  - "Słowo"
+  - "spotkać"
+  - "stać"
+  - "szczęście"
+  - "szopa"
+  - "truchleć"
+  - "trud"
+  - "ubogi"
+  - "ukochany"
+  - "urodzony"
+  - "wejść"
+  - "widzieć"
+  - "wiek"
+  - "wieśniaczy"
+  - "winny"
+  - "wioska"
+  - "witać"
+  - "wspierać"
+  - "wszystek"
+  - "wzgardzić"
+  - "ziemianin"
+  - "złoto"
+  - "zmieszać"
+  - "znój"
+===
+
+[C]Bóg się [C7]rodzi, [F]moc truchleje,
+[C]Pan niebiosów [A7]obna[G7]żony?
+[C]Ogień [C7]krzepnie, [F]blask ciemnieje,
+[C]Ma granice [A7]Nieskoń[G7]czony:
+[G]Wzgardzo[G7]ny o[C]kryty chwałą,
+[G]Śmiertel[G7]ny Król [C]nad wiekami?
+[G]A Sło[G7]wo cia[C]łem się sta[A7]ło,
+[d]I mieszkało [G]między [G7]na[C]mi.
+
+[C]Cóż masz, [C7]niebo [F]nad ziemiany?
+[C]Bóg porzucił [A7]szczęście [G7]twoje.
+[C]Wszedł [C7]między lud [F]ukochany
+[C]Dzieląc z nim tru[A7]dy i [G7]znoje.
+[G]Niema[G7]ło cie[C]rpiał, niemało,
+[G]Żeśmy [G7]byli [C]winni sami
+[G]A Sło[G7]wo cia[C]łem się sta[A7]ło
+[d]I mieszkało [G]między [G7]na[C]mi.
+
+[C]W nędznej [C7]szopie [F]urodzony,
+[C]Żłób Mu za ko[A7]lebkę [G7]dano!
+[C]Cóż jest, [C7]czym był [F]otoczony?
+[C]Bydło, paste[A7]rze i [G7]siano.
+[G]Ubo[G7]dzy, was [C]to spotkało
+[G]Witać [G7]Go przed [C]bogaczami
+[G]A Sło[G7]wo cia[C]łem się sta[A7]ło
+[d]I mieszkało [G]między [G7]na[C]mi.
+
+[C]Potem [C7]i kró[F]le widziani
+[C]Cisną się mię[A7]dzy pro[G7]stotą
+[C]Niosąc [C7]dary [F]Panu w dani:
+[C]Mirrę, kadzi[A7]dło i [G7]złoto.
+[G]Bóstwo [G7]to ra[C]zem zmieszało
+[G]Z wieśnia[G7]czymi [C]ofiarami
+[G]A Sło[G7]wo cia[C]łem się sta[A7]ło
+[d]I mieszkało [G]między [G7]na[C]mi.
+
+[C]Podnieś [C7]rękę, [F]Boże Dziecię,
+[C]Błogosław oj[A7]czyznę [G7]miłą;
+[C]W dobrych [C7]radach, [F]dobrym bycie,
+[C]Wspieraj jej si[A7]łę swą [G7]siłą.
+[G]Dom nasz [G7]i ma[C]jętność całą
+[G]I wszy[G7]stkie wio[C]ski z miastami
+[G]A Sło[G7]wo cia[C]łem się sta[A7]ło
+[d]I mieszkało [G]między [G7]na[C]mi.

@@ -1,0 +1,224 @@
+===
+title: "Dayenú"
+subtitle: "Haggada z Paschy hebrajskiej"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S070Dajenu"
+author:
+  - "GB"
+  - "K"
+year: 1992
+address:
+  - what: "*HEB"
+    where: ""
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*PAX"
+    where: ""
+knownas:
+  - "Iloma dobrami nas wszystkich Pan obdarzył"
+  - "To by wystarczyło nam"
+index:
+  - "alleluja"
+  - "bardziej"
+  - "bogactwo"
+  - "chleb"
+  - "Chrystus"
+  - "ciemiężyciel"
+  - "dać"
+  - "darować"
+  - "dayenú"
+  - "dobra"
+  - "droga"
+  - "Duch"
+  - "dzięki"
+  - "dzień"
+  - "egipski"
+  - "Egipt"
+  - "faraon"
+  - "gdyby"
+  - "grzech"
+  - "idole"
+  - "ile"
+  - "Kościół"
+  - "świątynia"
+  - "święty"
+  - "życie"
+  - "morze"
+  - "nakarmić"
+  - "napełnić"
+  - "nieprzyjaciel"
+  - "niewola"
+  - "nowy"
+  - "obdarzyć"
+  - "odpuszczać"
+  - "otworzyć"
+  - "Pański"
+  - "Pan"
+  - "pascha"
+  - "podarować"
+  - "powinien"
+  - "przymierze"
+  - "pustynia"
+  - "składać"
+  - "sprawiedliwość"
+  - "uwolnić"
+  - "więc"
+  - "wprowadzić"
+  - "wszystek"
+  - "wymierzyć"
+  - "wyprowadzić"
+  - "wystarczyć"
+  - "zatopić"
+  - "zawrzeć"
+  - "zbudować"
+  - "zmartwychpowstać"
+===
+
+KW:
+[e]Iloma dob[a]rami nas wszystkich Pan ob[e]darzył!
+W:
+I[e]loma dob[D]rami nas [C]wszystkich Pan ob[e]darzył!
+
+K:
+[a]Gdyby Chrystus nas wyprowadził z E[H7]giptu,
+a nie wymierzył sprawiedliwości farao[e]nowi,
+W:
+[D]to by wystarczyło nam,
+[C]to już by nam wystar[e]czyło!
+Daye[D]nú, daye[C]nú, daye[e]nú.
+
+K:
+[D]Gdyby wymierzył sprawiedliwość farao[C]nowi,
+a nie u[H7]wolnił nas od wszystkich i[e]doli,
+W:
+[D]to by wystarczyło nam,
+[C]to już by nam wystar[e]czyło!
+Daye[D]nú, daye[C]nú, daye[e]nú.
+
+K:
+[a]Gdyby uwolnił nas od wszystkich i[H7]doli,
+a nie darował nam ich bo[e]gactwa,
+W:
+[D]to by wystarczyło nam,
+[C]to już by nam wystar[e]czyło!
+Daye[D]nú, daye[C]nú, daye[e]nú.
+
+K:
+[D]Gdyby nam darował ich bo[C]gactwa,
+a nie o[H7]tworzył przed nami [e]morza,
+W:
+[D]to by wystarczyło nam,
+[C]to już by nam wystar[e]czyło!
+Daye[D]nú, daye[C]nú, daye[e]nú.
+
+K:
+[a]Gdyby otworzył przed nami [H7]morze,
+a nie zatopił naszych ciemięży[e]cieli,
+W:
+[D]to by wystarczyło nam,
+[C]to już by nam wystar[e]czyło!
+Daye[D]nú, daye[C]nú, daye[e]nú.
+
+K:
+[D]Gdyby zatopił naszych ciemięży[C]cieli,
+a [H7]nie dał nam drogi przez pu[e]stynię,
+W:
+[D]to by wystarczyło nam,
+[C]to już by nam wystar[e]czyło!
+Daye[D]nú, daye[C]nú, daye[e]nú.
+
+K:
+[a]Gdyby nam dał drogę przez pu[H7]stynię,
+a nie nakarmił nas chlebem [e]życia,
+W:
+[D]to by wystarczyło nam,
+[C]to już by nam wystar[e]czyło!
+Daye[D]nú, daye[C]nú, daye[e]nú.
+
+K:
+[D]Gdyby nakarmił nas chlebem [C]życia,
+a nie poda[H7]rował nam dnia Pań[e]skiego,
+W:
+[D]to by wystarczyło nam,
+[C]to już by nam wystar[e]czyło!
+Daye[D]nú, daye[C]nú, daye[e]nú.
+
+K:
+[a]Gdyby nam podarował dzień [H7]Pański,
+a nie zawarł z nami Nowego Przy[e]mierza,
+W:
+[D]to by wystarczyło nam,
+[C]to już by nam wystar[e]czyło!
+Daye[D]nú, daye[C]nú, daye[e]nú.
+
+K:
+[D]Gdyby zawarł z nami Nowe Przy[C]mierze,
+a nie wpro[H7]wadził nas do Koś[e]cioła,
+W:
+[D]to by wystarczyło nam,
+[C]to już by nam wystar[e]czyło!
+Daye[D]nú, daye[C]nú, daye[e]nú.
+
+K:
+[a]Gdyby nas wprowadził do Koś[H7]cioła,
+a nie zbudował w nas swojej Świą[e]tyni,
+W:
+[D]to by wystarczyło nam,
+[C]to już by nam wystar[e]czyło!
+Daye[D]nú, daye[C]nú, daye[e]nú.
+
+K:
+[D]Gdyby w nas zbudował swoją Świą[C]tynię,
+a nie na[H7]pełnił jej swoim Duchem [e]Świętym,
+W:
+[D]to by wystarczyło nam,
+[C]to już by nam wystar[e]czyło!
+Daye[D]nú, daye[C]nú, daye[e]nú.
+
+KW:
+[e]Tym więc bardziej [a]powinniśmy składać dzięki [e]Panu!
+W:
+[e]Tym więc bardziej [D]powinniśmy [C]składać dzięki [e]Panu!
+
+KW:
+[e]Bo nas wypro[a]wadził z niewoli e[e]gipskiej.
+KW:
+[e]Bo wymierzył [a]sprawiedliwość farao[e]nowi.
+KW:
+[e]Bo nas u[D]wolnił od [C]wszystkich nieprzy[e]jaciół.
+
+KW:
+[e]Bo nam poda[a]rował wszystkie ich bo[e]gactwa.
+KW:
+[e]Bo otworzył [a]morze, morze przed [e]nami.
+KW:
+[e]Bo w nim za[D]topił cie[C]miężycieli [e]naszych.
+
+KW:
+[e]Bo nam poda[a]rował drogę przez pu[e]stynię.
+KW:
+[e]Bo nas na[a]karmił chlebem [e]życia.
+KW:
+[e]Bo nam poda[D]rował [C]święty dzień [e]Pański.
+
+KW:
+[e]Bo nam poda[a]rował Nowe Przy[e]mierze.
+KW:
+[e]Bo nas wpro[a]wadził do swego Koś[e]cioła.
+KW:
+[e]Bo zbudował [D]w nas [C]swoją Świą[e]tynię.
+
+K:
+[D]I napełnił ją [C]swoim Duchem Świętym,odpusz[H7]czając nam [e]grzechy.
+{{{ 3x
+W:
+[e]Chrystus nasza [D]Pascha
+zmartwych[C]powstał [e]dla nas!
+}}}
+{{{ 3x
+[e]Alleluja! [D]Alleluja! [C]Allelu[e]ja!
+}}}

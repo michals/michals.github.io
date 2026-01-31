@@ -1,0 +1,115 @@
+===
+title: "Modlitwa eucharystyczna IV"
+subtitle: "Prefacja"
+section: "liturg"
+color: "liturg"
+tone: "a"
+songid: "L00ME4Pr"
+author:
+  - "K"
+year: 2020
+address:
+  - what: "*MSZ"
+    where: ""
+alttone:
+  - "a"
+  - "c"
+knownas:
+  - "1988"
+index:
+  - "anioł"
+  - "Bóg"
+  - "cały"
+  - "chwała"
+  - "cześć"
+  - "dobra"
+  - "dobry"
+  - "dostępny"
+  - "duch"
+  - "dziękczynienie"
+  - "dzięki"
+  - "dzień"
+  - "góra"
+  - "godny"
+  - "imię"
+  - "istnieć"
+  - "jako"
+  - "jasność"
+  - "jeden"
+  - "jedyne"
+  - "łączyć"
+  - "światłość"
+  - "święty"
+  - "życie"
+  - "żywy"
+  - "źródło"
+  - "mieszkać"
+  - "napełnić"
+  - "niebo"
+  - "nieustanny"
+  - "noc"
+  - "oblicze"
+  - "oddawać"
+  - "Ojciec"
+  - "Pan"
+  - "powołać"
+  - "prawdziwy"
+  - "przedwieczny"
+  - "radość"
+  - "razem"
+  - "serce"
+  - "składać"
+  - "służyć"
+  - "sprawiedliwy"
+  - "stać"
+  - "stworzenie"
+  - "trwać"
+  - "usta"
+  - "uszczęśliwić"
+  - "więc"
+  - "wiek"
+  - "wielbić"
+  - "wiele"
+  - "wołać"
+  - "wpatrzony"
+  - "wszystko"
+  - "wychwalać"
+  - "wysławiać"
+  - "wznosić"
+  - "zaprawdę"
+  - "zastęp"
+  - "zliczyć"
+===
+
+P:
+[G]Pan [a]z wami.
+W:
+[G]i z duchem [a]twoim.
+P:
+[F]W górę [E]serca.
+W:
+[F]Wznosimy je do [E]Pana.
+P:
+[E7]Dzięki składajmy Panu Bogu na[a]szemu.
+W:
+Godne [G]to i sprawie[a]dliwe.
+Godne [G]to i sprawie[a]dliwe.
+P:
+[a]Zaprawdę, godne to jest, abyśmy Tobie składali dziękczy[C]nienie,
+i sprawiedliwe, abyśmy [D]Ciebie wychwa[a]lali, o Ojcze święty,
+albowiem [C]Ty jeden jesteś Bogiem żywym i praw[a]dziwym,
+Ty [D]jesteś przedwieczny i trwasz na wieki
+[a]mieszkając w niedostępnej światłości.
+Tylko Ty, Boże, jesteś dobry
+i jako jedyne źródło [C]życia powo[D]łałeś wszystko do istnienia,
+[a]aby napełnić swoje stworzenia dobrami
+i wiele [G]z nich uszczęśliwić jasnością Twojej [a]chwały.
+[C]Stoją więc przed Tobą niezliczone zastępy A[a]niołów,
+którzy [D]służą Tobie dniem i nocą,
+a wpatrzeni w chwałę Twojego oblicza nieustannie cześć Tobie od[a]dają.
+[G]Łącząc się z nimi, razem z całym stwo[a]rzeniem, które jest pod [C]niebem
+i wielbi Cię przez nasze usta, z radością wysła[D]wiamy Twoje imię, wo[E]łając:
+
+Następuje „Święty”
+
+241]903.2

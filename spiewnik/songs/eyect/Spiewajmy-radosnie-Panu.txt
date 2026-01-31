@@ -1,0 +1,123 @@
+===
+title: "Śpiewajmy radośnie Panu"
+section: "eyect"
+color: "eyect"
+tone: "D"
+songid: "S069SpiewajmyRadosniePanu"
+author:
+  - "AS"
+year: 1992
+address:
+  - what: "Ps"
+    where: "95"
+knownas:
+  - "Bo wielkim Bogiem jest Pan"
+index:
+  - "bóg"
+  - "Bóg"
+  - "chociaż"
+  - "czterdzieści"
+  - "czynić"
+  - "dziękować"
+  - "dzieło"
+  - "dziś"
+  - "góry"
+  - "głębokość"
+  - "głośny"
+  - "głos"
+  - "gniew"
+  - "Król"
+  - "kusić"
+  - "śpiewać"
+  - "morze"
+  - "odpoczynek"
+  - "ojciec"
+  - "On"
+  - "paść"
+  - "pójść"
+  - "Pan"
+  - "pieśń"
+  - "pochwalić"
+  - "pokolenie"
+  - "posłuchać"
+  - "przeto"
+  - "przewrotny"
+  - "przysiąc"
+  - "przystąpić"
+  - "pustynia"
+  - "radosny"
+  - "ręka"
+  - "rok"
+  - "rzeźbić"
+  - "serce"
+  - "skała"
+  - "stworzyć"
+  - "szczyt"
+  - "twarz"
+  - "uczynić"
+  - "uwielbienie"
+  - "wejść"
+  - "widzieć"
+  - "wieść"
+  - "wielki"
+  - "własność"
+  - "wszystek"
+  - "zatwardzać"
+  - "zbawienie"
+  - "ziemia"
+  - "znosić"
+===
+
+W:
+[D]Śpiewajmy radośnie Panu,
+pochwalmy skałę naszego zba[A]wienia.
+{{{ 2x
+Przy[G]stąpmy do Niego, by Mu dzię[D]kować,
+śpiewajmy Mu [A]głośno pieśń uwiel[D]bienia.
+}}}
+
+K:
+[e]Bo wielkim Bogiem jest Pan,
+wielkim [D]Królem nad wszystkimi bogami.
+W Jego [e]ręku są głębokości ziemi,
+i szczyty [A]gór są Jego włas[D]nością.
+[e]Jego jest morze, to On je uczynił
+i [A]ziemia, ją rzeź[A7]biły Jego [D]ręce.
+W:
+[D]Śpiewajmy radośnie Panu,
+pochwalmy skałę naszego zba[A]wienia.
+{{{ 2x
+Przy[G]stąpmy do Niego, by Mu dzię[D]kować,
+śpiewajmy Mu [A]głośno pieśń uwiel[D]bienia.
+}}}
+
+K:
+[e]Pójdźcie, padnijmy na twarz,
+przed [D]Panem, który nas stworzył.
+On jest [e]Tym, który nas wiedzie na pustyni.
+Posłu[A]chajmy dziś Jego g[D]łosu.
+[e]Nie zatwardzajmy serc naszych,
+jak [A]to czynili [A7]nasi oj[D]cowie.
+
+W:
+[D]Śpiewajmy radośnie Panu,
+pochwalmy skałę naszego zba[A]wienia.
+{{{ 2x
+Przy[G]stąpmy do Niego, by Mu dzię[D]kować,
+śpiewajmy Mu [A]głośno pieśń uwiel[D]bienia.
+}}}
+
+K:
+[e]Na pustyni kusili mnie wasi ojcowie,
+chociaż [D]dzieła moje widzieli.
+Przez czter[e]dzieści lat znosiłem
+to prze[A]wrotne poko[D]lenie.
+[e]Przeto przysiągłem w mym gniewie:
+Nie [A]wejdą do [A7]mego odpo[D]czynku.
+W:
+[D]Śpiewajmy radośnie Panu,
+pochwalmy skałę naszego zba[A]wienia.
+{{{ 2x
+Przy[G]stąpmy do Niego, by Mu dzię[D]kować,
+śpiewajmy Mu [A]głośno pieśń uwiel[D]bienia.
+}}}

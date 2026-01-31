@@ -1,0 +1,109 @@
+===
+title: "Anafora Liturgii pokutnej"
+section: "liturg"
+color: "liturg"
+tone: "a"
+songid: "LAnafora"
+author:
+  - "K"
+year: 1994
+address:
+  - what: "*POK"
+    where: ""
+knownas:
+  - "Modlitwa kończąca liturgię pokutną"
+index:
+  - "Bóg"
+  - "błogosławić"
+  - "cały"
+  - "chwała"
+  - "cud"
+  - "cudowniej"
+  - "cudowny"
+  - "człowiek"
+  - "duch"
+  - "Duch"
+  - "dzięki"
+  - "dziedzic"
+  - "góra"
+  - "godny"
+  - "grzech"
+  - "grzesznik"
+  - "hymn"
+  - "jedność"
+  - "jeszcze"
+  - "każdy"
+  - "Kościół"
+  - "śmierć"
+  - "śpiewać"
+  - "święty"
+  - "życie"
+  - "męka"
+  - "miejsce"
+  - "miłość"
+  - "miłosierdzie"
+  - "miłosierny"
+  - "niewola"
+  - "odkupić"
+  - "odnawiać"
+  - "ojcowski"
+  - "opuszczać"
+  - "Pan"
+  - "podobieństwo"
+  - "przemienić"
+  - "przywrócić"
+  - "sakrament"
+  - "serce"
+  - "składać"
+  - "słuszny"
+  - "sposób"
+  - "sprawiedliwy"
+  - "stworzyć"
+  - "syn"
+  - "Syn"
+  - "szukać"
+  - "uczynić"
+  - "uwielbiać"
+  - "uwolnić"
+  - "wlać"
+  - "wszechmogący"
+  - "wznosić"
+  - "zaprawdę"
+  - "zawsze"
+  - "zbawienie"
+  - "zbawienny"
+  - "zmartwychwstać"
+  - "zostać"
+  - "zwyciężyć"
+===
+
+P:
+[G]Pan [a]z wami.
+W:
+[G]I z duchem [a]Twoim.
+P:
+[F]W górę [E]serca.
+W:
+[F]Wznosimy je do [E]Pana.
+P:
+[E7]Dzięki składajmy Panu Bogu na[a]szemu.
+W:
+Godne [G]to i sprawie[a]dliwe, Godne [G]to i sprawie[a]dliwe.
+P:
+[a]Zaprawdę [d]godne to i sprawie[a]dliwe, [E]słuszne i zba[a]wienne
+składać Tobie dzięki [d]zawsze i na każdym [a]miejscu,  [E]wszechmogący i miłosierny [a]Boże,
+[F]który w sposób cudowny stworzyłeś człow[a]ieka      [F]i jeszcze cudowniej go odku[E]piłeś;
+Rytmicznie
+[a]Ty nie opuszczasz grzesz[G]nika, ale go szukasz z ojcowską mi[a]łością.
+Ty w męce Twego [G]Syna zwyciężyłeś grzech i [a]śmierć,
+a w Jego zmartwych[G]wstaniu przywróciłeś nam [a]życie.
+Tyś wlał do naszych serc Ducha Świę[G]tego,                       by uczynić nas Twoimi synami i dziedzi[a]cami.
+Ty nas zawsze od[G]nawiasz przez sakramenty zba[a]wienia.
+PW:
+[a]Abyśmy, uwolnieni z niewoli [G]grzechu,
+zostali przemie[F]nieni na podobieństwo Twojego [E]Syna.
+P:
+[a]Błogosławimy, uwielbiamy Cię, [G]Panie,                          w jedności z całym Koś[a]ciołem,
+za te cuda Twojego miło[G]sierdziaśpie[a]wamy, śpie[F]wamy, [G]hymn Twojej [a]chwały.
+
+Następuje „Święty”

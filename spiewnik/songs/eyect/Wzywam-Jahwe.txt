@@ -1,0 +1,77 @@
+===
+title: "Wzywam Jahwe"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S503WzywamJahwe"
+author:
+  - "U"
+year: 1986
+address:
+  - what: "Ps"
+    where: "18"
+yhwh: true
+index:
+  - "Bóg"
+  - "chronić"
+  - "chwała"
+  - "doń"
+  - "droga"
+  - "godny"
+  - "Jahwe"
+  - "miejsce"
+  - "miłować"
+  - "moc"
+  - "nienaganny"
+  - "nienawidzić"
+  - "obrona"
+  - "ocalać"
+  - "ogromny"
+  - "On"
+  - "Pan"
+  - "przepasać"
+  - "przestronny"
+  - "ręka"
+  - "silniejszy"
+  - "tarcza"
+  - "toń"
+  - "uczynić"
+  - "wróg"
+  - "wszyscy"
+  - "wyciągać"
+  - "wydobywać"
+  - "wyprowadzać"
+  - "wyrywać"
+  - "wysoki"
+  - "wzywać"
+===
+
+KW:
+[a]Wzywam Jahwe,
+[F]wzywam Jahwe,
+[G]wzywam Jahwe
+godnego [C]chwały.
+K:
+[a]A [F]On wyciąga [G]rękę z wy[C]soka,
+[a]a [F]On wydobywa mnie [G]z toni o[C]gromnej.
+[dNmS]Wyrywa mnie od silniejszego [E]wroga,
+[dNmS]od wszystkich, co mnie niena[E]widzą.
+W:
+[a]Wzywam Jahwe, …
+K:
+[a]Bo [F]Pan jest [G]dla mnie o[C]broną,
+[a]wyprowadza [F]mnie na [G]miejsce prze[C]stronne.
+[dNmS]Ocala, bo mnie mi[E]łuje,
+[dNmS]ocala, bo mnie mi[E]łuje.
+W:
+[a]Wzywam Jahwe, …
+K:
+[a]To [F]Pan prze[G]pasał mnie [C]mocą
+i [a]niena[F]ganną [G]uczynił mą [C]drogę.
+[dNmS]On tarczą dla tych, co doń się [E]chronią,
+[dNmS]On tarczą dla tych, co doń się [E]chronią.
+W:
+[a]Chwała Panu,
+[F]chwała Panu,
+[G]chwała Panu,
+Bogu na[C]szemu.

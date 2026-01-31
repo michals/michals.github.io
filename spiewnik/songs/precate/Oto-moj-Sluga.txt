@@ -1,0 +1,77 @@
+===
+title: "Oto mój Sługa"
+subtitle: "I pieśń Sługi Jahwe"
+section: "precate"
+color: "communion"
+tone: "a"
+songid: "S274OtoMojSlugaKtoregoWybralem"
+author:
+  - "K"
+year: 2013
+address:
+  - what: "Iz"
+    where: "42, 1-4"
+  - what: "Mt"
+    where: "12, 18-21"
+  - what: "*LAM"
+    where: ""
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "Trzciny nadłamanej"
+  - "Pieśń Sługi Jahwe I"
+  - "Pierwsza pieśń Sługi Jahwe"
+index:
+  - "Duch"
+  - "gasić"
+  - "głos"
+  - "imię"
+  - "knotek"
+  - "krzyczeć"
+  - "łamać"
+  - "nadłamać"
+  - "nadzieja"
+  - "naród"
+  - "nikt"
+  - "ogłosić"
+  - "On"
+  - "plac"
+  - "położyć"
+  - "prawo"
+  - "sługa"
+  - "spierać"
+  - "spocząć"
+  - "sprawić"
+  - "tleć"
+  - "trzcina"
+  - "ukochany"
+  - "upodobanie"
+  - "usłyszeć"
+  - "utrwalić"
+  - "wszystek"
+  - "wybrać"
+  - "ziemia"
+===
+
+KW:
+[a]Oto mój Sługa, [d]którego wy[a]brałem,
+Oto mój Sługa, [d]którego wy[a]brałem,
+[E]mój ukochany, w którym mam upodo[a]banie,
+[E]mój ukochany, którego wy[a]brałem.
+
+K:
+Sprawię, że mój Duch [A7]spocznie [d]na Nim
+i ogło[a]si moje [E]prawo wszystkim na[a]rodom,
+i o[E]głosi moje [a]prawo [E7]wszystkim na[a]rodom.
+[C]Nie będzie się spierał ani krzyczał,
+[d]nikt nie usłyszy Jego [E7]głosu na [a]placach.
+
+W:
+Trzciny nadłamanej On nie będzie [E7]łamał,
+knotka tlejącego On nie będzie [a]gasił,
+[E7]aż utrwali Pra[a]wo na ziemi,
+[E7]aż utrwali Prawo na [a]ziemi.
+
+K:
+[a]W Jego imieniu, w Jego imieniu
+po[F]łożą na[E]rody swoją na[a]dzieję.

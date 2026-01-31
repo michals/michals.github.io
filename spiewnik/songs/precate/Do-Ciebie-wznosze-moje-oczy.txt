@@ -1,0 +1,80 @@
+===
+title: "Do Ciebie wznoszę moje oczy"
+section: "precate"
+color: "precate"
+tone: "d"
+songid: "S126DoCiebieWznoszeMojeOczy"
+author:
+  - "K"
+year: 1994
+address:
+  - what: "Ps"
+    where: "123"
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "Miej litość nad nami, o Panie"
+  - "1993"
+index:
+  - "dusza"
+  - "litość"
+  - "ludzie"
+  - "mieszkać"
+  - "nasycony"
+  - "nazbyt"
+  - "niebo"
+  - "niewolnik"
+  - "oko"
+  - "pan"
+  - "Pan"
+  - "pani"
+  - "pogarda"
+  - "prześmiewca"
+  - "pyszny"
+  - "ręka"
+  - "sługa"
+  - "szyderstwo"
+  - "ufać"
+  - "wpatrywać"
+  - "wpatrzony"
+  - "wypełnić"
+  - "wznosić"
+  - "zmiłować"
+===
+
+KW:
+[d]Do Ciebie wznoszę moje [A7]oczy,
+do [g]Ciebie, który mieszkasz [A7]w niebie.
+
+K:
+[d]Jak oczy sług
+są wpatrzone w ręce ich [A7]panów,
+jak [g]oczy niewolnicy
+w ręce jej [A7]pani,
+tak [B7]nasze oczy wpatrują się [A7]w Pana,
+u[g]fając, że się zmi[A7]łuje,
+u[B7]fając, że się zmi[A7]łuje.
+
+N:
+Miej [d]litość nad nami, o [A7]Panie.
+M:
+Miej [B7]litość nad nami, o [A7]Panie.
+
+N:
+Nasza [d]dusza jest nasycona po[A7]gardą.
+M:
+Bo [B7]nazbyt nas wypełnili szy[A7]derstwem.
+
+N:
+Po[d]gardą ludzi [A7]pysznych.
+M:
+Szy[B7]derstwem prze[A7]śmiewców.
+
+N:
+Miej [d]litość nad nami, o [A7]Panie.
+M:
+Miej [B7]litość nad nami, o [A7]Panie.
+
+W:
+[d]Do Ciebie wznoszę moje [A7]oczy,
+do [g]Ciebie, który mieszkasz [A7]w niebie.

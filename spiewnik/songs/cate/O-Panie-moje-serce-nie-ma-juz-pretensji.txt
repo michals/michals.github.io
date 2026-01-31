@@ -1,0 +1,60 @@
+===
+title: "O Panie, moje serce nie ma już pretensji"
+section: "cate"
+color: "cate"
+tone: "e"
+songid: "S217OPanieMojeSerceNieMaJuzPretensji"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "131"
+knownas:
+  - "Moje serce nie ma już pretensji"
+  - "Ufaj Izraelu swemu Panu"
+  - "1977"
+index:
+  - "duch"
+  - "dusza"
+  - "dziecko"
+  - "gonić"
+  - "Izrael"
+  - "matka"
+  - "nasycony"
+  - "Pan"
+  - "pretensja"
+  - "przewyższać"
+  - "pycha"
+  - "ramię"
+  - "serce"
+  - "siła"
+  - "teraz"
+  - "ufać"
+  - "uspokoić"
+  - "wielki"
+  - "wnętrze"
+  - "wyciszyć"
+  - "wznosić"
+  - "wzrok"
+  - "zawsze"
+===
+
+KW:
+[e]O Panie, moje [a]serce nie ma już pre[e]tensji
+[a]i nie wznoszę w pysze mego [H7]wzroku,
+nie gonię za tym, co jest wielkie,
+ani za tym, co przewyższa moje [e]siły.
+K:
+Uspokoiłem, wyciszyłem moją [a]duszę,
+tak jak dziecko w ramionach swej [e]matki,
+tak jak dziecko nasycone jest mój [H7]duch,
+tak jak dziecko we wnętrzu [e]mym.
+W:
+[e]O Panie, moje [a]serce nie ma już pre[e]tensji
+[a]i nie wznoszę w pysze mego [H7]wzroku,
+nie gonię za tym, co jest wielkie,
+ani za tym, co przewyższa moje [e]siły.
+K:
+Ufaj Izra[a]elu swemu Panu, teraz i [e]zawsze,
+ufaj Izra[a]elu swemu Panu, teraz i [e]zawsze.

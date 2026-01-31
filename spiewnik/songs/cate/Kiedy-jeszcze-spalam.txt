@@ -1,0 +1,138 @@
+===
+title: "Kiedy jeszcze spałam"
+section: "cate"
+color: "cate"
+tone: "a"
+songid: "S270KiedyJeszczeSpalam"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "Pnp"
+    where: "5, 2nn"
+  - what: "*BRE"
+    where: ""
+  - what: "*KOM"
+    where: ""
+knownas:
+  - "1973"
+  - "Ja zaklinam was, córki jerozolimskie"
+index:
+  - "ach"
+  - "brat"
+  - "całować"
+  - "córka"
+  - "czuwać"
+  - "dłoń"
+  - "drzwi"
+  - "gdyby"
+  - "głos"
+  - "głowa"
+  - "gołąbka"
+  - "gorszyć"
+  - "jerozolimski"
+  - "jeszcze"
+  - "kędzior"
+  - "krople"
+  - "śpieszny"
+  - "życie"
+  - "móc"
+  - "miasto"
+  - "miłość"
+  - "miły"
+  - "mirra"
+  - "mury"
+  - "noc"
+  - "obchodzić"
+  - "ociekać"
+  - "oddalić"
+  - "odejść"
+  - "odpowiedzieć"
+  - "otworzyć"
+  - "palce"
+  - "pokryć"
+  - "ponieważ"
+  - "powiedzieć"
+  - "ręka"
+  - "rosa"
+  - "serce"
+  - "siostra"
+  - "spać"
+  - "spływać"
+  - "spotkać"
+  - "strażnik"
+  - "suknia"
+  - "szczelina"
+  - "szukać"
+  - "uchwyt"
+  - "umierać"
+  - "usłyszeć"
+  - "ustać"
+  - "wnętrze"
+  - "wołać"
+  - "wstać"
+  - "wsunąć"
+  - "zadrżeć"
+  - "zaklinać"
+  - "zasuwa"
+  - "zedrzeć"
+  - "znaleźć"
+  - "zniknąć"
+  - "zranić"
+===
+
+K:
+[C]Kiedy jeszcze spałam,
+moje serce czu[E]wało,
+usłyszałam mego miłego [a]głos:
+„[d]Otwórz mi, moja [E]siostro,
+[d]otwórz mi, go[E]łąbko,
+albowiem moja głowa pokryta jest rosą,
+a moje kędziory
+kroplami [a]nocy”.
+[C]Wsunął swą rękę
+przez szczelinę [E]drzwi,
+i moje wnętrze za[a]drżało.
+[d]Wstałam śpiesznie, by o[E]tworzyć,
+a dłonie moje ociekały mirrą
+i z palców moich spływała mirra
+na uchwyt za[a]suwy.
+{{{ 2x
+W:
+[a]Ja zaklinam was,
+córki jerozo[G]limskie,
+gdy znajdziecie mego mi[F]łego,
+powiedzcie, że umieram z mi[E]łości.
+}}}
+
+K:
+[C]Otworzyłam, otworzyłam memu miłemu,
+lecz go nie [E]było,
+już odszedł i [a]zniknął.
+[d]Życie we mnie ustało,
+ponieważ się od[E]dalił;
+szukałam go, lecz nie znalazłam,
+wołałam go, wołałam, ale mi nie odpo[a]wiedział.
+Spotkali mnie strażnicy,
+którzy obchodzą [G]miasto,
+zdarli ze mnie [F]suknię
+i zranili mnie strażnicy [E]murów.
+{{{ 2x
+W:
+[a]Ja zaklinam was,
+córki jerozo[G]limskie,
+gdy znajdziecie mego mi[F]łego,
+powiedzcie, że umieram z mi[E]łości.
+}}}
+K:
+[a]Ach!
+Gdybyś był moim [G]bratem,
+mogłabym cię ca[F]łować
+tak, by się nie gor[E]szono.
+{{{ 2x
+W:
+[a]Ja zaklinam was,
+córki jerozo[G]limskie,
+gdy znajdziecie mego mi[F]łego,
+powiedzcie, że umieram z mi[E]łości.
+}}}

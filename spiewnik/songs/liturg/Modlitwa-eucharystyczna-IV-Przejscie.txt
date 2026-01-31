@@ -1,0 +1,134 @@
+===
+title: "Modlitwa eucharystyczna IV"
+subtitle: "Przejście"
+section: "liturg"
+color: "liturg"
+tone: "a"
+songid: "L00ME4Tr"
+author:
+  - "K"
+year: 2020
+address:
+  - what: "*MSZ"
+    where: ""
+alttone:
+  - "a"
+  - "c"
+index:
+  - "cały"
+  - "Chrystus"
+  - "czas"
+  - "człowiek"
+  - "dalej"
+  - "dar"
+  - "dobry"
+  - "dopełniać"
+  - "Duch"
+  - "dzieło"
+  - "Dziewica"
+  - "głosić"
+  - "grzech"
+  - "jako"
+  - "jednorodzony"
+  - "jeniec"
+  - "krzyżowy"
+  - "śmierć"
+  - "świat"
+  - "święty"
+  - "żyć"
+  - "życie"
+  - "ludzie"
+  - "mądrość"
+  - "Maryja"
+  - "miłość"
+  - "miłosierdzie"
+  - "nadejść"
+  - "narodzić"
+  - "nieposłuszeństwo"
+  - "nowina"
+  - "oczekiwać"
+  - "odnowić"
+  - "Ojciec"
+  - "On"
+  - "oprócz"
+  - "pełnia"
+  - "pierwszy"
+  - "podobieństwo"
+  - "podobny"
+  - "pomoc"
+  - "pospieszyć"
+  - "postanowienie"
+  - "pouczać"
+  - "powierzyć"
+  - "pozostawić"
+  - "prorok"
+  - "prowadzić"
+  - "przyjaźń"
+  - "przymierze"
+  - "radość"
+  - "rządzić"
+  - "sam"
+  - "siebie"
+  - "służyć"
+  - "smutny"
+  - "sprawa"
+  - "stać"
+  - "stwórca"
+  - "stworzenie"
+  - "stworzyć"
+  - "Syn"
+  - "szukać"
+  - "ubogi"
+  - "uświęcić"
+  - "umiłować"
+  - "umrzeć"
+  - "utracić"
+  - "wielki"
+  - "wielokrotny"
+  - "wierzący"
+  - "władza"
+  - "wszelki"
+  - "wszyscy"
+  - "wszystek"
+  - "wszystko"
+  - "wydać"
+  - "wypełnić"
+  - "wysławiać"
+  - "wyzwolenie"
+  - "zawierać"
+  - "zbawić"
+  - "zbawienie"
+  - "zesłać"
+  - "zmartwychwstać"
+  - "zmartwychwstawać"
+  - "znaleźć"
+  - "zwyciężyć"
+===
+
+P:
+[a]Wysławiamy Cię, Ojcze święty, bo jesteś [C]wielki i wszystkie stwo[D]rzenia
+głoszą Twoją mądrość i [a]miłość. Ty stworzyłeś człowieka na swoje
+podo[C]bieństwo i powie[D]rzyłeś mu cały świat, aby służąc [F]Tobie samemu
+jako Stwórcy, rządził [G]wszelkim stwo[a]rzeniem. [G]A gdy człowiek przez
+nieposłuszeństwo utracił Twoją [a]przyjaźń, nie pozosta[C]wiłeś go
+pod władzą śmierci. W miłosierdziu [D]swoim pospieszyłeś z pomocą
+wszystkim [E]ludziom, aby [D]Ciebie szukali i zna[E]leźli.
+[a]Wielokrotnie zawierałeś przymierze z ludźmi [d]i pouczałeś ich
+przez Proroków, aby oczekiwali zba[E]wienia. [C]Ojcze święty,
+tak umiłowałeś świat, że gdy nadeszła pełnia [a]czasów,
+[C]zesłałeś nam swojego Jednorodzonego Syna, aby nas [a]zbawił.
+On to za sprawą Ducha Świę[C]tego [D]stał się człowiekiem, narodził się
+z Maryi Dzie[a]wicy [G]i był do nas podobny we wszystkim oprócz [a]grzechu.
+[C]Ubogim głosił dobrą nowinę o zba[a]wieniu, [C]jeńcom wyzwolenie,
+a [a]smutnym radość. Aby wy[G]pełnić Twoje postanowienie,
+wydał się [a]na śmierć krzyżową, [G]a zmartwychwstając zwyciężył [a]śmierć
+PW:
+[C]zmartwychwstając zwyciężył śmierć i odnowił [a]życie.
+P:
+[a]Abyśmy żyli już nie dla [C]siebie, ale dla Chry[D]stusa,
+który za nas umarł i zmartwychwstał, zesłał [a]On od Ciebie, Ojcze,
+jako pierwszy dar dla wierzących, [G]Ducha Świę[a]tego,
+[G]który dalej prowadzi Jego dzieło na świecie
+[a]i dopełnia wszelkiego uświęcenia.
+
+242]903.3

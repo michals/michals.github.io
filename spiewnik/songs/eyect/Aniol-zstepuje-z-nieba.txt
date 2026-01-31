@@ -1,0 +1,130 @@
+===
+title: "Anioł zstępuje z nieba"
+subtitle: "Kolęda"
+section: "eyect"
+color: "eyect"
+tone: "d"
+songid: "S925AniolZstapilZNieba"
+author:
+  - "K"
+year: 2021
+address:
+  - what: "Łk"
+    where: "2, 9-12.15-16"
+  - what: "Iz"
+    where: "1, 3"
+children: true
+index:
+  - "allegria"
+  - "anioł"
+  - "betlejemski"
+  - "Chrystus"
+  - "czysty"
+  - "dar"
+  - "dziecię"
+  - "dziś"
+  - "Emmanuel"
+  - "Izrael"
+  - "Józef"
+  - "liczny"
+  - "żłób"
+  - "żłóbek"
+  - "Maryja"
+  - "nadchodzić"
+  - "narodzić"
+  - "niebo"
+  - "nowina"
+  - "Odkupiciel"
+  - "odpoczywać"
+  - "osioł"
+  - "osiołek"
+  - "owinąć"
+  - "Pan"
+  - "pasterz"
+  - "pieluszka"
+  - "położyć"
+  - "poznać"
+  - "poznawać"
+  - "przybyć"
+  - "przynosić"
+  - "rozpoznawać"
+  - "spotkać"
+  - "stajnia"
+  - "teraz"
+  - "wół"
+  - "wielki"
+  - "właściciel"
+  - "Zbawiciel"
+  - "znak"
+  - "zstępować"
+  - "zwać"
+===
+
+KW:
+[d]Anioł zstępuje z nieba
+przynosząc wielką nowinę:
+KW:
+„[g]Dziś nam się na[d]rodził,
+dziś na[A]rodził się Zba[d]wiciel.”
+{{{ 2x
+W:
+Alle[F]gria, allegria, alle[A]gria,
+dziś na[B]rodził się Zbawiciel.
+Odpo[Des]czywa teraz w żłobie,
+to Chrystus nasz Odku[C7]piciel!
+}}}
+KW:
+[d]Owinięty w czyste pieluszki,
+położony w żłóbku.
+KW:
+[g]I to będzie [d]znakiem,
+że na[A]rodził się Zba[d]wiciel.
+{{{ 2x
+W:
+Alle[F]gria, allegria, alle[A]gria,
+dziś na[B]rodził się Zbawiciel.
+Odpo[Des]czywa teraz w żłobie,
+to Chrystus nasz Odku[C7]piciel!
+}}}
+KW:
+[d]Do stajni Betlejemskiej
+przybyli już pasterze.
+KW:
+Nad[g]chodzą przy[d]nosząc
+liczne [A]dary Zbawicie[d]lowi.
+
+{{{ 2x
+W:
+Alle[F]gria, allegria, alle[A]gria,
+dziś na[B]rodził się Zbawiciel.
+Odpo[Des]czywa teraz w żłobie,
+to Chrystus nasz Odku[C7]piciel!
+}}}
+KW:
+[d]Spotkali tam Maryję,
+Józefa też poznali.
+KW:
+[g]Wołu, osiołka i [d]dziecię,
+co Em[A]manuel będzie [d]zwane.
+{{{ 2x
+W:
+Alle[F]gria, allegria, alle[A]gria,
+dziś na[B]rodził się Zbawiciel.
+Odpo[Des]czywa teraz w żłobie,
+to Chrystus nasz Odku[C7]piciel!
+}}}
+KW:
+[d]Wół rozpoznaje Pana,
+a osioł żłób właściciela.
+KW:
+[g]lecz Izrael nie po[d]znaje,
+nie po[A]znaje swego [d]Pana.
+{{{ 2x
+W:
+Alle[F]gria, allegria, alle[A]gria,
+dziś na[B]rodził się Zbawiciel.
+odpo[Des]czywa teraz w żłobie,
+to Chrystus nasz Odku[C7]piciel!
+}}}
+
+0]506

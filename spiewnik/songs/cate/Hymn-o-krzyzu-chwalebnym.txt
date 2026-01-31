@@ -1,0 +1,112 @@
+===
+title: "Hymn o krzyżu chwalebnym"
+subtitle: "Hymn z II wieku"
+section: "cate"
+color: "cate"
+tone: "E"
+songid: "S219HymnOKrzyzuChwalebnym"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*HYM"
+    where: ""
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "Chwalebny krzyż"
+  - "1978"
+index:
+  - "Bóg"
+  - "chwalebny"
+  - "cień"
+  - "drabina"
+  - "droga"
+  - "drzewo"
+  - "gałąź"
+  - "głód"
+  - "Jakub"
+  - "jaśnieć"
+  - "kościec"
+  - "korona"
+  - "korzeń"
+  - "krzyż"
+  - "łoże"
+  - "ścieżka"
+  - "życie"
+  - "źródło"
+  - "miłość"
+  - "nagość"
+  - "nagroda"
+  - "namiot"
+  - "niebo"
+  - "obrona"
+  - "odpoczywać"
+  - "okrycie"
+  - "ożywiać"
+  - "On"
+  - "otwarty"
+  - "Pan"
+  - "podpora"
+  - "pokarm"
+  - "poślubić"
+  - "postawić"
+  - "potknięcie"
+  - "powiew"
+  - "pragnienie"
+  - "ramię"
+  - "rosa"
+  - "rozkosz"
+  - "sięgać"
+  - "stromy"
+  - "trwoga"
+  - "użyźniać"
+  - "wąski"
+  - "walka"
+  - "wieczny"
+  - "wierzchołek"
+  - "woda"
+  - "wszechświat"
+  - "wzrastać"
+  - "zbawienie"
+  - "ziemia"
+  - "zmartwychwstały"
+  - "zwycięstwo"
+===
+
+W:
+[E]Chwalebny krzyż
+[Gis]zmartwychwstałego P[cis]ana
+jest [fis]drzewem
+mojego zba[Gis]wienia;
+[E]on moim pokarmem,
+[Gis]on moją roz[cis]koszą,
+[fis]w jego korzeniach wzrastam,
+[H7]w jego gałęziach odpocz[E]ywam.
+
+K:
+[Gis]Jego rosa mnie o[A]żywia,
+jego powiew mnie u[Gis]żyźnia,
+w jego [fis]cieniu postawiłem mój [Gis]namiot.
+On [A]w głodzie jest pokarmem,
+w pragnieniu źródłem wody,
+moim okryciem w na[Gis]gości.
+[fis]Stroma ścieżka, moja droga [Gis]wąska,
+[fis]drabina Jakuba, łoże miłości,
+gdzie nas poślubił [Gis]Pan.
+W:
+[E]Chwalebny krzyż …
+
+K:
+[Gis]W trwodze tyś ob[A]roną,
+w potknięciu pod[Gis]porą,
+w zwy[A]cięstwie koroną,
+w walce tyś nag[Gis]rodą.
+W:
+[fis]Drzewo życia wiecz[Gis]nego,
+[fis]podpora wszech[Gis]świata,
+kościec [A]ziemi,
+twój wierzchołek sięga nieba,
+a w twoich ramionach otwartych   jaśnieje miłość [Gis]Boga.
+W:
+[E]Chwalebny krzyż …

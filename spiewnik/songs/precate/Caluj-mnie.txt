@@ -1,0 +1,98 @@
+===
+title: "Całuj mnie"
+section: "precate"
+color: "precate"
+tone: "d"
+songid: "S267CalujMnie"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "Pnp"
+    where: "1, 2-4.7-8"
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*KOM"
+    where: ""
+knownas:
+  - "1973"
+  - "Pokaż mi ty, o miły memu sercu"
+  - "Powiedz mi ty, o miły memu sercu"
+  - "Zabierz mnie ze sobą, pójdziemy"
+index:
+  - "bardziej"
+  - "biegnąć"
+  - "całować"
+  - "cudowny"
+  - "dlaczego"
+  - "dziewczę"
+  - "iść"
+  - "imię"
+  - "inny"
+  - "kobieta"
+  - "kochać"
+  - "koźlę"
+  - "ślad"
+  - "miłość"
+  - "miły"
+  - "najpiękniejszy"
+  - "odtąd"
+  - "olejek"
+  - "owca"
+  - "paść"
+  - "pójść"
+  - "pasterz"
+  - "pocałunek"
+  - "pociągnąć"
+  - "pokazać"
+  - "przestać"
+  - "przy"
+  - "rozlany"
+  - "serce"
+  - "siebie"
+  - "słodszy"
+  - "szałas"
+  - "trzoda"
+  - "upajać"
+  - "usta"
+  - "wiedzieć"
+  - "wino"
+  - "włóczęga"
+  - "zabrać"
+===
+
+KN:
+[d]Całuj mnie pocałunkami twoich ust;
+[B]słodsza niż wino jest twoja [A]miłość;
+olejkiem rozlanym jest twe imię:
+oto dlaczego kochają cię dziew[d]częta.
+W:
+[d]Zabierz mnie ze sobą, pójdziemy,
+po[B]ciągnij mnie za sobą, bie[A]gnijmy!
+Bardziej niż [A7]wino twa miłość nas upaja,
+o, jak cudownie kochać [d]ciebie!
+{{{ 2x
+[d]Pokaż mi ty, o miły memu sercu,
+pokaż, gdzie pasiesz twoją [A]trzodę,
+abym już odtąd przestała być włóczęgą
+przy trzodach innych pas[d]terzy.
+}}}
+
+KM:
+[d]Jeśli tego nie wiesz, o najpiękniejsza z kobiet,
+[B]to idź śladami moich [A]owiec
+i paś tam też koźlęta swoje,
+aż przy szałasach pa[d]sterzy.
+W:
+[d]Zabierz mnie ze sobą, pójdziemy,
+po[B]ciągnij mnie za sobą, bie[A]gnijmy!
+Bardziej niż [A7]wino twa miłość nas upaja,
+o, jak cudownie kochać [d]ciebie!
+{{{ 2x
+[d]Pokaż mi ty, o miły memu sercu,
+pokaż, gdzie pasiesz twoją [A]trzodę,
+abym już odtąd przestała być włóczęgą
+przy trzodach innych pas[d]terzy.
+}}}

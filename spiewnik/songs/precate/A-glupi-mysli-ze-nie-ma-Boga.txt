@@ -1,0 +1,92 @@
+===
+title: "A głupi myśli, że nie ma Boga"
+section: "precate"
+color: "precate"
+tone: "d"
+songid: "S137AGlupiMysliZeNieMaBoga"
+author:
+  - "K"
+year: 2000
+address:
+  - what: "Ps"
+    where: "14"
+knownas:
+  - "Nic nie rozumieją ludzie nikczemni"
+  - "2001"
+index:
+  - "Bóg"
+  - "chleb"
+  - "człowiek"
+  - "czynić"
+  - "dobro"
+  - "dobry"
+  - "głupi"
+  - "istnieć"
+  - "jaki"
+  - "jeden"
+  - "lud"
+  - "ludzie"
+  - "mądry"
+  - "myśleć"
+  - "nic"
+  - "niebo"
+  - "niegodziwiec"
+  - "nikczemny"
+  - "nikt"
+  - "ohydny"
+  - "Pan"
+  - "pochylać"
+  - "pożerać"
+  - "popełniać"
+  - "rozumieć"
+  - "rzeczy"
+  - "sprawiedliwy"
+  - "strach"
+  - "szukać"
+  - "takiego"
+  - "ucieczka"
+  - "wszyscy"
+  - "wzywać"
+  - "zadrżeć"
+  - "zbłądzić"
+  - "zepsuty"
+  - "zobaczyć"
+===
+
+KW:
+[d]A głupi myśli, że nie ma [A7]Boga.
+Są zepsuci, ohydne rzeczy popeł[d]niają.
+[g]Nie ma nikogo, kto czyni [A7]dobro,
+nie ma ni[B]kogo, kto czyni [A7]dobro.
+
+K:
+[d]Pan z nieba pochyla się nad [A7]ludźmi,
+by zobaczyć, czy istnieje jakiś człowiek [d]mądry,
+[g]człowiek, który szuka [A7]Boga,
+czł[B]owiek, który szuka [A7]Boga.
+[F]Wszyscy zbłądzili, wszyscy są ze[a]psuci;
+Nie ma ta[B]kiego, co czyni dobrze, nie ma ani jed[A7]nego.
+
+W:
+[d]A głupi myśli, że nie ma [A7]Boga.
+Są zepsuci, ohydne rzeczy popeł[d]niają.
+
+K:
+[g]Nic nie rozumieją ludzie nik[A7]czemni,
+[g]niegodziwcy, co lud mój pożerają, jak [A7]chleb.
+[B]Nie wzywają Boga, lecz zadrżą ze [A7]strachu,
+[F]bo jest Bóg ze sprawied[A7]liwym,
+[B]Pan jest jego u[A7]cieczką.
+
+K:
+[d]Bo jest Bóg [C]ze sprawied[A7]liwym,
+[B]Pan jest jego u[A7]cieczką.
+W:
+[d]Bo jest Bóg [C]ze sprawied[A7]liwym,
+[B]Pan jest jego u[A7]cieczką.
+
+W:
+[d]A głupi myśli, że nie ma [A7]Boga.
+Są zepsuci, ohydne rzeczy popeł[d]niają.
+[g]Nie ma nikogo, kto czyni [A7]dobro,
+nie ma ni[B]kogo, kto czyni [A7]dobro.

@@ -1,0 +1,146 @@
+===
+title: "Débora"
+section: "cate"
+color: "cate"
+tone: "a"
+songid: "S205Debora"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Sdz"
+    where: "5"
+  - what: "*MAR"
+    where: ""
+knownas:
+  - "Kiedy Izrael zwołuje zgromadzenie"
+  - "Błogosławcie Jahwe"
+yhwh: true
+index:
+  - "Anat"
+  - "bóg"
+  - "Bóg"
+  - "Barak"
+  - "błogosławić"
+  - "brama"
+  - "chcieć"
+  - "chmura"
+  - "chodzić"
+  - "Debora"
+  - "dobrowolny"
+  - "droga"
+  - "dzień"
+  - "dziesięć"
+  - "Edom"
+  - "góry"
+  - "gromada"
+  - "gwiazda"
+  - "Izrael"
+  - "Jael"
+  - "Jahwe"
+  - "jeden"
+  - "Kiszon"
+  - "kroczyć"
+  - "śpiewać"
+  - "święty"
+  - "lud"
+  - "można"
+  - "niebiosa"
+  - "niebo"
+  - "obcy"
+  - "oberwać"
+  - "Pan"
+  - "pieśń"
+  - "podróżny"
+  - "pole"
+  - "poruszyć"
+  - "porwać"
+  - "poszukać"
+  - "potok"
+  - "powstać"
+  - "przebudzić"
+  - "przeciw"
+  - "Seir"
+  - "siebie"
+  - "Sisera"
+  - "skakać"
+  - "syn"
+  - "Szamgar"
+  - "tysiące"
+  - "walczyć"
+  - "walka"
+  - "włócznia"
+  - "wśród"
+  - "wojna"
+  - "wybawiciel"
+  - "wychodzić"
+  - "wysokość"
+  - "zadrżeć"
+  - "zaśpiewać"
+  - "zgłaszać"
+  - "zgromadzenie"
+  - "ziemia"
+  - "znaleźć"
+  - "zniknąć"
+  - "zwoływać"
+===
+
+K:
+[D7]Kiedy Izrael zwołuje zgromadzenie,
+a lud dobrowolnie zgłasza się do walki:
+W:
+[e]Błogosławcie Jah[F]we,
+błogosławcie Jah[E]we,
+[e]błogosławcie Jah[F]we,
+memu Panu śpiewać [E]chcę.
+Przebudź [a]się, Déboro,
+przebudź [F]się, Déboro,
+zaśpiewaj [E]pieśń!
+Przebudź [a]się, Déboro,
+przebudź [F]się, Déboro,
+powstań, Ba[E]raku!
+
+K:
+[D7]Za dni Szamgara, syna Anata, za dni Jaeli,
+znikły gromady podróżnych,
+nie można już było chodzić po drogach,
+bowiem Izrael poszukał sobie obcych bogów.
+Gdy wojna była już u bram,
+nie znalazł się wybawiciel w Izraelu,
+ani jedna włócznia wśród dziesięciu tysięcy.
+W:
+[e]Błogosławcie Jah[F]we,
+błogosławcie Jah[E]we,
+[e]błogosławcie Jah[F]we,
+memu Panu śpiewać [E]chcę.
+
+Przebudź [a]się, Déboro,
+przebudź [F]się, Déboro,
+zaśpiewaj [E]pieśń!
+Przebudź [a]się, Déboro,
+przebudź [F]się, Déboro,
+powstań, Ba[E]raku!
+
+K:
+[D7]Kiedyś wychodził z Seiru, Jahwe, mój Boże,
+gdy kroczyłeś przez pola Edomu,
+ziemia zadrżała, niebo się poruszyło,
+oberwały się chmury, góry skakały przed Tobą,
+przed Tobą, Boże Izraela.
+KW:
+Gwiazdy walczyły na wysokościach niebios.
+KW:
+Na wysokościach niebios walczyły przeciw Siserze.
+K:
+Potok Kiszon, święty potok Kiszon ich porwał.
+W:
+[e]Błogosławcie Jah[F]we,
+błogosławcie Jah[E]we,
+[e]błogosławcie Jah[F]we,
+memu Panu śpiewać [E]chcę.
+Przebudź [a]się, Déboro,
+przebudź [F]się, Déboro,
+zaśpiewaj [E]pieśń!
+Przebudź [a]się, Déboro,
+przebudź [F]się, Déboro,
+powstań, Ba[E]raku!

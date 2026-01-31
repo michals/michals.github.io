@@ -1,0 +1,113 @@
+===
+title: "Modlitwa eucharystyczna II (1)"
+subtitle: "Prefacja Paschalna"
+section: "liturg"
+color: "liturg"
+tone: "a"
+songid: "L20Pre1Pa"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "*MSZ"
+    where: ""
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+alttone:
+  - "a"
+  - "h"
+index:
+  - "anioł"
+  - "Bóg"
+  - "Baranek"
+  - "cały"
+  - "chór"
+  - "Chrystus"
+  - "chwała"
+  - "dlatego"
+  - "duch"
+  - "dzięki"
+  - "góra"
+  - "głosić"
+  - "godny"
+  - "grzech"
+  - "hymn"
+  - "jako"
+  - "ku"
+  - "łaska"
+  - "śmierć"
+  - "śpiewać"
+  - "świat"
+  - "święty"
+  - "życie"
+  - "lud"
+  - "nieustanny"
+  - "noc"
+  - "ofiarować"
+  - "On"
+  - "Pan"
+  - "pascha"
+  - "paschalny"
+  - "pełnia"
+  - "prawdziwy"
+  - "przywrócić"
+  - "radować"
+  - "również"
+  - "serce"
+  - "składać"
+  - "sławić"
+  - "słuszny"
+  - "sprawiedliwy"
+  - "uroczyściej"
+  - "wołać"
+  - "wszystek"
+  - "wznosić"
+  - "zaprawdę"
+  - "zastęp"
+  - "zawsze"
+  - "zbawienny"
+  - "zgładzić"
+  - "ziemia"
+  - "zmartwychwstawać"
+  - "zniweczyć"
+  - "zostać"
+  - "zwłaszcza"
+===
+
+P:
+[G]Pan [a]z wami.
+W:
+[G]i z duchem [a]twoim.
+P:
+[F]W górę [E]serca.
+W:
+[F]Wznosimy je do [E]Pana.
+P:
+[E7]Dzięki składajmy Panu, Bogu na[a]szemu.
+W:
+Godne [G]to i sprawie[a]dliwe. Godne [G]to i sprawie[a]dliwe.
+P:
+Za[a]prawdę [d]godne to i sprawie[a]dliwe, [E]słuszne i zba[a]wienne,
+abyśmy Ciebie, [d]Panie, zawsze [a]sławili,
+[E]a zwłaszcza tej [a]nocy [F]uroczyściej głosili Twoją [a]chwałę,
+[F]gdy Chrystus został ofiarowany jako nasza [E]Pascha.
+Rytmicznie
+[a]On bowiem jest prawdziwym Ba[G]rankiem,
+który zgładził grzechy [a]świata.
+On przez swoją [G]śmierć zniweczył śmierć [a]naszą
+i zmartwych[G]wstając przywrócił nam [a]życie.
+PW:
+[a]On przez swoją śmierć zniweczył śmierć [G]naszą
+i zmartwych[F]wstając przywrócił nam [E]życie!
+P:
+[a]Dlatego pełnią łask pas[G]chalnych
+radują się wszystkie ludy na całej [a]ziemi.
+Również chóry Aniołów i zastępy [G]Świętych
+śpie[a]wają, śpie[F]wają, [G]hymn ku Twojej chwale
+nieustannie wo[a]łając:
+
+Następuje „Święty”
+
+235]8

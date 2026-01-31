@@ -21,7 +21,7 @@ knownas:
   - "1965"
   - "Było upalnie owego dnia"
   - "O Panie mój, nie omijaj mnie, proszę"
-  - "Nie omijaj mnie, proszę"
+  - "Chciej się zatrzymać"
 index:
   - "Abraham"
   - "chcieć"
@@ -76,11 +76,11 @@ siedział przed swoim na[a]miotem.
 [a]Było upalnie owego dnia,
 [d]kiedy Abr[E]aham
 siedział pod dębem [a]Mamre.
-Podniósłszy [G]oczy po[F]patrzył,
+Podniósłszy [G]oczy, po[F]patrzył,
 a oto trzej mę[E]żowie
 stali [a]przed nim.
 Zaledwie ich [E]ujrzał,
-pochylił się do zie[ES]mi i po[a]wiedział:
+pochylił się do zie[E7]mi i po[a]wiedział:
 „O Panie [G]mój,
 nie omijaj mnie, [F]proszę,
 chciej się zat[E]rzymać!”

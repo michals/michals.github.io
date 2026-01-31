@@ -1,0 +1,109 @@
+===
+title: "Modlitwa eucharystyczna IV"
+subtitle: "Modlitwy i Doksologia"
+section: "liturg"
+color: "liturg"
+tone: "a"
+songid: "L00ME4In"
+author:
+  - "K"
+year: 2020
+address:
+  - what: "*MSZ"
+    where: ""
+alttone:
+  - "a"
+  - "c"
+index:
+  - "amen"
+  - "apostoł"
+  - "Bóg"
+  - "biskup"
+  - "Bogurodzica"
+  - "cały"
+  - "Chrystus"
+  - "chwała"
+  - "chwalić"
+  - "cześć"
+  - "dać"
+  - "dobra"
+  - "dobry"
+  - "Duch"
+  - "duchowieństwo"
+  - "dziecko"
+  - "dziedzictwo"
+  - "Dziewica"
+  - "grzech"
+  - "Józef"
+  - "jedność"
+  - "jedynie"
+  - "Jezus"
+  - "królestwo"
+  - "śmierć"
+  - "świat"
+  - "święty"
+  - "życie"
+  - "ludzie"
+  - "Maryja"
+  - "najświętszy"
+  - "obdarzać"
+  - "oblubieniec"
+  - "odejść"
+  - "ofiara"
+  - "Ojciec"
+  - "Ona"
+  - "pamiętać"
+  - "Pan"
+  - "papież"
+  - "pokój"
+  - "serce"
+  - "składać"
+  - "sługa"
+  - "stworzenie"
+  - "szczery"
+  - "szukać"
+  - "tutaj"
+  - "wiara"
+  - "wieczny"
+  - "wiek"
+  - "wszechmogący"
+  - "wszelki"
+  - "wszyscy"
+  - "wszystek"
+  - "wszystko"
+  - "wyzwolić"
+  - "zgromadzeni"
+  - "zmarły"
+  - "znać"
+===
+
+Modlitwy wstawiennicze
+P:
+[a]Pamiętaj, Boże, [C]o wszystkich, za których składamy tę Ofiarę:
+[d]przede wszystkim o Twoim słudze, naszym Papieżu N.,
+o naszym Biskupie N.,
+o wszystkich biskupach i całym duchowieństwie,
+o składających Ofiarę i tutaj zgromadzonych, o całym Twoim ludzie
+i o wszystkich, którzy szczerym sercem Ciebie szu[E]kają.
+[a]Pamiętaj także o tych,
+[C]którzy odeszli z tego świata w pokoju z Chrystusem,
+[d]oraz o wszystkich zmarłych, których wiarę jedynie Ty [E]znałeś.
+Wspomnienie Świętych
+P:
+[a]O dobry Ojcze,
+[d]daj nam, swoim dzieciom, dziedzictwo życia wiecznego
+z Najświętszą [E]Dziewicą, Bogurodzicą Maryją,
+[d]ze świętym Jó[E]zefem, Jej oblubieńcem
+[d]z Apostołami i wszystkimi Świętymi w Twoim Kró[E]lestwie,
+gdzie z całym stwo[d]rzeniem wyzwolonym z grzechu i śmierci
+będziemy Cię chwalić przez naszego Pana Jezusa Chry[E]stusa,
+przez którego obdarzasz świat wszelkimi do[a]brami.
+Doksologia końcowa
+P:
+[E7]Przez Chrystusa, z Chrystusem i w Chrystusie,
+[F]Tobie, Boże, Ojcze wszechmogący,
+w jedności Ducha Świę[E7]tego,
+[F]wszelka cześć i chwała,
+przez wszystkie wieki wie[E7]ków.
+W:
+Amen, amen, a[F]men, a[E]men.

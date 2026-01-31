@@ -1,0 +1,60 @@
+===
+title: "Ojcze nasz"
+subtitle: "Modlitwa Pańska"
+section: "liturg"
+color: "liturg"
+tone: "d"
+songid: "S027OjczeNasz"
+author:
+  - "K"
+year: 2007
+address:
+  - what: "Mt"
+    where: "6, 9-13"
+alttone:
+  - "d"
+  - "e"
+index:
+  - "abba"
+  - "amen"
+  - "chleb"
+  - "dać"
+  - "dzisiaj"
+  - "imię"
+  - "jako"
+  - "królestwo"
+  - "święcić"
+  - "niebo"
+  - "odpuścić"
+  - "odpuszczać"
+  - "Ojciec"
+  - "pokuszenie"
+  - "powszedni"
+  - "przyjść"
+  - "wina"
+  - "winowajca"
+  - "wodzić"
+  - "wola"
+  - "zbawić"
+  - "ziemia"
+  - "złe"
+===
+
+K:
+[d]Abba, abba, Ojcze,
+[a]abba, Ojcze,
+[B]Ojcze [A]nasz.
+W:
+[d]Abba, abba, Ojcze.
+Ojcze nasz, któryś jest w niebie,
+[F]święć się imię [a]Twoje,
+[g]przyjdź Królestwo [A]Twoje,
+[B]bądź wola Two[A]ja,
+jako [B]w niebie, tak i na [A]ziemi.
+[d]Chleba naszego powszedniego daj nam dzisiaj
+i [F]odpuść nam nasze [a]winy,
+[g]jako i my odpuszczamy naszym wino[A]wajcom,
+[B]i nie wódź nas na poku[A]szenie
+ale nas zbaw ode [d]złego.
+K:
+[d]Amen.

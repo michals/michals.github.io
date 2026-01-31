@@ -1,0 +1,37 @@
+===
+title: "Modlitwa eucharystyczna II (1)"
+subtitle: "Doksologia końcowa (2)"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "L00DoksM2"
+author:
+  - "K"
+year: 1993
+alttone:
+  - "e"
+  - "fis"
+index:
+  - "amen"
+  - "Bóg"
+  - "Chrystus"
+  - "chwała"
+  - "cześć"
+  - "Duch"
+  - "jedność"
+  - "święty"
+  - "Ojciec"
+  - "wiek"
+  - "wszechmogący"
+  - "wszelki"
+  - "wszystek"
+===
+
+P:
+[G]Przez Chrystusa, z Chrystusem i w Chrystusie,
+[h]Tobie, Boże Ojcze wszechmogący,
+[a]w jedności Ducha Świętego,
+[e]wszelka cześć i chwała,
+[G]przez wszystkie wieki wieków.
+W:
+A[h]men, a[A]men, a[e]men!

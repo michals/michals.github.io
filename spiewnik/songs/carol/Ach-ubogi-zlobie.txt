@@ -1,0 +1,103 @@
+===
+title: "Ach, ubogi żłobie"
+section: "carol"
+color: "carol"
+tone: "D"
+songid: "S717AchUbogiZlobie"
+author:
+  - "trt"
+  - "PSt"
+year: 1767
+address:
+  - what: "Łk"
+    where: "2, 16"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+index:
+  - "ach"
+  - "barłóg"
+  - "bydlę"
+  - "czoło"
+  - "drogi"
+  - "droższy"
+  - "gorzki"
+  - "grzech"
+  - "łzy"
+  - "śliczny"
+  - "świat"
+  - "leżeć"
+  - "żłób"
+  - "maleńki"
+  - "móc"
+  - "między"
+  - "największy"
+  - "niebo"
+  - "obmyć"
+  - "obrać"
+  - "opuścić"
+  - "osoba"
+  - "ozdoba"
+  - "pałac"
+  - "płaczący"
+  - "przybywać"
+  - "przyjąć"
+  - "serce"
+  - "siebie"
+  - "składać"
+  - "skruszony"
+  - "sprośność"
+  - "stajenka"
+  - "struchleć"
+  - "twarz"
+  - "ubogi"
+  - "uderzać"
+  - "upadać"
+  - "widok"
+  - "widzieć"
+  - "witać"
+  - "wszystek"
+  - "wylewać"
+  - "zalać"
+  - "Zbawiciel"
+  - "zdrętwieć"
+  - "zmiłować"
+  - "zmyć"
+  - "zmywać"
+===
+
+[D]Ach, ubogi żłobie,
+cóż ja widzę [A]w tobie?
+Droższy widok, niż ma [D]niebo,
+[A]w maleńkiej o[D]sobie.
+
+[D]Zbawicielu drogi,
+takżeś to u[A]bogi!
+Opuściłeś śliczne [D]niebo,
+[A]obrałeś bar[D]łogi.
+
+[D]Czyżeś nie mógł sobie,
+w największej o[A]zdobie
+obrać pałacu dro[D]giego,
+[A]nie w tym leżeć [D]żłobie?
+
+[D]Gdy na świat przybywasz,
+grzechy z niego [A]zmywasz;
+A na zmycie tej spro[D]sności
+[A]gorzkie łzy wy[D]lewasz.
+
+[D]Któż tu nie struchleje,
+wszystek nie zdrę[A]twieje?
+Któż Cię widząc płaczą[D]cego
+[A]łzą się nie za[D]leje?
+
+[D]Na twarz upadamy,
+czołem ude[A]rzamy,
+witając Cię w tej sta[D]jence
+[A]między bydlę[D]tami.
+
+[D]Zmiłuj się nad nami,
+obmyj z grzechów [A]łzami,
+przyjmij serca te skru[D]szone,
+[A]które Ci skła[D]damy.

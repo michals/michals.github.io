@@ -1,0 +1,77 @@
+===
+title: "O Boże, przez imię Twoje wybaw mnie"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S136OBozePrzezImieTwoje"
+author:
+  - "K"
+year: 2000
+address:
+  - what: "Ps"
+    where: "54"
+knownas:
+  - "O Boże, wysłuchaj mej modlitwy"
+  - "2000"
+index:
+  - "Bóg"
+  - "cały"
+  - "czyhać"
+  - "dać"
+  - "dobry"
+  - "gwałtownik"
+  - "imię"
+  - "każdy"
+  - "życie"
+  - "modlitwa"
+  - "nakłonić"
+  - "ofiara"
+  - "oko"
+  - "Pan"
+  - "podtrzymywać"
+  - "pomoc"
+  - "potęga"
+  - "powstać"
+  - "przeciwko"
+  - "serce"
+  - "słowa"
+  - "słuszność"
+  - "sprawa"
+  - "stawiać"
+  - "ucho"
+  - "udręka"
+  - "usta"
+  - "wielbić"
+  - "wybawić"
+  - "wysłuchać"
+  - "wyzwolić"
+  - "złożyć"
+  - "zuchwalec"
+===
+
+KW:
+[a]O Boże, przez imię Twoje [F7]wybaw mnie,
+[d]przez Twoją potęgę słuszność daj mej [E]sprawie.
+[a]O Boże, wysłuchaj mej mod[F7]litwy,
+[d]nakłoń ucha na słowa ust [E]moich.
+
+K:
+[A7]Albowiem powstali przeciwko mnie zuch[d]walcy
+i gwałtow[B7]nicy czyhają na me [A7]życie;
+przed [B7]swymi oczami nie stawiają [A7]Boga,
+przed [B7]swymi oczami nie stawiają [A7]Boga.
+W:
+Lecz [d]oto Bóg jest mą po[A7]mocą,
+i [d]Pan, i Pan mnie podtrzy[A7]muje.
+K:
+[g]Z całego serca złożę Ci o[A7]fiarę,
+[g]będę wielbił Twoje imię, bo jest [A7]dobre.
+Z każdej ud[B]ręki Ty mnie wyzwo[A]liłeś,
+[C]z każdej udręki mnie wyzwo[A]liłeś,
+[C]z każdej udręki [E]mnie wyzwoliłeś.
+
+W:
+[a]O Boże, przez imię Twoje [F7]wybaw mnie,
+[d]przez Twoją potęgę słuszność daj mej [E]sprawie.
+[a]O Boże, wysłuchaj mej mod[F7]litwy,
+[d]nakłoń ucha na słowa ust [E]moich.

@@ -1,0 +1,109 @@
+===
+title: "Barankowi Paschalnemu"
+subtitle: "Sekwencja na Paschę"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S071BarankowiPaschalnemu"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*HYM"
+    where: ""
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*OPE"
+    where: ""
+alttone:
+  - "cis"
+knownas:
+  - "Victimae paschali laudes"
+  - "Śmierć i życie spotkały się ze sobą"
+index:
+  - "anioł"
+  - "Baranek"
+  - "całun"
+  - "Chrystus"
+  - "chwała"
+  - "dać"
+  - "droga"
+  - "dzisiaj"
+  - "Galilea"
+  - "grób"
+  - "grzesznik"
+  - "Król"
+  - "śmierć"
+  - "święta"
+  - "życie"
+  - "żywy"
+  - "Maria"
+  - "nadzieja"
+  - "naprawdę"
+  - "niewinny"
+  - "odkupić"
+  - "ofiara"
+  - "Ojciec"
+  - "opaska"
+  - "opowiedzieć"
+  - "owczarnia"
+  - "Pan"
+  - "paschalny"
+  - "pewny"
+  - "pojednać"
+  - "pojedynek"
+  - "przedziwny"
+  - "pusty"
+  - "siebie"
+  - "spotkać"
+  - "teraz"
+  - "tryumfować"
+  - "twórca"
+  - "umarły"
+  - "uwielbienie"
+  - "wyprzedzać"
+  - "wznieść"
+  - "zbawienie"
+  - "zmartwychwstać"
+  - "zobaczyć"
+  - "zwycięski"
+===
+
+K:
+[a]Barankowi Paschalnemu[A7]
+niech się wzniesie dzisiaj                 święta ofiara uwiel[dNmS]bienia,
+[FSp]Baranek odkupił swą ow[E]czarnię,
+[dNmS]niewinny [F]pojednał nas          grzeszników [E]z Ojcem.
+
+K:
+[a]Śmierć i [A7]życie spotkały się ze sobą
+w przedziwnym pojedyn[dNmS]ku.
+[FSp]Twórca życia był u[E]marły,
+a [dNmS]teraz jest [F]żywy i tryum[E]fuje.
+
+„[A7]Opowiedz nam, Mario,                 coś zobaczyła po drodze:”
+„[FSp]Grób mojego Pana [E]pusty,
+[dNmS]Chwałę [F]Pana i żywego Chry[E]stusa,
+[F]aniołów, opaski i [E]całun”.
+
+K:
+„Bowiem [F]Chrystus, ma nadzieja,            zmart[E]wychwstał
+[F]i nas wyprzedza do Gali[E]lei”,
+W:
+[F]i nas wyprzedza do Gali[E]lei.
+
+K:
+[d]Tak, jesteśmy [E]pewni:
+[FSp]Chrystus na[F]prawdę zmart[E]wychwstał!
+
+W:
+[d]Tak, jesteśmy [E]pewni:
+[F]Chrystus naprawdę zmart[E]wychwstał!
+
+[F]I nas wyprzedza do Gali[E]lei,
+[F]i nas wyprzedza do Gali[E]lei.
+
+K:
+[F]Ty, Królu zwycięski,daj nam Twoje zba[E]wienie!

@@ -1,0 +1,115 @@
+===
+title: "Idźcie i ogłoście moim braciom"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S134IdzcieIogloscieMoimBraciom"
+author:
+  - "K"
+year: 1999
+address:
+  - what: "Mt"
+    where: "28, 7-10.16-20"
+  - what: "*OPA"
+    where: ""
+  - what: "*ZAK"
+    where: ""
+knownas:
+  - "Oto Ja jestem z wami"
+  - "1999"
+index:
+  - "brat"
+  - "chrzcić"
+  - "dać"
+  - "Duch"
+  - "dzień"
+  - "Galilea"
+  - "góra"
+  - "iść"
+  - "imię"
+  - "Jezus"
+  - "koniec"
+  - "świat"
+  - "święty"
+  - "naród"
+  - "nauczać"
+  - "niebo"
+  - "oddać"
+  - "ogłosić"
+  - "Ojciec"
+  - "On"
+  - "pokłon"
+  - "powiedzieć"
+  - "przykazać"
+  - "Syn"
+  - "uczeń"
+  - "uczyć"
+  - "udać"
+  - "ujrzeć"
+  - "więc"
+  - "władza"
+  - "wskazać"
+  - "wszelki"
+  - "wszystek"
+  - "wszystko"
+  - "zachowywać"
+  - "ziemia"
+  - "zobaczyć"
+===
+
+KW:
+„[a]Idźcie i ogłoście moim braciom,
+niech [G]idą do Gali[a]lei.
+K:
+[E]bo tam Mnie zobaczą,
+W:
+bo tam Mnie zo[a]baczą.”
+
+K:
+[a]Uczniowie uda[d]li się do Gali[a]lei
+na górę, którą [d]Jezus im [a]wskazał.
+Kiedy uj[E]rzeli Go, oddali mu [a]pokłon.
+[F]A Jezus im po[E]wiedział:
+K:
+„[C]Dana mi jest wszelka [G]władza
+w niebie i na [C]ziemi.
+K:
+Idźcie więc i nau[G]czajcie
+wszystkie na[C]rody,
+[a]chrzcząc je w imię [E]Ojca,
+i Syna i Ducha Świę[a]tego
+i [F]ucząc je zachowywać
+to wszystko, co Ja wam przyka[E]załem.
+
+KW:
+[a]Oto Ja jestem z wami,
+oto Ja jestem [G]z wami
+przez wszystkie [a]dni.
+
+W:
+[a]Idźcie i ogłoście moim braciom,
+niech [G]idą do Gali[a]lei.
+[a]Idźcie i ogłoście moim braciom,
+niech [G]idą do Gali[a]lei.
+
+{{{ 2x
+W:
+[a]Oto Ja jestem z wami,
+oto Ja jestem [G]z wami
+przez wszystkie [a]dni,
+}}}
+K:
+aż do końca św[E]iata,
+W:
+aż do końca św[a]iata.”
+
+W:
+[a]Idźcie i ogłoście moim braciom,
+niech [G]idą do Gali[a]lei.
+[a]Idźcie i ogłoście moim braciom,
+niech [G]idą do Gali[a]lei,
+
+W:
+[a]Oto Ja jestem z wami,
+oto Ja jestem [G]z wami
+przez wszystkie [a]dni.

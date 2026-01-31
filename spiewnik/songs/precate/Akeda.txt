@@ -1,0 +1,84 @@
+===
+title: "Akedá"
+subtitle: "Targum Neofiti na ofiarę Izaaka"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S222Akeda"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Rdz"
+    where: "22, 9-10"
+  - what: "*OPA"
+    where: ""
+  - what: "*PAS"
+    where: ""
+knownas:
+  - "Była jeszcze noc"
+  - "Zwiąż mnie, zwiąż mnie mocno"
+  - "1979"
+index:
+  - "Abraham"
+  - "akedá"
+  - "czas"
+  - "Izaak"
+  - "jeszcze"
+  - "lęk"
+  - "mocny"
+  - "nadstawiać"
+  - "najdroższy"
+  - "noc"
+  - "obydwa"
+  - "odrzucić"
+  - "ofiara"
+  - "ojciec"
+  - "oko"
+  - "opierać"
+  - "patrzeć"
+  - "poświęcać"
+  - "powiedzieć"
+  - "prosty"
+  - "przygotowywać"
+  - "przyjść"
+  - "siebie"
+  - "syn"
+  - "szyja"
+  - "ważny"
+  - "wiara"
+  - "wtedy"
+  - "ziemia"
+  - "złożyć"
+  - "zobaczyć"
+  - "związać"
+===
+
+K:
+[a]Była jeszcze noc, kiedy A[dNmS]braham,
+przygotowywał się, by złożyć syna w o[a]fierze;
+obydwaj patrzyli sobie prosto [dNmS]w oczy
+i wtedy Izaak po[E]wiedział:
+KW:
+„Ake[a]dá, ake[dNmS]dá, akedá, ake[a]dá.”
+
+K:
+„[a]Zwiąż mnie, zwiąż mnie mocno, ojcze [dNmS]mój,
+bym czasem z lęku się nie o[a]pierał
+i wtedy nieważna będzie twoja o[dNmS]fiara,
+i obydwaj będziemy odrzu[E]ceni!”
+W:
+„Ake[a]dá, ake[dNmS]dá, akedá, ake[a]dá.”
+KW:
+„[a]Zwiąż mnie, zwiąż mnie [dNmS]mocno
+ojcze mój, bym się nie o[a]pierał!”
+
+K:
+[a]Przyjdźcie i zobaczcie wiarę na ziemi,
+przyjdźcie i zobaczcie wiarę na [dNmS]ziemi:
+ojciec, który poświęca swego syna,
+a syn najdroższy nadstawia swą [E]szyję!
+W:
+„Ake[a]dá, ake[dNmS]dá, akedá, ake[a]dá.”
+„[a]Zwiąż mnie, zwiąż mnie [dNmS]mocno
+ojcze mój, bym się nie o[a]pierał!”

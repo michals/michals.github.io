@@ -1,0 +1,86 @@
+===
+title: "Chwalcie Boga"
+section: "precate"
+color: "precate"
+tone: "A"
+songid: "S043ChwalcieBoga"
+author:
+  - "AS"
+year: 1992
+address:
+  - what: "Ps"
+    where: "150"
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "1967"
+  - "Alleluja, alleluja, alleluja"
+index:
+  - "alleluja"
+  - "Bóg"
+  - "bębenek"
+  - "brzmiący"
+  - "chwalić"
+  - "cymbały"
+  - "dźwięczny"
+  - "dźwięk"
+  - "donośny"
+  - "dzieło"
+  - "firmament"
+  - "flet"
+  - "gitara"
+  - "harfa"
+  - "święty"
+  - "żyć"
+  - "majestat"
+  - "On"
+  - "Pan"
+  - "przy"
+  - "przybytek"
+  - "struna"
+  - "taniec"
+  - "trąba"
+  - "wielbić"
+  - "wielki"
+  - "wśród"
+  - "wszystko"
+  - "wtór"
+  - "wysławiać"
+  - "wysoki"
+  - "wzniosły"
+===
+
+W:
+[E]Alle[A]luja, [D]alle[A]luja, [D]alle[A]lu[E]ja.
+[A]Alle[D]luja, [A]alle[E]luja, [D]allelu[E]ja.
+
+K:
+[E]Chwalcie [A]Boga w Jego [D]świętym przy[A]bytku,
+[D]chwalcie na wy[A]sokim firma[E]mencie,
+[A]chwalcie Go za [D]wielkie [A]Jego [E]dzieła,
+[D]chwalcie Jego wzniosły ma[E]jestat.
+
+W:
+[E]Alle[A]luja, [D]alle[A]luja, [D]alle[A]lu[E]ja.
+[A]Alle[D]luja, [A]alle[E]luja, [D]allelu[E]ja.
+
+K:
+[E]Chwalcie Go przy [A]dźwięku do[D]nośnej [A]trąby,
+[D]chwalcie Go na [A]harfach i gi[E]tarach,
+[A]chwalcie bęben[D]kami, [A]chwalcie wśród [E]tańców,
+[D]chwalcie Go na strunach i na [E]fletach.
+
+W:
+[E]Alle[A]luja, [D]alle[A]luja, [D]alle[A]lu[E]ja.
+[A]Alle[D]luja, [A]alle[E]luja, [D]allelu[E]ja.
+
+K:
+[E]Chwalcie Go przy [A]wtórze [D]dźwięcznych cym[A]bałów,
+[D]chwalcie Go [A]na cymbałach [E]brzmiących;
+W:
+[A]wszystko, co [D]żyje, niech [A]wielbi [E]Pana.
+[D]Chwalcie i wysławiajcie [E]Boga.
+
+W:
+[E]Alle[A]luja, [D]alle[A]luja, [D]alle[A]lu[E]ja.
+[A]Alle[D]luja, [A]alle[E]luja, [D]allelu[E]ja.

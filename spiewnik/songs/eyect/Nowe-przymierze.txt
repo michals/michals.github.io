@@ -1,0 +1,104 @@
+===
+title: "Nowe przymierze"
+section: "eyect"
+color: "eyect"
+tone: "h"
+songid: "S508NowePrzymierze"
+author:
+  - "KK"
+year: 1986
+address:
+  - what: "Jer"
+    where: "31, 31-34"
+knownas:
+  - "["
+  - "Pieśń o nowym przymierzu"
+index:
+  - "Bóg"
+  - "czas"
+  - "dno"
+  - "dom"
+  - "dzień"
+  - "egipski"
+  - "głębina"
+  - "grzech"
+  - "Izrael"
+  - "jestestwo"
+  - "mimo"
+  - "musieć"
+  - "nadchodzić"
+  - "najmniejszy"
+  - "największy"
+  - "naród"
+  - "nowy"
+  - "odnowić"
+  - "odpuścić"
+  - "pouczać"
+  - "poznać"
+  - "prawo"
+  - "przyjść"
+  - "przymierze"
+  - "ręka"
+  - "serce"
+  - "taki"
+  - "ująć"
+  - "umieścić"
+  - "władca"
+  - "wszyscy"
+  - "wypisać"
+  - "wyprowadzić"
+  - "występek"
+  - "wzajemny"
+  - "wziąć"
+  - "zapomnieć"
+  - "zawrzeć"
+  - "ziemia"
+  - "złamać"
+===
+
+W:
+[D]Oto nadchodzą [A]dni, oto nadchodzą [h]dni,
+kiedy [D]nowe przymierze, kiedy [A]nowe przymierze               [e]zawrę z narodem Izra[h]ela.
+kiedy [D]nowe przymierze, kiedy [A]nowe przymierze[e]zawrę z na[Fis]rodem Izra[h]ela.
+W:
+[h]Był taki czas, były takie [e]dni,
+K:
+kiedy zawarłem przymierze                                                  z domem Izra[h]ela.
+W:
+Był taki czas, były takie [e]dni,
+K:
+kiedy ująłem ich za ręce,                                         by wyprowadzić z ziemi e[h]gipskiej,
+lecz [fis]oni, lecz [e]oni                                  moje przymierze zła[h]mali,
+mimo, że [fis]Ja, mimo, że [e]Ja                                  byłem ich [Fis]władcą!
+W:
+[h]Przyjdzie taki czas, przyjdą takie [e]dni,
+K:
+kiedy odnowię przymierze                                                  z domem Izra[h]ela.
+W:
+Przyjdzie taki czas, przyjdą takie [e]dni,
+K:
+kiedy wezmę ich za ręce,                                          by wyprowadzić z ziemi e[h]gipskiej.
+I [fis]Ja, i [e]Ja będę im [h]Bogiem,
+a [fis]oni, a [e]oni będą mi na[Fis]rodem!
+
+{{{ 2x
+W:
+Wy[D]piszę swe prawo, wy[A]piszę swe prawo
+[e]na dnie ich [h]serca.
+Um[D]ieszczę swe prawo, um[A]ieszczę swe prawo
+w głę[e]binach [Fis]ich je[h]stestwa!
+}}}
+W:
+[h]Przyjdzie taki czas, przyjdą takie [e]dni,
+K:
+kiedy nie będą musieli                                               wzajemnie się po[h]uczać.
+W:
+Przyjdzie taki czas, przyjdą takie [e]dni,
+K:
+kiedy wszyscy od najmniejszego                                         do największego poznają [h]Mnie!
+Bo [fis]Ja, bo [e]Ja                                      odpuszczę im wy[h]stępki,
+bo [fis]Ja, bo [e]Ja                                    zapomnę o ich [Fis]grzechach!
+W:
+[D]Oto nadchodzą [A]dni, oto nadchodzą [h]dni,
+kiedy [D]nowe przymierze, kiedy [A]nowe przymierze              [e]zawrę z narodem Izra[h]ela.
+kiedy [D]nowe przymierze, kiedy [A]nowe przymierze[e]zawrę z na[Fis]rodem Izra[h]ela.

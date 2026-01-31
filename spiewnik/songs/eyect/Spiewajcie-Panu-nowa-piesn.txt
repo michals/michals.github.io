@@ -1,0 +1,83 @@
+===
+title: "Śpiewajcie Panu nową pieśń"
+section: "eyect"
+color: "eyect"
+tone: "C"
+songid: "S153SpiewajciePanuNowaPiesn"
+author:
+  - "FVS"
+year: 2016
+address:
+  - what: "Ps"
+    where: "149, 1-5"
+index:
+  - "bęben"
+  - "chwała"
+  - "cieszyć"
+  - "cytra"
+  - "czcić"
+  - "grać"
+  - "imię"
+  - "Izrael"
+  - "Król"
+  - "śpiewać"
+  - "święty"
+  - "lud"
+  - "miłować"
+  - "niebieski"
+  - "nowy"
+  - "On"
+  - "Pan"
+  - "pieśń"
+  - "pokorny"
+  - "przy"
+  - "radować"
+  - "stwórca"
+  - "Syjon"
+  - "syn"
+  - "taniec"
+  - "uczta"
+  - "weselić"
+  - "wieńczyć"
+  - "zwycięstwo"
+===
+
+W:
+[C]Śpiewajcie Panu [F]pieśń.
+Śpie[G]wajcie Panu [C]pieśń.
+Śpiewajcie Panu [F]pieśń.
+Śpie[G]wajcie nową [C]pieśń.
+[C]Śpiewajcie Panu [F]pieśń.
+Śpie[G]wajcie Panu [C]pieśń.
+Śpiewajcie Panu [F]pieśń.
+Śpie[G]wajcie nową [C]pieśń.
+
+K:
+[C]Niech się Izrael cieszy swoim Stwórcą,
+a sy[a]nowie Syjonu radują swym [G]Królem.
+Niech [C]imię [G7]Jego czczą [F]tańcem,
+niech grają [G]Mu na bębnie i cytrze[C].
+W:
+[C]Śpiewajcie Panu [F]pieśń.
+Śpie[G]wajcie Panu [C]pieśń.
+Śpiewajcie Panu [F]pieśń.
+Śpie[G]wajcie nową [C]pieśń.
+[C]Śpiewajcie Panu [F]pieśń.
+Śpie[G]wajcie Panu [C]pieśń.
+Śpiewajcie Panu [F]pieśń.
+Śpie[G]wajcie nową [C]pieśń.
+
+K:
+[C]Bo Pan swój lud miłuje,
+[a]pokornych wieńczy zwy[G]cięstwem.
+Niech [C]święci się [G7]cieszą [F]w chwale,
+niech się we[G]selą przy uczcie niebieskiej[C].
+W:
+[C]Śpiewajcie Panu [F]pieśń.
+Śpie[G]wajcie Panu [C]pieśń.
+Śpiewajcie Panu [F]pieśń.
+Śpie[G]wajcie nową [C]pieśń.
+[C]Śpiewajcie Panu [F]pieśń.
+Śpie[G]wajcie Panu [C]pieśń.
+Śpiewajcie Panu [F]pieśń.
+Śpie[G]wajcie nową [C]pieśń.

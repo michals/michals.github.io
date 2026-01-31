@@ -1,0 +1,146 @@
+===
+title: "Anioł przyszedł z nieba"
+subtitle: "Kolęda"
+section: "precate"
+color: "precate"
+tone: "d"
+songid: "S157CoZaRadoscDzisZbawicielRodziSie"
+author:
+  - "K"
+year: 2016
+address:
+  - what: "Łk"
+    where: "2, 9-12.15-16"
+  - what: "Iz"
+    where: "1, 3"
+  - what: "*DZI"
+    where: ""
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+knownas:
+  - "Dziś anioł przyszedł z nieba"
+  - "Co za radość, dziś narodził się Zbawiciel"
+  - "2010"
+children: true
+index:
+  - "anioł"
+  - "betlejemski"
+  - "Chrystus"
+  - "dać"
+  - "dar"
+  - "doba"
+  - "dziecię"
+  - "dziś"
+  - "Emmanuel"
+  - "Izrael"
+  - "Józef"
+  - "Jezus"
+  - "leżeć"
+  - "żłób"
+  - "Maryja"
+  - "narodzić"
+  - "nic"
+  - "niebo"
+  - "nowina"
+  - "osioł"
+  - "osiołek"
+  - "pan"
+  - "Pan"
+  - "pasterz"
+  - "pielucha"
+  - "powicie"
+  - "poznać"
+  - "przybyć"
+  - "przyjść"
+  - "przynosić"
+  - "radość"
+  - "rodzić"
+  - "rozpoznawać"
+  - "rozumieć"
+  - "serce"
+  - "spotkać"
+  - "stajnia"
+  - "szczery"
+  - "udzielać"
+  - "wół"
+  - "wielki"
+  - "właściciel"
+  - "Zbawiciel"
+  - "znak"
+  - "zwać"
+  - "zwyczajny"
+===
+
+KW:
+[d]Dziś Anioł przyszedł z nieba
+przynosząc wielką nowinę:
+KW:
+[g]„Oto wam się [d]rodzi,
+oto [A]rodzi się Zba[d]wiciel”.
+{{{ 2x
+W:
+Co za [F]radość, co za radość,
+co za [A]radość,
+dziś Zba[B]wiciel jest nam dan.
+O tej [Des]dobie leży w żłobie
+Jezus Chrystus [C7]Pan.
+}}}
+KW:
+[d]Leży w zwyczajnym żłobie,
+pieluchy to Jego powicie
+KW:
+[g]i to będzie [d]znakiem,
+że na[A]rodził się Zba[d]wiciel.
+{{{ 2x
+W:
+Co za [F]radość, co za radość,
+co za [A]radość,
+dziś Zba[B]wiciel jest nam dan.
+O tej [Des]dobie leży w żłobie
+Jezus Chrystus [C7]Pan.
+}}}
+KW:
+[d]Do stajni Betlejemskiej
+przybyli pasterze,
+KW:
+[g]Zbawicielowi przy[d]noszą
+swoje [A]dary z serca [d]szczerze.
+
+{{{ 2x
+W:
+Co za [F]radość, co za radość,
+co za [A]radość,
+dziś Zba[B]wiciel jest nam dan.
+O tej [Des]dobie leży w żłobie
+Jezus Chrystus [C7]Pan.
+}}}
+KW:
+[d]Spotkali tam Maryję,
+Józefa też poznali.
+KW:
+[g]Wołu, osiołka i [d]dziecię,
+co Em[A]manuel będzie [d]zwany.
+{{{ 2x
+W:
+Co za [F]radość, co za radość,
+co za [A]radość,
+dziś Zba[B]wiciel jest nam dan.
+O tej [Des]dobie leży w żłobie
+Jezus Chrystus [C7]Pan.
+}}}
+KW:
+[d]Wół rozpoznaje pana
+a osioł żłób właściciela,
+KW:
+Lecz I[g]zrael nic nie ro[d]zumie,
+radość [A]mu się nie u[d]dziela.
+{{{ 2x
+W:
+Co za [F]radość, co za radość,
+co za [A]radość,
+dziś Zba[B]wiciel jest nam dan.
+O tej [Des]dobie leży w żłobie
+Jezus Chrystus [C7]Pan.
+}}}

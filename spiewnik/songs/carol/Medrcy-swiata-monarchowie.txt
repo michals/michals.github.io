@@ -1,0 +1,127 @@
+===
+title: "Mędrcy świata, monarchowie"
+section: "carol"
+color: "carol"
+tone: "C"
+songid: "S707MedrcySwiataMonarchowie"
+author:
+  - "SB"
+  - "ZO"
+year: 1878
+address:
+  - what: "Mt"
+    where: "2, 1-12"
+  - what: "*KOL"
+    where: ""
+  - what: "*OBN"
+    where: ""
+knownas:
+  - "Ono w żłobie nie ma tronu"
+index:
+  - "berło"
+  - "Betlejem"
+  - "bić"
+  - "chcieć"
+  - "cieszyć"
+  - "czoło"
+  - "czysty"
+  - "dążyć"
+  - "dać"
+  - "dań"
+  - "dar"
+  - "dawać"
+  - "Dziecię"
+  - "dzierżyć"
+  - "gwiazda"
+  - "Herod"
+  - "Jezus"
+  - "kadzidło"
+  - "kapłan"
+  - "kazać"
+  - "knuć"
+  - "król"
+  - "świat"
+  - "żar"
+  - "żłób"
+  - "Maryja"
+  - "mędrzec"
+  - "miłość"
+  - "mirra"
+  - "modły"
+  - "monarcha"
+  - "nadzieja"
+  - "nic"
+  - "nieść"
+  - "ochota"
+  - "odstraszać"
+  - "ofiara"
+  - "ogłaszać"
+  - "okropny"
+  - "okrutny"
+  - "On"
+  - "pałać"
+  - "Pan"
+  - "powiedzieć"
+  - "praca"
+  - "proroctwo"
+  - "prześladować"
+  - "przyjąć"
+  - "serce"
+  - "składać"
+  - "smutny"
+  - "spieszny"
+  - "spieszyć"
+  - "spisek"
+  - "społem"
+  - "stawać"
+  - "szczęśliwy"
+  - "szczery"
+  - "szerzyć"
+  - "troisty"
+  - "tron"
+  - "trzy"
+  - "trzykroć"
+  - "widzieć"
+  - "wieść"
+  - "zazdrościć"
+  - "Zbawca"
+  - "zgon"
+  - "złość"
+  - "złoto"
+===
+
+[C]Mędrcy świata, [F]monar[C]chowie,
+[d]gdzie spiesznie dą[G]ży[C]cie?
+[C]Powiedzcież nam, [F]trzej Kró[H7]lowie.
+[e]chcecie [G]widzieć [G7]Dzie[C]cię?
+[G7]Ono w żłobie, [C]nie ma tronu
+[d]i ber[C]ła nie dzier[G]ży,
+[C]a proroctwo [F]Jego [H7]zgonu
+[e]już się [G]w świecie [G7]sze[C]rzy.
+
+[C]Mędrcy świata, [F]złość o[C]krutna
+[d]Dziecię prześla[G]du[C]je,
+[C]wieść okropna, [F]wieść to [H7]smutna,
+[e]Herod [G]spisek [G7]knu[C]je.
+[G7]Nic monarchów [C]nie odstrasza,
+[d]do Be[C]tlejem spie[G]szą,
+[C]gwiazda Zbawcę [F]im o[H7]głasza,
+[e]nadzie[G]ją się [G7]cie[C]szą.
+
+[C]Przed Maryją [F]stają [C]społem,
+[d]niosą Panu [G]da[C]ry.
+[C]Przed Jezusem [F]biją [H7]czołem,
+[e]składa[G]ją o[G7]fia[C]ry.
+[G7]Trzykroć szczęśli[C]wi Królowie,
+[d]któż wam [C]nie zazdro[G]ści?
+[C]Cóż my damy, [F]kto nam [H7]powie,
+[e]pała[G]jąc z mi[G7]łoś[C]ci?
+
+[C]Tak, jak każą [F]nam ka[C]płani,
+[d]damy dar tro[G]is[C]ty:
+[C]modły, pracę [F]niosąc [H7]w dani
+[e]i żar [G]serca [G7]czy[C]sty.
+[G7]To kadzidło, [C]mirrę, złoto
+[d]niesiem, [C]Jezu, szcze[G]rze;
+[C]Co dajemy [F]Ci z o[H7]chotą
+[e]od nas [G]przyjm w o[G7]fie[C]rze.

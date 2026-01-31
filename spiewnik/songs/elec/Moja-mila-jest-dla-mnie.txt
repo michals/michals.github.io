@@ -1,0 +1,137 @@
+===
+title: "Moja miła jest dla mnie"
+section: "elec"
+color: "elec"
+tone: "h"
+songid: "S268MojaMilaJestDlaMnie"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Pnp"
+    where: "1, 13-16"
+  - what: "Pnp"
+    where: "2, 1-7"
+index:
+  - "biesiadny"
+  - "budzić"
+  - "córka"
+  - "cień"
+  - "cierń"
+  - "dolina"
+  - "dopóki"
+  - "drzewo"
+  - "dziewczę"
+  - "En-gaddi"
+  - "głowa"
+  - "gołębica"
+  - "grono"
+  - "henna"
+  - "jabłoń"
+  - "jakże"
+  - "jerozolimski"
+  - "kochana"
+  - "komnata"
+  - "łoże"
+  - "leśny"
+  - "lewy"
+  - "lilia"
+  - "miła"
+  - "miłość"
+  - "miły"
+  - "mirra"
+  - "młodzieniec"
+  - "narcyz"
+  - "obejmować"
+  - "oko"
+  - "owoc"
+  - "piękny"
+  - "pierś"
+  - "podniebienie"
+  - "pośród"
+  - "prawa"
+  - "róża"
+  - "ręka"
+  - "rosnąć"
+  - "rozbudzać"
+  - "sala"
+  - "sam"
+  - "saron"
+  - "słodki"
+  - "spoczywać"
+  - "sztandar"
+  - "ukochany"
+  - "umiłowany"
+  - "upragniony"
+  - "uroczy"
+  - "usiąść"
+  - "winnica"
+  - "wino"
+  - "wśród"
+  - "wprowadzić"
+  - "zaklinać"
+  - "zapach"
+  - "zechcieć"
+  - "zieleń"
+===
+
+K:
+[h]Moja miła
+jest [e]dla mnie,
+- narcyz Sa[Fis]ronu,
+[G]róża rosnąca w do[Fis]linach.
+
+W:
+[h]Mój miły
+jest [e]dla mnie
+jak zapach [Fis]mirry,
+spo[G]czywa na mej [Fis]piersi.
+
+K:
+[h]Moja miła
+jest [e]dla mnie,
+jak lilia wśród [Fis]cierni,
+tak moja [G]miła jest pośród [Fis]dziewcząt.
+
+W:
+Mój [h]miły
+jest [e]dla mnie
+jak grono [Fis]henny,
+w win[G]nicach En-[Fis]gaddi.
+
+K:
+Jak [G]piękna jesteś, kochana [Fis]moja,
+o jakże [G]piękna, o jakże [Fis]piękna!
+{{{ 2x
+[e]Twoje oczy jak gołę[Fis]bice.
+}}}
+
+W:
+Jak jesteś [G]piękny mój uko[Fis]chany,
+o jak u[G]roczy, o jak u[Fis]roczy!
+{{{ 2x
+W:
+A [e]nasze łoże jest z zie[Fis]leni.
+}}}
+W:
+[h]Jak jabłoń pośród drzew [e]leśnych,
+tak jest mój umiło[Fis]wany,
+mój umiło[G]wany wśród mło[Fis]dzieńców.
+W uprag[h]nionym jego cieniu [e]usiadłam,
+a owoc jego jest [Fis]słodki,
+o jakże [G]słodki memu podnie[Fis]bieniu!
+KW:
+Wprowadził [G]mnie do komnaty [Fis]z winem,
+a jego sztan[e]darem nade mną jest [Fis]miłość;
+KW:
+wprowadził [G]mnie do sali bie[Fis]siadnej,
+a jego sztan[e]darem nade mną jest [Fis]miłość;
+K:
+lewa jego [G]ręka pod moją [Fis]głową,
+a [G]prawą mnie obej[Fis]muje.
+K:
+Ja zak[h]linam was, o córki jerozo[A]limskie,
+KW:
+nie [G]budźcie, nie rozbudzajcie mi[Fis]łości,
+W:
+do[G]póki nie zechce [Fis]sama.

@@ -1,0 +1,101 @@
+===
+title: "Kantyk trzech młodzieńców w piecu ognistym (1)"
+section: "precate"
+color: "precate"
+tone: "G"
+songid: "S040KantykTrzechMlodziencow1"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Dn"
+    where: "3, 52-57"
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "Błogosławiony jesteś Panie"
+  - "Kantyk Daniela (1)"
+  - "Kantyk stworzeń (1)"
+  - "1977"
+index:
+  - "Bóg"
+  - "błogosławić"
+  - "błogosławiony"
+  - "cherub"
+  - "chwała"
+  - "chwalebny"
+  - "chwalić"
+  - "cześć"
+  - "dzieło"
+  - "godny"
+  - "imię"
+  - "królestwo"
+  - "świątynia"
+  - "święta"
+  - "święty"
+  - "niebo"
+  - "ojciec"
+  - "On"
+  - "Pański"
+  - "Pan"
+  - "przenikać"
+  - "przepaść"
+  - "siedzieć"
+  - "sklepienie"
+  - "tron"
+  - "wiek"
+  - "wszystek"
+  - "wysławiać"
+  - "wzrok"
+===
+
+K:
+[e]Błogosła[G]wiony [fis]jesteś [E]Panie,
+[G]Boże [A]ojców [H]naszych.
+W:
+[e]Godny [D]czci i [e]chwały,
+[D]godny [C]chwały na [H7]wieki.
+
+K:
+[e]Błogosła[G]wione [fis]imię Twe [E]święte,
+[G]imię [A]Twe chwa[H]lebne.
+W:
+[e]Godne [D]czci i [e]chwały,
+[D]godne [C]chwały na [H7]wieki.
+
+K:
+[e]Błogosła[G]wiony [fis]jesteś [E]Panie,
+w Twej [G]świętej, chwa[A]lebnej świą[H]tyni.
+W:
+[e]Godny [D]czci i [e]chwały,
+[D]godny [C]chwały na [H7]wieki.
+
+K:
+[e]Błogosła[G]wiony [fis]jesteś [E]Panie,
+na [G]tronie [A]Twego Kró[H]lestwa.
+W:
+[e]Godny [D]czci i [e]chwały,
+[D]godny [C]chwały na [H7]wieki.
+
+K:
+[e]Błogosła[G]wiony jesteś, [fis]który wzrokiem
+prze[E]nikasz przepaści i [G]siedzisz [A]na che[H]rubach.
+W:
+[e]Godny [D]czci i [e]chwały,
+[D]godny [C]chwały na [H7]wieki.
+
+K:
+[e]Błogosła[G]wiony [fis]jesteś [E]Panie,
+[G]na skle[A]pieniu [H]nieba.
+W:
+[e]Godny [D]czci i [e]chwały,
+[D]godny [C]chwały na [H7]wieki.[e]
+
+K:
+[G]Wszystkie [fis]dzieła [E]Pańskie,
+W:
+[G]błogo[A]sławcie [H]Pana.
+K:
+[e]Chwalcie Go i na [D]wieki wysła[e]wiajcie.
+W:
+[D]Chwalcie Go i na [C]wieki wysła[H7]wiajcie!

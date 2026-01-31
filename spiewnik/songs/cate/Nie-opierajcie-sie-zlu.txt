@@ -1,0 +1,123 @@
+===
+title: "Nie opierajcie się złu"
+section: "cate"
+color: "cate"
+tone: "D"
+songid: "S266NieOpierajcieSieZlu"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Mt"
+    where: "5, 38nn"
+knownas:
+  - "Słyszeliście, że powiedziano"
+  - "1975"
+index:
+  - "błogosławić"
+  - "bliźni"
+  - "czynić"
+  - "deszcz"
+  - "dobry"
+  - "doskonały"
+  - "drugi"
+  - "dwa"
+  - "dziecko"
+  - "grzesznik"
+  - "iść"
+  - "kochać"
+  - "krok"
+  - "ktoś"
+  - "żądać"
+  - "modlić"
+  - "nadstawić"
+  - "niebo"
+  - "nienawidzić"
+  - "Ojciec"
+  - "oko"
+  - "On"
+  - "opierać"
+  - "oszczerca"
+  - "płaszcz"
+  - "policzek"
+  - "powiadać"
+  - "powiedzieć"
+  - "prawować"
+  - "prawy"
+  - "prześladowca"
+  - "słońce"
+  - "słyszeć"
+  - "sprawiać"
+  - "szata"
+  - "tysiąc"
+  - "tysiące"
+  - "uderzyć"
+  - "wróg"
+  - "wschodzić"
+  - "ząb"
+  - "zabierać"
+  - "zabrać"
+  - "zło"
+  - "złoczyńca"
+  - "zły"
+  - "zmuszać"
+  - "zostawić"
+  - "zsyłać"
+  - "zwrot"
+===
+
+K:
+[D]Słyszeliście, że powiedziano:
+[h]oko za oko, ząb za ząb.
+[A]A Ja wam powiadam,
+a Ja wam po[h]wiadam:
+W:
+[D]Nie opierajcie się złu,
+[h]nie opierajcie się złu,
+[A]nie opierajcie się złu,
+nie opierajcie się [h]złu.
+K:
+[h]A jeśli ktoś uderzy cię
+w prawy po[D]liczek,
+[A]nadstaw mu także [h]drugi.
+A jeśli ktoś prawuje się z tobą,
+by zabrać ci [D]szatę,
+[A]zostaw mu także i [h]płaszcz.
+[A]A jeśli zmusza cię ktoś,
+by iść z nim tysiąc kroków,
+idź dwa ty[h]siące.
+[A]A jeśli ktoś zabiera, co twoje,
+nie żądaj [h]zwrotu.
+W:
+[D]Nie opierajcie się złu,
+[h]nie opierajcie się złu,
+[A]nie opierajcie się złu,
+nie opierajcie się [h]złu.
+
+K:
+[D]Słyszeliście, że powiedziano:
+[h]Kochaj bliźniego swego,             nienawidź swego wroga.
+[A]A Ja wam powiadam,
+a Ja wam po[h]wiadam:
+[D]kochajcie waszych wrogów,
+czyńcie dobrze [h]tym, co was nienawidzą,
+[A]módlcie się za waszych prześladowców,
+błogo[h]sławcie waszym oszczercom.
+K:
+[G]Bądźcie doskonali, [h]jak jest doskonały
+Ojciec wasz w niebie:
+[G]bo On jest dobry [A]dla grzeszników,
+[G]bo On jest dobry [A7]dla złoczyńców.
+W:
+[D]Nie opierajcie się złu …
+K:
+[h]A będziecie [D]dziećmi
+waszego Ojca na niebie,
+[A]który sprawia, że słońce wschodzi
+nad dobrymi i nad [h]złymi,
+[A]zsyła deszcz także na [h]złych.
+W:
+[D]Nie opierajcie się złu,
+[h]nie opierajcie się złu,
+[A]nie opierajcie się złu,
+nie opierajcie się [h]złu.

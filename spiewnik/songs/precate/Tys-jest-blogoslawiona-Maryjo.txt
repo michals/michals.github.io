@@ -1,0 +1,89 @@
+===
+title: "Tyś jest błogosławiona, Maryjo"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S110TysJestBlogoslawionaMaryjo"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Łk"
+    where: "1, 42-45"
+  - what: "*MAR"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+alttone:
+  - "c"
+knownas:
+  - "Skądże mi to, że mojego Pana matka"
+  - "Maryjo, szczęśliwa Maryjo"
+  - "Maryjo, Tyś uwierzyła"
+  - "Kantyk Elżbiety"
+index:
+  - "błogosławiona"
+  - "błogosławiony"
+  - "coś"
+  - "dziecko"
+  - "głos"
+  - "Jezus"
+  - "łono"
+  - "Maryja"
+  - "matka"
+  - "między"
+  - "niewiasta"
+  - "owoc"
+  - "Pan"
+  - "poruszyć"
+  - "przychodzić"
+  - "radość"
+  - "skądże"
+  - "skoro"
+  - "słowo"
+  - "spełnić"
+  - "szczęśliwy"
+  - "usłyszeć"
+  - "uwierzyć"
+===
+
+K:
+[a]Tyś jest błogosławio[G]na, Ma[a]ryjo,
+między niewia[G]stami, Ma[a]ryjo!
+i błogosławiony [G]owoc, Ma[a]ryjo,
+owoc łona [G]Twego, [a]Jezus.
+Ma[F]ryjo, Tyś uwie[E]rzyła!
+
+{{{ 2x
+W:
+[a]Skądże mi to, że mojego Pana matka
+przychodzi [G]do mnie, skądże mi [a]to?
+}}}
+
+K:
+[a]Oto skoro usłyszałam Twój [E]głos,
+[d]coś poruszyło się [E]we mnie,
+[d]moje dziecko poruszyło się z ra[E]dości!
+
+{{{ 2x
+W:
+Ma[a]ryjo, szczęśliwa Ma[F]ryjo,
+Tyś uwierzyła, że się spełni słowo [E]Pana!
+}}}
+
+{{{ 2x
+W:
+[a]Skądże mi to, że mojego Pana matka
+przychodzi [G]do mnie, skądże mi [a]to?
+}}}
+
+K:
+[a]Oto skoro usłyszałam Twój [E]głos,
+[d]coś poruszyło się [E]we mnie,
+[d]moje dziecko poruszyło się z ra[E]dości!
+
+{{{ 2x
+W:
+Ma[a]ryjo, szczęśliwa Ma[F]ryjo,
+Tyś uwierzyła, że się spełni słowo [E]Pana!
+}}}

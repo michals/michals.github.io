@@ -1,0 +1,94 @@
+===
+title: "Szczęśliwy człowiek"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S116SzczesliwyCzlowiek"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "Ps"
+    where: "1"
+knownas:
+  - "On będzie jak drzewo zasadzone"
+  - "1988"
+index:
+  - "bezbożny"
+  - "czas"
+  - "człowiek"
+  - "czuwać"
+  - "dawać"
+  - "droga"
+  - "drzewo"
+  - "dzieło"
+  - "dzień"
+  - "grzesznik"
+  - "iść"
+  - "każdy"
+  - "kończyć"
+  - "święty"
+  - "liść"
+  - "nigdy"
+  - "noc"
+  - "On"
+  - "opaść"
+  - "ostać"
+  - "owoc"
+  - "Pan"
+  - "płynąć"
+  - "plewa"
+  - "powieść"
+  - "przystawać"
+  - "psalm"
+  - "rada"
+  - "rozmiatać"
+  - "sąd"
+  - "siadać"
+  - "Słowo"
+  - "szczęśliwy"
+  - "szeptać"
+  - "szyderca"
+  - "towarzystwo"
+  - "udawać"
+  - "upodobanie"
+  - "wiatr"
+  - "wierny"
+  - "woda"
+  - "wspólnota"
+  - "wszystek"
+  - "zamiar"
+  - "zasadzić"
+  - "zły"
+  - "znajdować"
+===
+
+KW:
+[a]Szczęśliwy człowiek,[F] który nie idzie za radą bez[a]bożnych,
+[F]który na drodze grzeszników nie przys[a]taje
+[F]i nie siada w towarzystwie szy[a]derców.
+K:
+[G]Ale znajduje upodobanie w Słowie [E]Pana,
+[G]Jego psalmy [F]szepcze dniem i [E]nocą.
+
+KW:
+On [a]będzie jak drzewo zasa[F]dzone nad płynącą w[a]odą,
+K:
+[F]które daje owoc w swoim [E]czasie.
+[F]Jego liście nigdy nie o[E]padną,
+[G]a wszystko, co czyni, [F]jest u[E]dane.
+[G]Powiodą się wszys[F]tkie jego [E]dzieła.
+
+W:
+[a]Nie tak bezbożni, nie tak.
+Są [F]oni jak plewa, którą wiatr roz[a]miata.
+
+K:
+Nie os[F]toją się bezbożni na [E]sądzie
+[F]ani grzesznicy we wspólnocie [E]świętych,
+[G]bo Pan czuwa nad [F]drogą swoich [E]wiernych,
+ale [F]droga bezbożnych źle się [E]kończy, [F]źle się [E]kończy.
+W:
+[a]Szczęśliwy człowiek,[F] który nie idzie za radą bez[a]bożnych,
+[F]który na drodze grzeszników nie przys[a]taje
+[F]i nie siada w towarzystwie szy[a]derców.

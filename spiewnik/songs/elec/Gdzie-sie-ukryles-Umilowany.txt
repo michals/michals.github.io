@@ -1,0 +1,212 @@
+===
+title: "Gdzie się ukryłeś, Umiłowany?"
+subtitle: "Święty Jan od Krzyża"
+section: "elec"
+color: "elec"
+tone: "a"
+songid: "S298GdzieSieUkrylesUmilowany"
+author:
+  - "K"
+year: 2015
+knownas:
+  - "Jan od Krzyża"
+  - "Pieśń Duchowa"
+  - "Rzucając wdzięków tysiące"
+  - "Tysiąc łask rozlewając"
+  - "2010"
+index:
+  - "ach"
+  - "bór"
+  - "biegnąć"
+  - "blask"
+  - "cały"
+  - "chcieć"
+  - "ciągły"
+  - "cichy"
+  - "cień"
+  - "czarowny"
+  - "czemu"
+  - "czyn"
+  - "dać"
+  - "dawniej"
+  - "dusza"
+  - "dziki"
+  - "góry"
+  - "głębina"
+  - "graniczny"
+  - "grot"
+  - "inny"
+  - "jęk"
+  - "jeden"
+  - "jedynie"
+  - "jedyny"
+  - "jeleń"
+  - "jestestwo"
+  - "jeszcze"
+  - "kędy"
+  - "kochać"
+  - "kraina"
+  - "kwiat"
+  - "łąka"
+  - "żaden"
+  - "życie"
+  - "mądrość"
+  - "móc"
+  - "mdleć"
+  - "miłość"
+  - "miłosny"
+  - "najsłodszy"
+  - "napotkać"
+  - "nauczyć"
+  - "nic"
+  - "oblubieniec"
+  - "obronny"
+  - "oddać"
+  - "oddalić"
+  - "okryć"
+  - "On"
+  - "ozdobić"
+  - "pójść"
+  - "pasterz"
+  - "pełny"
+  - "pić"
+  - "piękno"
+  - "pierś"
+  - "piwnica"
+  - "płacz"
+  - "pochłaniać"
+  - "podążać"
+  - "poprzez"
+  - "postać"
+  - "powiedzieć"
+  - "pragnienie"
+  - "próg"
+  - "prawdziwy"
+  - "przebiegnąć"
+  - "przejść"
+  - "przyrzec"
+  - "puszcza"
+  - "ręka"
+  - "rozkosz"
+  - "rozłóg"
+  - "rzucać"
+  - "schnąć"
+  - "siebie"
+  - "słodycz"
+  - "służba"
+  - "spojrzenie"
+  - "stado"
+  - "staranie"
+  - "strona"
+  - "strzec"
+  - "szata"
+  - "szczyt"
+  - "szukać"
+  - "szybki"
+  - "szyk"
+  - "tajemnica"
+  - "trwać"
+  - "trwoga"
+  - "tysiące"
+  - "uciec"
+  - "uczuć"
+  - "uderzyć"
+  - "ukazać"
+  - "ukryć"
+  - "uleczyć"
+  - "umierać"
+  - "umiłowany"
+  - "ustronie"
+  - "utracić"
+  - "wchodzić"
+  - "wdzięk"
+  - "więcej"
+  - "wiedzieć"
+  - "winna"
+  - "własność"
+  - "wśród"
+  - "wpierw"
+  - "wskroś"
+  - "wszystko"
+  - "wyjść"
+  - "wyniosły"
+  - "wysyłać"
+  - "wzgórze"
+  - "zagaj"
+  - "zająć"
+  - "zajęcie"
+  - "zasadzić"
+  - "zaspokoić"
+  - "zerwać"
+  - "zewnętrzny"
+  - "zieleń"
+  - "zostawić"
+  - "zranić"
+  - "zwiastun"
+  - "zwierz"
+===
+
+K:
+1 [E]Gdzie się ukryłeś, Umiłowany,
+i mnieś wśród jęków zostawił?
+Uciekłeś jak jeleń,
+gdyś mnie wpierw zranił;
+[a]Biegłam za Tobą [F]z płaczem,a Tyś [E]się oddalił.[FSsQp] [E]
+K:
+2 [E]Pasterze, którzy podążacie
+poprzez ustronia na szczyt wzgórza wyniosłego,
+jeżeli kędyś napotkacie
+mego nad wszystko Umiłowanego,
+po[a]wiedzcie, że schnę, [F]mdleję,    i umieram dla [E]Niego![FSsQp] [E]
+K:
+3 [E]Szukając mojej miłości,
+pójdę przez góry i rozłogi.
+Nie zerwę kwiatów,
+przed dzikim zwierzem nie uczuję trwogi,
+[a]przejdę przez szyk o[F]bronny        i graniczne [E]progi![FSsQp] [E]
+K:
+4 [E]Zagaje i puszcze
+rękami mego Oblubieńca zasadzone,
+o łąki pełne zieleni,
+kwiatami ozdobione,
+po[a]wiedzcie, czy przeszedł [F]wśród was,    w którą [E]stronę?[FSsQp] [E]
+W:
+5 [a]Rzucając wdzięków tysiące
+przebiegnął szybko wskroś boru ci[G]chego,
+a jedno tylko spoj[F]rzenie
+i blask Jego postaci
+okrył je szatą piękna czaro[E]wnego.
+
+K:
+6 [E]Aach! I któż uleczyć mnie może!
+Ukaż się mi już prawdziwie, bez [a]cienia!
+I nie chciej więcej wysyłać                                   już do mnie tylko zwias[G]tunów,
+którzy [F]nie zaspokoją mojego prag[E]nienia.                 Ach![FSsQp] [E]
+W:
+5 [a]Rzucając wdzięków tysiące …
+K:
+8 [E]Ach, czemu jeszcze trwasz,
+życie, co nie masz życia prawdziwego?
+I ciągle tylko umierasz
+od uderzenia grotu miłosnego,
+[F]gdy wchodzisz w tajemnice Umiłowa[E]nego.
+K:
+26[E]W winnej piwnicy głębinie
+Rozkosze mego Oblubieńca piłam,
+A kiedym wyszła, w zewnętrznej krainie
+O niczym nie wiedziałam,
+[a]I co dawniej [F]miałam,          wszystko utra[E]ciłam.[FSsQp] [E]
+K:
+27[E]I tam mi piersi dał Jedyny,
+Tam mnie najsłodszej nauczył mądrości,
+Tam Mu oddałam siebie i swe czyny,
+Nie zostawiwszy żadnej własności,
+[a]I tam przy[F]rzekłam            być Jego w mi[E]łości.[FSsQp] [E]
+K:
+28[E]Dusza ma Tobą zajęta jedynie,
+Całe moje jestestwo Twa służba pochłania!
+Nie strzegę już stada
+I nie mam innego starania,
+[a]Zajęciem [F]moim jest słodycz ko[E]chania.[FSsQp] [E]
+
+208]277

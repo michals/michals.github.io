@@ -1,0 +1,94 @@
+===
+title: "Usta dzieci i niemowląt"
+section: "eyect"
+color: "eyect"
+tone: "a"
+songid: "S501UstaDzieciINiemowlat"
+author:
+  - "U"
+year: 1986
+address:
+  - what: "Ps"
+    where: "8"
+  - what: "*BRE"
+    where: ""
+index:
+  - "anioł"
+  - "Bóg"
+  - "chwała"
+  - "człowieczy"
+  - "człowiek"
+  - "dziecko"
+  - "dzieło"
+  - "godność"
+  - "gwiazda"
+  - "imię"
+  - "księżyc"
+  - "mniejszy"
+  - "morze"
+  - "niebo"
+  - "niemowlę"
+  - "niewiele"
+  - "obdarzyć"
+  - "oddawać"
+  - "palce"
+  - "pamiętać"
+  - "Pan"
+  - "patrzeć"
+  - "powietrze"
+  - "przekór"
+  - "przemierzać"
+  - "ptactwo"
+  - "ręka"
+  - "ryba"
+  - "stopa"
+  - "syn"
+  - "szlak"
+  - "tajemny"
+  - "trzoda"
+  - "uczynić"
+  - "usta"
+  - "utwierdzić"
+  - "uwieńczyć"
+  - "wielki"
+  - "władza"
+  - "woda"
+  - "wróg"
+  - "wszystek"
+  - "wszystko"
+  - "zajmować"
+  - "ziemia"
+  - "złożyć"
+  - "zwierzę"
+===
+
+K:
+[a]Usta dzieci i niemowląt [D]chwałę Ci od[a]dają
+[E]na przekór Twoim [a]wrogom.
+W:
+Gdy [h]patrzę na [C]niebo, dzieło palców [D]Twoich,
+[h]księżyc i [C]gwiazdy, któreś Ty utwierdził na [D]niebie:
+[e]Czymże jest [a]człowiek, że pamiętasz [e]o nim,
+[C]czym syn czło[D]wieczy, że się nim zaj[e]mujesz?
+K:
+[e]Uczyniłeś go niewiele mniejszym od a[D]niołów,
+[e]uwieńczyłeś go chwałą i god[D]nością.
+Obda[C]rzyłeś go [D]władzą nad rąk Twych dzie[e]łami,
+[C]wszystko zło[D]żyłeś pod jego [e]stopy.
+W:
+Gdy [h]patrzę na [C]niebo, dzieło palców [D]Twoich,
+[h]księżyc i [C]gwiazdy, któreś Ty utwierdził na [D]niebie:
+[e]Czymże jest [a]człowiek, że pamiętasz [e]o nim,
+[C]czym syn czło[D]wieczy, że się nim zaj[e]mujesz?
+K:
+[e]Wszystkie trzody i zwierzęta [D]ziemi,
+[e]ptactwo w powietrzu i ryby [D]w morzu,
+[C]wszystko, co ta[D]jemne szlaki wód prze[e]mierza.
+[C]Panie, nasz [D]Boże, jak wielkie jest Twe [e]imię.
+W:
+Gdy [h]patrzę na [C]niebo, dzieło palców [D]Twoich,
+[h]księżyc i [C]gwiazdy, któreś Ty utwierdził na [D]niebie:
+[e]Czymże jest [a]człowiek, że pamiętasz [e]o nim,
+[C]czym syn czło[D]wieczy, że się nim zaj[e]mujesz?
+
+163]929

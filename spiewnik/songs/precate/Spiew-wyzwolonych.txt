@@ -1,0 +1,75 @@
+===
+title: "Śpiew wyzwolonych"
+section: "precate"
+color: "precate"
+tone: "C"
+songid: "S067SpiewWyzwolonych"
+author:
+  - "GR"
+year: 1993
+address:
+  - what: "Iz"
+    where: "12, 4-6"
+knownas:
+  - "Chwalcie Pana, bo jest wierny"
+  - "Alleluja, alleluja, alleluja"
+index:
+  - "alleluja"
+  - "cały"
+  - "chwalić"
+  - "dzieło"
+  - "imię"
+  - "Izrael"
+  - "krzyczeć"
+  - "śpiewać"
+  - "święty"
+  - "lud"
+  - "mieszkanka"
+  - "obwieszczać"
+  - "okazać"
+  - "Pan"
+  - "pośród"
+  - "radość"
+  - "rzeczy"
+  - "Syjon"
+  - "uczynić"
+  - "wdzięczny"
+  - "wesele"
+  - "wiadomy"
+  - "wielki"
+  - "wierny"
+  - "wszystek"
+  - "wzywać"
+  - "ziemia"
+===
+
+W:
+([G])Alle[C]luja, alle[G]luja, alle[F][E][a]luja.
+([G])Alle[C]luja, alle[G]luja, alle[F][E][a]luja.
+
+K:
+([G])Chwalcie [C]Pana, bo jest [G]wierny,
+Jego i[F]mienia wzy[E7]wajcie.
+([G])Obwiesz[C]czajcie Jego [G]dzieła
+pośród [F]wszystkich ludów [E7]ziemi.
+W:
+([G])Alle[C]luja, alle[G]luja, alle[F][E][a]luja.
+([G])Alle[C]luja, alle[G]luja, alle[F][E][a]luja.
+
+K:
+([G])Śpie[C]wajcie Panu [G]wdzięcznie,
+bo u[F]czynił wielkie [E7]rzeczy;
+([G])niechaj [C]będzie to [G]wiadome
+na [F]całej naszej [E7]ziemi.
+W:
+([G])Alle[C]luja, alle[G]luja, alle[F][E][a]luja.
+([G])Alle[C]luja, alle[G]luja, alle[F][E][a]luja.
+
+K:
+([G])Krzycz z ra[C]dości i we[G]sela
+mie[F]szkanko Sy[E7]jonu,
+([G])bowiem [C]wielki się o[G]kazał
+w tobie [F]Święty Izra[E7]ela.
+W:
+([G])Alle[C]luja, alle[G]luja, alle[F][E][a]luja.
+([G])Alle[C]luja, alle[G]luja, alle[F][E][a]luja.

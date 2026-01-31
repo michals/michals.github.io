@@ -1,0 +1,245 @@
+===
+title: "Orędzie Paschalne"
+subtitle: "Exultet"
+section: "liturg"
+color: "liturg"
+tone: "a"
+songid: "LExultet"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*PAS"
+    where: ""
+alttone:
+  - "c"
+knownas:
+  - "Niech się cieszą zastępy Aniołów"
+index:
+  - "Adam"
+  - "amen"
+  - "anioł"
+  - "Bóg"
+  - "Baranek"
+  - "błogosławiona"
+  - "blask"
+  - "Chrystus"
+  - "chwała"
+  - "chwalebny"
+  - "ciemności"
+  - "cieszyć"
+  - "cześć"
+  - "człowiek"
+  - "czułość"
+  - "darmowy"
+  - "dług"
+  - "duch"
+  - "dzięki"
+  - "Egipcjanie"
+  - "egipski"
+  - "góra"
+  - "godny"
+  - "godzina"
+  - "grzech"
+  - "gwiazda"
+  - "hymn"
+  - "imię"
+  - "Izrael"
+  - "jako"
+  - "jaśnieć"
+  - "jednogłośny"
+  - "Jezus"
+  - "Kościół"
+  - "Król"
+  - "krew"
+  - "łączyć"
+  - "łaska"
+  - "śmierć"
+  - "śpiew"
+  - "świat"
+  - "światło"
+  - "święto"
+  - "święty"
+  - "świeca"
+  - "liturgia"
+  - "lud"
+  - "martwy"
+  - "matka"
+  - "miejsce"
+  - "miłość"
+  - "naprawdę"
+  - "niebieski"
+  - "niebo"
+  - "niepojęty"
+  - "niewola"
+  - "niewolnik"
+  - "niezmierny"
+  - "noc"
+  - "nowy"
+  - "obmywać"
+  - "odkupić"
+  - "Odkupiciel"
+  - "ofiara"
+  - "ofiarować"
+  - "ograbić"
+  - "ojciec"
+  - "Ojciec"
+  - "On"
+  - "otchłań"
+  - "Pan"
+  - "pascha"
+  - "paschalny"
+  - "pełny"
+  - "pochwalny"
+  - "pogodny"
+  - "poświęcić"
+  - "poranny"
+  - "powracać"
+  - "powstały"
+  - "poznać"
+  - "prosić"
+  - "przedwieczny"
+  - "przedziwny"
+  - "przelać"
+  - "przyjąć"
+  - "przyjemny"
+  - "przywitać"
+  - "radować"
+  - "ręka"
+  - "rozbłysnąć"
+  - "serce"
+  - "skazujący"
+  - "składać"
+  - "skoro"
+  - "skruszyć"
+  - "sługa"
+  - "spłacić"
+  - "sprawiedliwy"
+  - "starodawny"
+  - "Syn"
+  - "szczęśliwy"
+  - "ta"
+  - "tryumf"
+  - "uniesienie"
+  - "uroczysty"
+  - "uwolnić"
+  - "więzy"
+  - "wielki"
+  - "wina"
+  - "woń"
+  - "wspaniały"
+  - "wszechmogący"
+  - "wyrażać"
+  - "wyrok"
+  - "wyrozumiałość"
+  - "wyrywać"
+  - "wysławiać"
+  - "wyzwolić"
+  - "wzbogacić"
+  - "wznieść"
+  - "wznosić"
+  - "zabijać"
+  - "zabrzmieć"
+  - "zachód"
+  - "zaiste"
+  - "zaś"
+  - "zanurzyć"
+  - "zapalony"
+  - "zaprawdę"
+  - "zastęp"
+  - "zgładzić"
+  - "zgromadzenie"
+  - "ziemia"
+  - "złączyć"
+  - "zło"
+  - "zmartwychwstać"
+  - "Zmartwychwstały"
+  - "zmazać"
+  - "znać"
+  - "znak"
+  - "znaleźć"
+  - "zwyciężać"
+  - "zwyciężyć"
+  - "zwycięski"
+===
+
+K:
+[a]Niech się cieszą [G]zastępy Aniołów [a]w niebie.
+Niech się [C]cieszy zgromadzenie nie[a]bieskie,
+a [G]hymn pochwalny niech przywita tryumf Pana Zmartwychwsta[a]łego!
+[F]Niech się cieszy [E]ziemia [F]zanurzona w nowym [E]świetle.
+KW:
+Wspaniały blask [a]Króla zwyciężył ciem[G]ności, ciem[F]ności tego [E]świata!
+K:
+[a]Niech się cieszy Matka [G]Kościół,
+jaśniejąca [a]blaskiem niezmiernej [C]chwały swojego [a]Pana.
+W tym zaś [G]miejscu niech zabrzmi jednogłośny śpiew
+ludu radującego się [a]świętem.
+P:
+[G]Pan [a]z wami.
+W:
+[G]I z duchem [a]twoim.
+P:
+[F]W górę [E]serca.
+W:
+[F]Wznosimy je do [E]Pana.
+P:
+Dzięki składamy Panu, Bogu na[a]szemu!
+W:
+Godne [G]to i sprawie[a]dliwe, Godne [G]to i sprawie[a]dliwe.
+K:
+Zaprawdę godne to i sprawied[G]liwe [a]wyrażać [C]śpiewem uniesienie [a]ducha
+i wys[G]ławiać Ojca Wszechmogącego
+oraz Jego Syna Jezusa Chrystusa, naszego [a]Pana.
+On to spłacił za nas dług A[G]dama Przedwiecznemu [a]Ojcu,
+a Krwią [C]swoją przelaną z m[a]iłości zmazał skazujący wy[G]rok starodawnej [a]winy.
+Oto [F]Święto [E]Paschy, gdy za[F]bija się Ba[E]ranka.
+Oto [F]właśnie ta [E]noc, [F]gdy uwolniłeś naszych ojców z niewoli e[E]gipskiej.
+Oto [F]właśnie ta [E]noc, która nas wy[F]rywa z ciemności [E]zła.
+Oto [F]właśnie ta [E]noc, w której On zwy[F]ciężył ciemności [E]grzechu!
+{{{ 2x
+W:
+[a]To jest ta noc, w której Chrystus skruszył więzy [G]śmierci
+i z otch[F]łani powraca zwy[E]cięski!
+}}}
+
+K:
+[a]O jak przedziwna wyrozu[G]miałość Twej darmowej [a]łaski,
+jak niepo[C]jęta czułość Twej mi[a]łości:
+by wyzwolić niewol[G]nika, poświęciłeś [a]Syna!
+Bez [F]grzechu A[E]dama [F]Chrystus by nas nie od[E]kupił!
+{{{ 2x
+W:
+[a]Szczęśliwa wina, skoro ją zgładził tak wielki Odku[G]piciel,
+szczęśliwa [a]wina!
+}}}
+K:
+[a]O nocy, zaiste błogosła[G]wiona,
+któraś poznała godzinę zmartwychwstania Chry[a]stusa!
+O nocy, zaiste błogosła[G]wiona,
+któraś ograbiła Egipcjan, by wzbogacić Izra[a]ela!
+O nocy, która zło zwy[G]ciężasz, obmywasz [a]winy!
+O nocy, naprawdę chwa[G]lebna, która [F]łączysz człowieka z jego [E]Bogiem!
+{{{ 2x
+W:
+[a]To jest ta noc, w której Chrystus skruszył więzy [G]śmierci
+i z otch[F]łani powraca zwy[E]cięski!
+}}}
+K:
+[a]W tę noc pełną łaski przyjmij, Ojcze [G]Święty, ofiarę po[a]chwalną,
+którą [C]Kościół Tobie składa rękami Twoich [a]sług,
+w uroczystej li[G]turgii paschalnej świecy, znaku nowego [a]światła.
+[F]Prosimy Cię, o [E]Panie,
+[a]aby ta świeca ofiarowana na cześć Twojego i[G]mienia rozbłysła [a]światłem.
+Niech się wzniesie do Ciebie jako woń przy[G]jemna,
+niechaj się złączy z gwiazdami [a]nieba.
+Niech ją znajdzie zapaloną gwiazda po[G]ranna,
+ta [F]gwiazda, która nie zna za[E]chodu.
+[a]Chrystus, Twój Syn, powstały [G]z martwych,
+ja[F]śnieje swoim pogodnym [E]światłem!
+{{{ 2x
+W:
+A[a]men, a[G]men, a[a]men!
+}}}
+
+230]923

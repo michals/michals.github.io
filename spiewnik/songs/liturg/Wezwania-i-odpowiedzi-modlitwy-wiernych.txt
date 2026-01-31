@@ -1,0 +1,53 @@
+===
+title: "Wezwania i odpowiedzi modlitwy wiernych"
+section: "liturg"
+color: "liturg"
+tone: "e"
+songid: "S000OdpowiedziNaModlitwy"
+author:
+  - "K"
+year: 2023
+alttone:
+  - "e"
+  - "fis"
+knownas:
+  - "Odpowiedzi na modlitwy"
+  - "Melodie wezwań i odpowiedzi na Modlitwę"
+  - "2023"
+index:
+  - "Jezus"
+  - "królestwo"
+  - "lud"
+  - "ojciec"
+  - "Pan"
+  - "teraz"
+  - "wołanie"
+  - "wspomnieć"
+  - "wysłuchać"
+===
+
+1.
+
+K:
+[G]Wysłuchaj nas Pa[D][G]nie
+W:
+[a]Wysłuchaj nas [e] [H7] [e]Panie
+
+2.
+
+W:
+[e]Wysłuchaj nas
+[D]O, P[e]anie
+
+3.
+
+W:
+[G]Jezu, wspomnij na[D][G] nas,
+[a]teraz, gdy jesteś w swoim Kró[e][H7][e]lestwie
+
+4.
+
+W:
+[e]Wy[E7]słuchaj, [a]ojcze, [H7]wołania twego [e]ludu.
+
+0]900

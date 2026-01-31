@@ -1,0 +1,89 @@
+===
+title: "Caritas Christi urget nos"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S287CaritasChristi"
+author:
+  - "K"
+year: 1999
+address:
+  - what: "2 Kor"
+    where: "5, 14-15.17.21"
+  - what: "1 Kor"
+    where: "9, 16b"
+  - what: "*OWP"
+    where: ""
+knownas:
+  - "Biada mi, gdybym nie głosił ewangelii"
+  - "Miłość Chrystusa przynagla nas"
+  - "1996"
+index:
+  - "Bóg"
+  - "biada"
+  - "Boży"
+  - "caritas"
+  - "Christi"
+  - "Chrystus"
+  - "ewangelia"
+  - "gdyby"
+  - "głosić"
+  - "grzech"
+  - "jeden"
+  - "ktoś"
+  - "świadomy"
+  - "żyć"
+  - "miłość"
+  - "minąć"
+  - "nos"
+  - "nowy"
+  - "On"
+  - "przynaglać"
+  - "siebie"
+  - "skoro"
+  - "sprawiedliwość"
+  - "stać"
+  - "stary"
+  - "stworzenie"
+  - "uczynić"
+  - "umarły"
+  - "umrzeć"
+  - "urget"
+  - "więcej"
+  - "wszyscy"
+  - "wszystko"
+  - "zmartwychwstać"
+  - "znać"
+===
+
+W:
+[a]Caritas Christi [C]urget [E]nos!
+[F]Caritas Christi urget [E]nos!
+
+W:
+[a]Miłość Chrystusa[C]przynagla nas, świadomych [E]tego;
+[F]Miłość Chrystusa                   przynagla nas, świadomych [E]tego,
+[a]że skoro jeden umarł za wszystkich,        [C]wszyscy są u[E]marli;
+[F]że skoro Chrystus umarł za wszystkich,                    wszyscy są u[E]marli.
+
+K:
+[d]A umarł On za wszystkich, aby ci, co [E]żyją,
+[d]nie żyli już więcej dla [E]siebie,
+[F]ale dla Tego, który [dNmS]umarł
+[G]i zmartwychwstał za [E]nic[F][E]h
+W:
+[a]Caritas Christi [C]urget [E]nos!
+[F]Caritas Christi urget [E]nos!
+
+K:
+[d]Jeśli ktoś jest w Chrystusie,                 jest nowym stwo[E]rzeniem.
+[d]To co stare minęło, a oto wszystko jest [E]nowe.
+[F]Tego, który nie znał [dNmS]grzechu,                    uczynił Bóg grzechem,
+[G]abyśmy stali się sprawiedliwością Bożą [E]w Nim.
+
+KW:
+[a]Biada mi[A7], gdybym nie głosił Ewan[d]gelii!
+Biada [E]mi! Biada [a]mi!
+W:
+[a]Caritas Christi [C]urget [E]nos!
+[F]Caritas Christi urget [E]nos!

@@ -1,0 +1,86 @@
+===
+title: "Modlitwa eucharystyczna IV"
+subtitle: "Anamneza i Ofiarowanie"
+section: "liturg"
+color: "liturg"
+tone: "a"
+songid: "L00ME4Me"
+author:
+  - "K"
+year: 2020
+address:
+  - what: "*MSZ"
+    where: ""
+alttone:
+  - "a"
+  - "c"
+index:
+  - "Bóg"
+  - "cały"
+  - "chleb"
+  - "Chrystus"
+  - "chwała"
+  - "ciało"
+  - "dać"
+  - "Duch"
+  - "jako"
+  - "jedno"
+  - "kielich"
+  - "Kościół"
+  - "krew"
+  - "ku"
+  - "śmierć"
+  - "świat"
+  - "święty"
+  - "żywa"
+  - "miła"
+  - "niebo"
+  - "oczekiwać"
+  - "odkupienie"
+  - "ofiara"
+  - "Ojciec"
+  - "otchłań"
+  - "pamiątka"
+  - "pić"
+  - "przyjść"
+  - "sam"
+  - "składać"
+  - "spożywać"
+  - "sprawić"
+  - "sprawować"
+  - "stać"
+  - "teraz"
+  - "wejrzeć"
+  - "wspominać"
+  - "wstąpić"
+  - "wszyscy"
+  - "wysławiać"
+  - "wyznawać"
+  - "zbawienny"
+  - "złączyć"
+  - "zmartwychwstać"
+  - "zostać"
+  - "zstąpić"
+===
+
+P:
+[a]Boże, Ojcze,
+sprawując teraz pamiątkę na[G]szego odku[a]pienia,
+[F]wspominamy śmierć Chrystusa
+[a]i Jego zstąpienie do otchłani,
+[F]wyznajemy Jego zmartwychwstanie
+i wstąpienie [E]do nieba,
+[F]a oczekując Jego [a]przyjścia w chwale,
+[G]składamy Ci, Boże, Jego Ciało i Krew
+jako O[a]fiarę miłą Tobie i zba[G]wienną dla całego [a]świata.
+[C]Wejrzyj, Boże, na Ofiarę,
+którą sam dałeś swojemu Kościo[a]łowi
+i [F]spraw, aby wszyscy, którzy będą spożywali ten sam Chleb,
+i pili z jednego Kie[a]licha,
+[F]zostali przez Ducha Świętego złączeni w jedno ciało
+[E]i stali się w Chrystusie żywą ofiarą ku Twojej chwale.
+W:
+[E7]Wysławiamy Twoją chwałę
+Wysławiamy Twoją chwałę
+
+244]903.5

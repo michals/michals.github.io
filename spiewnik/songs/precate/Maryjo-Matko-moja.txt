@@ -1,0 +1,106 @@
+===
+title: "Maryjo, Matko moja"
+section: "precate"
+color: "communion"
+tone: "a"
+songid: "S106MaryjaMatkaKosciola"
+author:
+  - "K"
+year: 1993
+address:
+  - what: "J"
+    where: "19, 26-34"
+  - what: "*MAR"
+    where: ""
+  - what: "*OWP"
+    where: ""
+  - what: "*LAM"
+    where: ""
+knownas:
+  - "1983"
+  - "Maryja, Matka Kościoła"
+  - "Niewiasto, oto Twój Syn"
+index:
+  - "bok"
+  - "Chrystus"
+  - "dom"
+  - "Ewa"
+  - "jeden"
+  - "kochać"
+  - "Kościół"
+  - "krew"
+  - "łamać"
+  - "żołnierz"
+  - "Maryja"
+  - "matka"
+  - "natychmiast"
+  - "nauczyć"
+  - "Niewiasta"
+  - "noga"
+  - "nowy"
+  - "oblubienica"
+  - "On"
+  - "potem"
+  - "pragnąć"
+  - "przebić"
+  - "przyjść"
+  - "rodzić"
+  - "spełnić"
+  - "Syn"
+  - "umrzeć"
+  - "wejść"
+  - "widzieć"
+  - "włócznia"
+  - "woda"
+  - "wszystko"
+  - "wypłynąć"
+  - "zamieszkać"
+===
+
+K:
+„[E]Niewiasto, oto Twój Syn,
+Niewiasto, oto Twój Syn,
+oto Twój Syn,
+oto Twój Syn!”
+„[a]Oto Twoja Matka,
+[d]oto Twoja M[E]atka”.
+
+W:
+Ma[a]ryjo, Matko moja,
+Ma[GSPm]ryjo, Matko [a]nasza,
+[G]przyjdź i zamieszkaj [E]ze mną tu,
+[G]wejdź do domu [E]mego
+i [ESPm]naucz nas kochać Twego [FSp]Syna,
+tak jak Go kochałaś [E]Ty,
+i [ESPm]naucz nas kochać Twego [FSp]Syna,
+tak jak Go kochałaś [E]Ty.
+
+K:
+„[E]Pragnę, o jak pragnę,
+wszystko się spełniło,
+wszystko się spełniło,
+wszystko się spełniło”.
+
+W:
+Ma[a]ryjo, Matko moja …
+
+K:
+[E]A potem przyszli żołnierze,
+a widząc, że już umarł,
+nie łamali Mu nóg,
+ale jeden z nich
+włócznią przebił Mu bok
+i natychmiast wypły[FSp]nęła
+krew i [E]woda,
+krew i woda.
+
+W:
+Ma[a]ryjo, Matko moja,
+Ma[GSPm]ryjo, Matko [a]nasza,
+[G]jesteś Matką Koś[E]cioła,
+on [ESPm]rodzi się z boku Chry[FSp]stusa:
+Oblubienica - nowa [E]Ewa.
+On [ESPm]rodzi się z boku Chry[FSp]stusa:
+Oblubienica - nowa [E]Ewa.
+W:
+Ma[a]ryjo, Matko moja …

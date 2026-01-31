@@ -1,0 +1,77 @@
+===
+title: "Oto zwierciadłem naszym jest Pan"
+section: "cate"
+color: "cate"
+tone: "d"
+songid: "S210OtoZwierciadlemNaszymJestPan"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*ODA"
+    where: "13"
+  - what: "*OWP"
+    where: ""
+  - what: "*WEJ"
+    where: ""
+  - what: "*BRE"
+    where: ""
+alttone:
+  - "dis"
+knownas:
+  - "1973"
+  - "Alleluja, alleluja, alleluja"
+index:
+  - "alleluja"
+  - "brud"
+  - "chwała"
+  - "dać"
+  - "Duch"
+  - "jaki"
+  - "kochać"
+  - "świętość"
+  - "niepokalany"
+  - "oblec"
+  - "oblicze"
+  - "oko"
+  - "On"
+  - "otworzyć"
+  - "Pan"
+  - "przeglądać"
+  - "twarz"
+  - "uczyć"
+  - "usunąć"
+  - "zawsze"
+  - "zwierciadło"
+===
+
+K:
+[d]Oto zwierciadłem naszym jest Pan!
+[a]Otwórzcie oczy, przeglądajcie się w Nim
+[g]i uczcie się, jakie jest wasze o[A7]blicze.
+
+{{{ 2x
+W:
+Alle[d]luja, alleluja, alleluja.
+K:
+[g]Alleluja, alleluja, alleluja.
+W:
+[A7]Dajcie chwałę Jego Duchowi.
+Dajcie chwałę Jego Duchowi.
+}}}
+
+K:
+[d]I usuńcie brud z waszych twarzy.
+[a]Kochajcie Jego Świętość i obleczcie się w Nią,
+[g]a będziecie zawsze przed Nim niepoka[A7]lani.
+
+{{{ 2x
+W:
+Alle[d]luja, alleluja, alleluja.
+K:
+[g]Alleluja, alleluja, alleluja.
+W:
+[A7]Dajcie chwałę Jego Duchowi.
+Dajcie chwałę Jego Duchowi.
+}}}
+Dajcie chwałę Jego Du[d]chowi!

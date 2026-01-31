@@ -1,0 +1,110 @@
+===
+title: "Ciężka droga"
+subtitle: "Pieśń pustyni"
+section: "precate"
+color: "precate"
+tone: "e"
+songid: "S032CiezkaDroga"
+author:
+  - "MM"
+  - "trm"
+year: 1993
+address:
+  - what: "["
+    where: "p"
+  - what: "*OWP"
+    where: ""
+  - what: "*HYM"
+    where: ""
+knownas:
+  - "Go down Moses, let my people go"
+  - "["
+  - "1967"
+index:
+  - "bardzo"
+  - "brnąć"
+  - "chcieć"
+  - "ciężki"
+  - "cud"
+  - "dać"
+  - "droga"
+  - "grzech"
+  - "iść"
+  - "Izrael"
+  - "żyć"
+  - "życie"
+  - "lud"
+  - "marsz"
+  - "Mojżesz"
+  - "naród"
+  - "Ojciec"
+  - "pełny"
+  - "podążać"
+  - "pokój"
+  - "poprzez"
+  - "potrzebny"
+  - "pragnąć"
+  - "razem"
+  - "skwar"
+  - "straszny"
+  - "trud"
+  - "uratować"
+  - "wódz"
+  - "wielki"
+  - "wokół"
+  - "wołanie"
+  - "wolny"
+  - "wybawić"
+  - "wysłuchać"
+  - "wyzwalać"
+  - "wyzwolić"
+  - "zaistnieć"
+  - "Zbawiciel"
+  - "złuda"
+  - "zmartwychwstać"
+  - "znów"
+===
+
+K:
+[e]Ciężka [H7]droga, [e]straszny skwar,
+[H7]bardzo wolny [e]marsz.
+Mojżesz, [H7]Izra[e]ela wódz,
+[H7]on wyzwoli [e]lud.
+W:
+Wy[E7]słuchaj, [a]Ojcze,
+[H7]wołania Twego [e]ludu,
+wy[C]słuchaj, [e]Ojcze,
+[H7]Zbawiciela [e]daj.
+
+K:
+[e]Lud pragnie [H7]życia [e]i pokoju,
+[H7]zmartwychwstania [e]chce.
+Mojżesz, [H7]Izra[e]ela wódz,
+[H7]on wyzwoli [e]lud.
+W:
+Wy[E7]słuchaj, [a]Ojcze,
+[H7]wołania Twego [e]ludu,
+wy[C]słuchaj, [e]Ojcze,
+[H7]Zbawiciela [e]daj.
+
+K:
+[e]Ciężka [H7]droga, [e]straszny skwar,
+[H7]marszu wielki [e]trud.
+Mojżesz, [H7]Izra[e]ela wódz,
+[H7]on wyzwala [e]lud.
+K:
+[e]Lud chce po[H7]koju, [e]pragnie żyć
+[H7]i zaistnieć [e]znów.
+Mojżesz, [H7]Izra[e]ela wódz,
+[H7]on wyzwoli [e]lud.
+
+K:
+Po[e]dąża [H7]naród: [e]razem brną,
+[H7]wokół pełno [e]złud.
+Mojżesz, [H7]Izra[e]ela wódz,
+[H7]uratuje [e]lud.
+K:
+Tak [e]idą [H7]razem [e]poprzez grzech,
+[H7]im potrzebny [e]cud.
+Mojżesz, [H7]Izra[e]ela wódz,
+[H7]on wybawi [e]lud.

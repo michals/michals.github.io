@@ -1,0 +1,98 @@
+===
+title: "Jutrzenka barwi purpurą niebo"
+subtitle: "Hymn na Paschę"
+section: "precate"
+color: "precate"
+tone: "a"
+songid: "S071HymnNaPasche"
+author:
+  - "K"
+year: 1992
+address:
+  - what: "*HYM"
+    where: ""
+  - what: "*PAS"
+    where: ""
+  - what: "*OPA"
+    where: ""
+  - what: "*BRE"
+    where: ""
+knownas:
+  - "1969"
+  - "Aurora lucis rutilat"
+  - "Jutrznia Paschy"
+  - "Hymn na Jutrznię Paschy"
+  - "Koniec żalu, boleści"
+  - "Podczas gdy Król"
+index:
+  - "barwić"
+  - "boleść"
+  - "budzić"
+  - "cela"
+  - "Chrystus"
+  - "chwała"
+  - "chwalebny"
+  - "ciężki"
+  - "drżeć"
+  - "echo"
+  - "grobowiec"
+  - "jutrzenka"
+  - "kamień"
+  - "koniec"
+  - "Król"
+  - "śmierć"
+  - "świat"
+  - "lęk"
+  - "liczny"
+  - "żal"
+  - "życie"
+  - "niebo"
+  - "On"
+  - "Pan"
+  - "piekło"
+  - "pieśń"
+  - "pilnować"
+  - "płacz"
+  - "podczas"
+  - "prowadzić"
+  - "przepastny"
+  - "przestworza"
+  - "purpura"
+  - "radować"
+  - "rozbrzmiewać"
+  - "straż"
+  - "struchlały"
+  - "tryumfować"
+  - "uwalniać"
+  - "wieczny"
+  - "wszyscy"
+  - "zamykać"
+  - "zmartwychwstać"
+===
+
+K:
+[a]Jutrzenka barwi purpurą niebo,
+rozbrzmiewa w przestworzachecho pieśni [E7]chwały.
+Tryumfując świat się raduje,
+struchlałe z lęku piekło [a]drży:
+{{{ 2x
+W:
+[A7]Podczas gdy [d]Król,
+Chrystus uwalnia wszystkich
+z prze[a]pastnej celi
+śmierci [E7]wiecznej,
+by nas prowadzić do [a]życia.
+}}}
+
+K:
+[a]Ciężki kamień zamykał           Jego grobowiec,
+liczne straże Go pilno[E7]wały,
+lecz Chrystus tryumfuje Chwalebny
+i ze śmierci, ze śmierci budzi [a]się:
+{{{ 2x
+W:
+[A7]Koniec [d]żalu, boleści,
+koniec [a]płaczu.
+Zmartwychwstał [E7]Pan,
+zmartwychwstał [a]Pan!
+}}}
