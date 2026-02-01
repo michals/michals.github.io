@@ -1,380 +1,715 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Przeglądarka Dokumentów SVG</title>
     <!-- Ładowanie Tailwind CSS dla stylizacji -->
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        /* Ustawienie czcionki Inter */
-        html { font-family: 'Inter', sans-serif; }
-        
-        /* Usunięcie marginesów i paddingów z HTML/BODY */
-        html, body {
+      /* Ustawienie czcionki Inter */
+      html {
+        font-family: "Inter", sans-serif;
+      }
+
+      /* Usunięcie marginesów i paddingów z HTML/BODY */
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        overflow-x: hidden; /* Zapobieganie poziomemu scrollowaniu */
+      }
+
+      /* Usunięcie domyślnego tła i marginesów z BODY */
+      body {
+        background-color: #ffffff;
+      }
+
+      /* Styl dla kontenera SVG */
+      #svg-container {
+        /* Usunięto marginesy i paddingi dla "full bleed" */
+        padding: 0; 
+        background-color: #ffffff; /* Pełna biel */
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+      }
+
+      #viewer {
+        width: 100%;
+        height: auto;
+        display: block;
+      }
+
+      /* Styl dla minimalistycznych linków stron */
+      .page-link-compact {
+        display: inline-block;
+        margin: 0 0.5rem 0.5rem 0;
+        white-space: nowrap;
+      }
+
+      /* Nowy styl dla aktywnego linku */
+      .page-link-compact.active {
+        font-weight: bold;
+        color: #1d4ed8; /* blue-700 */
+        text-decoration: underline;
+      }
+
+      /* Styl dla nagłówków/kontroli - domyślnie ukryte */
+      .control-panel {
+        padding: 1rem 0;
+        background-color: rgba(255, 255, 255, 0.95);
+        position: fixed;
+        width: 100%;
+        z-index: 50;
+        transition: transform 0.3s ease-in-out;
+      }
+      
+      #ui-top {
+        top: 0;
+        border-bottom: 1px solid #e5e7eb;
+      }
+
+      #ui-bottom {
+        bottom: 0;
+        border-top: 1px solid #e5e7eb;
+      }
+
+      .ui-hidden #ui-top {
+        transform: translateY(-100%);
+      }
+
+      .ui-hidden #ui-bottom {
+        transform: translateY(100%);
+      }
+
+      /* Narożne przyciski nawigacyjne */
+      .corner-nav {
+        position: fixed;
+        z-index: 40;
+        width: 60px;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: bold;
+        color: rgba(0, 0, 0, 0.3); /* Zwiększona widoczność */
+        font-size: 1.5rem;
+        cursor: pointer;
+        user-select: none;
+        transition: color 0.2s, background-color 0.2s;
+        text-decoration: none;
+      }
+      
+      .corner-nav:hover {
+        background-color: rgba(0, 0, 0, 0.05);
+        color: rgba(0, 0, 0, 0.6);
+      }
+
+      .cn-tl { top: 0; left: 0; }
+      .cn-tr { top: 0; right: 0; }
+      .cn-bl { bottom: 0; left: 0; }
+      .cn-br { bottom: 0; right: 0; }
+
+      /* Subtelny przycisk toggle na górze ekranu */
+      #ui-toggle-btn {
+        position: fixed;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: rgba(255, 255, 255, 0.8);
+        padding: 0.25rem 1rem;
+        border-bottom-left-radius: 0.5rem;
+        border-bottom-right-radius: 0.5rem;
+        font-size: 0.75rem;
+        color: #9ca3af; /* gray-400 */
+        cursor: pointer;
+        z-index: 60;
+        border: 1px solid rgba(0,0,0,0.05);
+        border-top: none;
+        transition: all 0.2s;
+      }
+
+      #ui-toggle-btn:hover {
+        background-color: #fff;
+        color: #4b5563; /* gray-600 */
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      }
+
+      /* Ukrywanie elementów w druku */
+      @media print {
+        @page {
+            margin: 0;
+        }
+        body {
+            margin: 0;
+        }
+        .control-panel, 
+        .corner-nav,
+        #ui-toggle-btn {
+          display: none !important;
+        }
+        #svg-container {
+            background-color: white;
             margin: 0;
             padding: 0;
-            height: 100%;
-            overflow-x: hidden; /* Zapobieganie poziomemu scrollowaniu */
         }
+      }
 
-        /* Usunięcie domyślnego tła i marginesów z BODY */
-        body {
-            background-color: #f9fafb;
-        }
-        
-        /* Styl dla kontenera SVG (ramka, cień, margines) */
-        #svg-container {
-            /* Nowe style dla wizualnego odseparowania strony SVG */
-            padding: 1rem; /* Margines wokół strony */
-            background-color: #ffffff; /* Białe tło wewnątrz ramki */
-            margin: 1rem; /* Zewnętrzny margines od krawędzi okna */
-            border-radius: 0.5rem; /* Zaokrąglone rogi */
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Delikatny cień */
-            
-            min-height: 80vh; 
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-        }
-        
-        #viewer {
-            width: 100%; /* Wymuszenie szerokości 100% dla fit-to-width */
-            height: auto;
-            border-radius: 0; 
-            box-shadow: none; 
-            margin: 0; 
-        }
-        
-        /* Styl dla minimalistycznych linków stron */
-        .page-link-compact {
-            display: inline-block;
-            margin: 0 0.5rem 0.5rem 0; 
-            white-space: nowrap;
-        }
-
-        /* Nowy styl dla aktywnego linku */
-        .page-link-compact.active {
-            font-weight: bold;
-            color: #1d4ed8; /* blue-700 */
-            text-decoration: underline;
-        }
-
-        /* Styl dla nagłówków/kontroli */
-        .control-panel {
-            padding: 1rem 0;
-            background-color: #ffffff; 
-        }
     </style>
-</head>
-<body class="text-gray-800">
-
+  </head>
+  <body class="text-gray-800 ui-hidden">
     <!-- Główny kontener zajmuje teraz całą dostępną przestrzeń -->
-    <main class="w-full min-h-screen">
-        
-        <!-- INDEKS STRON -->
-        <div class="control-panel border-b border-gray-200">
-             <div class="mx-auto px-4 max-w-7xl">
-                <h2 class="text-xl font-semibold mb-2 text-blue-600">Indeks Stron</h2>
-                <div id="page-links" class="text-left mb-2 pb-2 max-h-40 overflow-y-auto">
-                    <!-- Tutaj JS wygeneruje minimalistyczne linki do stron -->
-                    <div class="text-gray-400">Ładowanie linków...</div>
-                </div>
-             </div>
-        </div>
+    <main class="w-full min-h-screen relative">
+      
+      <!-- Przycisk toggle dla UI -->
+      <button id="ui-toggle-btn" title="Pokaż/Ukryj menu (ESC)">MENU / ESC</button>
 
-        <div id="status-message" class="mx-auto px-4 mt-4 p-3 text-sm rounded-lg bg-yellow-100 text-yellow-800 hidden max-w-7xl"></div>
+      <!-- Narożna nawigacja -->
+      <a href="#" class="corner-nav cn-tl prev-nav" aria-label="Poprzednia strona">&lt;</a>
+      <a href="#" class="corner-nav cn-tr next-nav" aria-label="Następna strona">&gt;</a>
+      <a href="#" class="corner-nav cn-bl prev-nav" aria-label="Poprzednia strona">&lt;</a>
+      <a href="#" class="corner-nav cn-br next-nav" aria-label="Następna strona">&gt;</a>
 
-
-        <!-- PAGINACJA -->
-        <div class="control-panel border-b border-gray-200">
-            <div id="pagination-controls" class="text-center mx-auto max-w-7xl px-4 hidden">
-                <h1 class="text-3xl font-bold flex justify-center items-center space-x-6 p-2">
-                    <!-- Link do poprzedniej strony -->
-                    <a href="#" id="prev-page-link" class="text-blue-600 hover:text-blue-800 transition duration-150 p-2 rounded-md hover:bg-blue-200 disabled:opacity-50 disabled:pointer-events-none" aria-label="Poprzednia strona">[ &lt; ]</a>
-                    
-                    <!-- Aktualna etykieta strony -->
-                    <span id="current-page-label" class="text-gray-700 font-mono w-24"></span>
-                    
-                    <!-- Link do następnej strony -->
-                    <a href="#" id="next-page-link" class="text-blue-600 hover:text-blue-800 transition duration-150 p-2 rounded-md hover:bg-blue-200 disabled:opacity-50 disabled:pointer-events-none" aria-label="Następna strona">[ &gt; ]</a>
-                </h1>
-            </div>
-        </div>
-
-        <!-- KONTENER SVG (Full Bleed z ramką) -->
-        <div id="svg-container">
-            <img id="viewer" src="" alt="Wyświetlana strona SVG" class="hidden">
-            <p id="initial-message" class="text-gray-400 p-8">Wybierz stronę z indeksu lub użyj linku z hashem w URL, aby rozpocząć przeglądanie.</p>
+      <!-- INDEKS STRON (Panel Górny) -->
+      <div id="ui-top" class="control-panel">
+        <div class="mx-auto px-4 max-w-7xl">
+          <div class="flex justify-between items-center mb-2">
+             <h2 class="text-xl font-semibold text-blue-600">Indeks Stron</h2>
+             <!-- Usunięto tekst statyczny, zastąpiono przyciskiem overlay -->
+          </div>
+          <div
+            id="page-links"
+            class="text-left mb-2 pb-2 max-h-40 overflow-y-auto"
+          >
+            <!-- Tutaj JS wygeneruje minimalistyczne linki do stron -->
+            <div class="text-gray-400">Ładowanie linków...</div>
+          </div>
         </div>
         
+        <div
+          id="status-message"
+          class="mx-auto px-4 mt-2 p-3 text-sm rounded-lg bg-yellow-100 text-yellow-800 hidden max-w-7xl"
+        ></div>
+      </div>
+
+      <!-- PAGINACJA (Panel Dolny) -->
+      <div id="ui-bottom" class="control-panel">
+        <div
+          id="pagination-controls"
+          class="text-center mx-auto max-w-7xl px-4 hidden"
+        >
+          <h1
+            class="text-3xl font-bold flex justify-center items-center space-x-6 p-2"
+          >
+            <!-- Link do poprzedniej strony -->
+            <a
+              href="#"
+              id="prev-page-link"
+              class="text-blue-600 hover:text-blue-800 transition duration-150 p-2 rounded-md hover:bg-blue-200 disabled:opacity-50 disabled:pointer-events-none"
+              aria-label="Poprzednia strona"
+              >[ &lt; ]</a
+            >
+
+            <!-- Aktualna etykieta strony -->
+            <span
+              id="current-page-label"
+              class="text-gray-700 font-mono w-24"
+            ></span>
+
+            <!-- Link do następnej strony -->
+            <a
+              href="#"
+              id="next-page-link"
+              class="text-blue-600 hover:text-blue-800 transition duration-150 p-2 rounded-md hover:bg-blue-200 disabled:opacity-50 disabled:pointer-events-none"
+              aria-label="Następna strona"
+              >[ &gt; ]</a
+            >
+          </h1>
+        </div>
+      </div>
+
+      <!-- KONTENER SVG (Full Bleed) -->
+      <div id="svg-container">
+        <div id="svg-wrapper" class="relative inline-block w-full">
+          <img
+            id="viewer"
+            src=""
+            alt="Wyświetlana strona SVG"
+            class="hidden w-full h-auto block"
+          />
+          <div id="overlays" class="absolute inset-0"></div>
+        </div>
+        <p id="initial-message" class="text-gray-400 p-8 hidden">
+          Wybierz stronę z indeksu...
+        </p>
+      </div>
     </main>
 
     <script>
-        // Globalne zmienne na dane z JSON
-        let dests = {};
-        let pages = {};
-        // Nowe struktury do paginacji
-        let pageLabelsOrder = []; // Posortowana lista etykiet SVG (np. ['lxxxi', '1', '2', ...])
-        let labelToPhysicalPage = {}; // Mapa: etykieta SVG -> numer strony fizycznej (np. '1' -> '91')
-        let pageLabelToDestName = {}; // Mapa: etykieta SVG -> pełna destynacja 'page.X' (np. '1' -> 'page.91')
+      // Globalne zmienne na dane z JSON
+      let dests = {};
+      let pages = {};
+      let links = {}; // Links map: { "physicalPageNum": [ [x,y,w,h,dest], ... ] }
+      let linksPrecision = 1; // Precision factor from links.json
+      // Nowe struktury do paginacji
+      let pageLabelsOrder = []; // Posortowana lista etykiet SVG (np. ['lxxxi', '1', '2', ...])
+      let labelToPhysicalPage = {}; // Mapa: etykieta SVG -> numer strony fizycznej (np. '1' -> '91')
+      let pageLabelToDestName = {}; // Mapa: etykieta SVG -> pełna destynacja 'page.X' (np. '1' -> 'page.91')
 
-        // Ścieżki do plików JSON - ZMIENIONE NA RELATYWNE
-        const DEST_PATH = 'dests.json';
-        const PAGES_PATH = 'pages.json';
+      // Ścieżki do plików JSON - ZMIENIONE NA RELATYWNE
+      const DEST_PATH = "dests.json";
+      const PAGES_PATH = "pages.json";
+      const LINKS_PATH = "links.json";
 
-        // Elementy DOM
-        const pageLinksContainer = document.getElementById('page-links');
-        const viewerImage = document.getElementById('viewer');
-        const initialMessage = document.getElementById('initial-message');
-        const statusMessage = document.getElementById('status-message');
-        const paginationControls = document.getElementById('pagination-controls');
-        const prevPageLink = document.getElementById('prev-page-link');
-        const nextPageLink = document.getElementById('next-page-link');
-        const currentPageLabelSpan = document.getElementById('current-page-label');
+      // Elementy DOM
+      const pageLinksContainer = document.getElementById("page-links");
+      const viewerImage = document.getElementById("viewer");
+      const overlaysContainer = document.getElementById("overlays");
+      const initialMessage = document.getElementById("initial-message");
+      const statusMessage = document.getElementById("status-message");
+      const paginationControls = document.getElementById("pagination-controls");
+      const prevPageLink = document.getElementById("prev-page-link");
+      const nextPageLink = document.getElementById("next-page-link");
+      const currentPageLabelSpan =
+        document.getElementById("current-page-label");
+
+      /**
+       * Funkcja pomocnicza do wyświetlania komunikatów o błędach/statusie
+       */
+      function displayStatus(message, isError = false) {
+        statusMessage.textContent = message;
+        statusMessage.classList.remove(
+          "hidden",
+          "bg-red-100",
+          "text-red-800",
+          "bg-yellow-100",
+          "text-yellow-800",
+        );
+        if (isError) {
+          statusMessage.classList.add("bg-red-100", "text-red-800");
+        } else {
+          statusMessage.classList.add("bg-yellow-100", "text-yellow-800");
+        }
+        statusMessage.classList.remove("hidden");
+      }
+
+      /**
+       * Pobiera dane JSON. Używa prostej funkcji retry z opóźnieniem.
+       */
+      async function fetchJsonWithRetry(url, maxRetries = 3, delay = 500) {
+        for (let i = 0; i < maxRetries; i++) {
+          try {
+            const response = await fetch(url);
+            if (!response.ok) {
+              throw new Error(
+                `HTTP error! Status: ${response.status} dla ${url}`,
+              );
+            }
+            return await response.json();
+          } catch (error) {
+            console.error(
+              `Błąd ładowania ${url} (próba ${i + 1}/${maxRetries}):`,
+              error.message,
+            );
+            if (i === maxRetries - 1) {
+              throw new Error(
+                `Nie udało się załadować ${url} po ${maxRetries} próbach. Sprawdź ścieżkę i serwer.`,
+              );
+            }
+            await new Promise((resolve) =>
+              setTimeout(resolve, delay * (i + 1)),
+            );
+          }
+        }
+      }
+
+      /**
+       * Ładuje oba pliki JSON, inicjuje struktury pomocnicze i renderuje linki.
+       */
+      async function loadDataAndInit() {
+        try {
+          displayStatus("Ładowanie danych konfiguracji...");
+          // Load links.json as well
+          const results = await Promise.allSettled([
+            fetchJsonWithRetry(DEST_PATH),
+            fetchJsonWithRetry(PAGES_PATH),
+            fetchJsonWithRetry(LINKS_PATH),
+          ]);
+
+          // Check critical results
+          if (results[0].status === "rejected") throw results[0].reason;
+          if (results[1].status === "rejected") throw results[1].reason;
+
+          dests = results[0].value;
+          pages = results[1].value;
+          
+          // links.json now contains { "precision": N, "links": { ... } }
+          const linksData = results[2].status === "fulfilled" ? results[2].value : null;
+          if (linksData) {
+              links = linksData.links || {};
+              linksPrecision = linksData.precision || 1;
+          } else {
+              links = {};
+              linksPrecision = 1;
+          }
+
+          if (results[2].status === "rejected") {
+            console.warn(
+              "Could not load links.json, interactive links will be disabled.",
+            );
+          }
+
+          // 1. Inicjalizacja pomocniczych struktur do paginacji
+          const physicalPageNumbers = Object.keys(pages)
+            .map(Number)
+            .sort((a, b) => a - b);
+          pageLabelsOrder = physicalPageNumbers
+            .map((num) => pages[num.toString()])
+            .filter((label) => label);
+          labelToPhysicalPage = {};
+          pageLabelToDestName = {};
+
+          physicalPageNumbers.forEach((num) => {
+            const label = pages[num.toString()];
+            if (label) {
+              labelToPhysicalPage[label] = num.toString();
+            }
+          });
+
+          // Mapowanie etykiety SVG na destynację 'page.X' (potrzebne do paginacji)
+          Object.keys(dests).forEach((key) => {
+            if (key.startsWith("page.")) {
+              const physicalPage = dests[key].page.toString();
+              const pageLabel = pages[physicalPage];
+
+              if (pageLabel && !pageLabelToDestName[pageLabel]) {
+                // Używamy tylko pierwszego napotkanego 'page.X' dla danej etykiety jako linku nawigacyjnego
+                pageLabelToDestName[pageLabel] = key;
+              }
+            }
+          });
+
+          // 2. Renderowanie minimalistycznych linków
+          renderPageLinks();
+
+          // 3. Obsługa bieżącego hasha
+          handleHashChange();
+
+          statusMessage.classList.add("hidden");
+        } catch (error) {
+          console.error("Krytyczny błąd inicjalizacji:", error);
+          pageLinksContainer.innerHTML =
+            '<p class="text-red-500">Nie udało się załadować danych. Sprawdź konsolę.</p>';
+          displayStatus(`Błąd inicjalizacji: ${error.message}`, true);
+          viewerImage.classList.add("hidden");
+          initialMessage.classList.remove("hidden");
+        }
+      }
+
+      /**
+       * Generuje minimalistyczną listę linków do stron w panelu bocznym.
+       * Wyróżnia aktywny link.
+       */
+      function renderPageLinks(activePageLabel = null) {
+        pageLinksContainer.innerHTML = "";
+
+        if (pageLabelsOrder.length === 0) {
+          pageLinksContainer.innerHTML =
+            '<p class="text-red-500">Brak etykiet stron do wyświetlenia.</p>';
+          return;
+        }
+
+        // Budowa zwięzłego akapitu linków
+        const linkFragment = document.createDocumentFragment();
+
+        pageLabelsOrder.forEach((label) => {
+          const destKey = pageLabelToDestName[label];
+
+          if (destKey) {
+            const a = document.createElement("a");
+            a.href = `#${destKey}`;
+            a.textContent = label;
+
+            let classes =
+              "text-blue-600 hover:text-blue-800 hover:underline transition duration-150 page-link-compact";
+
+            // Wyróżnienie aktywnej strony
+            if (label === activePageLabel) {
+              classes += " active"; // Dodanie nowej klasy CSS
+            }
+
+            a.className = classes;
+            a.setAttribute("data-page-label", label); // Dodanie atrybutu do łatwego znajdowania linku
+            linkFragment.appendChild(a);
+          }
+        });
+
+        const p = document.createElement("p");
+        p.className = "text-sm flex flex-wrap";
+        p.appendChild(linkFragment);
+        pageLinksContainer.appendChild(p);
+      }
+
+      /**
+       * Renders interactive links for the current page.
+       */
+      function renderLinksOverlays(physicalPage) {
+        overlaysContainer.innerHTML = ""; // Clear previous links
+        const pageNum = parseInt(physicalPage, 10); // Ensure it's a number/string key matching
+
+        if (!links) return;
         
+        // Find links for this page. New structure: dictionary keyed by page_num
+        const pageLinks = links[pageNum] || links[pageNum.toString()];
 
-        /**
-         * Funkcja pomocnicza do wyświetlania komunikatów o błędach/statusie
-         */
-        function displayStatus(message, isError = false) {
-            statusMessage.textContent = message;
-            statusMessage.classList.remove('hidden', 'bg-red-100', 'text-red-800', 'bg-yellow-100', 'text-yellow-800');
-            if (isError) {
-                statusMessage.classList.add('bg-red-100', 'text-red-800');
-            } else {
-                statusMessage.classList.add('bg-yellow-100', 'text-yellow-800');
-            }
-            statusMessage.classList.remove('hidden');
+        if (!pageLinks || !Array.isArray(pageLinks)) return;
+
+        pageLinks.forEach((linkData) => {
+          // New format: [x, y, w, h, dest] (all relative except dest)
+          if (linkData.length < 5) return;
+          
+          const [relX, relY, relW, relH, destVal] = linkData;
+
+          const a = document.createElement("a");
+
+          const left = (relX / linksPrecision) * 100;
+          const top = (relY / linksPrecision) * 100;
+          const width = (relW / linksPrecision) * 100;
+          const height = (relH / linksPrecision) * 100;
+
+          a.style.position = "absolute";
+          a.style.left = `${left}%`;
+          a.style.top = `${top}%`;
+          a.style.width = `${width}%`;
+          a.style.height = `${height}%`;
+
+          // Transparent for production, visible for debugging if needed
+          // a.style.backgroundColor = "rgba(170, 0, 0, 0.3)"; 
+          a.style.display = "block";
+          a.style.cursor = "pointer";
+
+          // Determine href
+          let href = "";
+          let title = "";
+
+          // Check dest type
+          if (typeof destVal === 'number') {
+              // Physical page index
+              const targetPhysical = destVal.toString();
+              const label = pages[targetPhysical];
+              
+              if (label && pageLabelToDestName[label]) {
+                  const destName = pageLabelToDestName[label];
+                  href = `#${destName}`;
+                  title = `Go to ${label} (${destName})`;
+              } else {
+                  href = `#physical.${destVal}`;
+                  title = `Go to physical page ${destVal}`;
+              }
+          } else if (typeof destVal === 'string') {
+             // Named destination
+             href = `#${destVal}`;
+             title = `Go to ${destVal}`;
+          }
+
+          if (href) {
+              a.href = href;
+              a.title = title;
+              overlaysContainer.appendChild(a);
+          }
+        });
+      }
+
+      /**
+       * Robustly gets destination object, supporting implicit #page.N
+       */
+      function getDest(destName) {
+        if (dests[destName]) {
+          return dests[destName];
         }
-
-        /**
-         * Pobiera dane JSON. Używa prostej funkcji retry z opóźnieniem.
-         */
-        async function fetchJsonWithRetry(url, maxRetries = 3, delay = 500) {
-            for (let i = 0; i < maxRetries; i++) {
-                try {
-                    const response = await fetch(url);
-                    if (!response.ok) {
-                        throw new Error(`HTTP error! Status: ${response.status} dla ${url}`);
-                    }
-                    return await response.json();
-                } catch (error) {
-                    console.error(`Błąd ładowania ${url} (próba ${i + 1}/${maxRetries}):`, error.message);
-                    if (i === maxRetries - 1) {
-                        throw new Error(`Nie udało się załadować ${url} po ${maxRetries} próbach. Sprawdź ścieżkę i serwer.`);
-                    }
-                    await new Promise(resolve => setTimeout(resolve, delay * (i + 1))); 
-                }
-            }
-        }
-
-        /**
-         * Ładuje oba pliki JSON, inicjuje struktury pomocnicze i renderuje linki.
-         */
-        async function loadDataAndInit() {
-            try {
-                displayStatus('Ładowanie danych konfiguracji...');
-                [dests, pages] = await Promise.all([
-                    fetchJsonWithRetry(DEST_PATH),
-                    fetchJsonWithRetry(PAGES_PATH)
-                ]);
-                
-                // 1. Inicjalizacja pomocniczych struktur do paginacji
-                const physicalPageNumbers = Object.keys(pages).map(Number).sort((a, b) => a - b);
-                pageLabelsOrder = physicalPageNumbers.map(num => pages[num.toString()]).filter(label => label);
-                labelToPhysicalPage = {};
-                pageLabelToDestName = {};
-
-                physicalPageNumbers.forEach(num => {
-                    const label = pages[num.toString()];
-                    if (label) {
-                        labelToPhysicalPage[label] = num.toString();
-                    }
-                });
-
-                // Mapowanie etykiety SVG na destynację 'page.X' (potrzebne do paginacji)
-                Object.keys(dests).forEach(key => {
-                    if (key.startsWith('page.')) {
-                        const physicalPage = dests[key].page.toString();
-                        const pageLabel = pages[physicalPage];
-                        
-                        if (pageLabel && !pageLabelToDestName[pageLabel]) {
-                            // Używamy tylko pierwszego napotkanego 'page.X' dla danej etykiety jako linku nawigacyjnego
-                            pageLabelToDestName[pageLabel] = key;
-                        }
-                    }
-                });
-                
-                // 2. Renderowanie minimalistycznych linków
-                renderPageLinks();
-                
-                // 3. Obsługa bieżącego hasha
-                handleHashChange();
-
-                statusMessage.classList.add('hidden');
-
-            } catch (error) {
-                console.error("Krytyczny błąd inicjalizacji:", error);
-                pageLinksContainer.innerHTML = '<p class="text-red-500">Nie udało się załadować danych. Sprawdź konsolę.</p>';
-                displayStatus(`Błąd inicjalizacji: ${error.message}`, true);
-                viewerImage.classList.add('hidden');
-                initialMessage.classList.remove('hidden');
+        
+        if (destName.startsWith("physical.")) {
+            const pageStr = destName.substring(9);
+            const pageNum = parseInt(pageStr, 10);
+            if (!isNaN(pageNum)) {
+                return { page: pageNum };
             }
         }
 
-        /**
-         * Generuje minimalistyczną listę linków do stron w panelu bocznym.
-         * Wyróżnia aktywny link.
-         */
-        function renderPageLinks(activePageLabel = null) {
-            pageLinksContainer.innerHTML = ''; 
+        if (destName.startsWith("page.")) {
+          const pageStr = destName.substring(5);
+          const pageNum = parseInt(pageStr, 10);
+          if (!isNaN(pageNum)) {
+            return { page: pageNum }; // Synthetic dest
+          }
+        }
+        return null;
+      }
 
-            if (pageLabelsOrder.length === 0) {
-                 pageLinksContainer.innerHTML = '<p class="text-red-500">Brak etykiet stron do wyświetlenia.</p>';
-                 return;
-            }
-            
-            // Budowa zwięzłego akapitu linków
-            const linkFragment = document.createDocumentFragment();
+      /**
+       * Obsługuje zmianę hasha URL (lokalnego linku), ładuje SVG i aktualizuje paginację.
+       */
+      function handleHashChange() {
+        let hash = window.location.hash;
 
-            pageLabelsOrder.forEach(label => {
-                const destKey = pageLabelToDestName[label];
-
+        // Redirect to first logical page if no hash
+        if (!hash || hash === "#") {
+            if (pageLabelsOrder.length > 0) {
+                const firstLabel = pageLabelsOrder[0];
+                const destKey = pageLabelToDestName[firstLabel];
                 if (destKey) {
-                    const a = document.createElement('a');
-                    a.href = `#${destKey}`; 
-                    a.textContent = label; 
-                    
-                    let classes = 'text-blue-600 hover:text-blue-800 hover:underline transition duration-150 page-link-compact';
-                    
-                    // Wyróżnienie aktywnej strony
-                    if (label === activePageLabel) {
-                        classes += ' active'; // Dodanie nowej klasy CSS
-                    }
-
-                    a.className = classes;
-                    a.setAttribute('data-page-label', label); // Dodanie atrybutu do łatwego znajdowania linku
-                    linkFragment.appendChild(a);
+                    window.location.hash = `#${destKey}`;
+                    return;
                 }
+            }
+            // Fallback if no pages loaded yet or empty
+            viewerImage.classList.add("hidden");
+            overlaysContainer.innerHTML = "";
+            initialMessage.classList.remove("hidden");
+            paginationControls.classList.add("hidden");
+            document.title = "Przeglądarka Dokumentów SVG";
+            renderPageLinks(null);
+            return;
+        }
+
+        const destName = hash.slice(1);
+        const dest = getDest(destName);
+
+        if (!dest) {
+          console.warn(
+            `Destynacja "${destName}" nie została znaleziona w dests.json.`,
+          );
+          displayStatus(`Błąd: Destynacja "${destName}" nieznana.`, true);
+          viewerImage.classList.add("hidden");
+          overlaysContainer.innerHTML = "";
+          initialMessage.classList.remove("hidden");
+          paginationControls.classList.add("hidden");
+          renderPageLinks(null);
+          return;
+        }
+
+        try {
+          const physicalPage = dest.page.toString();
+          const pageLabel = pages[physicalPage];
+
+          if (!pageLabel) {
+            throw new Error(
+              `Brak etykiety dla strony fizycznej nr ${physicalPage} w pages.json.`,
+            );
+          }
+
+          renderPageLinks(pageLabel);
+
+          const svgPath = `${pageLabel}.svg`;
+
+          viewerImage.src = svgPath;
+          viewerImage.classList.remove("hidden");
+          initialMessage.classList.add("hidden");
+
+          renderLinksOverlays(physicalPage);
+
+          document.title = `Strona ${pageLabel}`; // Simplifed title
+
+          const currentIndex = pageLabelsOrder.indexOf(pageLabel);
+          
+          // Update corner nav URLs
+          const prevNavs = document.querySelectorAll('.prev-nav');
+          const nextNavs = document.querySelectorAll('.next-nav');
+
+          if (currentIndex !== -1) {
+            paginationControls.classList.remove("hidden");
+            currentPageLabelSpan.textContent = pageLabel;
+
+            const updateLink = (linkElement, label) => {
+              if (label) {
+                const destKey = pageLabelToDestName[label];
+                if (destKey) {
+                  linkElement.href = `#${destKey}`;
+                  linkElement.classList.remove("opacity-50", "pointer-events-none");
+                  linkElement.classList.add("hover:bg-blue-200");
+                  return true; // Active
+                }
+              } 
+              // Inactive state
+              linkElement.href = "#";
+              linkElement.classList.add("opacity-50", "pointer-events-none");
+              linkElement.classList.remove("hover:bg-blue-200");
+              return false;
+            };
+
+            const hasPrev = updateLink(prevPageLink, pageLabelsOrder[currentIndex - 1]);
+            const hasNext = updateLink(nextPageLink, pageLabelsOrder[currentIndex + 1]);
+            
+            // Sync corner navs
+            prevNavs.forEach(el => {
+                el.href = prevPageLink.href;
+                if(!hasPrev) el.classList.add('hidden'); else el.classList.remove('hidden');
+            });
+            nextNavs.forEach(el => {
+                el.href = nextPageLink.href;
+                if(!hasNext) el.classList.add('hidden'); else el.classList.remove('hidden');
             });
 
-            const p = document.createElement('p');
-            p.className = 'text-sm flex flex-wrap';
-            p.appendChild(linkFragment);
-            pageLinksContainer.appendChild(p);
+          } else {
+            paginationControls.classList.add("hidden");
+            prevNavs.forEach(el => el.classList.add('hidden'));
+            nextNavs.forEach(el => el.classList.add('hidden'));
+          }
+
+          viewerImage.onerror = () => {
+            displayStatus(
+              `Błąd ładowania pliku SVG: ${svgPath}. Sprawdź, czy plik istnieje.`,
+              true,
+            );
+            viewerImage.classList.add("hidden");
+            overlaysContainer.innerHTML = "";
+            initialMessage.classList.remove("hidden");
+          };
+        } catch (error) {
+          console.error("Błąd przetwarzania hasha:", error);
+          displayStatus(`Błąd przetwarzania: ${error.message}`, true);
+          viewerImage.classList.add("hidden");
+          overlaysContainer.innerHTML = "";
+          initialMessage.classList.remove("hidden");
+          paginationControls.classList.add("hidden");
+          renderPageLinks(null);
         }
+      }
 
-        /**
-         * Obsługuje zmianę hasha URL (lokalnego linku), ładuje SVG i aktualizuje paginację.
-         */
-        function handleHashChange() {
-            const hash = window.location.hash;
+      // Keyboard & Interaction Handling
+      document.addEventListener("keydown", (e) => {
+          if (e.key === "Escape") {
+              document.body.classList.toggle("ui-hidden");
+          } else if (e.key === "ArrowLeft") {
+              const prevLink = document.getElementById("prev-page-link");
+              if (prevLink && !prevLink.classList.contains("pointer-events-none")) {
+                  prevLink.click();
+              }
+          } else if (e.key === "ArrowRight") {
+              const nextLink = document.getElementById("next-page-link");
+              if (nextLink && !nextLink.classList.contains("pointer-events-none")) {
+                  nextLink.click();
+              }
+          }
+      });
 
-            if (!hash || hash === '#') {
-                viewerImage.classList.add('hidden');
-                initialMessage.classList.remove('hidden');
-                paginationControls.classList.add('hidden');
-                document.title = 'Przeglądarka Dokumentów SVG';
-                renderPageLinks(null); // Odświeżenie bez aktywnego linku
-                return;
-            }
+      // Toggle button handler
+      const toggleBtn = document.getElementById("ui-toggle-btn");
+      if (toggleBtn) {
+          toggleBtn.addEventListener("click", () => {
+              document.body.classList.toggle("ui-hidden");
+          });
+      }
 
-            const destName = hash.slice(1);
-            const dest = dests[destName];
+      // Uruchomienie ładowania danych po załadowaniu DOM
+      document.addEventListener("DOMContentLoaded", loadDataAndInit);
 
-            if (!dest) {
-                console.warn(`Destynacja "${destName}" nie została znaleziona w dests.json.`);
-                displayStatus(`Błąd: Destynacja "${destName}" nieznana.`, true);
-                viewerImage.classList.add('hidden');
-                initialMessage.classList.remove('hidden');
-                paginationControls.classList.add('hidden');
-                renderPageLinks(null); // Odświeżenie bez aktywnego linku
-                return;
-            }
-            
-            try {
-                const physicalPage = dest.page.toString();
-                const pageLabel = pages[physicalPage];
-                
-                if (!pageLabel) {
-                    throw new Error(`Brak etykiety dla strony fizycznej nr ${physicalPage} w pages.json.`);
-                }
-                
-                // 1. Wyróżnienie aktywnego linku
-                renderPageLinks(pageLabel);
-
-                // ZMIENIONO: ścieżka SVG jest teraz relatywna
-                const svgPath = `${pageLabel}.svg`;
-
-                // 2. Wyświetlenie SVG
-                viewerImage.src = svgPath;
-                viewerImage.classList.remove('hidden');
-                initialMessage.classList.add('hidden');
-                
-                // 3. Aktualizacja tytułu 
-                document.title = `Strona ${pageLabel} (${destName})`;
-
-                // 4. Logika Paginacji
-                const currentIndex = pageLabelsOrder.indexOf(pageLabel);
-                
-                if (currentIndex !== -1) {
-                    // Strona jest częścią posortowanej sekwencji (pageLabelsOrder)
-                    paginationControls.classList.remove('hidden');
-                    currentPageLabelSpan.textContent = pageLabel;
-
-                    // Funkcja pomocnicza do ustawiania linków
-                    const updateLink = (linkElement, label) => {
-                        if (label) {
-                            const destKey = pageLabelToDestName[label];
-                            if (destKey) {
-                                linkElement.href = `#${destKey}`;
-                                linkElement.classList.remove('opacity-50', 'pointer-events-none');
-                                linkElement.classList.add('hover:bg-blue-200');
-                            } else {
-                                linkElement.href = '#';
-                                linkElement.classList.add('opacity-50', 'pointer-events-none');
-                                linkElement.classList.remove('hover:bg-blue-200');
-                            }
-                        } else {
-                            linkElement.href = '#';
-                            linkElement.classList.add('opacity-50', 'pointer-events-none');
-                            linkElement.classList.remove('hover:bg-blue-200');
-                        }
-                    };
-
-                    // Ustawienie linków
-                    updateLink(prevPageLink, pageLabelsOrder[currentIndex - 1]);
-                    updateLink(nextPageLink, pageLabelsOrder[currentIndex + 1]);
-                    
-                } else {
-                    // Ukryj kontrolki dla destynacji, które nie są częścią głównej sekwencji stron
-                    paginationControls.classList.add('hidden');
-                }
-
-                // 5. Obsługa błędu ładowania SVG
-                viewerImage.onerror = () => {
-                    displayStatus(`Błąd ładowania pliku SVG: ${svgPath}. Sprawdź, czy plik istnieje.`, true);
-                    viewerImage.classList.add('hidden');
-                    initialMessage.classList.remove('hidden');
-                };
-
-            } catch (error) {
-                console.error("Błąd przetwarzania hasha:", error);
-                displayStatus(`Błąd przetwarzania: ${error.message}`, true);
-                viewerImage.classList.add('hidden');
-                initialMessage.classList.remove('hidden');
-                paginationControls.classList.add('hidden');
-                renderPageLinks(null); // Odświeżenie bez aktywnego linku
-            }
-        }
-
-        // Uruchomienie ładowania danych po załadowaniu DOM
-        document.addEventListener('DOMContentLoaded', loadDataAndInit);
-
-        // Ustawienie nasłuchiwania na zmianę hasha URL
-        window.addEventListener('hashchange', handleHashChange);
+      // Ustawienie nasłuchiwania na zmianę hasha URL
+      window.addEventListener("hashchange", handleHashChange);
     </script>
-</body>
+  </body>
 </html>
-
