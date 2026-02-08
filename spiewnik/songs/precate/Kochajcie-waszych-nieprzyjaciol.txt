@@ -146,5 +146,4 @@ nie potę[H]piaj[Fis]cie,
 KW:
 przeba[H]czaj[Fis]cie,
 K:
-
-41]131      a [Cis]będzie wam przeba[Fis]czone.
+a [Cis]będzie wam przeba[Fis]czone.

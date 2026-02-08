@@ -66,7 +66,7 @@ daj mi odpowiedź,
 [H7]w czym cię zasmuciłem?
 
 K:
-[a]To Ja wywiodłem cię z E([aX])giptu,
+[a]To Ja wywiodłem cię z E([a6])giptu,
 [a]to Ja wywiodłem cię z Egiptu,
 a [H7]ty, a ty przygotowałeś mi krzyż!
 
@@ -80,8 +80,8 @@ daj mi odpowiedź,
 
 K:
 [a]Za to, że wiodłem cię
-czterdzieści lat przez pu([aX])stynię,
-[a]za to, że twój głód koiłem ([aX])manną
+czterdzieści lat przez pu([a6])stynię,
+[a]za to, że twój głód koiłem ([a6])manną
 [a]i wprowadziłem cię do Ziemi Obiecanej,
 [H7]ty, ty przygotowałeś mi krzyż!
 
@@ -95,7 +95,7 @@ daj mi odpowiedź,
 
 K:
 [a]Co jeszcze miałem ci uczynić,
-a nie zro([aX])biłem?
+a nie zro([a6])biłem?
 [a]Ja ci śpiewałem: „winnico moja ukochana”,
 a [H7]ty, a ty stałaś się gorzka!
 

@@ -67,8 +67,8 @@ index:
 ===
 
 K:
-[dNmS]W jednej chwili, w jednym okamgnieniu,
-[a]na głos [aX]trąby osta[D7]tecznej, albowiem zabrzmi trąba,
+[d9_7-]W jednej chwili, w jednym okamgnieniu,
+[a]na głos [a6]trąby osta[D7]tecznej, albowiem zabrzmi trąba,
 [G]a umarli [h]powstaną w nieskazitelności,
 a [C]my bę[a]dziemy przemie[Fis]nieni.
 W:
@@ -114,5 +114,3 @@ Alleluja, alleluja.
 Gdzież jest, o śmierci, oścień [h]twój?
 Alleluja, alleluja.
 Alle[A]luja, alle[G]luja, allelu[Fis]ja.
-
-114]54.1

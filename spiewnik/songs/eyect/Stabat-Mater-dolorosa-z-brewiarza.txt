@@ -2,7 +2,7 @@
 title: "Stabat Mater dolorosa (z brewiarza)"
 subtitle: "Sekwencja z XIII wieku"
 section: "eyect"
-color: "eyect"
+color: "communion"
 tone: "d"
 songid: "S107StabatMaterDolorosa"
 author:
@@ -146,7 +146,7 @@ index:
 ===
 
 W:
-[dNmS]Stabat Mater dolorosa
+[d9_7-]Stabat Mater dolorosa
 [C7]iuxta crucem lacri[B7]mosa
 dum pendebat [A]Fílius.
 
@@ -234,7 +234,7 @@ W ogniu, Panno, niech nie płonę,
 Więc mnie w swoją weź obronę,
 Gdy nadejdzie sądu gniew.
 K:
-[d]Gdy kres dni przede mną [gX]stanie,
+[d]Gdy kres dni przede mną [g6]stanie,
 Przez Twą Matkę dojść mi, [B7]Panie,
 Do zwycięstwa palmy [A]daj.
 Kiedy umrze moje ciało,
@@ -242,5 +242,3 @@ Niechaj duszę mą z swą chwałą
 Czeka Twój wieczysty raj.
 W:
 A[d]men, a[B7]men, a[A7]men!
-
-0]917

@@ -2,7 +2,7 @@
 title: "Jak owieczka, która widzi"
 subtitle: "Kontakion Romana Melodosa"
 section: "eyect"
-color: "eyect"
+color: "communion"
 tone: "e"
 songid: "S148JakOwieczka"
 author:
@@ -100,5 +100,3 @@ KW:
 [a]Synu mój, Synu mój i Boże m[H7]ój.
 K:
 [e]Jak owieczka, …
-
-0]509

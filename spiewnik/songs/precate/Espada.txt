@@ -36,9 +36,9 @@ index:
 ===
 
 KW:
-[a]Espada, e[gisdimS]spada, bru[F]ñida para ma[E7]tar.
+[a]Espada, e[g#o]spada, bru[F]ñida para ma[E7]tar.
 KW:
-[C]María, Ma[gisdimS] [F]ría, madre de [E7]Dios.
+[C]María, Ma[g#o] [F]ría, madre de [E7]Dios.
 
 K:
 [a]Krzycz, synu czło[E7]wieczy,
@@ -46,9 +46,9 @@ krzycz, synu czło[a]wieczy.
 [d]Miecz jest dla mojego [E7]ludu,
 [F]miecz jest dla mojego [E7]ludu.
 W:
-[a]Espada, e[gisdimS]spada, bru[F]ñida para ma[E7]tar.
+[a]Espada, e[g#o]spada, bru[F]ñida para ma[E7]tar.
 W:
-[C]María, Ma[gisdimS] [F]ría, madre de [E7]Dios.
+[C]María, Ma[g#o] [F]ría, madre de [E7]Dios.
 
 K:
 [a]Odwróć się w twą prawą [E7]stronę,
@@ -56,9 +56,9 @@ K:
 [d]Tam, gdzie twoje ostrza będą nasy[E7]cone,
 [F]tam, gdzie nasyci się moja [E7]dusza.
 W:
-[a]Espada, e[gisdimS]spada, bru[F]ñida para ma[E7]tar.
+[a]Espada, e[g#o]spada, bru[F]ñida para ma[E7]tar.
 W:
-[C]María, Ma[gisdimS] [F]ría, madre de [E7]Dios.
+[C]María, Ma[g#o] [F]ría, madre de [E7]Dios.
 
 K:
 [d]Wyostrzony, aby [E7]zabić,
@@ -68,8 +68,6 @@ K:
 [d]Miecz jest dla mojego [E7]ludu,
 [F]miecz jest dla mojego [E7]ludu.
 W:
-[a]Espada, e[gisdimS]spada, bru[F]ñida para ma[E7]tar.
+[a]Espada, e[g#o]spada, bru[F]ñida para ma[E7]tar.
 W:
-[C]María, Ma[gisdimS] [F]ría, madre de [E7]Dios.
-
-42]82
+[C]María, Ma[g#o] [F]ría, madre de [E7]Dios.

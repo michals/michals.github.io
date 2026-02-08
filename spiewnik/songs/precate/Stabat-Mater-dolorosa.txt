@@ -67,7 +67,7 @@ index:
 ===
 
 KW:
-[dNmS]Stabat Mater dolorosa
+[d9_7-]Stabat Mater dolorosa
 [C7]iuxta crucem lacri[B7]mosa
 dum pendebat [A]filius.
 
@@ -76,7 +76,7 @@ K:
 zasmu[C7]coną, bole[B7]jącą,
 przebił [A]miecz.
 W:
-[dNmS]Stabat Mater dolorosa
+[d9_7-]Stabat Mater dolorosa
 [C7]iuxta crucem lacri[B7]mosa
 dum pendebat [A]filius.
 
@@ -85,7 +85,7 @@ K:
 [C7]była Ta Błogosła[B7]wiona,
 Matka Syna Jedy[A]nego!
 W:
-[dNmS]Stabat Mater dolorosa
+[d9_7-]Stabat Mater dolorosa
 [C7]iuxta crucem lacri[B7]mosa
 dum pendebat [A]filius.
 
@@ -95,7 +95,7 @@ widząc [C7]Matkę Chrys[B7]tusa
 w tak wielkim cier[A]pieniu!
 
 W:
-[dNmS]Stabat Mater dolorosa
+[d9_7-]Stabat Mater dolorosa
 [C7]iuxta crucem lacri[B7]mosa
 dum pendebat [A]filius.
 
@@ -104,7 +104,7 @@ K:
 biczo[C7]waniem dręczo[B7]nego
 za grzechy swego [A]ludu!
 W:
-[dNmS]Stabat Mater dolorosa
+[d9_7-]Stabat Mater dolorosa
 [C7]iuxta crucem lacri[B7]mosa
 dum pendebat [A]filius.
 
@@ -113,7 +113,7 @@ K:
 [C7]w śmierci samot[B7]nego,
 kiedy daje swego [A]Ducha!
 W:
-[dNmS]Stabat Mater dolorosa
+[d9_7-]Stabat Mater dolorosa
 [C7]iuxta crucem lacri[B7]mosa
 dum pendebat [A]filius.
 

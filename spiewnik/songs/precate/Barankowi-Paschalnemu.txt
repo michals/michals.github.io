@@ -73,19 +73,19 @@ index:
 
 K:
 [a]Barankowi Paschalnemu[A7]
-niech się wzniesie dzisiaj                 święta ofiara uwiel[dNmS]bienia,
-[FSp]Baranek odkupił swą ow[E]czarnię,
-[dNmS]niewinny [F]pojednał nas          grzeszników [E]z Ojcem.
+niech się wzniesie dzisiaj                 święta ofiara uwiel[d9_7-]bienia,
+[F7#]Baranek odkupił swą ow[E]czarnię,
+[d9_7-]niewinny [F]pojednał nas          grzeszników [E]z Ojcem.
 
 K:
 [a]Śmierć i [A7]życie spotkały się ze sobą
-w przedziwnym pojedyn[dNmS]ku.
-[FSp]Twórca życia był u[E]marły,
-a [dNmS]teraz jest [F]żywy i tryum[E]fuje.
+w przedziwnym pojedyn[d9_7-]ku.
+[F7#]Twórca życia był u[E]marły,
+a [d9_7-]teraz jest [F]żywy i tryum[E]fuje.
 
 „[A7]Opowiedz nam, Mario,                 coś zobaczyła po drodze:”
-„[FSp]Grób mojego Pana [E]pusty,
-[dNmS]Chwałę [F]Pana i żywego Chry[E]stusa,
+„[F7#]Grób mojego Pana [E]pusty,
+[d9_7-]Chwałę [F]Pana i żywego Chry[E]stusa,
 [F]aniołów, opaski i [E]całun”.
 
 K:
@@ -96,7 +96,7 @@ W:
 
 K:
 [d]Tak, jesteśmy [E]pewni:
-[FSp]Chrystus na[F]prawdę zmart[E]wychwstał!
+[F7#]Chrystus na[F]prawdę zmart[E]wychwstał!
 
 W:
 [d]Tak, jesteśmy [E]pewni:

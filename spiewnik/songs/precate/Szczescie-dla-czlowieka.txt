@@ -49,7 +49,7 @@ index:
 KW:
 [a]Szczęście dla człowieka,
 [e]co boi się [a]Pana;
-[dNmS]szczęście dla człowieka,
+[d9_7-]szczęście dla człowieka,
 który [F]chodzi Jego dro[E]gami.
 
 K:
@@ -60,7 +60,7 @@ jego sy[F]nowie jak pędy oliwek       dookoła jego [E]stołu.
 W:
 [a]Szczęście dla człowieka,
 [e]co boi się [a]Pana;
-[dNmS]szczęście dla człowieka,
+[d9_7-]szczęście dla człowieka,
 który [F]chodzi Jego dro[E]gami.
 
 K:
@@ -71,5 +71,5 @@ niechaj cię [d]Pan błogosławi z Sy[E]jonu!
 W:
 [a]Szczęście dla człowieka,
 [e]co boi się [a]Pana;
-[dNmS]szczęście dla człowieka,
+[d9_7-]szczęście dla człowieka,
 który [F]chodzi Jego dro[E]gami.

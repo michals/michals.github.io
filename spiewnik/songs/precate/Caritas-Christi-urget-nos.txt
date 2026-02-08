@@ -69,7 +69,7 @@ W:
 K:
 [d]A umarł On za wszystkich, aby ci, co [E]żyją,
 [d]nie żyli już więcej dla [E]siebie,
-[F]ale dla Tego, który [dNmS]umarł
+[F]ale dla Tego, który [d9_7-]umarł
 [G]i zmartwychwstał za [E]nic[F][E]h
 W:
 [a]Caritas Christi [C]urget [E]nos!
@@ -78,7 +78,7 @@ W:
 K:
 [d]Jeśli ktoś jest w Chrystusie,                 jest nowym stwo[E]rzeniem.
 [d]To co stare minęło, a oto wszystko jest [E]nowe.
-[F]Tego, który nie znał [dNmS]grzechu,                    uczynił Bóg grzechem,
+[F]Tego, który nie znał [d9_7-]grzechu,                    uczynił Bóg grzechem,
 [G]abyśmy stali się sprawiedliwością Bożą [E]w Nim.
 
 KW:

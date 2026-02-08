@@ -80,7 +80,7 @@ KW:
 [a]Nie unoś się gniewem na zło[F]czyńców,
 ani nie zazdrość tym, co zło [E7]czynią.
 Oni tak [d]znikną, jak niknie [E7]trawa
-i [FoS]zwiędną, jak świeża [E7]zieleń.
+i [F(7)]zwiędną, jak świeża [E7]zieleń.
 
 K:
 Za[a]ufaj swemu Panu, postępuj [F]dobrze,
@@ -98,7 +98,7 @@ W:
 [a]Nie unoś się gniewem na zło[F]czyńców,
 ani nie zazdrość tym, co zło [E7]czynią.
 Oni tak [d]znikną, jak niknie [E7]trawa
-i [FoS]zwiędną, jak świeża [E7]zieleń.
+i [F(7)]zwiędną, jak świeża [E7]zieleń.
 
 K:
 Zostań w mil[a]czeniu przed Panem, Jemu za[F]ufaj,
@@ -110,7 +110,7 @@ W:
 [a]Nie unoś się gniewem na zło[F]czyńców,
 ani nie zazdrość tym, co zło [E7]czynią.
 Oni tak [d]znikną, jak niknie [E7]trawa
-i [FoS]zwiędną, jak świeża [E7]zieleń.
+i [F(7)]zwiędną, jak świeża [E7]zieleń.
 
 K:
 Za[a]niechaj gniewu, złóż obu[F]rzenie,
@@ -128,4 +128,4 @@ W:
 [a]Nie unoś się gniewem na zło[F]czyńców,
 ani nie zazdrość tym, co zło [E7]czynią.
 Oni tak [d]znikną, jak niknie [E7]trawa
-i [FoS]zwiędną, jak świeża [E7]zieleń.
+i [F(7)]zwiędną, jak świeża [E7]zieleń.
