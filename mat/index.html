@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mat - Gra Edukacyjna</title>
+    <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body id="app-bg">
+    
+    <div class="app-container">
+        <!-- Level Selection Screen -->
+        <div id="level-selection-screen" class="hidden">
+            <h1 class="screen-title" style="color: var(--color-primary-dark); font-size: 3rem; margin-top: 2rem; margin-bottom: 2rem;">Wybierz Poziom</h1>
+            <div id="levels-grid-container" class="levels-master-container"></div>
+        </div>
+
+        <!-- Game Screen -->
+        <div id="game-screen" class="hidden">
+            <!-- Top Bar -->
+            <div class="top-bar">
+                <!-- Level Indicator -->
+                <div class="metric-box border-right">
+                    <div id="category-display" class="metric-label">Category</div>
+                    <div id="level-display" class="metric-value">1</div>
+                    <div id="difficulty-display" style="font-size: 0.65rem; color: var(--color-gray-400); font-weight: bold; margin-top: 2px; text-transform: lowercase;">Easy</div>
+                </div>
+
+                <!-- Pasek Postępu -->
+                <div class="progress-wrapper">
+                    <div class="metric-label">Postęp</div>
+                    <div id="progress-container" class="progress-container"></div>
+                </div>
+                
+                <!-- Punkty -->
+                <div class="metric-box border-left-right">
+                    <div class="metric-label">Punkty</div>
+                    <div id="score-display" class="metric-value">0</div>
+                </div>
+
+                <!-- Baterie (Życia) -->
+                <div class="health-wrapper">
+                    <div class="metric-label">Zdrowie</div>
+                    <div id="health-container" class="health-container"></div>
+                </div>
+
+                <!-- Menu Button -->
+                <div class="metric-box border-left" style="cursor: pointer; margin-left:1rem;" onclick="window.location.href = window.location.pathname">
+                    <div class="metric-label">Menu</div>
+                    <div class="metric-value" style="font-size: 1.2rem;">🏠</div>
+                </div>
+            </div>
+
+            <!-- Main Game Area -->
+            <div class="main-area">
+                
+                <div class="equation-avatar-wrapper">
+                    <div id="equation" class="equation">
+                        <span id="eq-num1">_</span>
+                        <span id="eq-op" class="eq-op">_</span>
+                        <span id="eq-num2">_</span>
+                        <span class="eq-equal">=</span>
+                        <span id="eq-result" class="eq-result">?</span>
+                    </div>
+                    <div id="avatar" class="avatar">🤔</div>
+                </div>
+
+                <div id="controls" class="controls-container">
+                    <input type="number" id="answer-input" placeholder="WYNIK" class="answer-input hidden">
+                    <div id="buttons-container" class="buttons-grid hidden"></div>
+                </div>
+
+                <!-- Kółka (Visual hints) - PRZENIESIONE NA DÓŁ -->
+                <div id="hints-container" class="hints-container"></div>
+            </div>
+            
+            <div id="game-over-screen" class="overlay-screen bg-red-overlay hidden">
+                <h1 class="screen-title">Koniec Gry</h1>
+                <p class="screen-subtitle">Brak zasilania!</p>
+                <div class="screen-emoji animate-shake">💥</div>
+                <button id="restart-btn" class="btn-overlay btn-red">Menu</button>
+            </div>
+            
+            <div id="victory-screen" class="overlay-screen bg-green-overlay hidden">
+                <h1 class="screen-title">Wspaniale!</h1>
+                <p class="screen-subtitle">Poziom ukończony</p>
+                <div class="screen-subtitle" style="margin-bottom: 2rem;">Zdobyte punkty: <span id="final-score" style="font-weight:bold;">0</span></div>
+                <div class="screen-emoji animate-pop">🎉</div>
+                <button id="next-lvl-btn" class="btn-overlay btn-green">Dalej</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Czysty JS ładujący logikę -->
+    <script src="levels.js"></script>
+    <script src="engine.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
