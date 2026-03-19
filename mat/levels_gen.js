@@ -6,12 +6,12 @@
 const categories = [
     { name: "Dodawanie (+)", types: ['+'] },
     { name: "Odejmowanie (-)", types: ['-'] },
-    { name: "Dodawanie i Odejmowanie (+,-)", types: ['+', '-'] },
-    { name: "Mnożenie (*)", types: ['*'] },
-    { name: "Mix (+, -, *)", types: ['+', '-', '*'] },
-    { name: "Dzielenie (/)", types: ['/'] },
-    { name: "Mnożenie i Dzielenie (*, /)", types: ['*', '/'] },
-    { name: "Wielki Mistrz (Wszystko)", types: ['+', '-', '*', '/'] }
+    { name: "Dodawanie i Odejmowanie (+ -)", types: ['+', '-'] },
+    { name: "Mnożenie (×)", types: ['*'] },
+    { name: "Mix (+ - ×)", types: ['+', '-', '*'] },
+    { name: "Dzielenie (÷)", types: ['/'] },
+    { name: "Mnożenie i Dzielenie (× ÷)", types: ['*', '/'] },
+    { name: "Wielki Mistrz (+ - × ÷)", types: ['+', '-', '*', '/'] }
 ];
 
 const difficultySteps = [

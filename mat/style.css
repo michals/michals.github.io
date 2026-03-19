@@ -1,5 +1,5 @@
 :root {
-  --font-comic: 'Comic Neue', cursive;
+  --font-comic: 'Comic Relief', cursive;
   --color-primary: #818cf8;
   --color-primary-dark: #6366f1;
   --color-primary-border: #c7d2fe;
@@ -255,6 +255,45 @@ body {
   cursor: not-allowed;
 }
 
+/* Stats HUD in Menu */
+.menu-stats-hud {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+  background-color: var(--color-bg-white-50);
+  backdrop-filter: blur(12px);
+  padding: 1.25rem 3rem;
+  border-radius: 9999px;
+  margin: 1rem auto 0 auto;
+  border: 1px solid var(--color-border-white-40);
+  box-shadow: var(--shadow-sm);
+  width: fit-content;
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.stat-label {
+  font-size: 0.7rem;
+  font-weight: bold;
+  opacity: 0.6;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.15rem;
+  color: var(--color-gray-800);
+}
+
+.stat-value {
+  font-size: 1.75rem;
+  font-weight: 900;
+  color: var(--color-primary-dark);
+  line-height: 1.1;
+}
+
+
 .levels-master-container {
   display: flex;
   flex-direction: column;
@@ -304,6 +343,33 @@ body {
   border-color: var(--color-primary);
   box-shadow: var(--shadow);
 }
+.level-tile.locked {
+  background-color: var(--color-gray-200);
+  border-color: var(--color-gray-300);
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+.level-tile.locked:hover {
+  transform: none;
+  box-shadow: var(--shadow-sm);
+}
+.level-tile.locked .level-num,
+.level-tile.locked .level-label {
+  filter: grayscale(1);
+  opacity: 0.4;
+}
+
+.level-tile {
+  position: relative;
+}
+
+.level-lock {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  font-size: 1rem;
+}
+
 .level-tile .level-num { 
   font-size: 2rem; 
   font-weight: 900; 

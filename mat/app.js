@@ -56,25 +56,41 @@ class UIController {
         const nextLvlBtn = document.getElementById('next-lvl-btn');
         if (nextLvlBtn) {
             nextLvlBtn.addEventListener('click', () => {
-                const nextLvl = this.config.level + 1;
-                if (window.LevelsConfig && window.LevelsConfig[nextLvl]) {
-                    const url = new URL(window.location.href);
-                    url.searchParams.set('level', nextLvl);
-                    window.location.href = url.href;
-                } else {
-                    window.location.href = window.location.pathname; // Back to menu
-                }
+                // Po zwycięstwie wracamy do menu, by zobaczyć odblokowany poziom
+                window.location.href = window.location.pathname;
             });
         }
     }
-
     showSelection() {
         this.gameScreen.classList.add('hidden');
         this.selectionScreen.classList.remove('hidden');
-        this.renderLevelSelection();
+        
+        // Render Stats
+        const user = localStorage.getItem('mat_curr_user') || 'default';
+        const key = `math_game_${user}`;
+        let history = [];
+        let unlockedLevels = [1];
+        try {
+            const stored = localStorage.getItem(key);
+            if (stored) {
+                const data = JSON.parse(stored);
+                if (data && data.history) history = data.history;
+                if (data && data.unlockedLevels) unlockedLevels = data.unlockedLevels;
+            }
+        } catch(e) {}
+
+        const totalPointsVal = document.getElementById('total-points-val');
+        const userNameVal = document.getElementById('user-name-val');
+        const dailyPointsVal = document.getElementById('daily-points-val');
+
+        if (totalPointsVal) totalPointsVal.innerText = StatsManager.getTotalPoints(history);
+        if (userNameVal) userNameVal.innerText = user;
+        if (dailyPointsVal) dailyPointsVal.innerText = StatsManager.getDailyPoints(history);
+
+        this.renderLevelSelection(unlockedLevels);
     }
 
-    renderLevelSelection() {
+    renderLevelSelection(unlockedLevels) {
         this.levelsGrid.innerHTML = '';
         
         // Group by category
@@ -97,9 +113,12 @@ class UIController {
             grid.className = 'level-grid';
 
             categories[catName].forEach(lvl => {
-                const tile = document.createElement('a');
-                tile.className = 'level-tile';
-                tile.href = `?level=${lvl.level}`;
+                const isUnlocked = unlockedLevels.includes(lvl.level);
+                
+                const tile = document.createElement(isUnlocked ? 'a' : 'div');
+                tile.className = 'level-tile' + (isUnlocked ? '' : ' locked');
+                if (lvl.background && isUnlocked) tile.style.background = lvl.background;
+                if (isUnlocked) tile.href = `?level=${lvl.level}`;
                 
                 const num = document.createElement('div');
                 num.className = 'level-num';
@@ -111,6 +130,14 @@ class UIController {
                 
                 tile.appendChild(num);
                 tile.appendChild(label);
+
+                if (!isUnlocked) {
+                    const lock = document.createElement('div');
+                    lock.className = 'level-lock';
+                    lock.innerText = '🔒';
+                    tile.appendChild(lock);
+                }
+
                 grid.appendChild(tile);
             });
 
@@ -299,28 +326,45 @@ class UIController {
     }
 
     saveScore() {
-        const urlParams = new URLSearchParams(window.location.search);
-        const user = urlParams.get('user') || 'default';
+        const user = localStorage.getItem('mat_curr_user') || 'default';
         const key = `math_game_${user}`;
         let data = { user: user, unlockedLevels: [1], history: [] };
         const oldDataStr = localStorage.getItem(key);
         if(oldDataStr) { try { data = JSON.parse(oldDataStr); } catch(e){} }
+        
         data.history.push({
             timestamp: new Date().toISOString(),
             level: this.config.level,
             points: this.engine.score,
             accuracy: this.engine.progressHistory.filter(x => x).length / this.engine.progressHistory.length
         });
+
+        if (this.engine.isVictory) {
+            const nextLvl = this.config.level + 1;
+            if (window.LevelsConfig[nextLvl] && !data.unlockedLevels.includes(nextLvl)) {
+                data.unlockedLevels.push(nextLvl);
+            }
+        }
+
         localStorage.setItem(key, JSON.stringify(data));
     }
 }
 
 window.addEventListener('DOMContentLoaded', () => {
     const urlParams = new URLSearchParams(window.location.search);
-    const lvlId = urlParams.get('level');
+    
+    // User Persistence Logic
+    const urlUser = urlParams.get('user');
+    if (urlUser) {
+        localStorage.setItem('mat_curr_user', urlUser);
+    }
+    const user = localStorage.getItem('mat_curr_user') || 'default';
+
+    let lvlId = urlParams.get('level');
     
     // UI controller needs access to DOM
     const ui = new UIController(null, null);
+    ui.currentUser = user; // Store for convenience
 
     if (lvlId && window.LevelsConfig[lvlId]) {
         const config = window.LevelsConfig[lvlId];

@@ -1,6 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert');
-const { MathGameEngine, MathGenerator } = require('./engine.js');
+const { MathGameEngine, MathGenerator, StatsManager } = require('./engine.js');
 const { LevelsConfig } = require('./levels.js');
 
 const defaultConfig = {
@@ -147,4 +147,21 @@ test('MathGenerator - All operators coverage', (t) => {
     assert.ok(operatorsFound.has('-'), 'Should have -');
     assert.ok(operatorsFound.has('*'), 'Should have *');
     assert.ok(operatorsFound.has('/'), 'Should have /');
+});
+
+test('StatsManager - Point Aggregation', (t) => {
+    const today = new Date().toISOString();
+    const yesterday = new Date(Date.now() - 24 * 60 * 60 * 1000).toISOString();
+    
+    const mockHistory = [
+        { points: 100, timestamp: today },
+        { points: 50, timestamp: today },
+        { points: 30, timestamp: yesterday },
+        { points: 0, timestamp: today }
+    ];
+
+    assert.strictEqual(StatsManager.getTotalPoints(mockHistory), 180, 'Total points should be 180');
+    assert.strictEqual(StatsManager.getDailyPoints(mockHistory), 150, 'Daily points should be 150');
+    assert.strictEqual(StatsManager.getTotalPoints([]), 0, 'Empty history should result in 0 points');
+    assert.strictEqual(StatsManager.getDailyPoints(null), 0, 'Null history should result in 0 points');
 });

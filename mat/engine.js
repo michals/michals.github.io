@@ -117,9 +117,42 @@ class MathGenerator {
     }
 }
 
+/**
+ * Zarządza statystykami gracza na podstawie historii gier.
+ */
+class StatsManager {
+    /**
+     * Oblicza sumaryczną liczbę punktów ze wszystkich gier.
+     * @param {Array} history - Tablica obiektów historii.
+     * @returns {number}
+     */
+    static getTotalPoints(history) {
+        if (!Array.isArray(history)) return 0;
+        return history.reduce((sum, entry) => sum + (Number(entry.points) || 0), 0);
+    }
+
+    /**
+     * Oblicza liczbę punktów zdobytych w dniu dzisiejszym (według czasu lokalnego).
+     * @param {Array} history - Tablica obiektów historii.
+     * @returns {number}
+     */
+    static getDailyPoints(history) {
+        if (!Array.isArray(history)) return 0;
+        const today = new Date().toLocaleDateString();
+        return history
+            .filter(entry => {
+                if (!entry.timestamp) return false;
+                return new Date(entry.timestamp).toLocaleDateString() === today;
+            })
+            .reduce((sum, entry) => sum + (Number(entry.points) || 0), 0);
+    }
+}
+
+// Eksport dla Node.js oraz przeglądarki
 if (typeof module !== 'undefined' && module.exports) {
-    module.exports = { MathGameEngine, MathGenerator };
+    module.exports = { MathGameEngine, MathGenerator, StatsManager };
 } else {
     window.MathGameEngine = MathGameEngine;
     window.MathGenerator = MathGenerator;
+    window.StatsManager = StatsManager;
 }

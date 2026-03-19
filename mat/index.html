@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mat - Gra Edukacyjna</title>
-    <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Comic+Relief&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body id="app-bg">
@@ -12,6 +12,22 @@
     <div class="app-container">
         <!-- Level Selection Screen -->
         <div id="level-selection-screen" class="hidden">
+            <!-- Stats HUD -->
+            <div id="menu-stats-hud" class="menu-stats-hud">
+                <div class="stat-item">
+                    <div class="stat-label">Suma Punktów</div>
+                    <div id="total-points-val" class="stat-value">0</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">Gracz</div>
+                    <div id="user-name-val" class="stat-value">-</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">Punkty Dziś</div>
+                    <div id="daily-points-val" class="stat-value">0</div>
+                </div>
+            </div>
+
             <h1 class="screen-title" style="color: var(--color-primary-dark); font-size: 3rem; margin-top: 2rem; margin-bottom: 2rem;">Wybierz Poziom</h1>
             <div id="levels-grid-container" class="levels-master-container"></div>
         </div>

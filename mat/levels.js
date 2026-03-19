@@ -373,7 +373,7 @@ const LevelsConfig = {
   },
   "13": {
     "level": 13,
-    "categoryName": "Dodawanie i Odejmowanie (+,-)",
+    "categoryName": "Dodawanie i Odejmowanie (+ -)",
     "difficultyLabel": "Łatwy (Quiz 3, Podpowiedzi)",
     "tasksCount": 10,
     "maxHealth": 3,
@@ -421,7 +421,7 @@ const LevelsConfig = {
   },
   "14": {
     "level": 14,
-    "categoryName": "Dodawanie i Odejmowanie (+,-)",
+    "categoryName": "Dodawanie i Odejmowanie (+ -)",
     "difficultyLabel": "Średni (Quiz 3, Bez hinta)",
     "tasksCount": 10,
     "maxHealth": 3,
@@ -469,7 +469,7 @@ const LevelsConfig = {
   },
   "15": {
     "level": 15,
-    "categoryName": "Dodawanie i Odejmowanie (+,-)",
+    "categoryName": "Dodawanie i Odejmowanie (+ -)",
     "difficultyLabel": "Trudny (Quiz 5, Podpowiedzi)",
     "tasksCount": 12,
     "maxHealth": 3,
@@ -517,7 +517,7 @@ const LevelsConfig = {
   },
   "16": {
     "level": 16,
-    "categoryName": "Dodawanie i Odejmowanie (+,-)",
+    "categoryName": "Dodawanie i Odejmowanie (+ -)",
     "difficultyLabel": "Ekspert (Quiz 5, Bez hinta)",
     "tasksCount": 12,
     "maxHealth": 3,
@@ -565,7 +565,7 @@ const LevelsConfig = {
   },
   "17": {
     "level": 17,
-    "categoryName": "Dodawanie i Odejmowanie (+,-)",
+    "categoryName": "Dodawanie i Odejmowanie (+ -)",
     "difficultyLabel": "Mistrz (Wpisuj, Podpowiedzi)",
     "tasksCount": 15,
     "maxHealth": 3,
@@ -613,7 +613,7 @@ const LevelsConfig = {
   },
   "18": {
     "level": 18,
-    "categoryName": "Dodawanie i Odejmowanie (+,-)",
+    "categoryName": "Dodawanie i Odejmowanie (+ -)",
     "difficultyLabel": "Arcymistrz (Wpisuj, Bez hinta)",
     "tasksCount": 15,
     "maxHealth": 3,
@@ -661,7 +661,7 @@ const LevelsConfig = {
   },
   "19": {
     "level": 19,
-    "categoryName": "Mnożenie (*)",
+    "categoryName": "Mnożenie (×)",
     "difficultyLabel": "Łatwy (Quiz 3, Podpowiedzi)",
     "tasksCount": 10,
     "maxHealth": 3,
@@ -692,7 +692,7 @@ const LevelsConfig = {
   },
   "20": {
     "level": 20,
-    "categoryName": "Mnożenie (*)",
+    "categoryName": "Mnożenie (×)",
     "difficultyLabel": "Średni (Quiz 3, Bez hinta)",
     "tasksCount": 10,
     "maxHealth": 3,
@@ -723,7 +723,7 @@ const LevelsConfig = {
   },
   "21": {
     "level": 21,
-    "categoryName": "Mnożenie (*)",
+    "categoryName": "Mnożenie (×)",
     "difficultyLabel": "Trudny (Quiz 5, Podpowiedzi)",
     "tasksCount": 12,
     "maxHealth": 3,
@@ -754,7 +754,7 @@ const LevelsConfig = {
   },
   "22": {
     "level": 22,
-    "categoryName": "Mnożenie (*)",
+    "categoryName": "Mnożenie (×)",
     "difficultyLabel": "Ekspert (Quiz 5, Bez hinta)",
     "tasksCount": 12,
     "maxHealth": 3,
@@ -785,7 +785,7 @@ const LevelsConfig = {
   },
   "23": {
     "level": 23,
-    "categoryName": "Mnożenie (*)",
+    "categoryName": "Mnożenie (×)",
     "difficultyLabel": "Mistrz (Wpisuj, Podpowiedzi)",
     "tasksCount": 15,
     "maxHealth": 3,
@@ -816,7 +816,7 @@ const LevelsConfig = {
   },
   "24": {
     "level": 24,
-    "categoryName": "Mnożenie (*)",
+    "categoryName": "Mnożenie (×)",
     "difficultyLabel": "Arcymistrz (Wpisuj, Bez hinta)",
     "tasksCount": 15,
     "maxHealth": 3,
@@ -847,7 +847,7 @@ const LevelsConfig = {
   },
   "25": {
     "level": 25,
-    "categoryName": "Mix (+, -, *)",
+    "categoryName": "Mix (+ - ×)",
     "difficultyLabel": "Łatwy (Quiz 3, Podpowiedzi)",
     "tasksCount": 10,
     "maxHealth": 3,
@@ -912,7 +912,7 @@ const LevelsConfig = {
   },
   "26": {
     "level": 26,
-    "categoryName": "Mix (+, -, *)",
+    "categoryName": "Mix (+ - ×)",
     "difficultyLabel": "Średni (Quiz 3, Bez hinta)",
     "tasksCount": 10,
     "maxHealth": 3,
@@ -977,7 +977,7 @@ const LevelsConfig = {
   },
   "27": {
     "level": 27,
-    "categoryName": "Mix (+, -, *)",
+    "categoryName": "Mix (+ - ×)",
     "difficultyLabel": "Trudny (Quiz 5, Podpowiedzi)",
     "tasksCount": 12,
     "maxHealth": 3,
@@ -1042,7 +1042,7 @@ const LevelsConfig = {
   },
   "28": {
     "level": 28,
-    "categoryName": "Mix (+, -, *)",
+    "categoryName": "Mix (+ - ×)",
     "difficultyLabel": "Ekspert (Quiz 5, Bez hinta)",
     "tasksCount": 12,
     "maxHealth": 3,
@@ -1107,7 +1107,7 @@ const LevelsConfig = {
   },
   "29": {
     "level": 29,
-    "categoryName": "Mix (+, -, *)",
+    "categoryName": "Mix (+ - ×)",
     "difficultyLabel": "Mistrz (Wpisuj, Podpowiedzi)",
     "tasksCount": 15,
     "maxHealth": 3,
@@ -1172,7 +1172,7 @@ const LevelsConfig = {
   },
   "30": {
     "level": 30,
-    "categoryName": "Mix (+, -, *)",
+    "categoryName": "Mix (+ - ×)",
     "difficultyLabel": "Arcymistrz (Wpisuj, Bez hinta)",
     "tasksCount": 15,
     "maxHealth": 3,
@@ -1237,7 +1237,7 @@ const LevelsConfig = {
   },
   "31": {
     "level": 31,
-    "categoryName": "Dzielenie (/)",
+    "categoryName": "Dzielenie (÷)",
     "difficultyLabel": "Łatwy (Quiz 3, Podpowiedzi)",
     "tasksCount": 10,
     "maxHealth": 3,
@@ -1268,7 +1268,7 @@ const LevelsConfig = {
   },
   "32": {
     "level": 32,
-    "categoryName": "Dzielenie (/)",
+    "categoryName": "Dzielenie (÷)",
     "difficultyLabel": "Średni (Quiz 3, Bez hinta)",
     "tasksCount": 10,
     "maxHealth": 3,
@@ -1299,7 +1299,7 @@ const LevelsConfig = {
   },
   "33": {
     "level": 33,
-    "categoryName": "Dzielenie (/)",
+    "categoryName": "Dzielenie (÷)",
     "difficultyLabel": "Trudny (Quiz 5, Podpowiedzi)",
     "tasksCount": 12,
     "maxHealth": 3,
@@ -1330,7 +1330,7 @@ const LevelsConfig = {
   },
   "34": {
     "level": 34,
-    "categoryName": "Dzielenie (/)",
+    "categoryName": "Dzielenie (÷)",
     "difficultyLabel": "Ekspert (Quiz 5, Bez hinta)",
     "tasksCount": 12,
     "maxHealth": 3,
@@ -1361,7 +1361,7 @@ const LevelsConfig = {
   },
   "35": {
     "level": 35,
-    "categoryName": "Dzielenie (/)",
+    "categoryName": "Dzielenie (÷)",
     "difficultyLabel": "Mistrz (Wpisuj, Podpowiedzi)",
     "tasksCount": 15,
     "maxHealth": 3,
@@ -1392,7 +1392,7 @@ const LevelsConfig = {
   },
   "36": {
     "level": 36,
-    "categoryName": "Dzielenie (/)",
+    "categoryName": "Dzielenie (÷)",
     "difficultyLabel": "Arcymistrz (Wpisuj, Bez hinta)",
     "tasksCount": 15,
     "maxHealth": 3,
@@ -1423,7 +1423,7 @@ const LevelsConfig = {
   },
   "37": {
     "level": 37,
-    "categoryName": "Mnożenie i Dzielenie (*, /)",
+    "categoryName": "Mnożenie i Dzielenie (× ÷)",
     "difficultyLabel": "Łatwy (Quiz 3, Podpowiedzi)",
     "tasksCount": 10,
     "maxHealth": 3,
@@ -1471,7 +1471,7 @@ const LevelsConfig = {
   },
   "38": {
     "level": 38,
-    "categoryName": "Mnożenie i Dzielenie (*, /)",
+    "categoryName": "Mnożenie i Dzielenie (× ÷)",
     "difficultyLabel": "Średni (Quiz 3, Bez hinta)",
     "tasksCount": 10,
     "maxHealth": 3,
@@ -1519,7 +1519,7 @@ const LevelsConfig = {
   },
   "39": {
     "level": 39,
-    "categoryName": "Mnożenie i Dzielenie (*, /)",
+    "categoryName": "Mnożenie i Dzielenie (× ÷)",
     "difficultyLabel": "Trudny (Quiz 5, Podpowiedzi)",
     "tasksCount": 12,
     "maxHealth": 3,
@@ -1567,7 +1567,7 @@ const LevelsConfig = {
   },
   "40": {
     "level": 40,
-    "categoryName": "Mnożenie i Dzielenie (*, /)",
+    "categoryName": "Mnożenie i Dzielenie (× ÷)",
     "difficultyLabel": "Ekspert (Quiz 5, Bez hinta)",
     "tasksCount": 12,
     "maxHealth": 3,
@@ -1615,7 +1615,7 @@ const LevelsConfig = {
   },
   "41": {
     "level": 41,
-    "categoryName": "Mnożenie i Dzielenie (*, /)",
+    "categoryName": "Mnożenie i Dzielenie (× ÷)",
     "difficultyLabel": "Mistrz (Wpisuj, Podpowiedzi)",
     "tasksCount": 15,
     "maxHealth": 3,
@@ -1663,7 +1663,7 @@ const LevelsConfig = {
   },
   "42": {
     "level": 42,
-    "categoryName": "Mnożenie i Dzielenie (*, /)",
+    "categoryName": "Mnożenie i Dzielenie (× ÷)",
     "difficultyLabel": "Arcymistrz (Wpisuj, Bez hinta)",
     "tasksCount": 15,
     "maxHealth": 3,
@@ -1711,7 +1711,7 @@ const LevelsConfig = {
   },
   "43": {
     "level": 43,
-    "categoryName": "Wielki Mistrz (Wszystko)",
+    "categoryName": "Wielki Mistrz (+ - × ÷)",
     "difficultyLabel": "Łatwy (Quiz 3, Podpowiedzi)",
     "tasksCount": 10,
     "maxHealth": 3,
@@ -1793,7 +1793,7 @@ const LevelsConfig = {
   },
   "44": {
     "level": 44,
-    "categoryName": "Wielki Mistrz (Wszystko)",
+    "categoryName": "Wielki Mistrz (+ - × ÷)",
     "difficultyLabel": "Średni (Quiz 3, Bez hinta)",
     "tasksCount": 10,
     "maxHealth": 3,
@@ -1875,7 +1875,7 @@ const LevelsConfig = {
   },
   "45": {
     "level": 45,
-    "categoryName": "Wielki Mistrz (Wszystko)",
+    "categoryName": "Wielki Mistrz (+ - × ÷)",
     "difficultyLabel": "Trudny (Quiz 5, Podpowiedzi)",
     "tasksCount": 12,
     "maxHealth": 3,
@@ -1957,7 +1957,7 @@ const LevelsConfig = {
   },
   "46": {
     "level": 46,
-    "categoryName": "Wielki Mistrz (Wszystko)",
+    "categoryName": "Wielki Mistrz (+ - × ÷)",
     "difficultyLabel": "Ekspert (Quiz 5, Bez hinta)",
     "tasksCount": 12,
     "maxHealth": 3,
@@ -2039,7 +2039,7 @@ const LevelsConfig = {
   },
   "47": {
     "level": 47,
-    "categoryName": "Wielki Mistrz (Wszystko)",
+    "categoryName": "Wielki Mistrz (+ - × ÷)",
     "difficultyLabel": "Mistrz (Wpisuj, Podpowiedzi)",
     "tasksCount": 15,
     "maxHealth": 3,
@@ -2121,7 +2121,7 @@ const LevelsConfig = {
   },
   "48": {
     "level": 48,
-    "categoryName": "Wielki Mistrz (Wszystko)",
+    "categoryName": "Wielki Mistrz (+ - × ÷)",
     "difficultyLabel": "Arcymistrz (Wpisuj, Bez hinta)",
     "tasksCount": 15,
     "maxHealth": 3,
