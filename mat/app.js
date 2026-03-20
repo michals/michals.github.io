@@ -52,8 +52,9 @@ class UIController {
 
     initListeners() {
         if (this.inputControl) {
-            this.inputControl.addEventListener('keyup', (e) => {
-                if (e.key === 'Enter') {
+            this.inputControl.addEventListener('keydown', (e) => {
+                if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault(); 
                     if (this.inputControl.value === '') return;
                     const answer = parseInt(this.inputControl.value, 10);
                     this.handleAnswer(answer);
@@ -315,12 +316,16 @@ class UIController {
             } else {
                 this.sounds.taskPass.play().catch(() => {});
             }
+            this.eqResult.innerText = answer;
+            this.eqResult.className = 'val-result-ok';
             this.avatar.innerText = '😀';
             this.avatar.classList.add('animate-pop');
             setTimeout(() => this.avatar.classList.remove('animate-pop'), 400);
             this.scoreEl.innerText = this.engine.score;
             this.scoreEl.classList.add('animate-pop');
             setTimeout(() => this.scoreEl.classList.remove('animate-pop'), 400);
+
+            this.showPointsAnimation(this.config.basePoints, res.streakBonusAdded);
         } else {
             this.sounds.taskFail.play().catch(() => {});
             this.avatar.innerText = '😔';
@@ -340,9 +345,13 @@ class UIController {
         } else if (this.engine.isVictory) {
             this.sounds.bgm.pause();
             this.sounds.levelPass.play().catch(() => {});
-            this.finalScore.innerText = this.engine.score;
-            this.victoryScreen.classList.remove('hidden');
-            this.saveScore();
+            
+            // Wait 1s for the last point cloud to be seen
+            setTimeout(() => {
+                this.finalScore.innerText = this.engine.score;
+                this.victoryScreen.classList.remove('hidden');
+                this.saveScore();
+            }, 1000);
         } else {
             const quizBtns = this.buttonsControl.querySelectorAll('button');
             quizBtns.forEach(b => b.disabled = true);
@@ -350,7 +359,7 @@ class UIController {
             setTimeout(() => {
                 this.inputControl.disabled = false;
                 if (!this.engine.isGameOver) this.nextTask();
-            }, isCorrect ? 800 : 5000);
+            }, isCorrect ? 1500 : 4000);
         }
     }
 
@@ -395,6 +404,24 @@ class UIController {
         }
 
         localStorage.setItem(key, JSON.stringify(data));
+    }
+
+    showPointsAnimation(points, bonus) {
+        const cloud = document.createElement('div');
+        cloud.className = 'points-cloud';
+        
+        let content = `<div class="base-pts">+${points}</div>`;
+        if (bonus > 0) {
+            content += `<div class="streak-pts">+${bonus}</div>`;
+        }
+        cloud.innerHTML = content;
+        
+        document.body.appendChild(cloud);
+        
+        // Remove after animation finishes (2.4s)
+        setTimeout(() => {
+            if (cloud.parentNode) cloud.parentNode.removeChild(cloud);
+        }, 2400);
     }
 }
 

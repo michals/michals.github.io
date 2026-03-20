@@ -18,13 +18,15 @@ class MathGameEngine {
         if (this.isGameOver || this.isVictory) return { pointsAdded: 0, healthChanged: 0 };
 
         let pointsAdded = 0;
+        let streakBonusAdded = 0;
         let healthChanged = 0;
 
         this.progressHistory.push(isCorrect);
         this.tasksCompleted += 1; // Always increment
 
         if (isCorrect) {
-            pointsAdded = this.config.basePoints + (this.streak * this.config.streakBonus);
+            streakBonusAdded = this.streak * this.config.streakBonus;
+            pointsAdded = this.config.basePoints + streakBonusAdded;
             this.score += pointsAdded;
             this.streak += 1;
             
@@ -49,7 +51,7 @@ class MathGameEngine {
             this.isVictory = true;
         }
 
-        return { pointsAdded, healthChanged };
+        return { pointsAdded, streakBonusAdded, healthChanged };
     }
 }
 
