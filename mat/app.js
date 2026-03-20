@@ -32,6 +32,21 @@ class UIController {
         this.victoryScreen = document.getElementById('victory-screen');
         this.finalScore = document.getElementById('final-score');
         
+        // Audio
+        this.sounds = {
+            taskNew: new Audio('snd/task-new.mp3'),
+            taskPass: new Audio('snd/task-pass.mp3'),
+            taskPassBonus: new Audio('snd/task-pass-with-bonus.mp3'),
+            taskFail: new Audio('snd/task-fail.mp3'),
+            levelPass: new Audio('snd/level-pass.mp3'),
+            levelFail: new Audio('snd/level-fail.mp3'),
+            bgm: new Audio('snd/bg.mp3')
+        };
+        this.sounds.bgm.loop = true;
+        this.sounds.bgm.volume = 0.5;
+
+        this.bgmEnabled = localStorage.getItem('mat_bgm_enabled') !== 'false';
+
         this.initListeners();
     }
 
@@ -58,6 +73,21 @@ class UIController {
             nextLvlBtn.addEventListener('click', () => {
                 // Po zwycięstwie wracamy do menu, by zobaczyć odblokowany poziom
                 window.location.href = window.location.pathname;
+            });
+        }
+
+        const progressWrapper = document.querySelector('.progress-wrapper');
+        if (progressWrapper) {
+            progressWrapper.style.cursor = 'pointer';
+            progressWrapper.title = 'Włącz/wyłącz muzykę';
+            progressWrapper.addEventListener('click', () => {
+                this.bgmEnabled = !this.bgmEnabled;
+                localStorage.setItem('mat_bgm_enabled', this.bgmEnabled);
+                if (this.bgmEnabled) {
+                    this.sounds.bgm.play().catch(() => {});
+                } else {
+                    this.sounds.bgm.pause();
+                }
             });
         }
     }
@@ -163,10 +193,18 @@ class UIController {
 
         this.gameOverScreen.classList.add('hidden');
         this.victoryScreen.classList.add('hidden');
+
+        // Start BGM if enabled
+        if (this.bgmEnabled) {
+            this.sounds.bgm.currentTime = 0;
+            this.sounds.bgm.play().catch(e => console.log("Audio play blocked by browser:", e));
+        }
+
         this.nextTask();
     }
 
     nextTask() {
+        this.sounds.taskNew.play().catch(() => {});
         this.inputControl.value = '';
         this.currentTask = MathGenerator.generateTask(this.config);
         
@@ -272,6 +310,11 @@ class UIController {
         const res = this.engine.submitAnswer(isCorrect);
         
         if (isCorrect) {
+            if (res.healthChanged > 0) {
+                this.sounds.taskPassBonus.play().catch(() => {});
+            } else {
+                this.sounds.taskPass.play().catch(() => {});
+            }
             this.avatar.innerText = '😀';
             this.avatar.classList.add('animate-pop');
             setTimeout(() => this.avatar.classList.remove('animate-pop'), 400);
@@ -279,6 +322,7 @@ class UIController {
             this.scoreEl.classList.add('animate-pop');
             setTimeout(() => this.scoreEl.classList.remove('animate-pop'), 400);
         } else {
+            this.sounds.taskFail.play().catch(() => {});
             this.avatar.innerText = '😔';
             this.avatar.classList.add('animate-shake');
             setTimeout(() => this.avatar.classList.remove('animate-shake'), 400);
@@ -290,8 +334,12 @@ class UIController {
         this.renderProgress();
 
         if (this.engine.isGameOver) {
+            this.sounds.bgm.pause();
+            this.sounds.levelFail.play().catch(() => {});
             this.gameOverScreen.classList.remove('hidden');
         } else if (this.engine.isVictory) {
+            this.sounds.bgm.pause();
+            this.sounds.levelPass.play().catch(() => {});
             this.finalScore.innerText = this.engine.score;
             this.victoryScreen.classList.remove('hidden');
             this.saveScore();
