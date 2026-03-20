@@ -53,6 +53,16 @@ class MathGameEngine {
 
         return { pointsAdded, streakBonusAdded, healthChanged };
     }
+
+    static computeMaxPoints(config) {
+        if (!config) return 0;
+        const n = config.tasksCount;
+        const b = config.basePoints;
+        const s = config.streakBonus;
+        // Suma: n*b + s*(0 + 1 + 2 + ... + n-1)
+        // Suma 0..n-1 to n*(n-1)/2
+        return n * b + Math.round(s * (n * (n - 1)) / 2);
+    }
 }
 
 class MathGenerator {

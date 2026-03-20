@@ -159,8 +159,14 @@ class UIController {
                 label.className = 'level-label';
                 label.innerText = lvl.difficultyLabel.split('(')[0].trim();
                 
+                const maxPoints = MathGameEngine.computeMaxPoints(lvl);
+                const maxLabel = document.createElement('div');
+                maxLabel.className = 'level-max-pts';
+                maxLabel.innerText = `Max: ${maxPoints}`;
+                
                 tile.appendChild(num);
                 tile.appendChild(label);
+                tile.appendChild(maxLabel);
 
                 if (!isUnlocked) {
                     const lock = document.createElement('div');

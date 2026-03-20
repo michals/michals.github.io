@@ -380,8 +380,17 @@ body {
   font-size: 0.65rem; 
   font-weight: bold; 
   opacity: 0.6; 
-  margin-top: 0.5rem;
+  margin-top: 0.4rem;
   text-align: center;
+  line-height: 1.1;
+}
+.level-tile .level-max-pts {
+  font-size: 0.6rem;
+  font-weight: 800;
+  opacity: 0.5;
+  margin-top: 0.2rem;
+  text-align: center;
+  color: var(--color-gray-800);
 }
 
 .border-left { border-left: 2px solid var(--color-gray-200); margin-left: 0.5rem; }
