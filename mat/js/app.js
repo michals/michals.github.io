@@ -377,7 +377,7 @@ class UIController {
                 this.finalScore.innerText = this.engine.score;
                 this.victoryScreen.classList.remove('hidden');
                 this.saveScore();
-            }, 1000);
+            }, 2000);
         } else {
             const quizBtns = this.buttonsControl.querySelectorAll('button');
             quizBtns.forEach(b => b.disabled = true);
@@ -385,7 +385,7 @@ class UIController {
             setTimeout(() => {
                 this.inputControl.disabled = false;
                 if (!this.engine.isGameOver) this.nextTask();
-            }, isCorrect ? 1500 : 4000);
+            }, isCorrect ? 2500 : 3000);
         }
     }
 
