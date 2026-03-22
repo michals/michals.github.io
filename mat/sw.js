@@ -1,12 +1,14 @@
-const CACHE_NAME = 'mat-v1';
+const CACHE_NAME = 'mat-v2';
 const ASSETS = [
     './',
     './index.html',
     './style.css',
-    './app.js',
-    './engine.js',
-    './levels.js',
+    './js/app.js',
+    './js/engine.js',
+    './js/levels.js',
     './manifest.json',
+    './js/gsap.min.js',
+    './js/mat.js',
     './snd/task-new.mp3',
     './snd/task-pass.mp3',
     './snd/task-pass-with-bonus.mp3',
