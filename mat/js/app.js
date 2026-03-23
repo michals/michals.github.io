@@ -224,6 +224,7 @@ class UIController {
     nextTask() {
         this.sounds.taskNew.play().catch(() => {});
         this.hintsContainer.innerHTML = '';
+        if (this.inputControl) this.inputControl.value = '';
         this.mat.setMood('thinking');
         
         const task = MathGenerator.generateTask(this.config);

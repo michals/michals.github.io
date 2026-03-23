@@ -1,5 +1,6 @@
 {
   "name": "Mat - Gra Edukacyjna",
+  "version": "8",
   "short_name": "Mat",
   "description": "Edukacyjna gra matematyczna dla dzieci",
   "start_url": "index.html",
