@@ -22,7 +22,7 @@
         <div id="level-selection-screen" class="hidden">
             <!-- Stats HUD -->
             <div id="menu-stats-hud" class="menu-stats-hud">
-                <div class="stat-item">
+                <div class="stat-item clickable-hud" id="total-points-stat" title="Kliknij dwukrotnie, aby utworzyć link kopii zapasowej">
                     <div class="stat-label">Suma Punktów</div>
                     <div id="total-points-val" class="stat-value">0</div>
                 </div>
@@ -35,6 +35,7 @@
                     <div id="daily-points-val" class="stat-value">0</div>
                 </div>
             </div>
+            <div id="backup-link-container" class="backup-link-container"></div>
 
             <h1 class="screen-title" style="color: var(--color-primary-dark); font-size: 3rem; margin-top: 2rem; margin-bottom: 2rem;">Wybierz Poziom</h1>
             <div id="levels-grid-container" class="levels-master-container"></div>

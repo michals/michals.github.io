@@ -165,11 +165,50 @@ class StatsManager {
     }
 }
 
+class BackupManager {
+    static async compress(str) {
+        const stream = new Blob([str]).stream();
+        const compressedStream = stream.pipeThrough(new CompressionStream('gzip'));
+        const response = new Response(compressedStream);
+        const buffer = await response.arrayBuffer();
+        
+        let binary = '';
+        const bytes = new Uint8Array(buffer);
+        const len = bytes.byteLength;
+        for (let i = 0; i < len; i++) {
+            binary += String.fromCharCode(bytes[i]);
+        }
+        return btoa(binary);
+    }
+
+    static async decompress(base64Str) {
+        const binary = atob(base64Str);
+        const len = binary.length;
+        const bytes = new Uint8Array(len);
+        for (let i = 0; i < len; i++) {
+            bytes[i] = binary.charCodeAt(i);
+        }
+        const stream = new Blob([bytes]).stream();
+        const decompressedStream = stream.pipeThrough(new DecompressionStream('gzip'));
+        const response = new Response(decompressedStream);
+        return await response.text();
+    }
+
+    static validate(data) {
+        if (!data || typeof data !== 'object') return false;
+        if (typeof data.user !== 'string') return false;
+        if (!Array.isArray(data.unlockedLevels)) return false;
+        if (!Array.isArray(data.history)) return false;
+        return true;
+    }
+}
+
 // Eksport dla Node.js oraz przeglądarki
 if (typeof module !== 'undefined' && module.exports) {
-    module.exports = { MathGameEngine, MathGenerator, StatsManager };
+    module.exports = { MathGameEngine, MathGenerator, StatsManager, BackupManager };
 } else {
     window.MathGameEngine = MathGameEngine;
     window.MathGenerator = MathGenerator;
     window.StatsManager = StatsManager;
+    window.BackupManager = BackupManager;
 }

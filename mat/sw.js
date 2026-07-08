@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mat-v9';
+const CACHE_NAME = 'mat-v11';
 const ASSETS = [
     './',
     './index.html',

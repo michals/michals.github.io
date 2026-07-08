@@ -707,3 +707,65 @@ body {
   opacity: 0;
   transition: opacity 0.5s ease-out;
 }
+
+/* Backup and HUD Click Styles */
+.clickable-hud {
+  cursor: pointer;
+  user-select: none;
+  transition: transform 0.2s, filter 0.2s;
+}
+
+.clickable-hud:hover {
+  filter: brightness(0.95);
+  transform: translateY(-1px);
+}
+
+.clickable-hud:active {
+  transform: scale(0.95);
+}
+
+.backup-link-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 0.75rem;
+  min-height: 1.8rem;
+}
+
+.backup-link {
+  font-size: 0.9rem;
+  color: var(--color-primary-dark);
+  background-color: var(--color-bg-white-50);
+  backdrop-filter: blur(8px);
+  border: 1px dashed var(--color-border-white-40);
+  padding: 0.35rem 1.25rem;
+  border-radius: 9999px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  box-shadow: var(--shadow-sm);
+  transition: all 0.2s ease;
+  animation: slideDownFadeIn 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  font-family: var(--font-comic);
+}
+
+.backup-link:hover {
+  background-color: var(--color-primary-dark);
+  color: white;
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+  border-style: solid;
+}
+
+@keyframes slideDownFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+

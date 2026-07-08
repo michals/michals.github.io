@@ -93,6 +93,42 @@ class UIController {
                 this.updateMusicToggleUI();
             });
         }
+
+        const totalPointsStat = document.getElementById('total-points-stat');
+        if (totalPointsStat) {
+            totalPointsStat.addEventListener('dblclick', async () => {
+                const user = localStorage.getItem('mat_curr_user') || 'default';
+                const key = `math_game_${user}`;
+                const stored = localStorage.getItem(key);
+                if (!stored) {
+                    alert("Brak danych do wygenerowania kopii!");
+                    return;
+                }
+                try {
+                    const compressed = await window.BackupManager.compress(stored);
+                    
+                    const d = new Date();
+                    const yyyy = d.getFullYear();
+                    const mm = String(d.getMonth() + 1).padStart(2, '0');
+                    const dd = String(d.getDate()).padStart(2, '0');
+                    const formattedDate = `${yyyy}-${mm}-${dd}`;
+                    
+                    const backupUrl = `${window.location.origin}${window.location.pathname}?user=${encodeURIComponent(user)}&import=${encodeURIComponent(compressed)}`;
+                    
+                    const container = document.getElementById('backup-link-container');
+                    if (container) {
+                        container.innerHTML = `
+                            <a href="${backupUrl}" class="backup-link" title="Przeciągnij ten link na pasek zakładek lub kliknij prawym przyciskiem myszy, aby go zapisać">
+                                💾 Kopia: ${user} - ${formattedDate}
+                            </a>
+                        `;
+                    }
+                } catch (e) {
+                    console.error(e);
+                    alert("Błąd podczas tworzenia kopii zapasowej!");
+                }
+            });
+        }
     }
     showSelection() {
         this.gameScreen.classList.add('hidden');
@@ -520,12 +556,90 @@ class UIController {
 window.addEventListener('DOMContentLoaded', async () => {
     const urlParams = new URLSearchParams(window.location.search);
     
-    // User Persistence Logic
+    // Check for Backup/Import first
+    const importData = urlParams.get('import');
     const urlUser = urlParams.get('user');
+    if (importData && urlUser) {
+        try {
+            const decompressed = await window.BackupManager.decompress(importData);
+            const parsed = JSON.parse(decompressed);
+            if (window.BackupManager.validate(parsed)) {
+                const confirmed = confirm(`Czy chcesz wczytać zapisane postępy dla gracza "${urlUser}"? Zastąpi to obecne dane.`);
+                if (confirmed) {
+                    localStorage.setItem(`math_game_${urlUser}`, JSON.stringify(parsed));
+                    localStorage.setItem('mat_curr_user', urlUser);
+                    alert("Import zakończony pomyślnie!");
+                }
+            } else {
+                alert("Nieprawidłowy format danych kopii zapasowej!");
+            }
+        } catch (e) {
+            console.error(e);
+            alert("Błąd podczas odczytywania kopii zapasowej!");
+        }
+        
+        // Clean URL parameters and reload/redirect
+        urlParams.delete('import');
+        const newQuery = urlParams.toString();
+        const newUrl = window.location.pathname + (newQuery ? '?' + newQuery : '');
+        window.location.replace(newUrl);
+        return; // Stop further execution
+    }
+
+    // User Persistence Logic
     if (urlUser) {
         localStorage.setItem('mat_curr_user', urlUser);
     }
     const user = localStorage.getItem('mat_curr_user') || 'default';
+
+    // Handle level unlocking hacks
+    const unlockVal = urlParams.get('unlock');
+    if (unlockVal) {
+        const key = `math_game_${user}`;
+        let data = { user: user, unlockedLevels: [1], history: [] };
+        const oldDataStr = localStorage.getItem(key);
+        if (oldDataStr) {
+            try { data = JSON.parse(oldDataStr); } catch (e) {}
+        }
+        
+        if (unlockVal === 'all') {
+            const allLevelIds = Object.keys(window.LevelsConfig).map(Number);
+            allLevelIds.forEach(id => {
+                if (!data.unlockedLevels.includes(id)) {
+                    data.unlockedLevels.push(id);
+                }
+            });
+        } else if (unlockVal === 'first') {
+            const firstLevels = {};
+            Object.values(window.LevelsConfig).forEach(lvl => {
+                const cat = lvl.categoryName;
+                if (firstLevels[cat] === undefined || lvl.level < firstLevels[cat]) {
+                    firstLevels[cat] = lvl.level;
+                }
+            });
+            Object.values(firstLevels).forEach(id => {
+                if (!data.unlockedLevels.includes(id)) {
+                    data.unlockedLevels.push(id);
+                }
+            });
+        } else {
+            const lvlNum = parseInt(unlockVal, 10);
+            if (!isNaN(lvlNum) && window.LevelsConfig[lvlNum]) {
+                if (!data.unlockedLevels.includes(lvlNum)) {
+                    data.unlockedLevels.push(lvlNum);
+                }
+            }
+        }
+        
+        localStorage.setItem(key, JSON.stringify(data));
+        
+        // Redirect to clean the URL
+        urlParams.delete('unlock');
+        const newQuery = urlParams.toString();
+        const newUrl = window.location.pathname + (newQuery ? '?' + newQuery : '');
+        window.location.replace(newUrl);
+        return; // Stop initialization
+    }
 
     let lvlId = urlParams.get('level');
     
