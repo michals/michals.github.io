@@ -442,6 +442,11 @@ body {
   transition: transform 0.3s;
   animation: floatFull 4s ease-in-out infinite;
 }
+.mat-container svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
 
 @keyframes floatFull {
   0%   { transform: translateY(0px); }
@@ -546,6 +551,22 @@ body {
   border: 4px solid var(--border-orange-300);
   width: fit-content;
 }
+
+.hint-power-text {
+  font-size: 1.75rem;
+  font-weight: bold;
+  color: var(--purple-500);
+  background-color: var(--bg-purple-100-50);
+  border: 2px dashed var(--border-purple-300);
+  padding: 1rem 1.5rem;
+  border-radius: 1rem;
+  text-align: center;
+  margin: 0 auto;
+  align-self: center;
+  box-shadow: var(--shadow-sm);
+  text-transform: none;
+}
+
 
 /* Floating Points Cloud Animation */
 .points-cloud {

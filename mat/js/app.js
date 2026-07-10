@@ -1,3 +1,55 @@
+function loadUserData(user) {
+    const key = `math_game_${user}`;
+    let data = { user: user, unlockedLevels: [1], history: [] };
+    const stored = localStorage.getItem(key);
+    if (stored) {
+        try {
+            const parsed = JSON.parse(stored);
+            if (parsed && typeof parsed === 'object') {
+                if (Array.isArray(parsed.unlockedLevels)) data.unlockedLevels = parsed.unlockedLevels;
+                if (Array.isArray(parsed.history)) data.history = parsed.history;
+            }
+        } catch(e) {}
+    }
+    
+    // Auto-heal unlocked levels based on history
+    let dirty = false;
+    
+    // 1. Every level in history should be unlocked
+    data.history.forEach(entry => {
+        if (entry.level && !data.unlockedLevels.includes(entry.level)) {
+            data.unlockedLevels.push(entry.level);
+            dirty = true;
+        }
+        // 2. The level after any completed level should also be unlocked
+        const nextLvl = entry.level + 1;
+        if (window.LevelsConfig[nextLvl] && !data.unlockedLevels.includes(nextLvl)) {
+            data.unlockedLevels.push(nextLvl);
+            dirty = true;
+        }
+    });
+    
+    // 3. Keep levels contiguous (if lvl is unlocked, all levels < lvl must be unlocked)
+    if (data.unlockedLevels.length > 0) {
+        const maxUnlocked = Math.max(...data.unlockedLevels);
+        for (let i = 1; i <= maxUnlocked; i++) {
+            if (window.LevelsConfig[i] && !data.unlockedLevels.includes(i)) {
+                data.unlockedLevels.push(i);
+                dirty = true;
+            }
+        }
+    }
+
+    // Sort unlocked levels for cleanliness
+    data.unlockedLevels.sort((a, b) => a - b);
+    
+    if (dirty) {
+        localStorage.setItem(key, JSON.stringify(data));
+    }
+    
+    return data;
+}
+
 class UIController {
     constructor(engine, config) {
         this.engine = engine;
@@ -136,17 +188,9 @@ class UIController {
         
         // Render Stats
         const user = localStorage.getItem('mat_curr_user') || 'default';
-        const key = `math_game_${user}`;
-        let history = [];
-        let unlockedLevels = [1];
-        try {
-            const stored = localStorage.getItem(key);
-            if (stored) {
-                const data = JSON.parse(stored);
-                if (data && data.history) history = data.history;
-                if (data && data.unlockedLevels) unlockedLevels = data.unlockedLevels;
-            }
-        } catch(e) {}
+        const data = loadUserData(user);
+        const history = data.history;
+        const unlockedLevels = data.unlockedLevels;
 
         const totalPointsVal = document.getElementById('total-points-val');
         if (totalPointsVal) totalPointsVal.innerText = StatsManager.getTotalPoints(history);
@@ -359,6 +403,19 @@ class UIController {
                 gridRow.appendChild(groupDiv);
             }
             wrapper.appendChild(gridRow);
+        } else if (task.operator === '^') {
+            this.eqNum1.className = 'val-purple'; this.eqNum2.className = 'val-purple';
+            const hintText = document.createElement('div');
+            hintText.className = 'hint-power-text';
+            if (task.num2 === 0) {
+                hintText.innerHTML = `${task.num1}<sup>0</sup> = 1`;
+            } else if (task.num2 === 1) {
+                hintText.innerHTML = `${task.num1}<sup>1</sup> = ${task.num1}`;
+            } else {
+                const factors = Array(task.num2).fill(task.num1).join(' × ');
+                hintText.innerHTML = `${task.num1}<sup>${task.num2}</sup> = ${factors}`;
+            }
+            wrapper.appendChild(hintText);
         }
         this.hintsContainer.appendChild(wrapper);
     }
@@ -507,9 +564,7 @@ class UIController {
     saveScore() {
         const user = localStorage.getItem('mat_curr_user') || 'default';
         const key = `math_game_${user}`;
-        let data = { user: user, unlockedLevels: [1], history: [] };
-        const oldDataStr = localStorage.getItem(key);
-        if(oldDataStr) { try { data = JSON.parse(oldDataStr); } catch(e){} }
+        const data = loadUserData(user);
         
         data.history.push({
             timestamp: new Date().toISOString(),
@@ -518,12 +573,26 @@ class UIController {
             accuracy: this.engine.progressHistory.filter(x => x).length / this.engine.progressHistory.length
         });
 
+        // Ensure the current level is in unlockedLevels
+        if (!data.unlockedLevels.includes(this.config.level)) {
+            data.unlockedLevels.push(this.config.level);
+        }
+
         if (this.engine.isVictory) {
             const nextLvl = this.config.level + 1;
             if (window.LevelsConfig[nextLvl] && !data.unlockedLevels.includes(nextLvl)) {
                 data.unlockedLevels.push(nextLvl);
             }
         }
+
+        // Keep levels contiguous
+        const maxUnlocked = Math.max(...data.unlockedLevels);
+        for (let i = 1; i <= maxUnlocked; i++) {
+            if (window.LevelsConfig[i] && !data.unlockedLevels.includes(i)) {
+                data.unlockedLevels.push(i);
+            }
+        }
+        data.unlockedLevels.sort((a, b) => a - b);
 
         localStorage.setItem(key, JSON.stringify(data));
     }
@@ -596,11 +665,7 @@ window.addEventListener('DOMContentLoaded', async () => {
     const unlockVal = urlParams.get('unlock');
     if (unlockVal) {
         const key = `math_game_${user}`;
-        let data = { user: user, unlockedLevels: [1], history: [] };
-        const oldDataStr = localStorage.getItem(key);
-        if (oldDataStr) {
-            try { data = JSON.parse(oldDataStr); } catch (e) {}
-        }
+        const data = loadUserData(user);
         
         if (unlockVal === 'all') {
             const allLevelIds = Object.keys(window.LevelsConfig).map(Number);

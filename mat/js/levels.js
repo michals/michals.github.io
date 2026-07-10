@@ -3250,6 +3250,314 @@ const LevelsConfig = {
         "largerFirst": false
       }
     ]
+  },
+  "73": {
+    "level": 73,
+    "categoryName": "Potęgowanie (^)",
+    "difficultyLabel": "Łatwy (Quiz 3, Podpowiedzi)",
+    "tasksCount": 10,
+    "maxHealth": 3,
+    "streakRecovery": 5,
+    "basePoints": 43,
+    "streakBonus": 4,
+    "background": "linear-gradient(to bottom, #fae8ff, #f5d0fe)",
+    "quiz": 3,
+    "operations": [
+      {
+        "type": "^",
+        "range1": [
+          2,
+          2
+        ],
+        "range2": [
+          0,
+          12
+        ],
+        "resultRange": [
+          1,
+          4096
+        ],
+        "hint": true
+      }
+    ]
+  },
+  "74": {
+    "level": 74,
+    "categoryName": "Potęgowanie (^)",
+    "difficultyLabel": "Średni (Quiz 3, Bez hinta)",
+    "tasksCount": 10,
+    "maxHealth": 3,
+    "streakRecovery": 5,
+    "basePoints": 45,
+    "streakBonus": 5,
+    "background": "linear-gradient(to bottom, #fae8ff, #f5d0fe)",
+    "quiz": 3,
+    "operations": [
+      {
+        "type": "^",
+        "range1": [
+          2,
+          2
+        ],
+        "range2": [
+          0,
+          12
+        ],
+        "resultRange": [
+          1,
+          4096
+        ],
+        "hint": false
+      }
+    ]
+  },
+  "75": {
+    "level": 75,
+    "categoryName": "Potęgowanie (^)",
+    "difficultyLabel": "Trudny (Quiz 5, Podpowiedzi)",
+    "tasksCount": 12,
+    "maxHealth": 3,
+    "streakRecovery": 5,
+    "basePoints": 47,
+    "streakBonus": 5,
+    "background": "linear-gradient(to bottom, #fae8ff, #f5d0fe)",
+    "quiz": 5,
+    "operations": [
+      {
+        "type": "^",
+        "range1": [
+          2,
+          2
+        ],
+        "range2": [
+          0,
+          12
+        ],
+        "resultRange": [
+          1,
+          4096
+        ],
+        "hint": true
+      },
+      {
+        "type": "^",
+        "range1": [
+          3,
+          3
+        ],
+        "range2": [
+          0,
+          4
+        ],
+        "resultRange": [
+          1,
+          81
+        ],
+        "hint": true
+      },
+      {
+        "type": "^",
+        "range1": [
+          4,
+          4
+        ],
+        "range2": [
+          0,
+          5
+        ],
+        "resultRange": [
+          1,
+          1024
+        ],
+        "hint": true
+      }
+    ]
+  },
+  "76": {
+    "level": 76,
+    "categoryName": "Potęgowanie (^)",
+    "difficultyLabel": "Ekspert (Quiz 5, Bez hinta)",
+    "tasksCount": 12,
+    "maxHealth": 3,
+    "streakRecovery": 5,
+    "basePoints": 49,
+    "streakBonus": 5,
+    "background": "linear-gradient(to bottom, #fae8ff, #f5d0fe)",
+    "quiz": 5,
+    "operations": [
+      {
+        "type": "^",
+        "range1": [
+          2,
+          2
+        ],
+        "range2": [
+          0,
+          12
+        ],
+        "resultRange": [
+          1,
+          4096
+        ],
+        "hint": false
+      },
+      {
+        "type": "^",
+        "range1": [
+          3,
+          3
+        ],
+        "range2": [
+          0,
+          4
+        ],
+        "resultRange": [
+          1,
+          81
+        ],
+        "hint": false
+      },
+      {
+        "type": "^",
+        "range1": [
+          4,
+          4
+        ],
+        "range2": [
+          0,
+          5
+        ],
+        "resultRange": [
+          1,
+          1024
+        ],
+        "hint": false
+      }
+    ]
+  },
+  "77": {
+    "level": 77,
+    "categoryName": "Potęgowanie (^)",
+    "difficultyLabel": "Mistrz (Wpisuj, Podpowiedzi)",
+    "tasksCount": 15,
+    "maxHealth": 3,
+    "streakRecovery": 5,
+    "basePoints": 51,
+    "streakBonus": 5,
+    "background": "linear-gradient(to bottom, #fae8ff, #f5d0fe)",
+    "quiz": 0,
+    "operations": [
+      {
+        "type": "^",
+        "range1": [
+          2,
+          2
+        ],
+        "range2": [
+          0,
+          12
+        ],
+        "resultRange": [
+          1,
+          4096
+        ],
+        "hint": true
+      },
+      {
+        "type": "^",
+        "range1": [
+          3,
+          3
+        ],
+        "range2": [
+          0,
+          4
+        ],
+        "resultRange": [
+          1,
+          81
+        ],
+        "hint": true
+      },
+      {
+        "type": "^",
+        "range1": [
+          4,
+          4
+        ],
+        "range2": [
+          0,
+          5
+        ],
+        "resultRange": [
+          1,
+          1024
+        ],
+        "hint": true
+      }
+    ]
+  },
+  "78": {
+    "level": 78,
+    "categoryName": "Potęgowanie (^)",
+    "difficultyLabel": "Arcymistrz (Wpisuj, Bez hinta)",
+    "tasksCount": 15,
+    "maxHealth": 3,
+    "streakRecovery": 5,
+    "basePoints": 53,
+    "streakBonus": 5,
+    "background": "linear-gradient(to bottom, #fae8ff, #f5d0fe)",
+    "quiz": 0,
+    "operations": [
+      {
+        "type": "^",
+        "range1": [
+          2,
+          2
+        ],
+        "range2": [
+          0,
+          12
+        ],
+        "resultRange": [
+          1,
+          4096
+        ],
+        "hint": false
+      },
+      {
+        "type": "^",
+        "range1": [
+          3,
+          3
+        ],
+        "range2": [
+          0,
+          4
+        ],
+        "resultRange": [
+          1,
+          81
+        ],
+        "hint": false
+      },
+      {
+        "type": "^",
+        "range1": [
+          4,
+          4
+        ],
+        "range2": [
+          0,
+          5
+        ],
+        "resultRange": [
+          1,
+          1024
+        ],
+        "hint": false
+      }
+    ]
   }
 };
 

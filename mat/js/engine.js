@@ -94,6 +94,8 @@ class MathGenerator {
                 if (b === 0) b = 1;
                 result = a;
                 a = result * b;
+            } else if (op.type === '^') {
+                result = Math.pow(a, b);
             }
             attempts++;
             if(attempts > 50) break;
