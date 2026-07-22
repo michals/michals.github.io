@@ -1,0 +1,115 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:b82de615d433709a7bb6b6eb42d5c7b173b739414fd77b407d0a918fb4641492",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Ave Maria",
+        "łaska",
+        "Pan",
+        "błogosławiona",
+        "niewiasta",
+        "błogosławiony",
+        "Jezus",
+        "owoc",
+        "łono",
+        "Maryja",
+        "pozdrowienie anielskie",
+        "zwiastowanie",
+        "wcielenie",
+        "Syn Boży",
+        "błogosławieństwo",
+        "pełna łaski"
+      ],
+      "summary": "Pozdrowienie anielskie skierowane do Maryi jako pełnej łaski i błogosławionej między niewiastami (Łk 1,28.42) oraz uwielbienie Jezusa Chrystusa jako błogosławionego owocu Jej łona, zapowiedzianego przez anioła Gabriela.",
+      "bible": [
+        "Łk 1,28",
+        "Łk 1,31",
+        "Łk 1,35",
+        "Łk 1,42"
+      ],
+      "text": [
+        "A v e Maria,",
+        " pełna łaski,",
+        "Pan jest z Tobą!",
+        "Błogosławionaś",
+        "między niewiastami",
+        "i błogosławiony",
+        "owoc Twego łona,",
+        "Jezus!",
+        ""
+      ]
+    },
+    {
+      "range": "10-18",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Święta Maryjo",
+        "Matka Boga",
+        "modlitwa",
+        "wstawiennictwo",
+        "grzesznik",
+        "śmierć",
+        "godzina śmierci",
+        "orędownictwo",
+        "miłosierdzie"
+      ],
+      "summary": "Błagalna prośba do Maryi jako Świętej Matki Boga o wstawiennictwo za grzesznikami — teraz i w godzinę śmierci — wyrażająca ufność w Jej macierzyńskie orędownictwo.",
+      "bible": [
+        "J 19,26-27",
+        "Ap 12,1",
+        "1 Tm 2,1-5"
+      ],
+      "text": [
+        " Święta Maryjo,",
+        " Matko Boga,",
+        "módl się za nami,",
+        "bo jesteśmy",
+        "grzesznikami,",
+        "módl się teraz",
+        "i w godzinę",
+        "naszej śmierci!",
+        "Amen!"
+      ]
+    },
+    {
+      "range": "1-18",
+      "type": "całość",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Ave Maria",
+        "Maryja",
+        "Jezus",
+        "łaska",
+        "błogosławiona",
+        "Matka Boża",
+        "wstawiennictwo",
+        "grzesznik",
+        "śmierć",
+        "modlitwa",
+        "pozdrowienie anielskie",
+        "zwiastowanie",
+        "wcielenie",
+        "orędownictwo",
+        "pełna łaski",
+        "miłosierdzie",
+        "Syn Boży",
+        "błogosławieństwo"
+      ],
+      "summary": "Pieśń Ave Maria łączy pozdrowienie anielskie z Ewangelii Łukasza (Łk 1,28-35) z błagalną prośbą o wstawiennictwo Maryi jako Matki Boga, stanowiąc tradycyjną modlitwę maryjną Kościoła katolickiego w formie hymnu o charakterze zarówno uwielbienia, jak i błagania.",
+      "bible": [
+        "Łk 1,28",
+        "Łk 1,31",
+        "Łk 1,35",
+        "Łk 1,42",
+        "J 19,26-27",
+        "Ap 12,1",
+        "1 Tm 2,1-5"
+      ]
+    }
+  ]
+}

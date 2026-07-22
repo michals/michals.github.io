@@ -1,0 +1,135 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:e63b0713b452b242010f4bc8ba570e4ffee93ac1de32ac1fbc453c31f82203ef",
+  "songs_analysis": [
+    {
+      "range": "1-8",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Edom",
+        "szata",
+        "szkarłat",
+        "wspaniałość",
+        "moc",
+        "sprawiedliwość",
+        "Wyzwoliciel",
+        "tłocznia",
+        "winogrono",
+        "pytanie",
+        "tożsamość",
+        "Bóg"
+      ],
+      "summary": "Pytanie o tożsamość tajemniczej postaci przybywającej z Edomu w szkarłatnych szatach. Odpowiedź: 'To Ja, wielki Wyzwoliciel' – Bóg jako mściciel i wybawiciel. Metafora tłoczni zapowiada sąd i odkupieńcze cierpienie Sługi.",
+      "bible": [
+        "Iz 63, 1-3",
+        "Ap 19, 13-15"
+      ],
+      "text": [
+        "Któż jest Ten, co przybywa z Edomu?",
+        "Któż jest Ten, co idzie w szatach szkarłatnych,",
+        "wspaniały w swym odzieniu i kroczy z wielką swą mocą?",
+        "To Ja, to Ja, który mówię sprawiedliwie,",
+        "to Ja, wielki Wyzwoliciel.",
+        "Dlaczego szkarłatna jest twa szata?",
+        "Jak u tego, co wygniata winogrona w tłoczni?",
+        "Dlaczego? Dlaczego?"
+      ]
+    },
+    {
+      "range": "9-18",
+      "type": "fragment",
+      "sentiment": "pokutny",
+      "keywords": [
+        "tłocznia",
+        "samotność",
+        "lud",
+        "pomoc",
+        "ramię",
+        "ocalenie",
+        "siła",
+        "dzień pomsty",
+        "narody",
+        "krew",
+        "sąd",
+        "osamotnienie",
+        "gniew Boży"
+      ],
+      "summary": "Bóg samotnie wygniata tłocznię gniewu – nikt nie pomaga, nikt nie podtrzymuje. Jego własne ramię przynosi ocalenie. Dzień pomsty nad narodami, sąd Boży. Typologiczne odniesienie do samotnej męki Chrystusa w Getsemani i na krzyżu.",
+      "bible": [
+        "Iz 63, 3-6",
+        "Ap 14, 17-20",
+        "Ap 19, 15",
+        "Iz 59, 16",
+        "J 16, 32",
+        "Mt 26, 40-41"
+      ],
+      "text": [
+        "Sam jeden, sam jeden wygniatałem w tłoczni,",
+        "z mego ludu nikogo nie było ze mną.",
+        "Rozglądałem się, rozglądałem, nie było nikogo,kto by mi pomagał;",
+        "zdumiewałem się, bo nikt nie podtrzymywał.",
+        "I wtedy moje ramię Mnie ocaliło,",
+        "moja siła, moja siła Mnie podtrzymała:",
+        "albowiem nadszedł dzień pomsty.",
+        "Deptałem, deptałem narody,",
+        "- ich krew spłynęła na ziemię",
+        "i poplamiła wszystkie moje szaty."
+      ]
+    },
+    {
+      "range": "19-21",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Edom",
+        "szata",
+        "szkarłat",
+        "wspaniałość",
+        "moc",
+        "pytanie",
+        "tożsamość",
+        "Bóg",
+        "Wyzwoliciel"
+      ],
+      "summary": "Powtórzenie początkowego pytania – inkluzja zamykająca wizję. Tajemnicza postać w szkarłatnych szatach pozostaje wyzwolicielem i sędzią, budzącym grozę i nadzieję.",
+      "bible": [
+        "Iz 63, 1"
+      ],
+      "text": [
+        "Któż jest Ten, co przybywa z Edomu?",
+        "Któż jest Ten, co idzie w szatach szkarłatnych,",
+        "wspaniały w swym odzieniu i kroczy z wielką swą mocą?"
+      ]
+    },
+    {
+      "range": "1-21",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Edom",
+        "tłocznia",
+        "sąd",
+        "pomsta",
+        "Wyzwoliciel",
+        "samotność",
+        "męka",
+        "Chrystus",
+        "Izajasz",
+        "krew",
+        "odkupienie",
+        "Pascha",
+        "Apokalipsa",
+        "gniew Boży",
+        "miłosierdzie"
+      ],
+      "summary": "Pieśń oparta na Iz 63, 1-6 – wizja Boga jako samotnego wojownika wyciskającego tłocznię sądu nad narodami. W interpretacji chrześcijańskiej postać z Edomu to Chrystus – Wyzwoliciel, który samotnie dokonuje odkupienia przez swoją mękę. Pieśń przeznaczona na Łamanie Chleba nabiera eucharystycznego wymiaru – wino tłoczni staje się Krwią Chrystusa.",
+      "bible": [
+        "Iz 63, 1-6",
+        "Ap 14, 17-20",
+        "Ap 19, 13-15",
+        "Mt 26, 27-28"
+      ]
+    }
+  ]
+}

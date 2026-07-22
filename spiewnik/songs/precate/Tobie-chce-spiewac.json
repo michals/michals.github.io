@@ -1,0 +1,372 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:77c25ab3aea3a38a4df00214685f01da8ddfdb4cfcf49b0460096360e59fafed",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "chwała",
+        "serce",
+        "harfa",
+        "cytra",
+        "przebudzenie",
+        "instrumenty",
+        "uwielbienie"
+      ],
+      "summary": "Postanowienie śpiewania Bogu i wezwanie serca oraz instrumentów do przebudzenia – wprowadzenie w nastrój uwielbienia.",
+      "bible": [
+        "Ps 57, 8-9"
+      ],
+      "text": [
+        "Tobie chcę śpiewać, Tobie pragnę śpiewać,",
+        "przebudź się, przebudź się me serce,",
+        "zbudźcie się, harfo i cytro."
+      ]
+    },
+    {
+      "range": "4-8",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "zmiłowanie",
+        "miłosierdzie",
+        "Boże",
+        "dusza",
+        "ucieczka",
+        "cień skrzydeł",
+        "schronienie",
+        "nieszczęście",
+        "ochrona Boża"
+      ],
+      "summary": "Błaganie o miłosierdzie: dusza ucieka się do Boga i chroni w cieniu Jego skrzydeł, póki nie przeminie nieszczęście.",
+      "bible": [
+        "Ps 57, 2-3",
+        "Rt 2, 12"
+      ],
+      "text": [
+        "",
+        "Zmiłuj się, zmiłuj się nade mną, o Boże,",
+        "moja dusza ucieka się do Ciebie",
+        "i w cieniu Twych skrzydeł się chronię,",
+        "póki nie przeminie nieszczęście."
+      ]
+    },
+    {
+      "range": "9-11",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "chwała",
+        "serce",
+        "harfa",
+        "cytra",
+        "przebudzenie"
+      ],
+      "summary": "Refren: wezwanie do śpiewu i przebudzenia serca oraz instrumentów na chwałę Boga.",
+      "bible": [
+        "Ps 57, 8-9"
+      ],
+      "text": [
+        "Tobie chcę śpiewać, Tobie pragnę śpiewać,",
+        "przebudź się, przebudź się me serce,",
+        "zbudźcie się, harfo i cytro."
+      ]
+    },
+    {
+      "range": "12-16",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bóg Najwyższy",
+        "dobro",
+        "niebo",
+        "wybawienie",
+        "wierność",
+        "łaska",
+        "uwołnienie",
+        "Boża interwencja"
+      ],
+      "summary": "Wezwanie Boga Najwyższego, który czyni dobro – prośba o zesłanie z nieba wierności i łaski, by wybawić od niebezpieczeństwa.",
+      "bible": [
+        "Ps 57, 3-4"
+      ],
+      "text": [
+        "",
+        "Wezwę (Boga,) Boga Najwyższego,",
+        "Boga, który czyni mi dobro;",
+        "niech ześle z nieba, by mnie wybawić,",
+        "niech ześle swą wierność i łaskę."
+      ]
+    },
+    {
+      "range": "17-19",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "chwała",
+        "serce",
+        "harfa",
+        "cytra",
+        "przebudzenie"
+      ],
+      "summary": "Refren: wezwanie do śpiewu i przebudzenia serca oraz instrumentów na chwałę Boga.",
+      "bible": [
+        "Ps 57, 8-9"
+      ],
+      "text": [
+        "Tobie chcę śpiewać, Tobie pragnę śpiewać,",
+        "przebudź się, przebudź się me serce,",
+        "zbudźcie się, harfo i cytro."
+      ]
+    },
+    {
+      "range": "20-24",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "zmiłowanie",
+        "lwy",
+        "synów ludzkich",
+        "zęby",
+        "włócznie",
+        "strzały",
+        "niebezpieczeństwo",
+        "wrogowie",
+        "śmiertelne zagrożenie"
+      ],
+      "summary": "Błaganie o miłosierdzie pośród śmiertelnego zagrożenia: spoczywa wśród lwów pożerających synów ludzkich, których zęby są jak włócznie.",
+      "bible": [
+        "Ps 57, 5",
+        "Dn 6, 17-23",
+        "2 Tm 4, 17"
+      ],
+      "text": [
+        "",
+        "Zmiłuj się, zmiłuj się nade mną Boże,",
+        "bo spoczywam pomiędzy lwami,",
+        "lwami, co pożerają synów ludzkich;",
+        "ich zęby są jak włócznie i strzały."
+      ]
+    },
+    {
+      "range": "25-27",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "chwała",
+        "serce",
+        "harfa",
+        "cytra",
+        "przebudzenie"
+      ],
+      "summary": "Refren: wezwanie do śpiewu i przebudzenia serca oraz instrumentów na chwałę Boga.",
+      "bible": [
+        "Ps 57, 8-9"
+      ],
+      "text": [
+        "Tobie chcę śpiewać, Tobie pragnę śpiewać,",
+        "przebudź się, przebudź się me serce, zbudźcie się, harfo i cytro.",
+        ""
+      ]
+    },
+    {
+      "range": "28-31",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "zmiłowanie",
+        "sieć",
+        "nogi",
+        "dół",
+        "wrogowie",
+        "sprawiedliwość Boża",
+        "zapadnia",
+        "wybawienie"
+      ],
+      "summary": "Prośba o zmiłowanie: wrogowie zastawili sieć i wykopali dół, ale sami weń wpadli – sprawiedliwość Boża triumfuje.",
+      "bible": [
+        "Ps 57, 7",
+        "Ps 7, 16"
+      ],
+      "text": [
+        "Zmiłuj się, Boże, zmiłuj się nade mną,",
+        "gdyż zastawili sieć na moje nogi,",
+        "przede mną dół wykopali,",
+        "ale sami weń wpadli."
+      ]
+    },
+    {
+      "range": "32-34",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "chwała",
+        "serce",
+        "harfa",
+        "cytra",
+        "przebudzenie"
+      ],
+      "summary": "Refren: wezwanie do śpiewu i przebudzenia serca oraz instrumentów na chwałę Boga.",
+      "bible": [
+        "Ps 57, 8-9"
+      ],
+      "text": [
+        "Tobie chcę śpiewać, Tobie pragnę śpiewać,",
+        "przebudź się, przebudź się me serce,",
+        "zbudźcie się, harfo i cytro."
+      ]
+    },
+    {
+      "range": "35-39",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ufność",
+        "serce",
+        "śpiew",
+        "hymn",
+        "jutrzenka",
+        "świt",
+        "nadzieja",
+        "Bóg",
+        "pewność zbawienia"
+      ],
+      "summary": "Wyznanie ufności: serce pełne ufności, postanowienie śpiewania hymnów i obudzenia jutrzenki – obraz nadziei przed świtem.",
+      "bible": [
+        "Ps 57, 8-9"
+      ],
+      "text": [
+        "",
+        "Ufne jest moje serce, ufne jest moje serce, Boże,",
+        "Tobie chcę śpiewać,",
+        "Tobie hymny zanosić,",
+        "chcę obudzić jutrzenkę."
+      ]
+    },
+    {
+      "range": "40-42",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "chwała",
+        "serce",
+        "harfa",
+        "cytra",
+        "przebudzenie"
+      ],
+      "summary": "Refren: wezwanie do śpiewu i przebudzenia serca oraz instrumentów na chwałę Boga.",
+      "bible": [
+        "Ps 57, 8-9"
+      ],
+      "text": [
+        "Tobie chcę śpiewać, Tobie pragnę śpiewać,",
+        "przebudź się, przebudź się me serce,",
+        "zbudźcie się, harfo i cytro."
+      ]
+    },
+    {
+      "range": "43-47",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "sławienie",
+        "ludy",
+        "narody",
+        "hymn",
+        "dobroć Boga",
+        "niebiosa",
+        "wierność",
+        "obłoki",
+        "uniwersalna chwała"
+      ],
+      "summary": "Ślubowanie chwały wśród wszystkich ludów i narodów – dobroć i wierność Boga sięgają niebios i obłoków.",
+      "bible": [
+        "Ps 57, 10-11",
+        "Ps 108, 4-5"
+      ],
+      "text": [
+        "",
+        "Sławić cię będę wśród ludów, o Boże,",
+        "Tobie śpiewać hymny wśród narodów,",
+        "bo dobroć Twa sięga aż niebios,",
+        "a wierność Twoja obłoków."
+      ]
+    },
+    {
+      "range": "48-50",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "chwała",
+        "serce",
+        "harfa",
+        "cytra",
+        "przebudzenie",
+        "uwielbienie"
+      ],
+      "summary": "Refren końcowy: wezwanie do śpiewania Bogu i przebudzenia serca – inkluzja zamykająca psalm uwielbieniem.",
+      "bible": [
+        "Ps 57, 8-9"
+      ],
+      "text": [
+        "Tobie chcę śpiewać, Tobie pragnę śpiewać,",
+        "przebudź się, przebudź się me serce,",
+        "zbudźcie się, harfo i cytro."
+      ]
+    },
+    {
+      "range": "1-50",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "śpiew",
+        "harfa",
+        "cytra",
+        "serce",
+        "przebudzenie",
+        "zmiłowanie",
+        "miłosierdzie",
+        "cień skrzydeł",
+        "Bóg Najwyższy",
+        "łaska",
+        "wierność",
+        "lwy",
+        "niebezpieczeństwo",
+        "sieć",
+        "dół",
+        "ufność",
+        "jutrzenka",
+        "sławienie",
+        "ludy",
+        "narody",
+        "dobroć Boża",
+        "niebiosa",
+        "obłoki",
+        "Ps 57",
+        "wybawienie",
+        "schronienie",
+        "uwielbienie",
+        "nadzieja",
+        "sprawiedliwość Boża"
+      ],
+      "summary": "Psalm 57 łączący lament pośród niebezpieczeństw z ufnością i uwielbieniem Boga. Od błagania o miłosierdzie w cieniu skrzydeł Bożych i pośród lwów, przez wyznanie ufności, aż po ślubowanie chwały wśród wszystkich narodów. Powtarzający się refren o przebudzeniu serca i instrumentów typologicznie zapowiada radość Zmartwychwstania i uwielbienie Boga w Kościele wszystkich ludów.",
+      "bible": [
+        "Ps 57",
+        "Rt 2, 12",
+        "Dn 6, 17-23",
+        "2 Tm 4, 17",
+        "Ps 7, 16",
+        "Ps 108, 4-5"
+      ]
+    }
+  ]
+}

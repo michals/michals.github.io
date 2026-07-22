@@ -1,0 +1,257 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a41aaf4a4e3aea511272645fc959f1c74b77dbf4489b7f959c976fccb08ac8e3",
+  "songs_analysis": [
+    {
+      "type": "zwrotka",
+      "range": "1-4",
+      "keywords": [
+        "słyszeć",
+        "powiedzieć",
+        "oko",
+        "ząb",
+        "Ja",
+        "wam",
+        "powiadać"
+      ],
+      "bible": [
+        "Mt 5, 38",
+        "Wj 21, 24",
+        "Kpł 24, 20"
+      ],
+      "sentiment": "neutralny",
+      "summary": "Jezus cytuje Prawo odwetu: oko za oko, ząb za ząb",
+      "text": [
+        "Słyszeliście, że powiedziano:",
+        "oko za oko, ząb za ząb.",
+        "A Ja wam powiadam,",
+        "a Ja wam powiadam:"
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "5-8",
+      "keywords": [
+        "opierać się",
+        "zło",
+        "Jezus",
+        "przykazanie",
+        "nadstawić",
+        "policzek"
+      ],
+      "bible": [
+        "Mt 5, 39"
+      ],
+      "sentiment": "neutralny",
+      "summary": "Jezus wzywa do nieszukania odwetu i niestawiania oporu złu",
+      "text": [
+        "Nie opierajcie się złu,",
+        "nie opierajcie się złu,",
+        "nie opierajcie się złu,",
+        "nie opierajcie się złu."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "9-19",
+      "keywords": [
+        "policzek",
+        "nadstawić",
+        "drugi",
+        "prawować się",
+        "szata",
+        "płaszcz",
+        "zmusić",
+        "iść",
+        "tysiąc",
+        "krok",
+        "zabierać",
+        "żądanie",
+        "zwrot",
+        "miłosierdzie",
+        "dar"
+      ],
+      "bible": [
+        "Mt 5, 39-42",
+        "Łk 6, 29-30"
+      ],
+      "sentiment": "neutralny",
+      "summary": "Cztery przykłady radykalnej postawy nieoporu: nadstawić policzek, oddać płaszcz, iść dwa razy tyle, nie żądać zwrotu",
+      "text": [
+        "A jeśli ktoś uderzy cię",
+        "w prawy policzek,",
+        "nadstaw mu także drugi.",
+        "A jeśli ktoś prawuje się z tobą,",
+        "by zabrać ci szatę,",
+        "zostaw mu także i płaszcz.",
+        "A jeśli zmusza cię ktoś,",
+        "by iść z nim tysiąc kroków,",
+        "idź dwa tysiące.",
+        "A jeśli ktoś zabiera, co twoje,",
+        "nie żądaj zwrotu."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "20-23",
+      "keywords": [
+        "opierać się",
+        "zło",
+        "Jezus",
+        "przykazanie",
+        "nadstawić"
+      ],
+      "bible": [
+        "Mt 5, 39"
+      ],
+      "sentiment": "neutralny",
+      "summary": "Powtórzenie wezwania do niestawiania oporu złu",
+      "text": [
+        "Nie opierajcie się złu,",
+        "nie opierajcie się złu,",
+        "nie opierajcie się złu,",
+        "nie opierajcie się złu."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "25-36",
+      "keywords": [
+        "słyszeć",
+        "powiedzieć",
+        "kochać",
+        "bliźni",
+        "nienawidzić",
+        "wróg",
+        "dobrze czynić",
+        "modlić się",
+        "prześladowca",
+        "błogosławić",
+        "oszczerca",
+        "doskonały",
+        "Ojciec",
+        "niebo",
+        "dobry",
+        "grzesznik",
+        "złoczyńca",
+        "miłosierdzie",
+        "przebaczenie"
+      ],
+      "bible": [
+        "Mt 5, 43-46",
+        "Łk 6, 27-28",
+        "Łk 6, 35-36"
+      ],
+      "sentiment": "dziękczynny",
+      "summary": "Jezus wzywa do miłości nieprzyjaciół i doskonałości na wzór Ojca, który jest dobry dla grzeszników",
+      "text": [
+        "Słyszeliście, że powiedziano:",
+        "Kochaj bliźniego swego,             nienawidź swego wroga.",
+        "A Ja wam powiadam,",
+        "a Ja wam powiadam:",
+        "kochajcie waszych wrogów,",
+        "czyńcie dobrze tym, co was nienawidzą,",
+        "módlcie się za waszych prześladowców,",
+        "błogosławcie waszym oszczercom.",
+        "Bądźcie doskonali, jak jest doskonały",
+        "Ojciec wasz w niebie:",
+        "bo On jest dobry dla grzeszników,",
+        "bo On jest dobry dla złoczyńców."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "37-42",
+      "keywords": [
+        "opierać się",
+        "zło",
+        "dziecko",
+        "Ojciec",
+        "niebo",
+        "słońce",
+        "wschodzić",
+        "deszcz",
+        "dobry",
+        "zły",
+        "miłosierdzie",
+        "Boża dobroć",
+        "powszechny"
+      ],
+      "bible": [
+        "Mt 5, 45"
+      ],
+      "sentiment": "radosny",
+      "summary": "Kto kocha nieprzyjaciół staje się dzieckiem Boga, który darzy dobrem wszystkich bez wyjątku",
+      "text": [
+        "Nie opierajcie się złu …",
+        "A będziecie dziećmi",
+        "waszego Ojca na niebie,",
+        "który sprawia, że słońce wschodzi",
+        "nad dobrymi i nad złymi,",
+        "zsyła deszcz także na złych."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "43-46",
+      "keywords": [
+        "opierać się",
+        "zło",
+        "Jezus",
+        "przykazanie",
+        "miłość",
+        "nieprzyjaciel",
+        "Ewangelia"
+      ],
+      "bible": [
+        "Mt 5, 39"
+      ],
+      "sentiment": "dziękczynny",
+      "summary": "Ostateczne wezwanie do życia według radykalnej Ewangelii miłości nieprzyjaciół",
+      "text": [
+        "Nie opierajcie się złu,",
+        "nie opierajcie się złu,",
+        "nie opierajcie się złu,",
+        "nie opierajcie się złu."
+      ]
+    },
+    {
+      "type": "całość",
+      "range": "1-46",
+      "keywords": [
+        "Jezus",
+        "Ewangelia",
+        "zło",
+        "miłość",
+        "wróg",
+        "policzek",
+        "miłosierdzie",
+        "przebaczenie",
+        "Ojciec",
+        "doskonały",
+        "grzesznik",
+        "słońce",
+        "deszcz",
+        "opierać się",
+        "nadstawić",
+        "szata",
+        "płaszcz",
+        "krok",
+        "modlić się",
+        "błogosławić",
+        "prześladowca",
+        "bliźni",
+        "nienawidzić",
+        "dobrze czynić",
+        "niebo"
+      ],
+      "bible": [
+        "Mt 5, 38-48",
+        "Łk 6, 27-36",
+        "Wj 21, 24"
+      ],
+      "sentiment": "radosny",
+      "summary": "Pieśń oparta na Kazaniu na Górze głosi radykalne wezwanie Jezusa do miłości nieprzyjaciół i zaufania Ojcu, który obdarza dobrem wszystkich ludzi"
+    }
+  ]
+}

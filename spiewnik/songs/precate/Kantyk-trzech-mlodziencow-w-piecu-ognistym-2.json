@@ -1,0 +1,236 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:fb3ae55c1b906797c448c46c6da6b06a7f5ecb920811cbee7f22ddd9e16984db",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "dzieło",
+        "Pan",
+        "błogosławieństwo",
+        "chwała",
+        "wysławianie",
+        "stworzenie",
+        "kosmos"
+      ],
+      "summary": "Inwokacja wzywająca wszystkie dzieła Pańskie do błogosławienia, chwalenia i wysławiania Pana na wieki.",
+      "bible": [
+        "Dn 3, 57",
+        "Ps 148"
+      ],
+      "text": [
+        "Wszystkie dzieła Pańskie",
+        "Błogosławcie Pana.",
+        "Chwalcie Go!",
+        "i na wieki wysławiajcie!",
+        ""
+      ]
+    },
+    {
+      "range": "6-25",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "anioł",
+        "niebo",
+        "woda",
+        "słońce",
+        "księżyc",
+        "gwiazda",
+        "deszcz",
+        "wiatr",
+        "ogień",
+        "lód",
+        "śnieg",
+        "dzień",
+        "noc",
+        "światło",
+        "ciemność",
+        "chmura",
+        "błyskawica",
+        "stworzenie",
+        "chwała",
+        "ziemia"
+      ],
+      "summary": "Kosmiczna liturgia: wszystkie żywioły i zjawiska niebieskie wzywane są do błogosławienia Pana — całe stworzenie uczestniczy w uwielbieniu Boga.",
+      "bible": [
+        "Dn 3, 58-72",
+        "Ps 148, 1-6",
+        "Rdz 1"
+      ],
+      "text": [
+        "Aniołowie Pańscy",
+        "I wy, niebiosa",
+        "Wszystkie wody ponad niebem",
+        "Wszystkie potęgi Pańskie",
+        "Słońce i księżycu",
+        "Gwiazdy na niebie",
+        "Deszcze i rosy",
+        "Wszystkie wichry niebieskie",
+        "Ogniu i żarze",
+        "Upale i chłodzie",
+        "Roso i szronie",
+        "Mrozie i zimno",
+        "Lody i śniegi",
+        "Dni i noce",
+        "Światło i ciemności",
+        "Chmury i błyskawice",
+        "Niech ziemia błogosławi Pana.",
+        "Niech Go chwali",
+        "i wysławia na wieki!",
+        ""
+      ]
+    },
+    {
+      "range": "26-37",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "góra",
+        "pagórek",
+        "roślina",
+        "źródło",
+        "morze",
+        "rzeka",
+        "ryba",
+        "ptak",
+        "zwierzę",
+        "trzoda",
+        "człowiek",
+        "Izrael",
+        "stworzenie",
+        "błogosławieństwo"
+      ],
+      "summary": "Ziemia wraz z całym swym stworzeniem - góry, morza, rośliny, zwierzęta i wreszcie ludzie - wzywa Izraela do błogosławienia Pana.",
+      "bible": [
+        "Dn 3, 73-82",
+        "Ps 148, 7-14",
+        "Rdz 1, 20-28"
+      ],
+      "text": [
+        "Góry i pagórki",
+        "Wszelkie rośliny na ziemi",
+        "Źródła wodne",
+        "Morza i rzeki",
+        "Potwory morskie i wszystko,      co się porusza w wodzie",
+        "Wszelkie ptaki powietrzne",
+        "Dzikie zwierzęta i trzody",
+        "Synowie ludzcy",
+        "Niech Izrael błogosławi Pana.",
+        "Niech Go chwali",
+        "i wysławia na wieki!",
+        ""
+      ]
+    },
+    {
+      "range": "38-45",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "kapłan",
+        "sługa",
+        "duch",
+        "dusza",
+        "sprawiedliwy",
+        "święty",
+        "serce",
+        "Ananiasz",
+        "Azariasz",
+        "Miszael",
+        "męczennik",
+        "Kościół",
+        "święty"
+      ],
+      "summary": "Słudzy Boży, dusze sprawiedliwych, święci i trzej młodzieńcy wzywani są do chwalenia Pana — obraz Kościoła wojującego i tryumfującego.",
+      "bible": [
+        "Dn 3, 83-88",
+        "Ap 6, 9-11",
+        "Ap 7, 13-17"
+      ],
+      "text": [
+        "Kapłani Pańscy",
+        "Słudzy Pańscy",
+        "Duchy i dusze sprawiedliwych",
+        "Święci i pokornego serca",
+        "Ananiaszu, Azariaszu, Miszaelu",
+        "Chwalcie Go",
+        "i na wieki wysławiajcie!",
+        ""
+      ]
+    },
+    {
+      "range": "46-47",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "48-51",
+      "bible": [],
+      "text": [
+        "recytacja podczas Jutrzni:",
+        ""
+      ]
+    },
+    {
+      "range": "48-51",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Ojciec",
+        "Syn",
+        "Duch Święty",
+        "Trójca Święta",
+        "błogosławieństwo",
+        "chwała",
+        "niebo",
+        "adoracja",
+        "doksologia"
+      ],
+      "summary": "Trynitarna doksologia: błogosławieństwo Ojca i Syna, i Ducha Świętego — uwielbienie Trójcy Świętej na wieki.",
+      "bible": [
+        "Dn 3, 52-56",
+        "Mt 28, 19",
+        "2 Kor 13, 13",
+        "Rz 11, 36"
+      ],
+      "text": [
+        "Błogosławmy Ojca i Syna, i Ducha Świętego,",
+        "chwalmy Go i wywyższajmy na wieki.",
+        "Błogosławiony jesteś, Panie, na sklepieniu nieba,",
+        "pełen chwały i wywyższony na wieki."
+      ]
+    },
+    {
+      "range": "1-51",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "stworzenie",
+        "błogosławieństwo",
+        "chwała",
+        "anioł",
+        "niebo",
+        "ziemia",
+        "żywioł",
+        "Izrael",
+        "kapłan",
+        "święty",
+        "Trójca Święta",
+        "Ojciec",
+        "Syn",
+        "Duch Święty",
+        "doksologia",
+        "kosmiczna liturgia"
+      ],
+      "summary": "Pieśń oparta na dalszej części kantyku trzech młodzieńców (Dn 3, 57-88) jest kosmiczną liturgią, w której wszystkie stworzenia — od aniołów po ludzi — wzywane są do uwielbienia Boga, a kończy się trynitarną doksologią.",
+      "bible": [
+        "Dn 3, 57-88",
+        "Ps 148",
+        "Ap 5, 13",
+        "Rz 11, 36",
+        "Mt 28, 19"
+      ]
+    }
+  ]
+}

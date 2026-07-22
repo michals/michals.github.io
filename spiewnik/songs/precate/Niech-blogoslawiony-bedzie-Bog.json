@@ -1,0 +1,223 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:b13c08675a0aa7f1393f5b789473a8ea300a4681b697617c6c544d8ad4995161",
+  "songs_analysis": [
+    {
+      "range": "1-13",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "Bóg",
+        "Ojciec",
+        "Jezus Chrystus",
+        "wybranie",
+        "stworzenie",
+        "świętość",
+        "miłość",
+        "łaska",
+        "uwielbienie",
+        "chwała",
+        "przeznaczenie"
+      ],
+      "summary": "Błogosławieństwo Boga i Ojca Jezusa Chrystusa, który wybrał nas przed stworzeniem świata, abyśmy byli święci i niepokalani w miłości. Hymn o predestynacji do chwały i darmowej łaski Bożej.",
+      "bible": [
+        "Ef 1, 3-6"
+      ],
+      "text": [
+        "Niech błogosławiony będzie Bóg",
+        "i Ojciec Jezusa Chrystusa.",
+        "Który nas wybrał",
+        "przed stworzeniem świata.",
+        "Który nas pobłogosławił",
+        "wszelką miłością,",
+        "byśmy byli święci i niepokalani",
+        "w miłości.",
+        "Byśmy byli",
+        "Jego chwały uwielbieniem,",
+        "chwały Jego darmowej łaski,",
+        "łaski jego wielkiej miłości,",
+        "którą nas ukochał w Jezusie Chrystusie."
+      ]
+    },
+    {
+      "range": "14",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "15-23",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "15-22",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "Bóg",
+        "Ojciec",
+        "Jezus Chrystus",
+        "odkupienie",
+        "przebaczenie",
+        "grzech",
+        "miłość",
+        "pełnia czasów",
+        "Chrystus",
+        "wszystko we wszystkich",
+        "łaska"
+      ],
+      "summary": "W Chrystusie mamy odkupienie i przebaczenie grzechów według bogactwa Jego miłości. Celem dziejów jest, aby Chrystus był wszystkim we wszystkich – eschatologiczne zjednoczenie wszystkiego w Chrystusie.",
+      "bible": [
+        "Ef 1, 7-10",
+        "Kol 1, 20"
+      ],
+      "text": [
+        "Niech błogosławiony będzie Bóg",
+        "i Ojciec Jezusa Chrystusa.",
+        "W Nim mamy",
+        "odkupienie,",
+        "przebaczenie grzechów",
+        "według bogactwa Jego miłości,",
+        "aby w pełni czasów",
+        "Chrystus był wszystkim we wszystkich!"
+      ]
+    },
+    {
+      "range": "23",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "24-28",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "24-28",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "bycie",
+        "chwała",
+        "uwielbienie",
+        "łaska",
+        "miłość",
+        "Jezus Chrystus",
+        "Bóg",
+        "dziękczynienie"
+      ],
+      "summary": "Refren – 'Byśmy byli Jego chwały uwielbieniem, chwały Jego darmowej łaski' – podkreślenie celu zbawienia: uwielbienie chwały Bożej łaski.",
+      "bible": [
+        "Ef 1, 6.12"
+      ],
+      "text": [
+        "Byśmy byli",
+        "Jego chwały uwielbieniem,",
+        "chwały Jego darmowej łaski,",
+        "łaski jego wielkiej miłości,",
+        "którą nas ukochał w Jezusie Chrystusie."
+      ]
+    },
+    {
+      "range": "29",
+      "type": "info",
+      "sentiment": "neutralny",
+      "summary": "30-37",
+      "bible": [],
+      "keywords": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "30-37",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "Bóg",
+        "Ojciec",
+        "Jezus Chrystus",
+        "Słowo prawdy",
+        "Ewangelia",
+        "zbawienie",
+        "Duch Święty",
+        "opieczętowanie",
+        "lud Boży",
+        "obietnica"
+      ],
+      "summary": "W Chrystusie wierni, usłyszawszy Słowo prawdy – Ewangelię zbawienia – zostali opieczętowani Duchem Świętym. Duch Święty jako pieczęć obietnicy i znak przynależności do ludu Bożego.",
+      "bible": [
+        "Ef 1, 11-14",
+        "2 Kor 1, 21-22"
+      ],
+      "text": [
+        "Niech błogosławiony będzie Bóg",
+        "i Ojciec Jezusa Chrystusa.",
+        "W Nim także i my,",
+        "gdyśmy usłyszeli Słowo prawdy,",
+        "Dobrą Nowinę",
+        "o naszym zbawieniu,",
+        "zostaliśmy opieczętowani             przez Ducha Świętego,",
+        "który uczynił z nas swój lud."
+      ]
+    },
+    {
+      "range": "38-42",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "bycie",
+        "chwała",
+        "uwielbienie",
+        "łaska",
+        "miłość",
+        "Jezus Chrystus",
+        "Bóg",
+        "dziękczynienie"
+      ],
+      "summary": "Powtórzenie refrenu – 'Byśmy byli Jego chwały uwielbieniem' – zamknięcie pieśni hymnem uwielbienia.",
+      "bible": [
+        "Ef 1, 6.12"
+      ],
+      "text": [
+        "Byśmy byli",
+        "Jego chwały uwielbieniem,",
+        "chwały Jego darmowej łaski,",
+        "łaski jego wielkiej miłości,",
+        "którą nas ukochał w Jezusie Chrystusie."
+      ]
+    },
+    {
+      "range": "1-42",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "Ef 1",
+        "wybranie",
+        "odkupienie",
+        "przebaczenie",
+        "Duch Święty",
+        "pieczęć",
+        "chwała",
+        "łaska",
+        "miłość",
+        "Chrystus",
+        "pełnia czasów",
+        "uwielbienie",
+        "predestynacja",
+        "Kościół"
+      ],
+      "summary": "Pieśń będąca parafrazą Hymnu o Błogosławieństwie z Ef 1, 3-14 – dziękczynienie za wybranie przed stworzeniem świata, odkupienie w Chrystusie i opieczętowanie Duchem Świętym. Centralnym motywem jest łaska Boża objawiona w miłości i doprowadzająca do uwielbienia Jego chwały. Pieśń ma charakter adwentowy i jest przeznaczona także do Liturgii Godzin, ukazując Boży plan zbawienia od początku do eschatologicznego wypełnienia.",
+      "bible": [
+        "Ef 1, 3-14",
+        "2 Kor 1, 21-22"
+      ]
+    }
+  ]
+}

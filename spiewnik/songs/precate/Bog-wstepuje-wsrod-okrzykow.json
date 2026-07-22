@@ -1,0 +1,171 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:f2689e8c2d6a48bca62883ca33cbe984140f86918e17820fba7db878d9518c01",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "wstępowanie",
+        "okrzyk",
+        "trąba",
+        "wniebowstąpienie",
+        "chwała",
+        "królowanie",
+        "Pan",
+        "uwielbienie",
+        "triumf"
+      ],
+      "summary": "Refren głosi radosne wstępowanie Boga pośród okrzyków i dźwięku trąby, nawiązując do obrazu triumfalnego wniebowstąpienia Pana.",
+      "bible": [
+        "Ps 47,6",
+        "Ps 47,2",
+        "Ps 98,6"
+      ],
+      "text": [
+        "Bóg wstępuje wśród okrzyków",
+        "przy donośnym dźwięku trąby.",
+        ""
+      ]
+    },
+    {
+      "range": "4-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "narody",
+        "klaskanie",
+        "dłoń",
+        "uwielbienie",
+        "radość",
+        "hołd",
+        "Bóg",
+        "król",
+        "powszechność",
+        "uniwersalizm"
+      ],
+      "summary": "Wezwanie wszystkich narodów do radosnego klaskania w dłonie na cześć Boga, podkreślające uniwersalny charakter Jego panowania.",
+      "bible": [
+        "Ps 47,2",
+        "Iz 55,12"
+      ],
+      "text": [
+        "Narody wszystkie, klaskajcie w dłonie,",
+        "narody wszystkie, klaskajcie w dłonie!",
+        "Narody wszystkie, klaskajcie w dłonie,",
+        "narody wszystkie, klaskajcie w dłonie!",
+        ""
+      ]
+    },
+    {
+      "range": "9-11",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "wstępowanie",
+        "okrzyk",
+        "trąba",
+        "wniebowstąpienie",
+        "chwała",
+        "królowanie",
+        "Pan",
+        "uwielbienie",
+        "triumf"
+      ],
+      "summary": "Powtórzenie refrenu o wstępowaniu Boga pośród radosnych okrzyków i dźwięku trąby.",
+      "bible": [
+        "Ps 47,6"
+      ],
+      "text": [
+        "Bóg wstępuje wśród okrzyków",
+        "przy donośnym dźwięku trąby.",
+        ""
+      ]
+    },
+    {
+      "range": "12-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "Bóg",
+        "uwielbienie",
+        "radość",
+        "chwała",
+        "muzyka",
+        "pochwała",
+        "liturgia",
+        "wszystkie narody"
+      ],
+      "summary": "Zachęta do śpiewania Bogu jako wyraz radosnego uwielbienia i oddania chwały Panu.",
+      "bible": [
+        "Ps 47,7",
+        "Ps 33,2-3",
+        "Ps 95,1"
+      ],
+      "text": [
+        "Śpiewajcie Bogu, śpiewajcie,",
+        "śpiewajcie Bogu, śpiewajcie!",
+        "Śpiewajcie Bogu, śpiewajcie,",
+        "śpiewajcie Bogu, śpiewajcie!",
+        ""
+      ]
+    },
+    {
+      "range": "17-18",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "wstępowanie",
+        "okrzyk",
+        "trąba",
+        "wniebowstąpienie",
+        "chwała",
+        "królowanie",
+        "Pan",
+        "uwielbienie",
+        "triumf"
+      ],
+      "summary": "Końcowe powtórzenie refrenu podsumowujące triumfalny obraz wstępującego Boga.",
+      "bible": [
+        "Ps 47,6"
+      ],
+      "text": [
+        "Bóg wstępuje wśród okrzyków",
+        "przy donośnym dźwięku trąby."
+      ]
+    },
+    {
+      "range": "1-18",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "wstępowanie",
+        "okrzyk",
+        "trąba",
+        "narody",
+        "klaskanie",
+        "śpiew",
+        "uwielbienie",
+        "chwała",
+        "wniebowstąpienie",
+        "królowanie",
+        "radość",
+        "Ps 47",
+        "Pan",
+        "triumf",
+        "uniwersalizm",
+        "liturgia"
+      ],
+      "summary": "Cała pieśń jest radosną parafrazą Psalmu 47, wzywającą wszystkie narody do uwielbienia Boga wstępującego na tron pośród okrzyków i śpiewu.",
+      "bible": [
+        "Ps 47"
+      ]
+    }
+  ]
+}

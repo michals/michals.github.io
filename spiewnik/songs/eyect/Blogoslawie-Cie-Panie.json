@@ -1,0 +1,280 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:be11966616aca8bd9908bfa0b9ad43512afcd946b342ad835913d54ddd7e0d1d",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławić",
+        "Pan",
+        "życie",
+        "wznosić",
+        "ręka",
+        "alleluja"
+      ],
+      "summary": "Refren błogosławieństwa i uwielbienia Boga z wzniesionymi rękami na wzór Ps 63,5.",
+      "bible": [
+        "Ps 63,5"
+      ],
+      "text": [
+        "Błogosławię Cię, Panie",
+        "w moim życiu.",
+        "Do Ciebie wznoszę me ręce,",
+        "alleluja."
+      ]
+    },
+    {
+      "range": "5-10",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bóg",
+        "szukać",
+        "świtanie",
+        "dusza",
+        "pragnąć",
+        "ciało",
+        "tęsknić",
+        "ziemia",
+        "spękana",
+        "woda",
+        "widzieć"
+      ],
+      "summary": "Dusza pragnie Boga jak spękana ziemia wody – obraz tęsknoty za Bogiem (Ps 63,2).",
+      "bible": [
+        "Ps 63,2-3"
+      ],
+      "text": [
+        "O Panie, Ty jesteś moim Bogiem,",
+        "szukam Cię od świtania,",
+        "Ciebie pragnie moja dusza,",
+        "za Tobą tęskni moje ciało",
+        "jak ziemia spękana bez wody,",
+        "dlatego przyszedłem Cię zobaczyć."
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławić",
+        "Pan",
+        "życie",
+        "wznosić",
+        "ręka",
+        "alleluja"
+      ],
+      "summary": "Refren błogosławieństwa Boga w życiu.",
+      "bible": [
+        "Ps 63,5"
+      ],
+      "text": [
+        "Błogosławię Cię, Panie",
+        "w moim życiu.",
+        "Do Ciebie wznoszę me ręce,",
+        "alleluja."
+      ]
+    },
+    {
+      "range": "15-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "wola",
+        "miłość",
+        "życie",
+        "śpiewać",
+        "warga",
+        "chwalić",
+        "dzień",
+        "imię",
+        "podnosić",
+        "ręka",
+        "dusza",
+        "obfitość",
+        "widzieć"
+      ],
+      "summary": "Miłość Boga cenniejsza niż życie; uwielbienie przez cały dzień i napełnienie duszy obfitością (Ps 63,4-6).",
+      "bible": [
+        "Ps 63,4-6"
+      ],
+      "text": [
+        "Wolę Twoją miłość bardziej niż życie.",
+        "Tobie śpiewają moje wargi,",
+        "jakże Cię nie chwalić przez cały dzień,",
+        "w Twoje imię podnoszę me ręce.",
+        "Napełniłeś moją duszę obfitością,",
+        "dlatego przyszedłem Cię zobaczyć."
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławić",
+        "Pan",
+        "życie",
+        "wznosić",
+        "ręka",
+        "alleluja"
+      ],
+      "summary": "Refren błogosławieństwa Boga w życiu.",
+      "bible": [
+        "Ps 63,5"
+      ],
+      "text": [
+        "Błogosławię Cię, Panie",
+        "w moim życiu.",
+        "Do Ciebie wznoszę me ręce,",
+        "alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "26-31",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Bóg",
+        "noc",
+        "sen",
+        "dzień",
+        "myśl",
+        "pomoc",
+        "prawica",
+        "wspierać",
+        "siła",
+        "cień",
+        "widzieć"
+      ],
+      "summary": "Bóg jest jedyną pomocą we dnie i w nocy; Jego prawica podtrzymuje wierzącego (Ps 63,7-9).",
+      "bible": [
+        "Ps 63,7-9"
+      ],
+      "text": [
+        "O Boże, w nocy opuszcza mnie sen,",
+        "za dnia jesteś zawsze moją myślą,",
+        "Ty jesteś moją jedyną pomocą,",
+        "Twoja prawica wspiera mnie z siłą.",
+        "Z Tobą jestem jak w cieniu,",
+        "dlatego przyszedłem Cię zobaczyć."
+      ]
+    },
+    {
+      "range": "32-35",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławić",
+        "Pan",
+        "życie",
+        "wznosić",
+        "ręka",
+        "alleluja"
+      ],
+      "summary": "Refren błogosławieństwa Boga w życiu.",
+      "bible": [
+        "Ps 63,5"
+      ],
+      "text": [
+        "Błogosławię Cię, Panie",
+        "w moim życiu.",
+        "Do Ciebie wznoszę me ręce,",
+        "alleluja."
+      ]
+    },
+    {
+      "range": "36-41",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Bóg",
+        "zwyciężyć",
+        "wróg",
+        "głębina",
+        "serce",
+        "pogrzebać",
+        "grzech",
+        "oczyścić",
+        "usta",
+        "kłamstwo",
+        "mocny",
+        "widzieć"
+      ],
+      "summary": "Bóg zwycięża wewnętrznych wrogów, grzebie grzechy i oczyszcza usta – wewnętrzne nawrócenie (Ps 63,10-12).",
+      "bible": [
+        "Ps 63,10-12"
+      ],
+      "text": [
+        "O Boże, zwyciężyłeś wszystkich moich wrogów,",
+        "w głębinach mojego serca.",
+        "pogrzebałeś wszystkie moje grzechy,",
+        "oczyściłeś moje usta z kłamstwa.",
+        "Byłeś mocniejszy ode mnie,",
+        "dlatego przyszedłem Cię zobaczyć."
+      ]
+    },
+    {
+      "range": "42-45",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławić",
+        "Pan",
+        "życie",
+        "wznosić",
+        "ręka",
+        "alleluja"
+      ],
+      "summary": "Refren błogosławieństwa Boga w życiu.",
+      "bible": [
+        "Ps 63,5"
+      ],
+      "text": [
+        "Błogosławię Cię, Panie",
+        "w moim życiu.",
+        "Do Ciebie wznoszę me ręce,",
+        "alleluja."
+      ]
+    },
+    {
+      "range": "1-45",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "uwielbienie",
+        "Bóg",
+        "Pan",
+        "dusza",
+        "tęsknota",
+        "pragnienie",
+        "miłość",
+        "życie",
+        "chwała",
+        "śpiew",
+        "pomoc",
+        "prawica",
+        "zwycięstwo",
+        "grzech",
+        "oczyszczenie",
+        "nawrócenie",
+        "łaska",
+        "alleluja",
+        "wiara",
+        "ufność"
+      ],
+      "summary": "Parafraza Ps 63 – pieśń tęsknoty duszy za Bogiem i dziękczynienia za Jego miłość, pomoc i oczyszczenie. Typologia: spękana ziemia jako obraz ludzkiego pragnienia Boga, które wypełnia się w Chrystusie (J 4,13-14; J 7,37-39). Nocne czuwanie i podniesione ręce prefigurują modlitwę Kościoła (1 Tm 2,8).",
+      "bible": [
+        "Ps 63",
+        "J 4,13-14",
+        "J 7,37-39",
+        "1 Tm 2,8"
+      ]
+    }
+  ]
+}

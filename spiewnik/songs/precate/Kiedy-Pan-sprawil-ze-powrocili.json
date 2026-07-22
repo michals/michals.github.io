@@ -1,0 +1,231 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:6d76e9fbb4351500e06801f93b682606dd02d1a369aaa1aa7097eeb1d136af8b",
+  "songs_analysis": [
+    {
+      "range": "1-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "powrót",
+        "wygnaniec",
+        "Syjon",
+        "sen",
+        "usta",
+        "śmiech",
+        "język",
+        "pieśń",
+        "radość",
+        "niewola",
+        "wybawienie",
+        "odnowa"
+      ],
+      "summary": "Powrót wygnańców Syjonu jest jak sen, a usta wypełnia śmiech i pieśń — obraz radości z odnowy Izraela, typ odnowy duchowej w Chrystusie.",
+      "bible": [
+        "Ps 126, 1-2",
+        "Ezd 1, 1-4",
+        "Iz 35, 10"
+      ],
+      "text": [
+        "Kiedy Pan sprawił,",
+        "że powrócili",
+        "wygnańcy",
+        "Syjonu,",
+        "wydawało nam się to snem.",
+        "Nasze usta",
+        "były pełne śmiechu,",
+        "a język",
+        "- pełen pieśni.()",
+        ""
+      ]
+    },
+    {
+      "range": "11-19",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "wyruszać",
+        "płacz",
+        "siew",
+        "nasiono",
+        "powrót",
+        "śpiew",
+        "snop",
+        "żniwo",
+        "nadzieja",
+        "cierpienie",
+        "eschatologia"
+      ],
+      "summary": "Refren obrazujący prawo siewu i żniwa: kto wychodzi z płaczem siejąc, wraca ze śpiewem przynosząc snopy — teologiczna prawda o owocach cierpienia i nagrodzie.",
+      "bible": [
+        "Ps 126, 5-6",
+        "J 16, 20-22",
+        "2 Kor 9, 6"
+      ],
+      "text": [
+        "Bo gdy się wyrusza,",
+        "idzie się z płaczem,",
+        "rzucając",
+        "nasiona.()",
+        "A gdy się wraca,",
+        "wraca się ze śpiewem,",
+        "przynosząc",
+        "pełne snopy.",
+        ""
+      ]
+    },
+    {
+      "range": "20-25",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "rzecz wielka",
+        "cud",
+        "dzieło",
+        "uniesienie",
+        "radość",
+        "wdzięczność",
+        "zbawienie"
+      ],
+      "summary": "Wyznanie, że Pan dokonał wielkich i cudownych rzeczy, dlatego lud trwa w uniesieniu — dziękczynienie za zbawcze działanie Boga.",
+      "bible": [
+        "Ps 126, 3",
+        "Ps 98, 1"
+      ],
+      "text": [
+        "Rzeczy wielkich",
+        "rzeczy cudownych",
+        "dokonał dla nas Pan;",
+        "dlatego",
+        "trwamy w uniesieniu.()",
+        ""
+      ]
+    },
+    {
+      "range": "26-34",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "wyruszać",
+        "płacz",
+        "siew",
+        "nasiono",
+        "powrót",
+        "śpiew",
+        "snop",
+        "żniwo",
+        "cierpienie",
+        "nadzieja"
+      ],
+      "summary": "Powtórzenie refrenu o siewie w płaczu i żniwie w radości — utrwalenie teologicznej prawdy o przemijaniu bólu w radość.",
+      "bible": [
+        "Ps 126, 5-6"
+      ],
+      "text": [
+        "Bo gdy się wyrusza,",
+        "idzie się z płaczem,",
+        "rzucając",
+        "nasiona.",
+        "A gdy się wraca,",
+        "wraca się ze śpiewem,",
+        "przynosząc",
+        "pełne snopy.",
+        ""
+      ]
+    },
+    {
+      "range": "35-40",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "siejący",
+        "smutek",
+        "żniwujący",
+        "radość",
+        "łza",
+        "wykrzyk",
+        "nadzieja",
+        "eschatologia"
+      ],
+      "summary": "Ci, którzy sieją pogrążeni w smutku, przy żniwie wykrzykują z radości — rozwinięcie teologicznego motywu paschalnego przejścia przez cierpienie do chwały.",
+      "bible": [
+        "Ps 126, 5",
+        "Iz 61, 3",
+        "J 16, 20-22"
+      ],
+      "text": [
+        "Ci, którzy sieją",
+        "pogrążeni",
+        "są w smutku,",
+        "ale gdy żniwują,",
+        "wykrzykują z radości.()",
+        ""
+      ]
+    },
+    {
+      "range": "41-48",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "wyruszać",
+        "płacz",
+        "siew",
+        "nasiono",
+        "powrót",
+        "śpiew",
+        "snop",
+        "żniwo",
+        "cierpienie",
+        "nadzieja"
+      ],
+      "summary": "Finalne powtórzenie refrenu jako afirmacja Bożej wierności: płacz siewu zamienia się w radość żniwa.",
+      "bible": [
+        "Ps 126, 5-6"
+      ],
+      "text": [
+        "Bo gdy się wyrusza,",
+        "idzie się z płaczem,",
+        "rzucając",
+        "nasiona.",
+        "A gdy się wraca,",
+        "wraca się ze śpiewem,",
+        "przynosząc",
+        "pełne snopy."
+      ]
+    },
+    {
+      "range": "1-48",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "powrót",
+        "Syjon",
+        "wygnanie",
+        "radość",
+        "śmiech",
+        "pieśń",
+        "siew",
+        "żniwo",
+        "płacz",
+        "łza",
+        "nasiono",
+        "snop",
+        "wielkie dzieła",
+        "nadzieja",
+        "odnowa",
+        "pascha",
+        "zmartwychwstanie"
+      ],
+      "summary": "Pieśń oparta na Psalmie 126, łącząca radość z powrotu z wygnania z teologiczną prawdą o przejściu przez cierpienie do chwały (siew w łzach — żniwo w radości), co typologicznie zapowiada paschalną tajemnicę śmierci i zmartwychwstania Chrystusa oraz życie chrześcijańskie.",
+      "bible": [
+        "Ps 126",
+        "Ezd 1",
+        "Iz 35, 10",
+        "J 16, 20-22",
+        "2 Kor 9, 6"
+      ]
+    }
+  ]
+}

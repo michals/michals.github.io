@@ -1,0 +1,208 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:5e080e084709c40f6f589c10a3b00697a4401c8deb97dfca120f33fad3dd43a9",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "światło",
+        "ciemność",
+        "głos",
+        "adwent",
+        "przyjście",
+        "zbawienie",
+        "dusza",
+        "przebudzenie",
+        "gwiazda",
+        "nadzieja",
+        "odrętwienie",
+        "łaska"
+      ],
+      "summary": "Zapowiedź przyjścia Chrystusa jako światła rozpraszającego ciemności i wzywającego duszę do przebudzenia się z odrętwienia.",
+      "bible": [
+        "Iz 9, 1",
+        "J 1, 5",
+        "Rz 13, 11-12",
+        "Łk 1, 78-79",
+        "Lb 24, 17",
+        "Mt 2, 2"
+      ],
+      "text": [
+        "Jasny głos",
+        "rozprasza swymi echami ciemności;",
+        "ustąpcie udręki.",
+        "Jezus jaśnieje już!",
+        "Niech się zbudzi dusza odrętwiała",
+        "i przestanie pełzać po ziemi:",
+        "wschodzi nowa gwiazda!"
+      ]
+    },
+    {
+      "range": "8",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "9-12",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "9-12",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Baranek Boży",
+        "ofiara",
+        "winy",
+        "przebaczenie",
+        "okup",
+        "łzy",
+        "pokuta",
+        "pojednanie",
+        "Jezus Chrystus",
+        "zbawienie",
+        "odkupienie",
+        "grzech"
+      ],
+      "summary": "Wezwanie do przyjścia do Baranka Bożego, który darmo okupuje grzechy, i prośba o przebaczenie wyrażona ze łzami pokuty.",
+      "bible": [
+        "J 1, 29",
+        "Iz 53, 4-6",
+        "1 J 2, 2",
+        "Mt 9, 36",
+        "Oz 6, 1-3",
+        "Iz 1, 18"
+      ],
+      "text": [
+        "Oto jest nam posłany Baranek,",
+        "aby darmo okupił nasze winy,",
+        "pójdźmy do Niego ze łzami,",
+        "prośmy Go wszyscy o przebaczenie."
+      ]
+    },
+    {
+      "range": "13",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "14-18",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "14-18",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "paruzja",
+        "drugie przyjście",
+        "chwała",
+        "sąd",
+        "strach",
+        "litość",
+        "miłosierdzie",
+        "Jezus Chrystus",
+        "eschatologia",
+        "Adwent",
+        "Sędzia",
+        "łaska"
+      ],
+      "summary": "Oczekiwanie na chwalebne drugie przyjście Chrystusa połączone z błaganiem o litość w obliczu sądu ostatecznego.",
+      "bible": [
+        "Mt 25, 31-33",
+        "Mk 13, 26-27",
+        "1 Tes 4, 16-17",
+        "Ap 1, 7",
+        "Ap 20, 11-15",
+        "Łk 21, 25-28"
+      ],
+      "text": [
+        "Tak aby,",
+        "gdy się pojawi chwalebny",
+        "w swoim drugim przyjściu",
+        "i świat wypełni strachem,",
+        "osłonił nas litościwie."
+      ]
+    },
+    {
+      "range": "19",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "20-24",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "20-24",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "pieśń pochwalna",
+        "Ojciec",
+        "Syn",
+        "Duch Święty",
+        "Trójca Święta",
+        "doksologia",
+        "uwielbienie",
+        "chwała",
+        "amen"
+      ],
+      "summary": "Doksologia trynitarna zamykająca hymn adwentowy, śpiewana na chwałę Ojca, Syna i Ducha Świętego.",
+      "bible": [
+        "Mt 28, 19",
+        "2 Kor 13, 14",
+        "Ga 4, 6",
+        "Rz 9, 5"
+      ],
+      "text": [
+        "Dlatego",
+        "śpiewamy tę pieśń pochwalną",
+        "Ojcu, Synowi i Duchowi,",
+        "którzy niech żyją,",
+        "Amen!"
+      ]
+    },
+    {
+      "range": "1-24",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "adwent",
+        "przyjście",
+        "Jezus Chrystus",
+        "światło",
+        "Baranek Boży",
+        "przebaczenie",
+        "paruzja",
+        "sąd",
+        "litość",
+        "doksologia",
+        "Trójca Święta",
+        "nadzieja",
+        "odkupienie",
+        "pokuta",
+        "oczekiwanie"
+      ],
+      "summary": "Hymn adwentowy inspirowany 'Vox clara ecce intonat', łączący wezwanie do pokuty i oczekiwania na pierwsze przyjście Baranka Bożego z eschatologicznym oczekiwaniem na chwalebne przyjście Chrystusa Sędziego, zakończony trynitarną doksologią.",
+      "bible": [
+        "Iz 9, 1",
+        "J 1, 5",
+        "J 1, 29",
+        "Mt 25, 31-33",
+        "Mk 13, 26-27",
+        "1 J 2, 2",
+        "Mt 28, 19"
+      ]
+    }
+  ]
+}

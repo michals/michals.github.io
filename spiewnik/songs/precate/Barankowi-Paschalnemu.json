@@ -1,0 +1,243 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:ab16092b73186e7681281d8150ffc5d77e803792c06e82df88359993395cf132",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Baranek Paschalny",
+        "ofiara",
+        "uwielbienie",
+        "Baranek",
+        "odkupienie",
+        "owczarnia",
+        "niewinny",
+        "pojednanie",
+        "grzesznik",
+        "Ojciec"
+      ],
+      "summary": "Wezwanie do składania świętej ofiary uwielbienia Barankowi Paschalnemu, który odkupił owczarnię i pojednał grzeszników z Ojcem.",
+      "bible": [
+        "1 Kor 5, 7",
+        "Iz 53, 6-7",
+        "J 10, 11"
+      ],
+      "text": [
+        "Barankowi Paschalnemu",
+        "niech się wzniesie dzisiaj                 święta ofiara uwielbienia,",
+        "Baranek odkupił swą owczarnię,",
+        "niewinny pojednał nas          grzeszników z Ojcem.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "śmierć",
+        "życie",
+        "pojedynek",
+        "Twórca życia",
+        "umarły",
+        "żywy",
+        "tryumf",
+        "zmartwychwstanie",
+        "pascha",
+        "zwycięstwo"
+      ],
+      "summary": "Opis przedziwnego pojedynku śmierci i życia, w którym Twórca życia umarł, a teraz żyje i tryumfuje.",
+      "bible": [
+        "1 Kor 15, 54-55",
+        "Oz 13, 14",
+        "Rz 6, 9"
+      ],
+      "text": [
+        "Śmierć i życie spotkały się ze sobą",
+        "w przedziwnym pojedynku.",
+        "Twórca życia był umarły,",
+        "a teraz jest żywy i tryumfuje.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Mario",
+        "Maria Magdalena",
+        "grób",
+        "pusty",
+        "Chrystus",
+        "zmartwychwstanie",
+        "aniołowie",
+        "opaski",
+        "całun",
+        "świadectwo",
+        "orędzie"
+      ],
+      "summary": "Dialog z Marią Magdaleną, która świadczy o pustym grobie, chwale żywego Chrystusa oraz aniołach, opaskach i całunie.",
+      "bible": [
+        "J 20, 11-18",
+        "Mk 16, 1-8",
+        "Łk 24, 1-12"
+      ],
+      "text": [
+        "„Opowiedz nam, Mario,                 coś zobaczyła po drodze:”",
+        "„Grób mojego Pana pusty,",
+        "Chwałę Pana i żywego Chrystusa,",
+        "aniołów, opaski i całun”.",
+        ""
+      ]
+    },
+    {
+      "range": "16-19",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "nadzieja",
+        "zmartwychwstał",
+        "Galilea",
+        "wyprzedza",
+        "Obietnica",
+        "uczeń"
+      ],
+      "summary": "Zapowiedź, że Chrystus zmartwychwstał i wyprzedza wiernych do Galilei.",
+      "bible": [
+        "Mt 28, 7",
+        "Mk 16, 7"
+      ],
+      "text": [
+        "„Bowiem Chrystus, ma nadzieja,            zmartwychwstał",
+        "i nas wyprzedza do Galilei”,",
+        "i nas wyprzedza do Galilei.",
+        ""
+      ]
+    },
+    {
+      "range": "20-22",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "pewność",
+        "wiara",
+        "Chrystus",
+        "zmartwychwstanie",
+        "prawda",
+        "wyznanie",
+        "nadzieja"
+      ],
+      "summary": "Uroczyste wyznanie pewności wiary w prawdziwe zmartwychwstanie Chrystusa.",
+      "bible": [
+        "1 Kor 15, 14-17"
+      ],
+      "text": [
+        "Tak, jesteśmy pewni:",
+        "Chrystus naprawdę zmartwychwstał!",
+        ""
+      ]
+    },
+    {
+      "range": "23-25",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "pewność",
+        "wiara",
+        "Chrystus",
+        "zmartwychwstanie",
+        "prawda",
+        "wyznanie",
+        "alelu ja"
+      ],
+      "summary": "Powtórzone wyznanie pewności wiary w prawdziwe zmartwychwstanie Chrystusa jako aklamacja liturgiczna.",
+      "bible": [
+        "1 Kor 15, 20"
+      ],
+      "text": [
+        "Tak, jesteśmy pewni:",
+        "Chrystus naprawdę zmartwychwstał!",
+        ""
+      ]
+    },
+    {
+      "range": "26-28",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Galilea",
+        "wyprzedza",
+        "Chrystus",
+        "zmartwychwstanie",
+        "nadzieja",
+        "obietnica",
+        "uczeń"
+      ],
+      "summary": "Powtórzenie zapowiedzi, że Chrystus zmartwychwstały wyprzedza wiernych do Galilei.",
+      "bible": [
+        "Mt 26, 32",
+        "Mt 28, 7"
+      ],
+      "text": [
+        "I nas wyprzedza do Galilei,",
+        "i nas wyprzedza do Galilei.",
+        ""
+      ]
+    },
+    {
+      "range": "29",
+      "type": "zakończenie",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Król zwycięski",
+        "zbawienie",
+        "Chrystus",
+        "prośba",
+        "Królestwo Boże",
+        "łaska"
+      ],
+      "summary": "Błagalna prośba do Chrystusa jako Króla zwycięskiego o dar zbawienia.",
+      "bible": [
+        "Ap 19, 16",
+        "Dz 4, 12"
+      ],
+      "text": [
+        "Ty, Królu zwycięski,daj nam Twoje zbawienie!"
+      ]
+    },
+    {
+      "range": "1-29",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Baranek Paschalny",
+        "ofiara",
+        "zmartwychwstanie",
+        "śmierć",
+        "życie",
+        "Galilea",
+        "Maria Magdalena",
+        "Chrystus",
+        "Król zwycięski",
+        "zbawienie",
+        "odkupienie",
+        "pascha",
+        "tryumf",
+        "nadzieja",
+        "wiara"
+      ],
+      "summary": "Hymn paschalny Victimae Paschali Laudes przedstawiający tajemnicę odkupienia – od ofiary Baranka po zwycięski tryumf zmartwychwstania i prośbę o zbawienie.",
+      "bible": [
+        "1 Kor 5, 7",
+        "1 Kor 15",
+        "J 20",
+        "Mt 28",
+        "Ap 19"
+      ]
+    }
+  ]
+}

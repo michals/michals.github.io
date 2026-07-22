@@ -1,0 +1,155 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:c031385d82e8777bc50aac2c8daf22814874e5461fa7c67c046b941c689109ba",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "słowo",
+        "zachować",
+        "śmierć",
+        "Jedyny",
+        "radość",
+        "Pan"
+      ],
+      "summary": "Refren oparty na J 8, 51: kto zachowuje słowo Chrystusa nie zazna śmierci, Jedyny Bóg trwa w radości.",
+      "bible": [
+        "J 8, 51"
+      ],
+      "text": [
+        "Kto zachowuje moje słowo,",
+        "nigdy go nie dotknie śmierć.",
+        "Tyś jest Jedyny, Jedyny, który trwa w radości.",
+        "Któż jest jak nasz Pan?",
+        ""
+      ]
+    },
+    {
+      "range": "6-8",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "dzień",
+        "wieniec",
+        "zbawienie",
+        "pamiątka",
+        "radość",
+        "wesele"
+      ],
+      "summary": "Dzień odpoczynku jako wieniec zbawienia i pamiątka radości oraz wesela.",
+      "bible": [
+        "Rdz 2, 2-3"
+      ],
+      "text": [
+        "Ten dzień jest wieńcem zbawienia,",
+        "pamiątką radości i wesela.",
+        ""
+      ]
+    },
+    {
+      "range": "9-13",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "odpoczynek",
+        "dzień",
+        "uświęcenie",
+        "czas",
+        "lud"
+      ],
+      "summary": "Prośba o dar dnia odpoczynku i uświęcenia dla ludu Bożego, powtórzona dwukrotnie.",
+      "bible": [
+        "Wj 20, 8-11",
+        "Pwt 5, 12-15"
+      ],
+      "text": [
+        "Odpoczynku dzień i uświęcenia czas",
+        "ludowi swemu dałeś.",
+        "Odpoczynku dzień i uświęcenia czas",
+        "ludowi swemu dałeś.",
+        ""
+      ]
+    },
+    {
+      "range": "14-17",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Abraham",
+        "Izaak",
+        "Jakub",
+        "syn",
+        "odpocząć",
+        "dzień"
+      ],
+      "summary": "Abraham ujrzał dzień Mesjasza i rozradował się w Izaaku, a Jakub i synowie odpoczęli w dniu świętym.",
+      "bible": [
+        "J 8, 56",
+        "Rdz 22",
+        "Rdz 2, 2-3"
+      ],
+      "text": [
+        "Abraham dzień ten zobaczył",
+        "i w Izaaku się rozradował.",
+        "Jakub i synowie jego w dniu tym odpoczęli.",
+        ""
+      ]
+    },
+    {
+      "range": "18-21",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "odpoczynek",
+        "dzień",
+        "uświęcenie",
+        "czas",
+        "lud"
+      ],
+      "summary": "Końcowe powtórzenie refrenu o dniu odpoczynku i uświęcenia dla ludu.",
+      "bible": [
+        "Wj 20, 8-11",
+        "Pwt 5, 12-15"
+      ],
+      "text": [
+        "Odpoczynku dzień i uświęcenia czas",
+        "ludowi swemu dałeś.",
+        "Odpoczynku dzień i uświęcenia czas",
+        "ludowi swemu dałeś."
+      ]
+    },
+    {
+      "range": "1-21",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "odpoczynek",
+        "szabat",
+        "niedziela",
+        "zmartwychwstanie",
+        "słowo",
+        "Chrystus",
+        "Abraham",
+        "Izaak",
+        "typologia",
+        "zbawienie",
+        "uświęcenie",
+        "lud",
+        "Boży",
+        "przymierze",
+        "obietnica"
+      ],
+      "summary": "Pieśń o chrześcijańskim dniu odpoczynku łącząca typologię szabatu i ofiary Izaaka z zapowiedzią Chrystusa. Abraham ujrzał dzień Mesjasza (J 8, 56), a szabat znajduje wypełnienie w niedzieli zmartwychwstania.",
+      "bible": [
+        "J 8, 51.56",
+        "Rdz 2, 2-3",
+        "Rdz 22",
+        "Wj 20, 8-11",
+        "Pwt 5, 12-15",
+        "Hbr 4, 9-10"
+      ]
+    }
+  ]
+}

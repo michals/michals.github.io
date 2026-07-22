@@ -1,0 +1,160 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a52842ed99f3732cbdac7da03688a90301111c801e4f6d5e72a7994e5104d5a3",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "sprawiedliwi",
+        "Pan",
+        "uwielbienie",
+        "cytra",
+        "harfa",
+        "śpiew",
+        "chwała"
+      ],
+      "summary": "Wezwanie sprawiedliwych do radosnego wielbienia Pana na cytrze i harfie.",
+      "bible": [
+        "Ps 33,1-2"
+      ],
+      "text": [
+        "Radujcie się sprawiedliwi w Panu,",
+        "świętym przystoi uwielbienie.",
+        "Uwielbiajcie Pana na cytrze,",
+        "przy harfie dziesięciostrunnej Jemu śpiewajcie.",
+        ""
+      ]
+    },
+    {
+      "range": "6-12",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pieśń nowa",
+        "słowo",
+        "prawość",
+        "prawda",
+        "dzieło",
+        "sprawiedliwość",
+        "miłość",
+        "ziemia"
+      ],
+      "summary": "Słowo Pana jest prawe, a Jego dzieła pełne prawdy; Jego sprawiedliwość i miłość napełniają całą ziemię.",
+      "bible": [
+        "Ps 33,3-5"
+      ],
+      "text": [
+        "Śpiewajcie Panu pieśń nową,",
+        "zagrajcie na cytrze najpiękniej i wykrzykujcie,",
+        "albowiem prawe jest słowo Pana,",
+        "prawdą każde Jego dzieło.",
+        "W nim są sprawiedliwość i prawo,",
+        "Jego miłości pełna jest ziemia.",
+        ""
+      ]
+    },
+    {
+      "range": "13-17",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "sprawiedliwi",
+        "Pan",
+        "uwielbienie",
+        "cytra",
+        "harfa",
+        "śpiew",
+        "chwała"
+      ],
+      "summary": "Powtórzone wezwanie do radosnego uwielbienia Boga śpiewem i instrumentami.",
+      "bible": [
+        "Ps 33,1-2"
+      ],
+      "text": [
+        "Radujcie się sprawiedliwi w Panu,",
+        "świętym przystoi uwielbienie.",
+        "Uwielbiajcie Pana na cytrze,",
+        "przy harfie dziesięciostrunnej Jemu śpiewajcie.",
+        ""
+      ]
+    },
+    {
+      "range": "18-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Słowo",
+        "Pan",
+        "stworzenie",
+        "niebo",
+        "tchnienie",
+        "zastępy",
+        "narody",
+        "zamiary",
+        "wieczność"
+      ],
+      "summary": "Pan stworzył niebiosa swoim słowem; ludzkie plany przemijają, lecz zamiar Pana trwa na wieki.",
+      "bible": [
+        "Ps 33,6",
+        "Ps 33,10-11"
+      ],
+      "text": [
+        "Słowo Pana uczyniło niebo",
+        "i tchnienie Jego ust - Jego zastępy.",
+        "Pan udaremnia zamiary narodów,",
+        "wniwecz obraca zamysły ludów.",
+        "Ale zamiar Pana,",
+        "zamiar Pana trwa na wieki. ",
+        ""
+      ]
+    },
+    {
+      "range": "25-28",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "sprawiedliwi",
+        "Pan",
+        "uwielbienie",
+        "cytra",
+        "harfa",
+        "śpiew"
+      ],
+      "summary": "Końcowe wezwanie sprawiedliwych do uwielbienia Pana na instrumentach strunowych.",
+      "bible": [
+        "Ps 33,1-2"
+      ],
+      "text": [
+        "Radujcie się sprawiedliwi w Panu,",
+        "świętym przystoi uwielbienie.",
+        "Uwielbiajcie Pana na cytrze,",
+        "Przy harfie dziesięciostrunnej Jemu śpiewajcie"
+      ]
+    },
+    {
+      "range": "1-28",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "sprawiedliwi",
+        "Pan",
+        "uwielbienie",
+        "śpiew",
+        "słowo Boże",
+        "stworzenie",
+        "miłość",
+        "wieczność",
+        "chwała",
+        "cytra",
+        "harfa",
+        "zamiar"
+      ],
+      "summary": "Psalm 33 wzywa sprawiedliwych do wielbienia Boga śpiewem i instrumentami za Jego prawe słowo, stwórczą moc i nieprzemijające zamiary przepełnione miłością.",
+      "bible": [
+        "Ps 33"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:3aa60504f5270ba665694bad83ba0e688a519116dd6f60b8a573f5a8c3ba883f",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "zbroja",
+        "Boży",
+        "oręż",
+        "światłość",
+        "walka",
+        "stworzenie",
+        "ciało",
+        "krew",
+        "duch",
+        "zło",
+        "ciemność"
+      ],
+      "summary": "Wezwanie do przyobleczenia się w zbroję Bożą i oręż światłości, bo walka chrześcijanina jest duchowa – przeciw siłom zła.",
+      "bible": [
+        "Ef 6, 11-12",
+        "Rz 13, 12"
+      ],
+      "text": [
+        "Przyobleczcie się w zbroję Bożą,",
+        "nosząc na sobie oręż światłości.",
+        "Bo nasza walka nie jest przeciw stworzeniom z ciała i krwi,",
+        "ale przeciwko duchom zła, które zamieszkują ten świat ciemności."
+      ]
+    },
+    {
+      "range": "5-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "przepasać",
+        "biodra",
+        "prawda",
+        "sprawiedliwość",
+        "krzyż",
+        "opierać się",
+        "zło",
+        "grzech"
+      ],
+      "summary": "Przepasanie bioder prawdą i przyobleczenie w sprawiedliwość krzyża, która nie opiera się złu, lecz bierze na siebie grzechy innych.",
+      "bible": [
+        "Ef 6, 14",
+        "Mt 5, 39",
+        "Iz 53, 11-12"
+      ],
+      "text": [
+        "Przepasawszy biodra wasze prawdą,",
+        "przyobleczeni w sprawiedliwość krzyża,",
+        "która nie opiera się złu,",
+        "lecz bierze na siebie grzechy innych."
+      ]
+    },
+    {
+      "range": "9-13",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "obuć",
+        "noga",
+        "gotowość",
+        "głosić",
+        "Ewangelia",
+        "tarcza",
+        "wiara",
+        "Chrystus",
+        "miłość",
+        "krzyż",
+        "złoczyńca",
+        "grzesznik"
+      ],
+      "summary": "Obucie w gotowość głoszenia Ewangelii oraz tarcza wiary w Chrystusa, który umarł za grzeszników.",
+      "bible": [
+        "Ef 6, 15-16",
+        "Iz 52, 7",
+        "Rz 5, 8",
+        "Rz 10, 15"
+      ],
+      "text": [
+        "Obuwszy nogi w gotowość głoszenia Ewangelii,",
+        "miejcie przede wszystkim tarczę wiary,",
+        "że Chrystus kocha cię naprawdę,",
+        "że umarł na krzyżu za ciebie,",
+        "gdy byłeś złoczyńcą i grzesznikiem."
+      ]
+    },
+    {
+      "range": "14-19",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "miecz",
+        "Duch",
+        "Słowo Boże",
+        "hełm",
+        "zbawienie",
+        "Jezus Chrystus",
+        "zmartwychwstać",
+        "Pan",
+        "powrócić",
+        "zabrać"
+      ],
+      "summary": "Miecz Ducha – Słowo Boże, hełm zbawienia oraz wyznanie wiary w zmartwychwstanie, panowanie i powrót Chrystusa, który zabierze wiernych do siebie.",
+      "bible": [
+        "Ef 6, 17",
+        "Hbr 4, 12",
+        "1 Tes 5, 8",
+        "1 Kor 15, 3-4",
+        "J 14, 3"
+      ],
+      "text": [
+        "Weźcie też miecz Ducha, którym jest Słowo Boże,",
+        "a na głowę hełm zbawienia,",
+        "bo Jezus Chrystus zmartwychwstał,",
+        "bo On jest Panem,",
+        "bo On powróci, bo On powróci",
+        "i zabierze nas ze Sobą."
+      ]
+    },
+    {
+      "range": "20-21",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Alleluja"
+      ],
+      "summary": "Radosna aklamacja Alleluja wieńcząca pieśń o zwycięstwie w Chrystusie.",
+      "bible": [
+        "Ap 19, 1"
+      ],
+      "text": [
+        "Alleluja, allelu-, allelu-, alleluja,",
+        "Alleluja, allelu-, allelu-, alleluja."
+      ]
+    },
+    {
+      "range": "1-21",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "zbroja",
+        "Boży",
+        "walka",
+        "duch",
+        "prawda",
+        "sprawiedliwość",
+        "krzyż",
+        "Ewangelia",
+        "wiara",
+        "miłość",
+        "Słowo Boże",
+        "zbawienie",
+        "zmartwychwstanie",
+        "Pan",
+        "powrót",
+        "Alleluja"
+      ],
+      "summary": "Pieśń oparta na Ef 6, 11-17 o duchowej walce chrześcijanina, który przyobleka się w zbroję Bożą: prawdę, sprawiedliwość krzyża, Ewangelię, wiarę, Słowo Boże i zbawienie. Zwieńczona triumfalnym Alleluja na cześć zmartwychwstałego i powracającego Chrystusa.",
+      "bible": [
+        "Ef 6, 11-17",
+        "Rz 13, 12",
+        "Iz 52, 7",
+        "Rz 5, 8",
+        "Hbr 4, 12",
+        "J 14, 3",
+        "Ap 19, 1"
+      ]
+    }
+  ]
+}

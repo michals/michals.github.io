@@ -1,0 +1,163 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:13b25509192dcc782f21554f68371d86ec927186ab667ab00b1153b490c56238",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "pokój",
+        "szalom",
+        "hebrajski",
+        "błogosławieństwo",
+        "pozdrowienie",
+        "jedność"
+      ],
+      "summary": "Hebrajskie pozdrowienie 'Hevenu szalom alehem' (Przynosimy wam pokój), nawiązujące do błogosławieństwa kapłańskiego (Lb 6, 24-26) i żydowskiej tradycji pokoju, zapowiadające chrześcijańskie pozdrowienie 'Pokój wam'.",
+      "bible": [
+        "Lb 6, 24-26",
+        "Ps 122, 7-8"
+      ],
+      "text": [
+        "Hevenu szalom alehem.",
+        "Hevenu szalom alehem.",
+        "Hevenu szalom alehem.",
+        "Hevenu szalom, szalom, szalom alehem.",
+        ""
+      ]
+    },
+    {
+      "range": "6-11",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pokój",
+        "nami",
+        "hebrajski",
+        "szalom",
+        "modlitwa",
+        "wspólnota",
+        "jedność"
+      ],
+      "summary": "Polska wersja wezwania pokoju, łącząca 'A pokój niech będzie z nami' z hebrajskim refrenem, wyrażająca pragnienie pokoju dla wspólnoty wierzących.",
+      "bible": [
+        "Lb 6, 24-26",
+        "J 14, 27",
+        "J 20, 19-21"
+      ],
+      "text": [
+        "A pokój niech będzie z nami.",
+        "A pokój niech będzie z nami.",
+        "A pokój niech będzie z nami.",
+        "Hevenu szalom, szalom, szalom alehem.",
+        "Hevenu szalom alehem…",
+        ""
+      ]
+    },
+    {
+      "range": "12-21",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "pokój",
+        "jedność",
+        "różnorodność",
+        "języki",
+        "narody",
+        "uniwersalizm",
+        "Pięćdziesiątnica",
+        "Kościół"
+      ],
+      "summary": "Multilingwalne ogłoszenie pokoju w 9 językach (włoski, hiszpański, francuski, niemiecki, angielski, portugalski, rosyjski, słowacki, ukraiński) symbolizujące uniwersalność orędzia pokoju i powszechność Kościoła, nawiązujące do Pięćdziesiątnicy (Dz 2).",
+      "bible": [
+        "Dz 2, 1-12",
+        "Rdz 11, 1-9",
+        "Ga 3, 28",
+        "Ef 2, 14-18"
+      ],
+      "text": [
+        "E sia la pace con noi …       włoski",
+        "Que sea la paz con nosotros … hiszpański",
+        "Et la paix soit avec nous …   francuski",
+        "Und sei der Friede mit uns …  niemiecki",
+        "And may peace be with us …    angielski",
+        "A paz esteja connosco …       portugalski",
+        "Да мир всегда будет с нами … rosyjski",
+        "A pokoj nech vždy je s nami … słowacki",
+        "Хай завжди мир буде з нами … ukraiński",
+        ""
+      ]
+    },
+    {
+      "range": "22-29",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "głoszenie",
+        "pokój",
+        "świat",
+        "śpiew",
+        "życie",
+        "radość",
+        "pozdrowienie",
+        "jedność",
+        "hebrajski",
+        "szalom",
+        "posłannictwo"
+      ],
+      "summary": "Deklaracja misyjna: głosimy i śpiewamy pokój dla świata, aby życie było radosne, a pozdrowienie 'Pokój' łączyło wszystkich, zakończone powtórzeniem hebrajskiego błogosławieństwa jako pieczęci jedności.",
+      "bible": [
+        "Iz 2, 4",
+        "Mi 4, 3",
+        "Mt 5, 9",
+        "Ef 2, 14-17",
+        "J 20, 21"
+      ],
+      "text": [
+        "Głosimy pokój dla świata.",
+        "Śpiewamy pokój dla świata.",
+        "Niech nasze życie będzie radosne,",
+        "a pozdrowienie „Pokój” niech połączy nas.",
+        "Hevenu szalom alehem.",
+        "Hevenu szalom alehem.",
+        "Hevenu szalom alehem.",
+        "Hevenu szalom, szalom, szalom alehem."
+      ]
+    },
+    {
+      "range": "1-29",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "pokój",
+        "szalom",
+        "jedność",
+        "pojednanie",
+        "błogosławieństwo",
+        "hebrajski",
+        "języki",
+        "narody",
+        "Pięćdziesiątnica",
+        "Kościół",
+        "misja",
+        "głoszenie",
+        "Ef 2",
+        "Znak Pokoju",
+        "Przygotowanie Darów",
+        "ekumenizm"
+      ],
+      "summary": "Pieśń pokoju oparta na hebrajskim błogosławieństwie 'Hevenu szalom alehem', rozwijająca uniwersalne orędzie pokoju Chrystusowego w wielości języków (Dz 2) i zobowiązanie do głoszenia pokoju światu. Stosowna na Znak Pokoju i Przygotowanie Darów we Mszy Świętej, wyrażająca pojednanie w Chrystusie, który jest naszym pokojem (Ef 2, 14).",
+      "bible": [
+        "Lb 6, 24-26",
+        "J 14, 27",
+        "J 20, 19-23",
+        "Ef 2, 14-18",
+        "Dz 2, 1-12",
+        "Iz 2, 4",
+        "Mt 5, 9",
+        "Ps 122, 7-8"
+      ]
+    }
+  ]
+}

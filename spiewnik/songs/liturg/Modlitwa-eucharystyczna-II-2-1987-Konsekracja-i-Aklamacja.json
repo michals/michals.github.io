@@ -1,0 +1,233 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:6116c41b8ca2a57f5bc550b654c121c6634970eb89583e19389ccffc046ce070",
+  "songs_analysis": [
+    {
+      "range": "1",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "2",
+      "text": [
+        "Przejście"
+      ]
+    },
+    {
+      "range": "2",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "świętość",
+        "Bóg",
+        "źródło",
+        "świętość",
+        "uwielbienie"
+      ],
+      "summary": "Post-Sanctus: uznanie Boga jako źródła wszelkiej świętości.",
+      "bible": [
+        "Kpł 19, 2",
+        "Iz 6, 3",
+        "Ap 4, 8",
+        "1 P 1, 15-16"
+      ],
+      "text": [
+        "Zaprawdę, święty jesteś, Boże, źródło wszelkiej świętości."
+      ]
+    },
+    {
+      "range": "3",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "4-5",
+      "text": [
+        "Epikleza"
+      ]
+    },
+    {
+      "range": "4-5",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "dar",
+        "Duch Święty",
+        "uświęcić",
+        "Ciało",
+        "Krew",
+        "Jezus Chrystus",
+        "Pan",
+        "Eucharystia",
+        "konsekracja"
+      ],
+      "summary": "Epikleza: prośba o uświęcenie darów chleba i wina mocą Ducha Świętego, aby stały się Ciałem i Krwią Chrystusa.",
+      "bible": [
+        "J 6, 51-56",
+        "1 Kor 11, 24-25",
+        "Łk 22, 19-20",
+        "Dz 2, 1-4"
+      ],
+      "text": [
+        "Uświęć te dary mocą Twojego Ducha, aby stały się dla nas",
+        "Ciałem ✠ i Krwią naszego Pana, Jezusa Chrystusa."
+      ]
+    },
+    {
+      "range": "6",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "7-19",
+      "text": [
+        "Opowiadanie i konsekracja"
+      ]
+    },
+    {
+      "range": "7-19",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "męka",
+        "chleb",
+        "dziękczynienie",
+        "łamać",
+        "rozdawać",
+        "uczeń",
+        "Ciało",
+        "kielich",
+        "Krew",
+        "przymierze",
+        "nowy",
+        "wieczny",
+        "odpuszczenie",
+        "grzech",
+        "pamiątka",
+        "Jezus Chrystus",
+        "Eucharystia",
+        "konsekracja",
+        "Wieczerza Pańska",
+        "Ofiara"
+      ],
+      "summary": "Opowiadanie o ustanowieniu Eucharystii: Jezus podczas Ostatniej Wieczerzy wziął chleb i kielich, dzięki czyniąc, łamał i podał uczniom, ustanawiając Nowe Przymierze we Krwi na odpuszczenie grzechów.",
+      "bible": [
+        "Mt 26, 26-28",
+        "Mk 14, 22-24",
+        "Łk 22, 19-20",
+        "1 Kor 11, 23-25",
+        "Wj 24, 8",
+        "Jr 31, 31-34",
+        "Kpł 17, 11"
+      ],
+      "text": [
+        "On to, gdy dobrowolnie wydał się na mękę,",
+        "wziął chleb i dzięki Tobie składając,",
+        "łamał i rozdawał swoim uczniom mówiąc:",
+        "„bierzcie i jedzcie z tego wszyscy:",
+        "to jest bowiem ciało moje,",
+        "które za was będzie wydane”.",
+        "Podobnie po wieczerzy wziął kielich",
+        "i ponownie dzięki Tobie składając,",
+        "podał swoim uczniom, mówiąc:",
+        "„bierzcie i pijcie z niego wszyscy:",
+        "to jest bowiem kielich krwi mojej       nowego i wiecznego przymierza,",
+        "która za was i za wielu będzie wylanana odpuszczenie grzechów.",
+        "To czyńcie na moją pamiątkę”."
+      ]
+    },
+    {
+      "range": "20",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "21-25",
+      "text": [
+        "Aklamacja"
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "tajemnica",
+        "wiara",
+        "śmierć",
+        "zmartwychwstanie",
+        "Pan",
+        "Jezus",
+        "przyjść",
+        "Paruzja",
+        "aklamacja",
+        "wyznanie"
+      ],
+      "summary": "Aklamacja po konsekracji: wyznanie tajemnicy wiary – głoszenie śmierci i zmartwychwstania Pana oraz wołanie o Jego ponowne przyjście.",
+      "bible": [
+        "1 Kor 11, 26",
+        "Ap 22, 17",
+        "Ap 22, 20",
+        "Rz 10, 9",
+        "1 Tes 4, 16-17"
+      ],
+      "text": [
+        "Oto wielka tajemnica wiary:",
+        "Głosimy Twoją śmierć, Panie,",
+        "wyznajemy Twoje zmartwychwstanie.",
+        "Przyjdź Panie Jezu! Przyjdź Panie Jezu!",
+        ""
+      ]
+    },
+    {
+      "range": "26",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "Rubryka wskazująca na kontynuację modlitwy eucharystycznej.",
+      "text": [
+        "Następują Słowa po konsekracji ME II (1), str."
+      ]
+    },
+    {
+      "range": "1-26",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "konsekracja",
+        "Eucharystia",
+        "Ciało",
+        "Krew",
+        "Nowe Przymierze",
+        "Ofiara",
+        "Jezus Chrystus",
+        "aklamacja",
+        "śmierć",
+        "zmartwychwstanie",
+        "Paruzja",
+        "Duch Święty",
+        "epikleza",
+        "Wieczerza Pańska",
+        "odpuszczenie",
+        "grzech",
+        "pamiątka",
+        "tajemnica",
+        "wiara",
+        "modlitwa eucharystyczna"
+      ],
+      "summary": "Konsekracja i aklamacja Modlitwy Eucharystycznej II (1987): epikleza, ustanowienie Eucharystii słowami Chrystusa nad chlebem i kielichem, oraz aklamacja wiernych głosząca śmierć i zmartwychwstanie Pana.",
+      "bible": [
+        "Mt 26, 26-28",
+        "Mk 14, 22-24",
+        "Łk 22, 19-20",
+        "1 Kor 11, 23-25",
+        "Wj 24, 8",
+        "Jr 31, 31-34",
+        "J 6, 51-56",
+        "1 Kor 11, 26",
+        "Ap 22, 17-20"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:5648e5610b6f337f3c051d94c6a155fd9e22e80bc60b55123659a612b31905dd",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "córka",
+        "Jerozolima",
+        "płacz",
+        "Chrystus",
+        "męka"
+      ],
+      "summary": "Refren: Chrystus zwraca się do córek jerozolimskich, aby nie płakały nad Nim.",
+      "bible": [
+        "Łk 23,28"
+      ],
+      "text": [
+        "Córki jerozolimskie,",
+        "nie płaczcie, nie płaczcie nade mną.",
+        ""
+      ]
+    },
+    {
+      "range": "4-7",
+      "type": "fragment",
+      "sentiment": "pokutny",
+      "keywords": [
+        "drzewo zielone",
+        "drzewo suche",
+        "sąd Boży",
+        "męka",
+        "Chrystus"
+      ],
+      "summary": "Słowo Chrystusa o drzewie zielonym i suchym: zapowiedź losu Jerozolimy.",
+      "bible": [
+        "Łk 23,31"
+      ],
+      "text": [
+        "Jeśli się czyni to z drzewem zielonym,",
+        "z suchym co się stanie,",
+        "z suchym co się stanie? Aj!",
+        ""
+      ]
+    },
+    {
+      "range": "8-10",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "córka",
+        "Jerozolima",
+        "płacz",
+        "Chrystus"
+      ],
+      "summary": "Powtórzenie refrenu o córkach jerozolimskich.",
+      "bible": [
+        "Łk 23,28"
+      ],
+      "text": [
+        "Córki jerozolimskie,",
+        "nie płaczcie, nie płaczcie nade mną.",
+        ""
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Ojciec",
+        "przebaczenie",
+        "grzech",
+        "miłosierdzie",
+        "Chrystus",
+        "krzyż"
+      ],
+      "summary": "Pierwsze słowo Chrystusa na krzyżu: prośba do Ojca o przebaczenie oprawcom.",
+      "bible": [
+        "Łk 23,34"
+      ],
+      "text": [
+        "Ojcze, przebacz im,",
+        "bo nie wiedzą, co czynią;",
+        "przebacz im, przebacz im! Aj!",
+        ""
+      ]
+    },
+    {
+      "range": "15-17",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "córka",
+        "Jerozolima",
+        "płacz",
+        "Chrystus"
+      ],
+      "summary": "Powtórzenie refrenu o córkach jerozolimskich.",
+      "bible": [
+        "Łk 23,28"
+      ],
+      "text": [
+        "Córki jerozolimskie,",
+        "nie płaczcie, nie płaczcie nade mną.",
+        ""
+      ]
+    },
+    {
+      "range": "18-20",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "zapewnienie",
+        "raj",
+        "obietnica",
+        "zbawienie",
+        "Dobry Łotr",
+        "Chrystus"
+      ],
+      "summary": "Słowo Chrystusa do dobrego łotra: obietnica raju.",
+      "bible": [
+        "Łk 23,43"
+      ],
+      "text": [
+        "Ja cię zapewniam:",
+        "dziś będziesz ze mną w raju!",
+        ""
+      ]
+    },
+    {
+      "range": "21-23",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "córka",
+        "Jerozolima",
+        "płacz",
+        "Chrystus"
+      ],
+      "summary": "Powtórzenie refrenu o córkach jerozolimskich.",
+      "bible": [
+        "Łk 23,28"
+      ],
+      "text": [
+        "Córki jerozolimskie,",
+        "nie płaczcie, nie płaczcie nade mną.",
+        ""
+      ]
+    },
+    {
+      "range": "24-27",
+      "type": "fragment",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Ojciec",
+        "ręce",
+        "powierzenie",
+        "duch",
+        "śmierć",
+        "zawierzenie",
+        "Chrystus"
+      ],
+      "summary": "Siódme słowo Chrystusa na krzyżu: oddanie ducha w ręce Ojca.",
+      "bible": [
+        "Łk 23,46"
+      ],
+      "text": [
+        "Ojcze, Ojcze,",
+        "w Twoje ręce powierzam ducha mego.",
+        "Aj, aj, aj!",
+        ""
+      ]
+    },
+    {
+      "range": "28-29",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "córka",
+        "Jerozolima",
+        "płacz",
+        "Chrystus"
+      ],
+      "summary": "Końcowe powtórzenie refrenu o córkach jerozolimskich.",
+      "bible": [
+        "Łk 23,28"
+      ],
+      "text": [
+        "Córki jerozolimskie,",
+        "nie płaczcie, nie płaczcie nade mną."
+      ]
+    },
+    {
+      "range": "1-29",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "córka jerozolimska",
+        "męka",
+        "krzyż",
+        "siedem słów",
+        "przebaczenie",
+        "raj",
+        "zawierzenie",
+        "sąd",
+        "miłosierdzie",
+        "odkupienie",
+        "Chrystus",
+        "pasja"
+      ],
+      "summary": "Pieśń oparta na siedmiu słowach Chrystusa na krzyżu według Ewangelii Łukasza, przeplatana refrenem o córkach jerozolimskich; medytacja nad męką Pańską.",
+      "bible": [
+        "Łk 23,28-49"
+      ]
+    }
+  ]
+}

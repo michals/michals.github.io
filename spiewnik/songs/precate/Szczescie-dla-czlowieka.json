@@ -1,0 +1,161 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:8a820d08b6fc0ca22d8361a03d839e5f48faa6a2ccefbd50b0fc8ad814b1ca80",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "szczęście",
+        "człowiek",
+        "bojaźń Boża",
+        "Pan",
+        "drogi Pana"
+      ],
+      "summary": "Wprowadzenie refrenu psalmowego: błogosławiony człowiek, który boi się Pana i chodzi Jego drogami.",
+      "bible": [
+        "Ps 128, 1"
+      ],
+      "text": [
+        "Szczęście dla człowieka,",
+        "co boi się Pana;",
+        "szczęście dla człowieka,",
+        "który chodzi Jego drogami."
+      ]
+    },
+    {
+      "range": "5-9",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "praca rąk",
+        "szczęście",
+        "małżonka",
+        "płodny szczep winny",
+        "synowie",
+        "pędy oliwek",
+        "dom",
+        "stół",
+        "rodzina",
+        "plenność",
+        "błogosławieństwo"
+      ],
+      "summary": "Błogosławieństwo Boże objawia się w owocnej pracy, wiernej małżonce jak płodny winny szczep i dzieciach jak pędy oliwek wokół stołu.",
+      "bible": [
+        "Ps 128, 2-3"
+      ],
+      "text": [
+        "",
+        "Żył będzie z pracy rąk swoich,",
+        "szczęście posiądzie i dobrze mu będzie.",
+        "Małżonka jego jak płodny szczep winnypośrodku jego domu,",
+        "jego synowie jak pędy oliwek       dookoła jego stołu."
+      ]
+    },
+    {
+      "range": "10-13",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "szczęście",
+        "człowiek",
+        "bojaźń Boża",
+        "Pan",
+        "drogi Pana"
+      ],
+      "summary": "Refren: błogosławiony człowiek, który boi się Pana i chodzi Jego drogami.",
+      "bible": [
+        "Ps 128, 1"
+      ],
+      "text": [
+        "Szczęście dla człowieka,",
+        "co boi się Pana;",
+        "szczęście dla człowieka,",
+        "który chodzi Jego drogami."
+      ]
+    },
+    {
+      "range": "14-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "mąż",
+        "bojaźń Boża",
+        "Pan",
+        "Syjon",
+        "Jerozolima",
+        "pomyślność",
+        "dzieci",
+        "synowie",
+        "błogosławieństwo mesjańskie"
+      ],
+      "summary": "Błogosławieństwo z Syjonu: oglądanie pomyślności Jeruzalem i dzieci własnych synów jako znak Bożej łaski.",
+      "bible": [
+        "Ps 128, 4-6"
+      ],
+      "text": [
+        "",
+        "Tak będzie błogosławiony mąż, co boi się Pana:",
+        "niechaj cię Pan błogosławi z Syjonu!",
+        "Abyś zobaczył pomyślność Jeruzalem!",
+        "Abyś zobaczył dzieci twoich synów!"
+      ]
+    },
+    {
+      "range": "19-22",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "szczęście",
+        "człowiek",
+        "bojaźń Boża",
+        "Pan",
+        "drogi Pana"
+      ],
+      "summary": "Refren końcowy: błogosławiony człowiek, który boi się Pana i chodzi Jego drogami.",
+      "bible": [
+        "Ps 128, 1"
+      ],
+      "text": [
+        "Szczęście dla człowieka,",
+        "co boi się Pana;",
+        "szczęście dla człowieka,",
+        "który chodzi Jego drogami."
+      ]
+    },
+    {
+      "range": "1-22",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "szczęście",
+        "bojaźń Boża",
+        "Pan",
+        "drogi Pana",
+        "praca",
+        "błogosławieństwo",
+        "małżonka",
+        "rodzina",
+        "synowie",
+        "winny szczep",
+        "oliwki",
+        "dom",
+        "Syjon",
+        "Jerozolima",
+        "pomyślność",
+        "dzieci",
+        "mąż",
+        "plenność",
+        "dom",
+        "stół",
+        "łaska"
+      ],
+      "summary": "Psalm 128 jako pieśń responsoryjna o błogosławieństwie dla człowieka bojącego się Pana. Obietnica pomyślności, płodności rodziny i błogosławieństwa z Syjonu dla wiernych Bogu. Typologiczne zapowiedź mesjańskiego błogosławieństwa w Kościele jako nowym Jeruzalem.",
+      "bible": [
+        "Ps 128"
+      ]
+    }
+  ]
+}

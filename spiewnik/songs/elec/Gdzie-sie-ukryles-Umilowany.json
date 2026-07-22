@@ -1,0 +1,468 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:0f9b6d05ee8200d4627aed45367f96ea7cf1487ae89b251df9f458898f76bd77",
+  "songs_analysis": [
+    {
+      "type": "zwrotka",
+      "range": "1-5",
+      "sentiment": "błagalny",
+      "keywords": [
+        "umilowany",
+        "ukrycie",
+        "jek",
+        "zostawienie",
+        "jeleń",
+        "zranienie",
+        "placz",
+        "oddalenie"
+      ],
+      "bible": [
+        "Pnp 3,1-4",
+        "Pnp 5,6-8",
+        "Pnp 8,6"
+      ],
+      "summary": "Dusza żali się Ukrytemu Oblubieńcowi, który zranił ją miłością i oddalił, a ona biegła za Nim z płaczem.",
+      "text": [
+        "1 Gdzie się ukryłeś, Umiłowany,",
+        "i mnieś wśród jęków zostawił?",
+        "Uciekłeś jak jeleń,",
+        "gdyś mnie wpierw zranił;",
+        "Biegłam za Tobą z płaczem,a Tyś się oddalił. "
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "6-10",
+      "sentiment": "błagalny",
+      "keywords": [
+        "pasterz",
+        "ustronie",
+        "wzgorze",
+        "szczyt",
+        "umilowany",
+        "nad wszystko",
+        "schnięcie",
+        "mdlenie",
+        "umieranie"
+      ],
+      "bible": [
+        "Pnp 1,7-8",
+        "Pnp 2,5",
+        "Pnp 5,8"
+      ],
+      "summary": "Dusza prosi pasterzy na wzgorzach, by powiedzieli Oblubieńcowi o jej śmiertelnej tęsknocie.",
+      "text": [
+        "2 Pasterze, którzy podążacie",
+        "poprzez ustronia na szczyt wzgórza wyniosłego,",
+        "jeżeli kędyś napotkacie",
+        "mego nad wszystko Umiłowanego,",
+        "powiedzcie, że schnę, mdleję,    i umieram dla Niego! "
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "11-15",
+      "sentiment": "błagalny",
+      "keywords": [
+        "miłość",
+        "gora",
+        "rozloga",
+        "kwiat",
+        "zwierzę",
+        "trwoga",
+        "szyk obronny",
+        "granica",
+        "progi"
+      ],
+      "bible": [
+        "Pnp 2,8-9",
+        "Pnp 3,2",
+        "Pnp 8,6-7"
+      ],
+      "summary": "Dusza postanawia szukać miłości przez gory i rozlogi, nie bojąc się przeszkod ani niebezpieczeństw.",
+      "text": [
+        "3 Szukając mojej miłości,",
+        "pójdę przez góry i rozłogi.",
+        "Nie zerwę kwiatów,",
+        "przed dzikim zwierzem nie uczuję trwogi,",
+        "przejdę przez szyk obronny        i graniczne progi! "
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "16-20",
+      "sentiment": "błagalny",
+      "keywords": [
+        "zagaj",
+        "puszcza",
+        "oblubieniec",
+        "łąka",
+        "zieleń",
+        "kwiat",
+        "ozdoba",
+        "przejście"
+      ],
+      "bible": [
+        "Pnp 2,11-13",
+        "Pnp 5,6",
+        "Pnp 6,2"
+      ],
+      "summary": "Dusza pyta gaje i łąki zasadzone przez Oblubieńca, ktoredy przeszedł.",
+      "text": [
+        "4 Zagaje i puszcze",
+        "rękami mego Oblubieńca zasadzone,",
+        "o łąki pełne zieleni,",
+        "kwiatami ozdobione,",
+        "powiedzcie, czy przeszedł wśród was,    w którą stronę? "
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "21-25",
+      "sentiment": "radosny",
+      "keywords": [
+        "wdzięk",
+        "przebiegnięcie",
+        "bor",
+        "spojrzenie",
+        "blask",
+        "postać",
+        "szata",
+        "piękno",
+        "czar"
+      ],
+      "bible": [
+        "Pnp 2,8-9",
+        "Pnp 5,10-16"
+      ],
+      "summary": "Oblubieniec przebiegł przez las, rzucając wdzięki, a Jego spojrzenie okryło wszystko pięknem.",
+      "text": [
+        "5 Rzucając wdzięków tysiące",
+        "przebiegnął szybko wskroś boru cichego,",
+        "a jedno tylko spojrzenie",
+        "i blask Jego postaci",
+        "okrył je szatą piękna czarownego."
+      ]
+    },
+    {
+      "type": "fragment",
+      "range": "1-25",
+      "sentiment": "błagalny",
+      "keywords": [
+        "poszukiwanie",
+        "tęsknota",
+        "oblubieniec",
+        "dusza",
+        "pustynia",
+        "pasterz",
+        "gora",
+        "przyroda",
+        "blask",
+        "piękno",
+        "zranienie",
+        "placz",
+        "pragnienie",
+        "miłość"
+      ],
+      "bible": [
+        "Pnp 1,7-8",
+        "Pnp 2,5",
+        "Pnp 2,8-13",
+        "Pnp 3,1-4",
+        "Pnp 5,6-8",
+        "Pnp 5,10-16"
+      ],
+      "summary": "Dusza poszukuje ukrytego Oblubieńca w bólu i tęsknocie, pytając pasterzy i całe stworzenie o Jego ślad.",
+      "text": [
+        "1 Gdzie się ukryłeś, Umiłowany,",
+        "i mnieś wśród jęków zostawił?",
+        "Uciekłeś jak jeleń,",
+        "gdyś mnie wpierw zranił;",
+        "Biegłam za Tobą z płaczem,a Tyś się oddalił. ",
+        "2 Pasterze, którzy podążacie",
+        "poprzez ustronia na szczyt wzgórza wyniosłego,",
+        "jeżeli kędyś napotkacie",
+        "mego nad wszystko Umiłowanego,",
+        "powiedzcie, że schnę, mdleję,    i umieram dla Niego! ",
+        "3 Szukając mojej miłości,",
+        "pójdę przez góry i rozłogi.",
+        "Nie zerwę kwiatów,",
+        "przed dzikim zwierzem nie uczuję trwogi,",
+        "przejdę przez szyk obronny        i graniczne progi! ",
+        "4 Zagaje i puszcze",
+        "rękami mego Oblubieńca zasadzone,",
+        "o łąki pełne zieleni,",
+        "kwiatami ozdobione,",
+        "powiedzcie, czy przeszedł wśród was,    w którą stronę? ",
+        "5 Rzucając wdzięków tysiące",
+        "przebiegnął szybko wskroś boru cichego,",
+        "a jedno tylko spojrzenie",
+        "i blask Jego postaci",
+        "okrył je szatą piękna czarownego."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "27-30",
+      "sentiment": "błagalny",
+      "keywords": [
+        "uzdrowienie",
+        "ukazanie",
+        "prawda",
+        "cień",
+        "zwiastun",
+        "pragnienie",
+        "ach"
+      ],
+      "bible": [
+        "Pnp 3,4",
+        "Pnp 5,8",
+        "Pnp 8,6"
+      ],
+      "summary": "Dusza woła o bezpośrednie objawienie się Oblubieńca, nie chcąc już tylko pośrednikow.",
+      "text": [
+        "6 Aach! I któż uleczyć mnie może!",
+        "Ukaż się mi już prawdziwie, bez cienia!",
+        "I nie chciej więcej wysyłać                                   już do mnie tylko zwiastunów,",
+        "którzy nie zaspokoją mojego pragnienia.                 Ach! "
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "31",
+      "sentiment": "radosny",
+      "keywords": [
+        "wdzięk",
+        "przebiegnięcie",
+        "bor",
+        "piękno",
+        "czar"
+      ],
+      "bible": [
+        "Pnp 2,8-9"
+      ],
+      "summary": "Powtorzenie motywu 'Rzucając wdziękow tysiące' jako refrenicznego przypomnienia przejścia Oblubieńca.",
+      "text": [
+        "5 Rzucając wdzięków tysiące …"
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "32-36",
+      "sentiment": "pokutny",
+      "keywords": [
+        "życie",
+        "śmierć",
+        "prawda",
+        "umieranie",
+        "grot",
+        "miłość",
+        "tajemnica",
+        "ranienie"
+      ],
+      "bible": [
+        "Pnp 2,5",
+        "Pnp 5,8",
+        "Pnp 8,6-7"
+      ],
+      "summary": "Paradoks życia-śmierci od grotu miłości w tajemnicy Oblubieńca - mistyczne umieranie z miłości.",
+      "text": [
+        "8 Ach, czemu jeszcze trwasz,",
+        "życie, co nie masz życia prawdziwego?",
+        "I ciągle tylko umierasz",
+        "od uderzenia grotu miłosnego,",
+        "gdy wchodzisz w tajemnice Umiłowanego."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "37-41",
+      "sentiment": "radosny",
+      "keywords": [
+        "wino",
+        "piwnica",
+        "głebina",
+        "rozkosz",
+        "oblubieniec",
+        "uczta",
+        "kraina",
+        "utrata",
+        "mistyka",
+        "zjednoczenie"
+      ],
+      "bible": [
+        "Pnp 1,4",
+        "Pnp 2,4",
+        "Pnp 8,2"
+      ],
+      "summary": "W mistycznej piwnicy winnej dusza pije rozkosze Oblubieńca i traci wszystko, co dawniej posiadała.",
+      "text": [
+        "26W winnej piwnicy głębinie",
+        "Rozkosze mego Oblubieńca piłam,",
+        "A kiedym wyszła, w zewnętrznej krainie",
+        "O niczym nie wiedziałam,",
+        "I co dawniej miałam,          wszystko utraciłam. "
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "42-46",
+      "sentiment": "radosny",
+      "keywords": [
+        "pierś",
+        "jedyny",
+        "madrość",
+        "oddanie",
+        "własność",
+        "przyrzeczenie",
+        "miłość",
+        "nauka"
+      ],
+      "bible": [
+        "Pnp 1,2",
+        "Pnp 8,5-7"
+      ],
+      "summary": "Oblubieniec naucza duszę słodkiej mądrości, a ona oddaje Mu wszystko i przyrzeka należeć do Niego w miłości.",
+      "text": [
+        "27I tam mi piersi dał Jedyny,",
+        "Tam mnie najsłodszej nauczył mądrości,",
+        "Tam Mu oddałam siebie i swe czyny,",
+        "Nie zostawiwszy żadnej własności,",
+        "I tam przyrzekłam            być Jego w miłości. "
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "47-51",
+      "sentiment": "radosny",
+      "keywords": [
+        "dusza",
+        "zajęcie",
+        "służba",
+        "stado",
+        "staranie",
+        "słodycz",
+        "kochanie",
+        "całość",
+        "oddanie"
+      ],
+      "bible": [
+        "Pnp 2,16",
+        "Pnp 6,3",
+        "Pnp 7,10",
+        "Pnp 8,5"
+      ],
+      "summary": "Dusza całkowicie pochłonięta Bogiem, porzuciwszy wszystkie inne starania, żyje jedynie słodyczą kochania.",
+      "text": [
+        "28Dusza ma Tobą zajęta jedynie,",
+        "Całe moje jestestwo Twa służba pochłania!",
+        "Nie strzegę już stada",
+        "I nie mam innego starania,",
+        "Zajęciem moim jest słodycz kochania."
+      ]
+    },
+    {
+      "type": "fragment",
+      "range": "27-51",
+      "sentiment": "radosny",
+      "keywords": [
+        "tęsknota",
+        "zjednoczenie",
+        "mistyka",
+        "wino",
+        "madrość",
+        "oddanie",
+        "słodycz",
+        "oblubieniec",
+        "dusza",
+        "uzdrowienie",
+        "piwnica",
+        "pierś",
+        "kochanie",
+        "noc ciemna"
+      ],
+      "bible": [
+        "Pnp 1,2-4",
+        "Pnp 2,4-5",
+        "Pnp 5,8",
+        "Pnp 8,2",
+        "Pnp 8,5-7",
+        "Typologia: dusza = Oblubienica = Kościół; Chrystus = Oblubieniec; noc ciemna = oczyszczenie duchowe (św. Jan od Krzyża)"
+      ],
+      "summary": "Od tęsknego wołania o uzdrowienie dusza przechodzi przez powtorzenie motywu łask do mistycznego zjednoczenia, w ktorym otrzymuje mądrość i oddaje się całkowicie Oblubieńcowi.",
+      "text": [
+        "6 Aach! I któż uleczyć mnie może!",
+        "Ukaż się mi już prawdziwie, bez cienia!",
+        "I nie chciej więcej wysyłać                                   już do mnie tylko zwiastunów,",
+        "którzy nie zaspokoją mojego pragnienia.                 Ach! ",
+        "5 Rzucając wdzięków tysiące …",
+        "8 Ach, czemu jeszcze trwasz,",
+        "życie, co nie masz życia prawdziwego?",
+        "I ciągle tylko umierasz",
+        "od uderzenia grotu miłosnego,",
+        "gdy wchodzisz w tajemnice Umiłowanego.",
+        "26W winnej piwnicy głębinie",
+        "Rozkosze mego Oblubieńca piłam,",
+        "A kiedym wyszła, w zewnętrznej krainie",
+        "O niczym nie wiedziałam,",
+        "I co dawniej miałam,          wszystko utraciłam. ",
+        "27I tam mi piersi dał Jedyny,",
+        "Tam mnie najsłodszej nauczył mądrości,",
+        "Tam Mu oddałam siebie i swe czyny,",
+        "Nie zostawiwszy żadnej własności,",
+        "I tam przyrzekłam            być Jego w miłości. ",
+        "28Dusza ma Tobą zajęta jedynie,",
+        "Całe moje jestestwo Twa służba pochłania!",
+        "Nie strzegę już stada",
+        "I nie mam innego starania,",
+        "Zajęciem moim jest słodycz kochania."
+      ]
+    },
+    {
+      "type": "całość",
+      "range": "1-51",
+      "sentiment": "błagalny",
+      "keywords": [
+        "umilowany",
+        "oblubieniec",
+        "dusza",
+        "tęsknota",
+        "poszukiwanie",
+        "miłość",
+        "mistyka",
+        "zjednoczenie",
+        "noc ciemna",
+        "pustynia",
+        "oddanie",
+        "madrość",
+        "słodycz",
+        "wino",
+        "pragnienie",
+        "pasterz",
+        "gora",
+        "piękno",
+        "uzdrowienie",
+        "tajemnica",
+        "przyroda",
+        "krzyż",
+        "święty jan od krzyża",
+        "pieśń duchowa"
+      ],
+      "bible": [
+        "Pnp 1,2-4",
+        "Pnp 1,7-8",
+        "Pnp 2,4-5",
+        "Pnp 2,8-13",
+        "Pnp 3,1-4",
+        "Pnp 5,6-8",
+        "Pnp 5,10-16",
+        "Pnp 6,2-3",
+        "Pnp 7,10",
+        "Pnp 8,2",
+        "Pnp 8,5-7",
+        "Typologia: Oblubieniec - Chrystus, Oblubienica - dusza/Kościół, noc ciemna - oczyszczenie duchowe (św. Jan od Krzyża, Doktor Kościoła)"
+      ],
+      "summary": "Polski przekład 'Pieśni Duchowej' św. Jana od Krzyża przedstawiający drogę duszy od bolesnego poszukiwania Chrystusa-Oblubieńca przez oczyszczenie aż do mistycznego zjednoczenia. Alegoria zaślubin duszy z Bogiem oparta na obrazowaniu Pieśni nad Pieśniami."
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:bbf64ab56a14f4ffa254bd2eb3c43f8e09c61deae0a712dc5d8a8d379e347079",
+  "songs_analysis": [
+    {
+      "range": "1",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "1",
+      "bible": [],
+      "text": [
+        "Pan podarował mi"
+      ]
+    },
+    {
+      "range": "1-9",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "podarować",
+        "język",
+        "uczeń",
+        "strudzony",
+        "słowo",
+        "pokrzepienie",
+        "poranek",
+        "ucho",
+        "słuchać"
+      ],
+      "summary": "Sługa dziękuje za dar języka ucznia i poranne budzenie ucha, by niósł strudzonym słowo pokrzepienia — powołanie prorockie i mistyczna szkoła słuchania Boga.",
+      "bible": [
+        "Iz 50, 4",
+        "Iz 50, 5",
+        "Wj 4, 11-12",
+        "Jr 1, 9",
+        "Łk 4, 18-19"
+      ],
+      "text": [
+        "Pan podarował mi",
+        "język ucznia,",
+        "abym mógł nieść strudzonemu",
+        "jakieś słowo pokrzepienia.",
+        "Poranek po poranku",
+        "budzisz moje ucho,",
+        "abym umiał słuchać,",
+        "jak uczeń.",
+        ""
+      ]
+    },
+    {
+      "range": "10-14",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "Jahwe",
+        "otworzyć",
+        "ucho",
+        "słuchać",
+        "posłuszeństwo",
+        "objawienie"
+      ],
+      "summary": "Potrójne wezwanie imienia Jahwe i wyznanie, że to Bóg otworzył ucho Sługi — uznanie Bożej inicjatywy w powołaniu.",
+      "bible": [
+        "Iz 50, 5",
+        "Iz 35, 5",
+        "Mk 7, 35"
+      ],
+      "text": [
+        "Pan Jahwe,",
+        "Pan Jahwe,",
+        "Pan Jahwe",
+        "otworzył mi ucho.",
+        ""
+      ]
+    },
+    {
+      "range": "15-23",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "opierać",
+        "grzbiet",
+        "bić",
+        "policzek",
+        "rwać",
+        "broda",
+        "zniewaga",
+        "oplucie",
+        "cierpienie",
+        "pokora",
+        "posłuszeństwo"
+      ],
+      "summary": "Sługa dobrowolnie poddaje się cierpieniu — nadstawia grzbiet bijącym i policzki rwącym brodę. Nie opiera się złu, wypełniając postawę Sługi cierpiącego; typologiczne prefiguracja Męki Pańskiej.",
+      "bible": [
+        "Iz 50, 6",
+        "Iz 53, 7",
+        "Mt 26, 67",
+        "Mt 27, 30",
+        "Mk 14, 65",
+        "Łk 22, 63-65",
+        "J 19, 1-3",
+        "1 P 2, 23"
+      ],
+      "text": [
+        "Dlatego Ja,",
+        "Ja się nie oparłem, Ja się nie oparłem.",
+        "Podałem mój grzbiet tym,          którzy mnie bili.",
+        "A Ja,",
+        "Ja się nie oparłem, Ja się nie oparłem.",
+        "Podałem moje policzki tym,      którzy rwali mi brodę.",
+        "A Ja,",
+        "Ja się nie oparłem, Ja się nie oparłem.",
+        ""
+      ]
+    },
+    {
+      "range": "24-30",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "twarz",
+        "zniewaga",
+        "oplucie",
+        "oblicze",
+        "twardy",
+        "skała",
+        "pomoc",
+        "podtrzymywać",
+        "ufność",
+        "niezłomność"
+      ],
+      "summary": "Sługa nie zasłania twarzy przed zniewagami, czyniąc oblicze twardym jak skała — niezłomna ufność w Bożą pomoc, która podtrzymuje go w cierpieniu.",
+      "bible": [
+        "Iz 50, 6-7",
+        "Iz 50, 8",
+        "Ez 3, 8-9",
+        "Łk 9, 51",
+        "Hbr 12, 2"
+      ],
+      "text": [
+        "Nie zasłoniłem mej twarzyprzed zniewagami i opluciem.",
+        "Albowiem już wiedziałem,",
+        "że przyjdziesz mi z pomocą,",
+        "dlatego uczyniłem",
+        "moje oblicze twarde jak skała:",
+        "bo byłem pewny,",
+        "że Ty mnie będziesz podtrzymywał."
+      ]
+    },
+    {
+      "range": "31-39",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "blisko",
+        "zbawiać",
+        "wspomagać",
+        "pomoc",
+        "spór",
+        "potępić",
+        "usprawiedliwienie",
+        "ufność",
+        "Bóg"
+      ],
+      "summary": "Seria pytań retorycznych: jeśli Bóg jest blisko i zbawia, któż może wieść spór lub potępić? — echo Iz 50, 8-9 wyrażające niezachwianą pewność Bożego usprawiedliwienia.",
+      "bible": [
+        "Iz 50, 8-9",
+        "Rz 8, 31-34",
+        "Iz 54, 17",
+        "Ps 118, 6"
+      ],
+      "text": [
+        "Jeśli jesteś,",
+        "jeśli jesteś blisko,",
+        "jeśli zbawiasz,",
+        "kto wieść ze mną będzie spór?",
+        "Jeśli wspomagasz,",
+        "jeśli mi pomagasz,",
+        "jeśli zbawiasz,",
+        "kto potępi mnie?",
+        "Wy wszyscy, którzy boicie się Boga,"
+      ]
+    },
+    {
+      "range": "40-44",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "bać się",
+        "Bóg",
+        "słuchać",
+        "sługa",
+        "ciemność",
+        "ufność",
+        "oparcie",
+        "imię",
+        "nadzieja"
+      ],
+      "summary": "Końcowe wezwanie do wszystkich bojących się Boga: słuchać głosu Jego Sługi, a kroczący w ciemnościach niech pokładają ufność w imieniu Pana.",
+      "bible": [
+        "Iz 50, 10",
+        "Ps 23, 4",
+        "Iz 9, 1",
+        "J 12, 46",
+        "Ef 5, 8"
+      ],
+      "text": [
+        "słuchajcie głosu jego sługi:",
+        "jeśli ktoś jest w ciemnościach,",
+        "niech pokłada ufność w Nim,",
+        "niech ma oparcie w Jego imieniu.",
+        "Jeśli jesteś …"
+      ]
+    },
+    {
+      "range": "1-44",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Sługa",
+        "Jahwe",
+        "cierpienie",
+        "posłuszeństwo",
+        "ufność",
+        "pomoc",
+        "usprawiedliwienie",
+        "uczeń",
+        "słuchać",
+        "twarz",
+        "spór",
+        "ciemność",
+        "imię",
+        "nadzieja",
+        "skrucha",
+        "odkupienie"
+      ],
+      "summary": "Trzecia Pieśń Sługi Jahwe (Iz 50, 4-10): Sługa otrzymuje dar języka ucznia i ucho otwarte przez Boga. Mimo dobrowolnie przyjętego cierpienia — bicia, rwania brody, zniewag i oplucia — nie opiera się, lecz ufa Bogu, który go usprawiedliwi. Pieśń osiąga punkt kulminacyjny w retorycznym pytaniu o Bożą pomoc i zakończeniu wzywającym do ufności nawet w ciemnościach. Typologicznie: Ten fragment wypełnia się w Męce Chrystusa — biczowanie, koronowanie cierniem, opluwanie (Mt 26–27). 'Jeśli Bóg za nami, któż przeciwko nam?' (Rz 8, 31) jest nowotestamentalnym echem Iz 50, 8-9. 'Oblicze twarde jak skała' prefiguruje niezłomną determinację Jezusa idącego do Jerozolimy (Łk 9, 51).",
+      "bible": [
+        "Iz 50, 4-10",
+        "Rz 8, 31-34",
+        "Mt 26, 67",
+        "Mt 27, 30",
+        "Mk 14, 65",
+        "Łk 22, 63-65",
+        "J 19, 1-3",
+        "1 P 2, 23",
+        "Łk 9, 51",
+        "Hbr 12, 2",
+        "Iz 53, 7",
+        "Rz 3, 22-24"
+      ]
+    }
+  ]
+}

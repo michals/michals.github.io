@@ -1,0 +1,210 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:4b5dc3aaba59b2b232afc493171f31910b5edbfb948ab1fc4c57e2d64c9f5b9d",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "odłączenie",
+        "miłość",
+        "Bóg",
+        "Chrystus Jezus",
+        "pewność",
+        "jedność",
+        "nienaruszalność"
+      ],
+      "summary": "Retoryczne pytanie – kto nas odłączy od miłości Boga? Wyraz absolutnej pewności zbawienia i nienaruszalnej więzi z Bogiem w Chrystusie.",
+      "bible": [
+        "Rz 8, 33-35"
+      ],
+      "text": [
+        "Kto nas odłączy,",
+        "kto nas odłączy",
+        "od miłości Boga?",
+        ""
+      ]
+    },
+    {
+      "range": "5-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "śmierć",
+        "zmartwychwstanie",
+        "prawica Boga",
+        "wstawiennictwo",
+        "odłączenie",
+        "miłość",
+        "Odkupiciel"
+      ],
+      "summary": "Chrystus, który umarł, zmartwychwstał i wstawia się za nami po prawicy Boga – to nie On nas odłącza, lecz jest gwarantem Bożej miłości. Paschalny fundament pewności zbawienia.",
+      "bible": [
+        "Rz 8, 34",
+        "Hbr 7, 25",
+        "Ps 110, 1"
+      ],
+      "text": [
+        "Może Jezus Chrystus,",
+        "Ten, który umarł,",
+        "Ten, który zmartwychwstał,",
+        "Ten, który po prawicy Boga",
+        "za nami się wstawia?",
+        ""
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "odłączenie",
+        "miłość",
+        "Bóg",
+        "pewność",
+        "jedność"
+      ],
+      "summary": "Powtórzenie refrenu – ponowne postawienie pytania o to, kto lub co może nas odłączyć od Bożej miłości.",
+      "bible": [
+        "Rz 8, 35"
+      ],
+      "text": [
+        "Kto nas odłączy,",
+        "kto nas odłączy",
+        "od miłości Boga?",
+        ""
+      ]
+    },
+    {
+      "range": "15-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "utrapienie",
+        "ucisk",
+        "prześladowanie",
+        "głód",
+        "nagość",
+        "zwycięstwo",
+        "miłość Boga",
+        "wytrwanie"
+      ],
+      "summary": "Wyliczenie rzeczy, które mogłyby oddzielić od Boga – utrapienie, ucisk, prześladowanie, głód. Odpowiedź: we wszystkim zwyciężamy dzięki miłości Boga.",
+      "bible": [
+        "Rz 8, 35-37",
+        "2 Kor 4, 8-9"
+      ],
+      "text": [
+        "Utrapienie,",
+        "ucisk czy prześladowanie,",
+        "głód, czy nagość?",
+        "Jeśli we wszystkim tym zwyciężamy,",
+        "to dzięki temu, że On nas kocha.",
+        ""
+      ]
+    },
+    {
+      "range": "21-24",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "odłączenie",
+        "miłość",
+        "Bóg",
+        "pewność",
+        "jedność"
+      ],
+      "summary": "Kolejne powtórzenie refrenu, wzmacniające przesłanie nierozerwalności Bożej miłości.",
+      "bible": [
+        "Rz 8, 35"
+      ],
+      "text": [
+        "Kto nas odłączy,",
+        "kto nas odłączy",
+        "od miłości Boga?",
+        ""
+      ]
+    },
+    {
+      "range": "25-35",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pewność",
+        "śmierć",
+        "życie",
+        "teraźniejszość",
+        "przyszłość",
+        "wysokość",
+        "głębokość",
+        "stworzenie",
+        "odłączenie",
+        "Bóg",
+        "Chrystus Jezus",
+        "miłość",
+        "zwycięstwo"
+      ],
+      "summary": "Uroczysta deklaracja pewności zbawienia: ani śmierć, ani życie, ani moce duchowe, ani żadne stworzenie nie zdoła nas odłączyć od miłości Boga objawionej w Chrystusie Jezusie. To kulminacja całego hymnu – tryumf łaski.",
+      "bible": [
+        "Rz 8, 38-39"
+      ],
+      "text": [
+        "I jesteśmy pewni,",
+        "że ani śmierć, ani życie,",
+        "ani teraźniejszość, ani przyszłość,",
+        "ani co wysokie, ani co głębokie,",
+        "ani żadne inne stworzenie",
+        "nie zdoła nas odłączyć od Boga.",
+        "Nie zdoła nas odłączyć,",
+        "nie zdoła nas odłączyć",
+        "od miłości Boga",
+        "objawionej w Chrystusie Jezusie.",
+        ""
+      ]
+    },
+    {
+      "range": "36-38",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "odłączenie",
+        "miłość",
+        "Bóg",
+        "pewność",
+        "jedność"
+      ],
+      "summary": "Końcowe powtórzenie refrenu – ostateczna afirmacja, że nic nie może nas odłączyć od Bożej miłości.",
+      "bible": [
+        "Rz 8, 33-39"
+      ],
+      "text": [
+        "Kto nas odłączy,",
+        "kto nas odłączy",
+        "od miłości Boga?"
+      ]
+    },
+    {
+      "range": "1-38",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość Boga",
+        "Chrystus Jezus",
+        "odłączenie",
+        "pewność zbawienia",
+        "zwycięstwo",
+        "łaska",
+        "pascha",
+        "zmartwychwstanie",
+        "wstawiennictwo",
+        "nienaruszalność"
+      ],
+      "summary": "Pieśń będąca wierną parafrazą Rz 8, 33-39 – hymnem o nierozerwalnej miłości Boga w Chrystusie Jezusie. Mimo kontekstu wielkopostnego dominuje radosna pewność zbawienia i przekonanie, że żadna moc ani przeciwność nie zdoła nas odłączyć od miłości Boga objawionej w Jezusie Chrystusie.",
+      "bible": [
+        "Rz 8, 33-39"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:d71e843b871583836aecf128366ef7f3b1f8e6a6f2a45483363379449489a1b9",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "radośnie",
+        "żyć",
+        "Pan",
+        "blisko",
+        "przyjść",
+        "zbawić",
+        "wczas",
+        "oczekiwanie"
+      ],
+      "summary": "Wezwanie do radosnego życia, bo Pan jest blisko i przyjdzie zbawić.",
+      "bible": [
+        "Flp 4, 4-5",
+        "Mt 1, 21"
+      ],
+      "text": [
+        "Radośni żyjcie,",
+        "bo nasz Pan jest już blisko.",
+        "Radośni żyjcie,",
+        "bo nasz Pan jest już blisko.",
+        "Radośni żyjcie,",
+        "bo nasz Pan przyjdzie wczas,",
+        "i On zbawi nas,",
+        "i On zbawi nas,",
+        "i On zbawi nas."
+      ]
+    },
+    {
+      "range": "10-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dzielny",
+        "bać się",
+        "Pan",
+        "przyjść",
+        "zbawić",
+        "odwaga",
+        "ufność"
+      ],
+      "summary": "Wezwanie do męstwa i przezwyciężenia lęku, bo Pan przyjdzie i zbawi.",
+      "bible": [
+        "Flp 4, 4-5",
+        "Iz 41, 10",
+        "Joz 1, 9"
+      ],
+      "text": [
+        "Dzielnym bądź,",
+        "nie bój się,",
+        "bo nasz Pan przyjdzie wczas,",
+        "i On zbawi nas,",
+        "i On zbawi nas,",
+        "i On zbawi nas."
+      ]
+    },
+    {
+      "range": "16-16",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "radośnie",
+        "żyć",
+        "Pan"
+      ],
+      "summary": "Skrócone powtórzenie wezwania do radości z oczekiwania na Pana.",
+      "bible": [
+        "Flp 4, 4"
+      ],
+      "text": [
+        "Radośni żyjcie, …"
+      ]
+    },
+    {
+      "range": "1-16",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "życie",
+        "Pan",
+        "bliskość",
+        "przyjście",
+        "zbawienie",
+        "odwaga",
+        "lęk",
+        "męstwo",
+        "ufność",
+        "oczekiwanie",
+        "adwent",
+        "paruzja"
+      ],
+      "summary": "Adwentowa pieśń na podstawie Flp 4, 4-5, wzywająca do radości i męstwa w oczekiwaniu na przyjście Pana, który zbawi.",
+      "bible": [
+        "Flp 4, 4-5",
+        "Iz 41, 10",
+        "Joz 1, 9",
+        "Mt 1, 21",
+        "Mt 14, 27"
+      ]
+    }
+  ]
+}

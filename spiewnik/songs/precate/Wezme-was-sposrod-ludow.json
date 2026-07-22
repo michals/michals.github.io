@@ -1,0 +1,183 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:ff6667f28478040a0929a32dc20ad123e8dac9a014559eed93acd4a0197a59c1",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wzięcie",
+        "lud",
+        "zgromadzenie",
+        "kraj",
+        "pokropienie",
+        "woda",
+        "oczyszczenie",
+        "naród",
+        "Bóg",
+        "chrzest"
+      ],
+      "summary": "Bóg gromadzi swój lud z rozproszenia pośród narodów i oczyszcza go wodą, co typologicznie zapowiada sakrament chrztu i nowe przymierze w Chrystusie.",
+      "bible": [
+        "Ez 36:24-25",
+        "Pwt 30:3-5",
+        "J 3:5",
+        "Tt 3:5",
+        "Hbr 10:22"
+      ],
+      "text": [
+        "Wezmę was spośród ludów,",
+        "zgromadzę was ze wszystkich krajów",
+        "i was pokropię czystą wodą.",
+        "Ja oczyszczę was.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "serce",
+        "nowy",
+        "Duch Święty",
+        "tchnienie",
+        "wnętrze",
+        "kamień",
+        "ciało",
+        "przemiana",
+        "dar",
+        "Bóg"
+      ],
+      "summary": "Bóg obiecuje zastąpić serce kamienne nowym sercem z ciała i tchnąć Ducha Świętego do wnętrza człowieka, co stanowi zapowiedź nowego stworzenia w Chrystusie i odrodzenia przez Ducha.",
+      "bible": [
+        "Ez 36:26-27",
+        "Ez 11:19-20",
+        "Jer 31:33",
+        "2 Kor 3:3",
+        "Rz 8:9-11",
+        "Ga 4:6"
+      ],
+      "text": [
+        "I dam wam serce nowe,",
+        "tchnę w wasze wnętrze nowego Ducha,",
+        "i odbiorę wam serce kamienne,",
+        "a dam wam serce z ciała.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wzięcie",
+        "lud",
+        "zgromadzenie",
+        "kraj",
+        "pokropienie",
+        "woda",
+        "oczyszczenie",
+        "Bóg"
+      ],
+      "summary": "Powtórzenie refrenu o zgromadzeniu i oczyszczeniu ludu przez Boga jako obietnicy odnowy przymierza.",
+      "bible": [
+        "Ez 36:24-25"
+      ],
+      "text": [
+        "Wezmę was spośród ludów,",
+        "zgromadzę was ze wszystkich krajów",
+        "i was pokropię czystą wodą.",
+        "Ja oczyszczę was.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch Święty",
+        "mieszkanie",
+        "wnętrze",
+        "życie",
+        "Słowo Boże",
+        "lud",
+        "Bóg",
+        "przymierze",
+        "sprawiedliwość",
+        "posłuszeństwo"
+      ],
+      "summary": "Bóg umieszcza Ducha we wnętrzu człowieka, aby żył według Jego Słowa, i odnawia przymierze: będziecie moim ludem, a Ja będę waszym Bogiem, co wypełnia się w Kościele.",
+      "bible": [
+        "Ez 36:27-28",
+        "Ez 37:14",
+        "Kpł 26:12",
+        "2 Kor 6:16",
+        "Ap 21:3",
+        "J 14:23"
+      ],
+      "text": [
+        "Umieszczę mojego Ducha",
+        "w waszym wnętrzu,",
+        "i sprawię byście żyli według mojego Słowa,",
+        "i będziecie moim ludem, a Ja będę waszym Bogiem.",
+        ""
+      ]
+    },
+    {
+      "range": "21-24",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wzięcie",
+        "lud",
+        "zgromadzenie",
+        "kraj",
+        "pokropienie",
+        "woda",
+        "oczyszczenie",
+        "Bóg"
+      ],
+      "summary": "Końcowe powtórzenie refrenu jako tryumfalnej afirmacji Bożej obietnicy zgromadzenia i oczyszczenia swojego ludu.",
+      "bible": [
+        "Ez 36:24-25"
+      ],
+      "text": [
+        "Wezmę was spośród ludów,",
+        "zgromadzę was ze wszystkich krajów",
+        "i was pokropię czystą wodą.",
+        "Ja oczyszczę was."
+      ]
+    },
+    {
+      "range": "1-24",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "przymierze",
+        "oczyszczenie",
+        "Duch Święty",
+        "nowe serce",
+        "zgromadzenie",
+        "chrzest",
+        "odrodzenie",
+        "naród wybrany",
+        "Bóg",
+        "lud Boży",
+        "odkupienie",
+        "nawrócenie"
+      ],
+      "summary": "Pieśń oparta na Ez 36,24-28 zapowiada nowe przymierze mesjańskie: Bóg gromadzi lud z diaspory, oczyszcza w symbolicznym obmyciu wodą (typ chrztu), daje nowe serce i Ducha Świętego, aby lud mógł żyć według Jego przykazań, co wypełnia się w Kościele poprzez sakramenty inicjacji chrześcijańskiej.",
+      "bible": [
+        "Ez 36:24-28",
+        "J 3:5",
+        "Dz 2:17-18",
+        "Rz 8:9-11",
+        "2 Kor 3:3",
+        "Ap 21:3"
+      ]
+    }
+  ]
+}

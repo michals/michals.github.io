@@ -1,0 +1,288 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:4e3c5ae4b9f858a4e096db9139a7502c6a717d1502481707acb07a7ef2ea8b88",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "oko",
+        "wznoszenie",
+        "góra",
+        "ratunek",
+        "Pan",
+        "stworzenie",
+        "niebo",
+        "ziemia",
+        "ufność"
+      ],
+      "summary": "Wzniesienie oczu ku górom jako symbol poszukiwania pomocy i wyznanie, że ratunek przychodzi od Pana, Stwórcy nieba i ziemi.",
+      "bible": [
+        "Ps 121:1-2",
+        "Ps 123:1",
+        "Ps 124:8",
+        "Jr 3:23"
+      ],
+      "text": [
+        "Wznoszę me oczy ku górom:",
+        "skądże nadejdzie ratunek?",
+        "Ratunek przychodzi od Pana,",
+        "co stworzył niebo i ziemię.",
+        ""
+      ]
+    },
+    {
+      "range": "6-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "nogą",
+        "potknięcie",
+        "stróż",
+        "czuwanie",
+        "Bóg",
+        "ochrona"
+      ],
+      "summary": "Zapewnienie, że Bóg nie pozwoli potknąć się nodze, bo stróż Izraela nie drzemie – obraz Bożej opieki nad wierzącym.",
+      "bible": [
+        "Ps 121:3",
+        "Ps 91:11-12",
+        "Prz 3:23-24",
+        "1 Sm 2:9"
+      ],
+      "text": [
+        "Nie pozwoli potknąć się twej nodze,",
+        "twój stróż nie drzemie.",
+        ""
+      ]
+    },
+    {
+      "range": "9-11",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "drzemanie",
+        "odpoczynek",
+        "stróż",
+        "Izrael",
+        "czujność",
+        "Bóg"
+      ],
+      "summary": "Podkreślenie nieustannej czujności Boga jako Stróża Izraela, który nigdy nie drzemie ani nie odpoczywa.",
+      "bible": [
+        "Ps 121:4",
+        "Iz 40:28",
+        "Ps 127:1"
+      ],
+      "text": [
+        "Nie drzemie i nie odpoczywa",
+        "stróż Izraela.",
+        ""
+      ]
+    },
+    {
+      "range": "12-16",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "oko",
+        "góra",
+        "ratunek",
+        "Pan",
+        "stworzenie",
+        "niebo",
+        "ziemia"
+      ],
+      "summary": "Powtórzenie refrenu o wzniesieniu oczu ku górom i ufności w ratunek od Pana Stwórcy.",
+      "bible": [
+        "Ps 121:1-2"
+      ],
+      "text": [
+        "Wznoszę me oczy ku górom:",
+        "skądże nadejdzie ratunek?",
+        "Ratunek przychodzi od Pana,",
+        "co stworzył niebo i ziemię.",
+        ""
+      ]
+    },
+    {
+      "range": "17-21",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "stróż",
+        "cień",
+        "osłona",
+        "słońce",
+        "księżyc",
+        "ochrona",
+        "dzień",
+        "noc",
+        "Bóg"
+      ],
+      "summary": "Pan jest stróżem i cieniem osłaniającym; ochrona przed słońcem za dnia i księżycem w nocy – symbol wszechstronnej Bożej opieki.",
+      "bible": [
+        "Ps 121:5-6",
+        "Ps 91:1",
+        "Iz 25:4",
+        "Ap 7:16"
+      ],
+      "text": [
+        "Pan jest twoim stróżem,",
+        "cieniem, który cię osłania.",
+        "Za dnia nie porazi cię słońce",
+        "ani w nocy księżyc.",
+        ""
+      ]
+    },
+    {
+      "range": "22-26",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "oko",
+        "góra",
+        "ratunek",
+        "Pan",
+        "stworzenie",
+        "niebo",
+        "ziemia"
+      ],
+      "summary": "Powtórzenie refrenu o szukaniu ratunku u Pana Stwórcy.",
+      "bible": [
+        "Ps 121:1-2"
+      ],
+      "text": [
+        "Wznoszę me oczy ku górom:",
+        "skądże nadejdzie ratunek?",
+        "Ratunek przychodzi od Pana,",
+        "co stworzył niebo i ziemię.",
+        ""
+      ]
+    },
+    {
+      "range": "27-31",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "chronienie",
+        "zło",
+        "życie",
+        "czuwanie",
+        "wychodzenie",
+        "wracanie",
+        "Bóg",
+        "opieka"
+      ],
+      "summary": "Zapewnienie, że Pan chroni od każdego zła i czuwa nad życiem człowieka we wszystkich okolicznościach – wychodzeniu i powrocie.",
+      "bible": [
+        "Ps 121:7-8a",
+        "Ps 91:10-12",
+        "Rz 8:35-39"
+      ],
+      "text": [
+        "Pan od każdego zła cię chroni,",
+        "On chroni twoje życie.",
+        "Pan z nieba czuwa nad tobą,",
+        "gdy wychodzisz i gdy wracasz.",
+        ""
+      ]
+    },
+    {
+      "range": "32-34",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "niebo",
+        "czuwanie",
+        "teraźniejszość",
+        "wieczność",
+        "chronienie"
+      ],
+      "summary": "Pan czuwa z nieba nad człowiekiem teraz i na wieki – obietnica ochrony wykraczająca poza doczesność.",
+      "bible": [
+        "Ps 121:8b",
+        "Ps 23:6"
+      ],
+      "text": [
+        "Pan z nieba czuwa nad tobą",
+        "teraz i na wieki.",
+        ""
+      ]
+    },
+    {
+      "range": "35-39",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "oko",
+        "góra",
+        "ratunek",
+        "Pan",
+        "stworzenie",
+        "niebo",
+        "ziemia"
+      ],
+      "summary": "Powtórzenie refrenu o oczach wzniesionych ku górom i ratunku od Pana.",
+      "bible": [
+        "Ps 121:1-2"
+      ],
+      "text": [
+        "Wznoszę me oczy ku górom:",
+        "skądże nadejdzie ratunek?",
+        "Ratunek przychodzi od Pana,",
+        "co stworzył niebo i ziemię.",
+        ""
+      ]
+    },
+    {
+      "range": "40-41",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "ratunek",
+        "Pan",
+        "stworzenie",
+        "niebo",
+        "ziemia",
+        "zaufanie"
+      ],
+      "summary": "Końcowe powtórzenie ostatnich wersów refrenu jako afirmacji ufności w ratunek przychodzący od Pana.",
+      "bible": [
+        "Ps 121:2"
+      ],
+      "text": [
+        "Ratunek przychodzi od Pana,",
+        "co stworzył niebo i ziemię."
+      ]
+    },
+    {
+      "range": "1-41",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "ufność",
+        "opieka",
+        "Pan",
+        "stróż",
+        "Izrael",
+        "góry",
+        "ratunek",
+        "stworzenie",
+        "chronienie",
+        "życie",
+        "wieczność",
+        "Opatrzność"
+      ],
+      "summary": "Pieśń oparta na Ps 121 – psalmie ufności i pielgrzymim. Wierzący wznosi oczy ku górom (symboliczne spojrzenie ku Bogu i Jerozolimie), wyznając, że ratunek przychodzi wyłącznie od Pana Stwórcy. Bóg jest czujnym Stróżem Izraela, który chroni od wszelkiego zła za dnia i w nocy, w każdej sytuacji życia. Psalm zapowiada chrześcijańską ufność w Bożą Opatrzność i opiekę nad uczniami Chrystusa.",
+      "bible": [
+        "Ps 121:1-8",
+        "Ps 91",
+        "Iz 40:28-31",
+        "Rz 8:35-39"
+      ]
+    }
+  ]
+}

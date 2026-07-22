@@ -1,0 +1,108 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:036ae277940842ca06b3550fa4de2d1b081d8c39f83d8b59cc6007ccb2c2ab16",
+  "songs_analysis": [
+    {
+      "range": "1-2",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Chrystus",
+        "Król",
+        "wieczność",
+        "adoracja",
+        "Jezus Chrystus",
+        "Pan"
+      ],
+      "summary": "Aklamacja uwielbienia skierowana do Chrystusa jako Króla wiecznej chwały.",
+      "bible": [
+        "Flp 2, 9-11",
+        "Ap 5, 12-13",
+        "1 Tm 1, 17"
+      ],
+      "text": [
+        "Chwała Tobie o Chryste, Królu wiecznej chwały,",
+        "Królu wiecznej chwały."
+      ]
+    },
+    {
+      "range": "3-5",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "miłość",
+        "świat",
+        "Syn Jednorodzony",
+        "wiara",
+        "życie wieczne",
+        "zbawienie",
+        "dar",
+        "Jezus Chrystus",
+        "odkupienie"
+      ],
+      "summary": "Werset biblijny o zbawczej miłości Boga, który dał swojego Syna, aby każdy wierzący miał życie wieczne.",
+      "bible": [
+        "J 3, 16"
+      ],
+      "text": [
+        "Tak Bóg umiłował świat, że dał swojego Syna Jednorodzonego;",
+        "każdy, kto w Niego wierzy, ma życie wieczne.",
+        ""
+      ]
+    },
+    {
+      "range": "6-7",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Chrystus",
+        "Król",
+        "wieczność",
+        "adoracja",
+        "Jezus Chrystus",
+        "Pan"
+      ],
+      "summary": "Powtórzenie aklamacji uwielbienia Chrystusa Króla.",
+      "bible": [
+        "Flp 2, 9-11",
+        "Ap 5, 12-13"
+      ],
+      "text": [
+        "Chwała Tobie o Chryste, Królu wiecznej chwały,",
+        "Królu wiecznej chwały."
+      ]
+    },
+    {
+      "range": "1-7",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Chrystus",
+        "Król",
+        "wieczność",
+        "adoracja",
+        "Bóg",
+        "miłość",
+        "świat",
+        "Syn Jednorodzony",
+        "wiara",
+        "życie wieczne",
+        "zbawienie",
+        "Jezus Chrystus",
+        "Ewangelia",
+        "Wielki Post"
+      ],
+      "summary": "Aklamacja przed Ewangelią w Wielkim Poście łącząca uwielbienie Chrystusa Króla z janowym orędziem o zbawieniu przez wiarę w Syna Bożego (J 3, 16).",
+      "bible": [
+        "J 3, 16",
+        "Flp 2, 9-11",
+        "Ap 5, 12-13",
+        "1 Tm 1, 17"
+      ]
+    }
+  ]
+}

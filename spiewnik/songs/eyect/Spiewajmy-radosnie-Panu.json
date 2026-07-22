@@ -1,0 +1,166 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a2f3af7f0afb929a419173ab7244e49754b04f503ba9e731b367ab2391f217ce",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "radość",
+        "Pan",
+        "skała",
+        "zbawienie",
+        "dziękczynienie",
+        "uwielbienie"
+      ],
+      "summary": "Podwójne wezwanie liturgiczne: śpiewajmy radośnie Panu i przystąpmy do Niego z dziękczynieniem i pieśnią uwielbienia.",
+      "bible": [
+        "Ps 95,1-2"
+      ],
+      "text": [
+        "Śpiewajmy radośnie Panu,",
+        "pochwalmy skałę naszego zbawienia.",
+        "",
+        "Przystąpmy do Niego, by Mu dziękować,",
+        "śpiewajmy Mu głośno pieśń uwielbienia.",
+        ""
+      ]
+    },
+    {
+      "range": "7-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "Król",
+        "bogowie",
+        "ziemia",
+        "góry",
+        "morze",
+        "stworzenie",
+        "ręce",
+        "władza",
+        "wielkość"
+      ],
+      "summary": "Pan jest wielkim Bogiem i Królem nad wszystkimi bogami, bo Jego ręce stworzyły ziemię, góry i morze.",
+      "bible": [
+        "Ps 95,3-5",
+        "Ps 24,1-2"
+      ],
+      "text": [
+        "Bo wielkim Bogiem jest Pan,",
+        "wielkim Królem nad wszystkimi bogami.",
+        "W Jego ręku są głębokości ziemi,",
+        "i szczyty gór są Jego własnością.",
+        "Jego jest morze, to On je uczynił",
+        "i ziemia, ją rzeźbiły Jego ręce.",
+        "Śpiewajmy radośnie Panu,",
+        "pochwalmy skałę naszego zbawienia.",
+        "",
+        "Przystąpmy do Niego, by Mu dziękować,",
+        "śpiewajmy Mu głośno pieśń uwielbienia.",
+        ""
+      ]
+    },
+    {
+      "range": "19-31",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "uwielbienie",
+        "Stwórca",
+        "pustynia",
+        "głos",
+        "serce",
+        "zatwardziałość",
+        "ojcowie",
+        "lud",
+        "owce"
+      ],
+      "summary": "Wezwanie do oddania czci Stwórcy i ostrzeżenie przed zatwardzaniem serc, jak ojcowie na pustyni – przestroga przed niewiernością.",
+      "bible": [
+        "Ps 95,6-8",
+        "Hbr 3,7-11"
+      ],
+      "text": [
+        "Pójdźcie, padnijmy na twarz,",
+        "przed Panem, który nas stworzył.",
+        "On jest Tym, który nas wiedzie na pustyni.",
+        "Posłuchajmy dziś Jego głosu.",
+        "Nie zatwardzajmy serc naszych,",
+        "jak to czynili nasi ojcowie.",
+        "",
+        "Śpiewajmy radośnie Panu,",
+        "pochwalmy skałę naszego zbawienia.",
+        "",
+        "Przystąpmy do Niego, by Mu dziękować,",
+        "śpiewajmy Mu głośno pieśń uwielbienia.",
+        ""
+      ]
+    },
+    {
+      "range": "32-42",
+      "type": "zakończenie",
+      "sentiment": "błagalny",
+      "keywords": [
+        "pustynia",
+        "kuszenie",
+        "ojcowie",
+        "dzieła",
+        "gniew",
+        "odpoczynek",
+        "przysięga",
+        "przestroga"
+      ],
+      "summary": "Przypomnienie buntu na pustyni (Meryba/Massa) i Bożej przysięgi, że nieposłuszni nie wejdą do Jego odpoczynku – ostrzeżenie eschatologiczne.",
+      "bible": [
+        "Ps 95,8-11",
+        "Wj 17,1-7",
+        "Lb 20,1-13",
+        "Hbr 3,12-19"
+      ],
+      "text": [
+        "Na pustyni kusili mnie wasi ojcowie,",
+        "chociaż dzieła moje widzieli.",
+        "Przez czterdzieści lat znosiłem",
+        "to przewrotne pokolenie.",
+        "Przeto przysiągłem w mym gniewie:",
+        "Nie wejdą do mego odpoczynku.",
+        "Śpiewajmy radośnie Panu,",
+        "pochwalmy skałę naszego zbawienia.",
+        "",
+        "Przystąpmy do Niego, by Mu dziękować,",
+        "śpiewajmy Mu głośno pieśń uwielbienia."
+      ]
+    },
+    {
+      "range": "1-42",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "radość",
+        "Pan",
+        "stworzenie",
+        "Król",
+        "uwielbienie",
+        "pustynia",
+        "zatwardziałość",
+        "odpoczynek",
+        "gniew",
+        "przestroga",
+        "wiara",
+        "posłuszeństwo"
+      ],
+      "summary": "Parafraza Psalmu 95 – radosny hymn pochwalny na cześć Boga Stwórcy i Króla, połączony z poważnym ostrzeżeniem przed zatwardzaniem serca na wzór pokolenia błądzącego na pustyni, które nie weszło do Bożego odpoczynku.",
+      "bible": [
+        "Ps 95,1-11",
+        "Wj 17,1-7",
+        "Lb 20,1-13",
+        "Hbr 3,7-4,11"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:d3484dc889a03b11d8ba334d26f41b1a658e5ecb29a604fceb6b32f43a4d98e4",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "wstęp",
+      "sentiment": "pokutny",
+      "keywords": [
+        "prześladowanie",
+        "młodość",
+        "Izrael",
+        "ucisk",
+        "niewola",
+        "przemoc",
+        "cierpienie",
+        "wróg",
+        "wytrwałość",
+        "lud Boży"
+      ],
+      "summary": "Skarga Izraela na długotrwałe prześladowanie od młodości, które jednak nie przemogło dzięki Bożej pomocy.",
+      "bible": [
+        "Ps 129, 1-2"
+      ],
+      "text": [
+        "Bardzo mnie prześladowali",
+        "od mojej młodości;",
+        "bardzo mnie prześladowali,",
+        "niech mówi Izrael.",
+        "Bardzo mnie prześladowali",
+        "od mojej młodości;",
+        "bardzo mnie prześladowali,",
+        "ale nie przemogli.",
+        ""
+      ]
+    },
+    {
+      "range": "10-16",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "oracze",
+        "bruzdy",
+        "grzbiet",
+        "Pan sprawiedliwy",
+        "jarzmo",
+        "występni",
+        "sprawiedliwość Boża",
+        "wybawienie",
+        "kara",
+        "sprawiedliwość"
+      ],
+      "summary": "Obraz cierpienia jak orania grzbietu oraz uwielbienie sprawiedliwości Boga, który łamie jarzmo występnych.",
+      "bible": [
+        "Ps 129, 3-4",
+        "Iz 10, 27"
+      ],
+      "text": [
+        "Na mym grzbiecie orali oracze,",
+        "na mym grzbiecie wydłużyli bruzdy.",
+        "Ale Pan jest sprawiedliwy,",
+        "On połamał jarzmo występnych.",
+        "Ale Pan jest sprawiedliwy,",
+        "On połamał jarzmo występnych.",
+        ""
+      ]
+    },
+    {
+      "range": "17-19",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Syjon",
+        "nienawiść",
+        "odstąpienie",
+        "wróg",
+        "Kościół",
+        "Lud Boży",
+        "prośba",
+        "oczyszczenie"
+      ],
+      "summary": "Błagalny refren wzywający nienawidzących Syjonu do odstąpienia.",
+      "bible": [
+        "Ps 129, 5"
+      ],
+      "text": [
+        "Niech odstąpią nienawidzący Syjonu,",
+        "niech odstąpią nienawidzący Syjonu.",
+        ""
+      ]
+    },
+    {
+      "range": "20-26",
+      "type": "fragment",
+      "sentiment": "pokutny",
+      "keywords": [
+        "trawa",
+        "dachy",
+        "usycha",
+        "kosiarz",
+        "snopy",
+        "przemijanie",
+        "słabość",
+        "nikczemność",
+        "kara",
+        "marność"
+      ],
+      "summary": "Przypowieść o przemijaniu wrogów Sprawiedliwego jak trawa na dachach, która usycha, zanim ją wyplenią.",
+      "bible": [
+        "Ps 129, 6-8",
+        "Iz 40, 6-8"
+      ],
+      "text": [
+        "Niech staną się jak trawa, co rośnie na dachach,",
+        "która, zanim ją wyplenią, usycha.",
+        "Nigdy nie napełni nią kosiarz swojej ręki,",
+        "ni zanadrza ten, co zbiera snopy.",
+        "Niech odstąpią nienawidzący Syjonu,",
+        "niech odstąpią nienawidzący Syjonu.",
+        ""
+      ]
+    },
+    {
+      "range": "27-30",
+      "type": "zakończenie",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "prześladowanie",
+        "młodość",
+        "nie przemogli",
+        "zwycięstwo",
+        "ufność",
+        "wytrwałość",
+        "Bóg",
+        "ocalenie"
+      ],
+      "summary": "Powtórzenie motywu prześladowania od młodości, które nie przemogło – wyraz ufności w Boże wsparcie i sprawiedliwość.",
+      "bible": [
+        "Ps 129, 1-2"
+      ],
+      "text": [
+        "Bardzo mnie prześladowali",
+        "od mojej młodości;",
+        "bardzo mnie prześladowali,",
+        "ale nie przemogli."
+      ]
+    },
+    {
+      "range": "1-30",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Psalm 129",
+        "prześladowanie",
+        "Syjon",
+        "sprawiedliwość Boża",
+        "ufność",
+        "niewola",
+        "wybawienie",
+        "wiara",
+        "cierpienie",
+        "Kościół"
+      ],
+      "summary": "Psalm 129 – pieśń ufności ludu Bożego, który mimo długotrwałych prześladowań zaufał sprawiedliwości i wybawieniu Pana.",
+      "bible": [
+        "Ps 129"
+      ]
+    }
+  ]
+}

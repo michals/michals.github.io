@@ -1,0 +1,193 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a4cad971650d73ab0251337bffcfc65ec0d7a96dd81c79ac862a22f8b8aa4ecd",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "błogosławiona",
+        "niewiasta",
+        "owoc",
+        "łono",
+        "Jezus",
+        "wiara"
+      ],
+      "summary": "Pozdrowienie Elżbiety: Tyś jest błogosławiona między niewiastami i błogosławiony owoc Twojego łona.",
+      "bible": [
+        "Łk 1, 42"
+      ],
+      "text": [
+        "Tyś jest błogosławiona, Maryjo,",
+        "między niewiastami, Maryjo!",
+        "i błogosławiony owoc, Maryjo,",
+        "owoc łona Twego, Jezus.",
+        "Maryjo, Tyś uwierzyła!",
+        ""
+      ]
+    },
+    {
+      "range": "7-9",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "matka",
+        "Pan",
+        "nawiedzenie",
+        "pokora"
+      ],
+      "summary": "Pełne zdumienia pytanie Elżbiety: skądże mi to, że Matka mojego Pana przychodzi do mnie.",
+      "bible": [
+        "Łk 1, 43",
+        "2 Sm 6, 9"
+      ],
+      "text": [
+        "Skądże mi to, że mojego Pana matka",
+        "przychodzi do mnie, skądże mi to?",
+        ""
+      ]
+    },
+    {
+      "range": "10-13",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "głos",
+        "pozdrowienie",
+        "dziecko",
+        "radość",
+        "poruszenie",
+        "Jan Chrzciciel"
+      ],
+      "summary": "Radość dziecka (Jan Chrzciciel) poruszającego się w łonie Elżbiety na głos pozdrowienia Maryi.",
+      "bible": [
+        "Łk 1, 44"
+      ],
+      "text": [
+        "Oto skoro usłyszałam Twój głos,",
+        "coś poruszyło się we mnie,",
+        "moje dziecko poruszyło się z radości!",
+        ""
+      ]
+    },
+    {
+      "range": "14-16",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "szczęście",
+        "wiara",
+        "słowo",
+        "Pan",
+        "spełnienie"
+      ],
+      "summary": "Błogosławieństwo wiary Maryi, która uwierzyła, że spełnią się słowa Pana.",
+      "bible": [
+        "Łk 1, 45"
+      ],
+      "text": [
+        "Maryjo, szczęśliwa Maryjo,",
+        "Tyś uwierzyła, że się spełni słowo Pana!",
+        ""
+      ]
+    },
+    {
+      "range": "17-19",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "matka",
+        "Pan",
+        "nawiedzenie",
+        "pokora"
+      ],
+      "summary": "Powtórzenie zdumionego pytania Elżbiety o przyjście Matki Pana.",
+      "bible": [
+        "Łk 1, 43",
+        "2 Sm 6, 9"
+      ],
+      "text": [
+        "Skądże mi to, że mojego Pana matka",
+        "przychodzi do mnie, skądże mi to?",
+        ""
+      ]
+    },
+    {
+      "range": "20-23",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "głos",
+        "pozdrowienie",
+        "dziecko",
+        "radość",
+        "poruszenie",
+        "Jan Chrzciciel"
+      ],
+      "summary": "Powtórzenie opisu radosnego poruszenia Jana Chrzciciela w łonie matki.",
+      "bible": [
+        "Łk 1, 44"
+      ],
+      "text": [
+        "Oto skoro usłyszałam Twój głos,",
+        "coś poruszyło się we mnie,",
+        "moje dziecko poruszyło się z radości!",
+        ""
+      ]
+    },
+    {
+      "range": "24-25",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "szczęście",
+        "wiara",
+        "słowo",
+        "Pan",
+        "spełnienie"
+      ],
+      "summary": "Końcowe błogosławieństwo wiary Maryi, która uwierzyła słowu Pana.",
+      "bible": [
+        "Łk 1, 45"
+      ],
+      "text": [
+        "Maryjo, szczęśliwa Maryjo,",
+        "Tyś uwierzyła, że się spełni słowo Pana!"
+      ]
+    },
+    {
+      "range": "1-25",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Elżbieta",
+        "nawiedzenie",
+        "błogosławieństwo",
+        "wiara",
+        "radość",
+        "Jan Chrzciciel",
+        "dziecko",
+        "poruszenie",
+        "słowo",
+        "Pan",
+        "Jezus",
+        "spełnienie",
+        "niewiasta",
+        "owoc",
+        "łono",
+        "pokora",
+        "zdumienie"
+      ],
+      "summary": "Adaptacja biblijnego Nawiedzenia św. Elżbiety (Łk 1, 39-45) – Maryja jako błogosławiona między niewiastami, której wiara i przyjście wywołują radość prorocką u Elżbiety i Jana Chrzciciela. Typologiczne nawiązanie do Arkii Przymierza (2 Sm 6).",
+      "bible": [
+        "Łk 1, 42-45",
+        "2 Sm 6, 9-16"
+      ]
+    }
+  ]
+}

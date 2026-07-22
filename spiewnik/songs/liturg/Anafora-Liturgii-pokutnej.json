@@ -1,0 +1,199 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:56cae7136b290c05a9364ebf14bf7962d51a0006fa36db04c87e88173aadd731",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "wstęp",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Pan",
+        "duch",
+        "serce",
+        "dziękczynienie",
+        "Bóg",
+        "liturgia",
+        "wspólnota",
+        "Eucharystia",
+        "uwielbienie"
+      ],
+      "summary": "Dialog liturgiczny rozpoczynający prefację, wzywający do wzniesienia serc i składania dziękczynienia Bogu.",
+      "bible": [
+        "Kol 3, 1-2",
+        "Flp 4, 4-6",
+        "Ps 136, 1-3"
+      ],
+      "text": [
+        "Pan z wami.",
+        "I z duchem Twoim.",
+        "W górę serca.",
+        "Wznosimy je do Pana.",
+        "Dzięki składajmy Panu Bogu naszemu.",
+        "Godne to i sprawiedliwe, Godne to i sprawiedliwe."
+      ]
+    },
+    {
+      "range": "7-9",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dziękczynienie",
+        "Bóg",
+        "wszechmogący",
+        "miłosierny",
+        "stworzenie",
+        "człowiek",
+        "odkupienie",
+        "zbawienie",
+        "cud"
+      ],
+      "summary": "Prefacja wychwalająca Boga za podwójny cud stworzenia człowieka i jeszcze cudowniejszego odkupienia w Chrystusie.",
+      "bible": [
+        "Rdz 1, 26-27",
+        "Rz 5, 12-21",
+        "Ps 139, 14",
+        "2 Kor 5, 17-18"
+      ],
+      "text": [
+        "Zaprawdę godne to i sprawiedliwe, słuszne i zbawienne",
+        "składać Tobie dzięki zawsze i na każdym miejscu,  wszechmogący i miłosierny Boże,",
+        "który w sposób cudowny stworzyłeś człowieka      i jeszcze cudowniej go odkupiłeś;"
+      ]
+    },
+    {
+      "range": "10",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "11-19",
+      "bible": [],
+      "text": [
+        "Rytmicznie"
+      ]
+    },
+    {
+      "range": "11-17",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Bóg",
+        "grzesznik",
+        "miłosierdzie",
+        "miłość ojcowska",
+        "Syn Boży",
+        "męka",
+        "śmierć",
+        "grzech",
+        "zmartwychwstanie",
+        "życie",
+        "Duch Święty",
+        "synostwo",
+        "dziedzictwo",
+        "sakrament",
+        "zbawienie",
+        "odnowienie",
+        "przemienienie",
+        "Jezus Chrystus",
+        "Trójca Święta",
+        "Kościół"
+      ],
+      "summary": "Wielbienie Boga za Jego zbawcze dzieła: poszukiwanie grzesznika, zwycięstwo nad grzechem i śmiercią przez mękę i zmartwychwstanie Syna, dar Ducha Świętego, sakramenty zbawienia i przemienienie na podobieństwo Chrystusa.",
+      "bible": [
+        "Łk 15, 11-32",
+        "Rz 5, 8-10",
+        "Rz 8, 15-17",
+        "Ga 4, 4-7",
+        "1 Kor 15, 54-57",
+        "Ez 36, 25-27",
+        "2 Kor 3, 18",
+        "Rz 6, 17-18"
+      ],
+      "text": [
+        "Ty nie opuszczasz grzesznika, ale go szukasz z ojcowską miłością.",
+        "Ty w męce Twego Syna zwyciężyłeś grzech i śmierć,",
+        "a w Jego zmartwychwstaniu przywróciłeś nam życie.",
+        "Tyś wlał do naszych serc Ducha Świętego,                       by uczynić nas Twoimi synami i dziedzicami.",
+        "Ty nas zawsze odnawiasz przez sakramenty zbawienia.",
+        "Abyśmy, uwolnieni z niewoli grzechu,",
+        "zostali przemienieni na podobieństwo Twojego Syna."
+      ]
+    },
+    {
+      "range": "18-20",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "uwielbienie",
+        "Pan",
+        "Kościół",
+        "miłosierdzie",
+        "chwała",
+        "Bóg",
+        "cud",
+        "hymn",
+        "jedność",
+        "Trójca Święta"
+      ],
+      "summary": "Doksologia końcowa wyrażająca uwielbienie Boga w jedności z całym Kościołem za cuda miłosierdzia.",
+      "bible": [
+        "Rz 11, 33-36",
+        "Ef 1, 3-14",
+        "Ap 5, 11-14"
+      ],
+      "text": [
+        "Błogosławimy, uwielbiamy Cię, Panie,                          w jedności z całym Kościołem,",
+        "za te cuda Twojego miłosierdziaśpiewamy, śpiewamy, hymn Twojej chwały.",
+        ""
+      ]
+    },
+    {
+      "range": "21",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "1-20",
+      "bible": [],
+      "text": [
+        "Następuje „Święty”"
+      ]
+    },
+    {
+      "range": "1-21",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dziękczynienie",
+        "Bóg",
+        "stworzenie",
+        "odkupienie",
+        "miłosierdzie",
+        "grzesznik",
+        "Syn Boży",
+        "męka",
+        "śmierć",
+        "zmartwychwstanie",
+        "Duch Święty",
+        "sakrament",
+        "zbawienie",
+        "Kościół",
+        "chwała",
+        "uwielbienie",
+        "pokuta",
+        "pojednanie",
+        "Jezus Chrystus",
+        "Trójca Święta"
+      ],
+      "summary": "Anafora (modlitwa dziękczynna) Liturgii pokutnej, łącząca motywy stworzenia, odkupienia, daru Ducha Świętego i sakramentów, zmierzająca do przemienienia człowieka na podobieństwo Chrystusa i uwielbienia Boga w jedności Kościoła.",
+      "bible": [
+        "Rdz 1, 26-27",
+        "Rz 5, 8-10",
+        "Rz 8, 15-17",
+        "Łk 15, 11-32",
+        "1 Kor 15, 54-57",
+        "2 Kor 5, 17-18",
+        "Ef 1, 3-14"
+      ]
+    }
+  ]
+}

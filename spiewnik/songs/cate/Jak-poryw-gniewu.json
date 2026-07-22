@@ -1,0 +1,247 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:aac2377a2273c6415d5705e42286565db6196d60cd29dd1fc7f05e9da865f347",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "poryw",
+        "gniew",
+        "nieprzyjaciel",
+        "miłość",
+        "ukochany",
+        "nieśmiertelny",
+        "pełnia",
+        "świat"
+      ],
+      "summary": "Dusza wyraża gwałtowny poryw ku Bogu – jak gniew na wroga i miłość do ukochanego – ku pełni światów.",
+      "bible": [
+        "Ody Salomona 7",
+        "Pnp 8:6"
+      ],
+      "text": [
+        "Jak poryw gniewu na nieprzyjaciela,",
+        "jak poryw miłości do ukochanego,",
+        "taki jest mój poryw ku Tobie,",
+        "Ty, nieśmiertelny, pełnio światów."
+      ]
+    },
+    {
+      "range": "5-10",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "droga",
+        "cudowny",
+        "miłość",
+        "jedyny",
+        "życie",
+        "prawda"
+      ],
+      "summary": "Refren wyznaje wiarę w Chrystusa jako drogę, prawdę i życie – źródło miłości jedynej.",
+      "bible": [
+        "J 14:6"
+      ],
+      "text": [
+        "Ty jesteś drogą, jakże to cudowne!",
+        "Ty jesteś drogą, jesteś miłością.",
+        "Ty jesteś drogą, drogą jedyną.",
+        "Ty jesteś drogą, Ty jesteś życiem.",
+        "Ty jesteś drogą, Ty jesteś prawdą,",
+        "Ty jesteś życiem."
+      ]
+    },
+    {
+      "range": "12-15",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "oddać",
+        "zastrzeżenie",
+        "słodycz",
+        "mały",
+        "wielkość",
+        "drżeć",
+        "ujrzeć"
+      ],
+      "summary": "Bóg uniżył swoją wielkość, oddając się bez zastrzeżeń, by człowiek nie zadrżał na Jego widok.",
+      "bible": [
+        "Flp 2:6-8",
+        "2 Kor 8:9"
+      ],
+      "text": [
+        "Oddałeś się mi bez zastrzeżeń,",
+        "pełen słodyczy,                 uczyniłeś małą swoją wielkość,",
+        "tak abym nie zadrżał, ujrzawszy Ciebie.",
+        "Ty nieśmiertelny, pełnio światów."
+      ]
+    },
+    {
+      "range": "16-21",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "droga",
+        "cudowny",
+        "miłość",
+        "jedyny",
+        "życie",
+        "prawda"
+      ],
+      "summary": "Powtórzenie refrenu – wyznanie Chrystusa jako drogi, prawdy i życia.",
+      "bible": [
+        "J 14:6"
+      ],
+      "text": [
+        "Ty jesteś drogą, jakże to cudowne!",
+        "Ty jesteś drogą, jesteś miłością.",
+        "Ty jesteś drogą, drogą jedyną.",
+        "Ty jesteś drogą, Ty jesteś życiem.",
+        "Ty jesteś drogą, Ty jesteś prawdą,",
+        "Ty jesteś życiem."
+      ]
+    },
+    {
+      "range": "23-26",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "stać się",
+        "poznawać",
+        "wygląd",
+        "podobny",
+        "przyjmować",
+        "grzech",
+        "miłosierdzie",
+        "oddalić"
+      ],
+      "summary": "Chrystus stał się podobny do człowieka i grzechem za nas, by miłosierdzie Boże na zawsze nas z Nim zjednoczyło.",
+      "bible": [
+        "2 Kor 5:21",
+        "Flp 2:7",
+        "Rz 8:38-39"
+      ],
+      "text": [
+        "Ty stałeś się jak ja, bym Ciebie nauczył się poznawać,",
+        "w wyglądzie podobny do mnie,abym mógł Cię przyjmować,",
+        "Ty stałeś się grzechem dla mnie, pełen miłosierdzia,",
+        "aby grzechy nie oddaliły mnie już nigdy od Ciebie."
+      ]
+    },
+    {
+      "range": "27-32",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "droga",
+        "cudowny",
+        "miłość",
+        "jedyny",
+        "życie",
+        "prawda"
+      ],
+      "summary": "Powtórzenie refrenu – Chrystus drogą, prawdą i życiem.",
+      "bible": [
+        "J 14:6"
+      ],
+      "text": [
+        "Ty jesteś drogą, jakże to cudowne!",
+        "Ty jesteś drogą, jesteś miłością.",
+        "Ty jesteś drogą, drogą jedyną.",
+        "Ty jesteś drogą, Ty jesteś życiem.",
+        "Ty jesteś drogą, Ty jesteś prawdą,",
+        "Ty jesteś życiem."
+      ]
+    },
+    {
+      "range": "34-37",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Bóg",
+        "stworzyć",
+        "znać",
+        "zlitować się",
+        "miłosierdzie",
+        "wypraszać",
+        "natura"
+      ],
+      "summary": "Bóg znał człowieka przed stworzeniem, zlitował się nad nim i w miłosierdziu pozwala mu uczestniczyć w swej naturze.",
+      "bible": [
+        "Ps 139:16",
+        "Jr 1:5",
+        "Ef 1:4-5",
+        "2 P 1:4"
+      ],
+      "text": [
+        "Bóg, co mnie stworzył, zanim jeszcze byłem,",
+        "znał wszystko to, co miałem uczynić,",
+        "dlatego zlitował się nade mną i w swym miłosierdziu",
+        "sprawił, bym wypraszał Jego naturę."
+      ]
+    },
+    {
+      "range": "38-43",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "droga",
+        "cudowny",
+        "miłość",
+        "jedyny",
+        "życie",
+        "prawda"
+      ],
+      "summary": "Końcowe powtórzenie refrenu – Chrystus drogą, prawdą i życiem.",
+      "bible": [
+        "J 14:6"
+      ],
+      "text": [
+        "Ty jesteś drogą, jakże to cudowne!",
+        "Ty jesteś drogą, jesteś miłością.",
+        "Ty jesteś drogą, drogą jedyną.",
+        "Ty jesteś drogą, Ty jesteś życiem.",
+        "Ty jesteś drogą, Ty jesteś prawdą,",
+        "Ty jesteś życiem."
+      ]
+    },
+    {
+      "range": "1-43",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "droga",
+        "miłość",
+        "życie",
+        "prawda",
+        "Chrystus",
+        "poryw",
+        "nieśmiertelny",
+        "pełnia",
+        "grzech",
+        "miłosierdzie",
+        "stworzyć",
+        "poznawać",
+        "podobny",
+        "wcielenie",
+        "jedyny",
+        "cudowny",
+        "ukochany",
+        "oddać",
+        "wielkość"
+      ],
+      "summary": "Hymn z Ód Salomona ukazuje mistyczną więź duszy z Bogiem przez wcielenie – Chrystus uniża się, by człowiek mógł Go poznać, i staje się drogą do życia wiecznego.",
+      "bible": [
+        "J 14:6",
+        "Flp 2:6-8",
+        "2 Kor 5:21",
+        "Ps 139:16",
+        "Ef 1:4-5",
+        "2 P 1:4"
+      ]
+    }
+  ]
+}

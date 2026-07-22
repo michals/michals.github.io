@@ -1,0 +1,207 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:aa7183db6984e046b064a6d3090a59d0c8014a5c43f4093b45dda7b43cb21957",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Izrael",
+        "Egipt",
+        "Jakub",
+        "Juda",
+        "przybytek",
+        "własność",
+        "exodus",
+        "wyjście",
+        "Pascha",
+        "Kościół",
+        "lud Boży"
+      ],
+      "summary": "Wyjście Izraela z Egiptu sprawia, że Juda staje się przybytkiem Pana, a Izrael Jego własnością — typ wyjścia z niewoli grzechu i stania się ludem Bożym w Kościele.",
+      "bible": [
+        "Ps 114, 1-2",
+        "Wj 19, 5-6",
+        "1 P 2, 9"
+      ],
+      "text": [
+        "Kiedy Izrael wyszedł z Egiptu,",
+        "dom Jakuba od ludu obcego,",
+        "",
+        "Juda stał się Jego przybytkiem,",
+        "Izrael Jego własnością.",
+        ""
+      ]
+    },
+    {
+      "range": "7-11",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "morze",
+        "Jordan",
+        "góra",
+        "pagórek",
+        "baranek",
+        "ucieczka",
+        "odwrót",
+        "cud",
+        "stworzenie",
+        "lęk przed Bogiem"
+      ],
+      "summary": "Morze ucieka, Jordan zawraca, góry skaczą jak baranki — personifikacja stworzenia reagującego lękiem i zachwytem na obecność Boga.",
+      "bible": [
+        "Ps 114, 3-4",
+        "Wj 14, 21",
+        "Joz 3, 16"
+      ],
+      "text": [
+        "Ujrzało to morze i uciekło,",
+        "a Jordan bieg swój odwrócił, ",
+        "skakały góry jak baranki,",
+        "pagórki niby jagnięta.",
+        ""
+      ]
+    },
+    {
+      "range": "12-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "morze",
+        "Jordan",
+        "góra",
+        "pagórek",
+        "baranek",
+        "ziemia",
+        "Pan",
+        "Bóg",
+        "Jakub",
+        "skała",
+        "woda",
+        "cud",
+        "obecność Boża"
+      ],
+      "summary": "Personifikowane pytanie do morza, Jordanu i gór o przyczynę ich ucieczki oraz wezwanie ziemi do drżenia przed Panem, który ze skały wyprowadza wodę.",
+      "bible": [
+        "Ps 114, 5-8",
+        "Wj 17, 6",
+        "1 Kor 10, 4"
+      ],
+      "text": [
+        "Czemu, morze, uciekasz,",
+        "a ty, Jordanie, czemu płyniesz do tyłu? ",
+        "A wy góry skaczecie jak baranki,",
+        "pagórki niby jagnięta?",
+        "Zadrżyj ziemio, zadrżyj",
+        "przed Panem Bogiem, On przechodzi,",
+        "przed Panem Bogiem Jakubowym.",
+        "On ze skały wodę wyprowadza.",
+        ""
+      ]
+    },
+    {
+      "range": "21-31",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Izrael",
+        "Egipt",
+        "Jakub",
+        "Juda",
+        "przybytek",
+        "własność",
+        "morze",
+        "Jordan",
+        "góra",
+        "cud",
+        "pascha"
+      ],
+      "summary": "Powtórzenie pierwszej zwrotki i opisu reakcji stworzenia — strukturalne podkreślenie centralnego wydarzenia wyjścia i jego kosmicznych konsekwencji.",
+      "bible": [
+        "Ps 114, 1-4"
+      ],
+      "text": [
+        "Kiedy Izrael wyszedł z Egiptu,",
+        "dom Jakuba od ludu obcego,",
+        "",
+        "Juda stał się Jego przybytkiem,",
+        "Izrael Jego własnością.",
+        "",
+        "Ujrzało to morze i uciekło,",
+        "a Jordan bieg swój odwrócił, ",
+        "skakały góry jak baranki,",
+        "pagórki niby jagnięta.",
+        ""
+      ]
+    },
+    {
+      "range": "32-39",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "morze",
+        "Jordan",
+        "góra",
+        "ziemia",
+        "Pan",
+        "Bóg",
+        "Jakub",
+        "skała",
+        "woda",
+        "cud",
+        "obecność Boża",
+        "adoracja"
+      ],
+      "summary": "Powtórzenie pytań i wezwania do drżenia przed Panem oraz przypomnienie cudu wyprowadzenia wody ze skały — sakrament chrztu i woda żywa.",
+      "bible": [
+        "Ps 114, 5-8",
+        "Wj 17, 6",
+        "J 4, 13-14",
+        "1 Kor 10, 4"
+      ],
+      "text": [
+        "Czemu, morze, uciekasz,",
+        "a ty, Jordanie, czemu płyniesz do tyłu? ",
+        "A wy, góry, skaczecie jak baranki,",
+        "pagórki niby jagnięta?",
+        "Zadrżyj ziemio, zadrżyj",
+        "przed Panem, Bogiem, On przechodzi,",
+        "przed Panem Bogiem Jakubowym.",
+        "On ze skały wodę wyprowadza."
+      ]
+    },
+    {
+      "range": "1-39",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "exodus",
+        "wyjście",
+        "Egipt",
+        "Izrael",
+        "Juda",
+        "przybytek",
+        "morze",
+        "Jordan",
+        "góra",
+        "cud",
+        "woda ze skały",
+        "obecność Boża",
+        "pascha",
+        "Kościół",
+        "chrzest"
+      ],
+      "summary": "Pieśń oparta na Psalmie 114 opisuje cudowne wyjście Izraela z Egiptu jako wydarzenie, przed którym drży całe stworzenie, a Bóg okazuje swą potęgę wyprowadzając wodę ze skały — typ chrztu i przejścia paschalnego w Chrystusie.",
+      "bible": [
+        "Ps 114",
+        "Wj 14",
+        "Joz 3",
+        "Wj 17, 6",
+        "1 Kor 10, 4",
+        "J 4, 13-14"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:bd827879485dba345864adab5cea4f51b64b7256aec1d8872d90a3acc5ac06f1",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Bóg",
+        "wysokość",
+        "niebo",
+        "ziemia",
+        "pokój",
+        "ludzie",
+        "uwielbienie",
+        "błogosławienie",
+        "dziękczynienie",
+        "chwała"
+      ],
+      "summary": "Anielskie uwielbienie Boga na wysokości połączone z życzeniem pokoju ludziom, którym Bóg okazuje miłość.",
+      "bible": [
+        "Łk 2, 14",
+        "Ps 148, 1",
+        "Iz 6, 3"
+      ],
+      "text": [
+        "Chwała Bogu na wysokości,",
+        "a na ziemi pokój ludziom, których kocha Bóg.",
+        "Chwalimy Cię, błogosławimy,",
+        "wielbimy, dzięki Ci składamy za wielką Twoją chwałę."
+      ]
+    },
+    {
+      "range": "5-8",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Panie Boże",
+        "Król nieba",
+        "Ojciec",
+        "wszechmogący",
+        "Syn Jednorodzony",
+        "Jezus Chrystus",
+        "Baranku Boży",
+        "Trójca Święta"
+      ],
+      "summary": "Wezwanie Boga Ojca wszechmogącego i Jezusa Chrystusa Syna Jednorodzonego jako Baranka Bożego.",
+      "bible": [
+        "J 1, 14",
+        "J 1, 29",
+        "Ap 5, 12",
+        "Dz 4, 12",
+        "Iz 9, 6"
+      ],
+      "text": [
+        "Panie Boże, Królu nieba, Boże Ojcze wszechmogący,",
+        "Panie, Synu Jednorodzony,",
+        "Jezu Chryste!",
+        "Panie Boże, Baranku Boży, Synu Ojca."
+      ]
+    },
+    {
+      "range": "9-13",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "grzech",
+        "świat",
+        "zmiłowanie",
+        "błaganie",
+        "Baranku Boży",
+        "Jezus Chrystus",
+        "prawica Ojca",
+        "miłosierdzie"
+      ],
+      "summary": "Prośba o zmiłowanie skierowana do Chrystusa, który gładzi grzechy świata i zasiada po prawicy Ojca.",
+      "bible": [
+        "J 1, 29",
+        "Ps 110, 1",
+        "Hbr 1, 3",
+        "Rz 8, 34",
+        "Hbr 10, 12"
+      ],
+      "text": [
+        "Ty, który gładzisz grzechy świata,",
+        "zmiłuj się nad nami!",
+        "Ty, który gładzisz grzechy świata, przyjm błaganie nasze.",
+        "Ty, który siedzisz po prawicy Ojca,",
+        "zmiłuj się nad nami!"
+      ]
+    },
+    {
+      "range": "14-16",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Święty",
+        "Pan",
+        "Najwyższy",
+        "Jezus Chrystus",
+        "wyznanie",
+        "uwielbienie",
+        "wyłączność"
+      ],
+      "summary": "Wyznanie, że tylko Jezus Chrystus jest Święty, tylko On jest Panem i Najwyższym.",
+      "bible": [
+        "Iz 45, 23-24",
+        "Flp 2, 9-11",
+        "Dz 4, 12",
+        "Ap 15, 4"
+      ],
+      "text": [
+        "Albowiem tylko Tyś jest Święty, tylko Tyś jest Panem,",
+        "tylko Tyś Najwyższy,",
+        "Jezu Chryste!"
+      ]
+    },
+    {
+      "range": "17-19",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch Święty",
+        "chwała",
+        "Bóg Ojciec",
+        "Trójca Święta",
+        "amen",
+        "uwielbienie",
+        "doksologia"
+      ],
+      "summary": "Doksologia trynitarna — uwielbienie Chrystusa z Duchem Świętym w chwale Boga Ojca, zakończone Amen.",
+      "bible": [
+        "2 Kor 13, 13",
+        "Mt 28, 19",
+        "Ef 2, 18"
+      ],
+      "text": [
+        "Z Duchem Świętym",
+        "w chwale Boga Ojca.",
+        "Amen, amen!"
+      ]
+    },
+    {
+      "range": "1-19",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Bóg",
+        "Jezus Chrystus",
+        "Duch Święty",
+        "Trójca Święta",
+        "uwielbienie",
+        "pokój",
+        "zmiłowanie",
+        "Msza Święta",
+        "hymn",
+        "Ojciec",
+        "Syn",
+        "Baranku Boży"
+      ],
+      "summary": "Hymn Chwała Bogu na wysokości (Gloria) ze stałych części Mszy Świętej — uroczyste uwielbienie Trójcy Świętej, wyznanie wiary w Chrystusa Baranka Bożego i prośba o zmiłowanie, zakończone doksologią trynitarną.",
+      "bible": [
+        "Łk 2, 14",
+        "J 1, 29",
+        "Ps 110, 1",
+        "Flp 2, 9-11",
+        "Iz 6, 3",
+        "Mt 28, 19"
+      ]
+    }
+  ]
+}

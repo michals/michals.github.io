@@ -1,0 +1,162 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:cb1231c04ca86b88ca98a5305352295bb9a1098d429c79fd67f3cd08bc4ae0f3",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "pasterze",
+        "Betlejem",
+        "Dziecię",
+        "Emmanuel",
+        "Bóg z nami",
+        "radość",
+        "śpiew"
+      ],
+      "summary": "Wezwanie pasterzy do wędrówki do Betlejem, gdzie narodziło się Dziecię Emmanuel – Bóg z nami.",
+      "bible": [
+        "Mt 1,23",
+        "Łk 2,8-15"
+      ],
+      "text": [
+        "Ruszajmy już pasterze! Pójdziemy do Betlejem!",
+        "Dziś przyszło na świat Dziecię, nazwane: Emmanuel,",
+        "nazwane: Emmanuel, nazwane: Emmanuel;",
+        "ruszajmy już pasterze! Pójdziemy do Betlejem!",
+        "La-la laj-laj La la-la laj-laj.",
+        "La la-la laj-laj La-la-la-la laj-laj La.",
+        ""
+      ]
+    },
+    {
+      "range": "8-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ubodzy",
+        "mali",
+        "radość",
+        "śpiew",
+        "pokorni"
+      ],
+      "summary": "Ubodzy i mali śpiewają i radują się z narodzenia Mesjasza.",
+      "bible": [
+        "Mt 5,3",
+        "Łk 1,51-52"
+      ],
+      "text": [
+        "Ubodzy już śpiewają, a mali się radują!",
+        "Ubodzy już śpiewają, a mali się radują!",
+        ""
+      ]
+    },
+    {
+      "range": "11-13",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "wesele",
+        "Zbawca",
+        "narodzenie",
+        "zbawienie"
+      ],
+      "summary": "Okrzyk radości i wesela z powodu narodzin Zbawiciela.",
+      "bible": [
+        "Łk 2,10-11"
+      ],
+      "text": [
+        "Co za radość i wesele, co za radość i wesele,",
+        "Co za radość i wesele, dziś zrodzony Zbawca nasz!",
+        ""
+      ]
+    },
+    {
+      "range": "14-18",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "pasterze",
+        "Betlejem",
+        "Dziecię",
+        "Emmanuel"
+      ],
+      "summary": "Powtórzone wezwanie pasterzy do pośpiechu do Betlejem, by ujrzeć Emmanuela.",
+      "bible": [
+        "Łk 2,8-15"
+      ],
+      "text": [
+        "Ruszajmy już pasterze! Pójdźmy do Betlejem!",
+        "Dziś przyszło na świat Dziecię, nazwane: Emmanuel,",
+        "nazwane: Emmanuel, nazwane: Emmanuel;",
+        "ruszajmy już pasterze! Pójdziemy do Betlejem!",
+        ""
+      ]
+    },
+    {
+      "range": "19-21",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Józef",
+        "Dziecię",
+        "Emmanuel",
+        "rodzina"
+      ],
+      "summary": "Przedstawienie Świętej Rodziny: Maryja i Józef przy nowonarodzonym Dziecięciu Emmanuelu.",
+      "bible": [
+        "Łk 2,4-7",
+        "Mt 1,18-24"
+      ],
+      "text": [
+        "Jego Matką Maryja, Jego ojcem jest Józef.",
+        "Dziś przyszło na świat Dziecię, nazwane: Emmanuel,",
+        ""
+      ]
+    },
+    {
+      "range": "22-23",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "wesele",
+        "Zbawca",
+        "narodzenie"
+      ],
+      "summary": "Powtórzony okrzyk radości z narodzin Zbawiciela.",
+      "bible": [
+        "Łk 2,10-11"
+      ],
+      "text": [
+        "Co za radość i wesele, co za radość i wesele,",
+        "Co za radość i wesele, dziś zrodzony Zbawca nasz!"
+      ]
+    },
+    {
+      "range": "1-23",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "pasterze",
+        "Betlejem",
+        "Emmanuel",
+        "Zbawiciel",
+        "Maryja",
+        "Józef",
+        "radość",
+        "narodzenie",
+        "Dziecię",
+        "Bóg z nami"
+      ],
+      "summary": "Kolęda wzywająca pasterzy (i wiernych) do pośpiechu do Betlejem, gdzie narodził się Emmanuel – Zbawiciel; Święta Rodzina otacza Dziecię, a radość i wesele ogarniają ubogich i małych.",
+      "bible": [
+        "Mt 1,23",
+        "Łk 2,4-20"
+      ]
+    }
+  ]
+}

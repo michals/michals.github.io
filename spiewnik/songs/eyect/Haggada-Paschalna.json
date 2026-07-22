@@ -1,0 +1,193 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:1bce4569bb6b5703ed3f5b6d2cc6c62cf46ebf43633245fe9a1a7885c994961a",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "głodny",
+        "przyjdź",
+        "Paschę",
+        "święcić",
+        "pragnienie"
+      ],
+      "summary": "Zaproszenie głodnych i spragnionych do wspólnego świętowania Paschy – echo wezwania Chrystusa (J 7,37; Iz 55,1).",
+      "bible": [
+        "J 7,37",
+        "Iz 55,1"
+      ],
+      "text": [
+        "Jesteś głodny,",
+        "przyjdź i Paschę z nami święć.",
+        "masz pragnienie,",
+        "przyjdź i Paschę z nami święć."
+      ]
+    },
+    {
+      "range": "5-12",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "niewola",
+        "ręka",
+        "faraon",
+        "wolny",
+        "Pan",
+        "Izrael",
+        "Święty",
+        "Egipt",
+        "uwolnić",
+        "dzieci",
+        "pęta"
+      ],
+      "summary": "Wspomnienie przejścia z niewoli egipskiej do wolności; Święty (Bóg) uwolnił Izraela – sedno Hagady paschalnej (Wj 12; Wj 14).",
+      "bible": [
+        "Wj 12",
+        "Wj 14"
+      ],
+      "text": [
+        "Wczoraj w niewoli,",
+        "zgięci pod ręką faraona,",
+        "dzisiaj wolni",
+        "z Panem naszym w Izraelu.",
+        "Gdyby Święty do nas nie przyszedł,",
+        "by nas z Egiptu uwolnić,",
+        "my i nasze dzieci",
+        "bylibyśmy w pętach wciąż."
+      ]
+    },
+    {
+      "range": "13-14",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "Wskazanie powtórzenia refrenu 'Jesteś głodny...'.",
+      "bible": [],
+      "text": [
+        "Jesteś głodny, …",
+        ""
+      ]
+    },
+    {
+      "range": "15-19",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "chleb",
+        "udręczenie",
+        "spożywać",
+        "fermentować",
+        "pośpiech",
+        "zbawić",
+        "Pan"
+      ],
+      "summary": "Chleb udręczenia (maca) – znak pośpiesznego wybawienia przez Pana; przymus Egiptu a dar wolności (Pwt 16,3).",
+      "bible": [
+        "Pwt 16,3",
+        "Wj 12,34",
+        "Wj 12,39"
+      ],
+      "text": [
+        "To jest chleb udręczenia,",
+        "chleb spożywany tam.",
+        "nie miał czasu, by fermentować,",
+        "bo w pośpiechu zbawiał Pan.",
+        "Jesteś głodny, …"
+      ]
+    },
+    {
+      "range": "20-24",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dziękować",
+        "Pan",
+        "Bóg",
+        "kraj",
+        "dar",
+        "prawo",
+        "przymierze"
+      ],
+      "summary": "Dziękczynienie za dar ziemi, Tory i przymierza – trzy dary Paschy: ziemia, Prawo, Przymierze (Wj 19-24).",
+      "bible": [
+        "Wj 19-24"
+      ],
+      "text": [
+        "Dzięki Ci, Panie, nasz Boże,",
+        "za kraj, który nam dałeś,",
+        "za dar prawa i przymierza,",
+        "które z nami uczyniłeś.",
+        "Jesteś głodny, …"
+      ]
+    },
+    {
+      "range": "25-29",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwalić",
+        "błogosławić",
+        "sprawić",
+        "ból",
+        "radość",
+        "przenieść",
+        "śpiewać",
+        "Alleluja"
+      ],
+      "summary": "Hymn uwielbienia Boga, który przeniósł z bólu do radości; wezwanie do śpiewu Alleluja (na wzór Hallelu – Ps 113-118).",
+      "bible": [
+        "Ps 113-118"
+      ],
+      "text": [
+        "Chwalimy i błogosławimy Tego,",
+        "który to wszystko sprawił.",
+        "On nas z bólu do radości przeniósł,",
+        "śpiewajmy Mu: Alleluja!",
+        "Jesteś głodny, …"
+      ]
+    },
+    {
+      "range": "1-29",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Paschę",
+        "święcić",
+        "Haggada",
+        "niewola",
+        "Egipt",
+        "faraon",
+        "wolność",
+        "chleb",
+        "udręczenie",
+        "przymierze",
+        "prawo",
+        "ziemia obiecana",
+        "wyzwolenie",
+        "dziękczynienie",
+        "hallel",
+        "Alleluja",
+        "Święty",
+        "Izrael",
+        "radość",
+        "zbawienie",
+        "pośpiech",
+        "Mojżesz",
+        "Exodus"
+      ],
+      "summary": "Pieśń inspirowana żydowską Haggadą Paschalną, oparta na opowiadaniu o wyjściu z Egiptu. Refren zaprasza wszystkich głodnych i spragnionych do świętowania Paschy (Iz 55,1; J 7,37). Kolejne zwrotki opisują: wyzwolenie z niewoli, chleb udręczenia (macę), dary przymierza i radosne dziękczynienie. Typologia: Pascha żydowska prefiguruje Paschę Chrystusa (1 Kor 5,7; Łk 22,15-20); wyjście z Egiptu typologicznie zapowiada chrzest i wyzwolenie z grzechu.",
+      "bible": [
+        "Wj 12-14",
+        "Wj 19-24",
+        "Pwt 16,3",
+        "Iz 55,1",
+        "Ps 113-118",
+        "J 7,37",
+        "1 Kor 5,7",
+        "Łk 22,15-20"
+      ]
+    }
+  ]
+}

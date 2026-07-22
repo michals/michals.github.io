@@ -1,0 +1,283 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:675253ae00c47ea03fb6ee571332760f4832da7fcf35a69c89d16c24cb28c421",
+  "songs_analysis": [
+    {
+      "type": "refren",
+      "range": "1-4",
+      "keywords": [
+        "gniew",
+        "złoczyńca",
+        "zazdrościć",
+        "zło",
+        "czynić",
+        "zniknąć",
+        "trawa",
+        "zwiędnąć",
+        "zieleń",
+        "świeży"
+      ],
+      "bible": [
+        "Ps 37, 1-2"
+      ],
+      "sentiment": "neutralny",
+      "summary": "Zachęta do powstrzymania gniewu na złoczyńców, którzy przeminą jak trawa",
+      "text": [
+        "Nie unoś się gniewem na złoczyńców,",
+        "ani nie zazdrość tym, co zło czynią.",
+        "Oni tak znikną, jak niknie trawa",
+        "i [F(7)]zwiędną, jak świeża zieleń."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "6-9",
+      "keywords": [
+        "zaufać",
+        "Pan",
+        "postępować",
+        "dobrze",
+        "mieszkać",
+        "ziemia",
+        "wierność",
+        "rozkosz",
+        "Bóg",
+        "serce",
+        "pragnąć",
+        "ufność",
+        "zachować"
+      ],
+      "bible": [
+        "Ps 37, 3-4"
+      ],
+      "sentiment": "radosny",
+      "summary": "Wezwanie do ufności Panu i czynienia dobra, z obietnicą spełnienia pragnień serca",
+      "text": [
+        "Zaufaj swemu Panu, postępuj dobrze,",
+        "mieszkaj w swojej ziemi, zachowaj wierność.",
+        "Niech Pan Bóg będzie dla ciebie rozkoszą,",
+        "On da ci to, czego zapragnie twoje serce."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "11-14",
+      "keywords": [
+        "droga",
+        "Pan",
+        "zaufać",
+        "działać",
+        "sprawiedliwość",
+        "blask",
+        "słoneczny",
+        "wierność",
+        "powierzyć",
+        "zabłysnąć"
+      ],
+      "bible": [
+        "Ps 37, 5-6"
+      ],
+      "sentiment": "radosny",
+      "summary": "Zachęta do powierzenia Panu swojej drogi, który wyprowadzi sprawiedliwość jak światło",
+      "text": [
+        "Powierz swoją drogę Panu, Jemu zaufaj,",
+        "zaufaj Jemu, On będzie działał;",
+        "sprawi, że zabłyśnie twoja sprawiedliwość,",
+        "słonecznym blaskiem twoja wierność."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "16-19",
+      "keywords": [
+        "gniew",
+        "złoczyńca",
+        "zazdrościć",
+        "zło",
+        "zniknąć",
+        "trawa",
+        "zwiędnąć",
+        "zieleń"
+      ],
+      "bible": [
+        "Ps 37, 1-2"
+      ],
+      "sentiment": "neutralny",
+      "summary": "Powtórzenie wezwania do powstrzymania gniewu wobec złoczyńców",
+      "text": [
+        "Nie unoś się gniewem na złoczyńców,",
+        "ani nie zazdrość tym, co zło czynią.",
+        "Oni tak znikną, jak niknie trawa",
+        "i [F(7)]zwiędną, jak świeża zieleń."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "21-24",
+      "keywords": [
+        "milczenie",
+        "Pan",
+        "zaufać",
+        "gniew",
+        "tryumfować",
+        "kłamstwo",
+        "nadzieja",
+        "cierpliwość",
+        "zostać"
+      ],
+      "bible": [
+        "Ps 37, 7"
+      ],
+      "sentiment": "błagalny",
+      "summary": "Wezwanie do trwania w milczeniu przed Panem i pokładania w Nim nadziei mimo pozornego triumfu zła",
+      "text": [
+        "Zostań w milczeniu przed Panem, Jemu zaufaj,",
+        "nie unoś się gniewem, że ktoś tryumfuje,",
+        "że tryumfuje, mówiąc kłamstwa;",
+        "zaufaj Panu, miej w Nim nadzieję."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "26-29",
+      "keywords": [
+        "gniew",
+        "złoczyńca",
+        "zazdrościć",
+        "zło",
+        "zniknąć",
+        "trawa",
+        "zwiędnąć",
+        "zieleń"
+      ],
+      "bible": [
+        "Ps 37, 1-2"
+      ],
+      "sentiment": "neutralny",
+      "summary": "Powtórzenie refrenu o przemijaniu złoczyńców",
+      "text": [
+        "Nie unoś się gniewem na złoczyńców,",
+        "ani nie zazdrość tym, co zło czynią.",
+        "Oni tak znikną, jak niknie trawa",
+        "i [F(7)]zwiędną, jak świeża zieleń."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "31-34",
+      "keywords": [
+        "gniew",
+        "zaniechać",
+        "oburzenie",
+        "rozdrażniać",
+        "zło",
+        "wykluczyć",
+        "ufać",
+        "Pan",
+        "ziemia",
+        "posiąść",
+        "odrzucenie",
+        "wybranie"
+      ],
+      "bible": [
+        "Ps 37, 8-9"
+      ],
+      "sentiment": "neutralny",
+      "summary": "Przestroga przed gniewem i rozdrażnieniem; kto ufa Panu, posiądzie ziemię",
+      "text": [
+        "Zaniechaj gniewu, złóż oburzenie,",
+        "nie rozdrażniaj się, byś zła nie czynił,",
+        "kto czyni zło, będzie wykluczony,",
+        "ale kto ufa Panu, posiądzie ziemię."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "36-39",
+      "keywords": [
+        "zaczekać",
+        "chwila",
+        "przewrotny",
+        "zniknąć",
+        "cisi",
+        "ziemia",
+        "posiąść",
+        "pokój",
+        "wielki",
+        "cierpliwość",
+        "cichość",
+        "błogosławieństwo"
+      ],
+      "bible": [
+        "Ps 37, 10-11",
+        "Mt 5, 5"
+      ],
+      "sentiment": "radosny",
+      "summary": "Obietnica, że cisi posiądą ziemię i będą cieszyć się pokojem",
+      "text": [
+        "Zaczekaj krótką chwilę, a już przewrotny zniknął,",
+        "spójrz na jego miejsce, już go tam nie ma.",
+        "Za to cisi posiądą ziemię,",
+        "cieszą się pokojem, wielkim pokojem."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "41-44",
+      "keywords": [
+        "gniew",
+        "złoczyńca",
+        "zazdrościć",
+        "zło",
+        "zniknąć",
+        "trawa",
+        "zwiędnąć",
+        "zieleń",
+        "przemijanie"
+      ],
+      "bible": [
+        "Ps 37, 1-2"
+      ],
+      "sentiment": "neutralny",
+      "summary": "Końcowe powtórzenie refrenu",
+      "text": [
+        "Nie unoś się gniewem na złoczyńców,",
+        "ani nie zazdrość tym, co zło czynią.",
+        "Oni tak znikną, jak niknie trawa",
+        "i [F(7)]zwiędną, jak świeża zieleń."
+      ]
+    },
+    {
+      "type": "całość",
+      "range": "1-44",
+      "keywords": [
+        "gniew",
+        "złoczyńca",
+        "zaufać",
+        "Pan",
+        "ufność",
+        "cierpliwość",
+        "milczenie",
+        "sprawiedliwość",
+        "cisi",
+        "pokój",
+        "ziemia",
+        "posiąść",
+        "przemijanie",
+        "trawa",
+        "nadzieja",
+        "wierność",
+        "dobrze czynić",
+        "serce",
+        "słoneczny",
+        "blask"
+      ],
+      "bible": [
+        "Ps 37, 1-11",
+        "Mt 5, 5"
+      ],
+      "sentiment": "dziękczynny",
+      "summary": "Pieśń oparta na Psalmie 37 wzywa do ufności Panu i powstrzymania gniewu wobec złoczyńców, obiecując, że cisi posiądą ziemię i będą cieszyć się pokojem"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:245451ff365ebc2543e7236edcd666e247875873ecabbe813e3967582aa31b25",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "anioł",
+        "zstępować",
+        "niebo",
+        "nowina",
+        "narodzić się",
+        "Zbawiciel"
+      ],
+      "summary": "Anioł zstępuje z nieba, przynosząc pasterzom radosną nowinę o narodzinach Zbawiciela (Łk 2,9-12).",
+      "bible": [
+        "Łk 2,9-12"
+      ],
+      "text": [
+        "Anioł zstępuje z nieba",
+        "przynosząc wielką nowinę:",
+        "„Dziś nam się narodził,",
+        "dziś narodził się Zbawiciel.”",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "allegria",
+        "radość",
+        "narodzić się",
+        "Zbawiciel",
+        "odpoczywać",
+        "żłób",
+        "Chrystus",
+        "Odkupiciel"
+      ],
+      "summary": "Radosne wezwanie do radości z powodu narodzin Chrystusa Odkupiciela spoczywającego w żłobie.",
+      "bible": [
+        "Łk 2,11-12"
+      ],
+      "text": [
+        "Allegria, allegria, allegria,",
+        "dziś narodził się Zbawiciel.",
+        "Odpoczywa teraz w żłobie,",
+        "to Chrystus nasz Odkupiciel!",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "owinąć",
+        "pieluszka",
+        "położyć",
+        "żłób",
+        "znak",
+        "narodzić się",
+        "Zbawiciel"
+      ],
+      "summary": "Dziecię owinięte w pieluszki i położone w żłobie jako znak dla pasterzy (Łk 2,12).",
+      "bible": [
+        "Łk 2,12"
+      ],
+      "text": [
+        "Owinięty w czyste pieluszki,",
+        "położony w żłóbku.",
+        "I to będzie znakiem,",
+        "że narodził się Zbawiciel.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "allegria",
+        "radość",
+        "Zbawiciel",
+        "Chrystus",
+        "Odkupiciel",
+        "żłób"
+      ],
+      "summary": "Radosny refren o Chrystusie Odkupicielu w żłobie.",
+      "bible": [
+        "Łk 2,11"
+      ],
+      "text": [
+        "Allegria, allegria, allegria,",
+        "dziś narodził się Zbawiciel.",
+        "Odpoczywa teraz w żłobie,",
+        "to Chrystus nasz Odkupiciel!",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "stajnia",
+        "Betlejem",
+        "przybyć",
+        "pasterz",
+        "przynosić",
+        "dar",
+        "Zbawiciel"
+      ],
+      "summary": "Pasterze przybywają do stajni betlejemskiej, przynosząc dary nowo narodzonemu Zbawicielowi (Łk 2,15-16).",
+      "bible": [
+        "Łk 2,15-16"
+      ],
+      "text": [
+        "Do stajni Betlejemskiej",
+        "przybyli już pasterze.",
+        "Nadchodzą przynosząc",
+        "liczne dary Zbawicielowi.",
+        ""
+      ]
+    },
+    {
+      "range": "26-30",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "allegria",
+        "radość",
+        "Zbawiciel",
+        "Chrystus",
+        "Odkupiciel",
+        "żłób"
+      ],
+      "summary": "Radosny refren o Chrystusie Odkupicielu w żłobie.",
+      "bible": [
+        "Łk 2,11"
+      ],
+      "text": [
+        "Allegria, allegria, allegria,",
+        "dziś narodził się Zbawiciel.",
+        "Odpoczywa teraz w żłobie,",
+        "to Chrystus nasz Odkupiciel!",
+        ""
+      ]
+    },
+    {
+      "range": "31-35",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "spotkać",
+        "Maryja",
+        "Józef",
+        "poznać",
+        "wół",
+        "osioł",
+        "dziecię",
+        "Emmanuel"
+      ],
+      "summary": "Pasterze spotykają Maryję, Józefa oraz zwierzęta przy żłobie; Dziecię nazwane Emmanuel – Bóg z nami (Iz 7,14).",
+      "bible": [
+        "Łk 2,16",
+        "Iz 7,14"
+      ],
+      "text": [
+        "Spotkali tam Maryję,",
+        "Józefa też poznali.",
+        "Wołu, osiołka i dziecię,",
+        "co Emmanuel będzie zwane.",
+        ""
+      ]
+    },
+    {
+      "range": "36-40",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "allegria",
+        "radość",
+        "Zbawiciel",
+        "Chrystus",
+        "Odkupiciel",
+        "żłób"
+      ],
+      "summary": "Radosny refren o Chrystusie Odkupicielu w żłobie.",
+      "bible": [
+        "Łk 2,11"
+      ],
+      "text": [
+        "Allegria, allegria, allegria,",
+        "dziś narodził się Zbawiciel.",
+        "Odpoczywa teraz w żłobie,",
+        "to Chrystus nasz Odkupiciel!",
+        ""
+      ]
+    },
+    {
+      "range": "41-45",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "wół",
+        "rozpoznawać",
+        "Pan",
+        "osioł",
+        "żłób",
+        "właściciel",
+        "Izrael",
+        "nie poznawać"
+      ],
+      "summary": "Kontrast między zwierzętami rozpoznającymi swego Pana a Izraelem, który nie poznaje Mesjasza – wypełnienie Iz 1,3 i zapowiedź J 1,11.",
+      "bible": [
+        "Iz 1,3",
+        "J 1,11"
+      ],
+      "text": [
+        "Wół rozpoznaje Pana,",
+        "a osioł żłób właściciela.",
+        "lecz Izrael nie poznaje,",
+        "nie poznaje swego Pana.",
+        ""
+      ]
+    },
+    {
+      "range": "46-49",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "allegria",
+        "radość",
+        "Zbawiciel",
+        "Chrystus",
+        "Odkupiciel",
+        "żłób"
+      ],
+      "summary": "Radosny refren o Chrystusie Odkupicielu w żłobie.",
+      "bible": [
+        "Łk 2,11"
+      ],
+      "text": [
+        "Allegria, allegria, allegria,",
+        "dziś narodził się Zbawiciel.",
+        "odpoczywa teraz w żłobie,",
+        "to Chrystus nasz Odkupiciel!"
+      ]
+    },
+    {
+      "range": "1-49",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "anioł",
+        "zwiastowanie",
+        "pasterz",
+        "Betlejem",
+        "stajnia",
+        "żłób",
+        "Maryja",
+        "Józef",
+        "wół",
+        "osioł",
+        "Emmanuel",
+        "Zbawiciel",
+        "Chrystus",
+        "Odkupiciel",
+        "dziecię",
+        "Izrael",
+        "narodzenie",
+        "Wcielenie",
+        "Mesjasz",
+        "radość",
+        "łaska",
+        "dar",
+        "znak",
+        "nowina",
+        "niebo"
+      ],
+      "summary": "Pieśń bożonarodzeniowa oparta na Łk 2,9-16 i Iz 1,3. Anioł zwiastuje pasterzom narodzenie Zbawiciela. Kolejne zwrotki opisują znak w żłobie, przybycie pasterzy, Świętą Rodzinę ze zwierzętami oraz dramatyczne proroctwo: zwierzęta rozpoznają Pana, lecz Izrael Go nie poznaje. Typologia: żłób jako ołtarz Ofiary, Iz 1,3 prefiguruje odrzucenie Chrystusa przez swój naród (J 1,11).",
+      "bible": [
+        "Łk 2,9-16",
+        "Iz 7,14",
+        "Iz 1,3",
+        "J 1,11"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:08ebdb77a7435cd479a8a743515de2b79c5bb68cd649c994781ff6232fb8130d",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Syjon",
+        "Zbawiciel",
+        "chwała",
+        "hymn",
+        "wesele",
+        "Pasterz",
+        "Wódz"
+      ],
+      "summary": "Wezwanie Syjonu (Kościoła) do radosnego wielbienia Chrystusa-Zbawiciela jako Pasterza i Wodza.",
+      "bible": [
+        "J 10,11",
+        "Hbr 13,20",
+        "Ap 7,17"
+      ],
+      "text": [
+        "Chwal Syjonie Zbawiciela,",
+        "chwal hymnami wśród wesela",
+        "Wodza i Pasterza rzesz!"
+      ]
+    },
+    {
+      "range": "4-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "chleb Aniołów",
+        "wędrowcy",
+        "Ojciec",
+        "powrót",
+        "manna",
+        "Eucharystia",
+        "chwała"
+      ],
+      "summary": "Chleb Aniołów, dany wędrowcom na drodze życia, przywraca synów do domu Ojca.",
+      "bible": [
+        "J 6,31-35",
+        "J 6,48-51",
+        "Wj 16",
+        "Rdz 14,18"
+      ],
+      "text": [
+        "",
+        "Oto chleb Aniołów błogi,",
+        "dan wędrowcom pośród drogi,",
+        "synów wraca w Ojca progi.",
+        "Ile zdołasz sław Go śmiało,",
+        "bo przewyższa wszystko chwałą,",
+        "co wyśpiewać pieśnią chcesz!"
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Syjon",
+        "Zbawiciel",
+        "chwała",
+        "hymn",
+        "wesele",
+        "Pasterz"
+      ],
+      "summary": "Powtórzone wezwanie do wielbienia Chrystusa.",
+      "bible": [],
+      "text": [
+        "Chwal Syjonie Zbawiciela,",
+        "chwal hymnami wśród wesela",
+        "Wodza i Pasterza rzesz!",
+        ""
+      ]
+    },
+    {
+      "range": "15-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chleb żyjących",
+        "pokarm żywy",
+        "Wieczerza",
+        "Dwunastu",
+        "ustanowienie",
+        "Ciało",
+        "Krew"
+      ],
+      "summary": "Chrystus podczas Ostatniej Wieczerzy dał Dwunastu swoje Ciało i Krew pod postaciami chleba i wina.",
+      "bible": [
+        "Mt 26,26-29",
+        "Mk 14,22-25",
+        "Łk 22,14-20",
+        "1 Kor 11,23-26"
+      ],
+      "text": [
+        "Chwały przedmiot nad podziwy,",
+        "Chleb żyjących, pokarm żywy,",
+        "dzisiaj się przedkłada nam.",
+        "Za wieczerzy świętym stołem",
+        "Pan go łamiąc z braćmi społem,",
+        "iście dał Dwunastu sam."
+      ]
+    },
+    {
+      "range": "21-24",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Syjon",
+        "Zbawiciel",
+        "chwała",
+        "wesele"
+      ],
+      "summary": "Powtórzone wezwanie do wielbienia Zbawiciela.",
+      "bible": [],
+      "text": [
+        "Chwal Syjonie Zbawiciela,",
+        "chwal hymnami wśród wesela",
+        "Wodza i Pasterza rzesz!",
+        ""
+      ]
+    },
+    {
+      "range": "25-30",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "uwielbienie",
+        "Król chwał",
+        "uroczystość",
+        "stół",
+        "pamięć",
+        "Ofiara"
+      ],
+      "summary": "Uroczysty dzień Bożego Ciała ustanowiono, by przekazać pamięć o tym, jak chleb i wino stały się sakramentem Ciała i Krwi.",
+      "bible": [
+        "Ps 24,7-10",
+        "1 Kor 11,24-25"
+      ],
+      "text": [
+        "Z pełnej piersi niech brzmią pienia,",
+        "wdzięcznym hołdem uwielbienia",
+        "sławmy gromko Króla chwał!",
+        "Uroczysty dzień się święci,",
+        "co przekazać ma pamięci,",
+        "jak się stół ten prawem stał."
+      ]
+    },
+    {
+      "range": "31-34",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Syjon",
+        "Zbawiciel",
+        "chwała",
+        "hymn",
+        "Pasterz"
+      ],
+      "summary": "Powtórzone wezwanie do wielbienia Chrystusa-Pasterza.",
+      "bible": [],
+      "text": [
+        "Chwal Syjonie Zbawiciela,",
+        "chwal hymnami wśród wesela",
+        "Wodza i Pasterza rzesz!",
+        ""
+      ]
+    },
+    {
+      "range": "35-40",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pamiątka",
+        "Wieczerza",
+        "chleb",
+        "wino",
+        "Ofiara bezkrwawa",
+        "odkupienie",
+        "Chrystus"
+      ],
+      "summary": "Chrystus nakazał spełniać Eucharystię na Jego pamiątkę; Kościół składa bezkrwawą Ofiarę odkupienia.",
+      "bible": [
+        "Łk 22,19",
+        "1 Kor 11,24-25",
+        "Hbr 9,11-14",
+        "Ml 1,11"
+      ],
+      "text": [
+        "Co uczynił przy wieczerzy,",
+        "Chrystus wskazał, że należy",
+        "spełniać dla pamięci nań.",
+        "Pouczeni tą ustawą,",
+        "chleb i wino na bezkrwawą",
+        "Odkupienia święcim dań."
+      ]
+    },
+    {
+      "range": "41-44",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Syjon",
+        "Zbawiciel",
+        "chwała",
+        "hymn",
+        "Pasterz"
+      ],
+      "summary": "Powtórzone wezwanie do wielbienia Chrystusa.",
+      "bible": [],
+      "text": [
+        "Chwal Syjonie Zbawiciela,",
+        "chwal hymnami wśród wesela",
+        "Wodza i Pasterza rzesz!",
+        ""
+      ]
+    },
+    {
+      "range": "45-50",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dogmat",
+        "wiara",
+        "Ciało",
+        "Krew",
+        "przeistoczenie",
+        "sakrament",
+        "tajemnica"
+      ],
+      "summary": "Dogmat przeistoczenia: chleb staje się Ciałem, wino Krwią Chrystusa; wiara przewyższa zmysły i porządek natury.",
+      "bible": [
+        "J 6,54-56",
+        "1 Kor 11,27",
+        "KK 4"
+      ],
+      "text": [
+        "Dogmat dan jest do wierzenia,",
+        "że się w Ciało chleb przemienia,",
+        "wino zaś w Najświętszą Krew.",
+        "Gdzie zmysł darmo dojść się stara,",
+        "serca żywa krzepi wiara,",
+        "porządkowi rzeczy wbrew."
+      ]
+    },
+    {
+      "range": "51-54",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Syjon",
+        "Zbawiciel",
+        "chwała",
+        "hymn"
+      ],
+      "summary": "Powtórzone wezwanie do wielbienia Chrystusa w Eucharystii.",
+      "bible": [],
+      "text": [
+        "Chwal Syjonie Zbawiciela,",
+        "chwal hymnami wśród wesela",
+        "Wodza i Pasterza rzesz!",
+        ""
+      ]
+    },
+    {
+      "range": "55-70",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "figura",
+        "znaki",
+        "Ciało",
+        "Krew",
+        "Chrystus",
+        "Bóstwo",
+        "komunia",
+        "niepodzielność",
+        "hostia",
+        "tysiąc"
+      ],
+      "summary": "Pod postaciami eucharystycznymi Chrystus żyje w pełni; Komunia nie dzieli Go – każdy przyjmuje całego Chrystusa.",
+      "bible": [
+        "J 6,56",
+        "1 Kor 10,16-17",
+        "KK 2"
+      ],
+      "text": [
+        "Pod odmiennych szat figurą,",
+        "w znakach różnych, nie naturą,",
+        "kryje się tajemnic dziw.",
+        "Ciało strawą, Krew napojem,",
+        "cały jednak z Bóstwem swoim",
+        "w obu znakach Chrystus żyw.",
+        "Chwal Syjonie Zbawiciela,",
+        "chwal hymnami wśród wesela",
+        "Wodza i Pasterza rzesz!",
+        "Przez biorących nie łamany,",
+        "nie pokruszon, bez odmiany,",
+        "cały jest w tej uczcie bran.",
+        "Bierze jeden, tysiąc bierze,",
+        "ten, jak tamci, w równej mierze,",
+        "wzięty zaś nie ginie Pan.",
+        ""
+      ]
+    },
+    {
+      "range": "71-74",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Syjon",
+        "Zbawiciel",
+        "chwała",
+        "hymn",
+        "wesele",
+        "Pasterz"
+      ],
+      "summary": "Powtórzone wezwanie do wielbienia Chrystusa.",
+      "bible": [],
+      "text": [
+        "Chwal Syjonie Zbawiciela,",
+        "chwal hymnami wśród wesela",
+        "Wodza i Pasterza rzesz!",
+        ""
+      ]
+    },
+    {
+      "range": "75-77",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Dusz Pasterz",
+        "Chleb prawy",
+        "Jezus",
+        "prośba",
+        "opieka",
+        "niebo",
+        "raj"
+      ],
+      "summary": "Błagalna modlitwa do Jezusa – Dusz Pasterza i Prawdziwego Chleba – o pasterską opiekę i dar życia wiecznego w niebie.",
+      "bible": [
+        "J 10,11-14",
+        "J 6,48-51",
+        "Ap 2,7"
+      ],
+      "text": [
+        "Dusz Pasterzu! Prawy Chlebie!",
+        "Dobry Jezu, prosim Ciebie:",
+        "Ty nas paś i broń w potrzebie,Ty nam dobra okaż w niebie,kędy jest żyjących raj."
+      ]
+    },
+    {
+      "range": "78-80",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Syjon",
+        "Zbawiciel",
+        "chwała",
+        "hymn",
+        "Pasterz"
+      ],
+      "summary": "Powtórzone wezwanie do wielbienia Chrystusa.",
+      "bible": [],
+      "text": [
+        "Chwal Syjonie Zbawiciela,",
+        "chwal hymnami wśród wesela",
+        "Wodza i Pasterza rzesz!"
+      ]
+    },
+    {
+      "range": "81-83",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "moc",
+        "Pan",
+        "karmienie",
+        "stół",
+        "uczta",
+        "niebianie",
+        "łono",
+        "wieczność"
+      ],
+      "summary": "Prośba o dopuszczenie do wiecznej uczty w niebie, gdzie Chrystus karmi wybranych z Twego świętego stoła.",
+      "bible": [
+        "Mt 26,29",
+        "Łk 22,30",
+        "Ap 19,9"
+      ],
+      "text": [
+        "Moc Twa, Panie, wszystko zdoła",
+        "Ty nas karmisz z Twego stoła,",
+        "tam gdzie uczta trwa wesoła,w gronie niebian nasze czołana Twe łono skłonić daj."
+      ]
+    },
+    {
+      "range": "84-87",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Syjon",
+        "Zbawiciel",
+        "chwała",
+        "hymn",
+        "Pasterz"
+      ],
+      "summary": "Powtórzone wezwanie do wielbienia Chrystusa.",
+      "bible": [],
+      "text": [
+        "Chwal Syjonie Zbawiciela,",
+        "chwal hymnami wśród wesela",
+        "Wodza i Pasterza rzesz!",
+        ""
+      ]
+    },
+    {
+      "range": "88-90",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Lauda",
+        "Sion",
+        "Salvator",
+        "dux",
+        "pastor",
+        "hymn",
+        "canticum"
+      ],
+      "summary": "Łacińska doksologia rozpoczynająca sekwencję: 'Chwal Syjonie Zbawiciela, chwal Wodza i Pasterza w hymnach i pieśniach'.",
+      "bible": [],
+      "text": [
+        "Lauda Sion Salvatorem,",
+        "Lauda ducem et pastorem,",
+        "In hymnis et canticis"
+      ]
+    },
+    {
+      "range": "1-90",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Eucharystia",
+        "Ciało",
+        "Krew",
+        "przeistoczenie",
+        "Chrystus",
+        "Ofiara",
+        "Sakrament",
+        "Chleb żywy",
+        "Komunia",
+        "Wieczerza",
+        "Kapłaństwo",
+        "adoracja",
+        "wiara",
+        "niebo",
+        "Syjon",
+        "Pasterz"
+      ],
+      "summary": "Sekwencja 'Lauda Sion' św. Tomasza z Akwinu na uroczystość Bożego Ciała – systematyczny wykład teologii eucharystycznej: przeistoczenie, rzeczywista obecność Chrystusa pod postaciami chleba i wina, niewyobrażalna jedność Komunii Świętej oraz eschatologiczna nadzieja uczty w niebie; typologicznie nawiązuje do manny na pustyni, ofiary Melchizedeka i Baranka Paschalnego, znajdując wypełnienie w Ostatniej Wieczerzy i bezkrwawej Ofierze Mszy Świętej.",
+      "bible": [
+        "J 6,48-58",
+        "Mt 26,26-29",
+        "Mk 14,22-25",
+        "Łk 22,14-20",
+        "1 Kor 11,23-26",
+        "Hbr 7,1-28",
+        "Hbr 9,11-14",
+        "Wj 16",
+        "Rdz 14,18",
+        "Ap 19,9"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:85512124654339a43b846ec1914127a1250f572df6f4d59fbf6efd70a9ef6006",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "Matka",
+        "droga gorejąca",
+        "ogień",
+        "namiętność",
+        "rosa",
+        "wstawiennictwo",
+        "uwolnienie",
+        "grzech",
+        "oczyszczenie"
+      ],
+      "summary": "Maryja jako Matka drogi gorejącej uwalnia od ognia namiętności rosą swojego wstawiennictwa – obraz Matki chroniącej przed ogniem grzechu i pożądliwości.",
+      "bible": [
+        "Syr 24, 24-27",
+        "J 19, 26-27",
+        "1 J 2, 15-17"
+      ],
+      "text": [
+        "Maryjo, Matko drogi gorejącej,",
+        "",
+        "Ty nas uwalniasz od ognia namiętności",
+        "rosą Twojego wstawiennictwa.",
+        ""
+      ]
+    },
+    {
+      "range": "6-11",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "cicha",
+        "niepokalana",
+        "anioł stróż",
+        "trzecie milenium",
+        "skarbnica",
+        "łaska",
+        "cnota",
+        "piękno",
+        "Jeruzalem niebieskie",
+        "Niepokalane Poczęcie",
+        "Kościół"
+      ],
+      "summary": "Uwielbienie Maryi jako Niepokalanej, skarbnicy łask i obrazu wszelkiej cnoty, której piękno wyśpiewuje niebieskie Jeruzalem – eschatologiczna wizja Maryi w chwale nieba.",
+      "bible": [
+        "Łk 1, 28",
+        "Ap 12, 1",
+        "Ap 21, 2",
+        "Ef 1, 3-6"
+      ],
+      "text": [
+        "Cicha Maryjo, wszystka niepokalana,",
+        "aniele stróżu trzeciego milenium,",
+        "skarbnico wszelkich łask,",
+        "obrazie każdej cnoty,",
+        "Twe piękno wyśpiewuje Jeruzalem niebieskie.",
+        ""
+      ]
+    },
+    {
+      "range": "12-17",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "droga",
+        "krzyż",
+        "przyjęcie",
+        "Syn",
+        "Jezus Chrystus",
+        "konanie",
+        "Matka",
+        "Kościół",
+        "odrzucenie",
+        "zbawienie"
+      ],
+      "summary": "Maryja ukazuje nam drogę i przyjmuje nas pod krzyżem – nawiązanie do sceny pod krzyżem (J 19, 25-27), gdzie Maryja staje się Matką Kościoła. Pytanie retoryczne o możliwość odmówienia Synowi konającemu na krzyżu.",
+      "bible": [
+        "J 19, 25-27",
+        "Łk 2, 34-35",
+        "Iz 53, 3-5"
+      ],
+      "text": [
+        "Ty ukazałaś nam drogę,",
+        "pod krzyżem przyjęłaś nas.",
+        "Matko drogi gorejącej,",
+        "pod krzyżem przyjęłaś nas.",
+        "Jakże powiedzieć: „nie”, Twemu Synowi, gdy kona.",
+        ""
+      ]
+    },
+    {
+      "range": "18-22",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "cicha",
+        "niepokalana",
+        "anioł stróż",
+        "trzecie milenium",
+        "skarbnica",
+        "łaska",
+        "cnota",
+        "piękno",
+        "Jeruzalem niebieskie",
+        "Niepokalane Poczęcie",
+        "eschatologia"
+      ],
+      "summary": "Uwielbienie Maryi jako Niepokalanej, skarbnicy łask i obrazu wszelkiej cnoty, której piękno wyśpiewuje niebieskie Jeruzalem – eschatologiczna wizja Maryi w chwale nieba.",
+      "bible": [
+        "Łk 1, 28",
+        "Ap 12, 1",
+        "Ap 21, 2",
+        "Ef 1, 3-6"
+      ],
+      "text": [
+        "Cicha Maryjo, wszystka niepokalana,",
+        "aniele stróżu trzeciego milenium,",
+        "skarbnico wszelkich łask,",
+        "obrazie każdej cnoty,",
+        "Twe piękno wyśpiewuje Jeruzalem niebieskie."
+      ]
+    },
+    {
+      "range": "1-22",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Matka",
+        "droga gorejąca",
+        "wstawiennictwo",
+        "Niepokalana",
+        "anioł stróż",
+        "trzecie milenium",
+        "łaska",
+        "cnota",
+        "krzyż",
+        "Syn",
+        "Jezus Chrystus",
+        "Jeruzalem niebieskie",
+        "adwent",
+        "eschatologia"
+      ],
+      "summary": "Adwentowy hymn maryjny ukazujący Maryję jako Matkę drogi gorejącej, która uwalnia od ognia namiętności i prowadzi do Chrystusa. Refren wychwala Ją jako Niepokalaną, skarbnicę łask i obraz wszelkiej cnoty, której piękno wyśpiewuje niebieskie Jeruzalem. Centralnym momentem jest scena pod krzyżem, gdzie Maryja przyjmuje nas jako swoje dzieci.",
+      "bible": [
+        "J 19, 25-27",
+        "Łk 1, 28",
+        "Łk 1, 38",
+        "Ap 12, 1",
+        "Ap 21, 2",
+        "Iz 53, 3-5"
+      ]
+    }
+  ]
+}

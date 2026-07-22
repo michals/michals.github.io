@@ -1,0 +1,276 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a26c4afd6e14d77aec8e1df1cfcbf21db4e1d3246c14a47f6ff4fd9e2b1bd521",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "tryumf",
+        "Król",
+        "niebo",
+        "zstąpić",
+        "pasterz",
+        "dobytek",
+        "stróż",
+        "śpiewanie",
+        "Jezus Chrystus",
+        "Boże Narodzenie",
+        "Wcielenie"
+      ],
+      "summary": "Tryumfy Króla Niebieskiego zstępują z nieba i budzą pasterzy śpiewem, zapowiadając radosne wydarzenie narodzenia Chrystusa.",
+      "bible": [
+        "Łk 2, 8-14"
+      ],
+      "text": [
+        "Tryumfy Króla niebieskiego,",
+        "zstąpiły z nieba wysokiego.",
+        "Pobudziły pasterzów,",
+        "dobytku swego stróżów,",
+        "śpiewaniem, śpiewaniem, śpiewaniem.",
+        ""
+      ]
+    },
+    {
+      "range": "7-12",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Bóg",
+        "wysokość",
+        "pokój",
+        "człowiek",
+        "niskość",
+        "Zbawiciel",
+        "Odkupiciel",
+        "dusza",
+        "narodzić się",
+        "ziemia",
+        "Jezus Chrystus"
+      ],
+      "summary": "Głoszenie chwały Bogu na wysokości i pokoju ludziom, ponieważ narodził się Zbawiciel i Odkupiciel dusz ludzkich.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Chwała bądź Bogu w wysokości,",
+        "a ludziom pokój na niskości.",
+        "Narodził się Zbawiciel,",
+        "dusz ludzkich Odkupiciel,",
+        "na ziemi, na ziemi, na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "13-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Dziewica",
+        "Bóg",
+        "rodzic",
+        "piekło",
+        "wybawić",
+        "niebo",
+        "pałac",
+        "potępić",
+        "wieczność",
+        "Wcielenie",
+        "Odkupienie"
+      ],
+      "summary": "Dziewica Maryja rodzi odwiecznego Boga bez ziemskiego ojca, aby wybawić ludzkość z piekła i zapewnić jej miejsce w niebieskich pałacach.",
+      "bible": [
+        "Łk 1, 34-35",
+        "J 1, 1-3"
+      ],
+      "text": [
+        "Zrodziła Maryja Dziewica,",
+        "wiecznego Boga bez rodzica.",
+        "By nas z piekła wybawił,",
+        "a w niebieskich postawił,",
+        "pałacach, pałacach, pałacach.",
+        ""
+      ]
+    },
+    {
+      "range": "19-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pasterz",
+        "podziwienie",
+        "tryumf",
+        "przyczyna",
+        "badać",
+        "światłość",
+        "jaśnieć",
+        "zdumienie",
+        "cud"
+      ],
+      "summary": "Pasterze zdumiewają się nadzwyczajnym zjawiskiem, usiłując zrozumieć przyczynę triumfalnej światłości rozświetlającej noc.",
+      "bible": [
+        "Łk 2, 15-18"
+      ],
+      "text": [
+        "Pasterze w podziwieniu stają,",
+        "tryumfu przyczynę badają.",
+        "Co się nowego dzieje,",
+        "że tak światłość jaśnieje,",
+        "nie wiedzą, nie wiedzą, nie wiedzą.",
+        ""
+      ]
+    },
+    {
+      "range": "25-30",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "dowiedzieć się",
+        "trzoda",
+        "odbiec",
+        "powitanie",
+        "Betlejem",
+        "stajnia",
+        "Dzieciątko",
+        "pasterz",
+        "wiara",
+        "posłuszeństwo"
+      ],
+      "summary": "Gdy pasterze rozpoznali w wydarzeniu działanie Boga, porzucili trzodę i pośpieszyli do betlejemskiej stajni, by powitać Dzieciątko.",
+      "bible": [
+        "Łk 2, 15-16"
+      ],
+      "text": [
+        "Że to Bóg, gdy się dowiedzieli,",
+        "swej trzody w polu odbieżeli,",
+        "śpiesząc na powitanie",
+        "do Betlejemskiej stajnie",
+        "Dzieciątka, Dzieciątka, Dzieciątka.",
+        ""
+      ]
+    },
+    {
+      "range": "31-36",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "światło",
+        "oświecić",
+        "pokora",
+        "uniżyć",
+        "Bóg",
+        "wyznać",
+        "serce",
+        "afekt",
+        "prawdziwy",
+        "Jezus Chrystus",
+        "adoracja",
+        "wiara"
+      ],
+      "summary": "Oświeceni niebiańskim światłem, pasterze pokornie oddają pokłon i wyznają Jezusa prawdziwym Bogiem z żywym sercem i uczuciem.",
+      "bible": [
+        "Łk 2, 20",
+        "Mt 16, 16"
+      ],
+      "text": [
+        "Niebieskim światłem oświeceni",
+        "pokornie przed Nim uniżeni,",
+        "Bogiem Go być prawdziwym,",
+        "sercem, afektem żywym",
+        "wyznają, wyznają, wyznają.",
+        ""
+      ]
+    },
+    {
+      "range": "37-42",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dar",
+        "ofiara",
+        "Dzieciątko",
+        "przyjąć",
+        "Narodzony",
+        "ochota",
+        "Pan",
+        "adoracja",
+        "hołd"
+      ],
+      "summary": "Pasterze składają Dzieciątku dary w ofierze, a podmiot liryczny włącza się w tę ofiarę, prosząc o przyjęcie darów z ochotą.",
+      "bible": [
+        "Mt 2, 11"
+      ],
+      "text": [
+        "I które mieli z sobą dary",
+        "Dzieciątku dają na ofiary.",
+        "Przyjmij o Narodzony,",
+        "nas i dar przyniesiony",
+        "z ochotą, z ochotą, z ochotą.",
+        ""
+      ]
+    },
+    {
+      "range": "43-47",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "cześć",
+        "Matka Boska",
+        "przykład",
+        "ślad",
+        "Theotokos",
+        "naśladowanie",
+        "stateczność"
+      ],
+      "summary": "Pasterze oddają cześć Maryi jako Matce Bożej, dając wiernym przykład do naśladowania na drodze statecznego pójścia za Chrystusem.",
+      "bible": [
+        "Łk 1, 43"
+      ],
+      "text": [
+        "A potem Maryi cześć dają,",
+        "Za Matkę Boską Ją uważają.",
+        "Tak nas uczą przykładem",
+        "Jak iść mamy ich śladem,",
+        "Statecznie, statecznie, statecznie."
+      ]
+    },
+    {
+      "range": "1-47",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "tryumf",
+        "Król",
+        "niebo",
+        "pasterz",
+        "Zbawiciel",
+        "Odkupiciel",
+        "Maryja",
+        "Dziewica",
+        "Bóg",
+        "adoracja",
+        "pokłon",
+        "dar",
+        "ofiara",
+        "chwała",
+        "pokój",
+        "Betlejem",
+        "Jezus Chrystus",
+        "Boże Narodzenie",
+        "Wcielenie"
+      ],
+      "summary": "Kolęda opisująca tryumfalne zstąpienie Króla Niebieskiego, budzące pasterzy do adoracji nowonarodzonego Zbawiciela. Zawiera elementy chrystologiczne (Bóg prawdziwy, Odkupiciel), maryjne (Dziewica - Matka Boga) i eschatologiczne (wybawienie z piekła, niebo).",
+      "bible": [
+        "Łk 2, 8-20",
+        "Łk 2, 14",
+        "Mt 2, 11",
+        "Łk 1, 34-35"
+      ]
+    }
+  ]
+}

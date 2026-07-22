@@ -1,0 +1,362 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:cb1ef5df1ddfb80ef07232610b05835e4277d28421ae13d52bb89233acb06166",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Betlejem",
+        "gospoda",
+        "stajnia",
+        "ubóstwo",
+        "odrzucenie",
+        "Narodzenie",
+        "zimno"
+      ],
+      "summary": "Brak miejsca dla Jezusa w Betlejem – narodził się w stajni w ubóstwie i chłodzie.",
+      "bible": [
+        "Łk 2, 7"
+      ],
+      "text": [
+        "Nie było miejsca dla Ciebie,",
+        "w Betlejem w żadnej gospodzie.",
+        "I narodziłeś się Jezu,",
+        "w stajni, w ubóstwie i chłodzie.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Zbawiciel",
+        "niewola",
+        "czart",
+        "Adam",
+        "grzech",
+        "odkupienie",
+        "ziemia",
+        "zbawienie"
+      ],
+      "summary": "Jezus zstąpił jako Zbawiciel, by wyrwać ludzkość z niewoli czarta – ale nie było dla Niego miejsca.",
+      "bible": [
+        "Łk 2, 7",
+        "Rz 5, 12-21",
+        "Rdz 3"
+      ],
+      "text": [
+        "Nie było miejsca choć zszedłeś,",
+        "jako Zbawiciel na ziemię,",
+        "by wyrwać z czarta niewoli,",
+        "nieszczęsne Adama plemię.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "ogień",
+        "miłość",
+        "Jezus Chrystus",
+        "Męka",
+        "zbawienie",
+        "ocalenie",
+        "zagłada",
+        "ofiara"
+      ],
+      "summary": "Jezus przyszedł zapalić ogień miłości i przez Mękę ocalić świat od zagłady.",
+      "bible": [
+        "Łk 12, 49-50",
+        "J 3, 16-17",
+        "J 15, 13"
+      ],
+      "text": [
+        "Nie było miejsca choć szedłeś,",
+        "ogień miłości zapalić,",
+        "i przez swą mękę najdroższą",
+        "świat od zagłady ocalić.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "lis",
+        "gniazdo",
+        "ptak",
+        "Jezus Chrystus",
+        "bezdomność",
+        "ubóstwo",
+        "żłóbek",
+        "odrzucenie"
+      ],
+      "summary": "Zwierzęta mają swoje nory i gniazda, a Syn Człowieczy nie miał miejsca – musiał szukać żłóbka.",
+      "bible": [
+        "Mt 8, 20",
+        "Łk 9, 58"
+      ],
+      "text": [
+        "Gdy lisy mają swe nory",
+        "i ptaki swoje gniazdeczka",
+        "dla Ciebie miejsca nie było,",
+        "musiałeś szukać żłóbeczka.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Jezus Chrystus",
+        "łza",
+        "cierpienie",
+        "dusza",
+        "odrzucenie",
+        "grzech",
+        "ludzkość",
+        "brak wiary"
+      ],
+      "summary": "Pytanie o przyczynę cierpienia na świecie – odpowiedź: bo nie ma miejsca dla Jezusa w ludzkich duszach.",
+      "bible": [
+        "J 1, 10-11"
+      ],
+      "text": [
+        "A czemuż, Jezu, na świecie,",
+        "tyle łez, jęków, katuszy?",
+        "Bo nie ma miejsca dla Ciebie,",
+        "w niejednej człowieczej duszy.",
+        ""
+      ]
+    },
+    {
+      "range": "26-30",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "ogień",
+        "miłość",
+        "Jezus Chrystus",
+        "Męka",
+        "zbawienie",
+        "ocalenie",
+        "zagłada",
+        "ofiara"
+      ],
+      "summary": "Powtórzenie refrenu – Jezus przyszedł zapalić ogień miłości i przez Mękę ocalić świat od zagłady.",
+      "bible": [
+        "Łk 12, 49-50",
+        "J 15, 13"
+      ],
+      "text": [
+        "Nie było miejsca choć szedłeś,",
+        "ogień miłości zapalić,",
+        "i przez swą mękę najdroższą",
+        "świat od zagłady ocalić.",
+        ""
+      ]
+    },
+    {
+      "range": "31-35",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Jezus Chrystus",
+        "ludzkość",
+        "przytulić",
+        "krzyż",
+        "grzesznik",
+        "zbawienie",
+        "ramiona",
+        "miłość"
+      ],
+      "summary": "Jezus chciał przytulić ludzkość do łona i podać z krzyża zbawcze ramiona grzesznikom.",
+      "bible": [
+        "J 3, 16",
+        "J 19, 34",
+        "Iz 53, 5"
+      ],
+      "text": [
+        "Nie było miejsca, choć chciałeś",
+        "ludzkość przytulić do łona",
+        "i podać z krzyża grzesznikom",
+        "zbawcze, skrwawione ramiona.",
+        ""
+      ]
+    },
+    {
+      "range": "36-40",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "ogień",
+        "miłość",
+        "Jezus Chrystus",
+        "Męka",
+        "zbawienie",
+        "ocalenie",
+        "zagłada",
+        "ofiara"
+      ],
+      "summary": "Wariant refrenu – Jezus zszedł zapalić ogień miłości i przez Mękę wybawić świat od zagłady.",
+      "bible": [
+        "Łk 12, 49-50",
+        "J 15, 13"
+      ],
+      "text": [
+        "Nie było miejsca, choć zszedłeś",
+        "ogień miłości zapalić",
+        "i przez swą mękę najdroższą",
+        "świat od zagłady wybawić.",
+        ""
+      ]
+    },
+    {
+      "range": "41-45",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "ogień",
+        "miłość",
+        "Jezus Chrystus",
+        "Męka",
+        "zbawienie",
+        "ocalenie",
+        "zagłada",
+        "ofiara"
+      ],
+      "summary": "Kolejny refren – Jezus przyszedł zapalić ogień miłości i przez Mękę ocalić świat od zagłady.",
+      "bible": [
+        "Łk 12, 49-50",
+        "J 15, 13"
+      ],
+      "text": [
+        "Nie było miejsca choć szedłeś,",
+        "ogień miłości zapalić,",
+        "i przez swą mękę najdroższą",
+        "świat od zagłady ocalić.",
+        ""
+      ]
+    },
+    {
+      "range": "46-50",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Serce",
+        "miłość",
+        "nędza",
+        "poniewierka",
+        "odkupienie",
+        "zbawienie",
+        "kres"
+      ],
+      "summary": "Jezus chciał otworzyć swe Serce wszystkim i położyć kres ludzkiej nędzy i poniewierce.",
+      "bible": [
+        "Mt 11, 28-30",
+        "J 19, 34"
+      ],
+      "text": [
+        "Nie było miejsca, choć chciałeś",
+        "wszystkim otworzyć swe Serce",
+        "i kres położyć miłośnie",
+        "ludzkiej nędzy, poniewierce.",
+        ""
+      ]
+    },
+    {
+      "range": "51-55",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Jezus Chrystus",
+        "łza",
+        "cierpienie",
+        "dusza",
+        "odrzucenie",
+        "grzech",
+        "ludzkość",
+        "brak wiary"
+      ],
+      "summary": "Ponowne pytanie o cierpienie – odpowiedź ta sama: nie ma miejsca dla Jezusa w ludzkich duszach.",
+      "bible": [
+        "J 1, 10-11"
+      ],
+      "text": [
+        "A dzisiaj, czemu wśród ludzi",
+        "tyle łez, jęku, katuszy?",
+        "Bo nie ma miejsca dla Ciebie",
+        "W niejednej człowieczej duszy.",
+        ""
+      ]
+    },
+    {
+      "range": "56-59",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "ogień",
+        "miłość",
+        "Jezus Chrystus",
+        "Męka",
+        "zbawienie",
+        "ocalenie",
+        "zagłada",
+        "ofiara"
+      ],
+      "summary": "Końcowy refren – Jezus przyszedł zapalić ogień miłości i przez Mękę ocalić świat od zagłady.",
+      "bible": [
+        "Łk 12, 49-50",
+        "J 15, 13"
+      ],
+      "text": [
+        "Nie było miejsca choć szedłeś,",
+        "ogień miłości zapalić,",
+        "i przez swą mękę najdroższą",
+        "świat od zagłady ocalić."
+      ]
+    },
+    {
+      "range": "1-59",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Narodzenie",
+        "odrzucenie",
+        "brak miejsca",
+        "Betlejem",
+        "krzyż",
+        "Męka",
+        "miłość",
+        "zbawienie",
+        "ogień",
+        "dusza",
+        "grzech",
+        "odkupienie",
+        "nędza",
+        "cierpienie"
+      ],
+      "summary": "Głęboko pokutna kolęda kontrastująca brak miejsca dla Jezusa w Betlejem z brakiem miejsca dla Niego w ludzkich sercach – refren o ogniu miłości i zbawczej Męce Chrystusa powraca jak wołanie o przyjęcie Boga.",
+      "bible": [
+        "Łk 2, 7",
+        "Mt 8, 20",
+        "J 1, 10-11",
+        "J 3, 16",
+        "Łk 12, 49-50",
+        "J 15, 13",
+        "Iz 53, 5"
+      ]
+    }
+  ]
+}

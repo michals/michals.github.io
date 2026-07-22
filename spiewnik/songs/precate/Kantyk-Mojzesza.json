@@ -1,0 +1,363 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:c3d1e85b9ee3bf3b69ca067dce94e78b186705a72cbca091c8faee24cf707571",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "chwała",
+        "Pan",
+        "morze",
+        "koń",
+        "jeździec",
+        "zwycięstwo",
+        "wyzwolenie",
+        "pascha"
+      ],
+      "summary": "Wezwanie do śpiewu na cześć Pana, który okrył się chwałą, pogrążając w morzu konia i jeźdźca — obraz paschalnego zwycięstwa Boga.",
+      "bible": [
+        "Wj 15, 1-3",
+        "Wj 14, 26-28",
+        "Ap 15, 3"
+      ],
+      "text": [
+        "Śpiewajmy na cześć Pana,",
+        "śpiewajmy na cześć Pana,",
+        "który się okrył chwałą,",
+        "chwałą, chwałą.",
+        "-Pogrążył w wodach morza",
+        "-konia i jeźdźca jego.",
+        ""
+      ]
+    },
+    {
+      "range": "8-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "moc",
+        "pieśń",
+        "Pan",
+        "zbawienie",
+        "Bóg",
+        "uwielbienie",
+        "wyzwolenie",
+        "wiara"
+      ],
+      "summary": "Pan jest mocą i pieśnią wierzących, On jest zbawieniem i Bogiem, któremu należy się uwielbienie.",
+      "bible": [
+        "Wj 15, 2",
+        "Ps 118, 14",
+        "Iz 12, 2"
+      ],
+      "text": [
+        "Mą mocą i mą pieśnią",
+        "jest Pan potężny.",
+        "On jest zbawieniem moim,",
+        "Bogiem moim,",
+        "uwielbiać będę Go.",
+        "Pogrążył w wodach morza",
+        "konia i jeźdźca jego,",
+        "konia i jeźdźca jego.",
+        ""
+      ]
+    },
+    {
+      "range": "17-22",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "mocarz",
+        "wojownik",
+        "Jahwe",
+        "faraon",
+        "rydwan",
+        "wojsko",
+        "zwycięstwo",
+        "chwała"
+      ],
+      "summary": "Pan jako boski wojownik — Jahwe — pogrąża rydwany faraona i całe wojsko nieprzyjaciół w morzu.",
+      "bible": [
+        "Wj 15, 3-4",
+        "Wj 14",
+        "Ap 19, 11-16"
+      ],
+      "text": [
+        "Pan jest mocarzem wojny,",
+        "Jahwe jest imię Jego;",
+        "rydwany faraona",
+        "i wojsko nieprzyjaciół",
+        "pogrążył w wodach morza.",
+        ""
+      ]
+    },
+    {
+      "range": "23-26",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "morze",
+        "koń",
+        "jeździec",
+        "pogrążenie",
+        "wyzwolenie",
+        "pascha",
+        "chrzest",
+        "życie"
+      ],
+      "summary": "Refren powtarzający obraz pogrążenia konia i jeźdźca w morzu — typ chrztu i zatopienia grzechu w wodach zbawienia.",
+      "bible": [
+        "Wj 15, 4-5",
+        "Wj 14, 26-28",
+        "1 Kor 10, 2",
+        "Rz 6, 3-4"
+      ],
+      "text": [
+        "Pogrążył w wodach morza",
+        "konia i jeźdźca jego,",
+        "konia i jeźdźca jego,",
+        ""
+      ]
+    },
+    {
+      "range": "27-35",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "moc",
+        "pieśń",
+        "Pan",
+        "zbawienie",
+        "Bóg",
+        "uwielbienie",
+        "wyznanie wiary",
+        "osobista relacja"
+      ],
+      "summary": "Powtórzenie osobistego wyznania: Pan jest moją mocą, pieśnią i zbawieniem — akt osobistej wiary w Boga wyzwoliciela.",
+      "bible": [
+        "Wj 15, 2",
+        "Ps 118, 14"
+      ],
+      "text": [
+        "Mą mocą i mą pieśnią",
+        "jest Pan potężny.",
+        "On jest zbawieniem moim,",
+        "Bogiem moim,",
+        "uwielbiać będę Go.",
+        "Pogrążył w wodach morza",
+        "konia i jeźdźca jego,",
+        "konia i jeźdźca jego.",
+        ""
+      ]
+    },
+    {
+      "range": "36-42",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "prawica",
+        "chwała",
+        "blask",
+        "Pan",
+        "nieprzyjaciel",
+        "zniszczenie",
+        "moc Boża"
+      ],
+      "summary": "Prawica Pana okryta blaskiem chwały niszczy nieprzyjaciół — obraz Bożej wszechmocy i sprawiedliwości.",
+      "bible": [
+        "Wj 15, 6",
+        "Ps 118, 15-16"
+      ],
+      "text": [
+        "Prawica Twa, o Panie,",
+        "okryta blaskiem chwały,",
+        "prawica Twa, o Panie,",
+        "zniszczyła nieprzyjaciół,",
+        "zniszczyła nieprzyjaciół.",
+        "Pogrążył w wodach morza …",
+        ""
+      ]
+    },
+    {
+      "range": "43-49",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "nieprzyjaciel",
+        "pycha",
+        "pościg",
+        "miecz",
+        "porażka",
+        "sąd Boży",
+        "sprawiedliwość"
+      ],
+      "summary": "Wrogowie w pysze sądzą, że pochwycą Izraela, ale ich zamiary zostają unicestwione przez Boga.",
+      "bible": [
+        "Wj 15, 9-10"
+      ],
+      "text": [
+        "Nieprzyjaciel powiedział:",
+        "będę ich ścigał, dopadnę,",
+        "dobędę mego miecza,",
+        "ma ręka ich pochwyci,",
+        "ma ręka ich obłupi.",
+        "Pogrążył w wodach morza …",
+        ""
+      ]
+    },
+    {
+      "range": "50-57",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "tchnienie",
+        "woda",
+        "głębia",
+        "śmierć",
+        "zatonięcie",
+        "ołów",
+        "odmęt",
+        "Duch Święty",
+        "sąd"
+      ],
+      "summary": "Tchnienie Boga (wiatr) sprawia, że wody przykrywają wrogów, którzy toną w odmętach śmierci — obraz sądu Bożego i mocy Ducha.",
+      "bible": [
+        "Wj 15, 8-10",
+        "Wj 14, 27-28",
+        "Rdz 1, 2"
+      ],
+      "text": [
+        "Wionęło Twoje tchnienie,",
+        "przykryły ich wody,",
+        "",
+        "zatonęli jak ołów",
+        "w wodach głębokich,",
+        "w odmętach śmierci.",
+        "Pogrążył w wodach morza …",
+        ""
+      ]
+    },
+    {
+      "range": "58-64",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "świętość",
+        "cud",
+        "Pan",
+        "Bóg",
+        "wyjątkowość",
+        "adoracja",
+        "majestat"
+      ],
+      "summary": "Nikt nie jest równy Panu w blasku świętości i w cudownych dziełach — wyznanie absolutnej wyjątkowości i chwały Boga.",
+      "bible": [
+        "Wj 15, 11",
+        "Ps 86, 8",
+        "Iz 6, 3"
+      ],
+      "text": [
+        "Któż równy Tobie pośród bogów,",
+        "któż równy Tobie, Panie,",
+        "w blasku świętości,",
+        "straszliwy w czynach,",
+        "działający cuda?",
+        "Pogrążył w wodach morza …",
+        ""
+      ]
+    },
+    {
+      "range": "65-71",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "lud",
+        "wykupienie",
+        "ramię",
+        "miłość",
+        "prowadzenie",
+        "odkupienie",
+        "mieszkanie",
+        "Kościół"
+      ],
+      "summary": "Bóg wiedzie swój wykupiony lud do swojego mieszkania — zapowiedź odkupienia w Chrystusie i życia w komunii z Bogiem.",
+      "bible": [
+        "Wj 15, 13",
+        "1 P 2, 9-10"
+      ],
+      "text": [
+        "Wiodłeś lud swój, o Panie,",
+        "lud, który wykupiłeś",
+        "swym potężnym ramieniem",
+        "na zawsze, w miłości,",
+        "aż do Twego mieszkania.",
+        "Pogrążył w wodach morza …",
+        ""
+      ]
+    },
+    {
+      "range": "72-77",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "wprowadzenie",
+        "góra",
+        "obietnica",
+        "królowanie",
+        "Pan",
+        "wieczność",
+        "Syjon",
+        "Królestwo Boże"
+      ],
+      "summary": "Bóg wprowadza swój lud na górę swego dziedzictwa i króluje na wieki — eschatologiczny obraz królestwa Bożego.",
+      "bible": [
+        "Wj 15, 17-18",
+        "Ps 132, 13-14",
+        "Ap 21, 1-3"
+      ],
+      "text": [
+        "Wprowadziłeś go i osadziłeś",
+        "na górze Twej obietnicy,",
+        "gdzie Ty, Panie, królujesz,",
+        "królujesz na wieki,",
+        "królujesz na zawsze.",
+        "Pogrążył w wodach morza …"
+      ]
+    },
+    {
+      "range": "1-77",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "wyzwolenie",
+        "pascha",
+        "morze",
+        "faraon",
+        "Jahwe",
+        "mocarz",
+        "chwała",
+        "zbawienie",
+        "prawica",
+        "świętość",
+        "odkupienie",
+        "góra",
+        "królowanie",
+        "wieczność",
+        "Królestwo"
+      ],
+      "summary": "Pieśń oparta na kantyku Mojżesza z Wj 15, będąca uroczystym hymnem dziękczynienia za cudowne wyzwolenie z niewoli egipskiej, zapowiadającym paschalne zwycięstwo Chrystusa i odkupienie ludu Bożego.",
+      "bible": [
+        "Wj 15, 1-18",
+        "Ap 15, 3-4",
+        "1 Kor 10, 1-4",
+        "Rz 6, 3-4",
+        "Ap 21"
+      ]
+    }
+  ]
+}

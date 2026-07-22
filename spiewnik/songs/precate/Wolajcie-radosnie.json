@@ -1,0 +1,217 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:813054b5d2008fd1a6b540352d52c4af6a106410941f9c29c38f89af4f953167",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wołanie",
+        "radość",
+        "wielki",
+        "Święty",
+        "Izrael",
+        "Bóg"
+      ],
+      "summary": "Radosne wezwanie do okrzyku na cześć wielkiego Świętego Izraela, który jest pośród swojego ludu.",
+      "bible": [
+        "Iz 12:6",
+        "Kpł 19:2",
+        "Iz 6:3",
+        "Ps 99:3"
+      ],
+      "text": [
+        "Wołajcie radośnie,",
+        "bo wielki jest wśród nas,",
+        "Święty Izraela!",
+        ""
+      ]
+    },
+    {
+      "range": "5-9",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "zbawienie",
+        "zaufanie",
+        "moc",
+        "pieśń",
+        "Zbawiciel",
+        "ulęknienie"
+      ],
+      "summary": "Wyznanie ufności w Boga jako zbawienie i moc, źródło pieśni chwały, wyrażone w pierwszej osobie jako osobiste świadectwo wiary.",
+      "bible": [
+        "Iz 12:2",
+        "Wj 15:2",
+        "Ps 118:14",
+        "Iz 12:2-3"
+      ],
+      "text": [
+        "Pan Bóg jest moim zbawieniem,",
+        "Jemu zaufam i nie ulęknę się,",
+        "bo mocą moją i moją pieśnią jest Pan,",
+        "On moim Zbawicielem.",
+        ""
+      ]
+    },
+    {
+      "range": "10-13",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wołanie",
+        "radość",
+        "wielki",
+        "Święty",
+        "Izrael",
+        "Bóg"
+      ],
+      "summary": "Powtórzenie refrenu radosnego wołania na cześć Świętego Izraela.",
+      "bible": [
+        "Iz 12:6"
+      ],
+      "text": [
+        "Wołajcie radośnie,",
+        "bo wielki jest wśród nas,",
+        "Święty Izraela!",
+        ""
+      ]
+    },
+    {
+      "range": "14-19",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "wesele",
+        "czerpanie",
+        "woda",
+        "zdroj",
+        "zbawienie",
+        "wysławianie",
+        "imię",
+        "głoszenie",
+        "cud",
+        "lud"
+      ],
+      "summary": "Obraz czerpania z radością wody ze zdrojów zbawienia oraz wezwanie do wysławiania Pana i głoszenia Jego cudów wśród narodów.",
+      "bible": [
+        "Iz 12:3-4",
+        "J 4:10.14",
+        "J 7:37-39",
+        "Ps 105:1"
+      ],
+      "text": [
+        "Z weselem czerpać będziecie",
+        "wodę ze zdrojów zbawienia.",
+        "Wysławiajcie Pana,",
+        "Jego imię wzywajcie,",
+        "głoście ludom Jego cuda.",
+        ""
+      ]
+    },
+    {
+      "range": "20-23",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wołanie",
+        "radość",
+        "wielki",
+        "Święty",
+        "Izrael",
+        "Bóg"
+      ],
+      "summary": "Powtórzenie refrenu radosnego wołania na cześć Świętego Izraela.",
+      "bible": [
+        "Iz 12:6"
+      ],
+      "text": [
+        "Wołajcie radośnie,",
+        "bo wielki jest wśród nas,",
+        "Święty Izraela!",
+        ""
+      ]
+    },
+    {
+      "range": "24-30",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "hymn",
+        "śpiewanie",
+        "uczynienie",
+        "wielki",
+        "rzecz",
+        "miłość",
+        "mieszkaniec",
+        "Syjon"
+      ],
+      "summary": "Wezwanie do śpiewania hymnów Panu, który uczynił wielkie rzeczy dla swojego ludu, i zapewnienie o Jego miłości do mieszkańców Syjonu.",
+      "bible": [
+        "Iz 12:5-6",
+        "Ps 68:4",
+        "So 3:14-17",
+        "Iz 12:5-6"
+      ],
+      "text": [
+        "Śpiewajcie hymny Panu,",
+        "śpiewajcie,",
+        "bo uczynił z nami rzeczy wielkie.",
+        "Wołajcie radośnie,",
+        "bo Pan was kocha,",
+        "wszyscy mieszkańcy Syjonu!",
+        ""
+      ]
+    },
+    {
+      "range": "31-33",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wołanie",
+        "radość",
+        "wielki",
+        "Święty",
+        "Izrael",
+        "Bóg"
+      ],
+      "summary": "Końcowe powtórzenie refrenu jako radosnego finału pieśni dziękczynienia.",
+      "bible": [
+        "Iz 12:6"
+      ],
+      "text": [
+        "Wołajcie radośnie,",
+        "bo wielki jest wśród nas,",
+        "Święty Izraela!"
+      ]
+    },
+    {
+      "range": "1-33",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "zbawienie",
+        "Święty Izraela",
+        "woda żywa",
+        "Syjon",
+        "dziękczynienie",
+        "ufność",
+        "moc",
+        "pieśń",
+        "cud"
+      ],
+      "summary": "Pieśń oparta na Iz 12,1nn — hymnie dziękczynienia za zbawienie zapowiadające zbawienie mesjańskie. Zawiera motywy ufności w Boga jako Zbawiciela, czerpania wody ze zdrojów zbawienia (typ chrztu i Ducha Świętego) oraz radosnego wysławiania Boga pośród narodów. W Nowym Testamencie wypełnia się w Chrystusie jako źródle wody żywej.",
+      "bible": [
+        "Iz 12:1-6",
+        "J 4:10.14",
+        "J 7:37-39",
+        "Wj 15:2",
+        "So 3:14-17",
+        "Ap 7:17"
+      ]
+    }
+  ]
+}

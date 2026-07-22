@@ -1,0 +1,233 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:45c8e19b9782330cd1aa0ac1f08b8348495cff3abc601ed2b05de171362d881d",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "ciemność",
+        "tęsknota",
+        "miłość",
+        "los",
+        "szczęście",
+        "dusza",
+        "Bóg",
+        "zjednoczenie"
+      ],
+      "summary": "Dusza rozpalona miłością wychodzi w noc pełną ciemności, podczas gdy jej dom (zmysły) jest wyciszony.",
+      "bible": [
+        "Pnp 3,1-4"
+      ],
+      "text": [
+        "W noc pełną ciemności",
+        "tęsknotami, w miłości rozpalona,",
+        "o losie szczęśliwy!",
+        "Wyszłam nie spostrzeżona,",
+        "podczas, gdy mój dom był już wyciszony.",
+        ""
+      ]
+    },
+    {
+      "range": "7-12",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ciemność",
+        "bezpieczeństwo",
+        "schody",
+        "tajemnica",
+        "przebranie",
+        "los",
+        "szczęście",
+        "ukrycie",
+        "dusza",
+        "Bóg"
+      ],
+      "summary": "Dusza bezpieczna w ciemności, ukryta na tajemnych schodach w przebraniu, zmierzająca ku zjednoczeniu.",
+      "bible": [
+        "Pnp 2,14"
+      ],
+      "text": [
+        "W ciemności i bezpieczna,",
+        "po schodach tajemnych, w przebraniu,",
+        "o losie szczęśliwy!",
+        "W ciemności dobrze ukryta,",
+        "podczas, gdy mój dom był już wyciszony.",
+        ""
+      ]
+    },
+    {
+      "range": "13-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "szczęście",
+        "ukrycie",
+        "światło",
+        "serca",
+        "ogień",
+        "dusza",
+        "prowadzenie",
+        "Bóg"
+      ],
+      "summary": "Dusza idzie po kryjomu, bez światła zewnętrznego, prowadzona jedynie ogniem płonącym w sercu.",
+      "bible": [
+        "Pnp 8,6-7"
+      ],
+      "text": [
+        "Owej nocy szczęśliwej,",
+        "po kryjomu tak, że nikt mnie nie widział,",
+        "ja nie patrzyłam na nic,",
+        "bez światła i prowadzenia,",
+        "prócz tego, które w mym sercu płonęło.",
+        ""
+      ]
+    },
+    {
+      "range": "19-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "prowadzenie",
+        "światło",
+        "południe",
+        "oczekiwanie",
+        "Bóg",
+        "Miły",
+        "dusza",
+        "samotność",
+        "zjednoczenie"
+      ],
+      "summary": "Wewnętrzne światło prowadzi duszę pewniej niż słońce do miejsca, gdzie oczekuje Bóg – jedyna obecność, która się liczy.",
+      "bible": [
+        "Pnp 3,4"
+      ],
+      "text": [
+        "I to mnie prowadziło",
+        "o wiele pewniej, niż światło południa,",
+        "tam, gdzie mnie oczekiwał",
+        "ten, kogo dobrze znałam,",
+        "gdzie nie było widać nikogo innego.",
+        ""
+      ]
+    },
+    {
+      "range": "25-30",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "prowadzenie",
+        "jutrzenka",
+        "złączenie",
+        "Miły",
+        "miłowany",
+        "przemienienie",
+        "Bóg",
+        "dusza",
+        "zjednoczenie",
+        "mistyka"
+      ],
+      "summary": "Uwielbienie nocy, która złączyła Miłego z miłowaną i przemieniła ją w Niego – szczyt mistycznego zjednoczenia.",
+      "bible": [
+        "Pnp 8,5-7",
+        "2 Kor 3,18"
+      ],
+      "text": [
+        "O nocy, coś prowadziła!",
+        "O nocy milsza od blasku jutrzenki,",
+        "o nocy, coś złączyła",
+        "Miłego z miłowaną,",
+        "miłowaną w Miłego przemienioną.",
+        ""
+      ]
+    },
+    {
+      "range": "31-36",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "ciemność",
+        "tęsknota",
+        "miłość",
+        "los",
+        "szczęście",
+        "dusza",
+        "Bóg"
+      ],
+      "summary": "Powtórzenie pierwszej zwrotki o duszy wychodzącej w ciemność nocy.",
+      "bible": [
+        "Pnp 3,1-4"
+      ],
+      "text": [
+        "W noc pełną ciemności",
+        "tęsknotami, w miłości rozpalona,",
+        "o losie szczęśliwy!",
+        "Wyszłam nie spostrzeżona,",
+        "podczas, gdy mój dom był już wyciszony.",
+        ""
+      ]
+    },
+    {
+      "range": "37-41",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "prowadzenie",
+        "jutrzenka",
+        "złączenie",
+        "Miły",
+        "miłowany",
+        "przemienienie",
+        "Bóg",
+        "zjednoczenie"
+      ],
+      "summary": "Końcowe powtórzenie refrenu o nocy prowadzącej do zjednoczenia i przemienienia w Bogu.",
+      "bible": [
+        "Pnp 8,5-7",
+        "2 Kor 3,18"
+      ],
+      "text": [
+        "O nocy, coś prowadziła!",
+        "O nocy milsza od blasku jutrzenki,",
+        "o nocy, coś złączyła",
+        "Miłego z miłowaną,",
+        "miłowaną w Miłego przemienioną."
+      ]
+    },
+    {
+      "range": "1-41",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "ciemność",
+        "miłość",
+        "dusza",
+        "Bóg",
+        "zjednoczenie",
+        "mistyka",
+        "przemienienie",
+        "wiara",
+        "światło",
+        "ogień",
+        "tęsknota",
+        "Jan od Krzyża",
+        "Duch Święty"
+      ],
+      "summary": "Parafraza poematu 'Noche Oscura' św. Jana od Krzyża, opisująca drogę duszy do mistycznego zjednoczenia z Bogiem przez ciemną noc wiary, prowadzoną wewnętrznym ogniem miłości, aż do całkowitego przemienienia w Umiłowanego.",
+      "bible": [
+        "Pnp 3,1-4",
+        "Pnp 8,5-7",
+        "2 Kor 3,18",
+        "1 J 1,5"
+      ]
+    }
+  ]
+}

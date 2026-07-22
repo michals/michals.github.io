@@ -1,0 +1,484 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:bfcc667f73ae717ec8204bb47553b2cbd86fc361feff85a8a80a003b5e496955",
+  "songs_analysis": [
+    {
+      "range": "1-2",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "miłość",
+        "ukochać"
+      ],
+      "summary": "Refren uwielbienia Jezusa za ogrom Jego miłości objawionej w męce.",
+      "bible": [
+        "J 15, 13",
+        "Ga 2, 20",
+        "Ef 3, 19"
+      ],
+      "text": [
+        "O Jezu, miłości moja,",
+        "jakże mnie ukochałeś, jakże mnie ukochałeś!"
+      ]
+    },
+    {
+      "range": "3-4",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Jezus",
+        "grzech",
+        "odebrać",
+        "przebaczenie",
+        "odpuszczenie",
+        "wina"
+      ],
+      "summary": "Chrystus wziął na siebie grzechy człowieka, aby obdarzyć go przebaczeniem - pierwszy stopień wonderful exchange.",
+      "bible": [
+        "2 Kor 5, 21",
+        "J 1, 29",
+        "Iz 53, 5-6",
+        "1 P 2, 24"
+      ],
+      "text": [
+        "O Jezu, Ty wziąłeś grzechy ode mnie,",
+        "abym ja dostał przebaczenie od Ciebie."
+      ]
+    },
+    {
+      "range": "5-6",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "miłość",
+        "ukochać"
+      ],
+      "summary": "Refren - zdumienie nad miłością Jezusa, która składa siebie w ofierze.",
+      "bible": [
+        "J 15, 13"
+      ],
+      "text": [
+        "O Jezu, miłości moja,",
+        "jakże mnie ukochałeś, jakże mnie ukochałeś!"
+      ]
+    },
+    {
+      "range": "7-8",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Jezus",
+        "cierń",
+        "pycha",
+        "odebrać",
+        "pokora",
+        "cichość",
+        "cnota"
+      ],
+      "summary": "Cierniowa korona Chrystusa zdejmuje pychę z człowieka, by obdarzyć go pokorą i cichością.",
+      "bible": [
+        "Mt 27, 29",
+        "Flp 2, 5-8",
+        "Iz 53, 3"
+      ],
+      "text": [
+        "Ty wziąłeś ciernie: pychę ode mnie,",
+        "abym ja dostał pokorę i cichość od Ciebie."
+      ]
+    },
+    {
+      "range": "9-10",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "miłość",
+        "ukochać"
+      ],
+      "summary": "Refren - zdumienie nad miłością Jezusa.",
+      "bible": [],
+      "text": [
+        "O Jezu, miłości moja,",
+        "jakże mnie ukochałeś, jakże mnie ukochałeś!"
+      ]
+    },
+    {
+      "range": "11-12",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Jezus",
+        "bicz",
+        "razy",
+        "nieczystość",
+        "odebrać",
+        "czystość",
+        "miłość"
+      ],
+      "summary": "Biczowanie Chrystusa oczyszcza z nieczystości, by obdarzyć darem czystości i prawdziwej miłości.",
+      "bible": [
+        "Mt 27, 26",
+        "J 19, 1",
+        "Iz 53, 5",
+        "1 P 2, 24"
+      ],
+      "text": [
+        "Ty wziąłeś razy i bicze: nieczystość ode mnie,",
+        "abym ja dostał czystość i miłość od Ciebie."
+      ]
+    },
+    {
+      "range": "13-14",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "miłość",
+        "ukochać"
+      ],
+      "summary": "Refren - zdumienie nad miłością Jezusa.",
+      "bible": [],
+      "text": [
+        "O Jezu, miłości moja,",
+        "jakże mnie ukochałeś, jakże mnie ukochałeś!"
+      ]
+    },
+    {
+      "range": "15-16",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Jezus",
+        "odarcie",
+        "szata",
+        "chciwość",
+        "odebrać",
+        "bogactwo",
+        "ubóstwo"
+      ],
+      "summary": "Odarcie Chrystusa z szat leczy chciwość człowieka, by obdarzyć go prawdziwym bogactwem w Bogu.",
+      "bible": [
+        "Mt 27, 28",
+        "J 19, 23-24",
+        "2 Kor 8, 9",
+        "Mt 6, 19-21"
+      ],
+      "text": [
+        "Ty wziąłeś odarcie z szat: chciwość ode mnie,",
+        "abym ja dostał bogactwo od Ciebie."
+      ]
+    },
+    {
+      "range": "17-18",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "miłość",
+        "ukochać"
+      ],
+      "summary": "Refren - zdumienie nad miłością Jezusa.",
+      "bible": [],
+      "text": [
+        "O Jezu, miłości moja,",
+        "jakże mnie ukochałeś, jakże mnie ukochałeś!"
+      ]
+    },
+    {
+      "range": "19-23",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Jezus",
+        "żółć",
+        "ocet",
+        "gorycz",
+        "obelga",
+        "zniewaga",
+        "odebrać",
+        "słodycz",
+        "uległość",
+        "gorycz"
+      ],
+      "summary": "Chrystus pije gorycz żółci i octu oraz znosi obelgi, aby obdarzyć człowieka słodyczą i uległością.",
+      "bible": [
+        "Mt 27, 34",
+        "Mt 27, 39-44",
+        "J 19, 29-30",
+        "Ps 69, 22",
+        "Iz 53, 3"
+      ],
+      "text": [
+        "Ty wziąłeś żółć i ocet ode mnie,",
+        "abym ja dostał słodycz od Ciebie.",
+        "Ty wziąłeś obelgi i zniewagi ode mnie,",
+        "abym ja dostał uległość od Ciebie.",
+        ""
+      ]
+    },
+    {
+      "range": "24-25",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Jezus",
+        "gwóźdź",
+        "odebrać",
+        "posłuszeństwo",
+        "krzyż",
+        "przybicie"
+      ],
+      "summary": "Gwoździe Chrystusa uwalniają od buntu i obdarzają posłuszeństwem względem Boga.",
+      "bible": [
+        "J 20, 25",
+        "Flp 2, 8",
+        "Hbr 5, 8-9",
+        "Rz 5, 19"
+      ],
+      "text": [
+        "Ty wziąłeś gwoździe ode mnie,",
+        "abym ja dostał posłuszeństwo od Ciebie."
+      ]
+    },
+    {
+      "range": "26-27",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "miłość",
+        "ukochać"
+      ],
+      "summary": "Refren - zdumienie nad miłością Jezusa.",
+      "bible": [],
+      "text": [
+        "O Jezu, miłości moja,",
+        "jakże mnie ukochałeś, jakże mnie ukochałeś!"
+      ]
+    },
+    {
+      "range": "28-29",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Jezus",
+        "krzyż",
+        "odebrać",
+        "zbawienie",
+        "odkupienie",
+        "ukrzyżowanie"
+      ],
+      "summary": "Chrystus bierze na siebie krzyż, aby obdarzyć człowieka zbawieniem.",
+      "bible": [
+        "J 19, 17-18",
+        "J 3, 16",
+        "Dz 4, 12",
+        "Ga 3, 13"
+      ],
+      "text": [
+        "Ty wziąłeś krzyż ode mnie,",
+        "abym ja dostał zbawienie od Ciebie."
+      ]
+    },
+    {
+      "range": "30-31",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "miłość",
+        "ukochać"
+      ],
+      "summary": "Refren - zdumienie nad miłością Jezusa.",
+      "bible": [],
+      "text": [
+        "O Jezu, miłości moja,",
+        "jakże mnie ukochałeś, jakże mnie ukochałeś!"
+      ]
+    },
+    {
+      "range": "32-33",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Jezus",
+        "śmierć",
+        "odebrać",
+        "życie",
+        "życie wieczne",
+        "wykupienie"
+      ],
+      "summary": "Chrystus umiera, aby człowiek otrzymał życie - największy dar złożony w ofierze krzyża.",
+      "bible": [
+        "Rz 6, 23",
+        "J 10, 10-11",
+        "J 11, 25-26",
+        "1 Kor 15, 55-57"
+      ],
+      "text": [
+        "Ty wziąłeś śmierć ode mnie,",
+        "abym ja dostał życie od Ciebie."
+      ]
+    },
+    {
+      "range": "34-35",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "miłość",
+        "ukochać"
+      ],
+      "summary": "Refren - zdumienie nad miłością Jezusa.",
+      "bible": [],
+      "text": [
+        "O Jezu, miłości moja,",
+        "jakże mnie ukochałeś, jakże mnie ukochałeś!"
+      ]
+    },
+    {
+      "range": "36-37",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Jezus",
+        "grób",
+        "złożenie",
+        "odebrać",
+        "zmartwychwstanie",
+        "pogrzeb",
+        "wiktoria"
+      ],
+      "summary": "Złożenie Chrystusa do grobu uwalnia od śmierci wiecznej i daje udział w Jego zmartwychwstaniu.",
+      "bible": [
+        "Mt 27, 59-60",
+        "J 19, 41-42",
+        "Rz 6, 4-5",
+        "1 Kor 15, 20-22",
+        "Kol 2, 12"
+      ],
+      "text": [
+        "Ty wziąłeś złożenie w grobie ode mnie,",
+        "abym ja dostał zmartwychwstanie od Ciebie."
+      ]
+    },
+    {
+      "range": "38-39",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "miłość",
+        "ukochać"
+      ],
+      "summary": "Refren - zdumienie nad miłością Jezusa.",
+      "bible": [],
+      "text": [
+        "O Jezu, miłości moja,",
+        "jakże mnie ukochałeś, jakże mnie ukochałeś!"
+      ]
+    },
+    {
+      "range": "40-42",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Jezus",
+        "śmierć",
+        "grzech",
+        "odebrać",
+        "Bóg",
+        "oddanie",
+        "siebie",
+        "całość",
+        "dar",
+        "miłość"
+      ],
+      "summary": "Kulminacyjne podsumowanie: Chrystus wziął śmierć i grzech, aby oddać człowieku Siebie samego - najwyższy dar.",
+      "bible": [
+        "2 Kor 5, 21",
+        "Ga 3, 13",
+        "Rz 8, 32",
+        "Ef 1, 3-14",
+        "J 6, 51-58",
+        "J 17, 24"
+      ],
+      "text": [
+        "Ode mnie, Panie, wziąłeś śmierć i grzech,",
+        "abym ja dostał od Ciebie: Ciebie samego.",
+        "Siebie samego całego mi oddałeś."
+      ]
+    },
+    {
+      "range": "43-44",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "miłość",
+        "ukochać"
+      ],
+      "summary": "Refren końcowy - ostateczne zdumienie nad miłością Chrystusa, która oddaje wszystko.",
+      "bible": [
+        "J 15, 13",
+        "Ef 3, 19"
+      ],
+      "text": [
+        "O Jezu, miłości moja,",
+        "jakże mnie ukochałeś, jakże mnie ukochałeś!"
+      ]
+    },
+    {
+      "range": "1-44",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Jezus",
+        "miłość",
+        "ukochać",
+        "krzyż",
+        "męka",
+        "grzech",
+        "przebaczenie",
+        "pokora",
+        "czystość",
+        "zbawienie",
+        "śmierć",
+        "życie",
+        "zmartwychwstanie",
+        "dar",
+        "odkupienie",
+        "poświęcenie",
+        "cnota",
+        "Eucharystia",
+        "przemiana",
+        "łaska"
+      ],
+      "summary": "Hymn wielkopostny o 'admirandym commercium' (cudownej wymianie) - każdy element męki Chrystusa (cierń, bicze, odarcie, żółć, gwoździe, krzyż, śmierć, grób) zostaje przedstawiony jako środek uświęcenia człowieka, który z grzechu przechodzi do cnoty, a ostatecznie otrzymuje dar samego Boga. Tekst opiera się na soterologii św. Pawła (2 Kor 5, 21; Ga 3, 13; Rz 6, 23) i typologicznym odczytaniu Sługi Jahwe z Iz 53. W centrum znajduje się 'wonderful exchange': Chrystus bierze naszą grzeszność, aby dać nam swoją świętość - najpełniej zrealizowaną w Eucharystii, gdzie oddaje siebie samego całego (J 6, 51-58). Hymn łączy się z tradycją łamania chleba w Wielkim Poście, ukazując Eucharystię jako sakrament odkupieńczej miłości, w której Chrystus nieustannie oddaje się za nas i nam.",
+      "bible": [
+        "Iz 53",
+        "Mt 26-27",
+        "J 19",
+        "J 6, 51-58",
+        "Rz 5, 18-19",
+        "Rz 6, 23",
+        "Rz 8, 32",
+        "2 Kor 5, 21",
+        "2 Kor 8, 9",
+        "Ga 3, 13",
+        "Ga 2, 20",
+        "Ef 1, 3-14",
+        "Ef 3, 19",
+        "Flp 2, 5-8",
+        "Flp 3, 10-11",
+        "Kol 2, 12-15",
+        "Hbr 5, 8-9",
+        "Hbr 10, 5-10",
+        "1 P 2, 24",
+        "1 J 3, 16"
+      ]
+    }
+  ]
+}

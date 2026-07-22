@@ -1,0 +1,275 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a5fdc80539ea9501f41e8bcbee7f70e1c9c4d45e9bca4da023e88f3cdf44500a",
+  "songs_analysis": [
+    {
+      "type": "refren",
+      "range": "1-6",
+      "sentiment": "radosny",
+      "keywords": [
+        "skraść",
+        "serce",
+        "siostra",
+        "oblubienica"
+      ],
+      "bible": [
+        "Pnp 4,9"
+      ],
+      "summary": "Oblubieniec: 'Skradłaś mi serce, siostro ma, oblubienico' - refren otwierający piesń.",
+      "text": [
+        "Oblubieniec",
+        "Skradłaś mi serce,",
+        "skradłaś mi serce,",
+        "siostro ma, oblubienico,",
+        "skradłaś mi,",
+        "skradłaś mi serce."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "8-20",
+      "sentiment": "radosny",
+      "keywords": [
+        "piękne",
+        "miłość",
+        "olejek",
+        "balsam",
+        "wargi",
+        "miod",
+        "mleko",
+        "język",
+        "szata",
+        "wino",
+        "ogrod",
+        "zrodlo",
+        "pieczęć",
+        "owoc",
+        "raj",
+        "granat",
+        "nard",
+        "szafran",
+        "mirra",
+        "aloes"
+      ],
+      "bible": [
+        "Pnp 4,10-15"
+      ],
+      "summary": "Oblubieniec wychwala piękno miłości Oblubienicy - jej olejki, wargi ociekające miodem, mleko pod językiem, zapach szat. Ogrodem zamkniętym jesteś, źródlem zapieczętowanym, twoje owoce to raj drzew granatu.",
+      "text": [
+        "Oblubieniec",
+        "Jak piękne twe miłości,",
+        "jak piękne twe miłości!",
+        "Zapach twoich olejków",
+        "nad wszystkie balsamy miłości.",
+        "Miodem ociekają twoje wargi,        oblubienico, moja siostro,",
+        "miód i mleko pod twoim językiem.",
+        "Zapach twoich szat wonią Libanu,            oblubienico, ma oblubienico,",
+        "smaczniejsze od wina są twe miłości.",
+        "Ogrodem zamkniętym jesteś, siostro moja;",
+        "źródłem zapieczętowanym, ma oblubienico!",
+        "Twoje owoce - raj drzew granatu,",
+        "nardu i szafranu, mirry i aloesu."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "22-28",
+      "sentiment": "radosny",
+      "keywords": [
+        "wiatr",
+        "poludnie",
+        "ogrod",
+        "wonnosc",
+        "ukochany",
+        "rozkosz",
+        "owoc"
+      ],
+      "bible": [
+        "Pnp 4,16"
+      ],
+      "summary": "Oblubienica wzywa wiatr poludnia, by powiał w jej ogrodzie, aby rozlal swe wonności i mógł wejść jej ukochany.",
+      "text": [
+        "Oblubienica",
+        "Powstań,",
+        "wietrze południa i przybądź!",
+        "Powiej w moim ogrodzie,",
+        "aby rozlał swe wonności,",
+        "by mógł wejść mój ukochany",
+        "i rozkoszować się jego wybornymiowocami."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "30-33",
+      "sentiment": "radosny",
+      "keywords": [
+        "ogrod",
+        "oblubienica",
+        "miod",
+        "wino",
+        "mleko"
+      ],
+      "bible": [
+        "Pnp 5,1"
+      ],
+      "summary": "Oblubieniec: 'Wszedlem juz do mego ogrodu, ma oblubienico, spozylem moj miod z plastra, pilem moje wino i moje mleko'.",
+      "text": [
+        "Oblubieniec",
+        "Wszedłem już do mego ogrodu,      ma oblubienico,",
+        "spożyłem mój miód z plastra,",
+        "piłem moje wino i moje mleko."
+      ]
+    },
+    {
+      "type": "zakończenie",
+      "range": "35-36",
+      "sentiment": "radosny",
+      "keywords": [
+        "przyjaciel",
+        "pijcie",
+        "najdrożsi",
+        "upajajcie się"
+      ],
+      "bible": [
+        "Pnp 5,1",
+        "Prz 9,5"
+      ],
+      "summary": "Zaproszenie Oblubieńca do przyjaciół, by przyszli i pili oraz upajali się - uczta miłości.",
+      "text": [
+        "Przyjaciele, przyjdźcie,",
+        "pijcie, o najdrożsi i upajajcie się."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "38-42",
+      "sentiment": "radosny",
+      "keywords": [
+        "skraść",
+        "serce",
+        "siostra",
+        "oblubienica"
+      ],
+      "bible": [
+        "Pnp 4,9"
+      ],
+      "summary": "Koncowe powtorzenie refrenu 'Skradłaś mi serce'.",
+      "text": [
+        "Skradłaś mi serce,",
+        "skradłaś mi serce,",
+        "siostro ma, oblubienico,",
+        "skradłaś mi,",
+        "skradłaś mi serce."
+      ]
+    },
+    {
+      "type": "fragment",
+      "range": "1-42",
+      "sentiment": "radosny",
+      "keywords": [
+        "oblubieniec",
+        "oblubienica",
+        "serce",
+        "miłość",
+        "ogrod",
+        "zamknięty",
+        "zrodlo",
+        "wino",
+        "miod",
+        "mleko",
+        "wonnosc",
+        "uczta",
+        "zaproszenie",
+        "raj"
+      ],
+      "bible": [
+        "Pnp 4,9-5,1",
+        "Typologia: ogrod zamknięty = dziewictwo Maryi / czystość duszy; zrodlo zapieczętowane = nienaruszalność; wejście Oblubieńca do ogrodu = Wcielenie / Eucharystia; zaproszenie do picia = Eucharystia / uczta niebieska"
+      ],
+      "summary": "Oblubieniec wyznaje, że Oblubienica skradla Mu serce, i wychwala jej piękno. Oblubienica zaprasza Go do swego ogrodu, a On wchodzi i zaprasza przyjaciół do wspolnej uczty.",
+      "text": [
+        "Oblubieniec",
+        "Skradłaś mi serce,",
+        "skradłaś mi serce,",
+        "siostro ma, oblubienico,",
+        "skradłaś mi,",
+        "skradłaś mi serce.",
+        "",
+        "Oblubieniec",
+        "Jak piękne twe miłości,",
+        "jak piękne twe miłości!",
+        "Zapach twoich olejków",
+        "nad wszystkie balsamy miłości.",
+        "Miodem ociekają twoje wargi,        oblubienico, moja siostro,",
+        "miód i mleko pod twoim językiem.",
+        "Zapach twoich szat wonią Libanu,            oblubienico, ma oblubienico,",
+        "smaczniejsze od wina są twe miłości.",
+        "Ogrodem zamkniętym jesteś, siostro moja;",
+        "źródłem zapieczętowanym, ma oblubienico!",
+        "Twoje owoce - raj drzew granatu,",
+        "nardu i szafranu, mirry i aloesu.",
+        "",
+        "Oblubienica",
+        "Powstań,",
+        "wietrze południa i przybądź!",
+        "Powiej w moim ogrodzie,",
+        "aby rozlał swe wonności,",
+        "by mógł wejść mój ukochany",
+        "i rozkoszować się jego wybornymiowocami.",
+        "",
+        "Oblubieniec",
+        "Wszedłem już do mego ogrodu,      ma oblubienico,",
+        "spożyłem mój miód z plastra,",
+        "piłem moje wino i moje mleko.",
+        "",
+        "Przyjaciele, przyjdźcie,",
+        "pijcie, o najdrożsi i upajajcie się.",
+        "",
+        "Skradłaś mi serce,",
+        "skradłaś mi serce,",
+        "siostro ma, oblubienico,",
+        "skradłaś mi,",
+        "skradłaś mi serce."
+      ]
+    },
+    {
+      "type": "całość",
+      "range": "1-42",
+      "sentiment": "radosny",
+      "keywords": [
+        "skraść",
+        "serce",
+        "oblubieniec",
+        "oblubienica",
+        "siostra",
+        "miłość",
+        "ogrod",
+        "wonnosc",
+        "olejek",
+        "balsam",
+        "miod",
+        "mleko",
+        "wino",
+        "zrodlo",
+        "pieczęć",
+        "raj",
+        "wiatr poludnia",
+        "uczta",
+        "przyjaciel",
+        "eucharystia",
+        "piesń nad piesniami",
+        "zamknięty",
+        "zaproszenie"
+      ],
+      "bible": [
+        "Pnp 4,9 (skradłaś mi serce)",
+        "Pnp 4,10-11 (piękne twe miłości, miod i mleko pod językiem)",
+        "Pnp 4,12-14 (ogrod zamknięty, zrodlo zapieczętowane, raj drzew granatu)",
+        "Pnp 4,15-16 (ogrod, wiatr poludnia, wonności, wejście ukochanego)",
+        "Pnp 5,1 (wszedlem do mego ogrodu, spozylem miod, pilem wino i mleko, pijcie przyjaciele)",
+        "Typologia: oblubieniec = Chrystus, oblubienica = Kościół/Maryja/dusza; ogrod zamknięty = dziewictwo i czystość; zrodlo zapieczętowane = nienaruszona wiara; wejście ogrodu = Wcielenie i obecność eucharystyczna; zaproszenie przyjaciół = uczta niebieska / Eucharystia; miod, wino, mleko = dary Boże"
+      ],
+      "summary": "Pieśń na podstawie Pnp 4,9-5,1 z wyraźnie zaznaczonymi partiami Oblubieńca (Chrystusa) i Oblubienicy (Kościoła/duszy). Oblubieniec wyznaje, że Oblubienica skradla Mu serce, i wychwala jej piękno jako ogrodu zamkniętego i źrodla zapieczętowanego. Oblubienica wzywa wiatr, by rozniósł wonności jej ogrodu, po czym Oblubieniec wchodzi i zaprasza przyjaciół do wspolnej uczty miłości - obraz zjednoczenia eucharystycznego i eschatologicznego."
+    }
+  ]
+}

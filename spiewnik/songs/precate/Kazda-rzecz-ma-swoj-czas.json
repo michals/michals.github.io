@@ -1,0 +1,267 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:e2db9a4ecb794c479f74cfd435a79b5267c3f49ddc8ba29dbbf3b333d47dd026",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "wstęp",
+      "sentiment": "neutralny",
+      "keywords": [
+        "czas",
+        "sprawa",
+        "niebo",
+        "godzina",
+        "przemijanie",
+        "porządek",
+        "Opatrzność"
+      ],
+      "summary": "Wprowadzenie głoszące, że każda rzecz i sprawa pod niebem ma swój wyznaczony czas — teologiczna podstawa Bożego porządku czasu.",
+      "bible": [
+        "Koh 3, 1"
+      ],
+      "text": [
+        "Każda rzecz ma swój czas,",
+        "każda sprawa pod niebem ma swą godzinę.",
+        ""
+      ]
+    },
+    {
+      "range": "4-8",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "narodziny",
+        "śmierć",
+        "sadzenie",
+        "zbieranie",
+        "zabijanie",
+        "uzdrawianie",
+        "burzenie",
+        "budowanie",
+        "cykl życia",
+        "przemijanie"
+      ],
+      "summary": "Katalog przeciwieństw ludzkiego życia: narodziny i śmierć, sadzenie i zbieranie, zabijanie i uzdrawianie — wszystko ma swój czas.",
+      "bible": [
+        "Koh 3, 2-3"
+      ],
+      "text": [
+        "Jest czas narodzin i czas umierania,",
+        "czas sadzenia i czas zbierania,",
+        "czas zabijania i czas uzdrawiania,",
+        "czas burzenia i czas budowania.",
+        ""
+      ]
+    },
+    {
+      "range": "9-11",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "kamień",
+        "rzucanie",
+        "zbieranie",
+        "pocałunek",
+        "odmowa",
+        "miłość",
+        "relacja"
+      ],
+      "summary": "Czas kamieni i czas pocałunków — obraz zerwania i pojednania w relacjach międzyludzkich.",
+      "bible": [
+        "Koh 3, 5"
+      ],
+      "text": [
+        "Czas rzucania kamieni i czas ich zbierania,",
+        "czas pocałunków lub ich odmawiania.",
+        ""
+      ]
+    },
+    {
+      "range": "12-16",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "gubienie",
+        "szukanie",
+        "zbieranie",
+        "wyrzucanie",
+        "rozdzieranie",
+        "zeszywanie",
+        "mówienie",
+        "milczenie",
+        "przemijanie",
+        "mądrość"
+      ],
+      "summary": "Dalsze pary przeciwieństw: gubienie i szukanie, rozdzieranie i zeszywanie, mówienie i milczenie — mądrość rozeznawania czasu.",
+      "bible": [
+        "Koh 3, 6-7"
+      ],
+      "text": [
+        "Czas gubienia rzeczy i czas ich szukania,",
+        "zbierania dzisiaj, by wyrzucić jutro;",
+        "czas rozdzierania i czas zeszywania,",
+        "czas mówienia i czas milczenia.",
+        ""
+      ]
+    },
+    {
+      "range": "17-19",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "miłość",
+        "nienawiść",
+        "wojna",
+        "pojednanie",
+        "pokój",
+        "konflikt",
+        "przebaczenie"
+      ],
+      "summary": "Czas miłości i nienawiści, wojny i pokoju — najwyższe napięcia ludzkiej egzystencji podlegają Bożemu porządkowi czasu.",
+      "bible": [
+        "Koh 3, 8"
+      ],
+      "text": [
+        "Czas miłowania i czas nienawiści,",
+        "czas staczania wojen i czas pojednania.",
+        ""
+      ]
+    },
+    {
+      "range": "20-24",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "praca",
+        "trud",
+        "zysk",
+        "piękno",
+        "czas",
+        "Bóg",
+        "dar",
+        "Opatrzność",
+        "sens życia"
+      ],
+      "summary": "Refleksja nad sensem ludzkiego trudu: Bóg uczynił wszystko pięknym w swoim czasie, choć człowiek nie pojmuje pełni Jego planów.",
+      "bible": [
+        "Koh 3, 9-11"
+      ],
+      "text": [
+        "Co ma za zysk ten, który pracuje,",
+        "z całego trudu, jakim się mozoli?",
+        "Jest na pewno piękne, przychodzi w swoim czasie",
+        "to, co Bóg uczynił dla synów człowieczych.",
+        ""
+      ]
+    },
+    {
+      "range": "25-27",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "wieczność",
+        "serce",
+        "człowiek",
+        "plan",
+        "głębia",
+        "Bóg",
+        "tajemnica",
+        "Opatrzność",
+        "wiara"
+      ],
+      "summary": "Bóg wlał w serce człowieka pragnienie wieczności, lecz człowiek nie jest w stanie pojąć głębi Jego planów — teologia tajemnicy Bożej Opatrzności.",
+      "bible": [
+        "Koh 3, 11"
+      ],
+      "text": [
+        "Czucie wieczności wlał w serce człowieka,",
+        "lecz ten nie widzi głębin Jego planów.",
+        ""
+      ]
+    },
+    {
+      "range": "28-32",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "radość",
+        "owoc",
+        "praca",
+        "jedzenie",
+        "picie",
+        "dar",
+        "Bóg",
+        "życie",
+        "wdzięczność",
+        "znoju"
+      ],
+      "summary": "Człowiekowi pozostaje radować się owocami swego trudu, a jedzenie i picie uznawać za dar Boży — teologia codziennej wdzięczności.",
+      "bible": [
+        "Koh 3, 12-13",
+        "1 Tm 4, 4-5"
+      ],
+      "text": [
+        "Wiem, że dla człowieka nic nie pozostaje,",
+        "jak się radować owocami znoju;",
+        "to, co je i pije za dni swego życia,",
+        "nie jest niczym innym jak darem jego Boga.",
+        ""
+      ]
+    },
+    {
+      "range": "33-35",
+      "type": "zakończenie",
+      "sentiment": "neutralny",
+      "keywords": [
+        "dodać",
+        "ująć",
+        "Ojciec",
+        "ustanowienie",
+        "początek",
+        "Bóg",
+        "niezmienność",
+        "porządek",
+        "stworzenie"
+      ],
+      "summary": "Nic nie można dodać ani ująć temu, co Bóg ustanowił na początku — teologia niezmienności Bożego porządku stworzenia.",
+      "bible": [
+        "Koh 3, 14-15",
+        "Syr 18, 6",
+        "Rz 11, 33-36"
+      ],
+      "text": [
+        "Nic nie można dodać, nic nie można ująć,",
+        "od tego, co Ojciec już ustanowił",
+        "na początku czasów."
+      ]
+    },
+    {
+      "range": "1-35",
+      "type": "całość",
+      "sentiment": "neutralny",
+      "keywords": [
+        "czas",
+        "wieczność",
+        "przemijanie",
+        "mądrość",
+        "Boży plan",
+        "Opatrzność",
+        "radość",
+        "dar",
+        "praca",
+        "trud",
+        "cykl życia",
+        "niezmienność",
+        "Bóg",
+        "stworzenie"
+      ],
+      "summary": "Pieśń oparta na Księdze Koheleta (Koh 3, 1-15) jest mądrościową medytacją nad przemijalnością i rytmem ludzkiego życia, które podlega niezmiennemu porządkowi ustanowionemu przez Boga; wszystko ma swój czas, a człowiek jest wezwany do przyjęcia tego z wdzięcznością i pokorą.",
+      "bible": [
+        "Koh 3, 1-15",
+        "Rz 8, 20",
+        "1 Tm 4, 4-5",
+        "Rz 11, 33-36"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:46b7a01a98f5cc4f43d02f417a5c404f1f0f677cdfe18363b9b4ffbf8b2b48c6",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "amen",
+        "uwielbienie",
+        "Bóg",
+        "chwała",
+        "liturgia niebieska"
+      ],
+      "summary": "Potrójne Amen jako wstępna aklamacja liturgiczna, wprowadzająca w atmosferę niebiańskiego uwielbienia Boga.",
+      "bible": [
+        "Ap 7, 12"
+      ],
+      "text": [
+        "Amen, amen, amen!",
+        "Amen, amen, amen!",
+        "Amen, amen, amen!",
+        ""
+      ]
+    },
+    {
+      "range": "5-12",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "błogosławieństwo",
+        "chwała",
+        "mądrość",
+        "dziękczynienie",
+        "Bóg",
+        "uwielbienie",
+        "liturgia niebieska"
+      ],
+      "summary": "Wezwanie do oddawania Bogu błogosławieństwa, chwały, mądrości i dziękczynienia – bezpośrednie echo hymnu niebiańskiej liturgii z Apokalipsy świętego Jana.",
+      "bible": [
+        "Ap 7, 12"
+      ],
+      "text": [
+        "Błogosławieństwo,",
+        "chwałę i mądrość,",
+        "i dziękczynienie",
+        "oddajmy Bogu.",
+        "Amen, amen, amen!",
+        "Amen, amen, amen!",
+        "Amen, amen, amen!",
+        ""
+      ]
+    },
+    {
+      "range": "13-15",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "cześć",
+        "moc",
+        "potęga",
+        "Bóg",
+        "uwielbienie",
+        "liturgia niebieska"
+      ],
+      "summary": "Oddawanie czci, mocy i potęgi Bogu – kontynuacja niebiańskiej doksologii uzupełniająca katalog przymiotów Bożych.",
+      "bible": [
+        "Ap 5, 12",
+        "Ap 7, 12"
+      ],
+      "text": [
+        "Cześć i moc, i wszystką potęgę,",
+        "cześć i moc oddajmy Bogu.",
+        ""
+      ]
+    },
+    {
+      "range": "16-23",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "błogosławieństwo",
+        "chwała",
+        "mądrość",
+        "dziękczynienie",
+        "Bóg",
+        "uwielbienie",
+        "liturgia niebieska"
+      ],
+      "summary": "Powtórzenie wezwania do oddawania Bogu błogosławieństwa, chwały, mądrości i dziękczynienia – refreniczny powrót do niebiańskiej doksologii.",
+      "bible": [
+        "Ap 7, 12"
+      ],
+      "text": [
+        "Błogosławieństwo,",
+        "chwałę i mądrość,",
+        "i dziękczynienie",
+        "oddajmy Bogu.",
+        "Amen, amen, amen!",
+        "Amen, amen, amen!",
+        "Amen, amen, amen!",
+        ""
+      ]
+    },
+    {
+      "range": "24-26",
+      "type": "fragment",
+      "sentiment": "neutralny",
+      "keywords": [
+        "pytanie",
+        "tożsamość",
+        "zbawieni",
+        "Apokalipsa"
+      ],
+      "summary": "Pytanie retoryczne 'Kim są i skąd przychodzą?' nawiązujące do dialogu jednego ze starców z Janem w wizji liturgii niebieskiej.",
+      "bible": [
+        "Ap 7, 13"
+      ],
+      "text": [
+        "Kim są i skąd przychodzą?",
+        "Kim są i skąd przychodzą?",
+        ""
+      ]
+    },
+    {
+      "range": "27-39",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "utrapienie",
+        "szaty",
+        "Baranek",
+        "krew",
+        "oczyszczenie",
+        "zbawienie",
+        "męczennicy",
+        "opłukanie",
+        "wybielenie"
+      ],
+      "summary": "Odpowiedź identyfikująca zbawionych jako tych, którzy przeszli przez wielkie utrapienie i zostali oczyszczeni we krwi Baranka – centralny obraz soteriologiczny z typologicznym odniesieniem do Starego Testamentu.",
+      "bible": [
+        "Ap 7, 14",
+        "Ap 1, 5",
+        "Iz 1, 18",
+        "Hbr 9, 14"
+      ],
+      "text": [
+        "To ci, którzy przychodzą",
+        "z wielkiego utrapienia.",
+        "To ci, którzy przychodzą",
+        "z wielkiego utrapienia.",
+        "I opłukali swe szaty,",
+        "i je wybielili",
+        "we krwi Baranka,",
+        "we krwi Baranka.",
+        "To ci, którzy przychodzą",
+        "z wielkiego utrapienia.",
+        "To ci, którzy przychodzą",
+        "z wielkiego utrapienia.",
+        ""
+      ]
+    },
+    {
+      "range": "40-42",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "amen",
+        "uwielbienie",
+        "Baranek",
+        "Bóg",
+        "doksologia"
+      ],
+      "summary": "Potrójne Amen zamykające pieśń – uroczysta doksologia wieńcząca uwielbienie Boga i Baranka oraz potwierdzenie prawdy o zbawieniu przez krew Baranka.",
+      "bible": [
+        "Ap 7, 12"
+      ],
+      "text": [
+        "Amen, amen, amen!",
+        "Amen, amen, amen!",
+        "Amen, amen, amen!"
+      ]
+    },
+    {
+      "range": "1-42",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "amen",
+        "uwielbienie",
+        "Bóg",
+        "Baranek",
+        "krew Baranka",
+        "zbawienie",
+        "oczyszczenie",
+        "utrapienie",
+        "liturgia niebieska",
+        "doksologia",
+        "chwała",
+        "cześć",
+        "moc",
+        "mądrość",
+        "dziękczynienie",
+        "błogosławieństwo",
+        "męczennicy",
+        "szaty",
+        "zbawieni",
+        "potęga",
+        "Apokalipsa"
+      ],
+      "summary": "Pieśń osadzona w Ap 7, 12-14, łącząca niebiańską doksologię (błogosławieństwo, chwała, mądrość, dziękczynienie, cześć, moc, potęga) z obrazem zbawionych, którzy przeszli przez wielkie utrapienie i zostali oczyszczeni we krwi Baranka. Utwór ma strukturę liturgiczno-hymniczną, przechodzącą od uwielbienia przez katechezę o zbawieniu do końcowej doksologii.",
+      "bible": [
+        "Ap 7, 12-14",
+        "Ap 5, 12",
+        "Ap 1, 5",
+        "Iz 1, 18",
+        "Hbr 9, 14"
+      ]
+    }
+  ]
+}

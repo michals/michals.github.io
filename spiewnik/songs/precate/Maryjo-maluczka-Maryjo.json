@@ -1,0 +1,234 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:1e4a3e08642ede24d760d8401e28d2daa8e9d2166bd88311964cfeaa64b1a613",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "maluczka",
+        "powiew",
+        "łagodny",
+        "Eliasz",
+        "tchnienie",
+        "Duch Święty",
+        "krzak płonący",
+        "Mojżesz",
+        "Pan",
+        "Bóg",
+        "objawienie"
+      ],
+      "summary": "Maryja ukazana poprzez typologie starotestamentowe: łagodny powiew Eliasza (obecność Boga) i krzak płonący Mojżesza (Bóg obecny w stworzeniu, które nie ulega zniszczeniu) – zapowiedź Wcielenia.",
+      "bible": [
+        "1 Krl 19, 11-13",
+        "Wj 3, 1-6",
+        "Dz 2, 1-4"
+      ],
+      "text": [
+        "Maryjo, maluczka Maryjo,",
+        "powiewie łagodny Eliasza,",
+        "Tyś tchnieniem Ducha Bożego.",
+        "Tyś krzakiem płonącym Mojżesza,",
+        "który nosi Pana i się nie spala.",
+        ""
+      ]
+    },
+    {
+      "range": "7-12",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "miejsce obok",
+        "Pan",
+        "Mojżesz",
+        "skała",
+        "szczelina",
+        "Bóg",
+        "ręka",
+        "Chwała",
+        "objawienie",
+        "teofania",
+        "osłona"
+      ],
+      "summary": "Maryja jako 'miejsce obok mnie' i skalna szczelina, którą Bóg osłonił Mojżesza podczas przejścia swojej Chwały – typologia teofanii Synaju zastosowana do Maryi jako miejsca spotkania z Bogiem.",
+      "bible": [
+        "Wj 33, 18-23",
+        "1 Kor 10, 4",
+        "J 1, 14-18"
+      ],
+      "text": [
+        "Tyś jest „owym miejscem obok mnie”,",
+        "które Pan pokazał Mojżeszowi.",
+        "Tyś jest ową skalną szczeliną,",
+        "którą Bóg przykrył swoją ręką,",
+        "gdy przechodziła Jego Chwała.",
+        ""
+      ]
+    },
+    {
+      "range": "13-18",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Pan",
+        "łaska",
+        "grzesznik",
+        "błaganie",
+        "wstawiennictwo",
+        "dziedzictwo",
+        "Maryja",
+        "miłosierdzie",
+        "przebaczenie"
+      ],
+      "summary": "Błagalna modlitwa do Maryi o wstawiennictwo – prośba, aby Pan szedł z nami, uznanie własnej grzeszności i nadzieja na dziedzictwo Boże dzięki orędownictwu Maryi.",
+      "bible": [
+        "Wj 33, 12-17",
+        "Rz 8, 15-17",
+        "1 J 2, 1-2"
+      ],
+      "text": [
+        "Niechaj Pan idzie z nami,",
+        "jeśli znaleźliśmy łaskę w Jego oczach.",
+        "To prawda, że jesteśmy grzesznikami,",
+        "lecz Ty błagaj za nami,",
+        "a będziemy Jego dziedzictwem.",
+        ""
+      ]
+    },
+    {
+      "range": "19-23",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "maluczka",
+        "Córka jerozolimska",
+        "Matka",
+        "narody",
+        "Dziewica",
+        "Nazaret",
+        "Kościół",
+        "uniwersalizm",
+        "macierzyństwo"
+      ],
+      "summary": "Maryja jako Córka Jerozolimy, Matka wszystkich narodów i Dziewica z Nazaretu – ukazanie uniwersalnego wymiaru Jej macierzyństwa obejmującego wszystkie ludy.",
+      "bible": [
+        "Pnp 3, 5",
+        "Ga 4, 26",
+        "Ap 12, 1-2"
+      ],
+      "text": [
+        "Maryjo, maluczka Maryjo,",
+        "Córko jerozolimska,",
+        "Matko wszystkich narodów,",
+        "Dziewico z Nazaretu.",
+        ""
+      ]
+    },
+    {
+      "range": "24-29",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "obłok",
+        "pustynia",
+        "Izrael",
+        "Namiot Spotkania",
+        "Arka",
+        "Przymierze",
+        "Świątynia",
+        "Szekina",
+        "obecność Boża",
+        "Kościół"
+      ],
+      "summary": "Maryja jako obłok na pustyni (prowadzący Izraela), Namiot Spotkania, Arka niosąca Przymierze i Świątynia Szekiny – typologia obecności Boga pośród ludu wybranego wypełniona w Maryi.",
+      "bible": [
+        "Wj 13, 21-22",
+        "Wj 25, 8-9",
+        "Wj 26, 1-37",
+        "Wj 40, 34-38",
+        "2 Sm 6, 1-15",
+        "J 1, 14",
+        "Ap 21, 3"
+      ],
+      "text": [
+        "Tyś jest obłokiem na pustyni,",
+        "który osłania pochód Izraela,",
+        "Tyś jest Namiotem Spotkania,",
+        "Arką, która nosi Przymierze,",
+        "Świątynią Jego Szekina.",
+        ""
+      ]
+    },
+    {
+      "range": "30-34",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Pan",
+        "łaska",
+        "grzesznik",
+        "błaganie",
+        "wstawiennictwo",
+        "dziedzictwo",
+        "Maryja",
+        "miłosierdzie",
+        "przebaczenie"
+      ],
+      "summary": "Błagalna modlitwa do Maryi o wstawiennictwo – prośba, aby Pan szedł z nami, uznanie własnej grzeszności i nadzieja na dziedzictwo Boże dzięki orędownictwu Maryi.",
+      "bible": [
+        "Wj 33, 12-17",
+        "Rz 8, 15-17",
+        "1 J 2, 1-2"
+      ],
+      "text": [
+        "Niechaj Pan idzie z nami,",
+        "jeśli znaleźliśmy łaskę w Jego oczach.",
+        "To prawda, że jesteśmy grzesznikami,",
+        "lecz Ty błagaj za nami,",
+        "a będziemy Jego dziedzictwem."
+      ]
+    },
+    {
+      "range": "1-34",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "maluczka",
+        "typologia",
+        "Stary Testament",
+        "Eliasz",
+        "Mojżesz",
+        "krzak płonący",
+        "skała",
+        "Chwała Boża",
+        "obłok",
+        "Namiot Spotkania",
+        "Arka Przymierza",
+        "Szekina",
+        "wstawiennictwo",
+        "grzesznik",
+        "dziedzictwo",
+        "Kościół",
+        "Wcielenie"
+      ],
+      "summary": "Bogata w typologie starotestamentowe pieśń maryjna, ukazująca Maryję jako wypełnienie wszystkich figur obecności Boga w Starym Testamencie: krzak płonący, miejsce obok Boga, skalna szczelina, obłok na pustyni, Namiot Spotkania, Arka Przymierza, Świątynia Szekiny. Refren jest błagalną modlitwą o wstawiennictwo Maryi, aby Pan szedł z nami. Kontekst wielkopostny nadaje pieśni charakter pokutno-ufny.",
+      "bible": [
+        "Wj 3, 1-6",
+        "Wj 33, 18-23",
+        "Wj 13, 21-22",
+        "Wj 25, 8-9",
+        "Wj 40, 34-38",
+        "1 Krl 19, 11-13",
+        "2 Sm 6, 1-15",
+        "J 1, 14",
+        "Ap 21, 3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:180ae18299fd7d524d110815404462d5d349c416dfb3afa493abf1ceddc82923",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "Chrystus",
+        "niebo",
+        "chwała",
+        "prawica Boga",
+        "szukać",
+        "góra",
+        "Kol 3",
+        "Pascha",
+        "Jezus Chrystus"
+      ],
+      "summary": "Wezwanie do szukania rzeczywistości niebieskich, oparte na fakcie zmartwychwstania z Chrystusem i Jego uwielbieniu po prawicy Ojca.",
+      "bible": [
+        "Kol 3, 1",
+        "Ps 110, 1",
+        "Dz 7, 55-56"
+      ],
+      "text": [
+        "Jeśli zmartwychwstaliście z Chrystusem",
+        "szukajcie tego, co w górze,",
+        "gdzie przebywa Chrystus.",
+        "Gdzie przebywa Chrystus,",
+        "siedzący po prawicy Boga.",
+        ""
+      ]
+    },
+    {
+      "range": "7-12",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "niebo",
+        "ziemia",
+        "umrzeć",
+        "życie",
+        "ukryć",
+        "Chrystus",
+        "Bóg",
+        "chrzest",
+        "nowe stworzenie",
+        "sakrament"
+      ],
+      "summary": "Uczestnicy zmartwychwstania mają dążyć do dóbr niebieskich, gdyż ich życie jest ukryte z Chrystusem w Bogu.",
+      "bible": [
+        "Kol 3, 2-3",
+        "Rz 6, 3-4",
+        "Ga 2, 19-20"
+      ],
+      "text": [
+        "Dążcie do tego, co w niebie,",
+        "nie do tego, co na ziemi.",
+        "Wy jesteście umarli,",
+        "wy jesteście umarli i wasze życie",
+        "jest ukryte z Chrystusem w Bogu.",
+        ""
+      ]
+    },
+    {
+      "range": "13-19",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "Chrystus",
+        "szukać",
+        "góra",
+        "prawica Boga",
+        "niebo",
+        "chwała",
+        "Jezus Chrystus"
+      ],
+      "summary": "Powtórzenie refrenicznego wezwania do szukania Chrystusa uwielbionego po prawicy Boga.",
+      "bible": [
+        "Kol 3, 1",
+        "Ps 110, 1"
+      ],
+      "text": [
+        "Jeśli zmartwychwstaliście z Chrystusem",
+        "szukajcie tego, co w górze.",
+        "",
+        "gdzie przebywa Chrystus.",
+        "Gdzie przebywa Chrystus,",
+        "siedzący po prawicy Boga.",
+        ""
+      ]
+    },
+    {
+      "range": "20-23",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "chwała",
+        "objawienie",
+        "życie",
+        "zmartwychwstanie",
+        "paruzja",
+        "eschatologia",
+        "Jezus Chrystus"
+      ],
+      "summary": "Zapowiedź paruzji: gdy Chrystus się ukaże, wierni razem z Nim ukażą się w chwale.",
+      "bible": [
+        "Kol 3, 4",
+        "1 J 3, 2",
+        "Rz 8, 17-18"
+      ],
+      "text": [
+        "Gdy się ukaże Chrystus, wasze życie,",
+        "wtedy i wy, razem z Nim",
+        "ukażecie się w chwale.",
+        ""
+      ]
+    },
+    {
+      "range": "24-29",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "Chrystus",
+        "szukać",
+        "góra",
+        "prawica Boga",
+        "niebo",
+        "chwała",
+        "Jezus Chrystus"
+      ],
+      "summary": "Końcowe powtórzenie refrenu, ugruntowujące przesłanie o życiu w Chrystusie zmartwychwstałym.",
+      "bible": [
+        "Kol 3, 1",
+        "Ps 110, 1"
+      ],
+      "text": [
+        "Jeśli zmartwychwstaliście z Chrystusem",
+        "szukajcie tego, co w górze.",
+        "",
+        "gdzie przebywa Chrystus.",
+        "Gdzie przebywa Chrystus,",
+        "siedzący po prawicy Boga."
+      ]
+    },
+    {
+      "range": "1-29",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "Chrystus",
+        "niebo",
+        "chwała",
+        "prawica Boga",
+        "życie",
+        "paruzja",
+        "Kol 3",
+        "Pascha",
+        "eschatologia",
+        "Jezus Chrystus",
+        "Bóg Ojciec",
+        "chrzest"
+      ],
+      "summary": "Pieśń oparta na Kol 3, 1-4, wzywająca ochrzczonych do życia ukierunkowanego ku niebu w oczekiwaniu na chwalebne objawienie Chrystusa. Dominuje radosny ton paschalny i eschatologiczny.",
+      "bible": [
+        "Kol 3, 1-4",
+        "Rz 6, 3-4",
+        "Ps 110, 1",
+        "1 J 3, 2"
+      ]
+    }
+  ]
+}

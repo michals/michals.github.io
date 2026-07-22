@@ -1,0 +1,149 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:9ce95c1e654b4243c37d807e2a65ce7a882e2d5e3f4793ea0d89dbf959fca5a6",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "wstęp",
+      "sentiment": "neutralny",
+      "keywords": [
+        "uwodzenie",
+        "zmaganie",
+        "zwycięstwo",
+        "Pan"
+      ],
+      "summary": "Wyznanie proroka: Pan go uwiódł, zmagał się z nim i zwyciężył – ujarzmił i przemógł.",
+      "bible": [
+        "Jr 20, 7"
+      ],
+      "text": [
+        "Uwiodłeś mnie, Panie, a ja pozwoliłem się uwieść.",
+        "Zmagałeś się ze mną i zwyciężyłeś;",
+        "ujarzmiłeś mnie i przemogłeś!",
+        ""
+      ]
+    },
+    {
+      "range": "5-15",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "krzyk",
+        "przemoc",
+        "ciemiężenie",
+        "Słowo",
+        "kpina",
+        "zniewaga",
+        "ogień",
+        "serce",
+        "kości",
+        "Pan",
+        "zmaganie",
+        "zwycięstwo"
+      ],
+      "summary": "Skarga proroka, którego Słowo Boże wystawia na kpinę i zniewagę; choć chce zamilknąć, ogień Boży trawi jego serce i zmusza do mówienia.",
+      "bible": [
+        "Jr 20, 8-9",
+        "Łk 12, 49-50"
+      ],
+      "text": [
+        "Kiedy mówię, muszę krzyczeć:",
+        "przemoc, ciemiężenie!",
+        "Tak Twoje Słowo jest kpiną i zniewagą dla mnie.",
+        "Powiedziałem sobie: nie będę już myślał o Nim,",
+        "nie będę już mówił w Jego imię.",
+        "Lecz w moim sercu był ogień płonący,",
+        "który nurtował w moich kościach.",
+        "Uwiodłeś mnie, Panie, a ja pozwoliłem się uwieść.",
+        "Zmagałeś się ze mną i zwyciężyłeś;",
+        "ujarzmiłeś mnie i przemogłeś!",
+        ""
+      ]
+    },
+    {
+      "range": "16-23",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "przekleństwo",
+        "dzień",
+        "narodziny",
+        "cierpienie",
+        "ból",
+        "Pan",
+        "mocarz",
+        "bok"
+      ],
+      "summary": "Przekleństwo dnia narodzin i żal, że wyszedł z łona matki, by oglądać cierpienie – przełamane wyznaniem ufności: Ale jest Pan u mego boku jako mocarz potężny.",
+      "bible": [
+        "Jr 20, 14-18",
+        "Hi 3, 1-11"
+      ],
+      "text": [
+        "Przeklęty dzień, gdy się urodziłem!",
+        "Przeklęty człowiek, który powiadomił mego ojca:",
+        "„Urodził ci się syn - chłopiec!”",
+        "Dlaczego wyszedłem z łona mej matki,",
+        "gdy tylko muszę oglądać cierpienie i ból?",
+        "Ale jest Pan u mego boku",
+        "jako mocarz potężny.",
+        ""
+      ]
+    },
+    {
+      "range": "24-27",
+      "type": "zakończenie",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "hymn",
+        "wysławienie",
+        "wyzwolenie",
+        "ubogi",
+        "Pan",
+        "mocarz",
+        "bok"
+      ],
+      "summary": "Wezwanie do wysławiania Pana, który wyzwolił życie ubogiego – Pan jest u boku jako mocarz potężny.",
+      "bible": [
+        "Jr 20, 13",
+        "Rz 8, 31"
+      ],
+      "text": [
+        "Śpiewajcie hymny Panu, wysławiajcie Pana,",
+        "bo wyzwolił życie tego ubogiego!",
+        "Ale jest Pan u mego boku",
+        "jako mocarz potężny."
+      ]
+    },
+    {
+      "range": "1-27",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "uwodzenie",
+        "zmaganie",
+        "zwycięstwo",
+        "Słowo",
+        "ogień",
+        "cierpienie",
+        "przekleństwo",
+        "narodziny",
+        "ból",
+        "ufność",
+        "Pan",
+        "mocarz",
+        "hymn",
+        "wysławienie",
+        "wyzwolenie",
+        "ubogi"
+      ],
+      "summary": "Adaptacja Wyznania Jeremiasza (Jr 20, 7-18) – dramatyczne zmaganie proroka z powołaniem: od skargi na uwodzenie przez Boga i cierpienie z powodu Jego Słowa, przez przekleństwo dnia narodzin, po ufne wyznanie, że Pan jest u boku jako mocarz, kończące się hymnem dziękczynienia.",
+      "bible": [
+        "Jr 20, 7-18",
+        "Hi 3",
+        "Łk 12, 49-50",
+        "Rz 8, 31"
+      ]
+    }
+  ]
+}

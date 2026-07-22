@@ -1,0 +1,176 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:e4add8f16d6d3a9fb9829e1c3798b4436b1781e7662da8abe11cb38f73e47d90",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "zobaczyć",
+        "pięknie",
+        "przebywać",
+        "razem",
+        "brat"
+      ],
+      "summary": "Zaproszenie do podziwiania piękna wspólnoty braterskiej.",
+      "bible": [
+        "Ps 133, 1"
+      ],
+      "text": [
+        "Zobaczcie, jak jest pięknie",
+        "przebywać razem z braćmi.",
+        "Jak jest pięknie",
+        "przebywać razem z braćmi.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "olej",
+        "spływać",
+        "głowa",
+        "Aaron",
+        "namaszczenie",
+        "kapłan"
+      ],
+      "summary": "Jedność braci jest jak olej namaszczenia spływający na głowę Aarona.",
+      "bible": [
+        "Ps 133, 2",
+        "Wj 30, 22-33"
+      ],
+      "text": [
+        "Jest to jak olej, co spływa",
+        "na głowę Aarona.",
+        "Tak jak olej",
+        "na głowę Aarona.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "rosa",
+        "Hermon",
+        "góra",
+        "Syjon",
+        "spadać",
+        "orzeźwienie"
+      ],
+      "summary": "Jedność braci jest jak rosa z góry Hermon opadająca na góry Syjonu.",
+      "bible": [
+        "Ps 133, 3"
+      ],
+      "text": [
+        "Jest to jak rosa Hermonu",
+        "na górach Syjonu.",
+        "Tak jak rosa",
+        "na górach Syjonu.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jahwe",
+        "udzielić",
+        "błogosławieństwo",
+        "dar",
+        "jedność"
+      ],
+      "summary": "Tam, gdzie bracia są razem, Jahwe udziela swojego błogosławieństwa.",
+      "bible": [
+        "Ps 133, 3"
+      ],
+      "text": [
+        "Tam Jahwe nam udzielił",
+        "swego błogosławieństwa.",
+        "Tam udzielił",
+        "swego błogosławieństwa.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jahwe",
+        "podarować",
+        "życie",
+        "wieczny",
+        "dar",
+        "jedność"
+      ],
+      "summary": "Tam, gdzie bracia są razem, Jahwe daruje życie na wieki.",
+      "bible": [
+        "Ps 133, 3",
+        "J 10, 28"
+      ],
+      "text": [
+        "Tam Jahwe podarował",
+        "życie aż na wieki.",
+        "Podarował",
+        "życie aż na wieki.",
+        ""
+      ]
+    },
+    {
+      "range": "26-27",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "zobaczyć",
+        "pięknie",
+        "przebywać",
+        "razem",
+        "brat"
+      ],
+      "summary": "Końcowe wezwanie do podziwiania piękna braterskiej wspólnoty.",
+      "bible": [
+        "Ps 133, 1"
+      ],
+      "text": [
+        "Zobaczcie, jak jest pięknie",
+        "przebywać razem z braćmi."
+      ]
+    },
+    {
+      "range": "1-27",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "piękno",
+        "brat",
+        "jedność",
+        "wspólnota",
+        "olej",
+        "Aaron",
+        "namaszczenie",
+        "Hermon",
+        "rosa",
+        "Syjon",
+        "Jahwe",
+        "błogosławieństwo",
+        "życie",
+        "wieczny",
+        "dar",
+        "razem",
+        "góra"
+      ],
+      "summary": "Hebrajska pieśń na podstawie Ps 133 o pięknie braterskiej jedności, obrazowanej olejem Aarona i rosą Hermonu, gdzie Jahwe udziela błogosławieństwa i daruje życie wieczne.",
+      "bible": [
+        "Ps 133, 1-3",
+        "Wj 30, 22-33",
+        "J 10, 28"
+      ]
+    }
+  ]
+}

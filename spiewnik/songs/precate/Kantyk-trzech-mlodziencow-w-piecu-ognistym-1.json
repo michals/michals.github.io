@@ -1,0 +1,225 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:d26580e4e854850bc571d6a35584045a486dc9982bdd99f49e0150b0ee5e1fc4",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "Pan",
+        "Bóg",
+        "ojciec",
+        "chwała",
+        "cześć",
+        "wieczność",
+        "Trójca Święta"
+      ],
+      "summary": "Błogosławieństwo Pana, Boga ojców, który jest godny chwały na wieki — uwielbienie Boga w Trójcy Świętej.",
+      "bible": [
+        "Dn 3, 52",
+        "Rdz 15, 7",
+        "Wj 3, 15"
+      ],
+      "text": [
+        "Błogosławiony jesteś Panie,",
+        "Boże ojców naszych.",
+        "Godny czci i chwały,",
+        "godny chwały na wieki.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "imię",
+        "świętość",
+        "chwała",
+        "cześć",
+        "wieczność"
+      ],
+      "summary": "Imię Boże jest święte i chwalebne — uwielbienie świętości samego Boga objawionej w Jego imieniu.",
+      "bible": [
+        "Dn 3, 52",
+        "Wj 3, 14-15",
+        "Iz 6, 3",
+        "Mt 6, 9"
+      ],
+      "text": [
+        "Błogosławione imię Twe święte,",
+        "imię Twe chwalebne.",
+        "Godne czci i chwały,",
+        "godne chwały na wieki.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "Pan",
+        "świątynia",
+        "chwała",
+        "świętość",
+        "obecność Boża",
+        "Kościół"
+      ],
+      "summary": "Błogosławiony Pan w swojej świętej świątyni — miejsce obecności Boga pośród Jego ludu, wypełnione w Kościele.",
+      "bible": [
+        "Dn 3, 53",
+        "1 Krl 8, 10-11",
+        "1 Kor 3, 16"
+      ],
+      "text": [
+        "Błogosławiony jesteś Panie,",
+        "w Twej świętej, chwalebnej świątyni.",
+        "Godny czci i chwały,",
+        "godny chwały na wieki.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "Pan",
+        "tron",
+        "królestwo",
+        "chwała",
+        "królowanie",
+        "Królestwo Boże"
+      ],
+      "summary": "Błogosławiony Pan na tronie swojego królestwa — wyznanie królewskiej władzy Boga nad wszystkim.",
+      "bible": [
+        "Dn 3, 54",
+        "Ps 93, 1-2",
+        "Ap 4, 2-3"
+      ],
+      "text": [
+        "Błogosławiony jesteś Panie,",
+        "na tronie Twego Królestwa.",
+        "Godny czci i chwały,",
+        "godny chwały na wieki.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "Pan",
+        "przepaść",
+        "cherub",
+        "tron",
+        "chwała",
+        "wszechwiedza",
+        "majestat"
+      ],
+      "summary": "Błogosławiony Pan przenikający przepaści i zasiadający na cherubach — obraz Bożej wszechwiedzy i chwalebnego majestatu.",
+      "bible": [
+        "Dn 3, 55",
+        "Ps 18, 11",
+        "Ez 10, 1-5"
+      ],
+      "text": [
+        "Błogosławiony jesteś, który wzrokiem",
+        "przenikasz przepaści i siedzisz na cherubach.",
+        "Godny czci i chwały,",
+        "godny chwały na wieki.",
+        ""
+      ]
+    },
+    {
+      "range": "26-30",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "Pan",
+        "niebo",
+        "sklepienie",
+        "chwała",
+        "stworzenie",
+        "kosmos"
+      ],
+      "summary": "Błogosławiony Pan na sklepieniu nieba — uwielbienie Boga jako Stwórcy i Pana całego wszechświata.",
+      "bible": [
+        "Dn 3, 56",
+        "Rdz 1, 6-8",
+        "Ps 19, 2"
+      ],
+      "text": [
+        "Błogosławiony jesteś Panie,",
+        "na sklepieniu nieba.",
+        "Godny czci i chwały,",
+        "godny chwały na wieki.",
+        ""
+      ]
+    },
+    {
+      "range": "31-34",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "dzieło",
+        "Pan",
+        "błogosławieństwo",
+        "chwała",
+        "wysławianie",
+        "stworzenie",
+        "cały świat"
+      ],
+      "summary": "Wezwanie wszystkich dzieł Pańskich do błogosławienia, chwalenia i wysławiania Pana — kosmiczna liturgia uwielbienia.",
+      "bible": [
+        "Dn 3, 57",
+        "Ps 148",
+        "Ap 5, 13"
+      ],
+      "text": [
+        "Wszystkie dzieła Pańskie,",
+        "błogosławcie Pana.",
+        "Chwalcie Go i na wieki wysławiajcie.",
+        "Chwalcie Go i na wieki wysławiajcie!"
+      ]
+    },
+    {
+      "range": "1-34",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "chwała",
+        "uwielbienie",
+        "Pan",
+        "Bóg",
+        "imię",
+        "świątynia",
+        "tron",
+        "cherub",
+        "niebo",
+        "stworzenie",
+        "świętość",
+        "adoracja",
+        "wieczność"
+      ],
+      "summary": "Pieśń oparta na kantyku trzech młodzieńców (Dn 3, 52-57) jest uroczystym hymnem błogosławieństwa Boga za Jego świętość, chwałę i panowanie nad całym stworzeniem.",
+      "bible": [
+        "Dn 3, 52-57",
+        "Ps 148",
+        "Iz 6, 3",
+        "Ap 4, 8-11",
+        "Ap 5, 13"
+      ]
+    }
+  ]
+}

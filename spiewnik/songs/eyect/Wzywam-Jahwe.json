@@ -1,0 +1,187 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:883df3fb88a91ed705a181a6f579be853bbf0600503d516d89b0aceec856eaf8",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wzywać",
+        "Jahwe",
+        "chwała",
+        "Bóg",
+        "Pan",
+        "uwielbienie"
+      ],
+      "summary": "Refrenowe wezwanie Jahwe godnego chwały, stanowiące wołanie o pomoc i uwielbienie.",
+      "bible": [
+        "Ps 18,4"
+      ],
+      "text": [
+        "Wzywam Jahwe,",
+        "wzywam Jahwe,",
+        "wzywam Jahwe",
+        "godnego chwały."
+      ]
+    },
+    {
+      "range": "5-8",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "ręka",
+        "wyciągnąć",
+        "ton",
+        "woda",
+        "wróg",
+        "nienawiść",
+        "ocalenie",
+        "Jahwe",
+        "Bóg"
+      ],
+      "summary": "Opis Bożej interwencji: Bóg wyciąga rękę z wysoka, wydobywa z toni i wyrywa od wrogów.",
+      "bible": [
+        "Ps 18,17-18"
+      ],
+      "text": [
+        "A On wyciąga rękę z wysoka,",
+        "a On wydobywa mnie z toni ogromnej.",
+        "Wyrywa mnie od silniejszego wroga,",
+        "od wszystkich, co mnie nienawidzą."
+      ]
+    },
+    {
+      "range": "9",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wzywać",
+        "Jahwe",
+        "chwała"
+      ],
+      "summary": "Skrócone powtórzenie refrenu jako znak powrotu do wezwania.",
+      "bible": [
+        "Ps 18,4"
+      ],
+      "text": [
+        "Wzywam Jahwe, …"
+      ]
+    },
+    {
+      "range": "10-13",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "obrona",
+        "Pan",
+        "miejsce",
+        "przestronny",
+        "ocalenie",
+        "miłość",
+        "Bóg",
+        "zaufanie"
+      ],
+      "summary": "Wyznanie, że Pan jest obroną wyprowadzającą na miejsce przestronne; ocala, ponieważ miłuje.",
+      "bible": [
+        "Ps 18,19-20"
+      ],
+      "text": [
+        "Bo Pan jest dla mnie obroną,",
+        "wyprowadza mnie na miejsce przestronne.",
+        "Ocala, bo mnie miłuje,",
+        "ocala, bo mnie miłuje."
+      ]
+    },
+    {
+      "range": "14",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wzywać",
+        "Jahwe",
+        "chwała"
+      ],
+      "summary": "Skrócone powtórzenie refrenu.",
+      "bible": [
+        "Ps 18,4"
+      ],
+      "text": [
+        "Wzywam Jahwe, …"
+      ]
+    },
+    {
+      "range": "15-18",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "moc",
+        "przepasać",
+        "droga",
+        "tarcza",
+        "schronienie",
+        "Pan",
+        "Bóg",
+        "nienaganność"
+      ],
+      "summary": "Wyznanie, że Pan przepasał psalmistę mocą, uczynił nienaganną jego drogę i jest tarczą dla chroniących się do Niego.",
+      "bible": [
+        "Ps 18,31-33",
+        "Ps 18,36"
+      ],
+      "text": [
+        "To Pan przepasał mnie mocą",
+        "i nienaganną uczynił mą drogę.",
+        "On tarczą dla tych, co doń się chronią,",
+        "On tarczą dla tych, co doń się chronią."
+      ]
+    },
+    {
+      "range": "19-22",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Pan",
+        "Bóg",
+        "nasz",
+        "uwielbienie",
+        "doksologia"
+      ],
+      "summary": "Doksologiczne zakończenie oddające chwałę Panu Bogu naszemu.",
+      "bible": [
+        "Ps 18,47"
+      ],
+      "text": [
+        "Chwała Panu,",
+        "chwała Panu,",
+        "chwała Panu,",
+        "Bogu naszemu."
+      ]
+    },
+    {
+      "range": "1-22",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jahwe",
+        "Pan",
+        "wzywać",
+        "chwała",
+        "ocalenie",
+        "wróg",
+        "obrona",
+        "miłość",
+        "moc",
+        "tarcza",
+        "dziękczynienie",
+        "uwielbienie",
+        "Bóg"
+      ],
+      "summary": "Parafraza Psalmu 18, będąca dziękczynnym wołaniem do Jahwe – Boga, który wybawia z toni, broni przed wrogami, obdarza mocą i jest tarczą dla ufających Mu.",
+      "bible": [
+        "Ps 18"
+      ]
+    }
+  ]
+}

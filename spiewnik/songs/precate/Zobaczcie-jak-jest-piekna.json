@@ -1,0 +1,270 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:0508c6336c1922a879671fe9e63263f509caa7eb8e108f4c486a59d053f997d5",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zobaczyć",
+        "piękny",
+        "skosztować",
+        "słodki",
+        "miłość",
+        "brat",
+        "razem"
+      ],
+      "summary": "Zaproszenie do zobaczenia piękna i skosztowania słodyczy miłości braterskiej.",
+      "bible": [
+        "Ps 133, 1"
+      ],
+      "text": [
+        "Zobaczcie, jak jest piękna,",
+        "skosztujcie, jak jest słodka",
+        "miłość między braćmi.",
+        "Zobaczcie, jak jest pięknie,",
+        "skosztujcie, jak jest słodko,",
+        "gdy bracia są razem."
+      ]
+    },
+    {
+      "range": "7-11",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "olej",
+        "spływać",
+        "głowa",
+        "Aaron",
+        "pachnący",
+        "broda",
+        "namaszczenie"
+      ],
+      "summary": "Miłość braterska jest jak olej namaszczenia Aarona, spływający na brodę.",
+      "bible": [
+        "Ps 133, 2",
+        "Wj 30, 22-33"
+      ],
+      "text": [
+        "",
+        "Jak olej, co spływa na głowę,",
+        "spływa na głowę Aarona.",
+        "To jest jak olej pachnący, co spływa",
+        "na brodę Aarona."
+      ]
+    },
+    {
+      "range": "12-17",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zobaczyć",
+        "piękny",
+        "skosztować",
+        "słodki",
+        "miłość",
+        "brat",
+        "razem"
+      ],
+      "summary": "Refren o pięknie i słodyczy braterskiej jedności.",
+      "bible": [
+        "Ps 133, 1"
+      ],
+      "text": [
+        "Zobaczcie, jak jest piękna,",
+        "skosztujcie, jak jest słodka",
+        "miłość między braćmi.",
+        "Zobaczcie, jak jest pięknie,",
+        "skosztujcie, jak jest słodko,",
+        "gdy bracia są razem."
+      ]
+    },
+    {
+      "range": "18-22",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "rosa",
+        "góra",
+        "Hermon",
+        "spadać",
+        "Syjon",
+        "błogosławieństwo"
+      ],
+      "summary": "Miłość braterska jest jak rosa Hermonu spadająca na Syjon.",
+      "bible": [
+        "Ps 133, 3"
+      ],
+      "text": [
+        "",
+        "Jak rosa z góry Hermonu,",
+        "co spada na górę Syjonu.",
+        "To jest jak rosa z góry Hermonu,",
+        "co spada na Syjon."
+      ]
+    },
+    {
+      "range": "23-30",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zobaczyć",
+        "piękny",
+        "skosztować",
+        "słodki",
+        "miłość",
+        "brat",
+        "razem"
+      ],
+      "summary": "Refren o pięknie i słodyczy braterskiej jedności.",
+      "bible": [
+        "Ps 133, 1"
+      ],
+      "text": [
+        "Zobaczcie, jak jest piękna,",
+        "skosztujcie, jak jest słodka",
+        "miłość między braćmi.",
+        "",
+        "Zobaczcie, jak jest pięknie,",
+        "skosztujcie, jak jest słodko,",
+        "gdy bracia są razem.",
+        ""
+      ]
+    },
+    {
+      "range": "31-34",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "użyczać",
+        "błogosławieństwo",
+        "wielki",
+        "miłość"
+      ],
+      "summary": "Tam, gdzie bracia są razem, Pan udziela swojego błogosławieństwa i wielkiej miłości.",
+      "bible": [
+        "Ps 133, 3",
+        "Mt 18, 20"
+      ],
+      "text": [
+        "Bo tam Pan użycza",
+        "swojego błogosławieństwa.",
+        "Bo tam nasz Pan użycza",
+        "swej wielkiej miłości."
+      ]
+    },
+    {
+      "range": "35-40",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zobaczyć",
+        "piękny",
+        "skosztować",
+        "słodki",
+        "miłość",
+        "brat",
+        "razem"
+      ],
+      "summary": "Refren o pięknie i słodyczy braterskiej jedności.",
+      "bible": [
+        "Ps 133, 1"
+      ],
+      "text": [
+        "Zobaczcie, jak jest piękna,",
+        "skosztujcie, jak jest słodka",
+        "miłość między braćmi.",
+        "Zobaczcie, jak jest pięknie,",
+        "skosztujcie, jak jest słodko,",
+        "gdy bracia są razem."
+      ]
+    },
+    {
+      "range": "41-45",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "dawać",
+        "życie",
+        "wieczny",
+        "własny",
+        "dar"
+      ],
+      "summary": "Tam, gdzie bracia są razem, Pan daje życie wieczne i swoje własne życie.",
+      "bible": [
+        "J 6, 51",
+        "J 10, 10-11"
+      ],
+      "text": [
+        "",
+        "Bo tam Pan nam daje",
+        "życie na wieki.",
+        "Bo tam nasz Pan nam daje",
+        "swe własne życie."
+      ]
+    },
+    {
+      "range": "46-51",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "zobaczyć",
+        "piękny",
+        "skosztować",
+        "słodki",
+        "miłość",
+        "brat",
+        "razem"
+      ],
+      "summary": "Końcowe potwierdzenie piękna i słodyczy braterskiej jedności.",
+      "bible": [
+        "Ps 133, 1"
+      ],
+      "text": [
+        "Zobaczcie, jak jest piękna,",
+        "skosztujcie, jak jest słodka",
+        "miłość między braćmi.",
+        "Zobaczcie, jak jest pięknie,",
+        "skosztujcie, jak jest słodko,",
+        "gdy bracia są razem."
+      ]
+    },
+    {
+      "range": "1-51",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "brat",
+        "jedność",
+        "razem",
+        "olej",
+        "Aaron",
+        "namaszczenie",
+        "Hermon",
+        "rosa",
+        "Syjon",
+        "błogosławieństwo",
+        "życie",
+        "wieczny",
+        "Pan",
+        "piękny",
+        "słodki",
+        "góra",
+        "dar",
+        "obecność"
+      ],
+      "summary": "Pieśń oparta na Ps 133, wysławiająca piękno braterskiej jedności obrazowanej olejem namaszczenia Aarona i rosą Hermonu, gdzie Pan udziela błogosławieństwa i daruje życie wieczne.",
+      "bible": [
+        "Ps 133, 1-3",
+        "Wj 30, 22-33",
+        "J 6, 51",
+        "J 10, 10-11",
+        "Mt 18, 20"
+      ]
+    }
+  ]
+}

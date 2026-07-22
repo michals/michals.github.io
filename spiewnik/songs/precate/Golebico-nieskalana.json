@@ -1,0 +1,227 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:14e79da7eeec56023b608ff6d83a6d66c3193537181063c58b983f5f66b08b45",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "Maryja",
+        "słońce",
+        "drogowskaz",
+        "nadzieja",
+        "krańce ziemi",
+        "Gołębica nieskalana",
+        "piękno Ducha",
+        "chwała",
+        "stworzenie"
+      ],
+      "summary": "Pierwsza zwrotka wzywa Maryję do radości, opisując Ją jako jaśniejącą jak słońce, Gołębicę nieskalaną, w której mieszka całe piękno Ducha Świętego — nawiązanie do Niepokalanego Poczęcia i teofanii chwały Bożej.",
+      "bible": [
+        "Pnp 4, 7",
+        "Pnp 6, 10",
+        "Łk 1, 28",
+        "Ap 12, 1",
+        "Rdz 1, 31"
+      ],
+      "text": [
+        "Rozraduj się, Maryjo,",
+        "jaśniejąca jak słońce,",
+        "Ty wskazujesz nam drogę,",
+        "nadziejo krańców ziemi.",
+        "Ty jesteś jedyną Gołębicą nieskalaną,",
+        "W Tobie jest całe piękno Ducha,",
+        "„Chwała”, która w świecie upiększa stworzenie."
+      ]
+    },
+    {
+      "range": "8-13",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "Maryja",
+        "słońce",
+        "Gołębica nieskalana",
+        "ucieczka",
+        "słaba dusza",
+        "Arka Ducha Świętego",
+        "schronienie"
+      ],
+      "summary": "Refren sławi Maryję jako jaśniejącą jak słońce, Gołębicę nieskalaną, ucieczkę słabych dusz i Arkę Ducha Świętego, łącząc symbolikę starotestamentalnej Arki Przymierza (2 Sm 6) z nowotestamentalnym wcieleniem Ducha Świętego w Maryi (Łk 1, 35).",
+      "bible": [
+        "Łk 1, 28",
+        "Łk 1, 35",
+        "Ap 12, 1",
+        "2 Sm 6",
+        "Ap 11, 19"
+      ],
+      "text": [
+        "Rozraduj się, Maryjo,",
+        "Jaśniejąca jak słońce,",
+        "Gołębico nieskalana,",
+        "Ucieczko słabych dusz,",
+        "Arko Ducha Świętego.",
+        ""
+      ]
+    },
+    {
+      "range": "14-19",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "radość",
+        "Maryja",
+        "słońce",
+        "wstawiennictwo",
+        "ludzie",
+        "ucieczka",
+        "słaba dusza",
+        "filakterion",
+        "czystość",
+        "Arka wonna Ducha Świętego",
+        "orędownictwo"
+      ],
+      "summary": "Druga zwrotka podkreśla wstawienniczą rolę Maryi za wszystkich ludzi, Jej tytuł ucieczki słabych dusz i filakterionu (naczynia) doskonałej czystości, oraz Arki wonnej Ducha Świętego — obraz Maryi jako orędowniczki i wzoru dziewictwa.",
+      "bible": [
+        "Łk 1, 35",
+        "Łk 1, 48",
+        "J 2, 1-5",
+        "1 Kor 3, 16"
+      ],
+      "text": [
+        "Rozraduj się, Maryjo,",
+        "jaśniejąca jak słońce,",
+        "Ty wstawiasz się za wszystkimi ludźmi.",
+        "Tyś jest ucieczką słabych dusz,",
+        "filakterio doskonałej czystości,",
+        "Arko wonna Ducha Świętego."
+      ]
+    },
+    {
+      "range": "20-26",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "Maryja",
+        "słońce",
+        "Gołębica nieskalana",
+        "ucieczka",
+        "słaba dusza",
+        "Arka Ducha Świętego"
+      ],
+      "summary": "Powtórzenie refrenu sławiącego Maryję jako Arkę Ducha Świętego i ucieczkę słabych.",
+      "bible": [
+        "Łk 1, 28",
+        "Łk 1, 35",
+        "Ap 12, 1"
+      ],
+      "text": [
+        "",
+        "Rozraduj się, Maryjo,",
+        "Jaśniejąca jak słońce,",
+        "Gołębico nieskalana,",
+        "Ucieczko słabych dusz,",
+        "Arko Ducha Świętego.",
+        ""
+      ]
+    },
+    {
+      "range": "27-31",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "radość",
+        "Maryja",
+        "słońce",
+        "błaganie",
+        "ludzie",
+        "Matka",
+        "prośba",
+        "Kościół",
+        "siła łaski",
+        "świętość",
+        "orędownictwo"
+      ],
+      "summary": "Trzecia zwrotka — Maryja jako Matka błagana przez wszystkich ludzi za Kościół, prośba o nową siłę łaski i świętości dla wspólnoty wierzących, ukazująca Maryję jako Matkę Kościoła.",
+      "bible": [
+        "J 19, 26-27",
+        "Dz 1, 14",
+        "Ap 12, 17"
+      ],
+      "text": [
+        "Rozraduj się, Maryjo,",
+        "jaśniejąca jak słońce,",
+        "Ciebie błagają wszyscy ludzie,",
+        "Matko, Ciebie prosimy za Kościół:",
+        "Daj mu nową siłę łaski i świętości."
+      ]
+    },
+    {
+      "range": "32-36",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "Maryja",
+        "słońce",
+        "Gołębica nieskalana",
+        "ucieczka",
+        "słaba dusza",
+        "Arka Ducha Świętego"
+      ],
+      "summary": "Końcowe powtórzenie refrenu, zamykające hymn maryjny uwielbieniem Maryi jako Arki Ducha Świętego.",
+      "bible": [
+        "Łk 1, 28",
+        "Łk 1, 35",
+        "Ap 12, 1"
+      ],
+      "text": [
+        "Rozraduj się, Maryjo,",
+        "Jaśniejąca jak słońce,",
+        "Gołębico nieskalana,",
+        "Ucieczko słabych dusz,",
+        "Arko Ducha Świętego."
+      ]
+    },
+    {
+      "range": "1-36",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Gołębica nieskalana",
+        "Niepokalane Poczęcie",
+        "Arka Ducha Świętego",
+        "Orędownictwo",
+        "Matka Kościoła",
+        "słońce",
+        "radość",
+        "ucieczka",
+        "świętość",
+        "Ap 12",
+        "Okres Wielkanocny",
+        "Pieśni Maryjne",
+        "hymn",
+        "Roman Melodos"
+      ],
+      "summary": "Hymn maryjny inspirowany tradycją kontakiów Romana Melodosa, sławiący Maryję jako Gołębicę nieskalaną (Niepokalane Poczęcie), Arkę Ducha Świętego, Ucieczkę słabych dusz i Matkę Kościoła. Łączy typologię Arki Przymierza (2 Sm 6) z nowotestamentalnym wypełnieniem w Wcieleniu, szczególnie stosowny na Okres Wielkanocny jako wyraz chrystologicznej i pneumatologicznej roli Maryi w dziele zbawienia.",
+      "bible": [
+        "Pnp 4, 7",
+        "Pnp 6, 10",
+        "Łk 1, 28",
+        "Łk 1, 35",
+        "Łk 1, 48",
+        "J 2, 1-5",
+        "J 19, 26-27",
+        "Dz 1, 14",
+        "Ap 12, 1-17",
+        "2 Sm 6",
+        "Ap 11, 19"
+      ]
+    }
+  ]
+}

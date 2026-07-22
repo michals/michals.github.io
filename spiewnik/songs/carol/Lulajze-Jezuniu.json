@@ -1,0 +1,198 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a2b085b1f7c57e4e99f83ab0f4637a38cbea84f4a6a3317f948e28bc74063232",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "perła",
+        "Matka",
+        "Maryja",
+        "płacz",
+        "ukojenie",
+        "kołysanka",
+        "Narodzenie",
+        "miłość",
+        "czułość"
+      ],
+      "summary": "Matka utula płaczącego Jezusa, nazywając Go swoją perełką i pieścidełkiem.",
+      "bible": [
+        "Łk 2, 16"
+      ],
+      "text": [
+        "Lulajże Jezuniu, moja Perełko,",
+        "lulaj, ulubione me pieścidełko.",
+        "Lulajże Jezuniu, lulajże, lulaj,",
+        "a Ty Go, Matulu, w płaczu utulaj.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "płacz",
+        "zmęczenie",
+        "Matka",
+        "Maryja",
+        "ukojenie",
+        "sen",
+        "kołysanka",
+        "czułość"
+      ],
+      "summary": "Prośba o zamknięcie znużonych płaczem powiek i utulenie zmęczonych łkaniem ust.",
+      "bible": [
+        "Łk 2, 16"
+      ],
+      "text": [
+        "Zamknijże znużone płaczem powieczki,",
+        "utulże zemdlone łkaniem usteczki.",
+        "Lulajże Jezuniu, lulajże, lulaj,",
+        "a Ty Go, Matulu, w płaczu utulaj.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Anioł",
+        "kwiat",
+        "świat",
+        "piękno",
+        "Matka",
+        "Maryja",
+        "kołysanka",
+        "Narodzenie"
+      ],
+      "summary": "Jezus nazwany piękniuchnym Aniołeczkiem i wdzięczniuchnym świata Kwiateczkiem.",
+      "bible": [
+        "Łk 2, 16"
+      ],
+      "text": [
+        "Lulajże piękniuchny nasz Aniołeczku,",
+        "lulajże wdzięczniuchny świata Kwiateczku.",
+        "Lulajże Jezuniu, lulajże, lulaj,",
+        "a Ty Go, Matulu, w płaczu utulaj.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "róża",
+        "lilia",
+        "piękno",
+        "symbol",
+        "Matka",
+        "Maryja",
+        "kołysanka",
+        "Narodzenie"
+      ],
+      "summary": "Jezus nazwany najozdobniejszą Różyczką i najprzyjemniejszą Lilijką – symbolika czystości i piękna.",
+      "bible": [
+        "Pnp 2, 1-2",
+        "Łk 2, 16"
+      ],
+      "text": [
+        "Lulajże Różyczko najozdobniejsza,",
+        "lulajże Lilijko najprzyjemniejsza.",
+        "Lulajże Jezuniu, lulajże, lulaj,",
+        "a Ty Go, Matulu, w płaczu utulaj.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "gwiazda",
+        "słońce",
+        "światłość",
+        "świat",
+        "Matka",
+        "Maryja",
+        "kołysanka",
+        "Narodzenie"
+      ],
+      "summary": "Jezus nazwany przyjemną oczom Gwiazdeczką i najśliczniejszym świata Słoneczkiem – światłość świata.",
+      "bible": [
+        "J 8, 12",
+        "Łk 2, 16"
+      ],
+      "text": [
+        "Lulajże przyjemna oczom Gwiazdeczko,",
+        "lulaj, najśliczniejsze świata Słoneczko.",
+        "Lulajże Jezuniu, lulajże, lulaj,",
+        "a Ty Go, Matulu, w płaczu utulaj.",
+        ""
+      ]
+    },
+    {
+      "range": "26-29",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "niebo",
+        "spoczynek",
+        "ziemia",
+        "miłość",
+        "Matka",
+        "Maryja",
+        "tęsknota",
+        "wieczność",
+        "Narodzenie"
+      ],
+      "summary": "Wyrażenie pragnienia spoczynku z Jezusem w niebie i kochania Go na ziemi.",
+      "bible": [
+        "J 14, 2-3",
+        "Łk 2, 16"
+      ],
+      "text": [
+        "My z Tobą tam w niebie spocząć pragniemy,",
+        "Ciebie tu na ziemi kochać będziemy.",
+        "Lulajże Jezuniu, lulajże, lulaj,",
+        "a Ty Go, Matulu, w płaczu utulaj."
+      ]
+    },
+    {
+      "range": "1-29",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Maryja",
+        "Matka",
+        "Narodzenie",
+        "kołysanka",
+        "miłość",
+        "czułość",
+        "światłość",
+        "piękno",
+        "niebo",
+        "wieczność",
+        "Wcielenie"
+      ],
+      "summary": "Tradycyjna kołysanka Maryi do Dzieciątka Jezus, pełna czułych metafor (perła, róża, lilia, gwiazda, słońce), wyrażająca macierzyńską miłość i pragnienie wiecznego zjednoczenia z Bogiem.",
+      "bible": [
+        "Łk 2, 16",
+        "J 8, 12",
+        "Pnp 2, 1-2",
+        "J 14, 2-3"
+      ]
+    }
+  ]
+}

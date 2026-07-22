@@ -1,0 +1,230 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:5b34fd3f8427189f25b05c12a5d85f8bd2916d1cc456f0e9aa638e644f119e19",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "Pan",
+        "Bóg",
+        "skała",
+        "Wybawiciel",
+        "uwielbienie",
+        "zaufanie",
+        "ostoją"
+      ],
+      "summary": "Refren wyznania miłości do Boga jako skały, wybawiciela i opoki. Osobista deklaracja zaufania i uwielbienia inspirowana Psalmem 18.",
+      "bible": [
+        "Ps 18, 2-3"
+      ],
+      "text": [
+        "Kocham Cię, Panie, Tyś moją skałą.",
+        "Tyś mym Wybawicielem, Tyś moim Bogiem.",
+        "Kocham Cię, kocham Cię, Panie."
+      ]
+    },
+    {
+      "range": "4",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "1-3",
+      "bible": [],
+      "text": [
+        "melodia a)"
+      ]
+    },
+    {
+      "range": "5-9",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "śmierć",
+        "fale",
+        "ogarnięcie",
+        "trąba",
+        "Belial",
+        "pęta",
+        "szeol",
+        "sidła",
+        "lęk",
+        "zagrożenie",
+        "otchłań"
+      ],
+      "summary": "Opis skrajnego zagrożenia śmiercią i mocami zła – fale śmierci, pęta szeolu, sidła śmierci. Prefiguracja zejścia Chrystusa do otchłani oraz ludzkiego doświadczenia krańcowej słabości.",
+      "bible": [
+        "Ps 18, 5-6",
+        "Oz 13, 14"
+      ],
+      "text": [
+        "",
+        "Fale śmierci ogarniały mnie,",
+        "przerażały mnie trąby Beliala,",
+        "ściskały mnie pęta szeolu,",
+        "pochwycony byłem w sidła śmierci."
+      ]
+    },
+    {
+      "range": "10",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "5-9",
+      "bible": [],
+      "text": [
+        "melodia b)"
+      ]
+    },
+    {
+      "range": "11-13",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wołanie",
+        "Pan",
+        "Bóg",
+        "udręczenie",
+        "przyzywanie",
+        "modlitwa",
+        "zawierzenie"
+      ],
+      "summary": "Wołanie do Pana w udręczeniu – modlitwa człowieka w skrajnym niebezpieczeństwie, który przyzywa Boga. Wyraz ufności, że Bóg słyszy głos swoich wiernych.",
+      "bible": [
+        "Ps 18, 7",
+        "Ps 34, 18",
+        "Ps 120, 1"
+      ],
+      "text": [
+        "",
+        "Wołałem Pana w moim udręczeniu,",
+        "mego Boga, mego Boga przyzywałem;"
+      ]
+    },
+    {
+      "range": "14-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "wysłuchanie",
+        "głos",
+        "świątynia",
+        "krzyk",
+        "Bóg",
+        "odpowiedź",
+        "modlitwa",
+        "zbawienie"
+      ],
+      "summary": "Bóg wysłuchuje wołanie ze swojej świątyni – odpowiedź Boga na modlitwę cierpiącego. Objawienie Bożej bliskości i gotowości do niesienia pomocy.",
+      "bible": [
+        "Ps 18, 7-8",
+        "Ps 3, 5",
+        "Jon 2, 8"
+      ],
+      "text": [
+        "",
+        "i usłyszał mój głos ze swej świątyni,",
+        "i dotarł do Jego ucha mój krzyk;"
+      ]
+    },
+    {
+      "range": "17-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ziemia",
+        "poruszenie",
+        "zachwianie",
+        "fundament",
+        "góra",
+        "niebiosa",
+        "zstąpienie",
+        "Bóg",
+        "teofania",
+        "majestat"
+      ],
+      "summary": "Teofaniczny opis interwencji Boga – ziemia się porusza, fundamenty gór drżą, Bóg pochyla niebiosa i zstępuje. Klasyczny obraz biblijnej teofanii ukazującej wszechmoc Boga wkraczającego w historię.",
+      "bible": [
+        "Ps 18, 8-10",
+        "Wj 19, 18",
+        "Sdz 5, 4-5",
+        "Ha 3, 6"
+      ],
+      "text": [
+        "",
+        "i ziemia poruszyła się i zachwiała,",
+        "zadrżały fundamenty gór,",
+        "bowiem obniżył niebiosa i zstąpił."
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dno morza",
+        "fundament świata",
+        "odsłonięcie",
+        "ręka Boga",
+        "pochwycenie",
+        "wydźwignięcie",
+        "głębokość",
+        "woda",
+        "wybawienie"
+      ],
+      "summary": "Bóg wyciąga rękę i wybawia: ukazuje się dno morza, fundamenty świata się odsłaniają. Chrystusowy rys tego wybawienia – wydźwignięcie z głębokości wód jako obraz zmartwychwstania i paschalnego wyzwolenia.",
+      "bible": [
+        "Ps 18, 15-17",
+        "Wj 14, 21-29",
+        "Rz 6, 4"
+      ],
+      "text": [
+        "",
+        "I ukazało się dno morza,",
+        "i fundamenty świata się odsłoniły,",
+        "i wyciągnął swą rękę, i mnie pochwycił,",
+        "wydźwignął mnie z głębokości wód."
+      ]
+    },
+    {
+      "range": "26-27",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "1-25",
+      "bible": [],
+      "text": [
+        "Kocham Cię, Panie, …",
+        "Fale śmierci …"
+      ]
+    },
+    {
+      "range": "1-27",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "Pan",
+        "Bóg",
+        "skała",
+        "Wybawiciel",
+        "śmierć",
+        "szeol",
+        "wybawienie",
+        "teofania",
+        "modlitwa",
+        "ufność",
+        "Psalm 18",
+        "dziękczynienie",
+        "zmartwychwstanie"
+      ],
+      "summary": "Pieśń oparta na Psalmie 18 – od skrajnego zagrożenia śmiercią i otchłanią przez ufną modlitwę po potężną teofaniczną interwencję Boga i całkowite wybawienie. Refren miłości do Boga jako skały i wybawiciela nadaje ramę całej narracji. Pieśń ma charakter paschalny – przejście od śmierci do życia.",
+      "bible": [
+        "Ps 18",
+        "Rz 8, 38-39"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:d7dff2df0ff53a679ef957eb5a505cfd1f0dded8d780c213d6332a4024b9b0eb",
+  "songs_analysis": [
+    {
+      "range": "1-8",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "głos",
+        "mocny",
+        "echo",
+        "ciemność",
+        "sen",
+        "złudzenie",
+        "Jezus",
+        "dusza",
+        "odrętwienie",
+        "ziemia",
+        "gwiazda",
+        "adwent",
+        "czuwanie",
+        "światło"
+      ],
+      "summary": "Adwentowe wezwanie do czuwania: głos mocny rozprasza ciemności, Jezus jaśnieje, dusza ma się zbudzić z odrętwienia, bo wschodzi nowa gwiazda. Nawiązanie do Gwiazdy Betlejemskiej i adwentowego oczekiwania.",
+      "bible": [
+        "Rz 13,11-12",
+        "Iz 60,1",
+        "Mt 2,2",
+        "Ef 5,14"
+      ],
+      "text": [
+        "Oto głos mocny",
+        "rozprasza swymi echami ciemności;",
+        "ustąpcie senne złudzenia.",
+        "Jezus jaśnieje już!",
+        "Niech dusza odrętwiała się zbudzi",
+        "i przestanie pełzać po ziemi:",
+        "wschodzi nowa gwiazda!",
+        ""
+      ]
+    },
+    {
+      "range": "9-13",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Baranek",
+        "posłany",
+        "okupić",
+        "wina",
+        "łza",
+        "przebaczenie",
+        "Jezus Chrystus",
+        "ofiara",
+        "odkupienie",
+        "grzech",
+        "pokuta"
+      ],
+      "summary": "Baranek Boży posłany, by darmo okupić winy. Wezwanie do pokuty: pójdźmy ze łzami i prośmy o przebaczenie. Baranek jako ofiara przebłagalna za grzechy świata.",
+      "bible": [
+        "J 1,29",
+        "Iz 53,5-6",
+        "1 P 1,18-19",
+        "1 J 2,2"
+      ],
+      "text": [
+        "Oto jest nam posłany Baranek,",
+        "aby darmo okupił nasze winy,",
+        "pójdźmy wszyscy ze łzami,",
+        "prośmy Go o przebaczenie.",
+        ""
+      ]
+    },
+    {
+      "range": "14-19",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "przyjście",
+        "chwalebny",
+        "drugie przyjście",
+        "świat",
+        "strach",
+        "litość",
+        "Jezus Chrystus",
+        "paruzja",
+        "sąd",
+        "miłosierdzie"
+      ],
+      "summary": "Oczekiwanie na chwalebne drugie przyjście Chrystusa, które wypełni świat strachem. Prośba o litościwe osłonięcie w dniu paruzji. Adwentowe oczekiwanie na Sędziego, który jest miłosierny.",
+      "bible": [
+        "Mt 25,31-33",
+        "Łk 21,26-27",
+        "Ap 1,7",
+        "2 P 3,10"
+      ],
+      "text": [
+        "Tak aby,",
+        "gdy się pojawi chwalebny",
+        "w swoim drugim przyjściu",
+        "i świat wypełni strachem,",
+        "osłonił nas litościwie.",
+        ""
+      ]
+    },
+    {
+      "range": "20-24",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiewać",
+        "pieśń",
+        "pochwalna",
+        "Ojciec",
+        "Syn",
+        "Duch",
+        "chwała",
+        "Amen",
+        "Trójca Święta",
+        "doksologia"
+      ],
+      "summary": "Doksologia trynitarna: śpiew pochwalny Ojcu, Synowi i Duchowi Świętemu zakończony Amen. Uwielbienie Trójcy Świętej jako odpowiedź na adwentowe oczekiwanie.",
+      "bible": [
+        "Mt 28,19",
+        "2 Kor 13,13",
+        "Ap 5,13"
+      ],
+      "text": [
+        "Dlatego",
+        "śpiewamy tę pieśń pochwalną",
+        "Ojcu, Synowi i Duchowi,",
+        "niech będzie chwała",
+        "Amen!"
+      ]
+    },
+    {
+      "range": "1-24",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "głos",
+        "mocny",
+        "ciemność",
+        "sen",
+        "złudzenie",
+        "Jezus",
+        "dusza",
+        "gwiazda",
+        "Baranek",
+        "okupić",
+        "wina",
+        "przebaczenie",
+        "przyjście",
+        "chwalebny",
+        "sąd",
+        "litość",
+        "Ojciec",
+        "Syn",
+        "Duch Święty",
+        "chwała",
+        "Amen",
+        "adwent",
+        "paruzja",
+        "Trójca Święta"
+      ],
+      "summary": "Hymn adwentowy (En clara vox redarguit) wzywający do czuwania w oczekiwaniu na przyjście Chrystusa. Głos mocny rozprasza ciemności, Baranek Boży okupuje winy, wierni oczekują chwalebnego drugiego przyjścia z prośbą o litość. Pieśń kończy się doksologią trynitarną. Łączy motywy adwentu (czuwanie, światło), odkupienia (Baranek) i paruzji (sąd i miłosierdzie).",
+      "bible": [
+        "Iz 53,5-6",
+        "J 1,29",
+        "Mt 25,31-33",
+        "Mt 2,2",
+        "Ap 1,7",
+        "Mt 28,19",
+        "2 Kor 13,13",
+        "Ap 5,13"
+      ]
+    }
+  ]
+}

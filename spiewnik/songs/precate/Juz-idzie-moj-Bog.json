@@ -1,0 +1,212 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:287416dc2f683857889e4a04b4708f4bba0165c1ad28bbb97e75ff9f0b149214",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "Król",
+        "Zbawiciel",
+        "przyjście",
+        "adwent",
+        "oczekiwanie",
+        "radość",
+        "Jezus Chrystus"
+      ],
+      "summary": "Refreniczna zapowiedź nadchodzącego Boga i Króla-Zbawiciela, wyrażająca radosne oczekiwanie.",
+      "bible": [
+        "Iz 40, 9-10",
+        "Za 9, 9",
+        "Mt 21, 5",
+        "Ap 22, 20"
+      ],
+      "text": [
+        "Już idzie mój Bóg, już idzie mój Król.",
+        "Już idzie mój Bóg, już idzie mój Król.",
+        "Już idzie, już idzie mój Zbawiciel,",
+        "już idzie, już idzie mój Król.",
+        ""
+      ]
+    },
+    {
+      "range": "6-14",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "robotnik",
+        "Betlejem",
+        "Maryja",
+        "Józef",
+        "Bóg",
+        "Król",
+        "Zbawiciel",
+        "Jezus Chrystus",
+        "narodzenie",
+        "wcielenie",
+        "Boże Narodzenie"
+      ],
+      "summary": "Opis Jezusa jako robotnika zrodzonego w Betlejem z Maryi i Józefa, łączący pokorę wcielenia z Jego królewską tożsamością Zbawiciela.",
+      "bible": [
+        "Łk 2, 4-7",
+        "Łk 2, 11",
+        "Mt 1, 18-25",
+        "Mt 13, 55"
+      ],
+      "text": [
+        "Jest robotnikiem, zrodzonym w Betlejem,",
+        "Jego matką Maryja, a Józef jest ojcem.",
+        "Już idzie, już idzie mój Zbawiciel,",
+        "już idzie, już idzie mój Król.",
+        "Już idzie mój Bóg, już idzie mój Król.",
+        "Już idzie mój Bóg, już idzie mój Król.",
+        "Już idzie, już idzie mój Zbawiciel,",
+        "już idzie, już idzie mój Król.",
+        ""
+      ]
+    },
+    {
+      "range": "15-23",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "oczy",
+        "miłość",
+        "Ojciec",
+        "Bóg",
+        "Zbawiciel",
+        "Król",
+        "Jezus Chrystus",
+        "Objawienie",
+        "Trójca Święta"
+      ],
+      "summary": "Oczy Jezusa mówią o miłości i objawiają Ojca, podkreślając Jego boskie pochodzenie i misję Zbawiciela.",
+      "bible": [
+        "J 14, 9",
+        "J 1, 18",
+        "J 10, 30",
+        "Mt 11, 27"
+      ],
+      "text": [
+        "Jego oczy mówią o miłości,",
+        "mówią o Ojcu, mówią o Bogu.",
+        "Już idzie, już idzie mój Zbawiciel,",
+        "już idzie, już idzie mój Król.",
+        "Już idzie mój Bóg, już idzie mój Król.",
+        "Już idzie mój Bóg, już idzie mój Król.",
+        "Już idzie, już idzie mój Zbawiciel,",
+        "już idzie, już idzie mój Król.",
+        ""
+      ]
+    },
+    {
+      "range": "24-32",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "krzyż",
+        "boleść",
+        "śmierć",
+        "miłość",
+        "ludzie",
+        "Jezus",
+        "Zbawiciel",
+        "Król",
+        "ofiara",
+        "odkupienie",
+        "Jezus Chrystus",
+        "Pascha"
+      ],
+      "summary": "Wspomnienie śmierci krzyżowej Jezusa, który umarł za ludzi pełen boleści i miłości, ofiarując siebie za zbawienie świata.",
+      "bible": [
+        "Flp 2, 8",
+        "J 19, 17-18",
+        "J 15, 13",
+        "Iz 53, 4-5",
+        "Rz 5, 8"
+      ],
+      "text": [
+        "On umarł na krzyżu pełen boleści,",
+        "umarł za ludzi pełen miłości.",
+        "Już idzie, już idzie mój Zbawiciel,",
+        "już idzie, już idzie mój Król.",
+        "Już idzie mój Bóg, już idzie mój Król.",
+        "Już idzie mój Bóg, już idzie mój Król.",
+        "Już idzie, już idzie mój Zbawiciel,",
+        "już idzie, już idzie mój Król.",
+        ""
+      ]
+    },
+    {
+      "range": "33-40",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "śmierć",
+        "Bóg",
+        "wstawać",
+        "nadchodzić",
+        "Pan",
+        "śpiewać",
+        "wołać",
+        "zmartwychwstanie",
+        "miłość",
+        "zwycięstwo",
+        "Jezus Chrystus",
+        "Pascha"
+      ],
+      "summary": "Tryumf nad śmiercią i zmartwychwstanie Pana, wezwanie do śpiewu i wołania, że On zwyciężył miłością.",
+      "bible": [
+        "Mt 28, 5-6",
+        "1 Kor 15, 54-55",
+        "Rz 8, 37-39",
+        "Ap 5, 5"
+      ],
+      "text": [
+        "On wszedł w śmierć, wszedł mój Bóg,",
+        "już idzie, już wstaje, już nadchodzi Pan.",
+        "Śpiewajcie, wołajcie: zmartwychwstał Pan!",
+        "On zwyciężył, zwyciężył miłością.",
+        "Już idzie mój Bóg, już idzie mój Król.",
+        "Już idzie mój Bóg, już idzie mój Król.",
+        "Już idzie, już idzie mój Zbawiciel,",
+        "już idzie, już idzie mój Król."
+      ]
+    },
+    {
+      "range": "1-40",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "Król",
+        "Zbawiciel",
+        "Jezus Chrystus",
+        "adwent",
+        "narodzenie",
+        "krzyż",
+        "śmierć",
+        "zmartwychwstanie",
+        "miłość",
+        "ofiara",
+        "odkupienie",
+        "Pascha",
+        "wcielenie",
+        "Maryja",
+        "Betlejem"
+      ],
+      "summary": "Pieśń łącząca Adwent, Boże Narodzenie i Paschę: od radosnego oczekiwania na przyjście Boga-Króla, przez Jego narodzenie w Betlejem i śmierć krzyżową, aż po tryumf zmartwychwstania. Miłość jest zwycięską siłą całego dzieła zbawienia.",
+      "bible": [
+        "Łk 2, 4-11",
+        "J 19, 17-18",
+        "Mt 28, 5-6",
+        "Iz 53, 4-5",
+        "Rz 5, 8",
+        "Flp 2, 8",
+        "Ap 22, 20"
+      ]
+    }
+  ]
+}

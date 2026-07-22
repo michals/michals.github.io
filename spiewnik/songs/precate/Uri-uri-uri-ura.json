@@ -1,0 +1,143 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a8eecac874dff32e90797c7f108e9d8e42dfde144ee8caf2ddb912b272cbba94",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "śpiew",
+        "kolęda"
+      ],
+      "summary": "Instrumentalna, radosna fraza refrenu – śpiewna sekwencja sylab radości (urí, pam pam, la rala la).",
+      "bible": [],
+      "text": [
+        "Urí, urí, urí, urá,",
+        "urí, urí, urí, urá,",
+        "urí, urí, urí, urá,",
+        "pam pam, pam pam,         pam parapam pam,",
+        "pam pam, pam pam,        pam parapam pam,",
+        "la rala la lala la.",
+        ""
+      ]
+    },
+    {
+      "range": "8-14",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Dziecina",
+        "narodzenie",
+        "Emmanuel",
+        "przyjście",
+        "Mesjasz"
+      ],
+      "summary": "Zapowiedź narodzin Dzieciątka, które nazwą Emmanuel – Bóg z nami. Wezwanie: Przyjdź Dzieciąteczko.",
+      "bible": [
+        "Iz 7, 14",
+        "Mt 1, 23"
+      ],
+      "text": [
+        "Dziecina maleńka narodzi się,",
+        "Dziecina malusieńka.",
+        "Jak nazwą Go? Emmanuel.",
+        "Jak nazwą Go? Emmanuel.",
+        "Jak nazwą Go? Emmanuel.",
+        "Przyjdź Dzieciąteczko, przyjdź.",
+        ""
+      ]
+    },
+    {
+      "range": "15-21",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "śpiew",
+        "kolęda"
+      ],
+      "summary": "Powtórzenie radosnego refrenu.",
+      "bible": [],
+      "text": [
+        "Urí, urí, urí, urá,",
+        "urí, urí, urí, urá,",
+        "urí, urí, urí, urá,",
+        "pam pam, pam pam,         pam parapam pam,",
+        "pam pam, pam pam,        pam parapam pam,",
+        "la rala la lala la.",
+        ""
+      ]
+    },
+    {
+      "range": "22-28",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Betlejem",
+        "Józef",
+        "cieśla",
+        "Emmanuel",
+        "przyjście"
+      ],
+      "summary": "Maryja w Betlejem z Józefem cieślą – narodziny Emmanuela. Wezwanie: Przyjdź Dzieciąteczko.",
+      "bible": [
+        "Łk 2, 4-7"
+      ],
+      "text": [
+        "Matka Maryja jest w Betlejem",
+        "wraz z Jego ojcem cieślą.",
+        "Jak nazwą Go? Emmanuel.",
+        "Jak nazwą Go? Emmanuel.",
+        "Jak nazwą Go? Emmanuel.",
+        "Przyjdź Dzieciąteczko, przyjdź.",
+        ""
+      ]
+    },
+    {
+      "range": "29-34",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "śpiew",
+        "kolęda"
+      ],
+      "summary": "Końcowe powtórzenie refrenu zamykającego pieśń.",
+      "bible": [],
+      "text": [
+        "Urí, urí, urí, urá,",
+        "urí, urí, urí, urá,",
+        "urí, urí, urí, urá,",
+        "pam pam, pam pam,         pam parapam pam,",
+        "pam pam, pam pam,        pam parapam pam,",
+        "la rala la lala la."
+      ]
+    },
+    {
+      "range": "1-34",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "Dziecina",
+        "narodzenie",
+        "Emmanuel",
+        "Maryja",
+        "Betlejem",
+        "Józef",
+        "przyjście",
+        "śpiew",
+        "kolęda"
+      ],
+      "summary": "Radosna kolęda dziecięca o narodzeniu Dzieciątka Jezus, któremu nadane będzie imię Emmanuel (Bóg z nami) – spełnienie proroctwa Izajasza (Iz 7, 14).",
+      "bible": [
+        "Iz 7, 14",
+        "Mt 1, 23",
+        "Łk 2, 4-7"
+      ]
+    }
+  ]
+}

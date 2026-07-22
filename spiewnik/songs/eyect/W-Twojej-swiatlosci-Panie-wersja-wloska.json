@@ -1,0 +1,334 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:7623f91544136e372bffb6714b270bfdb852f161548fbc41f93e6af279f8d13d",
+  "songs_analysis": [
+    {
+      "range": "1-2",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "światłość",
+        "Pan",
+        "światło",
+        "Bóg",
+        "objawienie"
+      ],
+      "summary": "Refren zapowiadający, że w Bożej światłości człowiek ogląda prawdziwe światło.",
+      "bible": [
+        "Ps 36,10"
+      ],
+      "text": [
+        "W Twojej światłości, (o) Panie,",
+        "oglądamy światło"
+      ]
+    },
+    {
+      "range": "3-9",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "bezbożnik",
+        "nieprawość",
+        "bojaźń",
+        "Bóg",
+        "grzech",
+        "wina",
+        "podstęp",
+        "mądrość",
+        "zło",
+        "samooszukanie"
+      ],
+      "summary": "Opis bezbożnika, który nie ma bojaźni Bożej, łudzi samego siebie i trwa w nieprawości.",
+      "bible": [
+        "Ps 36,2-5"
+      ],
+      "text": [
+        "W głębi serca bezbożnika przemawia nieprawość,",
+        "nie ma przed jego oczyma bojaźni Boga.",
+        "Ponieważ łudzi samego siebie,",
+        "że znajdzie swą winę, by ją znienawidzić.",
+        "Nieprawość i podstęp to słowa ust jego,",
+        "zaniechał mądrości i czynienia dobrze.",
+        ""
+      ]
+    },
+    {
+      "range": "10-12",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "światłość",
+        "Pan",
+        "światło",
+        "Bóg"
+      ],
+      "summary": "Powtórzenie refrenu o Bożej światłości.",
+      "bible": [
+        "Ps 36,10"
+      ],
+      "text": [
+        "W Twojej światłości, (o) Panie,",
+        "oglądamy światło",
+        ""
+      ]
+    },
+    {
+      "range": "13-18",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "nieprawość",
+        "zło",
+        "droga",
+        "łaska",
+        "Pan",
+        "wierność",
+        "niebo",
+        "obłok",
+        "Bóg"
+      ],
+      "summary": "Kontrast między ludzką nieprawością a nieskończoną łaską i wiernością Boga sięgającą nieba.",
+      "bible": [
+        "Ps 36,5-6",
+        "Ps 36,13"
+      ],
+      "text": [
+        "Na swoim łożu zamyśla nieprawość,",
+        "wkracza na niedobrą drogę,",
+        "nie stroni od złego.",
+        "Panie, Twoja łaska dosięga nieba,",
+        "a Twoja wierność obłoków.",
+        ""
+      ]
+    },
+    {
+      "range": "19-21",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "światłość",
+        "Pan",
+        "światło",
+        "Bóg"
+      ],
+      "summary": "Powtórzenie refrenu o Bożej światłości.",
+      "bible": [
+        "Ps 36,10"
+      ],
+      "text": [
+        "W Twojej światłości, (o) Panie,",
+        "oglądamy światło",
+        ""
+      ]
+    },
+    {
+      "range": "22-26",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "sprawiedliwość",
+        "Pan",
+        "wyrok",
+        "otchłań",
+        "ocalenie",
+        "człowiek",
+        "zwierzę",
+        "Bóg",
+        "stworzenie"
+      ],
+      "summary": "Uwielbienie Bożej sprawiedliwości i wyroków oraz Jego ocalającej opieki nad całym stworzeniem.",
+      "bible": [
+        "Ps 36,7"
+      ],
+      "text": [
+        "Twoja sprawiedliwość jak najwyższe góry,",
+        "Twoje wyroki jak Wielka Otchłań:",
+        "ocalasz ludzi i zwierzęta,",
+        "o Panie, o Panie.",
+        ""
+      ]
+    },
+    {
+      "range": "27-29",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "światłość",
+        "Pan",
+        "światło",
+        "Bóg"
+      ],
+      "summary": "Powtórzenie refrenu o Bożej światłości.",
+      "bible": [
+        "Ps 36,10"
+      ],
+      "text": [
+        "W Twojej światłości, (o) Panie,",
+        "oglądamy światło",
+        ""
+      ]
+    },
+    {
+      "range": "30-34",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "łaska",
+        "Bóg",
+        "schronienie",
+        "cień",
+        "skrzydło",
+        "dom",
+        "obfitość",
+        "rozkosz",
+        "człowiek"
+      ],
+      "summary": "Dziękczynienie za cenną łaskę Bożą, pod której skrzydłami chronią się synowie ludzcy.",
+      "bible": [
+        "Ps 36,8-9"
+      ],
+      "text": [
+        "Jak cenna jest Twoja łaska, Boże!",
+        "synowie ludzcy chronią się         w cieniu Twych skrzydeł,",
+        "sycą się obfitością Twojego domu,",
+        "poisz ich potokiem Twoich rozkoszy.",
+        ""
+      ]
+    },
+    {
+      "range": "35-37",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "światłość",
+        "Pan",
+        "światło",
+        "Bóg"
+      ],
+      "summary": "Powtórzenie refrenu o Bożej światłości.",
+      "bible": [
+        "Ps 36,10"
+      ],
+      "text": [
+        "W Twojej światłości, (o) Panie,",
+        "oglądamy światło",
+        ""
+      ]
+    },
+    {
+      "range": "38-42",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "źródło",
+        "życie",
+        "światłość",
+        "łaska",
+        "sprawiedliwość",
+        "prawość",
+        "serce",
+        "Bóg",
+        "Pan"
+      ],
+      "summary": "Wyznanie Boga jako źródła życia i światłości oraz prośba o udzielenie łaski i sprawiedliwości.",
+      "bible": [
+        "Ps 36,10-11"
+      ],
+      "text": [
+        "W Tobie jest źródło życia,",
+        "w Twojej światłości oglądamy światło.",
+        "Udziel Twej łaski znającym Ciebie,",
+        "i Twej sprawiedliwości ludziom prawego serca.",
+        ""
+      ]
+    },
+    {
+      "range": "43-45",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "światłość",
+        "Pan",
+        "światło",
+        "Bóg"
+      ],
+      "summary": "Powtórzenie refrenu o Bożej światłości.",
+      "bible": [
+        "Ps 36,10"
+      ],
+      "text": [
+        "W Twojej światłości, (o) Panie,",
+        "oglądamy światło",
+        ""
+      ]
+    },
+    {
+      "range": "46-50",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "pyszałek",
+        "grzesznik",
+        "nieprawość",
+        "upadek",
+        "ocalenie",
+        "sprawiedliwość",
+        "Bóg"
+      ],
+      "summary": "Prośba o ochronę przed pyszałkami i grzesznikami oraz zapowiedź upadku czyniących nieprawość.",
+      "bible": [
+        "Ps 36,12-13"
+      ],
+      "text": [
+        "Niech mnie nie dogoni stopa pyszałka,",
+        "i ręka grzesznika niech mnie nie wypędza.",
+        "Oto runęli czyniący nieprawość,",
+        "powaleni, nie mogą powstać.",
+        ""
+      ]
+    },
+    {
+      "range": "51-52",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "światłość",
+        "Pan",
+        "światło",
+        "Bóg"
+      ],
+      "summary": "Końcowa afirmacja refrenu jako zwycięskie wyznanie Bożej światłości.",
+      "bible": [
+        "Ps 36,10"
+      ],
+      "text": [
+        "W Twojej światłości, (o) Panie,",
+        "oglądamy światło"
+      ]
+    },
+    {
+      "range": "1-52",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "światłość",
+        "Pan",
+        "Bóg",
+        "łaska",
+        "miłosierdzie",
+        "sprawiedliwość",
+        "wierność",
+        "grzech",
+        "nieprawość",
+        "życie",
+        "źródło",
+        "stworzenie",
+        "zbawienie"
+      ],
+      "summary": "Parafraza Psalmu 36 ukazująca kontrast między nieprawością bezbożników a nieskończoną łaską, wiernością i sprawiedliwością Boga, który jest źródłem światłości i życia, dającym schronienie w cieniu swoich skrzydeł.",
+      "bible": [
+        "Ps 36"
+      ]
+    }
+  ]
+}

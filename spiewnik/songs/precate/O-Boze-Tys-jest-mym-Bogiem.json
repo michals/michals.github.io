@@ -1,0 +1,274 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:2a6ac6f6d6e9c881be5a43698fc1e6a3be70f2867568229edacadc9afc5f6135",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bóg",
+        "Bóg",
+        "szukać",
+        "świt",
+        "pragnąć",
+        "dusza"
+      ],
+      "summary": "Psalmista wyznaje, że Bóg jest jego Bogiem, którego szuka od świtania, a jego dusza pragnie Boga.",
+      "bible": [
+        "Ps 63, 2"
+      ],
+      "text": [
+        "O Boże, Tyś jest mym Bogiem,",
+        "szukam Cię od świtania;",
+        "tak pragnie Ciebie dusza moja.",
+        ""
+      ]
+    },
+    {
+      "range": "5-9",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "pragnąć",
+        "dusza",
+        "tęsknić",
+        "ciało",
+        "ziemia",
+        "wyschnięty",
+        "spalony",
+        "woda",
+        "pustynia",
+        "pragnienie"
+      ],
+      "summary": "Tęsknota duszy i ciała za Bogiem porównana do pragnienia ziemi zeschłej i spalonej bez wody.",
+      "bible": [
+        "Ps 63, 2",
+        "Ps 42, 2-3",
+        "J 7, 37-38"
+      ],
+      "text": [
+        "Tak pragnie Ciebie dusza moja,",
+        "tęskni za Tobą moje ciało:",
+        "ziemia zeschła i spalona,",
+        "ziemia zeschła i spalona, bez wody.",
+        ""
+      ]
+    },
+    {
+      "range": "10-13",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bóg",
+        "szukać",
+        "świt",
+        "pragnąć",
+        "dusza"
+      ],
+      "summary": "Refren - powtórzenie wyznania pragnienia Boga jako motyw przewodni psalm.",
+      "bible": [
+        "Ps 63, 2"
+      ],
+      "text": [
+        "O Boże, Tyś jest mym Bogiem,",
+        "szukam Cię od świtania;",
+        "tak pragnie Ciebie dusza moja.",
+        ""
+      ]
+    },
+    {
+      "range": "14-18",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "miłość",
+        "życie",
+        "sławić",
+        "wargi",
+        "błogosławić",
+        "imię",
+        "ręce",
+        "cenny",
+        "uwielbienie"
+      ],
+      "summary": "Wyznanie, że Boża miłość jest cenniejsza niż życie, oraz postanowienie sławienia, błogosławienia Boga i podnoszenia rąk w Jego imię.",
+      "bible": [
+        "Ps 63, 4-5",
+        "Ps 138, 2",
+        "1 Tm 6, 15-16"
+      ],
+      "text": [
+        "Cenniejsza jest niż życie Twoja miłość,",
+        "sławić Cię będą moje wargi;",
+        "tak Cię błogosławię,",
+        "w imię Twoje podnoszę moje ręce.",
+        ""
+      ]
+    },
+    {
+      "range": "19-22",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bóg",
+        "szukać",
+        "świt",
+        "pragnąć",
+        "dusza"
+      ],
+      "summary": "Refren - powtórzenie wyznania pragnienia Boga.",
+      "bible": [
+        "Ps 63, 2"
+      ],
+      "text": [
+        "O Boże, Tyś jest mym Bogiem,",
+        "szukam Cię od świtania;",
+        "tak pragnie Ciebie dusza moja.",
+        ""
+      ]
+    },
+    {
+      "range": "23-27",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dusza",
+        "lgnąć",
+        "wspierać",
+        "prawica",
+        "siła",
+        "wspominać",
+        "myśleć",
+        "czuwanie",
+        "nocka"
+      ],
+      "summary": "Dusza lgnie do Boga, wspierana przez Jego prawicę; psalmista wspomina Boga w czasie nocnych czuwań.",
+      "bible": [
+        "Ps 63, 7-9",
+        "Ps 16, 8",
+        "Ps 139, 18"
+      ],
+      "text": [
+        "Do Ciebie lgnie dusza moja,",
+        "wspiera mnie z siłą Twa prawica,",
+        "kiedy wspominam Ciebie,",
+        "kiedy myślę o Tobie w czasie mych czuwań.",
+        ""
+      ]
+    },
+    {
+      "range": "28-31",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bóg",
+        "szukać",
+        "świt",
+        "pragnąć",
+        "dusza"
+      ],
+      "summary": "Refren - powtórzenie wyznania pragnienia Boga.",
+      "bible": [
+        "Ps 63, 2"
+      ],
+      "text": [
+        "O Boże, Tyś jest mym Bogiem,",
+        "szukam Cię od świtania;",
+        "tak pragnie Ciebie dusza moja.",
+        ""
+      ]
+    },
+    {
+      "range": "32-36",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "obfitość",
+        "sycić",
+        "dusza",
+        "radośnie",
+        "chwalić",
+        "usta",
+        "pomoc",
+        "cień",
+        "skrzydła",
+        "weselić się",
+        "nasycenie"
+      ],
+      "summary": "Radość duszy nasyconej Bożą obfitością i pomocą, weselącej się w cieniu Jego skrzydeł.",
+      "bible": [
+        "Ps 63, 6-8",
+        "Ps 36, 8-9",
+        "Ps 91, 4"
+      ],
+      "text": [
+        "Obfitością syci się moja dusza,",
+        "radośnie chwalą Cię moje usta,",
+        "bo stałeś się dla mnie pomocą",
+        "i w cieniu Twoich skrzydeł się weselę.",
+        ""
+      ]
+    },
+    {
+      "range": "37-39",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bóg",
+        "szukać",
+        "świt",
+        "pragnąć",
+        "dusza"
+      ],
+      "summary": "Refren - powtórzenie wyznania pragnienia Boga.",
+      "bible": [
+        "Ps 63, 2"
+      ],
+      "text": [
+        "O Boże, Tyś jest mym Bogiem,",
+        "szukam Cię od świtania;",
+        "tak pragnie Ciebie dusza moja."
+      ]
+    },
+    {
+      "range": "1-39",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "pragnienie",
+        "dusza",
+        "tęsknota",
+        "miłość",
+        "życie",
+        "uwielbienie",
+        "prawica",
+        "cień",
+        "skrzydła",
+        "świt",
+        "obfitość",
+        "radość",
+        "pomoc",
+        "chwała",
+        "Eucharystia",
+        "nasycenie",
+        "bliskość"
+      ],
+      "summary": "Psalm 63 (Psalm poranny z Liturgii Godzin) - głęboka tęsknota duszy za Bogiem, przechodząca od pragnienia jak sucha ziemia przez wyznanie miłości Boga cenniejszej niż życie, do radosnego nasycenia duszy w cieniu Jego skrzydeł. W typologii chrześcijańskiej psalm zapowiada Chrystusa jako Tego, który pragnie zbawienia ludzi (J 19, 28) i jako Światłość Świata (J 8, 12) przychodzącą o świcie zmartwychwstania (Mk 16, 2). 'Cień skrzydeł Bożych' (Ps 91, 4) zapowiada opiekę Chrystusa nad Kościołem, 'prawica' Boga to Chrystus zasiadający po prawicy Ojca (Hbr 1, 3), a nasycenie duszy obfitością Bożą jest figurą Eucharystii - prawdziwego pokarmu duszy (J 6, 35). Psalm ten wyraża także chrzcielne pragnienie nowego życia w Bogu.",
+      "bible": [
+        "Ps 63",
+        "Ps 42, 2-3",
+        "Ps 91, 4",
+        "Ps 138, 2",
+        "Mk 16, 2",
+        "J 6, 35",
+        "J 8, 12",
+        "J 19, 28",
+        "Rz 8, 38-39",
+        "Flp 2, 9-11",
+        "Hbr 1, 3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:df8d680d70f074ddb98e05f5ec15806d701a94338f00aae3ff707d15aa83aea6",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "światło",
+        "świat",
+        "uczeń",
+        "powołanie",
+        "tożsamość",
+        "świadek",
+        "Chrystus"
+      ],
+      "summary": "Jezus ogłasza uczniów światłem świata, nadając im mesjańską tożsamość i misję bycia znakiem Bożej obecności pośród ludzkości.",
+      "bible": [
+        "Mt 5:14a",
+        "J 8:12",
+        "J 9:5",
+        "Ef 5:8",
+        "Flp 2:15"
+      ],
+      "text": [
+        "Wy jesteście światłem świata.",
+        "Jesteście światłem, światłem świata,",
+        "światłem świata.",
+        ""
+      ]
+    },
+    {
+      "range": "5-9",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "ukrycie",
+        "miasto",
+        "góra",
+        "widzialność",
+        "świadectwo"
+      ],
+      "summary": "Obraz miasta położonego na górze, które nie może pozostać ukryte, jako metafora widzialności chrześcijańskiego świadectwa.",
+      "bible": [
+        "Mt 5:14b",
+        "Iz 2:2-3",
+        "Mi 4:1-2",
+        "Ap 21:10"
+      ],
+      "text": [
+        "Nie może pozostać ukryte",
+        "miasto na górze.",
+        "Nie może pozostać ukryte",
+        "miasto na górze.",
+        ""
+      ]
+    },
+    {
+      "range": "10-14",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "zapalanie",
+        "światło",
+        "korzec",
+        "świecznik",
+        "dom",
+        "oświecenie",
+        "widzenie"
+      ],
+      "summary": "Przypowieść o świetle, którego nie umieszcza się pod korcem, lecz na świeczniku, aby świeciło wszystkim w domu — obraz apostolskiego posłannictwa.",
+      "bible": [
+        "Mt 5:15",
+        "Mk 4:21",
+        "Łk 8:16",
+        "Łk 11:33"
+      ],
+      "text": [
+        "Nie zapala się też światła",
+        "i nie umieszcza pod korcem,",
+        "ale stawia się na świeczniku,",
+        "aby świeciło wszystkim, którzy są w domu.",
+        ""
+      ]
+    },
+    {
+      "range": "15-19",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "świecenie",
+        "światło",
+        "ludzie",
+        "dzieło",
+        "chwała",
+        "Ojciec",
+        "niebo",
+        "chwalenie"
+      ],
+      "summary": "Wezwanie do świecenia światłem dobrych uczynków przed ludźmi, aby widzieli dzieła i chwalili Ojca w niebie — misyjny cel chrześcijańskiego życia.",
+      "bible": [
+        "Mt 5:16",
+        "1 P 2:12",
+        "J 15:8",
+        "1 Kor 10:31"
+      ],
+      "text": [
+        "Niech świeci tak wasze światło",
+        "przed wszystkimi ludźmi,",
+        "aby widzieli wasze dzieła",
+        "i chwalili Ojca waszego, który jest w niebie.",
+        ""
+      ]
+    },
+    {
+      "range": "20-22",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "światło",
+        "świat",
+        "uczeń",
+        "powołanie",
+        "świadectwo"
+      ],
+      "summary": "Powtórzenie refrenu potwierdzającego tożsamość uczniów jako światła świata.",
+      "bible": [
+        "Mt 5:14a",
+        "J 8:12"
+      ],
+      "text": [
+        "Wy jesteście światłem świata.",
+        "Jesteście światłem, światłem świata,",
+        "światłem świata."
+      ]
+    },
+    {
+      "range": "1-22",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "światło",
+        "świat",
+        "uczeń",
+        "miasto",
+        "góra",
+        "świecznik",
+        "dzieło",
+        "chwała",
+        "Ojciec",
+        "świadectwo",
+        "misja",
+        "powołanie"
+      ],
+      "summary": "Pieśń oparta na Mt 5,14-16, w której Jezus nadaje uczniom tożsamość światła świata. Poprzez obrazy miasta na górze i światła na świeczniku wzywa do widzialnego świadectwa dobrych uczynków, które prowadzą do chwalenia Ojca. Jest to realizacja powołania Izraela jako światłości dla narodów (Iz 42,6; 49,6) w nowym Ludzie Bożym.",
+      "bible": [
+        "Mt 5:14-16",
+        "Iz 42:6",
+        "Iz 49:6",
+        "J 8:12",
+        "Ef 5:8-9",
+        "1 P 2:9-12"
+      ]
+    }
+  ]
+}

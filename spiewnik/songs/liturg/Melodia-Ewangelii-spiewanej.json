@@ -1,0 +1,132 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:bb20d5178a6162c252db53484aa1e3837be6ae6e06f07376243b5fadc0d12e2a",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "wstęp",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Pan",
+        "kapłan",
+        "lud",
+        "liturgia",
+        "Duch Święty",
+        "Ewangelia",
+        "słowo Boże",
+        "wspólnota",
+        "Chrystus",
+        "głosić"
+      ],
+      "summary": "Liturgiczny dialog wprowadzający do czytania Ewangelii: pozdrowienie kapłana i odpowiedź ludu, zapowiedź Ewangelii i aklamacja.",
+      "bible": [
+        "Łk 4, 16-21",
+        "Mt 28, 20",
+        "J 1, 1"
+      ],
+      "text": [
+        "1Pan z wami.",
+        "2I z duchem   twoim.",
+        "1Słowa Ewangelii według świętego Ja na.",
+        "2Chwała Tobie,   Panie."
+      ]
+    },
+    {
+      "range": "5-10",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Syn Boży",
+        "Syn Człowieczy",
+        "wiara",
+        "życie wieczne",
+        "Bóg Ojciec",
+        "miłość",
+        "zbawienie",
+        "ofiarować",
+        "wywyższenie",
+        "krzyż",
+        "Mojżesz",
+        "wąż miedziany",
+        "pustynia",
+        "niebo",
+        "prawda",
+        "świadectwo",
+        "Jednorodzony"
+      ],
+      "summary": "Jezus objawia swoją niebieską tożsamość Syna Człowieczego, zapowiada wywyższenie na krzyżu na wzór węża miedzianego Mojżesza, a kulminacją jest objawienie miłości Boga, który daje Syna dla życia wiecznego świata.",
+      "bible": [
+        "J 3, 11-16",
+        "Lb 21, 4-9",
+        "J 8, 28",
+        "Rz 5, 8",
+        "Rdz 22, 1-18",
+        "J 1, 18"
+      ],
+      "text": [
+        "1W owym czasie Jezus powiedział: „Zaprawdę, zaprawdę,powiadam ci, że to mówimy, co wiemy,i o tym świadczymy, cośmy widzieli,a świadectwa naszego nie przyjmuj ecie.",
+        "2 Jeżeli wam mówię o tym, co jest ziemskie, a nie wierzycie,     to jakżeż uwierzycie temu,         co wam powiem o sprawach nie  bieskich?",
+        "3 I nikt nie wstąpił do nieba, oprócz Tego,                                        który z nieba zstąpił - Syna Człowieczego.",
+        "4 A jak Mojżesz wywyższył węża na pustyni,                            tak potrzeba, by wywyższono Syna Człowie  czego,",
+        "3 aby każdy, kto w Niego wierzy, miał życie wieczne.",
+        "4 Tak bowiem Bóg umiłował świat,       że Syna swego Jednorodzonego dał,   aby każdy, kto w Niego wierzy, nie zginął,  ale miał życie   wieczne”."
+      ]
+    },
+    {
+      "range": "11-12",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "słowo Boże",
+        "Chrystus",
+        "chwała",
+        "Ewangelia",
+        "wiara",
+        "uwielbienie",
+        "liturgia"
+      ],
+      "summary": "Końcowy dialog liturgiczny po Ewangelii: stwierdzenie prawdziwości słowa Bożego i oddanie chwały Chrystusowi.",
+      "bible": [
+        "Hbr 4, 12",
+        "Ap 19, 1-2"
+      ],
+      "text": [
+        "3Oto słowo Pańskie.",
+        "4Chwała Tobie,   Chryste."
+      ]
+    },
+    {
+      "range": "1-12",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Ewangelia",
+        "liturgia",
+        "słowo Boże",
+        "Jezus Chrystus",
+        "Syn Boży",
+        "wiara",
+        "życie wieczne",
+        "zbawienie",
+        "miłość Boża",
+        "wywyższenie",
+        "krzyż",
+        "Mojżesz",
+        "Duch Święty",
+        "kapłan",
+        "lud Boży",
+        "chwała",
+        "głosić",
+        "Pascha"
+      ],
+      "summary": "Całość liturgii Ewangelii: od pozdrowienia kapłana i zapowiedzi, przez czytanie słowa Bożego (J 3, 11-16) objawiającego miłość Ojca posyłającego Syna dla zbawienia świata, po końcowe wyznanie wiary i oddanie chwały Chrystusowi.",
+      "bible": [
+        "J 3, 11-16",
+        "Lb 21, 4-9",
+        "Rz 5, 8",
+        "Hbr 4, 12"
+      ]
+    }
+  ]
+}

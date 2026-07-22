@@ -1,0 +1,291 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a63ac00d1999e30a01b4d4b65421b19a31d329aecfe2c875a42267f7888d631c",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "pokój",
+        "ludzie",
+        "żłób",
+        "Matka",
+        "Dzieciątko",
+        "Jezus Chrystus",
+        "Boże Narodzenie",
+        "Maryja"
+      ],
+      "summary": "Święta noc pokoju: czuwająca uśmiechnięta Matka nad snem Dzieciątka w żłobie — obraz Bożego pokoju zesłanego ludziom.",
+      "bible": [
+        "Łk 2, 14",
+        "Iz 9, 5",
+        "Łk 2, 16",
+        "J 14, 27"
+      ],
+      "text": [
+        "Cicha noc, święta noc",
+        "pokój niesie ludziom wszem,",
+        "a u żłóbka Matka Święta,",
+        "czuwa sama uśmiechnięta,",
+        "nad Dzieciątka snem,",
+        "nad Dzieciątka snem.",
+        ""
+      ]
+    },
+    {
+      "range": "8-14",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "pastuszkowie",
+        "trzody",
+        "zadziwienie",
+        "anioł",
+        "śpiew",
+        "cud",
+        "Betlejem"
+      ],
+      "summary": "Pastuszkowie zdumieni anielskim śpiewem biegną do miejsca, gdzie spełnił się cud narodzenia.",
+      "bible": [
+        "Łk 2, 8-11.15-16",
+        "Łk 2, 13-14"
+      ],
+      "text": [
+        "Cicha noc, święta noc,",
+        "pastuszkowie od swych trzód,",
+        "biegną wielce zadziwieni",
+        "za anielskim głosem pieni,",
+        "gdzie się spełnił cud,",
+        "gdzie się spełnił cud.",
+        ""
+      ]
+    },
+    {
+      "range": "15-21",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "Boży Syn",
+        "narodzenie",
+        "Majestat",
+        "świat",
+        "odkupienie",
+        "win",
+        "zbawienie"
+      ],
+      "summary": "Narodzony Boży Syn, Pan Wielkiego Majestatu, przynosi odkupienie win całemu światu.",
+      "bible": [
+        "J 3, 16",
+        "1 J 2, 2",
+        "Rz 5, 8",
+        "Łk 2, 11"
+      ],
+      "text": [
+        "Cicha noc, święta noc,",
+        "narodzony Boży Syn.",
+        "Pan Wielkiego Majestatu",
+        "niesie dziś całemu światu,",
+        "odkupienie win,",
+        "odkupienie win.",
+        ""
+      ]
+    },
+    {
+      "range": "22-28",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "cud",
+        "Betlejem",
+        "Dziecina",
+        "rączęta",
+        "błogosławieństwo",
+        "lud",
+        "Jezus Chrystus"
+      ],
+      "summary": "Dziecina święta w Betlejem wznosi rączęta ku górze i błogosławi lud — już jako nowonarodzony jest źródłem Bożego błogosławieństwa.",
+      "bible": [
+        "Łk 24, 50",
+        "Mk 10, 16",
+        "Syr 50, 22"
+      ],
+      "text": [
+        "Cicha noc, święta noc,",
+        "jakiż w tobie dzisiaj cud?",
+        "W Betlejem Dziecina święta",
+        "wznosi w górę swe rączęta,",
+        "błogosławi lud,",
+        "błogosławi lud.",
+        ""
+      ]
+    },
+    {
+      "range": "29-35",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Stille Nacht",
+        "Heilige Nacht",
+        "Paar",
+        "Knabe",
+        "Schlaf",
+        "himmlische Ruh",
+        "Jesus Christus",
+        "Weihnachten"
+      ],
+      "summary": "Niemiecka wersja kolędy: święta para czuwa nad Dzieciątkiem, które śpi w niebiańskim spokoju.",
+      "bible": [
+        "Łk 2, 16"
+      ],
+      "text": [
+        "DE Stille Nacht! Heilige Nacht!",
+        "Alles schläft, einsam wacht",
+        "nur das traute hochheilige Paar.",
+        "Holder Knabe im lockigen Haar",
+        "Schlaf in himmlischer Ruh,",
+        "Schlaf in himmlischer Ruh.",
+        ""
+      ]
+    },
+    {
+      "range": "36-42",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Silent Night",
+        "Holy Night",
+        "Virgin Mother",
+        "Child",
+        "Infant",
+        "heavenly peace",
+        "Jesus Christ",
+        "Christmas"
+      ],
+      "summary": "Angielska wersja kolędy: Dziewica Matka i Dziecię śpią w niebiańskim pokoju.",
+      "bible": [
+        "Łk 2, 16"
+      ],
+      "text": [
+        "EN Silent night! Holy night!",
+        "All is calm, all is bright",
+        "round yon Virgin Mother and Child,",
+        "Holy Infant so tender and mild,",
+        "sleep in heavenly peace!",
+        "sleep in heavenly peace!",
+        ""
+      ]
+    },
+    {
+      "range": "43-49",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "nuit de paix",
+        "Sainte nuit",
+        "ange",
+        "berger",
+        "ciel",
+        "lumière",
+        "Jésus Christ",
+        "Noël"
+      ],
+      "summary": "Francuska wersja kolędy: noc pokoju, gdy niebo rozjaśnia się, a serce aniołów objawia się pasterzom.",
+      "bible": [
+        "Łk 2, 9-10"
+      ],
+      "text": [
+        "FR Ô nuit de paix, Sainte nuit",
+        "Dans le ciel L’astre luit",
+        "Dans les champs tout repose en paix",
+        "Mais soudain dans l’air pur et frais",
+        "Le brillant coeur des anges",
+        "Aux bergers apparaît",
+        ""
+      ]
+    },
+    {
+      "range": "50-56",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Astro del ciel",
+        "Pargol divin",
+        "Agnello Redentor",
+        "Vati",
+        "angelo",
+        "luce",
+        "pace",
+        "Gesù Cristo"
+      ],
+      "summary": "Włoska wersja kolędy: gwiazda niebieska, Baranek Odkupiciel, niesie światło i pokój narodom.",
+      "bible": [
+        "J 1, 29",
+        "Ap 5, 6"
+      ],
+      "text": [
+        "IT Astro del ciel, Pargol divin,",
+        "mite Agnello Redentor!",
+        "Tu che i Vati da lungi sognar,",
+        "Tu che angeliche voci nunziar,",
+        "luce dona alle genti",
+        "pace infondi nei cuor!",
+        ""
+      ]
+    },
+    {
+      "range": "57-62",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Noche de paz",
+        "noche de amor",
+        "sueño",
+        "estrella",
+        "luz",
+        "niñito Jesús",
+        "paz"
+      ],
+      "summary": "Hiszpańska wersja kolędy: noc pokoju i miłości, gwiazdy rozsiewają światło, zwiastując Dzieciątko Jezus.",
+      "bible": [
+        "Łk 2, 10-11"
+      ],
+      "text": [
+        "ES Noche de paz, noche de amor,",
+        "Todo duerme en derredor.",
+        "Entre sus astros que esparcen su luz",
+        "Bella anunciando al niñito Jesús",
+        "Brilla la estrella de paz",
+        "Brilla la estrella de paz"
+      ]
+    },
+    {
+      "range": "1-62",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Cicha noc",
+        "Boże Narodzenie",
+        "Jezus Chrystus",
+        "pokój",
+        "zbawienie",
+        "odkupienie",
+        "Maryja",
+        "pasterze",
+        "aniołowie",
+        "błogosławieństwo"
+      ],
+      "summary": "Uniwersalna kolęda o świętej nocy narodzenia Chrystusa, która przynosi pokój wszystkim ludziom. Ukazuje kolejno: Maryję czuwającą przy żłobie, pasterzy zdumionych anielskim śpiewem, odkupieńczą misję Syna Bożego i Jego błogosławieństwo dla ludu. Dodatkowe zwrotki w pięciu językach (niemieckim, angielskim, francuskim, włoskim, hiszpańskim) podkreślają uniwersalny, ogólnoświatowy charakter orędzia Bożego Narodzenia.",
+      "bible": [
+        "Łk 2, 8-16",
+        "J 3, 16",
+        "Iz 9, 5",
+        "J 14, 27"
+      ]
+    }
+  ]
+}

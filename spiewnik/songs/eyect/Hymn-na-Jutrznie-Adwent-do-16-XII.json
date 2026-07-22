@@ -1,0 +1,193 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:fe43385da67773308fc5907ac41f783442f72be584c52c8b261de70f75bfd126",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "dźwięczny",
+        "głos",
+        "rozlegać się",
+        "noc",
+        "ciemność",
+        "senne",
+        "złudzenie",
+        "Chrystus",
+        "niebo",
+        "jaśnieć"
+      ],
+      "summary": "Wezwanie do przebudzenia z ciemności grzechu, bo Chrystus jak światło jaśnieje z nieba – adwentowe czuwanie.",
+      "bible": [
+        "Rz 13,11-12",
+        "Ef 5,14"
+      ],
+      "text": [
+        "Już dźwięczny głos się rozlega",
+        "i brzmi wśród nocnych ciemności:",
+        "niech miną senne złudzenia,",
+        "bo Chrystus z nieba jaśnieje.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "przebudzić się",
+        "umysł",
+        "grzech",
+        "zranić",
+        "nowa gwiazda",
+        "promień",
+        "uleczyć",
+        "słabość"
+      ],
+      "summary": "Umysły zranione grzechem mają się przebudzić, bo promienie nowej gwiazdy (Chrystusa) uzdrawiają – aluzja do Gwiazdy Jakuba (Lb 24,17).",
+      "bible": [
+        "Lb 24,17",
+        "Ml 3,20"
+      ],
+      "text": [
+        "Niech się przebudzą umysły",
+        "przez grzech dotkliwie zranione,",
+        "bo nowej gwiazdy promienie",
+        "uleczą wszelkie słabości.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Baranek Boży",
+        "przychodzić",
+        "łaska",
+        "wina",
+        "przeważyć",
+        "pokornie",
+        "błagać",
+        "miłosierdzie"
+      ],
+      "summary": "Baranek Boży przychodzi, by łaską przeważyć winy – pokorne błaganie o miłosierdzie (J 1,29; Iz 53).",
+      "bible": [
+        "J 1,29",
+        "Iz 53"
+      ],
+      "text": [
+        "Baranek Boży przychodzi,",
+        "by łaską winy przeważyć,",
+        "a my pokornie błagajmy",
+        "o miłosierdzie nad nami.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Pan",
+        "powtórnie",
+        "nadejść",
+        "trwoga",
+        "świat",
+        "karać",
+        "błąd",
+        "przebaczenie"
+      ],
+      "summary": "Błaganie o miłosierdzie w dniu powtórnego przyjścia Pana – eschatologiczna perspektywa Adwentu (Mt 24-25; 1 Tes 5,1-11).",
+      "bible": [
+        "Mt 24-25",
+        "1 Tes 5,1-11"
+      ],
+      "text": [
+        "Gdy Pan powtórnie nadejdzie",
+        "i trwoga świat opanuje,",
+        "niech nas nie karze za błędy,",
+        "lecz przebaczeniem obdarzy.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "czas",
+        "granica",
+        "pieśń",
+        "radosny",
+        "wielbić",
+        "Trójca",
+        "przedwieczny"
+      ],
+      "summary": "Choć w granicach czasu, już teraz pieśnią radosną wielbimy Trójcę Przedwieczną – doksologia (Rz 16,27).",
+      "bible": [
+        "Rz 16,27"
+      ],
+      "text": [
+        "Choć jeszcze w czasu granicach",
+        "jesteśmy wszyscy zawarci,",
+        "już teraz pieśnią radosną",
+        "wielbimy Trójcę przedwieczną.",
+        ""
+      ]
+    },
+    {
+      "range": "26-26",
+      "type": "zakończenie",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Amen"
+      ],
+      "summary": "Aklamacja Amen zamykająca hymn.",
+      "bible": [],
+      "text": [
+        "Amen"
+      ]
+    },
+    {
+      "range": "1-26",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Adwent",
+        "noc",
+        "światło",
+        "Chrystus",
+        "przebudzenie",
+        "grzech",
+        "rana",
+        "Baranek Boży",
+        "łaska",
+        "miłosierdzie",
+        "sąd",
+        "Paruzja",
+        "Trójca Święta",
+        "czuwanie",
+        "pokuta",
+        "nadzieja",
+        "gwiazda",
+        "prorocy",
+        "zbawienie",
+        "Amen"
+      ],
+      "summary": "Hymn na Jutrznię Adwentu (do 16 XII) – parafraza łacińskiego 'Vox clara ecce intonat'. Pięć zwrotek adwentowych przechodzi od wezwania do przebudzenia z ciemności i uleczenia ran grzechu, przez pokłon Barankowi Bożemu, po prośbę o miłosierdzie w dniu Paruzji. Kończy się doksologią trynitarną. Typologia: nowa gwiazda (Lb 24,17) jako figura Chrystusa; Baranek Boży (Iz 53,7) wypełnia się w ofierze Jezusa (J 1,29).",
+      "bible": [
+        "Rz 13,11-12",
+        "Ef 5,14",
+        "Lb 24,17",
+        "Ml 3,20",
+        "J 1,29",
+        "Iz 53",
+        "Mt 24-25",
+        "1 Tes 5,1-11",
+        "Rz 16,27"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:8261784678c83a025908e77ce72ca5d673590f2358e3ed77a9900b5be72c4921",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dziękować",
+        "Jahwe",
+        "alleluja"
+      ],
+      "summary": "Refren dziękczynny wielbiący Jahwe, powtarzany po każdej zwrotce Psalmu 136.",
+      "bible": [
+        "Ps 136, 1-3"
+      ],
+      "text": [
+        "Dzięki Ci, Jahwe, alleluja.",
+        "Dzięki Ci, Jahwe, alleluja.",
+        "Dzięki Ci, Jahwe, alleluja.",
+        "Dzięki Ci, Jahwe, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dziękować",
+        "Bóg",
+        "miłość",
+        "wielki",
+        "cud"
+      ],
+      "summary": "Wezwanie do dziękczynienia Bogu za Jego wielką miłość i cuda.",
+      "bible": [
+        "Ps 136, 2-4"
+      ],
+      "text": [
+        "Dziękujmy Bogu naszemu,",
+        "bo na wieki Jego wielka miłość.",
+        "On sam jeden czyni wielkie cuda.",
+        "Dzięki Ci, Jahwe, …",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "mądrość",
+        "niebo",
+        "ziemia",
+        "woda",
+        "stworzenie"
+      ],
+      "summary": "Dziękczynienie za stworzenie nieba i ziemi przez Bożą mądrość.",
+      "bible": [
+        "Ps 136, 5-6",
+        "Rdz 1, 6-10"
+      ],
+      "text": [
+        "On w mądrości niebiosa uczynił,",
+        "bo na wieki Jego wielka miłość.",
+        "On utwierdził ziemię nad wodami.",
+        "Dzięki Ci, Jahwe, …",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "światło",
+        "słońce",
+        "księżyc",
+        "czas",
+        "stworzenie"
+      ],
+      "summary": "Dziękczynienie za stworzenie wielkich świateł: słońca i księżyca władających czasem.",
+      "bible": [
+        "Ps 136, 7-9",
+        "Rdz 1, 14-18"
+      ],
+      "text": [
+        "On uczynił przeogromne światła,",
+        "bo na wieki Jego wielka miłość.",
+        "Słońce, księżyc, by władały czasem.",
+        "Dzięki Ci, Jahwe, …",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Egipt",
+        "niewola",
+        "Izrael",
+        "wyprowadzić",
+        "Wyjście"
+      ],
+      "summary": "Dziękczynienie za wyjście z Egiptu: Bóg uderzył Egipt i wyprowadził Izraela z niewoli.",
+      "bible": [
+        "Ps 136, 10-11",
+        "Wj 12-14"
+      ],
+      "text": [
+        "On uderzył Egipt w jego synach,",
+        "bo na wieki Jego wielka miłość.",
+        "Wyprowadził z niewoli Izraela.",
+        "Dzięki Ci, Jahwe, …",
+        ""
+      ]
+    },
+    {
+      "range": "26-30",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "morze",
+        "podzielić",
+        "przeprowadzić",
+        "lud",
+        "wybrany"
+      ],
+      "summary": "Dziękczynienie za przejście przez Morze Czerwone: Bóg podzielił morze i przeprowadził lud wybrany.",
+      "bible": [
+        "Ps 136, 13-14",
+        "Wj 14, 21-22"
+      ],
+      "text": [
+        "On podzielił morze na dwie części,",
+        "bo na wieki Jego wielka miłość.",
+        "Przeprowadził środkiem lud wybrany.",
+        "Dzięki Ci, Jahwe, …",
+        ""
+      ]
+    },
+    {
+      "range": "31-35",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "zatopić",
+        "wojsko",
+        "nieprzyjaciel",
+        "pustynia",
+        "prowadzić"
+      ],
+      "summary": "Dziękczynienie za zatopienie wojsk egipskich i prowadzenie ludu przez pustynię.",
+      "bible": [
+        "Ps 136, 15-16",
+        "Wj 14, 27-28",
+        "Wj 15, 22"
+      ],
+      "text": [
+        "On zatopił wojsko nieprzyjaciół,",
+        "bo na wieki Jego wielka miłość.",
+        "I prowadził lud swój przez pustynię.",
+        "Dzięki Ci, Jahwe, …",
+        ""
+      ]
+    },
+    {
+      "range": "36-40",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "obietnica",
+        "ziemia",
+        "mleko",
+        "miód",
+        "dar"
+      ],
+      "summary": "Dziękczynienie za dar Ziemi Obiecanej płynącej mlekiem i miodem według Bożej obietnicy.",
+      "bible": [
+        "Ps 136, 21-22",
+        "Joz 1-12"
+      ],
+      "text": [
+        "Dał nam według swojej obietnicy,",
+        "bo na wieki Jego wielka miłość.",
+        "Ziemię mlekiem i miodem płynącą.",
+        "Dzięki Ci, Jahwe, …",
+        ""
+      ]
+    },
+    {
+      "range": "41-45",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "klęska",
+        "nie opuścić",
+        "uwolnić",
+        "gnębiciel"
+      ],
+      "summary": "Dziękczynienie za Bożą wierność w klęskach: Bóg nie opuszcza i uwalnia od gnębicieli.",
+      "bible": [
+        "Ps 136, 23-24",
+        "Sdz 2, 16-18"
+      ],
+      "text": [
+        "W naszej klęsce On nas nie opuszcza,",
+        "bo na wieki Jego wielka miłość.",
+        "On nas uwalnia od naszych gnębicieli.",
+        "Dzięki Ci, Jahwe, …",
+        ""
+      ]
+    },
+    {
+      "range": "46-50",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "pokarm",
+        "stworzenie",
+        "dziękować",
+        "Bóg",
+        "miłość"
+      ],
+      "summary": "Dziękczynienie za Bożą opatrzność dającą pokarm wszelkiemu stworzeniu, zamykające psalm dziękczynny.",
+      "bible": [
+        "Ps 136, 25-26"
+      ],
+      "text": [
+        "Daje pokarm wszelkiemu stworzeniu,",
+        "bo na wieki Jego wielka miłość.",
+        "Dziękujmy Bogu naszemu.",
+        "Dzięki Ci, Jahwe, …",
+        ""
+      ]
+    },
+    {
+      "range": "51-57",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bóg",
+        "opuścić",
+        "zbawienie",
+        "jęk",
+        "wołać",
+        "odpowiadać",
+        "krzyczeć",
+        "spoczynek"
+      ],
+      "summary": "Wołanie opuszczenia na wzór Psalmu 22: Boże mój, czemuś mnie opuścił? Krzyk cierpiącego bez odpowiedzi.",
+      "bible": [
+        "Ps 22, 2-3",
+        "Mt 27, 46",
+        "Mk 15, 34"
+      ],
+      "text": [
+        "Elí, E()lí, lemá sabachthaní?",
+        "Boże mój, Boże mój, czemu mnie opuściłeś?",
+        "Jakże dalekie Twoje zbawienie od mego jęku,",
+        "wołam Cię w dzień, a nie odpowiadasz,",
+        "krzyczę i nocą, a nie zaznaję spoczynku.",
+        "Elí, E()lí, lemá sabachthaní?",
+        "Boże mój, Boże mój, czemu mnie opuściłeś?"
+      ]
+    },
+    {
+      "range": "58-63",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Święty",
+        "mieszkać",
+        "uwielbienie",
+        "lud",
+        "zaufać",
+        "ojciec",
+        "wyzwolić",
+        "wybawić",
+        "zawieść"
+      ],
+      "summary": "Kontrast między wiernością Boga wobec ojców a obecnym opuszczeniem: ojcowie zaufali i nie zostali zawiedzeni.",
+      "bible": [
+        "Ps 22, 4-6"
+      ],
+      "text": [
+        "A przecież Ty jesteś Święty,",
+        "Ty, który mieszkasz w uwielbieniu mego ludu.",
+        "Tobie zaufali moi ojcowie,",
+        "zaufali, a Tyś ich wyzwolił;",
+        "do Ciebie krzyczeli i ich wybawiłeś,",
+        "Tobie zaufali i nie zostali zawiedzeni."
+      ]
+    },
+    {
+      "range": "64-74",
+      "type": "fragment",
+      "sentiment": "pokutny",
+      "keywords": [
+        "człowiek",
+        "robak",
+        "pośmiewisko",
+        "wzgarda",
+        "lud",
+        "szydzić",
+        "Bóg",
+        "miłować",
+        "łono",
+        "matka"
+      ],
+      "summary": "Auto-deprecjacja cierpiącego: czuje się robakiem i pośmiewiskiem ludu, lecz wyznaje ufność w Bożą miłość od łona matki.",
+      "bible": [
+        "Ps 22, 7-11"
+      ],
+      "text": [
+        "Ale ()ja? Dlaczego mi nie pomagasz?",
+        "Czyż nie jestem człowiekiem?",
+        "Oto ja jestem robakiem!",
+        "Pośmiewisko ludzi! Wzgarda ludu!",
+        "Szydzą ze mnie ci, którzy na mnie patrzą,",
+        "wykrzywiają usta, potrząsają głową, oni mówią:",
+        "„Niech woła do Boga, niechaj go uwolni",
+        "jeśli to prawda, że tak bardzo go miłuje”.",
+        "()Tak, Ty mnie kochasz, tak, Ty mnie miłujesz!",
+        "Ty mnie wydobyłeś z łona mej matki.",
+        ""
+      ]
+    },
+    {
+      "range": "75-79",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "narodzenie",
+        "przyjąć",
+        "Bóg",
+        "zaufać",
+        "opuszczenie"
+      ],
+      "summary": "Wyznanie ufności od urodzenia przeplatane powracającym refrenem opuszczenia.",
+      "bible": [
+        "Ps 22, 10-11",
+        "Mt 27, 46"
+      ],
+      "text": [
+        "Od mego narodzenia Ty mnie przyjąłeś,",
+        "od łona mojej matki jesteś moim Bogiem.",
+        "Zostałem powierzony Tobie, gdy się rodziłem.",
+        "Elí, E()lí, lemá sabachthaní?",
+        "Boże mój, Boże mój, czemu mnie opuściłeś?"
+      ]
+    },
+    {
+      "range": "80-92",
+      "type": "fragment",
+      "sentiment": "pokutny",
+      "keywords": [
+        "byk",
+        "Baszan",
+        "lew",
+        "pies",
+        "woda",
+        "wylanie",
+        "kość",
+        "serce",
+        "wosk",
+        "gardło",
+        "język",
+        "proch",
+        "śmierć"
+      ],
+      "summary": "Opis fizycznego cierpienia: otoczony przez wrogów jak przez dzikie zwierzęta, ciało wyniszczone, serce topnieje jak wosk.",
+      "bible": [
+        "Ps 22, 13-16",
+        "J 19, 28"
+      ],
+      "text": [
+        "Otaczają mnie byki niezliczone,",
+        "osaczają mnie byki Baszanu.",
+        "Rozwierają przeciw mnie swoje paszcze",
+        "jak lew drapieżny i ryczący, jak wściekłe psy.",
+        "Jestem brudną wodą, do wylania.",
+        "Są rozłączone wszystkie moje kości.",
+        "Jak wosk jest moje serce,",
+        "topnieje pośród mych wnętrzności.",
+        "Moje gardło suche jak skorupa,",
+        "język mój przywarł do podniebienia,",
+        "położyłeś mnie w prochu śmierci.",
+        "Elí, E()lí, lemá sabachthaní?",
+        "Boże mój, Boże mój, czemu mnie opuściłeś?"
+      ]
+    },
+    {
+      "range": "93-100",
+      "type": "fragment",
+      "sentiment": "pokutny",
+      "keywords": [
+        "pies",
+        "sfora",
+        "złoczyńca",
+        "przebodli",
+        "ręka",
+        "noga",
+        "kość",
+        "szata",
+        "suknia",
+        "los"
+      ],
+      "summary": "Opis oprawców: przebodli ręce i nogi, dzielą szaty, rzucają los o suknię wyrazna typologia męki Chrystusa.",
+      "bible": [
+        "Ps 22, 17-19",
+        "J 19, 23-24",
+        "J 19, 34",
+        "J 19, 36"
+      ],
+      "text": [
+        "Sfora psów mnie opada,",
+        "osacza mnie zgraja złoczyńców;",
+        "przebodli moje ręce i moje nogi,",
+        "policzyć mogę wszystkie moje kości.",
+        "Wpatrują się we mnie, obserwują mnie:",
+        "dzielą między siebie moje szaty,",
+        "o moją suknię los rzucają.",
+        ""
+      ]
+    },
+    {
+      "range": "101-108",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Pan",
+        "moc",
+        "pomoc",
+        "ocalić",
+        "miecz",
+        "lew",
+        "dusza",
+        "ratować"
+      ],
+      "summary": "Błagalne wołanie o ratunek: nie stój z daleka, spiesz mi na pomoc, ocal mnie od miecza i lwa.",
+      "bible": [
+        "Ps 22, 20-22",
+        "2 Tm 4, 17"
+      ],
+      "text": [
+        "A Ty, o Panie, ()nie stój z daleka,",
+        "mocy moja, mocy moja,",
+        "spiesz mi, spiesz mi na pomoc.",
+        "Ocal mnie od miecza,",
+        "z psich pazurów wyrwij moje życie,",
+        "wybaw mnie z paszczy lwa,",
+        "i od bawolich rogów,",
+        "ratuj moją duszę, ratuj moją duszę."
+      ]
+    },
+    {
+      "range": "109-121",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "głosić",
+        "imię",
+        "brat",
+        "chwalić",
+        "zgromadzenie",
+        "chwała",
+        "Jakub",
+        "Izrael",
+        "biedak",
+        "wysłuchać",
+        "pomoc"
+      ],
+      "summary": "Ślubowanie chwały po ocaleniu: będę głosił imię Boże moim braciom i chwalił w zgromadzeniu, bo Bóg nie wzgardził biedakiem.",
+      "bible": [
+        "Ps 22, 23-27",
+        "Hbr 2, 12"
+      ],
+      "text": [
+        "Będę głosił() Twoje imię moim braciom,",
+        "chwalić Cię będę pośród zgromadzenia:",
+        "chwalcie Pana wy, co się Go boicie,",
+        "niech Mu odda chwałę potomstwo Jakuba,",
+        "niech się Go boi dom Izraela;",
+        "bowiem On nie wzgardził,",
+        "ani się nie brzydził tym biedakiem,",
+        "ale wysłuchał go, gdy krzyczał o pomoc,",
+        "nie ukrył przed nim swojego oblicza,",
+        "ale przyszedł mu z pomocą.",
+        "Ty jesteś moją chwałą w wielkim zgromadzeniu,",
+        "wypełnię moje śluby przed wiernymi.",
+        ""
+      ]
+    },
+    {
+      "range": "122-141",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "ubogi",
+        "chwalić",
+        "szukać",
+        "biedak",
+        "żyć",
+        "kraniec",
+        "ziemia",
+        "pokłon",
+        "naród",
+        "królestwo",
+        "Pan",
+        "panować",
+        "potomstwo",
+        "pokolenie",
+        "dzieło"
+      ],
+      "summary": "Uniwersalna wizja zbawienia: ubodzy będą nasyceni, wszystkie krańce ziemi powrócą do Pana, Jego królestwo ogarnie wszystkich.",
+      "bible": [
+        "Ps 22, 27-32",
+        "Flp 2, 10-11",
+        "Ap 5, 13"
+      ],
+      "text": [
+        "Teraz wiem, teraz wiem,",
+        "że ubodzy będą jedli do syta,",
+        "chwalić Cię będą wszyscy ci, którzy Cię szukają,",
+        "że ich serce, serce biedaków, ubogich,",
+        "żyć będzie na zawsze.",
+        "Powrócą do Pana wszystkie krańce ziemi,",
+        "pokłon Mu oddadzą wszystkie rodziny narodów.",
+        "Bo królestwo, bo królestwo należy do Pana,",
+        "On panuje nad wszystkimi narodami.",
+        "Tylko Jemu pokłon oddadzą",
+        "wszyscy śpiący pod ziemią,",
+        "zegną się przed Nim",
+        "ci, którzy w proch zstępują,",
+        "bowiem ja, bowiem ja żyć będę, żyć będę,",
+        "żyć będę dla Niego,",
+        "Jemu służyć będzie moje potomstwo.",
+        "Opowie o Panu pokoleniu, które przyjdzie;",
+        "ogłosi to wszystko, co uczynił ze mną;",
+        "ludowi, który się narodzi, powie:",
+        "„Oto dzieło Pana!”"
+      ]
+    },
+    {
+      "range": "142-143",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bóg",
+        "opuścić"
+      ],
+      "summary": "Końcowe powtórzenie wołania opuszczenia: Eli, Eli, lema sabachthani? Piesń zamyka się krzykiem cierpiącego Mesjasza.",
+      "bible": [
+        "Ps 22, 2",
+        "Mt 27, 46",
+        "Mk 15, 34"
+      ],
+      "text": [
+        "Elí, E()lí, lemá sabachthaní?",
+        "Boże mój, Boże mój, czemu mnie opuściłeś?"
+      ]
+    },
+    {
+      "range": "1-143",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dziękować",
+        "Jahwe",
+        "miłość",
+        "stworzenie",
+        "Wyjście",
+        "Egipt",
+        "Ziemia Obiecana",
+        "cierpienie",
+        "Mesjasz",
+        "opuszczenie",
+        "śmierć",
+        "królestwo",
+        "narody",
+        "zbawienie",
+        "Psalm",
+        "typologia",
+        "męka",
+        "odkupienie",
+        "chwaa",
+        "zmartwychwstanie"
+      ],
+      "summary": "Piesń łączy dziękczynny Psalm 136 z pasyjnym Psalmem 22. Część pierwsza sławi dzieła stworzenia i Wyjścia; druga jest proroctwem męki Mesjasza z wyrazną typologią ukrzyżowania (przebodle ręce, los o szaty, wołanie opuszczenia) prowadzącą przez cierpienie do uniwersalnego królestwa.",
+      "bible": [
+        "Ps 136",
+        "Ps 22",
+        "Mt 27, 35.46",
+        "Mk 15, 24.34",
+        "J 19, 23-24.28.34.36",
+        "Hbr 2, 12",
+        "Flp 2, 10-11",
+        "Ap 5, 13"
+      ]
+    }
+  ]
+}

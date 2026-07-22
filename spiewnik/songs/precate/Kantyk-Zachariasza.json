@@ -1,0 +1,204 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:b9f87270cfa99830d7dec7e05baf12f53a93d2cbe01a073aeb604ea38debadfc",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "Pan",
+        "Bóg",
+        "Izrael",
+        "nawiedzenie",
+        "odkupienie",
+        "lud",
+        "Zbawiciel",
+        "Dom Dawida",
+        "Jezus Chrystus"
+      ],
+      "summary": "Błogosławieństwo Boga Izraela, który nawiedził i odkupił swój lud, wzbudzając potężnego Zbawiciela z rodu Dawida — wypełnienie mesjańskiej obietnicy w Chrystusie.",
+      "bible": [
+        "Łk 1, 68-69",
+        "2 Sm 7, 12-16",
+        "Iz 9, 6"
+      ],
+      "text": [
+        "Błogosławion niech będzie Pan,",
+        "Bóg Izraela,",
+        "bo nawiedził i odkupił swój lud,",
+        "wzbudzając potężnego Zbawiciela",
+        "w domu Dawida, swojego sługi.",
+        ""
+      ]
+    },
+    {
+      "range": "7-17",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "proroctwo",
+        "prorok",
+        "obietnica",
+        "wybawienie",
+        "wróg",
+        "miłosierdzie",
+        "przymierze",
+        "Abraham",
+        "przysięga",
+        "służba",
+        "świętość",
+        "sprawiedliwość",
+        "strach"
+      ],
+      "summary": "Bóg wypełnia obietnice dane prorokom i przysięgę Abrahamowi, wybawiając lud od wrogów, by służyli Mu w świętości i sprawiedliwości.",
+      "bible": [
+        "Łk 1, 70-75",
+        "Rdz 22, 16-18",
+        "Jr 31, 31-34"
+      ],
+      "text": [
+        "Zgodnie z tym, co zostało zapowiedziane                          w dawnych czasach",
+        "przez usta Jego świętych proroków,",
+        "że nas wybawi od naszych wrogów        i z ręki wszystkich, co nas nienawidzą.",
+        "Wypełnił tak swoje miłosierdzie,które okazał ojcom naszym,",
+        "pamiętając o swoim świętym przymierzu",
+        "i przysiędze złożonej ojcu naszemu Abrahamowi,",
+        "że da nam, byśmy uwolnieni od strachu",
+        "i wyrwani z ręki naszych wrogów,",
+        "służyli Mu w świętości i sprawiedliwości",
+        "przed Jego obliczem przez wszystkie dni nasze.",
+        ""
+      ]
+    },
+    {
+      "range": "18-23",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "Pan",
+        "Bóg",
+        "Izrael",
+        "nawiedzenie",
+        "odkupienie",
+        "Zbawiciel",
+        "Dom Dawida",
+        "Jezus Chrystus"
+      ],
+      "summary": "Powtórzenie refrenu błogosławiącego Boga za nawiedzenie i odkupienie ludu przez Zbawiciela z domu Dawida.",
+      "bible": [
+        "Łk 1, 68-69"
+      ],
+      "text": [
+        "Błogosławion niech będzie Pan,",
+        "Bóg Izraela,",
+        "bo nawiedził i odkupił swój lud,",
+        "wzbudzając potężnego Zbawiciela",
+        "w domu Dawida, swojego sługi.",
+        ""
+      ]
+    },
+    {
+      "range": "24-31",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dziecina",
+        "prorok",
+        "Najwyższy",
+        "Jan Chrzciciel",
+        "Pan",
+        "droga",
+        "zbawienie",
+        "odpuszczenie",
+        "grzech",
+        "miłosierdzie",
+        "Słońce",
+        "światło",
+        "ciemność",
+        "cień śmierci",
+        "pokój"
+      ],
+      "summary": "Zapowiedź misji Jana Chrzciciela jako proroka przygotowującego drogi Panu oraz przyjście Słońca wschodzącego z wysoka, które oświeca pogrążonych w ciemności i cieniu śmierci — Chrystusa Światłości świata.",
+      "bible": [
+        "Łk 1, 76-79",
+        "Ml 3, 1",
+        "Iz 40, 3",
+        "Iz 9, 1-2",
+        "J 1, 9",
+        "J 8, 12",
+        "Mt 4, 16"
+      ],
+      "text": [
+        "A ty, dziecino, zwać się będziesz                   prorokiem Najwyższego,",
+        "bo pójdziesz przed Panem                       przygotować Jego drogi,",
+        "obwieszczając ludowi zbawienie                    i odpuszczenie jego grzechów.",
+        "Dzięki wielkiemu miłosierdziu Boga naszego",
+        "nawiedzi nas Słońce wschodzące z wysoka,",
+        "by oświecić tych, co żyją w ciemności                   i w cieniu śmierci,",
+        "by skierować nasze kroki na drogę pokoju.",
+        ""
+      ]
+    },
+    {
+      "range": "32-36",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "Pan",
+        "Bóg",
+        "Izrael",
+        "nawiedzenie",
+        "odkupienie",
+        "Zbawiciel",
+        "Dom Dawida"
+      ],
+      "summary": "Finalne powtórzenie refrenu błogosławiącego Boga za dar Zbawiciela.",
+      "bible": [
+        "Łk 1, 68-69"
+      ],
+      "text": [
+        "Błogosławion niech będzie Pan,",
+        "Bóg Izraela,",
+        "bo nawiedził i odkupił swój lud,",
+        "wzbudzając potężnego Zbawiciela",
+        "w domu Dawida, swojego sługi."
+      ]
+    },
+    {
+      "range": "1-36",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "nawiedzenie",
+        "odkupienie",
+        "Zbawiciel",
+        "Dom Dawida",
+        "proroctwo",
+        "przymierze",
+        "Abraham",
+        "Jan Chrzciciel",
+        "Słońce wschodzące",
+        "światło",
+        "ciemność",
+        "śmierć",
+        "pokój",
+        "miłosierdzie",
+        "Chrystus"
+      ],
+      "summary": "Pieśń jest parafrazą kantyku Zachariasza (Benedictus, Łk 1, 68-79), dziękczynnego hymnu za wypełnienie mesjańskich obietnic w Jezusie Chrystusie i zapowiedź misji Jana Chrzciciela jako przygotowującego drogę Zbawicielowi.",
+      "bible": [
+        "Łk 1, 68-79",
+        "Iz 9, 1-2",
+        "Iz 40, 3",
+        "Ml 3, 1",
+        "J 1, 9",
+        "J 8, 12"
+      ]
+    }
+  ]
+}

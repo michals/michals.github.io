@@ -1,0 +1,385 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:8d55c6121fc57c5dedd6e22227e4b920a1d1495e1a1655aec8c8f0f88c6e215a",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Panie",
+        "Chryste",
+        "zmiłowanie",
+        "prośba",
+        "miłosierdzie",
+        "Kyrie eleison"
+      ],
+      "summary": "Potrójne wezwanie Kyrie eleison — Panie, zmiłuj się nad nami.",
+      "bible": [
+        "Mt 20, 30-31",
+        "Mk 10, 47-48",
+        "Łk 18, 38-39",
+        "Oz 6, 1"
+      ],
+      "text": [
+        "Panie, zmiłuj się nad nami.",
+        "Chryste, zmiłuj się nad nami.",
+        "Panie, zmiłuj się nad nami."
+      ]
+    },
+    {
+      "range": "4-5",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "Matka Boża",
+        "wstawiennictwo",
+        "święci",
+        "modlitwa",
+        "orędownictwo"
+      ],
+      "summary": "Wezwanie Maryi, Matki Bożej, z prośbą o orędownictwo i modlitwę wstawienniczą.",
+      "bible": [
+        "Łk 1, 48",
+        "J 2, 1-5",
+        "Dz 1, 14"
+      ],
+      "text": [
+        "Święta Maryjo, Matko Boża,",
+        "módl się za nami."
+      ]
+    },
+    {
+      "range": "6-31",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "święci",
+        "aniołowie",
+        "Michał Archanioł",
+        "Jan Chrzciciel",
+        "Józef",
+        "Piotr",
+        "Paweł",
+        "Andrzej",
+        "Jan Apostoł",
+        "Maria Magdalena",
+        "Szczepan",
+        "Ignacy Antiocheński",
+        "Wawrzyniec",
+        "Wojciech",
+        "Stanisław",
+        "Perpetua",
+        "Felicyta",
+        "Agnieszka",
+        "Grzegorz",
+        "Augustyn",
+        "Atanazy",
+        "Bazyli",
+        "Marcin",
+        "Benedykt",
+        "Franciszek",
+        "Dominik",
+        "Franciszek Ksawery",
+        "Jan Maria Vianney",
+        "Katarzyna Sieneńska",
+        "Teresa od Jezusa",
+        "wstawiennictwo",
+        "modlitwa"
+      ],
+      "summary": "Litania wzywająca zastępy świętych i aniołów z prośbą o orędownictwo przed Bogiem.",
+      "bible": [
+        "Hbr 12, 1",
+        "Ap 7, 9-17",
+        "Ap 5, 8",
+        "Ap 8, 3-4",
+        "1 Tm 2, 1"
+      ],
+      "text": [
+        "Święty Michale, módl się za nami.",
+        "↱Święci Aniołowie Boży, módlcie się za nami.",
+        "Święty Janie Chrzcicielu, módl się za nami.",
+        "Święty Józefie, módl się za nami.",
+        "↱Święci Piotrze i Pawle, módlcie się za nami.",
+        "Święty Andrzeju, módl się za nami.",
+        "Święty Janie, módl się za nami.",
+        "Święta Mario Magdaleno, módl się za nami.",
+        "Święty Szczepanie, módl się za nami.",
+        "Święty Ignacy Antiocheński, módl się za nami.",
+        "Święty Wawrzyńcze, módl się za nami.",
+        "↱Święci Wojciechu i Stanisławie, módlcie się za nami.",
+        "↱Święte Perpetuo i Felicyto, módlcie się za nami.",
+        "Święta Agnieszko, módl się za nami.",
+        "Święty Grzegorzu, módl się za nami.",
+        "Święty Augustynie, módl się za nami.",
+        "Święty Atanazy, módl się za nami.",
+        "Święty Bazyli, módl się za nami.",
+        "Święty Marcinie, módl się za nami.",
+        "Święty Benedykcie, módl się za nami.",
+        "↱Święci Franciszku i Dominiku, módlcie się za nami.",
+        "Święty Franciszku Ksawery, módl się za nami.",
+        "Święty Janie Mario Vianney’u, módl się za nami.",
+        "Święta Katarzyno Sieneńska, módl się za nami.",
+        "Święta Tereso od Jezusa, módl się za nami.",
+        ""
+      ]
+    },
+    {
+      "range": "32-35",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "6-36",
+      "bible": [],
+      "text": [
+        "tu można dodać wezwania świętych,",
+        "zwłaszcza Patronów kościoła,",
+        "miejscowości i tych, którzy",
+        "mają przyjąć chrzest."
+      ]
+    },
+    {
+      "range": "36",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wszyscy święci",
+        "orędownictwo",
+        "modlitwa",
+        "wstawiennictwo",
+        "zgromadzenie świętych"
+      ],
+      "summary": "Wezwanie wszystkich świętych i świętych Bożych o modlitwę wstawienniczą.",
+      "bible": [
+        "Ap 7, 9-12",
+        "Hbr 12, 1"
+      ],
+      "text": [
+        "↱Wszyscy Święci                              i Święte Boże, módlcie się za nami."
+      ]
+    },
+    {
+      "range": "37-38",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "miłościw",
+        "wybawienie",
+        "Panie",
+        "prośba",
+        "miłosierdzie",
+        "zbawienie"
+      ],
+      "summary": "Prośba o miłosierdzie i wybawienie skierowana do Boga.",
+      "bible": [
+        "Ps 6, 3",
+        "Ps 86, 15",
+        "Oz 6, 1"
+      ],
+      "text": [
+        "Bądź nam miłościw,",
+        "Wybaw nas Panie."
+      ]
+    },
+    {
+      "range": "39-44",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "zło",
+        "grzech",
+        "śmierć wieczna",
+        "Wcielenie",
+        "śmierć",
+        "Zmartwychwstanie",
+        "Duch Święty",
+        "Zesłanie Ducha Świętego",
+        "wybawienie",
+        "Panie",
+        "odkupienie"
+      ],
+      "summary": "Błaganie o wybawienie od zła, grzechu i śmierci wiecznej przez tajemnice Wcielenia, śmierci i Zmartwychwstania Chrystusa oraz Zesłania Ducha Świętego.",
+      "bible": [
+        "Mt 6, 13",
+        "Rz 6, 23",
+        "J 1, 14",
+        "Rz 4, 25",
+        "Dz 2, 1-4",
+        "1 Kor 15, 54-57"
+      ],
+      "text": [
+        "Od zła wszelkiego, wybaw nas Panie.",
+        "Od każdego grzechu, wybaw nas Panie.",
+        "Od śmierci wiecznej, wybaw nas Panie.",
+        "Przez Twoje Wcielenie, wybaw nas Panie.",
+        "Przez Twoją śmierć                           i Zmartwychwstanie, wybaw nas Panie.",
+        "Przez Zesłanie Ducha Świętego, wybaw nas Panie."
+      ]
+    },
+    {
+      "range": "45-46",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "grzesznicy",
+        "prośba",
+        "wysłuchanie",
+        "Panie",
+        "pokora",
+        "miłosierdzie"
+      ],
+      "summary": "Pokorna prośba grzeszników o wysłuchanie przez Pana.",
+      "bible": [
+        "Łk 18, 13",
+        "Ps 51, 3",
+        "Dn 9, 18"
+      ],
+      "text": [
+        "↱Prosimy Cię, my, grzesznicy,",
+        "Wysłuchaj nas Panie."
+      ]
+    },
+    {
+      "range": "47",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "48",
+      "bible": [],
+      "text": [
+        "Jeśli są kandydaci do chrztu:"
+      ]
+    },
+    {
+      "range": "48",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "chrzest",
+        "łaska",
+        "odrodzenie",
+        "prośba",
+        "kandydaci",
+        "woda",
+        "Duch Święty"
+      ],
+      "summary": "Prośba o odrodzenie kandydatów przez łaskę chrztu świętego.",
+      "bible": [
+        "J 3, 5",
+        "Dz 2, 38",
+        "Tt 3, 5",
+        "Rz 6, 4"
+      ],
+      "text": [
+        "↱Prosimy Cię, abyś tych wybranych        odrodził przez łaskę      chrztu świętego, wysłuchaj nas Panie."
+      ]
+    },
+    {
+      "range": "49",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "50",
+      "bible": [],
+      "text": [
+        "Jeśli nie ma kandydatów do chrztu:"
+      ]
+    },
+    {
+      "range": "50",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "woda",
+        "łaska",
+        "chrzest",
+        "odrodzenie",
+        "dzieci",
+        "prośba",
+        "uświęcenie"
+      ],
+      "summary": "Prośba o uświęcenie wody chrztu przez łaskę Bożą, aby odrodziły się dzieci Kościoła.",
+      "bible": [
+        "J 3, 5",
+        "Ef 5, 26",
+        "Tt 3, 5"
+      ],
+      "text": [
+        "↱Prosimy Cię, abyś swoją łaskąuświęcił tę wodę,przez którą mają się odrodzićTwoje dzieci, wysłuchaj nas Panie."
+      ]
+    },
+    {
+      "range": "51-52",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Jezus",
+        "Syn Boga żywego",
+        "prośba",
+        "wysłuchanie",
+        "Panie",
+        "mesjasz"
+      ],
+      "summary": "Prośba do Jezusa, Syna Boga żywego, o wysłuchanie.",
+      "bible": [
+        "Mt 16, 16",
+        "J 11, 27",
+        "Mk 14, 61"
+      ],
+      "text": [
+        "",
+        "↱Prosimy Cię, Jezu,                   Synu Boga żywego, wysłuchaj nas Panie."
+      ]
+    },
+    {
+      "range": "53-56",
+      "type": "zakończenie",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Chryste",
+        "usłyszenie",
+        "wysłuchanie",
+        "prośba",
+        "zakończenie",
+        "litania"
+      ],
+      "summary": "Końcowe wezwania litanii — Chryste, usłysz i wysłuchaj nas.",
+      "bible": [],
+      "text": [
+        "Chryste, usłysz nas.",
+        "Chryste, usłysz nas.",
+        "Chryste, wysłuchaj nas.",
+        "Chryste, wysłuchaj nas."
+      ]
+    },
+    {
+      "range": "1-56",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "litania",
+        "święci",
+        "orędownictwo",
+        "wstawiennictwo",
+        "Kyrie",
+        "Maryja",
+        "aniołowie",
+        "chrzest",
+        "miłosierdzie",
+        "wybawienie",
+        "Kościół",
+        "wspólnota świętych"
+      ],
+      "summary": "Litania do wszystkich świętych — uroczyste błaganie o wstawiennictwo świętych i aniołów, wybawienie od zła i grzechu, z warunkowymi prośbami za kandydatów do chrztu. Używana w Liturgii Paschalnej Wigilii Paschalnej.",
+      "bible": [
+        "Ap 7, 9-17",
+        "Hbr 12, 1",
+        "Mt 28, 19-20",
+        "J 3, 5",
+        "Rz 6, 3-5",
+        "Dz 2, 38"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:b988d33ade57885048643ad355f69a919a104e46c9f622a803c73c58556bb13a",
+  "songs_analysis": [
+    {
+      "range": "1-8",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Sługa Jahwe",
+        "wdzięk",
+        "blask",
+        "wzgardzony",
+        "odepchnięty",
+        "Mąż boleści",
+        "cierpienie",
+        "Chrystus",
+        "męka",
+        "poniżenie"
+      ],
+      "summary": "Opis Sługi Jahwe pozbawionego wdzięku i blasku, wzgardzonego i odepchniętego przez ludzi – Męża boleści oswojonego z cierpieniem. Typologia Chrystusa cierpiącego.",
+      "bible": [
+        "Iz 53, 2-3"
+      ],
+      "text": [
+        "Nie ma w Nim żadnego wdzięku,",
+        "nie ma w Nim żadnego blasku,",
+        "aby na Niego popatrzeć,",
+        "ani wyglądu, by się nam podobał.",
+        "Wzgardzony,",
+        "przez ludzi odepchnięty,",
+        "Mąż boleści",
+        "z cierpieniem oswojony."
+      ]
+    },
+    {
+      "range": "9",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "10-13",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "10-13",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "zakrycie",
+        "twarz",
+        "Sługa Jahwe",
+        "groza",
+        "świętość",
+        "Chrystus",
+        "męka",
+        "odtrącenie"
+      ],
+      "summary": "Czterokrotne powtórzenie 'Przed Nim zakrywa się swą twarz' – wyraz grozy i odtrącenia, jakie budzi cierpiący Sługa.",
+      "bible": [
+        "Iz 53, 3"
+      ],
+      "text": [
+        "Przed Nim zakrywa się swą twarz,",
+        "przed Nim zakrywa się swą twarz,",
+        "przed Nim zakrywa się swą twarz,",
+        "przed Nim zakrywa się swą twarz."
+      ]
+    },
+    {
+      "range": "14",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "15-20",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "15-20",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "udręczony",
+        "poczytany za nic",
+        "wzgardzony",
+        "odepchnięty",
+        "Mąż boleści",
+        "cierpienie",
+        "Sługa Jahwe",
+        "Chrystus"
+      ],
+      "summary": "Powtórzenie i rozwinięcie opisu cierpiącego Sługi – udręczonego, poczytanego za nic, wzgardzonego.",
+      "bible": [
+        "Iz 53, 3-4"
+      ],
+      "text": [
+        "Udręczony,",
+        "poczytany za nic,",
+        "wzgardzony,",
+        "przez ludzi odepchnięty,",
+        "Mąż boleści",
+        "z cierpieniem oswojony."
+      ]
+    },
+    {
+      "range": "21",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "22-25",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "22-25",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "zakrycie",
+        "twarz",
+        "Sługa Jahwe",
+        "groza",
+        "świętość",
+        "Chrystus",
+        "męka"
+      ],
+      "summary": "Powtórzenie refrenu – ponowne zakrywanie twarzy przed cierpiącym Sługa.",
+      "bible": [
+        "Iz 53, 3"
+      ],
+      "text": [
+        "Przed Nim zakrywa się swą twarz,",
+        "przed Nim zakrywa się swą twarz,",
+        "przed Nim zakrywa się swą twarz,",
+        "przed Nim zakrywa się swą twarz."
+      ]
+    },
+    {
+      "range": "26",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "27-30",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "27-30",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "grzech",
+        "zabranie",
+        "ból",
+        "Sługa Jahwe",
+        "wzięcie",
+        "ofiara",
+        "zastępcza",
+        "Chrystus",
+        "Odkupienie"
+      ],
+      "summary": "Sługa bierze na siebie grzechy i bóle wszystkich – centralne stwierdzenie teologii zastępczej ofiary. Chrystus jako Baranek Boży gładzący grzechy świata.",
+      "bible": [
+        "Iz 53, 4-5",
+        "J 1, 29",
+        "1 P 2, 24"
+      ],
+      "text": [
+        "Lecz On wziął",
+        "na siebie wszystkie nasze grzechy,",
+        "lecz On wziął",
+        "na siebie wszystkie nasze bóle."
+      ]
+    },
+    {
+      "range": "31",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "32-37",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "32-37",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "błędna droga",
+        "udręczony",
+        "gnębienie",
+        "baranek",
+        "zabicie",
+        "milczenie",
+        "Chrystus",
+        "niewinność",
+        "ofiara",
+        "Pascha"
+      ],
+      "summary": "Każdy zbłądził, a Sługa dał się gnębić nie otwierając ust – jak baranek prowadzony na zabicie. Typologia paschalna: Chrystus jako Baranek Paschalny, który milczy przed swoimi sędziami.",
+      "bible": [
+        "Iz 53, 6-7",
+        "J 1, 29",
+        "Dz 8, 32-33",
+        "Wj 12, 3-6"
+      ],
+      "text": [
+        "Każdy z nas",
+        "obrócił się ku błędnej drodze.",
+        "Udręczony,",
+        "lecz sam dał się gnębić,",
+        "ust nie otworzył,",
+        "jak baranek wiedziony na zabicie."
+      ]
+    },
+    {
+      "range": "38",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "39-42",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "39-42",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "zakrycie",
+        "twarz",
+        "Sługa Jahwe",
+        "groza",
+        "świętość",
+        "Chrystus",
+        "męka"
+      ],
+      "summary": "Końcowe powtórzenie refrenu – zakrywanie twarzy przed cierpiącym Sługa, tym razem z narastającą intensywnością.",
+      "bible": [
+        "Iz 53, 3"
+      ],
+      "text": [
+        "Przed Nim zakrywa się swą twarz,",
+        "przed Nim zakrywa się swą twarz,",
+        "przed Nim zakrywa się swą twarz,",
+        "przed Nim zakrywa się swą twarz."
+      ]
+    },
+    {
+      "range": "43-45",
+      "type": "zakończenie",
+      "sentiment": "pokutny",
+      "keywords": [
+        "udręczony",
+        "Sługa Jahwe",
+        "cierpienie",
+        "Chrystus",
+        "Pascha",
+        "męka",
+        "wołanie"
+      ],
+      "summary": "Potrójne okrzyknięcie 'Udręczony!' – dramatyczne, narastające wołanie podkreślające skrajne cierpienie Sługi, kulminacja pieśni.",
+      "bible": [
+        "Iz 53"
+      ],
+      "text": [
+        "Udręczony!",
+        "Udręczony!",
+        "Udręczony!"
+      ]
+    },
+    {
+      "range": "1-45",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Sługa Jahwe",
+        "Izajasz",
+        "cierpienie",
+        "ofiara",
+        "Chrystus",
+        "męka",
+        "baranek",
+        "grzech",
+        "odkupienie",
+        "Pascha",
+        "Wielki Post",
+        "Łamanie Chleba",
+        "zastępcza ofiara",
+        "zbawienie"
+      ],
+      "summary": "Czwarta Pieśń Sługi Jahwe (Iz 53, 2-7) opowiadająca o cierpiącym Słudze, który bierze na siebie grzechy i bóle wszystkich. W interpretacji chrześcijańskiej – proroctwo o męce Chrystusa, Baranka Bożego, który jak owca milczy przed swymi sędziami. Pieśń ma głęboki wymiar paschalny i eucharystyczny, przeznaczona na Łamanie Chleba.",
+      "bible": [
+        "Iz 53, 2-7",
+        "J 1, 29",
+        "Dz 8, 32-33",
+        "1 P 2, 22-25"
+      ]
+    }
+  ]
+}

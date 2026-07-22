@@ -1,0 +1,165 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:44886ab22df5fe672853d6ad5e33b9ba0e7a5f404e36c39b8d30e61463cffaa8",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "cisza",
+        "głos",
+        "pasterz",
+        "Bóg",
+        "rodzić się",
+        "Betlejem",
+        "pośpieszać",
+        "przywitać",
+        "Pan",
+        "Jezus Chrystus",
+        "Boże Narodzenie"
+      ],
+      "summary": "W ciszy nocy rozchodzi się głos anielski budzący pasterzy, by śpieszyli do Betlejem przywitać nowonarodzonego Boga.",
+      "bible": [
+        "Łk 2, 8-15"
+      ],
+      "text": [
+        "Wśród nocnej ciszy głos się rozchodzi:",
+        "Wstańcie, pasterze, Bóg się Wam rodzi.",
+        "Czym prędzej się wybierajcie,",
+        "Do Betlejem pośpieszajcie,",
+        "Przywitać Pana.",
+        ""
+      ]
+    },
+    {
+      "range": "7-12",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pasterz",
+        "znaleźć",
+        "Dzieciątko",
+        "żłób",
+        "znak",
+        "Bóg",
+        "cześć",
+        "witać",
+        "radość",
+        "pokłon",
+        "adoracja"
+      ],
+      "summary": "Pasterze znajdują Dzieciątko w żłobie zgodnie z danym im znakiem i oddają Mu cześć jako Bogu z wielkiej radości.",
+      "bible": [
+        "Łk 2, 16-20"
+      ],
+      "text": [
+        "Poszli, znaleźli Dzieciątko w żłobie",
+        "Z wszystkimi znaki danymi sobie.",
+        "Jako Bogu cześć Mu dali,",
+        "A witając zawołali",
+        "Z wielkiej radości:",
+        ""
+      ]
+    },
+    {
+      "range": "13-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Zbawca",
+        "żądać",
+        "wylądać",
+        "król",
+        "prorok",
+        "czekać",
+        "noc",
+        "objawić się",
+        "Mesjasz",
+        "Jezus Chrystus",
+        "obietnica",
+        "Wcielenie",
+        "adwent"
+      ],
+      "summary": "Pozdrowienie Zbawcy długo oczekiwanego przez tysiąclecia, na którego czekali królowie i prorocy, a który tej nocy objawił się ludziom.",
+      "bible": [
+        "Rdz 49, 10",
+        "Iz 7, 14",
+        "Iz 9, 5-6",
+        "Mt 1, 22-23",
+        "Hbr 1, 1-2"
+      ],
+      "text": [
+        "Ach, witaj Zbawco z dawna żądany,",
+        "Cztery tysiące lat wyglądany.",
+        "Na Ciebie króle, prorocy,",
+        "Czekali, a Tyś tej nocy",
+        "Nam się objawił.",
+        ""
+      ]
+    },
+    {
+      "range": "19-23",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "czekać",
+        "Pan",
+        "kapłan",
+        "głos",
+        "paść",
+        "twarz",
+        "wierzyć",
+        "chleb",
+        "wino",
+        "Eucharystia",
+        "adoracja",
+        "obecność eucharystyczna",
+        "Jezus Chrystus"
+      ],
+      "summary": "Przejście od oczekiwania na narodzonego Chrystusa do oczekiwania na Jego przyjście eucharystyczne na głos kapłana, z adoracją i wiarą w rzeczywistą obecność pod postaciami chleba i wina.",
+      "bible": [
+        "Łk 22, 19-20",
+        "J 6, 51-58",
+        "1 Kor 11, 23-26"
+      ],
+      "text": [
+        "I my czekamy na Ciebie, Pana,",
+        "A skoro przyjdziesz na głos kapłana,",
+        "Padniemy na twarz przed Tobą,",
+        "Wierząc, żeś jest pod osobą",
+        "Chleba i wina."
+      ]
+    },
+    {
+      "range": "1-23",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "pasterz",
+        "Betlejem",
+        "Dzieciątko",
+        "Zbawca",
+        "Jezus Chrystus",
+        "Boże Narodzenie",
+        "Wcielenie",
+        "prorok",
+        "Eucharystia",
+        "adoracja",
+        "obecność eucharystyczna",
+        "kapłan",
+        "chleb",
+        "wino",
+        "Mesjasz"
+      ],
+      "summary": "Kolęda łącząca historię narodzenia Chrystusa i pokłonu pasterzy z wyczekiwaniem mesjańskim Starego Testamentu oraz liturgicznym oczekiwaniem na przyjście Chrystusa w Eucharystii. Ostatnia zwrotka tworzy pomost między Bożym Narodzeniem a kultem eucharystycznym.",
+      "bible": [
+        "Łk 2, 8-20",
+        "Iz 7, 14",
+        "Łk 22, 19-20",
+        "J 6, 51-58"
+      ]
+    }
+  ]
+}

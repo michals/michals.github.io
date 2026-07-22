@@ -1,0 +1,111 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:ac4d02cf18c7b41da374ce6045eed2a8da5600967a0b9d52bb1eb51041dcf1df",
+  "songs_analysis": [
+    {
+      "range": "1-2",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Chrystus",
+        "Król",
+        "wieczność",
+        "adoracja",
+        "Jezus Chrystus",
+        "Pan"
+      ],
+      "summary": "Aklamacja uwielbienia skierowana do Chrystusa jako Króla wiecznej chwały.",
+      "bible": [
+        "Flp 2, 9-11",
+        "Ap 5, 12-13",
+        "1 Tm 1, 17"
+      ],
+      "text": [
+        "Chwała Tobie o Chryste, Chwała Tobie o Chryste,",
+        "Królu wiecznej chwały."
+      ]
+    },
+    {
+      "range": "3-5",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg Ojciec",
+        "Syn umiłowany",
+        "Duch Święty",
+        "obłok",
+        "głos",
+        "objawienie",
+        "Jezus Chrystus",
+        "chrzest",
+        "Przemienienie",
+        "słuchać"
+      ],
+      "summary": "Słowa Boga Ojca z obłoku świetlanego podczas Przemienienia Pańskiego, wskazujące na Jezusa jako umiłowanego Syna.",
+      "bible": [
+        "Mt 17, 5",
+        "Mk 9, 7",
+        "Łk 9, 35",
+        "Pwt 18, 15",
+        "2 P 1, 17-18"
+      ],
+      "text": [
+        "Z obłoku świetlanego odezwał się głos:",
+        "„To jest mój Syn umiłowany, Jego słuchajcie”.",
+        ""
+      ]
+    },
+    {
+      "range": "6-7",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Chrystus",
+        "Król",
+        "wieczność",
+        "adoracja",
+        "Jezus Chrystus",
+        "Pan"
+      ],
+      "summary": "Powtórzenie aklamacji uwielbienia Chrystusa Króla.",
+      "bible": [
+        "Flp 2, 9-11",
+        "Ap 5, 12-13"
+      ],
+      "text": [
+        "Chwała Tobie o Chryste, Chwała Tobie o Chryste,",
+        "Królu wiecznej chwały."
+      ]
+    },
+    {
+      "range": "1-7",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Chrystus",
+        "Król",
+        "wieczność",
+        "adoracja",
+        "Bóg Ojciec",
+        "Syn umiłowany",
+        "objawienie",
+        "słuchać",
+        "obłok",
+        "Jezus Chrystus",
+        "Ewangelia",
+        "Wielki Post"
+      ],
+      "summary": "Aklamacja przed Ewangelią w Wielkim Poście łącząca uwielbienie Chrystusa Króla z teofanią Przemienienia (Mt 17, 5), ukazującą Jezusa jako umiłowanego Syna Bożego.",
+      "bible": [
+        "Mt 17, 5",
+        "Mk 9, 7",
+        "Łk 9, 35",
+        "Flp 2, 9-11",
+        "Ap 5, 12-13"
+      ]
+    }
+  ]
+}

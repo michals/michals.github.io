@@ -1,0 +1,222 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:5f6827d05c19374dce85343535b06f5dd7c46cbc8c4ee965ea8a8eb4cbf82247",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Ojciec",
+        "niebo",
+        "życie",
+        "podarować",
+        "syn",
+        "Bóg",
+        "adopcja",
+        "dziecko",
+        "Boże"
+      ],
+      "summary": "Bóg Ojciec podarowuje życie i pragnie uczynić człowieka swoim synem. Refren wyrażający radość z Bożego ojcostwa i adopcji na synów Bożych.",
+      "bible": [
+        "J 1,12-13",
+        "Rz 8,15",
+        "Ga 4,5-6",
+        "1 J 3,1"
+      ],
+      "text": [
+        "Ojciec co jest w niebie",
+        "podarował mi życie",
+        "a dziś zapragnął jeszcze",
+        "uczynić mnie swym synem.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "zwyciężyć",
+        "śmierć",
+        "nowy",
+        "imię",
+        "naznaczyć",
+        "krzyż",
+        "syn",
+        "Bóg",
+        "Jezus Chrystus",
+        "zmartwychwstanie",
+        "chrzest",
+        "tożsamość"
+      ],
+      "summary": "Bóg zwycięża śmierć, daje nowe imię, naznacza krzyżem i czyni swym synem. Obraz chrztu świętego: zwycięstwo nad śmiercią, nowa tożsamość i naznaczenie znakiem krzyża.",
+      "bible": [
+        "Rz 6,3-5",
+        "Ap 2,17",
+        "Ga 3,27",
+        "Iz 62,2"
+      ],
+      "text": [
+        "Zwyciężył moją śmierć",
+        "i dał mi nowe imię,",
+        "naznaczył mnie swym krzyżem,",
+        "uczynił mnie swym synem.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Ojciec",
+        "niebo",
+        "życie",
+        "podarować",
+        "syn",
+        "Bóg",
+        "adopcja"
+      ],
+      "summary": "Powtórzenie refrenu o Bożym ojcostwie i adopcji na synów Bożych.",
+      "bible": [
+        "J 1,12-13",
+        "Rz 8,15",
+        "Ga 4,5-6"
+      ],
+      "text": [
+        "Ojciec co jest w niebie",
+        "podarował mi życie",
+        "a dziś zapragnął jeszcze",
+        "uczynić mnie swym synem.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "otworzyć",
+        "ucho",
+        "oko",
+        "usta",
+        "syn",
+        "Bóg",
+        "przemiana",
+        "nowe stworzenie",
+        "Duch Święty"
+      ],
+      "summary": "Bóg otwiera uszy, oczy i usta – symboliczne otwarcie na słowo Boże, światło wiary i głoszenie chwały. Człowiek staje się synem Bożym przez całkowitą przemianę zmysłów.",
+      "bible": [
+        "Iz 50,4-5",
+        "Mk 7,34-35",
+        "Łk 24,45",
+        "Dz 2,4"
+      ],
+      "text": [
+        "Otworzył moje uszy,",
+        "otworzył moje oczy,",
+        "otworzył moje usta,",
+        "uczynił mnie swym synem.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Ojciec",
+        "niebo",
+        "życie",
+        "podarować",
+        "syn",
+        "Bóg",
+        "adopcja"
+      ],
+      "summary": "Powtórzenie refrenu o Bożym ojcostwie i adopcji na synów Bożych.",
+      "bible": [
+        "J 1,12-13",
+        "Rz 8,15",
+        "Ga 4,5-6"
+      ],
+      "text": [
+        "Ojciec co jest w niebie",
+        "podarował mi życie",
+        "a dziś zapragnął jeszcze",
+        "uczynić mnie swym synem.",
+        ""
+      ]
+    },
+    {
+      "range": "26-29",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "zanurzyć",
+        "śmierć",
+        "życie",
+        "Syn",
+        "Jezus Chrystus",
+        "biała szata",
+        "nowe życie",
+        "chrzest",
+        "pascha",
+        "zmartwychwstanie"
+      ],
+      "summary": "Zanurzenie w śmierci i życiu Syna Bożego, darowanie białej szaty i nowego życia. Obraz chrztu jako uczestnictwa w śmierci i zmartwychwstaniu Chrystusa (pascha) oraz przyobleczenia się w Chrystusa.",
+      "bible": [
+        "Rz 6,3-5",
+        "Ga 3,27",
+        "Ap 7,14",
+        "Kol 2,12"
+      ],
+      "text": [
+        "Zanurzył mnie i w śmierci,",
+        "i w życiu Swego Syna,",
+        "darował białą szatę,",
+        "nowe życie dla mnie."
+      ]
+    },
+    {
+      "range": "1-29",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Ojciec",
+        "niebo",
+        "życie",
+        "syn",
+        "Bóg",
+        "adopcja",
+        "śmierć",
+        "zwycięstwo",
+        "imię",
+        "krzyż",
+        "ucho",
+        "oko",
+        "usta",
+        "zanurzenie",
+        "Jezus Chrystus",
+        "chrzest",
+        "nowe życie",
+        "biała szata",
+        "pascha",
+        "Duch Święty"
+      ],
+      "summary": "Pieśń o adopcji na synów Bożych przez chrzest w Chrystusie. Bóg Ojciec podarowuje życie, zwycięża śmierć, otwiera zmysły i zanurza w śmierci i życiu Swego Syna. Refren o Bożym ojcostwie przeplata się ze strofami opisującymi sakramentalną przemianę: chrzest jako nowe narodzenie, naznaczenie krzyżem, darowanie białej szaty.",
+      "bible": [
+        "J 1,12-13",
+        "Rz 6,3-5",
+        "Rz 8,15",
+        "Ga 3,27",
+        "Ga 4,5-6",
+        "Ap 2,17",
+        "Ap 7,14",
+        "Iz 62,2",
+        "Kol 2,12"
+      ]
+    }
+  ]
+}

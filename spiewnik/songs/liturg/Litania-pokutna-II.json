@@ -1,0 +1,232 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:2a4592e05dd3f525f128109dce4576ac70bb2df7e0fb67b4fa60b7cd81415e0e",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "grzech",
+        "zatwardziałość",
+        "serce",
+        "zmiłowanie",
+        "grzesznik",
+        "pokuta",
+        "nawrócenie"
+      ],
+      "summary": "Za grzechy popełnione z zatwardziałości serc — pierwsze wezwanie litanii z prośbą o zmiłowanie.",
+      "bible": [
+        "Za 7, 12",
+        "Rz 2, 5",
+        "Ef 4, 18",
+        "Ps 95, 8"
+      ],
+      "text": [
+        "Za grzechy popełnione zatwardziałością serc naszych,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Zmiłuj się Panie!"
+      ]
+    },
+    {
+      "range": "4-24",
+      "type": "fragment",
+      "sentiment": "pokutny",
+      "keywords": [
+        "grzech",
+        "publiczny",
+        "prywatny",
+        "nieroztropność",
+        "zaniedbanie",
+        "lenistwo",
+        "ignorancja",
+        "premedytacja",
+        "złośliwość",
+        "przemoc",
+        "namiętność",
+        "pogarda",
+        "rodzice",
+        "nauczyciel",
+        "praca",
+        "górowanie",
+        "zmiłowanie",
+        "grzesznik",
+        "pokuta"
+      ],
+      "summary": "Wyznanie grzechów popełnionych różnymi sposobami — publicznie i prywatnie, przez nieroztropność, zaniedbanie, ignorancję, premedytację, przemoc, namiętności, pogardę wobec rodziców i nauczycieli, w pracy i przez pychę.",
+      "bible": [
+        "Prz 12, 16",
+        "Prz 6, 16-19",
+        "Syr 3, 1-16",
+        "Ef 6, 1-4",
+        "Wj 20, 12"
+      ],
+      "text": [
+        "Za grzechy popełnione publicznie lub prywatnie,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione przez nieroztropność,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione zaniedbaniem i lenistwem,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione z ignorancji,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione z premedytacją i złośliwością,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione stosowaniem przemocy,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione przyzwoleniem,by nami owładnęły niskie namiętności,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione okazywaniem pogardy rodzicom i nauczycielom,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione w naszej pracy,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione chęcią górowania nad innymi,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        ""
+      ]
+    },
+    {
+      "range": "25-31",
+      "type": "fragment",
+      "sentiment": "pokutny",
+      "keywords": [
+        "grzech",
+        "chciwość",
+        "pycha",
+        "arogancja",
+        "znieważanie",
+        "bliźni",
+        "zmiłowanie",
+        "grzesznik",
+        "pokuta"
+      ],
+      "summary": "Wyznanie grzechów chciwości, pychy, arogancji i znieważania bliźniego, zakończone wołaniem Zmiłuj się Panie.",
+      "bible": [
+        "Prz 11, 12",
+        "Syr 10, 9-14",
+        "1 J 2, 16",
+        "Prz 3, 34"
+      ],
+      "text": [
+        "Za grzechy popełnione naszą chciwością,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione pychą i arogancją,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione znieważaniem bliźniego,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Zmiłuj się Panie!"
+      ]
+    },
+    {
+      "range": "32-55",
+      "type": "fragment",
+      "sentiment": "pokutny",
+      "keywords": [
+        "grzech",
+        "kłamstwo",
+        "lekkomyślność",
+        "oczernianie",
+        "bliźni",
+        "seksualność",
+        "bezwstyd",
+        "zazdrość",
+        "obżarstwo",
+        "pijaństwo",
+        "nieodpowiedzialność",
+        "kąkol",
+        "szemranie",
+        "Duch Święty",
+        "wola Boża",
+        "zmiłowanie",
+        "grzesznik",
+        "pokuta"
+      ],
+      "summary": "Wyznanie grzechów przeciw bliźniemu i Bogu — kłamstwa, oczerniania, nieczystości, zazdrości, obżarstwa, nieodpowiedzialności, rozsiewania kąkolu, szemrania, zasmucania Ducha Świętego i opierania się woli Bożej.",
+      "bible": [
+        "Wj 20, 16",
+        "Prz 12, 22",
+        "Kpł 19, 16",
+        "Ga 5, 19-21",
+        "1 Kor 6, 9-10",
+        "Ef 5, 18",
+        "Ef 4, 30",
+        "Mt 13, 24-30",
+        "1 Tes 5, 19",
+        "Mt 6, 10"
+      ],
+      "text": [
+        "Za grzechy popełnione mówieniem kłamstwa,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione lekkomyślnymi rozmowami,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione oczernianiem bliźniego,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione naszą seksualnością,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione bezwstydnymi spojrzeniami,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione zazdrością,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione obżarstwem i pijaństwem,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione nieodpowiedzialnością,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione rozsiewaniem kąkolu,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione szemraniem w naszym sercu,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione                            zasmucaniem Ducha Świętego,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!",
+        "Za grzechy popełnione opieraniem się woli Bożej.",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami!"
+      ]
+    },
+    {
+      "range": "56",
+      "type": "zakończenie",
+      "sentiment": "pokutny",
+      "keywords": [
+        "zmiłowanie",
+        "Panie",
+        "prośba",
+        "miłosierdzie",
+        "pokuta"
+      ],
+      "summary": "Końcowe wołanie Zmiłuj się Panie jako podsumowanie całej litanii pokutnej.",
+      "bible": [
+        "Ps 51, 3",
+        "Łk 18, 13"
+      ],
+      "text": [
+        "Zmiłuj się Panie!"
+      ]
+    },
+    {
+      "range": "1-56",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "pokuta",
+        "grzech",
+        "zmiłowanie",
+        "litania",
+        "rachunek sumienia",
+        "nawrócenie",
+        "miłosierdzie",
+        "grzesznik",
+        "przebaczenie",
+        "pojednanie",
+        "sakrament pokuty"
+      ],
+      "summary": "Litania pokutna II — szczegółowy rachunek sumienia wyrażony w formie litanijnej, wyliczający różne kategorie grzechów (przeciw Bogu, bliźniemu i sobie), z powtarzaną prośbą o zmiłowanie i wezwaniem Zmiłuj się Panie.",
+      "bible": [
+        "Ga 5, 19-21",
+        "Ps 51, 3",
+        "1 J 1, 9",
+        "Ef 4, 30",
+        "Mt 13, 24-30",
+        "Łk 18, 13"
+      ]
+    }
+  ]
+}

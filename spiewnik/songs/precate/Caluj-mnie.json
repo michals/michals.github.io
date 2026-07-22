@@ -1,0 +1,171 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:40c081ecb54ea527e868bf10faa0c83466dc371b72eb33d51db1e2f163b51544",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pocałunek",
+        "miłość",
+        "wino",
+        "olejek",
+        "imię",
+        "dziewczę",
+        "Oblubienica",
+        "Oblubieniec",
+        "tęsknota",
+        "zjednoczenie"
+      ],
+      "summary": "Oblubienica pragnie pocałunku Oblubieńca, wyznając że Jego miłość i imię są słodsze od wina.",
+      "bible": [
+        "Pnp 1,2-3"
+      ],
+      "text": [
+        "Całuj mnie pocałunkami twoich ust;",
+        "słodsza niż wino jest twoja miłość;",
+        "olejkiem rozlanym jest twe imię:",
+        "oto dlaczego kochają cię dziewczęta.",
+        "Zabierz mnie ze sobą, pójdziemy,",
+        "pociągnij mnie za sobą, biegnijmy!",
+        "Bardziej niż wino twa miłość nas upaja,",
+        "o, jak cudownie kochać ciebie!",
+        ""
+      ]
+    },
+    {
+      "range": "10-14",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "szukanie",
+        "trzoda",
+        "pasterz",
+        "włóczęga",
+        "Oblubienica",
+        "Oblubieniec",
+        "Kościół",
+        "dusza"
+      ],
+      "summary": "Oblubienica prosi Oblubieńca o wskazanie miejsca Jego przebywania, pragnąc zaprzestać tułaczki.",
+      "bible": [
+        "Pnp 1,7"
+      ],
+      "text": [
+        "Pokaż mi ty, o miły memu sercu,",
+        "pokaż, gdzie pasiesz twoją trzodę,",
+        "abym już odtąd przestała być włóczęgą",
+        "przy trzodach innych pasterzy.",
+        ""
+      ]
+    },
+    {
+      "range": "15-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "piękno",
+        "owca",
+        "koźlę",
+        "pasterz",
+        "szałas",
+        "Oblubienica",
+        "Oblubieniec",
+        "powołanie"
+      ],
+      "summary": "Oblubieniec kieruje Oblubienicę, by szła śladami owiec i pasła koźlęta przy szałasach pasterzy.",
+      "bible": [
+        "Pnp 1,8"
+      ],
+      "text": [
+        "Jeśli tego nie wiesz, o najpiękniejsza z kobiet,",
+        "to idź śladami moich owiec",
+        "i paś tam też koźlęta swoje,",
+        "aż przy szałasach pasterzy."
+      ]
+    },
+    {
+      "range": "19-23",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "wino",
+        "upojenie",
+        "pójście",
+        "biegnięcie",
+        "Oblubienica",
+        "Oblubieniec",
+        "Chrystus",
+        "Eucharystia",
+        "zjednoczenie",
+        "wezwanie"
+      ],
+      "summary": "Wezwanie Oblubienicy do pójścia za Oblubieńcem, którego miłość upaja bardziej niż wino.",
+      "bible": [
+        "Pnp 1,4"
+      ],
+      "text": [
+        "Zabierz mnie ze sobą, pójdziemy,",
+        "pociągnij mnie za sobą, biegnijmy!",
+        "Bardziej niż wino twa miłość nas upaja,",
+        "o, jak cudownie kochać ciebie!",
+        ""
+      ]
+    },
+    {
+      "range": "24-27",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "szukanie",
+        "trzoda",
+        "pasterz",
+        "włóczęga",
+        "Oblubienica",
+        "Oblubieniec",
+        "Kościół",
+        "dusza"
+      ],
+      "summary": "Powtórne wołanie Oblubienicy do Oblubieńca o wskazanie miejsca Jego przebywania.",
+      "bible": [
+        "Pnp 1,7"
+      ],
+      "text": [
+        "Pokaż mi ty, o miły memu sercu,",
+        "pokaż, gdzie pasiesz twoją trzodę,",
+        "abym już odtąd przestała być włóczęgą",
+        "przy trzodach innych pasterzy."
+      ]
+    },
+    {
+      "range": "1-27",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "Oblubieniec",
+        "Oblubienica",
+        "pocałunek",
+        "wino",
+        "olejek",
+        "pasterz",
+        "trzoda",
+        "Kościół",
+        "dusza",
+        "Chrystus",
+        "Eucharystia",
+        "zjednoczenie",
+        "tęsknota",
+        "wezwanie",
+        "słodycz",
+        "upojenie"
+      ],
+      "summary": "Pieśń nad pieśniami w interpretacji alegorycznej — dialog miłości Chrystusa-Oblubieńca i Kościoła lub duszy jako Oblubienicy, wyrażający tęsknotę za mistycznym zjednoczeniem.",
+      "bible": [
+        "Pnp 1,2-8"
+      ]
+    }
+  ]
+}

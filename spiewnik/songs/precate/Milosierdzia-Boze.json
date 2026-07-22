@@ -1,0 +1,341 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:1e52d22aff1733fc1d73b75e5ff4cdd9df7315a463d781c259a333efe4656864",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "zmiłowanie",
+        "miłosierdzie",
+        "dobroć",
+        "nieprawość",
+        "wina",
+        "grzech",
+        "obmycie",
+        "oczyszczenie",
+        "Bóg",
+        "psalm",
+        "pokuta"
+      ],
+      "summary": "Błaganie o miłosierdzie Boże i uznanie własnej winy – początek psalmu pokutnego, wyznanie grzechu i prośba o oczyszczenie.",
+      "bible": [
+        "Ps 51, 3-5"
+      ],
+      "text": [
+        "Zmiłuj się nade mną, Boże, w swoim miłosierdziu,",
+        "w swej wielkiej dobroci zgładź moją nieprawość.",
+        "Miłosierdzia, Boże, miłosierdzia.",
+        "Obmyj mnie zupełnie z mojej winy",
+        "i oczyść mnie z grzechu mojego.",
+        "Uznaję bowiem moją winę,",
+        "a grzech mój jest zawsze przede mną.",
+        "Miłosierdzia, Boże, miłosierdzia.",
+        ""
+      ]
+    },
+    {
+      "range": "10-15",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "grzech",
+        "Bóg",
+        "sprawiedliwość",
+        "sąd",
+        "wyznanie",
+        "wina",
+        "psalm",
+        "pokuta"
+      ],
+      "summary": "Wyznanie, że grzech jest przede wszystkim przeciwko Bogu, oraz uznanie Bożej sprawiedliwości w sądzie – głęboka świadomość grzechu jako obrazy Boga.",
+      "bible": [
+        "Ps 51, 6-7",
+        "Rz 3, 4"
+      ],
+      "text": [
+        "Przeciwko Tobie, przeciwko Tobie                          samemu zgrzeszyłem",
+        "i uczyniłem, co złe jest w Twoich oczach.",
+        "Dlatego sprawiedliwy jesteś w swoich wyrokach",
+        "i prawy w swoim sądzie.",
+        "Miłosierdzia, Boże, miłosierdzia.",
+        ""
+      ]
+    },
+    {
+      "range": "16-21",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "urodzenie",
+        "wina",
+        "grzesznik",
+        "poczęcie",
+        "szczerość serca",
+        "mądrość",
+        "Bóg",
+        "grzech pierworodny",
+        "nawrócenie"
+      ],
+      "summary": "Uznanie grzechu pierworodnego (urodzenie obciążone winą) oraz pragnienie szczerości serca i mądrości, którą Bóg daje we wnętrzu.",
+      "bible": [
+        "Ps 51, 7-8",
+        "Rz 5, 12",
+        "Ef 2, 3"
+      ],
+      "text": [
+        "Oto urodziłem się obciążony winą",
+        "i jako grzesznika poczęła mnie matka.",
+        "Ale Ty chcesz szczerości serca",
+        "i w moim wnętrzu uczysz mnie mądrości.",
+        "Miłosierdzia, Boże, miłosierdzia.",
+        ""
+      ]
+    },
+    {
+      "range": "22-27",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "oczyszczenie",
+        "hyzop",
+        "czystość",
+        "śnieg",
+        "radość",
+        "wesele",
+        "kości",
+        "skruszenie",
+        "Bóg",
+        "pokuta",
+        "przebaczenie"
+      ],
+      "summary": "Prośba o rytualne oczyszczenie (hyzop) i przywrócenie radości – obraz skruszonych kości, które Bóg może uzdrowić i napełnić weselem.",
+      "bible": [
+        "Ps 51, 9-10",
+        "Kpł 14, 4-7",
+        "Lb 19, 18-19"
+      ],
+      "text": [
+        "Oczyść mnie hyzopem, a stanę się czysty,",
+        "obmyj mnie, a nad śnieg wybieleję.",
+        "Spraw, abym poczuł radość i wesele,",
+        "rozradują się kości, które skruszyłeś.",
+        "Miłosierdzia, Boże, miłosierdzia.",
+        ""
+      ]
+    },
+    {
+      "range": "28-33",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "grzech",
+        "przewinienie",
+        "serce czyste",
+        "duch",
+        "odnowienie",
+        "Bóg",
+        "Duch Święty",
+        "nawrócenie",
+        "przemiana wewnętrzna"
+      ],
+      "summary": "Prośba o odpuszczenie grzechów i stworzenie w sercu czystego ducha – modlitwa o wewnętrzną odnowę i przemianę przez Ducha Świętego.",
+      "bible": [
+        "Ps 51, 11-12",
+        "Ez 36, 25-27"
+      ],
+      "text": [
+        "Odwróć swój wzrok od moich grzechów,",
+        "zmaż wszystkie moje przewinienia.",
+        "Stwórz, Boże, we mnie serce czyste",
+        "i odnów we mnie moc ducha.",
+        "Miłosierdzia, Boże, miłosierdzia.",
+        ""
+      ]
+    },
+    {
+      "range": "34-39",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "oblicze Boże",
+        "Duch Święty",
+        "radość",
+        "zbawienie",
+        "duch ofiarny",
+        "odnowienie",
+        "Bóg",
+        "obecność Boża"
+      ],
+      "summary": "Błaganie, aby Bóg nie odrzucił od swego oblicza i nie odebrał Ducha Świętego – prośba o przywrócenie radości zbawienia i ducha ofiarnego.",
+      "bible": [
+        "Ps 51, 13-14",
+        "Rz 8, 15",
+        "Ga 4, 6"
+      ],
+      "text": [
+        "Nie odrzucaj mnie od swego oblicza",
+        "i nie odbieraj mi Świętego Ducha Twego.",
+        "Przywróć mi radość z Twojego zbawienia",
+        "i odnów we mnie ducha ofiarnego.",
+        "Miłosierdzia, Boże, miłosierdzia.",
+        ""
+      ]
+    },
+    {
+      "range": "40-45",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "nauczanie",
+        "drogi Boże",
+        "grzesznik",
+        "nawrócenie",
+        "uwolnienie",
+        "krew",
+        "zbawienie",
+        "sławienie",
+        "sprawiedliwość",
+        "Bóg",
+        "apostolstwo"
+      ],
+      "summary": "Obietnica nauczania dróg Bożych błądzących oraz uwielbienia Boga za zbawienie – przejście od pokuty do apostolskiego zaangażowania.",
+      "bible": [
+        "Ps 51, 15-16",
+        "Iz 2, 3",
+        "Mi4, 2"
+      ],
+      "text": [
+        "Będę błądzących nauczał dróg Twoich",
+        "i wrócą do Ciebie grzesznicy.",
+        "Uwolnij mnie od krwi, Boże,                           Boże mojego zbawienia,",
+        "język mój będzie sławić                              Twoją sprawiedliwość.",
+        "Miłosierdzia, Boże, miłosierdzia.",
+        ""
+      ]
+    },
+    {
+      "range": "46-51",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Panie",
+        "wargi",
+        "usta",
+        "chwała",
+        "ofiara",
+        "całopalenie",
+        "Bóg",
+        "liturgia",
+        "uwielbienie",
+        "pokuta"
+      ],
+      "summary": "Prośba o otwarcie warg, aby głosić chwałę Bożą, oraz uznanie, że Bóg nie raduje się zewnętrznymi ofiarami bez wewnętrznej przemiany.",
+      "bible": [
+        "Ps 51, 17-18",
+        "Oz 6, 6",
+        "Mt 9, 13",
+        "Mt 12, 7"
+      ],
+      "text": [
+        "Panie, otwórz wargi moje,",
+        "a usta moje będą głosić Twoją chwałę.",
+        "Ofiarą bowiem Ty się nie radujesz,",
+        "a całopalenia, choćbym dał, nie przyjmiesz.",
+        "Miłosierdzia, Boże, miłosierdzia.",
+        ""
+      ]
+    },
+    {
+      "range": "52-57",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "ofiara",
+        "duch skruszony",
+        "serce pokorne",
+        "Bóg",
+        "Syjon",
+        "łaska",
+        "miłość",
+        "Jerozolima",
+        "pokuta",
+        "nawrócenie"
+      ],
+      "summary": "Prawdziwą ofiarą dla Boga jest duch skruszony i pokorne serce – teologia wewnętrznej przemiany jako warunku przyjęcia przez Boga, z prośbą o odbudowę Syjonu.",
+      "bible": [
+        "Ps 51, 19-20",
+        "Iz 57, 15",
+        "Iz 66, 2"
+      ],
+      "text": [
+        "Moją ofiarą dla Boga jest duch skruszony,",
+        "pokornym i skruszonym sercem,                         Ty, o Boże, nie wzgardzisz.",
+        "Okaż Syjonowi łaskę w swej miłości,",
+        "odbuduj mury Jeruzalem.",
+        "Miłosierdzia, Boże, miłosierdzia.",
+        ""
+      ]
+    },
+    {
+      "range": "58-62",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ofiara",
+        "całopalenie",
+        "obiatą",
+        "żertwa",
+        "ołtarz",
+        "Bóg",
+        "kult",
+        "liturgia",
+        "przebaczenie",
+        "odnowienie"
+      ],
+      "summary": "Obietnica, że po przebaczeniu Bóg przyjmie przepisane ofiary i całopalenia na swoim ołtarzu – przywrócenie kultu i wspólnoty z Bogiem.",
+      "bible": [
+        "Ps 51, 20-21",
+        "Iz 1, 11-17",
+        "Oz 14, 3"
+      ],
+      "text": [
+        "Wówczas przyjmiesz przepisane ofiary,",
+        "całopalenie i obiatę;",
+        "wtedy składać będą żertwy ofiarne",
+        "na Twoim ołtarzu.",
+        "Miłosierdzia, Boże, miłosierdzia."
+      ]
+    },
+    {
+      "range": "1-62",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "miłosierdzie",
+        "grzech",
+        "pokuta",
+        "psalm",
+        "Dawid",
+        "Bóg",
+        "oczyszczenie",
+        "nawrócenie",
+        "Duch Święty",
+        "serce czyste",
+        "ofiara",
+        "duch skruszony",
+        "Syjon",
+        "przebaczenie",
+        "Miserere"
+      ],
+      "summary": "Parafraza Psalmu 51 (Miserere) – najgłębszy psalm pokutny Kościoła. Pieśń prowadzi od wyznania grzechu i prośby o miłosierdzie, przez uznanie grzechu pierworodnego, prośbę o oczyszczenie i odnowienie wewnętrzne, aż po obietnicę apostolstwa i przywrócenia kultu. Centralne przesłanie: Bóg pragnie serca skruszonego i pokornego, a nie zewnętrznych ofiar.",
+      "bible": [
+        "Ps 51, 1-21",
+        "Rz 5, 12",
+        "Ez 36, 25-27",
+        "Iz 57, 15"
+      ]
+    }
+  ]
+}

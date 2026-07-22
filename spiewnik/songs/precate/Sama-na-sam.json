@@ -1,0 +1,110 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:953451fc05f575834d0ac852872e336574710082b8dcbfde1c7625bafa9cc494",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Maryja",
+        "krzyż",
+        "samotność",
+        "jedność",
+        "boleść",
+        "Matka"
+      ],
+      "summary": "Maryja sama pod krzyżem – nierozerwalna więź z ukrzyżowanym Synem, której nic nie zdoła przerwać.",
+      "bible": [
+        "J 19,25",
+        "Łk 2,35"
+      ],
+      "text": [
+        "Sama na sam",
+        "pod krzyżem,",
+        "Maryjo, któż zdoła Cię odłączyć?",
+        ""
+      ]
+    },
+    {
+      "range": "5-10",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Dziewica",
+        "Matka",
+        "Wieża",
+        "Kolumna",
+        "miłość",
+        "niebo",
+        "wiara",
+        "przeniknięcie"
+      ],
+      "summary": "Maryja jako Dziewica, Matka, Wieża przeniknięta boleścią i Kolumna miłości, która podtrzymuje niebo słabej wiary ludu Bożego.",
+      "bible": [
+        "Pnp 4,4",
+        "Łk 2,35",
+        "Wj 13,21-22",
+        "1 Tm 3,15"
+      ],
+      "text": [
+        "Dziewico sama,",
+        "Matko, Wieżo przeniknięta.",
+        "Kolumno miłości,",
+        "Ty podtrzymujesz niebo",
+        "naszej słabej wiary.",
+        ""
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "zakończenie",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "Matka",
+        "Bóg",
+        "modlitwa",
+        "wstawiennictwo",
+        "grzesznicy"
+      ],
+      "summary": "Błagalna prośba do Maryi, pełnej Boga, o wstawiennictwo za grzesznikami.",
+      "bible": [
+        "J 2,1-11",
+        "Łk 18,13"
+      ],
+      "text": [
+        "Sama na sam",
+        "Matko, pełna Boga,",
+        "módl się za nami",
+        "bo jesteśmy grzesznikami."
+      ]
+    },
+    {
+      "range": "1-14",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Maryja",
+        "krzyż",
+        "Matka",
+        "Dziewica",
+        "Wieża",
+        "Kolumna",
+        "miłość",
+        "wiara",
+        "wstawiennictwo",
+        "grzesznicy",
+        "modlitwa",
+        "boleść"
+      ],
+      "summary": "Wielkopostny hymn maryjny kontemplujący Maryję stojącą pod krzyżem – samą, przenikniętą boleścią, a zarazem Kolumną miłości podtrzymującą wiarę Kościoła; pieśń kończy się błaganiem o wstawiennictwo Matki Bożej za grzesznikami.",
+      "bible": [
+        "J 19,25",
+        "Łk 2,35",
+        "J 2,1-11",
+        "Pnp 4,4"
+      ]
+    }
+  ]
+}

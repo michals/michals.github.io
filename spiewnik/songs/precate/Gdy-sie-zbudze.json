@@ -1,0 +1,210 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:eb7d092392bbdc68edb75ecfe098e7116f0217baaea1a96448c7e743c608c4ee",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "przebudzenie",
+        "oblicze Boga",
+        "nasycenie",
+        "kontemplacja",
+        "tęsknota",
+        "Bóg",
+        "modlitwa",
+        "Ps 17"
+      ],
+      "summary": "Refren wyraża tęsknotę duszy za kontemplacją oblicza Boga po przebudzeniu, nawiązując do Ps 17, 15 i zapowiadając beatyficzną wizję Boga w życiu wiecznym.",
+      "bible": [
+        "Ps 17, 15",
+        "1 J 3, 2"
+      ],
+      "text": [
+        "Gdy się zbudzę,",
+        "nasycę się obliczem Twym, Panie",
+        "gdy się zbudzę,",
+        "nasycę się obliczem Twym, Panie."
+      ]
+    },
+    {
+      "range": "5-12",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "modlitwa",
+        "wołanie",
+        "błaganie",
+        "Panie",
+        "wargi",
+        "zdradliwość",
+        "wyrok",
+        "słuszność",
+        "oczy Boga",
+        "sprawiedliwość"
+      ],
+      "summary": "Psalmista woła do Boga o wysłuchanie modlitwy, deklarując niewinność ust i prosząc o sprawiedliwy wyrok Boży.",
+      "bible": [
+        "Ps 17, 1-5",
+        "Ps 17, 6-7"
+      ],
+      "text": [
+        "Wysłuchaj, Panie, mej modlitwy,",
+        "zważ na moje wołanie,",
+        "nadstaw ucha na moje błaganie:",
+        "bo moje wargi nie są zdradliwe, o Panie;",
+        "niech wyjdzie od Ciebie wyrok,",
+        "niech Twoje oczy widzą,",
+        "niech Twoje oczy widzą słuszną sprawę.",
+        "Gdy się zbudzę …"
+      ]
+    },
+    {
+      "range": "13-22",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "zbadanie",
+        "serce",
+        "noc",
+        "próba",
+        "ogień",
+        "złość",
+        "usta",
+        "słowo Boże",
+        "ścieżka",
+        "gwałtownik",
+        "krok",
+        "zachwianie"
+      ],
+      "summary": "Prośba o Boże zbadanie i oczyszczenie serca przez ogień próby, z deklaracją wierności Bożemu słowu i unikania dróg zła.",
+      "bible": [
+        "Ps 17, 3-5",
+        "Mdr 3, 6",
+        "1 P 1, 7"
+      ],
+      "text": [
+        "Zbadaj, Panie, me serce,",
+        "zbadaj mnie nocą, Panie,",
+        "wypróbuj mnie w ogniu, wypróbuj mnie w ogniu,",
+        "bo Ty wiesz, że nie ma złości we mnie.",
+        "Moje usta nie kłamią, jak to czynią ludzie,",
+        "bo szedłem za Twym słowem,",
+        "wystrzegałem się ścieżek gwałtownika;",
+        "do Twojej drogi dostosowałem moje kroki",
+        "i nie zachwieję się, i nie zachwieję się.",
+        "Gdy się zbudzę …"
+      ]
+    },
+    {
+      "range": "23-32",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "krzyk",
+        "odpowiedź",
+        "ucho",
+        "głos",
+        "cud",
+        "miłość",
+        "zbawienie",
+        "ufność",
+        "prawica",
+        "źrenica oka",
+        "cień skrzydeł",
+        "ochrona",
+        "śmierć"
+      ],
+      "summary": "Intensywne błaganie o Bożą ochronę i cuda miłosierdzia, z obrazami ochrony jak źrenicy oka i w cieniu skrzydeł Bożych przed prześladowcami.",
+      "bible": [
+        "Ps 17, 6-9",
+        "Ps 36, 8",
+        "Pwt 32, 10"
+      ],
+      "text": [
+        "",
+        "Do Ciebie krzyczę, Panie, odpowiedz mi,",
+        "nadstaw ucha, wysłuchaj mego głosu,",
+        "okaż mi cuda Twej miłości,",
+        "bo Ty zbawiasz ufających Tobie,",
+        "bo Ty pomagasz szukającym wsparcia Twej prawicy;",
+        "jak źrenicę Twego oka ochraniaj mnie,",
+        "w cieniu Twych skrzydeł mnie ukryj,",
+        "zobacz, że chcą mnie zabić.",
+        "Gdy się zbudzę …"
+      ]
+    },
+    {
+      "range": "33-44",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "pycha",
+        "wyniosłość",
+        "usta",
+        "natarcie",
+        "pomoc",
+        "uwolnienie",
+        "ludzie świata",
+        "doczesność",
+        "dobra Boże",
+        "synowie",
+        "przebudzenie",
+        "oblicze Boga",
+        "nasycenie"
+      ],
+      "summary": "Prośba o uwolnienie od pysznych i przywiązanych do doczesności, z deklaracją eschatologicznej nadziei: po ostatecznym przebudzeniu dusza nasyci się obliczem Boga.",
+      "bible": [
+        "Ps 17, 10-15",
+        "Flp 3, 20-21"
+      ],
+      "text": [
+        "Zobacz ich, zamknięci są w pysze,",
+        "mówią wyniośle ich usta;",
+        "nacierają na mnie, nacierają na mnie!",
+        "Pomóż mi Ty, o Panie,",
+        "uwolnij mnie od ludzi tego świata,",
+        "od ludzi, którym zależy tylko na tym życiu;",
+        "napełnij ich Twymi dobrami, Panie,",
+        "niech nasycą się nimi też ich synowie",
+        "(i niech zostanie jeszcze dla ich dzieci),",
+        "a ja gdy się przebudzę, ja gdy się przebudzę,",
+        "nasycę się Twoim obliczem, Panie.",
+        "Gdy się zbudzę …"
+      ]
+    },
+    {
+      "range": "1-44",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Ps 17",
+        "modlitwa",
+        "błaganie",
+        "oblicze Boga",
+        "przebudzenie",
+        "nasycenie",
+        "sąd",
+        "próba",
+        "ochrona",
+        "prześladowanie",
+        "ufność",
+        "sprawiedliwość",
+        "eschatologia",
+        "beatificzna wizja",
+        "zmartwychwstanie",
+        "Wielki Post",
+        "Liturgia Godzin"
+      ],
+      "summary": "Parafraza Psalmu 17 łącząca błagalną modlitwę o wysłuchanie, próbę serca i ochronę przed wrogami z eschatologiczną nadzieją beatyficznej wizji Boga po ostatecznym przebudzeniu (zmartwychwstaniu), stosowna na Wielki Post i Liturgię Godzin jako wyraz ufności w Bożą sprawiedliwość i miłosierdzie.",
+      "bible": [
+        "Ps 17",
+        "Mdr 3, 6",
+        "1 P 1, 7",
+        "1 J 3, 2",
+        "Flp 3, 20-21"
+      ]
+    }
+  ]
+}

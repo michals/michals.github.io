@@ -1,0 +1,180 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:8a7bc1ebce4f991b697930c7079734ab0dcb4091071e547d9241d9fd4ecfe581",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja",
+        "radość",
+        "uwielbienie",
+        "wysławianie"
+      ],
+      "summary": "Paschalna aklamacja Alleluja otwierająca pieśń wyzwolonych.",
+      "bible": [
+        "Iz 12,4"
+      ],
+      "text": [
+        "()Alleluja, alleluja, alleluja.",
+        "()Alleluja, alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "4-7",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Pan",
+        "wierność",
+        "imię",
+        "dzieła",
+        "ludy",
+        "ziemia",
+        "głoszenie"
+      ],
+      "summary": "Wezwanie do chwalenia wiernego Pana i obwieszczania Jego dzieł wszystkim narodom.",
+      "bible": [
+        "Iz 12,4",
+        "Mt 28,19-20"
+      ],
+      "text": [
+        "()Chwalcie Pana, bo jest wierny,",
+        "Jego imienia wzywajcie.",
+        "()Obwieszczajcie Jego dzieła",
+        "pośród wszystkich ludów ziemi."
+      ]
+    },
+    {
+      "range": "8-10",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja",
+        "radość",
+        "uwielbienie"
+      ],
+      "summary": "Powtórzona aklamacja Alleluja po pierwszym wezwaniu do głoszenia.",
+      "bible": [],
+      "text": [
+        "()Alleluja, alleluja, alleluja.",
+        "()Alleluja, alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "wdzięczność",
+        "wielkie rzeczy",
+        "ziemia",
+        "głoszenie",
+        "Pan"
+      ],
+      "summary": "Wezwanie do wdzięcznego śpiewu Panu, który uczynił wielkie dzieła godne ogłoszenia na całej ziemi.",
+      "bible": [
+        "Iz 12,5",
+        "Ps 126,3"
+      ],
+      "text": [
+        "()Śpiewajcie Panu wdzięcznie,",
+        "bo uczynił wielkie rzeczy;",
+        "()niechaj będzie to wiadome",
+        "na całej naszej ziemi."
+      ]
+    },
+    {
+      "range": "15-17",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja",
+        "radość",
+        "uwielbienie"
+      ],
+      "summary": "Powtórzona aklamacja Alleluja po drugim wezwaniu do śpiewu.",
+      "bible": [],
+      "text": [
+        "()Alleluja, alleluja, alleluja.",
+        "()Alleluja, alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "18-21",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "wesele",
+        "Syjon",
+        "Święty Izraela",
+        "wielkość",
+        "mieszkanie"
+      ],
+      "summary": "Okrzyk radości Syjonu (Kościoła) na cześć Świętego Izraela, który wielki okazał się pośród swego ludu.",
+      "bible": [
+        "Iz 12,6",
+        "So 3,14",
+        "Za 2,14"
+      ],
+      "text": [
+        "()Krzycz z radości i wesela",
+        "mieszkanko Syjonu,",
+        "()bowiem wielki się okazał",
+        "w tobie Święty Izraela."
+      ]
+    },
+    {
+      "range": "22-23",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja",
+        "radość",
+        "uwielbienie"
+      ],
+      "summary": "Końcowa aklamacja Alleluja wieńcząca pieśń wyzwolonych.",
+      "bible": [],
+      "text": [
+        "()Alleluja, alleluja, alleluja.",
+        "()Alleluja, alleluja, alleluja."
+      ]
+    },
+    {
+      "range": "1-23",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja",
+        "radość",
+        "uwielbienie",
+        "Pan",
+        "Syjon",
+        "Święty Izraela",
+        "głoszenie",
+        "dzieła",
+        "ludy",
+        "ziemia",
+        "wielkie rzeczy",
+        "wesele",
+        "wyzwolenie",
+        "dziękczynienie"
+      ],
+      "summary": "Pieśń wyzwolonych z Księgi Izajasza 12,4-6 – hymn dziękczynienia za wielkie dzieła Pana; wezwanie do głoszenia Jego chwały wszystkim ludom ziemi, okrzyk radości Syjonu na cześć Świętego Izraela, przeplatany radosnym Alleluja – typologiczne zapowiedź misji Kościoła i radości zbawionych w Chrystusie.",
+      "bible": [
+        "Iz 12,4-6",
+        "So 3,14",
+        "Za 2,14",
+        "Mt 28,19-20",
+        "Ps 126,3"
+      ]
+    }
+  ]
+}

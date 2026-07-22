@@ -1,0 +1,105 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:d495a00f57574217c652782af48dac91fd97a555929db113c3bd5e1550342080",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Święty",
+        "Niebiosa",
+        "ziemia",
+        "chwała",
+        "Hosanna",
+        "niebo",
+        "Bóg"
+      ],
+      "summary": "Potrójne ogłoszenie świętości Boga, którą wypełnione są niebiosa i ziemia, zakończone okrzykiem Hosanna na niebie.",
+      "bible": [
+        "Iz 6, 3",
+        "Ap 4, 8",
+        "Ps 118, 25-26"
+      ],
+      "text": [
+        "Święty, święty, święty!",
+        "Święty, święty, święty!",
+        "Niebiosa i ziemia",
+        "są pełne Twojej chwały!",
+        "Hosanna na niebie wysokim!"
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Święty",
+        "błogosławiony",
+        "Ten który idzie",
+        "imię Pana",
+        "Hosanna",
+        "niebo",
+        "Chrystus",
+        "Mesjasz"
+      ],
+      "summary": "Powtórzone ogłoszenie świętości Boga, błogosławieństwo mesjańskie Tego, który idzie w imię Pańskie, i Hosanna.",
+      "bible": [
+        "Iz 6, 3",
+        "Ps 118, 26",
+        "Mt 21, 9",
+        "Mk 11, 9-10"
+      ],
+      "text": [
+        "Święty, święty, święty!",
+        "Święty, święty, święty!",
+        "Błogosławiony, który idzie,",
+        "który idzie w imię Pana!",
+        "Hosanna na niebie wysokim!"
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Święty",
+        "Pan",
+        "uwielbienie"
+      ],
+      "summary": "Wielokrotnie powtórzone 'Święty' jako końcowe, rozbudowane uwielbienie Boga.",
+      "bible": [
+        "Iz 6, 3",
+        "Ap 4, 8"
+      ],
+      "text": [
+        "Święty, święty, święty!",
+        "Święty, święty, święty!",
+        "Święty, święty, święty!",
+        "Święty, święty, święty!"
+      ]
+    },
+    {
+      "range": "1-14",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "święty",
+        "Hosanna",
+        "błogosławiony",
+        "chwała",
+        "uwielbienie",
+        "Sanctus",
+        "Benedictus",
+        "Bóg"
+      ],
+      "summary": "Pieśń Sanctus wg melodii 1988, z potrójnym ogłoszeniem świętości Boga, błogosławieństwem mesjańskim i okrzykami Hosanna.",
+      "bible": [
+        "Iz 6, 3",
+        "Ps 118, 25-26",
+        "Mt 21, 9",
+        "Ap 4, 8"
+      ]
+    }
+  ]
+}

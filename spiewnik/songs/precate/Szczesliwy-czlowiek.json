@@ -1,0 +1,168 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:4929dec349c84e0a47db1a4e9ac92c9ce472a764bde2b176f7f12bb74bb6ac7f",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "szczęśliwy człowiek",
+        "bezbożni",
+        "grzesznicy",
+        "szydercy",
+        "Słowo Pana",
+        "psalmy",
+        "upodobanie",
+        "prawo Boże",
+        "sprawiedliwość"
+      ],
+      "summary": "Błogosławiony człowiek, który stroni od bezbożnych i grzeszników, a znajduje upodobanie w Słowie Pana, rozważając je dniem i nocą.",
+      "bible": [
+        "Ps 1, 1-2"
+      ],
+      "text": [
+        "Szczęśliwy człowiek, który nie idzie za radą bezbożnych,",
+        "który na drodze grzeszników nie przystaje",
+        "i nie siada w towarzystwie szyderców.",
+        "Ale znajduje upodobanie w Słowie Pana,",
+        "Jego psalmy szepcze dniem i nocą."
+      ]
+    },
+    {
+      "range": "6-11",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "drzewo",
+        "woda",
+        "owoc",
+        "liście",
+        "czas",
+        "udane dzieła",
+        "trwałość",
+        "błogosławieństwo",
+        "zakorzenienie",
+        "życie"
+      ],
+      "summary": "Sprawiedliwy jest jak drzewo zasadzone nad płynącą wodą, wydające owoc w swoim czasie – symbol trwałego błogosławieństwa i pomyślności od Boga.",
+      "bible": [
+        "Ps 1, 3",
+        "Jr 17, 7-8"
+      ],
+      "text": [
+        "",
+        "On będzie jak drzewo zasadzone nad płynącą wodą,",
+        "które daje owoc w swoim czasie.",
+        "Jego liście nigdy nie opadną,",
+        "a wszystko, co czyni, jest udane.",
+        "Powiodą się wszystkie jego dzieła."
+      ]
+    },
+    {
+      "range": "12-14",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "bezbożni",
+        "plewa",
+        "wiatr",
+        "niestałość",
+        "nicość",
+        "sąd",
+        "zagłada"
+      ],
+      "summary": "Bezbożni są jak plewa rozmiata na przez wiatr – obraz kruchości i przemijania tych, którzy odrzucają Boga.",
+      "bible": [
+        "Ps 1, 4"
+      ],
+      "text": [
+        "",
+        "Nie tak bezbożni, nie tak.",
+        "Są oni jak plewa, którą wiatr rozmiata."
+      ]
+    },
+    {
+      "range": "15-19",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "bezbożni",
+        "sąd",
+        "grzesznicy",
+        "wspólnota świętych",
+        "Pan",
+        "droga wiernych",
+        "ostateczny sąd",
+        "sprawiedliwość Boża"
+      ],
+      "summary": "Kontrast ostatecznego losu: bezbożni nie ostoją się na sądzie, a Pan czuwa nad drogą wiernych, podczas gdy droga bezbożnych wiedzie do zatracenia.",
+      "bible": [
+        "Ps 1, 5-6"
+      ],
+      "text": [
+        "",
+        "Nie ostoją się bezbożni na sądzie",
+        "ani grzesznicy we wspólnocie świętych,",
+        "bo Pan czuwa nad drogą swoich wiernych,",
+        "ale droga bezbożnych źle się kończy, źle się kończy."
+      ]
+    },
+    {
+      "range": "20-22",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "szczęśliwy człowiek",
+        "bezbożni",
+        "grzesznicy",
+        "szydercy",
+        "droga sprawiedliwych"
+      ],
+      "summary": "Powtórzenie incipitu psalmu jako inkluzja – przypomnienie o szczęściu człowieka, który odrzuca zło i kroczy drogą Pana.",
+      "bible": [
+        "Ps 1, 1"
+      ],
+      "text": [
+        "Szczęśliwy człowiek, który nie idzie za radą bezbożnych,",
+        "który na drodze grzeszników nie przystaje",
+        "i nie siada w towarzystwie szyderców."
+      ]
+    },
+    {
+      "range": "1-22",
+      "type": "całość",
+      "sentiment": "neutralny",
+      "keywords": [
+        "szczęśliwy człowiek",
+        "bezbożni",
+        "grzesznicy",
+        "szydercy",
+        "Słowo Pana",
+        "psalmy",
+        "drzewo",
+        "woda",
+        "owoc",
+        "plewa",
+        "wiatr",
+        "sąd",
+        "wspólnota świętych",
+        "Pan",
+        "droga",
+        "wierni",
+        "sprawiedliwość",
+        "błogosławieństwo",
+        "zagłada",
+        "prawo Boże",
+        "dwie drogi",
+        "życie wieczne"
+      ],
+      "summary": "Psalm 1 ukazujący dwie drogi życia: sprawiedliwego zakorzenionego w Słowie Bożym i bezbożnego rozwianego jak plewa. Nauczanie o błogosławieństwie wynikającym z wierności Bogu i ostatecznym sądzie. Typologiczna zapowiedź Chrystusa jako prawdziwego Drzewa Życia i Jego Kościoła jako wspólnoty świętych.",
+      "bible": [
+        "Ps 1",
+        "Jr 17, 7-8",
+        "Ap 22, 1-2"
+      ]
+    }
+  ]
+}

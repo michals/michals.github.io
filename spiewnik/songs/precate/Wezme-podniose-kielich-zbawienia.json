@@ -1,0 +1,279 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:1e376d72e68c6084bdb7ad0f636649c595e3ca385e6619ea12a61b68e88b21d3",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "wiara",
+        "nieszczęście",
+        "utrapienie",
+        "fałsz",
+        "człowiek",
+        "Pan",
+        "śmierć",
+        "miłosierdzie",
+        "odpoczynek",
+        "dusza",
+        "Bóg"
+      ],
+      "summary": "Wyznanie wiary w utrapieniu: Pan wyprowadził ze śmierci, pomnąc na swoje miłosierdzie, i wzywa duszę do odpoczynku.",
+      "bible": [
+        "Ps 116,10-11"
+      ],
+      "text": [
+        "Ja wierzyłem, nawet gdy mówiłem:",
+        "„Jestem bardzo nieszczęśliwy!”",
+        "Mówiłem w swoim utrapieniu:",
+        "„Człowiek jest fałszywy!”",
+        "Ale Pan wyprowadził mnie ze śmierci,",
+        "pomnąc na swoje miłosierdzie,",
+        "a teraz wróć do swego odpoczynku,",
+        "o, duszo moja.",
+        ""
+      ]
+    },
+    {
+      "range": "10-12",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Pan",
+        "dar",
+        "Bóg",
+        "wdzięczność",
+        "niedola"
+      ],
+      "summary": "Pytanie retoryczne o wzajemność za Boże dary – 'Cóż mogę oddać Panu za wszystko, czym mnie obdarzył?'.",
+      "bible": [
+        "Ps 116,12"
+      ],
+      "text": [
+        "Cóż mogę oddać Panu",
+        "za wszystko, czym mnie obdarzył?",
+        ""
+      ]
+    },
+    {
+      "range": "13-18",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "kielich",
+        "zbawienie",
+        "wzywać",
+        "imię",
+        "Pan",
+        "ofiara",
+        "dziękczynienie",
+        "Bóg",
+        "Eucharystia"
+      ],
+      "summary": "Refren o podniesieniu kielicha zbawienia i wzywaniu imienia Pańskiego – znak eucharystycznego dziękczynienia.",
+      "bible": [
+        "Ps 116,13"
+      ],
+      "text": [
+        "Wezmę, podniosę,",
+        "wezmę, podniosę",
+        "kielich zbawienia",
+        "i będę wzywał",
+        "imienia Pańskiego.",
+        ""
+      ]
+    },
+    {
+      "range": "19-27",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "ofiara",
+        "dziękczynienie",
+        "imię",
+        "Pan",
+        "niedola",
+        "zbawienie",
+        "modlitwa",
+        "Kościół",
+        "oblicze",
+        "Bóg",
+        "żyjący"
+      ],
+      "summary": "Składanie ofiary dziękczynnej i modlitwa zanoszona razem z całym Kościołem, oraz ślubowanie chodzenia przed obliczem Pana pośród żyjących.",
+      "bible": [
+        "Ps 116,14-17"
+      ],
+      "text": [
+        "Tobie składam ofiarę dziękczynną,",
+        "wzywając imię Twe, o Panie,",
+        "ponieważ wszedłeś w mą niedolę",
+        "i mnie zbawiłeś.",
+        "Moją modlitwę zanoszę do Ciebie",
+        "razem z całym Twym Kościołem.",
+        "Będę chodził przed Twoim obliczem",
+        "pośród żyjących.",
+        ""
+      ]
+    },
+    {
+      "range": "28-30",
+      "type": "fragment",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Pan",
+        "śmierć",
+        "syn",
+        "męczennik",
+        "Bóg",
+        "ofiara"
+      ],
+      "summary": "Refleksja o cenności śmierci Jego synów w oczach Pana.",
+      "bible": [
+        "Ps 116,15"
+      ],
+      "text": [
+        "Cenna jest w oczach Pana",
+        "śmierć Jego synów.",
+        ""
+      ]
+    },
+    {
+      "range": "31-36",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "kielich",
+        "zbawienie",
+        "wzywać",
+        "imię",
+        "Pan",
+        "ofiara",
+        "dziękczynienie",
+        "Bóg",
+        "Eucharystia"
+      ],
+      "summary": "Powtórzenie refrenu o podniesieniu kielicha zbawienia.",
+      "bible": [
+        "Ps 116,13"
+      ],
+      "text": [
+        "Wezmę, podniosę,",
+        "wezmę, podniosę",
+        "kielich zbawienia",
+        "i będę wzywał",
+        "imienia Pańskiego.",
+        ""
+      ]
+    },
+    {
+      "range": "37-45",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "śmierć",
+        "sidła",
+        "piekło",
+        "imię",
+        "Pan",
+        "wybawienie",
+        "dusza",
+        "odpoczynek",
+        "oblicze",
+        "dom",
+        "Bóg",
+        "żyjący"
+      ],
+      "summary": "Wspomnienie wybawienia z sideł śmierci i piekieł przez wezwanie imienia Pańskiego; dusza wraca do odpoczynku i będzie chodzić przed Panem po dziedzińcach Jego domu.",
+      "bible": [
+        "Ps 116,3-4",
+        "Ps 116,8-9"
+      ],
+      "text": [
+        "Więzy śmierci już mnie otoczyły,",
+        "zaskoczyły sidła piekieł.",
+        "Wezwałem imienia Pańskiego",
+        "i mnie wybawił.",
+        "Duszo moja wróć do swego odpoczynku,",
+        "będziesz chodzić przed obliczem Pana,",
+        "po dziedzińcach domu twego Boga,",
+        "Boga żyjących.",
+        ""
+      ]
+    },
+    {
+      "range": "46-48",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Pan",
+        "dar",
+        "Bóg",
+        "wdzięczność"
+      ],
+      "summary": "Powtórzenie pytania retorycznego o wzajemność za Boże dary.",
+      "bible": [
+        "Ps 116,12"
+      ],
+      "text": [
+        "Cóż mogę oddać Panu",
+        "za wszystko, czym mnie obdarzył?",
+        ""
+      ]
+    },
+    {
+      "range": "49-53",
+      "type": "zakończenie",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "kielich",
+        "zbawienie",
+        "wzywać",
+        "imię",
+        "Pan",
+        "ofiara",
+        "dziękczynienie",
+        "Bóg",
+        "Eucharystia"
+      ],
+      "summary": "Końcowe powtórzenie refrenu jako ostateczna deklaracja dziękczynienia i uwielbienia.",
+      "bible": [
+        "Ps 116,13"
+      ],
+      "text": [
+        "Wezmę, podniosę,",
+        "wezmę, podniosę",
+        "kielich zbawienia",
+        "i będę wzywał",
+        "imienia Pańskiego."
+      ]
+    },
+    {
+      "range": "1-53",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "wiara",
+        "utrapienie",
+        "śmierć",
+        "miłosierdzie",
+        "kielich",
+        "zbawienie",
+        "Eucharystia",
+        "ofiara",
+        "dziękczynienie",
+        "Pan",
+        "Bóg",
+        "Kościół",
+        "modlitwa",
+        "odpoczynek",
+        "życie wieczne"
+      ],
+      "summary": "Parafraza Psalmu 116 – dziękczynienie za wybawienie ze śmierci i utrapienia, z eucharystycznym gestem podniesienia kielicha zbawienia i ofiarą dziękczynną składaną w społeczności Kościoła.",
+      "bible": [
+        "Ps 116"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:9087cd0872adb8ededb046c5cf4124ac9e5c29a02f3de96e3eec0699621132d8",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "wstęp",
+      "sentiment": "błagalny",
+      "keywords": [
+        "niebiosa",
+        "deszcz",
+        "chmury",
+        "Święty",
+        "ziemia",
+        "otwarcie",
+        "Zbawiciel",
+        "adwent",
+        "przyjście",
+        "błaganie"
+      ],
+      "summary": "Błagalne wezwanie do niebios i chmur, by zesłały Świętego, oraz do ziemi, by otworzyła się i wydała Zbawiciela. Adwentowe wołanie o przyjście Mesjasza, nawiązujące do Iz 45, 8.",
+      "bible": [
+        "Iz 45, 8"
+      ],
+      "text": [
+        "Niebiosa, deszcz z góry spuśćcie;",
+        "o chmury, Świętego ześlijcie.",
+        "O ziemio, otwórz się ziemio i Zbawiciela daj."
+      ]
+    },
+    {
+      "range": "4",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "5-8",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "5-8",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "pustynia",
+        "spiekota",
+        "wiatr",
+        "Maranatha",
+        "przyjście",
+        "Pan",
+        "błaganie",
+        "adwent",
+        "oschłość",
+        "samotność"
+      ],
+      "summary": "Lud uznaje swoją pustynność i spiekotę – jest wiatrem, którego nikt nie słyszy. Dwukrotne 'Maranatha' (Przyjdź, Panie!) jest wołaniem o przyjście Chrystusa w sytuacji oschłości i braku wysłuchania.",
+      "bible": [
+        "Iz 45, 8",
+        "1 Kor 16, 22",
+        "Ap 22, 20"
+      ],
+      "text": [
+        "Jesteśmy pustynią, jesteśmy spiekotą:",
+        "Maranatha, Maranatha!",
+        "Jesteśmy wiatrem, nikt nas nie słyszy:",
+        "Maranatha, Maranatha!"
+      ]
+    },
+    {
+      "range": "9-11",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "niebiosa",
+        "deszcz",
+        "chmury",
+        "Święty",
+        "ziemia",
+        "otwarcie",
+        "Zbawiciel",
+        "adwent",
+        "przyjście"
+      ],
+      "summary": "Powtórzenie refrenu – ponowne błagalne wezwanie do niebios i ziemi o zesłanie Zbawiciela.",
+      "bible": [
+        "Iz 45, 8"
+      ],
+      "text": [
+        "Niebiosa, deszcz z góry spuśćcie;",
+        "o chmury, Świętego ześlijcie.",
+        "O ziemio, otwórz się ziemio i Zbawiciela daj."
+      ]
+    },
+    {
+      "range": "12",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "13-16",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "13-16",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "ciemność",
+        "pęta",
+        "prowadzenie",
+        "uwolnienie",
+        "Maranatha",
+        "przyjście",
+        "Pan",
+        "adwent",
+        "niewola",
+        "grzech"
+      ],
+      "summary": "Lud jest ciemnością bez prowadzenia i pętami bez uwolnienia – wyznanie grzechu i zniewolenia. Maranatha jako wołanie o wyzwolenie i światło Chrystusa.",
+      "bible": [
+        "Iz 9, 1-2",
+        "Iz 61, 1",
+        "Łk 4, 18"
+      ],
+      "text": [
+        "Jesteśmy ciemnością, nikt nas nie prowadzi:",
+        "Maranatha, Maranatha!",
+        "Jesteśmy pętami, nikt nas nie uwalnia:",
+        "Maranatha, Maranatha!"
+      ]
+    },
+    {
+      "range": "17-19",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "niebiosa",
+        "deszcz",
+        "chmury",
+        "Święty",
+        "ziemia",
+        "otwarcie",
+        "Zbawiciel",
+        "adwent",
+        "przyjście"
+      ],
+      "summary": "Powtórzenie refrenu – ponowne błagalne wezwanie o przyjście Zbawiciela.",
+      "bible": [
+        "Iz 45, 8"
+      ],
+      "text": [
+        "Niebiosa, deszcz z góry spuśćcie;",
+        "o chmury, Świętego ześlijcie.",
+        "O ziemio, otwórz się ziemio i Zbawiciela daj."
+      ]
+    },
+    {
+      "range": "20",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "21-24",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "21-24",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "zimno",
+        "głód",
+        "okrycie",
+        "nakarmienie",
+        "Maranatha",
+        "przyjście",
+        "Pan",
+        "adwent",
+        "brak",
+        "potrzeba"
+      ],
+      "summary": "Lud jest zimnem bez okrycia i głodem bez nakarmienia – wołanie o zaspokojenie podstawowych potrzeb duchowych przez Chrystusa. Adwentowe wyznanie całkowitej zależności od Boga.",
+      "bible": [
+        "Iz 55, 1-2",
+        "J 6, 35",
+        "Mt 5, 6"
+      ],
+      "text": [
+        "Jesteśmy zimnem, nikt nas nie okrywa:",
+        "Maranatha, Maranatha!",
+        "Jesteśmy głodem, nikt nas nie karmi:",
+        "Maranatha, Maranatha!"
+      ]
+    },
+    {
+      "range": "25-27",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "niebiosa",
+        "deszcz",
+        "chmury",
+        "Święty",
+        "ziemia",
+        "otwarcie",
+        "Zbawiciel",
+        "adwent",
+        "przyjście"
+      ],
+      "summary": "Powtórzenie refrenu – ponowne błagalne wezwanie do niebios i ziemi o zesłanie Zbawiciela.",
+      "bible": [
+        "Iz 45, 8"
+      ],
+      "text": [
+        "Niebiosa, deszcz z góry spuśćcie;",
+        "o chmury, Świętego ześlijcie.",
+        "O ziemio, otwórz się ziemio i Zbawiciela daj."
+      ]
+    },
+    {
+      "range": "28",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "29-32",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "29-32",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "łza",
+        "ból",
+        "osuszenie",
+        "dostrzeżenie",
+        "Maranatha",
+        "przyjście",
+        "Pan",
+        "adwent",
+        "współczucie",
+        "miłosierdzie"
+      ],
+      "summary": "Lud jest łzami bez osuszenia i bólem bez dostrzeżenia – wołanie o Boże współczucie i miłosierdzie. Maranatha jako prośba o wypełnienie obietnic pocieszenia.",
+      "bible": [
+        "Iz 25, 8",
+        "Ap 7, 17",
+        "Ap 21, 4"
+      ],
+      "text": [
+        "Jesteśmy łzami, nikt nas nie osusza:",
+        "Maranatha, Maranatha!",
+        "Jesteśmy bólem, nikt nas nie dostrzega:",
+        "Maranatha, Maranatha!"
+      ]
+    },
+    {
+      "range": "33-35",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "niebiosa",
+        "deszcz",
+        "chmury",
+        "Święty",
+        "ziemia",
+        "otwarcie",
+        "Zbawiciel",
+        "adwent",
+        "przyjście"
+      ],
+      "summary": "Końcowe powtórzenie refrenu – ostatnie błaganie o przyjście Zbawiciela.",
+      "bible": [
+        "Iz 45, 8"
+      ],
+      "text": [
+        "Niebiosa, deszcz z góry spuśćcie;",
+        "o chmury, Świętego ześlijcie.",
+        "O ziemio, otwórz się ziemio i Zbawiciela daj."
+      ]
+    },
+    {
+      "range": "1-35",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "adwent",
+        "Maranatha",
+        "przyjście",
+        "Zbawiciel",
+        "pustynia",
+        "ciemność",
+        "pęta",
+        "zimno",
+        "głód",
+        "łza",
+        "ból",
+        "oczekiwanie",
+        "błaganie",
+        "Izajasz",
+        "Mesjasz",
+        "Chrystus"
+      ],
+      "summary": "Adwentowa pieśń błagalna oparta na Iz 45, 8 i wołaniu 'Maranatha' (Przyjdź, Panie!). Cztery zwrotki opisują kondycję ludu jako pustyni, ciemności, pęt, zimna, głodu, łez i bólu – każda kończy się refrenem wzywającym niebiosa i ziemię do zesłania Zbawiciela. Pieśń wyraża głęboką tęsknotę adwentową i uznanie ludzkiej bezradności bez Chrystusa.",
+      "bible": [
+        "Iz 45, 8",
+        "Iz 9, 1-2",
+        "Iz 25, 8",
+        "Iz 55, 1-2",
+        "1 Kor 16, 22",
+        "Ap 22, 20"
+      ]
+    }
+  ]
+}

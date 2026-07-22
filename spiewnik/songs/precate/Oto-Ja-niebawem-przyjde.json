@@ -1,0 +1,222 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:2618e7ae4e025a8a4ccf6ec0425bede60608bef2089500a837247be73a0e769a",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "oto",
+        "niebawem",
+        "przyjść",
+        "zapłata",
+        "dać",
+        "czyn",
+        "sąd",
+        "Paruzja",
+        "nagroda",
+        "sprawiedliwość"
+      ],
+      "summary": "Zapowiedź rychłego przyjścia Chrystusa, który przynosi zapłatę według uczynków każdego człowieka.",
+      "bible": [
+        "Ap 22, 12",
+        "Mt 16, 27",
+        "Iz 40, 10",
+        "Rz 2, 6"
+      ],
+      "text": [
+        "Oto Ja niebawem przyjdę,",
+        "ze mną idzie ma zapłata,",
+        "którą dam każdemu",
+        "według czynów jego.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Alfa",
+        "Omega",
+        "Pierwszy",
+        "Ostatni",
+        "Początek",
+        "Koniec",
+        "Bóg",
+        "wieczność",
+        "wszechmoc",
+        "przedwieczny"
+      ],
+      "summary": "Samoobjawienie Chrystusa jako Alfa i Omega, Pierwszy i Ostatni, Początek i Koniec - Jego boskość i wieczność.",
+      "bible": [
+        "Ap 22, 13",
+        "Ap 1, 8",
+        "Ap 21, 6",
+        "Iz 44, 6",
+        "Iz 48, 12"
+      ],
+      "text": [
+        "Jestem Alfa i Omega,",
+        "jestem Pierwszy i Ostatni,",
+        "jestem Pierwszy i Ostatni,",
+        "Jam Początek, Jam Koniec.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławiony",
+        "płukać",
+        "szaty",
+        "otrzymać",
+        "prawo",
+        "drzewo",
+        "życie",
+        "oczyszczenie",
+        "chrzest",
+        "zbawienie"
+      ],
+      "summary": "Błogosławieństwo dla tych, którzy piorą swe szaty - otrzymują prawo do drzewa życia, symbol zbawienia i życia wiecznego.",
+      "bible": [
+        "Ap 22, 14",
+        "Ap 7, 14",
+        "Rdz 2, 9",
+        "Ap 2, 7",
+        "Ap 22, 2"
+      ],
+      "text": [
+        "Błogosławieni,",
+        "którzy płuczą swe szaty,",
+        "aby otrzymać prawo",
+        "do drzewa życia.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jam jest",
+        "Dawidowy",
+        "Korzeń",
+        "Potomek",
+        "Gwiazda",
+        "Poranna",
+        "Mesjasz",
+        "Król",
+        "światłość",
+        "obiecanie"
+      ],
+      "summary": "Chrystus objawia się jako Korzeń i Potomek Dawida - Mesjasz z rodu Dawida, oraz jako Gwiazda Poranna - zapowiedź nowego dnia zbawienia.",
+      "bible": [
+        "Ap 22, 16",
+        "Iz 11, 1",
+        "Lb 24, 17",
+        "Ap 2, 28",
+        "Ap 5, 5",
+        "Rz 15, 12",
+        "2 P 1, 19",
+        "Mt 1, 1"
+      ],
+      "text": [
+        "Jam jest",
+        "Dawidowy Korzeń i Potomek.",
+        "Jam Gwiazda",
+        "świecąca poranna.",
+        ""
+      ]
+    },
+    {
+      "range": "21-24",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławiony",
+        "płukać",
+        "szaty",
+        "otrzymać",
+        "prawo",
+        "drzewo",
+        "życie",
+        "oczyszczenie",
+        "zbawienie"
+      ],
+      "summary": "Refren końcowy - ponowne błogosławieństwo dla oczyszczających szaty, otrzymujących prawo do drzewa życia.",
+      "bible": [
+        "Ap 22, 14",
+        "Ap 7, 14",
+        "Rdz 2, 9"
+      ],
+      "text": [
+        "Błogosławieni,",
+        "którzy płuczą swe szaty,",
+        "aby otrzymać prawo",
+        "do drzewa życia."
+      ]
+    },
+    {
+      "range": "1-24",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "przyjść",
+        "Paruzja",
+        "zapłata",
+        "sąd",
+        "Alfa",
+        "Omega",
+        "Pierwszy",
+        "Ostatni",
+        "Początek",
+        "Koniec",
+        "błogosławiony",
+        "szaty",
+        "płukać",
+        "drzewo",
+        "życie",
+        "Dawid",
+        "Korzeń",
+        "Potomek",
+        "Gwiazda",
+        "Poranna",
+        "Mesjasz",
+        "Adwent",
+        "nadzieja",
+        "oczyszczenie"
+      ],
+      "summary": "Pieśń adwentowa oparta na Ap 22, 12-16 - Chrystus zapowiada swoje rychłe przyjście w chwale jako sędziego przynoszącego zapłatę według uczynków, objawia swoją boskość tytułami Alfa i Omega, Pierwszy i Ostatni (Iz 44, 6; Ap 1, 8), oraz mesjańskie pochodzenie jako Korzeń i Potomek Dawida (Iz 11, 1; Rz 15, 12) i Gwiazda Poranna (Lb 24, 17; 2 P 1, 19). Refren błogosławi tych, którzy 'piorą swe szaty' (Ap 7, 14) - symbol chrztu, pokuty i męczeństwa - którzy otrzymują prawo do Drzewa Życia. W typologii biblijnej Drzewo Życia (Rdz 2, 9) utracone w Edenie zostaje przywrócone w nowym Jeruzalem (Ap 22, 2) i jest typem Krzyża Chrystusa - Drzewa, na którym dokonało się zbawienie, oraz Eucharystii jako owocu tego Drzewa. Gwiazda Poranna zapowiada Chrystusa jako Światłość świata (J 8, 12), która rozprasza ciemności grzechu i śmierci. Pieśń łączy adwentowe oczekiwanie z eschatologiczną nadzieją na sąd, który dla sprawiedliwych jest zbawieniem.",
+      "bible": [
+        "Ap 22, 12-16",
+        "Rdz 2, 9",
+        "Rdz 3, 22-24",
+        "Lb 24, 17",
+        "Iz 11, 1-10",
+        "Iz 40, 10",
+        "Iz 44, 6",
+        "Iz 48, 12",
+        "Mt 1, 1",
+        "Mt 16, 27",
+        "J 8, 12",
+        "Rz 2, 6",
+        "Rz 15, 12",
+        "1 Kor 15, 23",
+        "2 P 1, 19",
+        "Ap 1, 8",
+        "Ap 1, 17",
+        "Ap 2, 7",
+        "Ap 2, 28",
+        "Ap 5, 5",
+        "Ap 7, 14",
+        "Ap 21, 6",
+        "Ap 22, 2",
+        "Ap 22, 20"
+      ]
+    }
+  ]
+}

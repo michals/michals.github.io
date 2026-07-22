@@ -1,0 +1,136 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:d070268c8c6a078e9bbb0a0cb5212ba09cf645cd1f49247b589f9090f42ccc18",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "wstęp",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Abba",
+        "Ojciec",
+        "Bóg Ojciec",
+        "modlitwa",
+        "synostwo Boże",
+        "ufność"
+      ],
+      "summary": "Wezwanie Boga jako Abba, Ojcze – aramejskie wołanie dziecięcej ufności rodzone przez Ducha Świętego w sercach wierzących.",
+      "bible": [
+        "Rz 8, 15",
+        "Ga 4, 6",
+        "Mk 14, 36"
+      ],
+      "text": [
+        "Abba, abba, Ojcze,",
+        "abba, Ojcze,",
+        "Ojcze nasz.",
+        "Abba, abba, Ojcze."
+      ]
+    },
+    {
+      "range": "5-9",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Ojcze nasz",
+        "Niebo",
+        "imię Boże",
+        "świętość",
+        "Królestwo Boże",
+        "wola Boża",
+        "posłuszeństwo",
+        "ziemia"
+      ],
+      "summary": "Trzy pierwsze prośby Modlitwy Pańskiej: o uświęcenie imienia Bożego, przyjście Jego Królestwa i wypełnienie Jego woli na ziemi tak jak w niebie.",
+      "bible": [
+        "Mt 6, 9-10",
+        "Łk 11, 2",
+        "Ez 36, 23",
+        "Ps 103, 20-21"
+      ],
+      "text": [
+        "Ojcze nasz, któryś jest w niebie,",
+        "święć się imię Twoje,",
+        "przyjdź Królestwo Twoje,",
+        "bądź wola Twoja,",
+        "jako w niebie, tak i na ziemi."
+      ]
+    },
+    {
+      "range": "10-14",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "chleb powszedni",
+        "pożywienie",
+        "odpuszczenie",
+        "wina",
+        "przebaczenie",
+        "winowajca",
+        "pokuszenie",
+        "zło",
+        "zbawienie"
+      ],
+      "summary": "Cztery dalsze prośby Modlitwy Pańskiej: o chleb powszedni, odpuszczenie win uzależnione od przebaczenia innym, wybawienie od pokuszenia i od złego.",
+      "bible": [
+        "Mt 6, 11-13",
+        "Łk 11, 3-4",
+        "Prz 30, 8",
+        "Syr 28, 2",
+        "J 17, 15",
+        "1 Kor 10, 13"
+      ],
+      "text": [
+        "Chleba naszego powszedniego daj nam dzisiaj",
+        "i odpuść nam nasze winy,",
+        "jako i my odpuszczamy naszym winowajcom,",
+        "i nie wódź nas na pokuszenie",
+        "ale nas zbaw ode złego."
+      ]
+    },
+    {
+      "range": "15",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Amen",
+        "zakończenie",
+        "modlitwa",
+        "potwierdzenie",
+        "wiara"
+      ],
+      "summary": "Uroczyste Amen jako zakończenie i potwierdzenie Modlitwy Pańskiej.",
+      "bible": [
+        "1 Krn 16, 36",
+        "Ap 22, 20"
+      ],
+      "text": [
+        "Amen."
+      ]
+    },
+    {
+      "range": "1-15",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Ojcze nasz",
+        "modlitwa",
+        "Królestwo Boże",
+        "wola Boża",
+        "chleb",
+        "przebaczenie",
+        "zbawienie",
+        "Abba",
+        "Ojciec",
+        "pokuszenie",
+        "zło"
+      ],
+      "summary": "Śpiewana wersja Modlitwy Pańskiej z wprowadzeniem 'Abba, Ojcze', obejmująca wszystkie siedem próśb i zakończona Amen.",
+      "bible": [
+        "Mt 6, 9-13",
+        "Rz 8, 15",
+        "Ga 4, 6"
+      ]
+    }
+  ]
+}

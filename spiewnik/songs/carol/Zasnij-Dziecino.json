@@ -1,0 +1,170 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:14afdc16d067a1392bc9f07f84864039bf9197a55638dd60bbdbf8675b42cad6",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "zasnąć",
+        "Dziecino",
+        "Święte Dziecię",
+        "pociecha",
+        "świat",
+        "Jezus Chrystus",
+        "Boże Narodzenie",
+        "ufność"
+      ],
+      "summary": "Kołysanka dla Świętego Dzieciątka, które jest pociechą dla człowieka na tym świecie – wyraz czułości i ufności wobec nowonarodzonego Zbawiciela.",
+      "bible": [
+        "Łk 2, 16"
+      ],
+      "text": [
+        "Zaśnij, Dziecino, Święte Dziecię.",
+        "Tyś nam pociechą na tym świecie.",
+        ""
+      ]
+    },
+    {
+      "range": "4-6",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmrużyć",
+        "oko",
+        "serce",
+        "modlitwa",
+        "uśpić",
+        "miłość",
+        "czułość",
+        "Jezus Chrystus"
+      ],
+      "summary": "Refren kołysanki wyrażający pragnienie, by modlitwa serca uśpiła Dzieciątko – intymny gest miłości i oddania.",
+      "bible": [],
+      "text": [
+        "Zmruż oczęta swoje tyś serce moje",
+        "Modlitwa moja niech uśpi Cię.",
+        ""
+      ]
+    },
+    {
+      "range": "7-9",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "rączka",
+        "błogosławić",
+        "życie",
+        "oddać",
+        "ofiara",
+        "poświęcenie",
+        "Jezus Chrystus",
+        "błogosławieństwo"
+      ],
+      "summary": "Prośba o błogosławieństwo ze strony Dzieciątka oraz deklaracja oddania całego życia Jezusowi – akt osobistego poświęcenia.",
+      "bible": [
+        "Lb 6, 24-26",
+        "Łk 18, 16"
+      ],
+      "text": [
+        "Wznieś rączkę swoją błogosław nam.",
+        "Całe swe życie Tobie oddam.",
+        ""
+      ]
+    },
+    {
+      "range": "10-12",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmrużyć",
+        "oko",
+        "serce",
+        "modlitwa",
+        "uśpić",
+        "miłość",
+        "czułość",
+        "Jezus Chrystus"
+      ],
+      "summary": "Refren kołysanki wyrażający pragnienie, by modlitwa serca uśpiła Dzieciątko – intymny gest miłości i oddania.",
+      "bible": [],
+      "text": [
+        "Zmruż oczęta swoje tyś serce moje",
+        "Modlitwa moja niech uśpi Cię.",
+        ""
+      ]
+    },
+    {
+      "range": "13-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "anioł",
+        "chór",
+        "chwała",
+        "głosić",
+        "pasterz",
+        "dar",
+        "znosić",
+        "adoracja",
+        "uwielbienie",
+        "hołd"
+      ],
+      "summary": "Zestawienie niebiańskiego i ziemskiego hołdu dla Dzieciątka: anielskie chóry głoszą chwałę, a pasterze przynoszą dary.",
+      "bible": [
+        "Łk 2, 13-14",
+        "Łk 2, 16"
+      ],
+      "text": [
+        "Anielskie chóry chwałę głoszą,",
+        "Pasterze hojnie dary znoszą.",
+        ""
+      ]
+    },
+    {
+      "range": "16-17",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmrużyć",
+        "oko",
+        "serce",
+        "modlitwa",
+        "uśpić",
+        "miłość",
+        "czułość",
+        "Jezus Chrystus"
+      ],
+      "summary": "Refren kołysanki wyrażający pragnienie, by modlitwa serca uśpiła Dzieciątko – intymny gest miłości i oddania.",
+      "bible": [],
+      "text": [
+        "Zmruż oczęta swoje tyś serce moje",
+        "Modlitwa moja niech uśpi Cię."
+      ]
+    },
+    {
+      "range": "1-17",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Dziecino",
+        "Jezus Chrystus",
+        "kołysanka",
+        "pociecha",
+        "modlitwa",
+        "błogosławieństwo",
+        "anioł",
+        "pasterz",
+        "chwała",
+        "dar",
+        "miłość",
+        "Boże Narodzenie"
+      ],
+      "summary": "Kołysanka dla nowonarodzonego Jezusa łącząca czułość intymnej modlitwy z motywami adoracji aniołów i pasterzy. Wyraża osobiste oddanie, prośbę o błogosławieństwo oraz ufność w zbawczą misję Dzieciątka.",
+      "bible": [
+        "Łk 2, 13-16"
+      ]
+    }
+  ]
+}

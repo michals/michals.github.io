@@ -1,0 +1,245 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:2e298881d8d0248f8d7e7ec2181e2522ae979d8e545d1c42a45b1652d3f80cd9",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "wstęp",
+      "sentiment": "pokutny",
+      "keywords": [
+        "grzech",
+        "wyznanie",
+        "wina",
+        "Pan",
+        "odpuszczenie",
+        "nieprawość",
+        "spowiedź",
+        "sakrament pokuty"
+      ],
+      "summary": "Wyznanie grzechu przed Panem: 'Tobie, Panie, grzech mój wyznałem, a Ty odpuściłeś złość mojego grzechu' – doświadczenie przebaczenia.",
+      "bible": [
+        "Ps 32, 5"
+      ],
+      "text": [
+        "Tobie, Panie, grzech mój wyznałem,",
+        "winy mojej nie zataiłem;",
+        "rzekłem: „Panu wyjawię nieprawość moją”,",
+        "a Ty odpuściłeś złość mojego grzechu."
+      ]
+    },
+    {
+      "range": "5-9",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wierny",
+        "modlitwa",
+        "udręczenie",
+        "wielkie wody",
+        "ochrona",
+        "zagłada",
+        "bezpieczeństwo w Bogu"
+      ],
+      "summary": "Każdy wierny modli się w czas udręczenia – wielkie wody nie zdołają go dosięgnąć, bo Bóg jest ochroną.",
+      "bible": [
+        "Ps 32, 6"
+      ],
+      "text": [
+        "",
+        "Toteż każdy wierny modli się do Ciebie",
+        "w czas udręczenia;",
+        "choćby nawet uderzały wielkie wody,",
+        "nie będą go mogły dosięgnąć."
+      ]
+    },
+    {
+      "range": "10-13",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "grzech",
+        "wyznanie",
+        "wina",
+        "Pan",
+        "odpuszczenie",
+        "nieprawość"
+      ],
+      "summary": "Refren: wyznanie grzechu i doświadczenie odpuszczenia przez Pana.",
+      "bible": [
+        "Ps 32, 5"
+      ],
+      "text": [
+        "Tobie, Panie, grzech mój wyznałem,",
+        "winy mojej nie zataiłem;",
+        "rzekłem: Panu wyjawię nieprawość moją,",
+        "a Ty odpuściłeś złość mojego grzechu."
+      ]
+    },
+    {
+      "range": "14-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "szczęśliwy",
+        "odpuszczenie",
+        "wina",
+        "grzech",
+        "darowanie",
+        "Bóg",
+        "zdrada",
+        "serca czystość",
+        "błogosławieństwo"
+      ],
+      "summary": "Błogosławieństwo szczęścia dla tego, komu odpuszczona jest wina, a grzech darowany – beatytuda przebaczenia.",
+      "bible": [
+        "Ps 32, 1-2",
+        "Rz 4, 7-8"
+      ],
+      "text": [
+        "",
+        "Szczęśliwy ten, komu odpuszczona jest wina,",
+        "komu grzech został darowany!",
+        "Szczęśliwy ten, komu Bóg nie poczytuje żadnego zła,",
+        "w którego sercu nie ma zdrady!"
+      ]
+    },
+    {
+      "range": "19-22",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "grzech",
+        "wyznanie",
+        "wina",
+        "Pan",
+        "odpuszczenie",
+        "nieprawość"
+      ],
+      "summary": "Refren: wyznanie grzechu i doświadczenie odpuszczenia przez Pana.",
+      "bible": [
+        "Ps 32, 5"
+      ],
+      "text": [
+        "Tobie, Panie, grzech mój wyznałem,",
+        "winy mojej nie zataiłem;",
+        "rzekłem: Panu wyjawię nieprawość moją,",
+        "a Ty odpuściłeś złość mojego grzechu."
+      ]
+    },
+    {
+      "range": "23-27",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "milczenie",
+        "kości",
+        "jęki",
+        "ręka Boża",
+        "ciężar",
+        "siły",
+        "upał",
+        "lato",
+        "ukrywanie grzechu",
+        "cierpienie",
+        "wysuszenie"
+      ],
+      "summary": "Konsekwencje zatajania grzechu: wysychanie kości, jęki, ciężar ręki Bożej – fizyczne i duchowe cierpienie przed wyznaniem.",
+      "bible": [
+        "Ps 32, 3-4"
+      ],
+      "text": [
+        "",
+        "Póki milczałem, schnęły kości moje",
+        "od jęków mych przez cały dzień;",
+        "dniem i nocą ciążyła na mnie Twoja ręka,",
+        "topniały siły moje jak od upałów lata;"
+      ]
+    },
+    {
+      "range": "28-31",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "grzech",
+        "wyznanie",
+        "wina",
+        "Pan",
+        "odpuszczenie",
+        "nieprawość"
+      ],
+      "summary": "Refren: wyznanie grzechu i doświadczenie odpuszczenia przez Pana.",
+      "bible": [
+        "Ps 32, 5"
+      ],
+      "text": [
+        "lecz Tobie, Panie, grzech mój wyznałem,",
+        "winy mojej nie zataiłem;",
+        "rzekłem: Panu wyjawię nieprawość moją,",
+        "a Ty odpuściłeś złość mojego grzechu."
+      ]
+    },
+    {
+      "range": "32-35",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "grzech",
+        "wyznanie",
+        "wina",
+        "Pan",
+        "odpuszczenie",
+        "nieprawość",
+        "przebaczenie",
+        "uwolnienie"
+      ],
+      "summary": "Końcowe powtórzenie refrenu jako inkluzja – triumf przebaczenia Bożego nad grzechem.",
+      "bible": [
+        "Ps 32, 5"
+      ],
+      "text": [
+        "Tobie, Panie, grzech mój wyznałem,",
+        "winy mojej nie zataiłem;",
+        "rzekłem: Panu wyjawię nieprawość moją,",
+        "a Ty odpuściłeś złość mojego grzechu."
+      ]
+    },
+    {
+      "range": "1-35",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "grzech",
+        "wyznanie",
+        "wina",
+        "Pan",
+        "odpuszczenie",
+        "nieprawość",
+        "sakrament pokuty",
+        "spowiedź",
+        "przebaczenie",
+        "miłosierdzie",
+        "szczęśliwy",
+        "darowanie",
+        "milczenie",
+        "cierpienie",
+        "kości",
+        "ręka Boża",
+        "modlitwa",
+        "wielkie wody",
+        "wierny",
+        "błogosławieństwo",
+        "nawrócenie",
+        "łaska",
+        "Ps 32",
+        "radość przebaczenia",
+        "sąd",
+        "usprawiedliwienie"
+      ],
+      "summary": "Psalm 32 jako pieśń pokutna o wyznaniu grzechów i otrzymaniu przebaczenia. Od ukrywania winy i cierpienia, przez szczere wyznanie, aż po radość odpuszczenia. Paweł w Liście do Rzymian cytuje ten psalm (Rz 4, 7-8) jako zapowiedź usprawiedliwienia przez wiarę w Chrystusie – typologiczne wypełnienie w sakramencie pokuty.",
+      "bible": [
+        "Ps 32",
+        "Rz 4, 7-8"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:9318f1bf5369ec09e5e015777867c6e4be7ee402e06221bbf004ff4f9cdb3be2",
+  "songs_analysis": [
+    {
+      "range": "1-8",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "Bóg Ojciec",
+        "Duch Święty",
+        "Trójca Święta",
+        "cześć",
+        "chwała",
+        "wieczność",
+        "doksologia",
+        "Amen"
+      ],
+      "summary": "Uroczysta doksologia kończąca Modlitwę Eucharystyczną, wyznająca wiarę w Trójcę Świętą i oddająca cześć Bogu przez Chrystusa w Duchu Świętym na wieki.",
+      "bible": [
+        "Rz 11, 36",
+        "Ef 3, 20-21",
+        "Ap 5, 13",
+        "Mt 28, 19"
+      ],
+      "text": [
+        "Przez Chrystusa, z Chrystusem i w Chrystusie,",
+        "Tobie, Boże Ojcze wszechmogący,",
+        "w jedności Ducha Świętego,",
+        "wszelka cześć i chwała",
+        "przez wszystkie wieki wieków.",
+        "Amen, amen, amen!",
+        "Amen, amen, amen!",
+        "Amen, amen, amen!"
+      ]
+    },
+    {
+      "range": "9-13",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "błogosławieństwo",
+        "chwała",
+        "mądrość",
+        "dziękczynienie",
+        "Bóg",
+        "Amen",
+        "uwielbienie"
+      ],
+      "summary": "Zaproszenie do oddania Bogu błogosławieństwa, chwały, mądrości i dziękczynienia, z potrójnym Amen jako odpowiedzią wspólnoty.",
+      "bible": [
+        "Ap 7, 12",
+        "1 Krn 29, 11-13",
+        "Ef 1, 3"
+      ],
+      "text": [
+        "Błogosławieństwo, chwałę i mądrość",
+        "i dziękczynienie oddajmy Bogu.",
+        "Amen, amen, amen!",
+        "Amen, amen, amen!",
+        "Amen, amen, amen!"
+      ]
+    },
+    {
+      "range": "1-13",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "doksologia",
+        "Eucharystia",
+        "Chrystus",
+        "Trójca Święta",
+        "Bóg Ojciec",
+        "Duch Święty",
+        "chwała",
+        "błogosławieństwo",
+        "mądrość",
+        "dziękczynienie",
+        "Amen",
+        "liturgia"
+      ],
+      "summary": "Zakończenie Modlitwy Eucharystycznej II zawierające doksologię trynitarną przez Chrystusa, z Chrystusem i w Chrystusie oraz aklamację błogosławieństwa i chwały Boga, z potrójnym Amen wspólnoty liturgicznej.",
+      "bible": [
+        "Rz 11, 36",
+        "Ef 3, 20-21",
+        "Ap 5, 13",
+        "Ap 7, 12",
+        "1 Krn 29, 11-13"
+      ]
+    }
+  ]
+}

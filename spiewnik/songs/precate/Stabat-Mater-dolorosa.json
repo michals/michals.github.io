@@ -1,0 +1,342 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:b518cc239cb92c43ff71d0936221cef5f08e1804eb0007488ac2cb150e261283",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "wstęp",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Matka Bolesna",
+        "krzyż",
+        "Jezus Chrystus",
+        "łzy",
+        "cierpienie",
+        "Syn Boży",
+        "ukrzyżowanie"
+      ],
+      "summary": "Matka Bolesna stoi pod krzyżem, opłakując swego Syna. Wprowadzenie w atmosferę Męki Pańskiej i współcierpienia Maryi.",
+      "bible": [
+        "J 19, 25-27"
+      ],
+      "text": [
+        "Stabat Mater dolorosa",
+        "iuxta crucem lacrimosa",
+        "dum pendebat filius."
+      ]
+    },
+    {
+      "range": "4-7",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "dusza",
+        "miecz",
+        "ból",
+        "boleść",
+        "Matka Bolesna",
+        "przepowiednia Symeona",
+        "cierpienie"
+      ],
+      "summary": "Duszę Maryi przenika miecz boleści, zgodnie z przepowiednią Symeona. Jej współcierpienie z Synem jest całkowite.",
+      "bible": [
+        "Łk 2, 35"
+      ],
+      "text": [
+        "",
+        "Duszę jej tak wzdychającą,",
+        "zasmuconą, bolejącą,",
+        "przebił miecz."
+      ]
+    },
+    {
+      "range": "8-10",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Matka Bolesna",
+        "krzyż",
+        "Jezus Chrystus",
+        "łzy",
+        "cierpienie",
+        "Syn Boży",
+        "ukrzyżowanie"
+      ],
+      "summary": "Refren: Maryja stoi pod krzyżem we łzach, patrząc na konającego Syna.",
+      "bible": [
+        "J 19, 25-27"
+      ],
+      "text": [
+        "Stabat Mater dolorosa",
+        "iuxta crucem lacrimosa",
+        "dum pendebat filius."
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "smutek",
+        "strapienie",
+        "Matka Boża",
+        "Błogosławiona",
+        "Syn Jedyny",
+        "ból macierzyński"
+      ],
+      "summary": "O, jak głęboki był smutek Błogosławionej Maryi, Matki Jedynego Syna Bożego.",
+      "bible": [
+        "Łk 2, 34-35"
+      ],
+      "text": [
+        "",
+        "O, jak smutna i strapiona",
+        "była Ta Błogosławiona,",
+        "Matka Syna Jedynego!"
+      ]
+    },
+    {
+      "range": "15-17",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Matka Bolesna",
+        "krzyż",
+        "Jezus Chrystus",
+        "łzy",
+        "cierpienie",
+        "Syn Boży",
+        "ukrzyżowanie"
+      ],
+      "summary": "Refren: Maryja stoi pod krzyżem we łzach, patrząc na konającego Syna.",
+      "bible": [
+        "J 19, 25-27"
+      ],
+      "text": [
+        "Stabat Mater dolorosa",
+        "iuxta crucem lacrimosa",
+        "dum pendebat filius."
+      ]
+    },
+    {
+      "range": "18-21",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "płacz",
+        "łzy",
+        "Matka Chrystusa",
+        "cierpienie",
+        "współczucie",
+        "ból",
+        "kompasyjne"
+      ],
+      "summary": "Kto by nie zapłakał na widok Matki Chrystusa w tak wielkim cierpieniu przy krzyżu.",
+      "bible": [
+        "J 19, 25-27"
+      ],
+      "text": [
+        "",
+        "Kto by nie zapłakał,",
+        "widząc Matkę Chrystusa",
+        "w tak wielkim cierpieniu!"
+      ]
+    },
+    {
+      "range": "22-25",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Matka Bolesna",
+        "krzyż",
+        "Jezus Chrystus",
+        "łzy",
+        "cierpienie",
+        "Syn Boży",
+        "ukrzyżowanie"
+      ],
+      "summary": "Refren: Maryja stoi pod krzyżem we łzach, patrząc na konającego Syna.",
+      "bible": [
+        "J 19, 25-27"
+      ],
+      "text": [
+        "",
+        "Stabat Mater dolorosa",
+        "iuxta crucem lacrimosa",
+        "dum pendebat filius."
+      ]
+    },
+    {
+      "range": "26-29",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Jezus cierpiący",
+        "biczowanie",
+        "grzechy ludu",
+        "cierpiący Sługa",
+        "odkupienie",
+        "Męka Pańska",
+        "zbawienie"
+      ],
+      "summary": "Maryja widzi Jezusa cierpiącego i biczowanego za grzechy ludu. Odniesienie do cierpiącego Sługi Jahwe.",
+      "bible": [
+        "Iz 53, 4-6",
+        "Mt 27, 26",
+        "J 19, 1"
+      ],
+      "text": [
+        "",
+        "Widzi Jezusa cierpiącego,",
+        "biczowaniem dręczonego",
+        "za grzechy swego ludu!"
+      ]
+    },
+    {
+      "range": "30-32",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Matka Bolesna",
+        "krzyż",
+        "Jezus Chrystus",
+        "łzy",
+        "cierpienie",
+        "Syn Boży",
+        "ukrzyżowanie"
+      ],
+      "summary": "Refren: Maryja stoi pod krzyżem we łzach, patrząc na konającego Syna.",
+      "bible": [
+        "J 19, 25-27"
+      ],
+      "text": [
+        "Stabat Mater dolorosa",
+        "iuxta crucem lacrimosa",
+        "dum pendebat filius."
+      ]
+    },
+    {
+      "range": "33-36",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Syn",
+        "śmierć samotna",
+        "Duch Święty",
+        "oddanie ducha",
+        "Jezus",
+        "ofiarowanie",
+        "wykonało się"
+      ],
+      "summary": "Maryja widzi Syna umierającego w samotności, oddającego Ducha Ojcu. Wypełnienie dzieła odkupienia.",
+      "bible": [
+        "J 19, 30",
+        "Łk 23, 46"
+      ],
+      "text": [
+        "",
+        "Widzi Syna, tak słodkiego,",
+        "w śmierci samotnego,",
+        "kiedy daje swego Ducha!"
+      ]
+    },
+    {
+      "range": "37-39",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Matka Bolesna",
+        "krzyż",
+        "Jezus Chrystus",
+        "łzy",
+        "cierpienie",
+        "Syn Boży",
+        "ukrzyżowanie"
+      ],
+      "summary": "Refren: Maryja stoi pod krzyżem we łzach, patrząc na konającego Syna.",
+      "bible": [
+        "J 19, 25-27"
+      ],
+      "text": [
+        "Stabat Mater dolorosa",
+        "iuxta crucem lacrimosa",
+        "dum pendebat filius."
+      ]
+    },
+    {
+      "range": "40-45",
+      "type": "zakończenie",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Chrystus",
+        "Matka Boża",
+        "wstawiennictwo",
+        "śmierć",
+        "palma zwycięstwa",
+        "zbawienie",
+        "niebo",
+        "amen",
+        "łaska",
+        "modlitwa konająca"
+      ],
+      "summary": "Błagalna modlitwa do Chrystusa o łaskę dojścia przez wstawiennictwo Maryi do palmy zwycięstwa w godzinie śmierci. Zakończone potrójnym Amen.",
+      "bible": [
+        "2 Tm 4, 7-8",
+        "Ap 7, 9",
+        "1 Kor 9, 25",
+        "J 19, 25-27"
+      ],
+      "text": [
+        "",
+        "O Chryste, kiedy ja będę umierał,",
+        "przez Twą błogosławioną Matkę daj mi dojść",
+        "do palmy zwycięstwa!",
+        "",
+        "Amen, amen, amen!"
+      ]
+    },
+    {
+      "range": "1-45",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Matka Bolesna",
+        "krzyż",
+        "Jezus Chrystus",
+        "Maryja",
+        "cierpienie",
+        "Męka Pańska",
+        "odkupienie",
+        "grzech",
+        "śmierć",
+        "zbawienie",
+        "wstawiennictwo",
+        "palma zwycięstwa",
+        "łzy",
+        "boleść",
+        "Symeon",
+        "biczowanie",
+        "Duch Święty",
+        "amen",
+        "modlitwa",
+        "miłosierdzie",
+        "kompasyja",
+        "ukrzyżowanie",
+        "Sługa Jahwe",
+        "Matka Kościoła",
+        "zwycięstwo",
+        "łaska"
+      ],
+      "summary": "Średniowieczny hymn pasyjny 'Stabat Mater dolorosa' przedstawiający Maryję stojącą pod krzyżem Syna. Ukazuje głębię Jej bólu, współcierpienia z Chrystusem oraz kończy się błagalną modlitwą o zbawienie przez Jej wstawiennictwo. Łączy perspektywę pokutną z ufnością w zwycięstwo Chrystusa.",
+      "bible": [
+        "J 19, 25-27",
+        "Łk 2, 35",
+        "Iz 53, 4-6",
+        "J 19, 30",
+        "Łk 23, 46",
+        "2 Tm 4, 7-8",
+        "Ap 7, 9"
+      ]
+    }
+  ]
+}

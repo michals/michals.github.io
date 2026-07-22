@@ -1,0 +1,160 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:e38db887909b6a7794a2c129a20075b1af0c52e6ca3879c5903e0f73e21ea114",
+  "songs_analysis": [
+    {
+      "range": "1-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "światłość",
+        "ciemność",
+        "naród",
+        "radość",
+        "wesele",
+        "Mesjasz",
+        "zbawienie",
+        "Izajasz",
+        "proroctwo"
+      ],
+      "summary": "Lud kroczący w ciemności ogląda światłość Mesjasza, co przynosi mu radość i wesele na wzór radości żniw i zwycięstwa.",
+      "bible": [
+        "Iz 9, 1-2",
+        "Mt 4, 15-16"
+      ],
+      "text": [
+        "Naród kroczący w ciemnościach",
+        "zobaczył światłość wielką.",
+        "Nad kroczącymi w krainie mrocznej",
+        "zabłysło potężne światło.",
+        "Pomnożyłeś im radość,",
+        "spotęgowałeś ich wesele,",
+        "rozradowali się przed Tobą,",
+        "jak radują się we żniwa,",
+        "jak weselą się przy dzieleniu łupu.",
+        ""
+      ]
+    },
+    {
+      "range": "11-16",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "władza",
+        "Przedziwny Doradca",
+        "Bóg Potężny",
+        "Odwieczny Ojciec",
+        "Książę Pokoju",
+        "Mesjasz",
+        "Jezus Chrystus",
+        "Królestwo Boże",
+        "imię Boże",
+        "tytuł mesjański"
+      ],
+      "summary": "Refren wylicza mesjańskie tytuły Dziecięcia: Przedziwny Doradca, Bóg Potężny, Odwieczny Ojciec, Książę Pokoju – zapowiedź Jego boskiej godności i powszechnej władzy.",
+      "bible": [
+        "Iz 9, 5-6",
+        "Łk 1, 32-33"
+      ],
+      "text": [
+        "Na ramionach Jego spoczęła władza.",
+        "I nazwany będzie, i nazwany będzie:",
+        "Przedziwny i Wierny Doradca,",
+        "Bóg Potężny, Odwieczny Ojciec,",
+        "Książę Pokoju, Książę Pokoju.",
+        ""
+      ]
+    },
+    {
+      "range": "17-26",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "jarzmo",
+        "ucisk",
+        "wyzwolenie",
+        "Madian",
+        "sąd",
+        "ogień",
+        "Dziecię",
+        "Syn",
+        "narodzenie",
+        "Mesjasz",
+        "zbawienie",
+        "przemoc",
+        "pokój"
+      ],
+      "summary": "Bóg łamie jarzmo ucisku na wzór zwycięstwa Gedeona w dniu Madianu, a narzędzia przemocy ulegają zniszczeniu, ponieważ narodziło się Dziecię i Syn został zesłany – mesjańskie wyzwolenie.",
+      "bible": [
+        "Iz 9, 3-5",
+        "Sdz 7, 15-25"
+      ],
+      "text": [
+        "Albowiem jarzmo, które lud uciskało,",
+        "jarzmo, które gniotło jego barki,",
+        "rózgę dręczyciela",
+        "złamałeś jak w dzień Madianu.",
+        "I tak każdy but przemocy",
+        "i wszelki płaszcz krwią zbroczony",
+        "pójdą na spalenie, na pastwę ognia,",
+        "bo Dziecię nam się narodziło",
+        "i Syn został nam zesłany.",
+        ""
+      ]
+    },
+    {
+      "range": "27-31",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "władza",
+        "Przedziwny Doradca",
+        "Bóg Potężny",
+        "Odwieczny Ojciec",
+        "Książę Pokoju",
+        "Mesjasz",
+        "Jezus Chrystus",
+        "Królestwo Boże"
+      ],
+      "summary": "Powtórzenie refrenu wyliczającego mesjańskie tytuły – liturgiczne potwierdzenie tożsamości i godności Mesjasza.",
+      "bible": [
+        "Iz 9, 5-6"
+      ],
+      "text": [
+        "Na ramionach Jego spoczęła władza.",
+        "I nazwany będzie, i nazwany będzie:",
+        "Przedziwny i Wierny Doradca,",
+        "Bóg Potężny, Odwieczny Ojciec,",
+        "Książę Pokoju, Książę Pokoju."
+      ]
+    },
+    {
+      "range": "1-31",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Mesjasz",
+        "światłość",
+        "ciemność",
+        "radość",
+        "wyzwolenie",
+        "Izajasz",
+        "Adwent",
+        "Boże Narodzenie",
+        "Dziecię",
+        "Syn",
+        "władza",
+        "Książę Pokoju",
+        "proroctwo",
+        "zbawienie",
+        "Emmanuel"
+      ],
+      "summary": "Pieśń oparta na Iz 9, 1-6 głosi mesjańską zapowiedź narodzenia Dziecięcia, które rozświetli ciemności, złamie jarzmo ucisku i otrzyma władzę jako Książę Pokoju. Klasyczny tekst adwentowo-bojonarodzeniowy.",
+      "bible": [
+        "Iz 9, 1-6",
+        "Mt 4, 15-16",
+        "Łk 1, 32-33"
+      ]
+    }
+  ]
+}

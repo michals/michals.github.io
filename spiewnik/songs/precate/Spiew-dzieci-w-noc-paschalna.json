@@ -1,0 +1,291 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:230c0bbcf0fc3f70e0c97f2fde3bc17b1fe964761ffc6938642d03992d0dc11f",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "Pascha",
+        "inność",
+        "pytanie",
+        "tajemnica",
+        "dziecko"
+      ],
+      "summary": "Dziecięce pytanie o wyjątkowość tej nocy paschalnej – klasyczna formula Ma Nisztana z sederu paschalnego.",
+      "bible": [
+        "Wj 12,26-27",
+        "Wj 13,8"
+      ],
+      "text": [
+        "Co takiego jest innego w tej nocy",
+        "od wszystkich innych nocy?",
+        "Od wszystkich innych nocy?",
+        ""
+      ]
+    },
+    {
+      "range": "5-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "sen",
+        "wcześnie",
+        "starsi",
+        "rodzina",
+        "obecność"
+      ],
+      "summary": "W inne noce dzieci idą spać wcześnie, ale tej nocy pozostają ze starszymi – znak wspólnoty paschalnej.",
+      "bible": [
+        "Wj 12,1-11"
+      ],
+      "text": [
+        "Bo w inne noce idziemy spać wcześnie",
+        "i nie zostajemy ze starszymi.",
+        "I nie zostajemy ze starszymi.",
+        ""
+      ]
+    },
+    {
+      "range": "9-13",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "obecność",
+        "wspólnota",
+        "razem",
+        "rodzina"
+      ],
+      "summary": "Tej nocy wszyscy są razem – zgromadzenie rodzinne przy stole sederowym.",
+      "bible": [
+        "Pwt 16,1-8"
+      ],
+      "text": [
+        "A tej tu nocy, a tej tu nocy",
+        "jesteśmy z wami razem.",
+        "A tej tu nocy, a tej tu nocy",
+        "jesteśmy z wami razem.",
+        ""
+      ]
+    },
+    {
+      "range": "14-17",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "Pascha",
+        "inność",
+        "pytanie",
+        "dziecko"
+      ],
+      "summary": "Powtórzone pytanie o wyjątkowość tej nocy.",
+      "bible": [
+        "Wj 12,26-27"
+      ],
+      "text": [
+        "Co takiego jest innego w tej nocy",
+        "od wszystkich innych nocy?",
+        "Od wszystkich innych nocy?",
+        ""
+      ]
+    },
+    {
+      "range": "18-21",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "sen",
+        "kolacja",
+        "Wieczerza",
+        "tradycja"
+      ],
+      "summary": "W inne noce idzie się spać zaraz po kolacji – inaczej niż w tę świętą noc sederową.",
+      "bible": [
+        "Wj 12,8-11"
+      ],
+      "text": [
+        "Bo w inne noce idziemy spać wcześnie",
+        "zaraz po kolacji.",
+        "Zaraz po kolacji.",
+        ""
+      ]
+    },
+    {
+      "range": "22-26",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "post",
+        "oczyszczenie",
+        "Pascha",
+        "wstrzemięźliwość"
+      ],
+      "summary": "Tej nocy wszyscy pościli – rytualne oczyszczenie poprzedzające ucztę paschalną.",
+      "bible": [
+        "Wj 12,15",
+        "Kpł 23,5-8"
+      ],
+      "text": [
+        "A tej tu nocy, a tej tu nocy",
+        "wszyscyśmy pościli.",
+        "A tej tu nocy, a tej tu nocy",
+        "wszyscyśmy pościli.",
+        ""
+      ]
+    },
+    {
+      "range": "27-30",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "Pascha",
+        "inność",
+        "pytanie",
+        "dziecko"
+      ],
+      "summary": "Powtórzone pytanie o wyjątkowość tej nocy.",
+      "bible": [
+        "Wj 12,26-27"
+      ],
+      "text": [
+        "Co takiego jest innego w tej nocy",
+        "od wszystkich innych nocy?",
+        "Od wszystkich innych nocy?",
+        ""
+      ]
+    },
+    {
+      "range": "31-34",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "sen",
+        "oczekiwanie",
+        "czekanie",
+        "nadzieja"
+      ],
+      "summary": "W inne noce nie czeka się na nic, lecz tej nocy trwa czuwanie.",
+      "bible": [
+        "Wj 12,42"
+      ],
+      "text": [
+        "Bo w inne noce idziemy spać wcześnie",
+        "i nie czekamy na nic.",
+        "I nie czekamy na nic.",
+        ""
+      ]
+    },
+    {
+      "range": "35-39",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "oczekiwanie",
+        "nadzieja",
+        "Mesjasz",
+        "czuwanie"
+      ],
+      "summary": "Tej nocy na coś czekamy – eschatologiczne oczekiwanie na Mesjasza wypełnione w Chrystusie Paschalnym.",
+      "bible": [
+        "Iz 25,6-9",
+        "Mt 25,1-13",
+        "Ap 22,20"
+      ],
+      "text": [
+        "A tej tu nocy, a tej tu nocy",
+        "na coś czekamy.",
+        "A tej tu nocy, a tej tu nocy",
+        "na coś czekamy.",
+        ""
+      ]
+    },
+    {
+      "range": "40-43",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "Pascha",
+        "inność",
+        "pytanie",
+        "dziecko"
+      ],
+      "summary": "Powtórzone pytanie o wyjątkowość tej nocy.",
+      "bible": [
+        "Wj 12,26-27"
+      ],
+      "text": [
+        "Co takiego jest innego w tej nocy",
+        "od wszystkich innych nocy?",
+        "Od wszystkich innych nocy?",
+        ""
+      ]
+    },
+    {
+      "range": "44-49",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "wspólnota",
+        "post",
+        "oczekiwanie",
+        "Pascha",
+        "podsumowanie",
+        "razem",
+        "czekanie"
+      ],
+      "summary": "Odpowiedź na dziecięce pytanie: ta noc jest inna, bo wszyscy jesteśmy razem, pościmy i na coś czekamy – trzy wymiary Paschy: wspólnotowy, oczyszczający i eschatologiczny.",
+      "bible": [
+        "Wj 12,1-28",
+        "Łk 22,14-20",
+        "1 Kor 5,7-8"
+      ],
+      "text": [
+        "Że jesteśmy z wami razem,",
+        "że wszyscy pościmy,",
+        "że na coś czekamy.",
+        "Że jesteśmy z wami razem,",
+        "że wszyscy pościmy,",
+        "że na coś czekamy."
+      ]
+    },
+    {
+      "range": "1-49",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pascha",
+        "noc",
+        "pytanie",
+        "dziecko",
+        "wspólnota",
+        "post",
+        "oczekiwanie",
+        "Mesjasz",
+        "sedar",
+        "Exodus",
+        "czuwanie",
+        "rodzina",
+        "wyjątkowość"
+      ],
+      "summary": "Adaptacja żydowskiego Ma Nisztana (Czterech Pytań) z sederu paschalnego na pieśń chrześcijańską: dziecięce pytanie o wyjątkowość tej nocy prowadzi przez trzy odpowiedzi – bycie razem, post i oczekiwanie – które typologicznie zapowiadają chrześcijańskie Triduum Paschalne: Wieczerzę Pańską (wspólnota), post pasyjny (oczyszczenie) i wigilijne oczekiwanie na Zmartwychwstanie (nadzieja).",
+      "bible": [
+        "Wj 12,1-28",
+        "Wj 12,26-27",
+        "Wj 13,8",
+        "Iz 25,6-9",
+        "Łk 22,14-20",
+        "1 Kor 5,7-8",
+        "Mt 25,1-13",
+        "Ap 22,20"
+      ]
+    }
+  ]
+}

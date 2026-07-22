@@ -1,0 +1,334 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:792659e0df684725fb108ddaea18b8ad8d1042e0f83a0f83dc52f503adc9209f",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "ufać",
+        "Pan",
+        "pochylić się",
+        "wysłuchać",
+        "krzyk",
+        "dół",
+        "śmierć",
+        "wydobyć"
+      ],
+      "summary": "Refren wyraża ufność w Panu, który pochyla się nad człowiekiem i wybawia go z otchłani śmierci.",
+      "bible": [
+        "Ps 40, 2-3"
+      ],
+      "text": [
+        "Zaufałem, zaufałem Panu,",
+        "a On nade mną się pochylił",
+        "i wysłuchał mego krzyku,",
+        "z dołu śmierci mnie wydobył!"
+      ]
+    },
+    {
+      "range": "5-8",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dół",
+        "śmierć",
+        "wydobyć",
+        "błoto",
+        "grzęzawisko",
+        "skała",
+        "utwierdzić",
+        "stopy",
+        "kroki"
+      ],
+      "summary": "Pan wydobywa człowieka z błotnistego grzęzawiska i stawia na skale, umacniając jego kroki.",
+      "bible": [
+        "Ps 40, 3",
+        "1 Kor 10, 4"
+      ],
+      "text": [
+        "Z dołu śmierci mnie wydobył,",
+        "z błotnistego grzęzawiska,",
+        "na skale utwierdził moje stopy,",
+        "pewnymi uczynił moje kroki."
+      ]
+    },
+    {
+      "range": "9-12",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "ufać",
+        "Pan",
+        "pochylić się",
+        "wysłuchać",
+        "krzyk",
+        "dół",
+        "śmierć",
+        "wydobyć"
+      ],
+      "summary": "Refren ufności i dziękczynienia za wybawienie od śmierci.",
+      "bible": [
+        "Ps 40, 2-3"
+      ],
+      "text": [
+        "Zaufałem, zaufałem Panu,",
+        "a On nade mną się pochylił",
+        "i wysłuchał mego krzyku,",
+        "z dołu śmierci mnie wydobył!"
+      ]
+    },
+    {
+      "range": "13-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "usta",
+        "włożyć",
+        "pieśń",
+        "uwielbienie",
+        "Bóg",
+        "zobaczyć",
+        "bojaźń",
+        "ufność",
+        "Pan"
+      ],
+      "summary": "Pan wkłada w usta nową pieśń uwielbienia, a wielu ujrzawszy to, zacznie ufać Bogu.",
+      "bible": [
+        "Ps 40, 4",
+        "Ap 5, 9"
+      ],
+      "text": [
+        "W moje usta włożył nową pieśń,",
+        "uwielbienie dla naszego Boga;",
+        "wielu zobaczy i odczuje bojaźń",
+        "i położy swoją ufność w Panu."
+      ]
+    },
+    {
+      "range": "17-20",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "ufać",
+        "Pan",
+        "pochylić się",
+        "wysłuchać",
+        "krzyk",
+        "dół",
+        "śmierć",
+        "wydobyć"
+      ],
+      "summary": "Refren ufności i dziękczynienia za wybawienie od śmierci.",
+      "bible": [
+        "Ps 40, 2-3"
+      ],
+      "text": [
+        "Zaufałem, zaufałem Panu,",
+        "a On nade mną się pochylił",
+        "i wysłuchał mego krzyku,",
+        "z dołu śmierci mnie wydobył!"
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławiony",
+        "zawierzyć",
+        "Pan",
+        "pyszny",
+        "droga",
+        "kłamstwo",
+        "ufność"
+      ],
+      "summary": "Błogosławiony, kto ufa Panu, a nie idzie drogą pysznych i kłamców.",
+      "bible": [
+        "Ps 40, 5",
+        "Ps 1, 1"
+      ],
+      "text": [
+        "Błogosławiony, kto zawierzył Panu,",
+        "i nie staje po stronie ludzi pysznych,",
+        "ani tych, którzy idą drogą kłamstwa.",
+        "Błogosławiony, kto zawierzył Panu.",
+        ""
+      ]
+    },
+    {
+      "range": "26-29",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "ufać",
+        "Pan",
+        "pochylić się",
+        "wysłuchać",
+        "krzyk",
+        "dół",
+        "śmierć",
+        "wydobyć"
+      ],
+      "summary": "Refren ufności i dziękczynienia za wybawienie od śmierci.",
+      "bible": [
+        "Ps 40, 2-3"
+      ],
+      "text": [
+        "Zaufałem, zaufałem Panu,",
+        "a On nade mną się pochylił",
+        "i wysłuchał mego krzyku,",
+        "z dołu śmierci mnie wydobył!"
+      ]
+    },
+    {
+      "range": "30-33",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "cud",
+        "plan",
+        "Pan",
+        "wypowiedzieć",
+        "zliczyć",
+        "wielkość",
+        "dzieło"
+      ],
+      "summary": "Pan dokonuje niezliczonych cudów i planów, których nikt nie zdoła wypowiedzieć.",
+      "bible": [
+        "Ps 40, 6"
+      ],
+      "text": [
+        "Ileż cudów dla nas uczyniłeś,",
+        "ileż planów, w których nikt Ci nie dorówna;",
+        "gdybym chciał je wypowiedzieć,",
+        "jest ich więcej, niż by można zliczyć."
+      ]
+    },
+    {
+      "range": "34-37",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "ufać",
+        "Pan",
+        "pochylić się",
+        "wysłuchać",
+        "krzyk",
+        "dół",
+        "śmierć",
+        "wydobyć"
+      ],
+      "summary": "Refren ufności i dziękczynienia za wybawienie od śmierci.",
+      "bible": [
+        "Ps 40, 2-3"
+      ],
+      "text": [
+        "Zaufałem, zaufałem Panu,",
+        "a On nade mną się pochylił",
+        "i wysłuchał mego krzyku,",
+        "z dołu śmierci mnie wydobył!"
+      ]
+    },
+    {
+      "range": "38-45",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ofiara",
+        "obiatą",
+        "pragnąć",
+        "otworzyć",
+        "ucho",
+        "całopalenie",
+        "grzech",
+        "wola",
+        "księga",
+        "prawo",
+        "serce",
+        "posłuszeństwo"
+      ],
+      "summary": "Bóg pragnie posłuszeństwa i pełnienia Jego woli, nie zaś ofiar i całopaleń.",
+      "bible": [
+        "Ps 40, 7-9",
+        "Hbr 10, 5-7",
+        "1 Sm 15, 22"
+      ],
+      "text": [
+        "Krwawych ofiar ani obiat Ty nie pragniesz;",
+        "w zamian za to otworzyłeś moje uszy.",
+        "Całopalenia za grzech nie wymagałeś,",
+        "dlategom powiedział: „Oto idę, by pełnić Twoją wolę”.",
+        "W zwoju księgi o mnie napisano,",
+        "że mam pełnić, Panie, Twoją wolę;",
+        "Boże mój, tego właśnie pragnę:",
+        "Twego prawa w głębi mego serca."
+      ]
+    },
+    {
+      "range": "46-49",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "ufać",
+        "Pan",
+        "pochylić się",
+        "wysłuchać",
+        "krzyk",
+        "dół",
+        "śmierć",
+        "wydobyć"
+      ],
+      "summary": "Końcowe potwierdzenie ufności w Pana, który wybawia z otchłani śmierci.",
+      "bible": [
+        "Ps 40, 2-3"
+      ],
+      "text": [
+        "Zaufałem, zaufałem Panu,",
+        "a On nade mną się pochylił",
+        "i wysłuchał mego krzyku,",
+        "z dołu śmierci mnie wydobył!"
+      ]
+    },
+    {
+      "range": "1-49",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "ufność",
+        "Pan",
+        "wybawienie",
+        "śmierć",
+        "skała",
+        "pieśń",
+        "nowa",
+        "uwielbienie",
+        "błogosławiony",
+        "cud",
+        "plan",
+        "ofiara",
+        "posłuszeństwo",
+        "wola",
+        "prawo",
+        "serce",
+        "bojaźń",
+        "droga",
+        "kłamstwo",
+        "krzyk",
+        "błoto",
+        "stopa",
+        "krok"
+      ],
+      "summary": "Pieśń oparta na Ps 40, łącząca ufność w wybawienie Boże z wezwaniem do pełnienia Jego woli; typologicznie zapowiada Chrystusa, który mówi: 'Oto idę, by pełnić Twoją wolę' (Hbr 10, 7).",
+      "bible": [
+        "Ps 40, 1-18",
+        "Hbr 10, 5-7",
+        "1 Kor 10, 4",
+        "Ap 5, 9",
+        "Ps 1, 1",
+        "1 Sm 15, 22"
+      ]
+    }
+  ]
+}

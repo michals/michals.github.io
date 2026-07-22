@@ -1,0 +1,211 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a894b8089d345b25c8f9fa538ed74b2d3f4b1b6c9a78ce988812d25077fd16b3",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "przybywać",
+        "zgromadzić",
+        "naród",
+        "chwała"
+      ],
+      "summary": "Bóg zapowiada zgromadzenie wszystkich narodów, aby ujrzały Jego chwałę.",
+      "bible": [
+        "Iz 66, 18",
+        "Iz 2, 2-3"
+      ],
+      "text": [
+        "Przybywam, by zgromadzić,",
+        "przybywam, by zgromadzić",
+        "wszystkie narody,",
+        "wszystkie narody.",
+        "Przybędą i zobaczą moją chwałę.",
+        "Przybędą i zobaczą moją chwałę."
+      ]
+    },
+    {
+      "range": "7-9",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "cześć",
+        "Bóg"
+      ],
+      "summary": "Aklamacja Gloria na cześć Boga.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Gloria, gloria, gloria.",
+        "Gloria, gloria, gloria.",
+        ""
+      ]
+    },
+    {
+      "range": "10-13",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "znak",
+        "wysłać",
+        "naród",
+        "głosić",
+        "chwała"
+      ],
+      "summary": "Bóg kładzie znak na wybranych i wysyła ich do najdalszych narodów, aby głosili Jego chwałę.",
+      "bible": [
+        "Iz 66, 19",
+        "Ap 7, 3",
+        "Mt 28, 19"
+      ],
+      "text": [
+        "Położę na nich znak",
+        "i wyślę ich do narodów najdalszych,",
+        "aby głosili moją chwałę,",
+        "aby głosili moją chwałę."
+      ]
+    },
+    {
+      "range": "14-16",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "cześć",
+        "Bóg"
+      ],
+      "summary": "Aklamacja Gloria na cześć Boga.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Gloria, gloria, gloria.",
+        "Gloria, gloria, gloria.",
+        ""
+      ]
+    },
+    {
+      "range": "17-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "zgromadzić",
+        "brat",
+        "naród",
+        "dar",
+        "kapłan",
+        "głosić",
+        "chwała"
+      ],
+      "summary": "Posłańcy zgromadzą braci ze wszystkich narodów jako dar dla Pana, a Bóg powoła spośród nich kapłanów.",
+      "bible": [
+        "Iz 66, 20-21",
+        "1 P 2, 9",
+        "Ap 5, 10"
+      ],
+      "text": [
+        "I zgromadzą waszych braci",
+        "ze wszystkich narodów,",
+        "jako dar dla Pana,",
+        "jako dar dla Pana.",
+        "I wezmę spośród nich",
+        "kapłanów dla siebie,",
+        "kapłanów, by głosili moją chwałę,",
+        "kapłanów, by głosili moją chwałę."
+      ]
+    },
+    {
+      "range": "25-27",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "cześć",
+        "Bóg"
+      ],
+      "summary": "Aklamacja Gloria na cześć Boga.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Gloria, gloria, gloria.",
+        "Gloria, gloria, gloria.",
+        ""
+      ]
+    },
+    {
+      "range": "28-31",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "nowy",
+        "niebiosa",
+        "ziemia",
+        "trwać",
+        "potomstwo",
+        "wieczność"
+      ],
+      "summary": "Nowe niebiosa i nowa ziemia oraz potomstwo wiernych będą trwać na zawsze.",
+      "bible": [
+        "Iz 66, 22",
+        "Ap 21, 1-4",
+        "Iz 65, 17"
+      ],
+      "text": [
+        "Albowiem tak, jak nowe niebiosa i nowa ziemia, które Ja uczynię,",
+        "trwać będą na zawsze,",
+        "tak będzie trwać",
+        "ich potomstwo na zawsze."
+      ]
+    },
+    {
+      "range": "32-33",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "cześć",
+        "Bóg"
+      ],
+      "summary": "Końcowa aklamacja Gloria na cześć Boga.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Gloria, gloria, gloria.",
+        "Gloria, gloria, gloria."
+      ]
+    },
+    {
+      "range": "1-33",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "zgromadzić",
+        "naród",
+        "chwała",
+        "Bóg",
+        "znak",
+        "głosić",
+        "kapłan",
+        "dar",
+        "nowe niebiosa",
+        "ziemia",
+        "potomstwo",
+        "wieczność"
+      ],
+      "summary": "Pieśń oparta na Iz 66, 18-22, w której Bóg zapowiada zgromadzenie wszystkich narodów, naznaczenie ich znakiem, powołanie kapłanów i ustanowienie nowych niebios oraz nowej ziemi na wieki.",
+      "bible": [
+        "Iz 66, 18-22",
+        "Ap 21, 1-4",
+        "Mt 28, 19-20",
+        "1 P 2, 9",
+        "Ap 7, 3"
+      ]
+    }
+  ]
+}

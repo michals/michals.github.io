@@ -1,0 +1,524 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:abbb68d307d800874213c558649be832a4fe04b5e3fe71721742ca844014a684",
+  "songs_analysis": [
+    {
+      "range": "1-2",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "3-7",
+      "text": [
+        "1. Psalm 92",
+        ""
+      ]
+    },
+    {
+      "range": "3-7",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dziękować",
+        "Pan",
+        "śpiewać",
+        "imię Boże",
+        "Najwyższy",
+        "łaskawość",
+        "wierność",
+        "rano",
+        "noc",
+        "chwała"
+      ],
+      "summary": "Psalm dziękczynny za łaskawość Bożą głoszoną rankiem i wierność Bożą wysławianą nocami.",
+      "bible": [
+        "Ps 92, 2-3",
+        "Ps 89, 2",
+        "Lm 3, 22-23"
+      ],
+      "text": [
+        "Dobrze jest dziękować Panu,",
+        "śpiewać Twojemu imieniu, Najwyższy,",
+        "Rano głosić łaskawość Twoją,",
+        "a wierność Twoją nocami,",
+        ""
+      ]
+    },
+    {
+      "range": "8-9",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "10-14",
+      "text": [
+        "2. Psalm 46",
+        ""
+      ]
+    },
+    {
+      "range": "10-14",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "ucieczka",
+        "siła",
+        "pomoc",
+        "trudność",
+        "strach",
+        "ziemia",
+        "góra",
+        "morze",
+        "otchłań",
+        "ufność"
+      ],
+      "summary": "Psalm wyrażający ufność w Bogu jako ucieczce i sile w trudnościach, który chroni mimo kataklizmów i chaosu natury.",
+      "bible": [
+        "Ps 46, 2-4",
+        "Ps 18, 2-3",
+        "Iz 43, 2",
+        "Mt 7, 24-27"
+      ],
+      "text": [
+        "Bóg jest dla nas ucieczką i siłą,",
+        "najpewniejszą pomocą w trudnościach.",
+        "Przeto nie będziemy się bali, choćby zatrzęsła się ziemia",
+        "i góry zapadły w otchłań morza.",
+        ""
+      ]
+    },
+    {
+      "range": "15-16",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "17-21",
+      "text": [
+        "3. Psalm 136",
+        ""
+      ]
+    },
+    {
+      "range": "17-21",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "chwalić",
+        "Pan",
+        "dobroć",
+        "łaska",
+        "Bóg",
+        "wieczność",
+        "dziękczynienie",
+        "miłosierdzie"
+      ],
+      "summary": "Hymn dziękczynny z refrenem 'bo Jego łaska na wieki', wysławiający Boga nad bogami za Jego wieczne miłosierdzie.",
+      "bible": [
+        "Ps 136, 1-3",
+        "Ps 100, 5",
+        "Ps 118, 1",
+        "Jr 33, 11"
+      ],
+      "text": [
+        "Chwalcie Pana, bo jest dobry,",
+        "bo Jego łaska na wieki.",
+        "Chwalcie Boga nad bogami,",
+        "bo Jego łaska na wieki.",
+        ""
+      ]
+    },
+    {
+      "range": "22-23",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "24-28",
+      "text": [
+        "4. Pwt 32",
+        ""
+      ]
+    },
+    {
+      "range": "24-28",
+      "type": "fragment",
+      "sentiment": "neutralny",
+      "keywords": [
+        "niebiosa",
+        "ziemia",
+        "słyszeć",
+        "słowo Boże",
+        "deszcz",
+        "rosa",
+        "pouczenie",
+        "nauka",
+        "Bóg"
+      ],
+      "summary": "Wezwanie niebios i ziemi do słuchania Bożego pouczenia, które spływa jak deszcz i rosa, ożywiając wszystko.",
+      "bible": [
+        "Pwt 32, 1-2",
+        "Iz 55, 10-11",
+        "Ps 72, 6",
+        "Oz 14, 6"
+      ],
+      "text": [
+        "Uważajcie, niebiosa, na to, co powiem,",
+        "słuchaj, ziemio, głosu mojego.",
+        "Jak deszcz niech spływa moje pouczenie,",
+        "jak rosa niech pada me słowo,",
+        ""
+      ]
+    },
+    {
+      "range": "29-30",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "31-39",
+      "text": [
+        "5. Psalm 145 (Nun)",
+        ""
+      ]
+    },
+    {
+      "range": "31-39",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "wierność",
+        "słowo",
+        "dzieła",
+        "świętość",
+        "podtrzymywać",
+        "upadający",
+        "podnosić",
+        "zgnębiony",
+        "oczy",
+        "karmić",
+        "ręka Boża",
+        "życie",
+        "Opatrzność"
+      ],
+      "summary": "Psalm wysławiający wierność i świętość Boga, który podtrzymuje upadających, podnosi zgnębionych i karmi wszystko, co żyje.",
+      "bible": [
+        "Ps 145, 13-16",
+        "Ps 104, 27-28",
+        "Ps 146, 8",
+        "Mt 6, 25-34",
+        "Mdr 11, 25-26"
+      ],
+      "text": [
+        "Pan jest wierny we wszystkich swoich słowach",
+        "i we wszystkich swoich dziełach święty.",
+        "Pan podtrzymuje wszystkich, którzy upadają,",
+        "i podnosi wszystkich zgnębionych.",
+        "Oczy wszystkich zwracają się ku Tobie,",
+        "a Ty ich karmisz we właściwym czasie.",
+        "Ty otwierasz swą rękę",
+        "i karmisz do syta wszystko, co żyje.",
+        ""
+      ]
+    },
+    {
+      "range": "40-41",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "42-46",
+      "text": [
+        "6. Psalm 49,1-13",
+        ""
+      ]
+    },
+    {
+      "range": "42-46",
+      "type": "fragment",
+      "sentiment": "neutralny",
+      "keywords": [
+        "słuchać",
+        "naród",
+        "mieszkaniec",
+        "ziemia",
+        "niski",
+        "możny",
+        "bogaty",
+        "ubogi",
+        "mądrość"
+      ],
+      "summary": "Zaproszenie wszystkich ludzi, zarówno niskich jak i możnych, do słuchania słów mądrości o przemijaniu bogactwa.",
+      "bible": [
+        "Ps 49, 1-3",
+        "Prz 22, 2",
+        "Koh 5, 9-10"
+      ],
+      "text": [
+        "Słuchajcie tego, wszystkie narody,",
+        "nakłońcie ucha, wszyscy mieszkańcy ziemi,",
+        "Niscy pochodzeniem na równi z możnymi,",
+        "bogaci razem z ubogimi.",
+        ""
+      ]
+    },
+    {
+      "range": "47-49",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "50-54",
+      "text": [
+        "7. Psalm 85                                                                                         ○",
+        "I",
+        ""
+      ]
+    },
+    {
+      "range": "50-54",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "łaska",
+        "Pan",
+        "ziemia",
+        "Jakub",
+        "odmiana losu",
+        "odpuszczenie",
+        "wina",
+        "grzech",
+        "lud Boży",
+        "przebaczenie"
+      ],
+      "summary": "Psalm dziękczynny za Boże przebaczenie win i odnowienie losu ludu, ukazujący łaskawość Boga wobec swojej ziemi.",
+      "bible": [
+        "Ps 85, 2-4",
+        "Ps 103, 3",
+        "Iz 40, 1-2",
+        "Jr 30, 18"
+      ],
+      "text": [
+        "Łaskawym się okazałeś, Panie, dla Twej ziemi,",
+        "odmieniłeś los Jakuba.",
+        "Odpuściłeś winę swojemu ludowi",
+        "i zakryłeś wszystkie jego grzechy.",
+        ""
+      ]
+    },
+    {
+      "range": "55-56",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "57-64",
+      "text": [
+        "8. Ap 15, 3-4",
+        ""
+      ]
+    },
+    {
+      "range": "57-64",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "dzieło Boże",
+        "podziw",
+        "Pan",
+        "Bóg wszechwładny",
+        "sprawiedliwość",
+        "droga Boża",
+        "wierność",
+        "Król",
+        "naród",
+        "bojaźń Boża",
+        "imię Boże",
+        "świętość"
+      ],
+      "summary": "Hymn czcicieli wysławiający wielkie dzieła Boga wszechwładnego, Jego sprawiedliwe drogi i wyłączną świętość, przed którym wszystkie narody oddają cześć.",
+      "bible": [
+        "Ap 15, 3-4",
+        "Wj 15, 11",
+        "Ps 111, 2-3",
+        "Ps 86, 9",
+        "Za 14, 9"
+      ],
+      "text": [
+        "Wielkie i godne podziwu są Twoje dzieła,",
+        "Panie, Boże wszechwładny.",
+        "Sprawiedliwe i wierne są drogi Twoje,",
+        "Królu narodów.",
+        "Któż by się nie bał, Panie,",
+        "i nie uczcił Twojego imienia?",
+        "Bo tylko Tyś jest święty.",
+        ""
+      ]
+    },
+    {
+      "range": "65-66",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "67-71",
+      "text": [
+        "9. Iz 42, 9-13",
+        ""
+      ]
+    },
+    {
+      "range": "67-71",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiewać",
+        "Pan",
+        "pieśń nowa",
+        "chwała",
+        "kraniec ziemi",
+        "morze",
+        "wyspa",
+        "sławić",
+        "mieszkaniec"
+      ],
+      "summary": "Wezwanie do śpiewania Panu pieśni nowej, niech całe stworzenie od krańców ziemi po wyspy sławi Jego chwałę.",
+      "bible": [
+        "Iz 42, 9-13",
+        "Ps 96, 1-3",
+        "Ps 98, 1-3",
+        "Ap 5, 9-10"
+      ],
+      "text": [
+        "Śpiewajcie Panu pieśń nową,",
+        "Jego chwała aż po krańce ziemi.",
+        "Niech sławi Go morze i to, co je napełnia,",
+        "i wyspy razem z tymi, którzy tam mieszkają.",
+        ""
+      ]
+    },
+    {
+      "range": "72-73",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "74-79",
+      "text": [
+        "10. Psalm 89",
+        ""
+      ]
+    },
+    {
+      "range": "74-79",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "ucieczka",
+        "pokolenie",
+        "góra",
+        "świat",
+        "ziemia",
+        "wieczność",
+        "Bóg",
+        "stworzenie",
+        "przedwieczny"
+      ],
+      "summary": "Psalm wyrażający ufność w Bogu jako ucieczce z pokolenia na pokolenie, który jest przedwiecznym Bogiem istniejącym przed stworzeniem świata.",
+      "bible": [
+        "Ps 89, 1-2",
+        "Rdz 1, 1",
+        "Hbr 1, 10-12",
+        "Ap 1, 8"
+      ],
+      "text": [
+        "Panie, Ty dla nas byłeś ucieczką",
+        "z pokolenia na poko(len)ie.",
+        "Zanim narodziły się góry,",
+        "nim powstał świat i ziemia,",
+        "od wieku po wiek Ty jesteś Bogiem.",
+        ""
+      ]
+    },
+    {
+      "range": "80-81",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "82-86",
+      "text": [
+        "to samo w tonacji z „Resucitó 2023”",
+        "i „Zmartwychwstał Pan 2025”"
+      ]
+    },
+    {
+      "range": "82-86",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "ucieczka",
+        "pokolenie",
+        "góra",
+        "świat",
+        "ziemia",
+        "wieczność",
+        "Bóg",
+        "przedwieczny",
+        "zmartwychwstanie",
+        "Pascha"
+      ],
+      "summary": "Powtórzenie Psalmu 89 w innej tonacji, łączące modlitwę poranną z melodiami pieśni paschalnych.",
+      "bible": [
+        "Ps 89, 1-2",
+        "Rdz 1, 1",
+        "Hbr 1, 10-12"
+      ],
+      "text": [
+        "Panie, Ty dla nas byłeś ucieczką",
+        "z pokolenia na poko(len)ie.",
+        "Zanim narodziły się góry,",
+        "nim powstał świat i ziemia,",
+        "od wieku po wiek Ty jesteś Bogiem."
+      ]
+    },
+    {
+      "range": "1-86",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "psalmodia",
+        "Jutrznia",
+        "Liturgia Godzin",
+        "modlitwa poranna",
+        "psalm",
+        "chwała",
+        "dziękczynienie",
+        "ufność",
+        "stworzenie",
+        "Bóg",
+        "Opatrzność",
+        "śpiew",
+        "wierność",
+        "miłosierdzie"
+      ],
+      "summary": "Psalmodia Jutrzni zawierająca fragmenty 10 psalmów i pieśni biblijnych (Ps 92, 46, 136, 145, 49, 85, 89, Pwt 32, Ap 15, Iz 42), obejmująca motywy dziękczynienia, ufności, miłosierdzia, wierności Bożej, mądrości oraz chwały Bożej.",
+      "bible": [
+        "Ps 92",
+        "Ps 46",
+        "Ps 136",
+        "Pwt 32",
+        "Ps 145",
+        "Ps 49",
+        "Ps 85",
+        "Ap 15, 3-4",
+        "Iz 42, 9-13",
+        "Ps 89"
+      ]
+    }
+  ]
+}

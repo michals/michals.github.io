@@ -1,0 +1,497 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:131934273d0573ff1695d88e7adbb92c4ead9e20b1ba9e3705d78c7a46bc805e",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śmierć",
+        "życie",
+        "ogłaszanie",
+        "dzieła Pana",
+        "zmartwychwstanie",
+        "Ps 118",
+        "dziękczynienie"
+      ],
+      "summary": "Refren – deklaracja życia i głoszenia wielkich dzieł Pana. Słowa paschalne: nie umrę, lecz będę żył jako wyraz wiary w zmartwychwstanie.",
+      "bible": [
+        "Ps 118, 17"
+      ],
+      "text": [
+        "Nie umrę, nie,",
+        "lecz będę żył",
+        "",
+        "i ogłaszał",
+        "wielkie dzieła Pana!"
+      ]
+    },
+    {
+      "range": "6",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "7-11",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "7-11",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "ukaranie",
+        "śmierć",
+        "ocalenie",
+        "Pan",
+        "kara",
+        "miłosierdzie",
+        "zbawienie"
+      ],
+      "summary": "Pan ukarał, ale nie wydał na śmierć – wyjście z próby i karcenia Bożego. Typologia paschalna przejścia od śmierci do życia.",
+      "bible": [
+        "Ps 118, 18"
+      ],
+      "text": [
+        "Ukarał mnie,",
+        "ukarał mnie,",
+        "",
+        "ale mnie",
+        "na śmierć nie wydał!"
+      ]
+    },
+    {
+      "range": "12",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "13-20",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "13-20",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "wysławienie",
+        "Pan",
+        "dobro",
+        "miłosierdzie",
+        "wieki",
+        "Izrael",
+        "dom Izraela",
+        "dom Aarona",
+        "bojący się Pana",
+        "dziękczynienie"
+      ],
+      "summary": "Hymn dziękczynienia: wysławiajcie Pana, bo jest dobry – miłosierdzie Jego trwa na wieki. Trzykrotne wezwanie skierowane do domu Izraela, domu Aarona i bojących się Pana.",
+      "bible": [
+        "Ps 118, 1-4"
+      ],
+      "text": [
+        "Wysławiajcie Pana, bo jest dobry.",
+        "Miłosierdzie Jego trwa na wieki.",
+        "Niech mówi dom Izraela:",
+        "Miłosierdzie Jego trwa na wieki.",
+        "Niech mówi dom Aarona:",
+        "Miłosierdzie Jego trwa na wieki.",
+        "Niech mówi, kto się boi Pana:",
+        "Miłosierdzie Jego trwa na wieki."
+      ]
+    },
+    {
+      "range": "21-27",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "udręka",
+        "wołanie",
+        "ocalenie",
+        "Pan",
+        "obrona",
+        "pomoc",
+        "odwaga",
+        "zaufanie",
+        "psalm"
+      ],
+      "summary": "Z udręki wołanie do Pana – odpowiedź i ocalenie. Pan jest ze mną, więc się nie lękam. Ufność w Bożą pomoc i obronę przed wrogami.",
+      "bible": [
+        "Ps 118, 5-7"
+      ],
+      "text": [
+        "⌜W udręce wołałem do Pana.",
+        "Odpowiedział mi Pan i mnie ocalił.",
+        "",
+        "Pan jest ze mną, więc się nie lękam.",
+        "Cóż mi może zrobić człowiek?",
+        "Pan jest ze mną, jest mą pomocą.",
+        "Stawię czoła moim wrogom."
+      ]
+    },
+    {
+      "range": "28",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "29-32",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "29-32",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ucieczka",
+        "Pan",
+        "ufność",
+        "człowiek",
+        "możny",
+        "zawierzenie",
+        "Bóg"
+      ],
+      "summary": "Lepiej uciec się do Pana niż ufać człowiekowi czy możnym – lekcja ufności pokładanej wyłącznie w Bogu.",
+      "bible": [
+        "Ps 118, 8-9"
+      ],
+      "text": [
+        "⌜Lepiej się uciec do Pana,",
+        "niż ufność pokładać w człowieku.",
+        "⌜Lepiej się uciec do Pana,",
+        "niż ufność pokładać w możnych."
+      ]
+    },
+    {
+      "range": "33",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "34-50",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "34-50",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "otoczenie",
+        "osaczenie",
+        "popychanie",
+        "imię Pana",
+        "pokonanie",
+        "pomoc",
+        "zwycięstwo",
+        "Pan"
+      ],
+      "summary": "Trzykrotne opisanie ataku wrogów (otoczyli, osaczyli, popychali) i trzykrotne zwycięstwo w imię Pana. Bóg staje się mocą i pomocą.",
+      "bible": [
+        "Ps 118, 10-13"
+      ],
+      "text": [
+        "Otoczyli mnie,",
+        "otoczyli mnie,",
+        "",
+        "lecz w imię Pana",
+        "ich pokonałem!",
+        "",
+        "Osaczyli mnie,",
+        "osaczyli mnie,",
+        "",
+        "lecz w imię Pana",
+        "ich pokonałem!",
+        "",
+        "Popychali mnie,",
+        "popychali mnie,",
+        "",
+        "ale Pan",
+        "stał się mą pomocą."
+      ]
+    },
+    {
+      "range": "51",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "52-59",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "52-59",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pieśń",
+        "Pan",
+        "zbawienie",
+        "radość",
+        "zwycięstwo",
+        "prawica",
+        "cud",
+        "moc",
+        "dziękczynienie"
+      ],
+      "summary": "Pan jest mocą i pieśnią – stał się zbawieniem. Prawica Pańska czyni cudowne rzeczy. Radość i okrzyki zwycięstwa w namiotach sprawiedliwych.",
+      "bible": [
+        "Ps 118, 14-16"
+      ],
+      "text": [
+        "⌜Mą mocą i mą pieśnią jest Pan,",
+        "On stał się moim zbawieniem.",
+        "⌞Okrzyki radości i zwycięstwa",
+        "w namiotach ludzi sprawiedliwych.",
+        "",
+        "⌜Prawica Pańska jest podniesiona,",
+        "uczyniła dla nas cudowne rzeczy.",
+        ""
+      ]
+    },
+    {
+      "range": "60-64",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śmierć",
+        "życie",
+        "ogłaszanie",
+        "dzieła Pana",
+        "zmartwychwstanie",
+        "dziękczynienie"
+      ],
+      "summary": "Powtórzenie refrenu – 'Nie umrę, nie, lecz będę żył i ogłaszał wielkie dzieła Pana'.",
+      "bible": [
+        "Ps 118, 17"
+      ],
+      "text": [
+        "Nie umrę, nie,",
+        "lecz będę żył",
+        "",
+        "i ogłaszał",
+        "wielkie dzieła Pana!"
+      ]
+    },
+    {
+      "range": "65",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "66-70",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "66-70",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "ukaranie",
+        "śmierć",
+        "ocalenie",
+        "Pan",
+        "kara",
+        "miłosierdzie",
+        "zbawienie"
+      ],
+      "summary": "Powtórzenie zwrotki o ukaraniu i ocaleniu – potwierdzenie, że Bóg nie wydaje na śmierć.",
+      "bible": [
+        "Ps 118, 18"
+      ],
+      "text": [
+        "Ukarał mnie,",
+        "ukarał mnie,",
+        "",
+        "ale mnie",
+        "na śmierć nie wydał!"
+      ]
+    },
+    {
+      "range": "71",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "72-83",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "72-83",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "bramy sprawiedliwości",
+        "dziękczynienie",
+        "brama Pana",
+        "zbawienie",
+        "wysłuchanie",
+        "kamień węgielny",
+        "odrzucenie",
+        "cud",
+        "Chrystus",
+        "Kościół"
+      ],
+      "summary": "Wejście przez bramy sprawiedliwości, by złożyć dzięki Panu. Kamień odrzucony przez budujących stał się kamieniem węgielnym – typologia Chrystusa odrzuconego przez Żydów, który stał się fundamentem Kościoła.",
+      "bible": [
+        "Ps 118, 19-23",
+        "Mt 21, 42",
+        "Dz 4, 10-11",
+        "1 P 2, 6-7"
+      ],
+      "text": [
+        "⌜Otwórzcie mi bramy sprawiedliwości,",
+        "wejdę w nie, by złożyć dzięki Panu.",
+        "⌞Oto jest brama Pana,",
+        "przez nią wchodzą sprawiedliwi.",
+        "⌜Dzięki Ci składam, że mnie wysłuchałeś,",
+        "że stałeś się moim zbawieniem.",
+        "",
+        "⌜Kamień odrzucony przez budujących",
+        "stał się kamieniem węgielnym.",
+        "",
+        "⌞Oto jest dzieło Pana,",
+        "cudem jest w naszych oczach."
+      ]
+    },
+    {
+      "range": "84",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "85-97",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "85-97",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "dzień Pana",
+        "radość",
+        "zbawienie",
+        "zwycięstwo",
+        "Błogosławiony",
+        "przyjście",
+        "światłość",
+        "orszak",
+        "ołtarz",
+        "dziękczynienie",
+        "wysławienie",
+        "miłosierdzie",
+        "Mesjasz",
+        "Chrystus"
+      ],
+      "summary": "Hymn liturgiczny: 'Oto jest dzień, który Pan uczynił' – radość paschalna. Błogosławiony Ten, który idzie w imię Pana (Mesjasz). Ustawienie orszaku z gałązkami do rogów ołtarza – liturgia świąteczna. Końcowe wysławienie Pana za Jego dobroć i wieczne miłosierdzie.",
+      "bible": [
+        "Ps 118, 24-29",
+        "Mt 21, 9",
+        "Łk 19, 38"
+      ],
+      "text": [
+        "⌜Oto jest dzień, który Pan uczynił,",
+        "radujmy się w nim i weselmy!",
+        "",
+        "⌞Daj, Panie, Twoje zbawienie,",
+        "daj, Panie, Twoje zwycięstwo!",
+        "⌜Błogosławiony Ten, który idzie            w imię naszego Pana.",
+        "Błogosławimy Wam z domu Pańskiego,",
+        "⌞Pan Bóg, jest naszym światłem.",
+        "Ustawcie orszak z gałązkamizielonymi aż do rogów ołtarza.",
+        "⌞Jesteś moim Bogiem, więc Ci dzięki składam,",
+        "Jesteś moim Bogiem, wielbić pragnę Ciebie.",
+        "⌜Wysławiajcie Pana, bo jest dobry,",
+        "miłosierdzie Jego trwa na wieki."
+      ]
+    },
+    {
+      "range": "98",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "99-109",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "99-109",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śmierć",
+        "życie",
+        "ogłaszanie",
+        "dzieła Pana",
+        "zmartwychwstanie",
+        "ukaranie",
+        "ocalenie",
+        "dziękczynienie"
+      ],
+      "summary": "Końcowe powtórzenie refrenu i zwrotki – zamknięcie pieśni deklaracją życia i ocalenia przez Pana.",
+      "bible": [
+        "Ps 118, 17-18"
+      ],
+      "text": [
+        "Nie umrę, nie,",
+        "lecz będę żył",
+        "",
+        "i ogłaszał",
+        "wielkie dzieła Pana!",
+        "",
+        "Ukarał mnie.",
+        "Ukarał mnie.",
+        "",
+        "Ale mnie",
+        "na śmierć nie wydał!"
+      ]
+    },
+    {
+      "range": "1-109",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Ps 118",
+        "zmartwychwstanie",
+        "życie",
+        "śmierć",
+        "dziękczynienie",
+        "kamień węgielny",
+        "Chrystus",
+        "Pascha",
+        "radosny",
+        "Mesjasz",
+        "zwycięstwo",
+        "miłosierdzie",
+        "bramy sprawiedliwości",
+        "dzień Pana",
+        "zbawienie"
+      ],
+      "summary": "Pieśń oparta na Psalmie 118 – paschalnym psalmie dziękczynienia za wybawienie od śmierci. Centralne przesłanie: 'Nie umrę, nie, lecz będę żył i ogłaszał wielkie dzieła Pana'. Kluczowym motywem typologicznym jest kamień odrzucony przez budujących, który stał się kamieniem węgielnym – proroctwo o Chrystusie odrzuconym i wywyższonym. Pieśń przeznaczona na Liturgię Paschalną, z aklamacją 'Błogosławiony, który idzie w imię Pana' (nawiązanie do Mesjasza i Niedzieli Palmowej).",
+      "bible": [
+        "Ps 118",
+        "Mt 21, 9.42",
+        "Dz 4, 10-11",
+        "1 P 2, 6-7"
+      ]
+    }
+  ]
+}

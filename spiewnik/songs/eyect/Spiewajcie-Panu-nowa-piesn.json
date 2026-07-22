@@ -1,0 +1,130 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:f2451934eb660da800845311878a156d7d6ff5fdf41dcfcb6950b341b7ad0be5",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "Pan",
+        "nowa pieśń",
+        "uwielbienie",
+        "wezwanie"
+      ],
+      "summary": "Wezwanie do śpiewania Panu nowej pieśni – liturgiczny okrzyk radości i uwielbienia Boga.",
+      "bible": [
+        "Ps 149,1",
+        "Ps 96,1",
+        "Ps 98,1"
+      ],
+      "text": [
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie nową pieśń.",
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie nową pieśń.",
+        ""
+      ]
+    },
+    {
+      "range": "10-22",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Izrael",
+        "Stwórca",
+        "Syjon",
+        "Król",
+        "taniec",
+        "bęben",
+        "cytra",
+        "uwielbienie",
+        "radość"
+      ],
+      "summary": "Izrael i synowie Syjonu radują się swym Stwórcą i Królem, czcząc Go tańcem i grą na instrumentach.",
+      "bible": [
+        "Ps 149,2-3",
+        "Ps 150,3-5"
+      ],
+      "text": [
+        "Niech się Izrael cieszy swoim Stwórcą,",
+        "a synowie Syjonu radują swym Królem.",
+        "Niech imię Jego czczą tańcem,",
+        "niech grają Mu na bębnie i cytrze.",
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie nową pieśń.",
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie nową pieśń.",
+        ""
+      ]
+    },
+    {
+      "range": "23-34",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "lud",
+        "miłość",
+        "pokorni",
+        "zwycięstwo",
+        "święci",
+        "chwała",
+        "uczta niebieska"
+      ],
+      "summary": "Pan miłuje swój lud, wieńczy pokornych zwycięstwem; święci weselą się w chwale przy uczcie niebieskiej.",
+      "bible": [
+        "Ps 149,4-5",
+        "Ap 19,6-9"
+      ],
+      "text": [
+        "Bo Pan swój lud miłuje,",
+        "pokornych wieńczy zwycięstwem.",
+        "Niech święci się cieszą w chwale,",
+        "niech się weselą przy uczcie niebieskiej.",
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie nową pieśń.",
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie Panu pieśń.",
+        "Śpiewajcie nową pieśń."
+      ]
+    },
+    {
+      "range": "1-34",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "nowa pieśń",
+        "Izrael",
+        "Syjon",
+        "Król",
+        "miłość",
+        "pokorni",
+        "zwycięstwo",
+        "uczta niebieska",
+        "chwała",
+        "radość",
+        "Stwórca"
+      ],
+      "summary": "Parafraza Psalmu 149 – radosny hymn liturgiczny wzywający Izrael do uwielbienia Boga śpiewem, tańcem i muzyką, z zapowiedzią mesjańskiego zwycięstwa i uczty niebieskiej.",
+      "bible": [
+        "Ps 149,1-5",
+        "Ps 96,1",
+        "Ap 19,6-9"
+      ]
+    }
+  ]
+}

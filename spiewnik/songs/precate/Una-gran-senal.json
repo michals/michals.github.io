@@ -1,0 +1,185 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:b2df12a57418acd1656c44896656144298a1d11f01c1486df12c555a7bc92fa9",
+  "songs_analysis": [
+    {
+      "range": "1-13",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "znak",
+        "niebo",
+        "Niewiasta",
+        "słońce",
+        "księżyc",
+        "gwiazdy",
+        "korona",
+        "brzemienna",
+        "bóle",
+        "rodzenie"
+      ],
+      "summary": "Dwujęzyczny (polsko-hiszpański) opis wielkiego znaku na niebie: Niewiasta obleczona w słońce, z księżycem pod stopami i koroną z gwiazd dwunastu, cierpiąca bóle rodzenia.",
+      "bible": [
+        "Ap 12, 1-2"
+      ],
+      "text": [
+        "Potem wielki znak ukazał się na niebie,",
+        "Niewiasta, Niewiasta obleczona w słońce",
+        "i księżyc pod jej stopami,",
+        "i korona z gwiazd dwunastu;",
+        "jest brzemienna i woła,",
+        "cierpiąc bóle i męki rodzenia.",
+        "Una gran señal apareció en el cielo:",
+        "una mujer, una mujer vestida del sol,",
+        "con la luna bajo sus pies,",
+        "y una corona de doce estrellas;",
+        "está encinta, y grita",
+        "con los tormentos de dar a luz",
+        ""
+      ]
+    },
+    {
+      "range": "14-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Smok",
+        "czerwony",
+        "siedem głów",
+        "dziesięć rogów",
+        "Niewiasta",
+        "Syn",
+        "Mężczyzna",
+        "narody",
+        "tron",
+        "znak",
+        "niebo"
+      ],
+      "summary": "Ukazanie się wielkiego Smoka czekającego, by pożreć Syna; Niewiasta rodzi Syna-Mężczyznę, który ma rządzić narodami i zostaje porwany do Boga.",
+      "bible": [
+        "Ap 12, 3-5",
+        "Rdz 3, 15"
+      ],
+      "text": [
+        "I inny znak się ukazał na niebie:",
+        "oto wielki Smok czerwony,",
+        "co siedem głów ma i dziesięć rogów.",
+        "I stanął Smok przed Niewiastą,",
+        "Niewiastą, która miała porodzić,",
+        "aby pożreć jej Syna, gdy się narodzi.",
+        "I Niewiasta porodziła Syna - Mężczyznę,",
+        "który ma rządzić narodami ziemi;",
+        "i jej Syn został porwany do Boga i do Jego tronu.",
+        "Potem wielki znak ukazał się na niebie …",
+        ""
+      ]
+    },
+    {
+      "range": "25-36",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "wojna",
+        "niebo",
+        "Michał",
+        "aniołowie",
+        "Smok",
+        "Wąż",
+        "diabeł",
+        "szatan",
+        "zwodziciel",
+        "ziemia",
+        "znak"
+      ],
+      "summary": "Walka Michała i aniołów przeciw Smokowi – strącenie Węża starodawnego, zwanego diabłem i szatanem, wraz z jego aniołami.",
+      "bible": [
+        "Ap 12, 7-9",
+        "Dn 10, 13-21",
+        "Dn 12, 1"
+      ],
+      "text": [
+        "I nastąpiła wojna na niebie,",
+        "Michał i jego aniołowie walczyli przeciw Smokowi,",
+        "wielkiemu Smokowi.",
+        "Także Smok i jego aniołowie stoczyli wojnę,",
+        "ale nie, nie przemogli,",
+        "i już się miejsce dla nich w niebie nie znalazło.",
+        "I został strącony Smok, wielki Smok,",
+        "Wąż starodawny, nazwany diabłem",
+        "i szatanem, zwodziciel całej ziemi,",
+        "został strącony na ziemię a z nim jego aniołowie.",
+        "Potem wielki znak ukazał się na niebie …",
+        ""
+      ]
+    },
+    {
+      "range": "37-48",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Smok",
+        "Niewiasta",
+        "skrzydła orła",
+        "pustynia",
+        "żywienie",
+        "wojna",
+        "potomstwo",
+        "przykazania",
+        "świadectwo Jezusa"
+      ],
+      "summary": "Smok ściga Niewiastę, która otrzymuje skrzydła orła i ucieka na pustynię; Smok zwalcza resztę jej potomstwa – wiernych strzegących przykazań Boga.",
+      "bible": [
+        "Ap 12, 13-17",
+        "Dn 7, 25",
+        "Dn 12, 7"
+      ],
+      "text": [
+        "Kiedy Smok ujrzał, że został",
+        "strącony na ziemię, począł ścigać Niewiastę,",
+        "która porodziła Syna - Mężczyznę.",
+        "Ale dano Niewieście dwa skrzydła orła wielkiego,",
+        "by leciała na pustynię, gdzie ma być żywiona",
+        "przez czas, dwa czasy i połowę czasu.",
+        "Wówczas, rozgniewany na Niewiastę,",
+        "wielki Smok, udał się na wojnę",
+        "przeciwko reszcie jej potomstwa:",
+        "tym, którzy strzegą przykazań Boga",
+        "i zachowują świadectwo Jezusa.",
+        "La la la, la la, la la …"
+      ]
+    },
+    {
+      "range": "1-48",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "znak",
+        "niebo",
+        "Niewiasta",
+        "słońce",
+        "Smok",
+        "czerwony",
+        "Syn",
+        "Mężczyzna",
+        "Michał",
+        "aniołowie",
+        "wojna",
+        "szatan",
+        "zwodziciel",
+        "skrzydła orła",
+        "pustynia",
+        "potomstwo",
+        "przykazania",
+        "świadectwo Jezusa",
+        "zwycięstwo"
+      ],
+      "summary": "Adaptacja Apokalipsy 12 – wizja Niewiasty obleczonej w słońce (Maryi i Kościoła), walki Michała Archanioła ze Smokiem i ostatecznego zwycięstwa Boga nad szatanem. Dwujęzyczna pieśń o kobiecej figurze zbawienia, która w typologii wypełnia protoewangelię (Rdz 3, 15).",
+      "bible": [
+        "Ap 12",
+        "Rdz 3, 15",
+        "Dn 10, 13-21",
+        "Dn 12, 1-7"
+      ]
+    }
+  ]
+}

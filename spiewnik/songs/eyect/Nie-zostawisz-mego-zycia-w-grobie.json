@@ -1,0 +1,222 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:7989448740c53edb836a6da62a8bb6d4667f1b85050e948d51f52bbd9d2f5076",
+  "songs_analysis": [
+    {
+      "range": "1-2",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "życie",
+        "grób",
+        "rozkład",
+        "Bóg",
+        "zmartwychwstanie",
+        "ocalenie",
+        "ufność"
+      ],
+      "summary": "Refren wyrażający ufność, że Bóg nie zostawi życia w grobie ani nie pozwoli na rozkład – zapowiedź zmartwychwstania.",
+      "bible": [
+        "Ps 16,10",
+        "Dz 2,27",
+        "Dz 13,35"
+      ],
+      "text": [
+        "Nie zostawisz mego życia w grobie,",
+        "nie pozwolisz, bym uległ rozkładowi."
+      ]
+    },
+    {
+      "range": "3-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Panie",
+        "cząstka",
+        "dziedzictwo",
+        "ręka",
+        "życie",
+        "oczy",
+        "prawica",
+        "zachwiać",
+        "ufność",
+        "Bóg",
+        "opieka"
+      ],
+      "summary": "Wyznanie ufności: Pan jest cząstką dziedzictwa, życie jest w Jego rękach. Stawianie Pana przed oczyma daje pewność, że nie można się zachwiać.",
+      "bible": [
+        "Ps 16,5-6",
+        "Ps 16,8",
+        "Dz 2,25"
+      ],
+      "text": [
+        "Panie, cząstko mego dziedzictwa,",
+        "w Twych rękach jest me życie.",
+        "Zawsze stawiam sobie przed oczy Pana;",
+        "stoi po mojej prawicy, nie mogę się zachwiać."
+      ]
+    },
+    {
+      "range": "7-8",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "życie",
+        "grób",
+        "rozkład",
+        "Bóg",
+        "zmartwychwstanie",
+        "ufność"
+      ],
+      "summary": "Refren wyrażający ufność, że Bóg nie zostawi życia w grobie ani nie pozwoli na rozkład – zapowiedź zmartwychwstania.",
+      "bible": [
+        "Ps 16,10",
+        "Dz 2,27",
+        "Dz 13,35"
+      ],
+      "text": [
+        "Nie zostawisz mego życia w grobie,",
+        "nie pozwolisz, bym uległ rozkładowi."
+      ]
+    },
+    {
+      "range": "9-12",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "serce",
+        "weselić",
+        "dusza",
+        "radość",
+        "ciało",
+        "spoczywać",
+        "bezpieczeństwo",
+        "życie",
+        "grób",
+        "ufność",
+        "Bóg"
+      ],
+      "summary": "Radość serca i duszy z powodu bezpieczeństwa w Bogu – ciało spoczywa bezpiecznie, bo Bóg nie pozostawi życia w grobie. Wyraz ufności w zmartwychwstanie.",
+      "bible": [
+        "Ps 16,9-10",
+        "Dz 2,26-27"
+      ],
+      "text": [
+        "Z tego weseli się me serce,",
+        "raduje się moja dusza,",
+        "również ciało moje spoczywa bezpiecznie,",
+        "bo nie pozostawisz życia mego w grobie."
+      ]
+    },
+    {
+      "range": "13-14",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "życie",
+        "grób",
+        "rozkład",
+        "Bóg",
+        "zmartwychwstanie",
+        "ufność"
+      ],
+      "summary": "Refren wyrażający ufność, że Bóg nie zostawi życia w grobie ani nie pozwoli na rozkład – zapowiedź zmartwychwstania.",
+      "bible": [
+        "Ps 16,10",
+        "Dz 2,27",
+        "Dz 13,35"
+      ],
+      "text": [
+        "Nie zostawisz mego życia w grobie,",
+        "nie pozwolisz, bym uległ rozkładowi."
+      ]
+    },
+    {
+      "range": "15-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ścieżka",
+        "życie",
+        "obecność",
+        "pełnia",
+        "radość",
+        "prawica",
+        "słodycz",
+        "Bóg",
+        "wieczność",
+        "szczęście"
+      ],
+      "summary": "Bóg ukazuje ścieżkę życia, w Jego obecności czeka pełnia radości, a po Jego prawicy słodycz bez końca. Obraz eschatologicznej nagrody i wiecznej szczęśliwości.",
+      "bible": [
+        "Ps 16,11",
+        "Dz 2,28"
+      ],
+      "text": [
+        "Ukażesz mi ścieżkę życia,",
+        "w Twej obecności czeka mnie pełnia radości.",
+        "Ukażesz mi ścieżkę życia,",
+        "po Twojej prawicy słodycz bez końca."
+      ]
+    },
+    {
+      "range": "19-20",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "życie",
+        "grób",
+        "rozkład",
+        "Bóg",
+        "zmartwychwstanie",
+        "ufność"
+      ],
+      "summary": "Końcowe powtórzenie refrenu jako wyraz ostatecznej ufności w zmartwychwstanie.",
+      "bible": [
+        "Ps 16,10",
+        "Dz 2,27",
+        "Dz 13,35"
+      ],
+      "text": [
+        "Ponieważ nie zostawisz mego życia w grobie,",
+        "nie pozwolisz, bym uległ rozkładowi."
+      ]
+    },
+    {
+      "range": "1-20",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "życie",
+        "grób",
+        "rozkład",
+        "Bóg",
+        "zmartwychwstanie",
+        "ufność",
+        "Panie",
+        "dziedzictwo",
+        "ręka",
+        "serce",
+        "dusza",
+        "radość",
+        "ciało",
+        "bezpieczeństwo",
+        "ścieżka",
+        "życie",
+        "obecność",
+        "pełnia",
+        "prawica",
+        "słodycz",
+        "Psalm 16",
+        "Dawid",
+        "Piotr"
+      ],
+      "summary": "Parafraza Psalmu 16 wyrażająca głęboką ufność w Bożą opiekę i nadzieję zmartwychwstania. Bóg jest cząstką dziedzictwa, nie zostawi życia w grobie ani nie pozwoli na rozkład. Pieśń ma charakter paschalny – cytowana w Dziejach Apostolskich jako proroctwo o zmartwychwstaniu Chrystusa (Dz 2,27; 13,35).",
+      "bible": [
+        "Ps 16,1-11",
+        "Dz 2,25-28",
+        "Dz 13,35"
+      ]
+    }
+  ]
+}

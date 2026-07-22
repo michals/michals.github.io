@@ -1,0 +1,248 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:7fc21e3d0ae3b81d78f37bb97e8afec39165bb16b68cef9300b1d1e699e48d57",
+  "songs_analysis": [
+    {
+      "range": "1-14",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Matka",
+        "krzyż",
+        "łzy",
+        "Syn",
+        "Jezus",
+        "miecz",
+        "ból",
+        "Męka",
+        "grzech",
+        "Stabat Mater"
+      ],
+      "summary": "Łaciński incipit i polskie strofy: Bolejąca Matka stoi pod krzyżem, w jej duszy tkwi miecz boleści – wypełnienie proroctwa Symeona.",
+      "bible": [
+        "J 19,25-27",
+        "Łk 2,34-35"
+      ],
+      "text": [
+        "Stabat Mater dolorosa",
+        "iuxta crucem lacrimosa",
+        "dum pendebat Fílius.",
+        "",
+        "Bolejąca Matka stała",
+        "U stóp krzyża, we łzach cała,",
+        "Kiedy na nim zawisł Syn",
+        "",
+        "A w Jej pełnym jęku duszy",
+        "Od męczarni i katuszy",
+        "Tkwił miecz ostry naszych win.",
+        "",
+        "Stabat Mater dolorosa …",
+        ""
+      ]
+    },
+    {
+      "range": "15-24",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "smutek",
+        "strapienie",
+        "Błogosławiona",
+        "Bóg",
+        "narodzenie",
+        "cierpienie",
+        "Dziecię",
+        "śmierć",
+        "trwoga"
+      ],
+      "summary": "Maryja Błogosławiona, smutna i strapiona, widzi swoje Dziecię w trwodze śmierci – macierzyńskie współcierpienie z Synem.",
+      "bible": [
+        "Łk 2,34-35",
+        "J 19,25-27"
+      ],
+      "text": [
+        "Jakże smutna i strapiona",
+        "Była ta Błogosławiona,",
+        "Z której się narodził Bóg",
+        "",
+        "Jak cierpiała i bolała.",
+        "Jakże drżała, gdy widziała",
+        "Dziecię swe wśród śmierci trwóg.",
+        "",
+        "Stabat Mater dolorosa …",
+        ""
+      ]
+    },
+    {
+      "range": "25-34",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "człowiek",
+        "płacz",
+        "męka",
+        "rozpacz",
+        "Matka",
+        "Bóg",
+        "żal",
+        "Syn",
+        "smutek",
+        "cierpienie"
+      ],
+      "summary": "Retoryczne wezwanie: który człowiek nie zapłacze, widząc mękę Matki Bożej i Jej cierpienie z Synem – zachęta do współczucia.",
+      "bible": [
+        "Łk 23,27-31"
+      ],
+      "text": [
+        "Któryż człowiek nie zapłacze,",
+        "Widząc męki i rozpacze",
+        "Matki Bożej w żalu tym?",
+        "",
+        "Któż od smutku się powstrzyma,",
+        "Mając Matkę przed oczyma,",
+        "Która cierpi z Synem swym?",
+        "",
+        "Stabat Mater dolorosa …",
+        ""
+      ]
+    },
+    {
+      "range": "35-44",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "ludzkie winy",
+        "Syn",
+        "Jezus",
+        "bat",
+        "męka",
+        "samotność",
+        "śmierć",
+        "krzyż",
+        "świat",
+        "życie"
+      ],
+      "summary": "Maryja widzi Jezusa cierpiącego za ludzkie grzechy, konającego samotnie na krzyżu, dającego życie za świat.",
+      "bible": [
+        "Iz 53,4-6",
+        "J 19,16-30",
+        "1 J 2,2"
+      ],
+      "text": [
+        "Widzi, jak za ludzkie winy",
+        "Znosi męki Syn jedyny,",
+        "Jezus, jak Go smaga bat.",
+        "",
+        "Widzi, jak samotnie kona",
+        "Owoc Jej czystego łona,",
+        "Dając życie za ten świat.",
+        "",
+        "Stabat Mater dolorosa …",
+        ""
+      ]
+    },
+    {
+      "range": "45-81",
+      "type": "zakończenie",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Matka",
+        "miłość",
+        "cierpienie",
+        "serce",
+        "Chrystus",
+        "rany",
+        "krzyż",
+        "krew",
+        "Panna",
+        "obrona",
+        "sąd",
+        "śmierć",
+        "raj",
+        "Amen",
+        "dusza",
+        "odkupienie"
+      ],
+      "summary": "Modlitwa wiernego: prośba o współuczestnictwo w męce Chrystusa i cierpieniu Maryi, o obronę w dniu sądu, o łaskę dobrej śmierci i wieczny raj.",
+      "bible": [
+        "Rz 6,3-11",
+        "Ga 6,17",
+        "2 Tm 4,6-8",
+        "Ap 7,13-17"
+      ],
+      "text": [
+        "Matko, coś miłości zdrojem.",
+        "Przejmij mnie cierpieniem swoim,",
+        "Abym boleć z Tobą mógł.",
+        "Niechaj serce moje pała,",
+        "By radością mą się stała",
+        "Miłość, którą Chrystus Bóg.",
+        "Matko święta, srogie rany,",
+        "Które zniósł Ukrzyżowany,",
+        "Wyryj mocno w duszy mej.",
+        "Męką Syna rodzonego,",
+        "Co dla dobra cierpiał mego,",
+        "Ze mną się podzielić chciej.",
+        "Pragnę płakać w Twym pobliżu,",
+        "Cierpiąc z Tym, co zmarł na krzyżu,",
+        "Po mojego życia kres.",
+        "Chcę pod krzyżem stać przy Tobie,",
+        "Z Tobą łączyć się w żałobie",
+        "I wylewać zdroje łez.",
+        "Panno czysta nad pannami,",
+        "Niechaj dobroć Twoja da mi",
+        "Płakać z żalu z Tobą współ.",
+        "Bym z Chrystusem konał razem,",
+        "Męki Jego był obrazem.",
+        "Rany Jego w sobie czuł.",
+        "Niech mnie do krwi rani zgraja,",
+        "Niech mnie męki krzyż upaja",
+        "I Twojego Syna krew.",
+        "W ogniu, Panno, niech nie płonę,",
+        "Więc mnie w swoją weź obronę,",
+        "Gdy nadejdzie sądu gniew.",
+        "Gdy kres dni przede mną stanie,",
+        "Przez Twą Matkę dojść mi, Panie,",
+        "Do zwycięstwa palmy daj.",
+        "Kiedy umrze moje ciało,",
+        "Niechaj duszę mą z swą chwałą",
+        "Czeka Twój wieczysty raj.",
+        "Amen, amen, amen!"
+      ]
+    },
+    {
+      "range": "1-81",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Matka",
+        "krzyż",
+        "Syn",
+        "Jezus",
+        "cierpienie",
+        "męka",
+        "śmierć",
+        "boleść",
+        "odkupienie",
+        "modlitwa",
+        "sąd",
+        "raj",
+        "Stabat Mater",
+        "Panna",
+        "krew",
+        "zbawienie"
+      ],
+      "summary": "Stabat Mater Dolorosa – średniowieczna sekwencja o Bolejącej Matce stojącej pod krzyżem, łącząca narrację męki Pańskiej z osobistą modlitwą o współuczestnictwo w odkupieńczym cierpieniu Chrystusa i Maryi oraz o zbawienie wieczne.",
+      "bible": [
+        "J 19,25-27",
+        "Łk 2,34-35",
+        "Łk 23,27-31",
+        "J 19,16-30",
+        "Iz 53,4-6",
+        "Rz 6,3-11",
+        "Ga 6,17",
+        "Ap 7,13-17"
+      ]
+    }
+  ]
+}

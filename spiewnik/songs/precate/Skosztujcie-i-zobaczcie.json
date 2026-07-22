@@ -1,0 +1,185 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:7ee1f179a1840489af8d3df62cbca8d8517fdb46d441239b0f506a88fd55b328",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "skosztowanie",
+        "dobroć",
+        "Pan",
+        "doświadczenie",
+        "sakrament"
+      ],
+      "summary": "Zaproszenie do doświadczenia dobroci Pana poprzez 'skosztowanie' – wezwanie o wydźwięku eucharystycznym i egzystencjalnym.",
+      "bible": [
+        "Ps 34,9",
+        "1 P 2,3"
+      ],
+      "text": [
+        "Skosztujcie i zobaczcie,",
+        "jak dobry jest Pan.",
+        ""
+      ]
+    },
+    {
+      "range": "4-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "chwała",
+        "chluba",
+        "pokorni",
+        "wesele",
+        "usta",
+        "czas"
+      ],
+      "summary": "Psalmista będzie błogosławił Pana nieustannie, chlubiąc się Nim ku radości pokornych.",
+      "bible": [
+        "Ps 34,2-3"
+      ],
+      "text": [
+        "Błogosławić będę Pana w każdym czasie,",
+        "na moich ustach zawsze Jego chwała.",
+        "Będę chlubił się w Panu,",
+        "niech mnie słyszą pokorni i weselą się.",
+        ""
+      ]
+    },
+    {
+      "range": "9-11",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "skosztowanie",
+        "dobroć",
+        "Pan"
+      ],
+      "summary": "Powtórzone zaproszenie do doświadczenia dobroci Pana.",
+      "bible": [
+        "Ps 34,9"
+      ],
+      "text": [
+        "Skosztujcie i zobaczcie,",
+        "jak dobry jest Pan.",
+        ""
+      ]
+    },
+    {
+      "range": "12-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "uwielbienie",
+        "wysławianie",
+        "szukanie",
+        "odpowiedź",
+        "trwoga",
+        "uwolnienie",
+        "modlitwa"
+      ],
+      "summary": "Wspólne uwielbienie Pana; psalmista szukał Boga, który odpowiedział i uwolnił go od trwogi.",
+      "bible": [
+        "Ps 34,4-5"
+      ],
+      "text": [
+        "Uwielbiajcie ze mną Pana,",
+        "wysławiajmy razem Jego imię.",
+        "Szukałem Pana i mi odpowiedział,",
+        "i od wszelkiej trwogi mnie uwolnił.",
+        ""
+      ]
+    },
+    {
+      "range": "17-19",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "skosztowanie",
+        "dobroć",
+        "Pan"
+      ],
+      "summary": "Powtórzone zaproszenie do doświadczenia dobroci Pana.",
+      "bible": [
+        "Ps 34,9"
+      ],
+      "text": [
+        "Skosztujcie i zobaczcie,",
+        "jak dobry jest Pan.",
+        ""
+      ]
+    },
+    {
+      "range": "20-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "patrzenie",
+        "promieniowanie",
+        "wstyd",
+        "biedak",
+        "wołanie",
+        "wysłuchanie",
+        "wybawienie",
+        "ucisk"
+      ],
+      "summary": "Ci którzy patrzą na Pana, promienieją radością; Bóg wysłuchuje wołania biedaka i wybawia go z ucisków.",
+      "bible": [
+        "Ps 34,6-7",
+        "Łk 18,35-43"
+      ],
+      "text": [
+        "Patrzcie na Niego, a rozpromienicie się",
+        "i oblicza wasze nie zaznają wstydu.",
+        "Oto biedak woła, a Pan go wysłuchuje",
+        "i wybawia go ze wszystkich jego ucisków.",
+        ""
+      ]
+    },
+    {
+      "range": "25-26",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "skosztowanie",
+        "dobroć",
+        "Pan"
+      ],
+      "summary": "Końcowe zaproszenie do doświadczenia dobroci Pana.",
+      "bible": [
+        "Ps 34,9"
+      ],
+      "text": [
+        "Skosztujcie i zobaczcie,",
+        "jak dobry jest Pan."
+      ]
+    },
+    {
+      "range": "1-26",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "skosztowanie",
+        "dobroć",
+        "Pan",
+        "błogosławieństwo",
+        "uwielbienie",
+        "szukanie",
+        "trwoga",
+        "uwolnienie",
+        "biedak",
+        "wybawienie",
+        "ucisk",
+        "promieniowanie"
+      ],
+      "summary": "Psalm 34 (ww. 2-7.9) – radosne świadectwo psalmisty o dobroci Pana, który wysłuchuje wołających, wybawia z trwogi i ucisków; refreniczne zaproszenie 'Skosztujcie i zobaczcie' nabiera eucharystycznej głębi w perspektywie Nowego Testamentu.",
+      "bible": [
+        "Ps 34,2-7.9",
+        "1 P 2,3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:c5fb7153910436cd79c6724cdd60001e657ac2123fa9fb39cd6a4e2444591df3",
+  "songs_analysis": [
+    {
+      "range": "1",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "1",
+      "bible": [],
+      "text": [
+        "Pocieszajcie mój lud,"
+      ]
+    },
+    {
+      "range": "1-8",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "pocieszać",
+        "lud",
+        "serce",
+        "Jerozolima",
+        "wołać",
+        "skończony",
+        "niewola",
+        "wyzwolenie",
+        "odkupienie"
+      ],
+      "summary": "Bóg wzywa proroków do pocieszania Jerozolimy: jej niewola się skończyła. Podwójne wezwanie wzmacnia radosną pewność wyzwolenia.",
+      "bible": [
+        "Iz 40, 1-2",
+        "Iz 52, 9-10",
+        "Iz 61, 1-3",
+        "Łk 4, 18-19"
+      ],
+      "text": [
+        "Pocieszajcie mój lud,",
+        "mówcie do serca Jerozolimy",
+        "i wołajcie, że skończona",
+        "niewola jej.",
+        "Pocieszajcie mój lud,",
+        "mówcie do serca Jerozolimy",
+        "i wołajcie, że skończona",
+        "niewola jej."
+      ]
+    },
+    {
+      "range": "9-14",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "głos",
+        "pustynia",
+        "wołać",
+        "ścieżka",
+        "droga",
+        "wyrównać",
+        "Pan",
+        "przychodzić",
+        "moc",
+        "nagroda",
+        "przygotowanie"
+      ],
+      "summary": "Głos na pustyni wzywa do przygotowania drogi Panu, który przychodzi z wielką mocą i przynosi nagrodę — zapowiedź Jana Chrzciciela torującego drogę Mesjaszowi.",
+      "bible": [
+        "Iz 40, 3",
+        "Iz 40, 10",
+        "Mt 3, 1-3",
+        "Mk 1, 2-3",
+        "Łk 3, 4-6",
+        "J 1, 23",
+        "Iz 62, 11"
+      ],
+      "text": [
+        "Oe! woła głos na pustyni,",
+        "głos woła:",
+        "przygotujcie ścieżkę Panu,",
+        "wyrównajcie drogę Mu.",
+        "Albowiem Pan przychodzi z wielką mocą,",
+        "On nagrodę z Sobą przynosi."
+      ]
+    },
+    {
+      "range": "15-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pasterz",
+        "trzoda",
+        "jagnię",
+        "nosić",
+        "pierś",
+        "prowadzić",
+        "matka",
+        "ramię",
+        "dźwigać",
+        "owieczka",
+        "zbłąkany",
+        "łagodność",
+        "troska"
+      ],
+      "summary": "Potrójny obraz Dobrego Pasterza: gromadzi trzodę, nosi jagnięta na piersi, łagodnie prowadzi matki, dźwiga zbłąkaną owieczkę na ramionach.",
+      "bible": [
+        "Iz 40, 11",
+        "Ez 34, 11-16",
+        "J 10, 11-16",
+        "Łk 15, 4-7",
+        "Ps 23, 1-4",
+        "Iz 49, 22",
+        "Ap 7, 17"
+      ],
+      "text": [
+        "Jak dobry pasterz gromadzi trzodę,",
+        "nosi jagnięta na piersi.",
+        "Jak dobry pasterz łagodnie prowadzi",
+        "matki z jagniętami.",
+        "Jak dobry pasterz na ramionach dźwiga",
+        "owieczkę zbłąkaną."
+      ]
+    },
+    {
+      "range": "21-24",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "pocieszać",
+        "lud",
+        "serce",
+        "Jerozolima",
+        "wołać",
+        "skończony",
+        "niewola",
+        "wyzwolenie"
+      ],
+      "summary": "Końcowe powtórzenie refrenu: afirmacja Bożego pocieszenia i zapowiedź pełnego wyzwolenia.",
+      "bible": [
+        "Iz 40, 1-2"
+      ],
+      "text": [
+        "Pocieszajcie mój lud,",
+        "mówcie do serca Jerozolimy",
+        "i wołajcie, że skończona",
+        "niewola jej."
+      ]
+    },
+    {
+      "range": "1-24",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "pocieszenie",
+        "lud",
+        "Jerozolima",
+        "niewola",
+        "wyzwolenie",
+        "pustynia",
+        "głos",
+        "droga",
+        "Pan",
+        "moc",
+        "pasterz",
+        "trzoda",
+        "jagnię",
+        "zbłąkany",
+        "nagroda",
+        "Adwent",
+        "Mesjasz"
+      ],
+      "summary": "Parafraza Iz 40, 1-3.10-11 z refrenem 'Pocieszajcie mój lud' — najpiękniejszego z pocieszeń Starego Testamentu. Pieśń adwentowa łączy zapowiedź końca niewoli babilońskiej z typologicznym oczekiwaniem na Mesjasza: głos na pustyni (Jan Chrzciciel) toruje drogę Panu, Dobry Pasterz gromadzi, niesie i prowadzi swoją trzodę. Izajaszowy obraz Pasterza niosącego jagnięta na piersi jest zapowiedzią Chrystusa Dobrego Pasterza (J 10), który szuka zagubionej owcy (Łk 15) i karmi swój lud w Eucharystii. Głos na pustyni wypełnia się w Janie Chrzcicielu przygotowującym drogę Jezusowi.",
+      "bible": [
+        "Iz 40, 1-3",
+        "Iz 40, 10-11",
+        "Mt 3, 1-3",
+        "Mk 1, 2-3",
+        "Łk 3, 4-6",
+        "J 1, 23",
+        "J 10, 11-16",
+        "Ez 34, 11-16",
+        "Łk 15, 4-7",
+        "Iz 52, 9-10",
+        "Ap 7, 17",
+        "Ps 23, 1-4"
+      ]
+    }
+  ]
+}

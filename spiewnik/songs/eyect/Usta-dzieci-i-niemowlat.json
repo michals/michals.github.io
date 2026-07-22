@@ -1,0 +1,152 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:fb96eee95c1adb126ed18a977f83aeb5dd215195e0ba243a8c69d46e87d04bd2",
+  "songs_analysis": [
+    {
+      "range": "1-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dzieci",
+        "niemowlęta",
+        "chwała",
+        "Bóg",
+        "wróg",
+        "niebo",
+        "księżyc",
+        "gwiazdy",
+        "człowiek",
+        "anioł",
+        "godność",
+        "władza",
+        "stworzenie"
+      ],
+      "summary": "Usta dzieci i niemowląt oddają chwałę Bogu na przekór wrogom. Człowiek, choć mały wobec ogromu nieba, został uczyniony niewiele mniejszym od aniołów, uwieńczony chwałą i władcą nad dziełami rąk Bożych.",
+      "bible": [
+        "Ps 8,2-7",
+        "Mt 21,16",
+        "Hbr 2,6-8"
+      ],
+      "text": [
+        "Usta dzieci i niemowląt chwałę Ci oddają",
+        "na przekór Twoim wrogom.",
+        "Gdy patrzę na niebo, dzieło palców Twoich,",
+        "księżyc i gwiazdy, któreś Ty utwierdził na niebie:",
+        "Czymże jest człowiek, że pamiętasz o nim,",
+        "czym syn człowieczy, że się nim zajmujesz?",
+        "Uczyniłeś go niewiele mniejszym od aniołów,",
+        "uwieńczyłeś go chwałą i godnością.",
+        "Obdarzyłeś go władzą nad rąk Twych dziełami,",
+        "wszystko złożyłeś pod jego stopy."
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "niebo",
+        "dzieło",
+        "palce",
+        "Bóg",
+        "księżyc",
+        "gwiazdy",
+        "człowiek",
+        "pamięć",
+        "syn człowieczy",
+        "zdziwienie"
+      ],
+      "summary": "Refren kontemplacyjny: zachwyt nad niebem jako dziełem palców Bożych i zdumienie, że Bóg pamięta o człowieku i troszczy się o niego.",
+      "bible": [
+        "Ps 8,4-5"
+      ],
+      "text": [
+        "Gdy patrzę na niebo, dzieło palców Twoich,",
+        "księżyc i gwiazdy, któreś Ty utwierdził na niebie:",
+        "Czymże jest człowiek, że pamiętasz o nim,",
+        "czym syn człowieczy, że się nim zajmujesz?"
+      ]
+    },
+    {
+      "range": "15-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "trzody",
+        "zwierzęta",
+        "ptactwo",
+        "ryby",
+        "morze",
+        "władza",
+        "Pan",
+        "Bóg",
+        "imię",
+        "wielkość"
+      ],
+      "summary": "Wszystkie stworzenia – trzody, zwierzęta, ptactwo i ryby – zostały poddane pod stopy człowieka, a całość wieńczy aklamacja: Panie, jak wielkie jest Twe imię.",
+      "bible": [
+        "Ps 8,7-10",
+        "Rdz 1,26-28",
+        "Hbr 2,8"
+      ],
+      "text": [
+        "Wszystkie trzody i zwierzęta ziemi,",
+        "ptactwo w powietrzu i ryby w morzu,",
+        "wszystko, co tajemne szlaki wód przemierza.",
+        "Panie, nasz Boże, jak wielkie jest Twe imię."
+      ]
+    },
+    {
+      "range": "19-22",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "niebo",
+        "dzieło",
+        "człowiek",
+        "pamięć",
+        "Bóg",
+        "zdziwienie",
+        "refren"
+      ],
+      "summary": "Powtórzenie refrenu jako zakończenia: kontemplacyjne zdumienie nad majestatem stworzenia i Bożą pamięcią o człowieku.",
+      "bible": [
+        "Ps 8,4-5"
+      ],
+      "text": [
+        "Gdy patrzę na niebo, dzieło palców Twoich,",
+        "księżyc i gwiazdy, któreś Ty utwierdził na niebie:",
+        "Czymże jest człowiek, że pamiętasz o nim,",
+        "czym syn człowieczy, że się nim zajmujesz?"
+      ]
+    },
+    {
+      "range": "1-22",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "człowiek",
+        "godność",
+        "władza",
+        "stworzenie",
+        "niebo",
+        "anioł",
+        "dzieci",
+        "niemowlęta",
+        "imię",
+        "wielkość",
+        "królestwo",
+        "chwała"
+      ],
+      "summary": "Parafraza Psalmu 8 – hymn kosmiczny o godności człowieka w porządku stworzenia. Bóg objawia swoją chwałę przez usta dzieci i niemowląt. Człowiek, choć mały wobec ogromu wszechświata, został przez Boga wywyższony, uwieńczony chwałą i postawiony jako władca nad całym stworzeniem, co znajduje ostateczne wypełnienie w Jezusie Chrystusie – nowym Adamie.",
+      "bible": [
+        "Ps 8,1-10",
+        "Rdz 1,26-28",
+        "Hbr 2,6-9",
+        "Mt 21,16",
+        "1 Kor 15,27"
+      ]
+    }
+  ]
+}

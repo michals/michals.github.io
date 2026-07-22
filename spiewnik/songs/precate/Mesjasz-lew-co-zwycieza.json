@@ -1,0 +1,190 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a9825c6e8d8befc641f99d2c1bc5eba171d17255b3c02b1dd2f9bea96f96c11b",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Mesjasz",
+        "lew",
+        "zwycięstwo",
+        "Baranek",
+        "cierpienie",
+        "Jezus Chrystus",
+        "Pascha",
+        "ofiara",
+        "Apokalipsa",
+        "zwycięstwo przez ofiarę"
+      ],
+      "summary": "Mesjasz jako lew, który zwycięża, staje się Barankiem, aby cierpieć – paradoks zwycięstwa przez ofiarę, centralna tajemnica paschalna.",
+      "bible": [
+        "Ap 5, 5-6",
+        "Iz 53, 7",
+        "J 1, 29",
+        "1 P 1, 18-19"
+      ],
+      "text": [
+        "Mesjasz, lew, co zwycięża,",
+        "stał się Barankiem, aby cierpieć.",
+        ""
+      ]
+    },
+    {
+      "range": "4-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "drzewo",
+        "Oblubieniec",
+        "śmierć",
+        "krew",
+        "posag",
+        "Oblubienica",
+        "Dziewica",
+        "Krzyż",
+        "Kościół",
+        "Jezus Chrystus",
+        "małżeństwo mistyczne",
+        "odkupienie"
+      ],
+      "summary": "Chrystus wstępuje na drzewo krzyża, aby stać się Oblubieńcem i umrzeć, pozostawiając swoją krew jako posag dla Oblubienicy-Dziewicy (Kościoła) – teologia małżeństwa mistycznego Chrystusa i Kościoła.",
+      "bible": [
+        "Dz 5, 30",
+        "Dz 10, 39",
+        "Ef 5, 25-27",
+        "Ap 19, 7-9",
+        "Ap 21, 2"
+      ],
+      "text": [
+        "Wstąpił na drzewo, aby stać się",
+        "Oblubieńcem, żeby umrzeć.",
+        "Pozostawił swoją krew",
+        "jako posag dla swej Oblubienicy Dziewicy.",
+        ""
+      ]
+    },
+    {
+      "range": "9-11",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Mesjasz",
+        "lew",
+        "zwycięstwo",
+        "Baranek",
+        "cierpienie",
+        "Jezus Chrystus",
+        "Pascha",
+        "ofiara",
+        "Apokalipsa"
+      ],
+      "summary": "Refren ogłaszający Mesjasza jako lwa zwyciężającego przez stawanie się Barankiem cierpiącym – centralna prawda paschalna.",
+      "bible": [
+        "Ap 5, 5-6",
+        "Iz 53, 7",
+        "J 1, 29"
+      ],
+      "text": [
+        "Mesjasz, lew, co zwycięża,",
+        "stał się Barankiem aby cierpieć.",
+        ""
+      ]
+    },
+    {
+      "range": "12-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Otchłań",
+        "zagubiona owca",
+        "niebo",
+        "dom Ojca",
+        "Jezus Chrystus",
+        "zstąpienie do piekieł",
+        "zbawienie",
+        "odkupienie",
+        "dusze",
+        "pasterz"
+      ],
+      "summary": "Chrystus zstępuje do Otchłani, szukając zagubionej owcy (ludzkości), a następnie wraz z nią wstępuje do nieba i wprowadza ją do domu Ojca – teologia zstąpienia do piekieł i wybawienia sprawiedliwych Starego Testamentu.",
+      "bible": [
+        "1 P 3, 19",
+        "Ef 4, 8-10",
+        "Łk 15, 4-7",
+        "J 10, 11-16",
+        "Ps 23, 4"
+      ],
+      "text": [
+        "I zstąpił do Otchłani",
+        "szukając zagubionej owcy.",
+        "Wraz z nią wstąpił do nieba",
+        "i wprowadził ją do domu Ojca.",
+        ""
+      ]
+    },
+    {
+      "range": "17-18",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Mesjasz",
+        "lew",
+        "zwycięstwo",
+        "Baranek",
+        "cierpienie",
+        "Jezus Chrystus",
+        "Pascha",
+        "ofiara",
+        "Apokalipsa"
+      ],
+      "summary": "Refren ogłaszający Mesjasza jako lwa zwyciężającego przez stawanie się Barankiem cierpiącym – centralna prawda paschalna.",
+      "bible": [
+        "Ap 5, 5-6",
+        "Iz 53, 7",
+        "J 1, 29"
+      ],
+      "text": [
+        "Mesjasz, lew, co zwycięża,",
+        "stał się Barankiem aby cierpieć."
+      ]
+    },
+    {
+      "range": "1-18",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Mesjasz",
+        "lew",
+        "Baranek",
+        "zwycięstwo",
+        "cierpienie",
+        "Krzyż",
+        "Oblubieniec",
+        "Oblubienica",
+        "krew",
+        "posag",
+        "Otchłań",
+        "zagubiona owca",
+        "niebo",
+        "dom Ojca",
+        "Jezus Chrystus",
+        "Pascha",
+        "Kościół",
+        "Apokalipsa"
+      ],
+      "summary": "Pieśń paschalna oparta na Ap 5, 5-6, ukazująca Mesjasza jako lwa z pokolenia Judy, który zwycięża przez stawanie się Barankiem ofiarnym. Chrystus wstępuje na krzyż jako Oblubieniec, składa swoją krew jako posag dla Kościoła-Oblubienicy, zstępuje do Otchłani po zagubioną owcę i wprowadza ją do domu Ojca. Pełna teologia paschalna: śmierć, zstąpienie do piekieł, zmartwychwstanie i wniebowstąpienie.",
+      "bible": [
+        "Ap 5, 5-6",
+        "Iz 53, 7",
+        "J 1, 29",
+        "Ef 5, 25-27",
+        "1 P 3, 19",
+        "Ef 4, 8-10",
+        "Łk 15, 4-7",
+        "Ap 19, 7-9"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:31a63b76492132e06a10d411321fbc7ed0d26b6fd1293665d4fd54bef01df760",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "głos",
+        "ukochanego",
+        "nadchodzenie",
+        "góry",
+        "pagórki",
+        "skakanie",
+        "gazela",
+        "jeleń",
+        "Pnp 2",
+        "Oblubieniec",
+        "Chrystus"
+      ],
+      "summary": "Wprowadzenie Oblubieńca, który nadchodzi skacząc po górach, obrazując radosną inicjatywę Boga wychodzącego naprzeciw duszy; w interpretacji chrystologicznej: Chrystus Zmartwychwstały spieszący do Kościoła.",
+      "bible": [
+        "Pnp 2, 8-9",
+        "Iz 52, 7",
+        "Ef 5, 25-27"
+      ],
+      "text": [
+        "Głos mego ukochanego!",
+        "Oto nadchodzi,",
+        "skacząc po górach,",
+        "przeskakując pagórki.",
+        "Kochany mój podobny do gazeli,",
+        "albo do młodego jelenia,",
+        "kochany mój podobny do gazeli."
+      ]
+    },
+    {
+      "range": "8-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "mur",
+        "okno",
+        "krata",
+        "kochany",
+        "mowa",
+        "Powstań",
+        "przyjaciółka",
+        "piękna",
+        "przyjdź",
+        "Pnp 2",
+        "Chrystus",
+        "Kościół",
+        "dusza",
+        "wezwanie"
+      ],
+      "summary": "Oblubieniec zatrzymuje się za murem, patrzy przez okno i woła: Powstań i przyjdź! W teologii chrystologicznej i sakramentalnej: Chrystus zaprasza duszę/Kościół do powstania z grzechu i zjednoczenia w Komunii Świętej.",
+      "bible": [
+        "Pnp 2, 9-10",
+        "Ef 5, 14",
+        "Ap 3, 20"
+      ],
+      "text": [
+        "Oto zatrzymuje się",
+        "za naszym murem,",
+        "patrzy przez okno,",
+        "zagląda przez kratę.",
+        "Teraz mówi mój kochany,                           mówi do mnie:",
+        "Powstań, przyjaciółko moja,",
+        "powstań, moja piękna i przyjdź!",
+        "Powstań, przyjaciółko moja,",
+        "powstań, moja piękna i przyjdź!"
+      ]
+    },
+    {
+      "range": "17-22",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "zima",
+        "przeminienie",
+        "deszcz",
+        "ustanie",
+        "kwiaty",
+        "pole",
+        "śpiew",
+        "synogarlica",
+        "wiosna",
+        "Pnp 2",
+        "odnowa",
+        "zmartwychwstanie",
+        "nowe stworzenie"
+      ],
+      "summary": "Oblubieniec ogłasza koniec zimy i nadejście wiosny — symboliczny obraz przejścia od śmierci do życia, od grzechu do łaski, typologicznie zapowiadający Zmartwychwstanie i nowe stworzenie w Chrystusie.",
+      "bible": [
+        "Pnp 2, 11-12",
+        "Iz 43, 18-19",
+        "2 Kor 5, 17",
+        "Ap 21, 5"
+      ],
+      "text": [
+        "Bo oto zima już przeminęła,",
+        "deszcze ustały już i przeszły,",
+        "kwiaty pojawiły się na polach,",
+        "czas śpiewania pieśni powrócił,",
+        "głos synogarlicy już słychać,",
+        ""
+      ]
+    },
+    {
+      "range": "23-25",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "figa",
+        "owoce",
+        "winorośl",
+        "kwitnienie",
+        "woń",
+        "Powstań",
+        "przyjaciółka",
+        "piękna",
+        "przyjdź",
+        "Pnp 2",
+        "wezwanie"
+      ],
+      "summary": "Obraz kwitnącej winnicy jako znaku płodności i błogosławieństwa, po którym następuje ponowione zaproszenie do powstania i przyjścia, eucharystycznie wskazujące na wino przemienione w Krew Chrystusa.",
+      "bible": [
+        "Pnp 2, 13",
+        "J 15, 1-5",
+        "J 2, 1-11"
+      ],
+      "text": [
+        "figa wydała pierwsze owoce a winorośl kwitnąca rozsiewa woń przyjemną!",
+        "Powstań przyjaciółko moja,",
+        "powstań moja piękna i przyjdź!"
+      ]
+    },
+    {
+      "range": "26-29",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "gołąbka",
+        "szczelina skały",
+        "kryjówka",
+        "urwisko",
+        "głos",
+        "Pnp 2",
+        "dusza",
+        "modlitwa",
+        "jedność",
+        "Chrystus",
+        "Skała"
+      ],
+      "summary": "Oblubieniec woła do Oblubienicy ukrytej w szczelinach skały, prosząc o jej głos — w interpretacji patrystycznej dusza chroni się w ranach Chrystusa (Skały), a modlitwa jest odpowiedzią na Jego wezwanie.",
+      "bible": [
+        "Pnp 2, 14",
+        "Wj 33, 22",
+        "1 Kor 10, 4",
+        "J 19, 34"
+      ],
+      "text": [
+        "O gołąbko moja ukryta                   w szczelinach skały,",
+        "w kryjówkach skalnego urwiska,",
+        "daj mi twój głos usłyszeć,",
+        "daj mi go usłyszeć!"
+      ]
+    },
+    {
+      "range": "30-33",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "lis",
+        "pustoszenie",
+        "winnica",
+        "kwiecie",
+        "Pnp 2",
+        "obrona",
+        "Kościół",
+        "dusza",
+        "czystość",
+        "owoocowanie"
+      ],
+      "summary": "Wezwanie do przepędzenia lisów niszczących winnicę — symboliczne ostrzeżenie przed herezjami, grzechami i przeciwnościami zagrażającymi duszy/Kościołowi, który jest w pełnym rozkwicie łaski.",
+      "bible": [
+        "Pnp 2, 15",
+        "Ez 13, 4",
+        "Łk 13, 32"
+      ],
+      "text": [
+        "Przegońcie precz lisy,                 lisy malusieńkie,",
+        "co pustoszą winnicę,",
+        "Bo nasza winnica jest w kwieciu,",
+        "bo nasza winnica jest w kwieciu!"
+      ]
+    },
+    {
+      "range": "34-38",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ukochanego",
+        "wzajemność",
+        "wiatr wieczorny",
+        "cień",
+        "śmierć",
+        "jedność",
+        "Pnp 2",
+        "przymierze",
+        "oblubieńcza miłość",
+        "Chrystus",
+        "Kościół"
+      ],
+      "summary": "Deklaracja wzajemnej przynależności Oblubieńca i Oblubienicy — 'Mój ukochany jest dla mnie, a ja jestem dla niego' — oraz świadomość ulotności czasu i nadchodzących cieni śmierci, co w interpretacji chrystologicznej wyraża wzajemne oddanie Chrystusa i Kościoła aż po krzyż.",
+      "bible": [
+        "Pnp 2, 16-17",
+        "Pnp 6, 3",
+        "Ef 5, 25-27"
+      ],
+      "text": [
+        "Mój ukochany jest dla mnie,",
+        "a ja jestem dla niego;",
+        "nim wiatr wieczorny powieje",
+        "i wydłużą się ()cienie (wraz ze śmiercią),",
+        ""
+      ]
+    },
+    {
+      "range": "39-42",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "miły",
+        "powrót",
+        "Powstań",
+        "przyjaciółka",
+        "piękna",
+        "przyjdź",
+        "Pnp 2",
+        "eschatologia",
+        "Marana tha",
+        "Paruzja"
+      ],
+      "summary": "Błagalne wezwanie 'Mój miły, powróć!' (eschatologiczne Marana tha — Przyjdź, Panie Jezu!) zakończone ponownym zaproszeniem do powstania i przyjścia, łączące tęsknotę za Chrystusem w Eucharystii z oczekiwaniem na Jego powtórne przyjście.",
+      "bible": [
+        "Pnp 2, 17",
+        "Ap 22, 17",
+        "Ap 22, 20",
+        "1 Kor 16, 22"
+      ],
+      "text": [
+        "Mój miły, powróć, powróć!",
+        "",
+        "Powstań przyjaciółko moja,",
+        "powstań moja piękna i przyjdź!"
+      ]
+    },
+    {
+      "range": "1-42",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pnp 2",
+        "Pieśń nad pieśniami",
+        "Oblubieniec",
+        "Oblubienica",
+        "Chrystus",
+        "Kościół",
+        "dusza",
+        "miłość oblubieńcza",
+        "jedność",
+        "wiosna",
+        "zmartwychwstanie",
+        "nowe życie",
+        "eucharystia",
+        "wezwanie",
+        "Marana tha",
+        "Paruzja",
+        "Okres Wielkanocny",
+        "Komunia"
+      ],
+      "summary": "Pieśń oparta na Pnp 2, 8-17, alegorycznie interpretowana w tradycji chrześcijańskiej jako dialog między Chrystusem (Oblubieńcem) a Kościołem/duszą (Oblubienicą). Obrazy wiosny, kwitnienia i przejścia zimy symbolizują przejście śmierci do zmartwychwstania, grzechu do łaski. Stosowna na Okres Wielkanocny i Komunię jako wyraz radosnego zjednoczenia z Chrystusem w Eucharystii i eschatologicznej tęsknoty za pełnią Królestwa.",
+      "bible": [
+        "Pnp 2, 8-17",
+        "Ef 5, 25-27",
+        "Ap 19, 7-9",
+        "Ap 22, 17-20",
+        "J 15, 1-5",
+        "2 Kor 5, 17",
+        "1 Kor 16, 22"
+      ]
+    }
+  ]
+}

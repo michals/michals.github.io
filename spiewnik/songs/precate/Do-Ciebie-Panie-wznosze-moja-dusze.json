@@ -1,0 +1,152 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:292579f65b74388f6201589719898c4a5b42f1bdb292d4d7578820ad9bb34e10",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "dusza",
+        "wznoszenie",
+        "Pan",
+        "Bóg",
+        "ufność",
+        "modlitwa"
+      ],
+      "summary": "Refren: wzniesienie duszy do Pana jako wyraz ufności i oddania się Bogu.",
+      "bible": [
+        "Ps 25:1-2"
+      ],
+      "text": [
+        "Do Ciebie, Panie, wznoszę moją duszę,",
+        "do Ciebie, o mój Boże.",
+        ""
+      ]
+    },
+    {
+      "range": "4-8",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "ufność",
+        "wróg",
+        "tryumf",
+        "droga Pańska",
+        "ścieżka",
+        "nauczanie"
+      ],
+      "summary": "Prośba o zachowanie od tryumfu wrogów i o ukazanie drogi Pańskiej jako wyraz ufności pokładanej w Bogu.",
+      "bible": [
+        "Ps 25:2-5"
+      ],
+      "text": [
+        "Tobie ufam, o Panie,",
+        "niech nie tryumfują nade mną moi wrogowie.",
+        "Pokaż mi, Panie, Twoją drogę,",
+        "naucz mnie, Panie, Twojej ścieżki.",
+        ""
+      ]
+    },
+    {
+      "range": "9-11",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "dusza",
+        "wznoszenie",
+        "Pan",
+        "Bóg",
+        "ufność",
+        "modlitwa"
+      ],
+      "summary": "Powtórzenie refrenu o wzniesieniu duszy do Pana, umocnienie aktu zawierzenia.",
+      "bible": [
+        "Ps 25:1-2"
+      ],
+      "text": [
+        "Do Ciebie, Panie, wznoszę moją duszę,",
+        "do Ciebie, o mój Boże.",
+        ""
+      ]
+    },
+    {
+      "range": "12-18",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "miłość",
+        "współczucie",
+        "wieczność",
+        "grzech",
+        "miłosierdzie",
+        "przebaczenie",
+        "zanurzenie",
+        "Boże miłosierdzie"
+      ],
+      "summary": "Błaganie o miłosierdzie: prośba o pamięć Bożej miłości, odpuszczenie grzechów, dar miłosierdzia i zanurzenie w nim.",
+      "bible": [
+        "Ps 25:6-7",
+        "Ps 51:3",
+        "Łk 6:36"
+      ],
+      "text": [
+        "Wspomnij, Panie, na Twoją miłość,",
+        "na Twoje współczucie, które jest wieczne.",
+        "Moich grzechów, Panie, nie wspominaj,",
+        "pamiętaj, Panie, żeś jest Miłosierdziem.",
+        "Podaruj mi, Panie, Twoje miłosierdzie,",
+        "zanurz mnie w Twoim miłosierdziu.",
+        ""
+      ]
+    },
+    {
+      "range": "19-22",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "dusza",
+        "wznoszenie",
+        "Pan",
+        "Bóg",
+        "ufność",
+        "modlitwa",
+        "zawierzenie"
+      ],
+      "summary": "Końcowe powtórzenie refrenu z apostrofem jako wyrazem westchnienia modlitewnego. Wzniesienie duszy do Pana jako akt ostatecznego zawierzenia.",
+      "bible": [
+        "Ps 25:1-2"
+      ],
+      "text": [
+        "Do Ciebie, Panie, wznoszę moją duszę,",
+        "do Ciebie, o mój Boże.",
+        "",
+        "‘"
+      ]
+    },
+    {
+      "range": "1-22",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Psalm 25",
+        "ufność",
+        "dusza",
+        "modlitwa",
+        "miłosierdzie",
+        "przebaczenie",
+        "droga Pańska",
+        "grzech",
+        "nauczanie",
+        "miłość Boża",
+        "nawrócenie"
+      ],
+      "summary": "Psalm 25 w formie responsoryjnej. Błagalna modlitwa o miłosierdzie, przebaczenie grzechów i ukazanie drogi Pańskiej. Dusza wznosi się do Boga z ufnością w Jego wieczne miłosierdzie.",
+      "bible": [
+        "Ps 25",
+        "Ps 51:3",
+        "Łk 6:36"
+      ]
+    }
+  ]
+}

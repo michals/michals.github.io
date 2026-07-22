@@ -1,0 +1,200 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:0897ccfecd4e658ab3a48ac0e28d6778aefe826215ae6d6e1b86de12ad7e4f6d",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "stworzenie",
+        "Adam",
+        "Ewa",
+        "świat",
+        "Chrystus",
+        "życie",
+        "samotność",
+        "żona",
+        "radość"
+      ],
+      "summary": "Pierwsza noc: Bóg stwarza świat, Adama i Ewę z miłości do życia; Chrystus jako Logos jest obecny przy stworzeniu.",
+      "bible": [
+        "Rdz 1,1-31",
+        "Rdz 2,7-24",
+        "J 1,1-3",
+        "Kol 1,15-17"
+      ],
+      "text": [
+        "Podczas pierwszej nocy Pan Bóg był samotny.",
+        "Kochał bardzo życie, dlatego wszystko stworzył.",
+        "Stworzył też Adama i cały świat mu dał.",
+        "Dał mu żonę a potem radość w sercu miał.",
+        "Pan Bóg wszystko stworzył, a Chrystus już był z Nim,",
+        "Pan Bóg wszystko stworzył, a Chrystus już był z Nim.",
+        ""
+      ]
+    },
+    {
+      "range": "8-14",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "przymierze",
+        "Abraham",
+        "Izaak",
+        "obietnica",
+        "Anioł",
+        "ofiara",
+        "ojciec",
+        "zbawienie",
+        "Chrystus"
+      ],
+      "summary": "Druga noc: Bóg zawiera przymierze z Abrahamem, w Izaaku wypełnia obietnicę; ofiara Izaaka jako prefiguracja ofiary Chrystusa.",
+      "bible": [
+        "Rdz 15,1-21",
+        "Rdz 22,1-19",
+        "Hbr 11,17-19",
+        "J 8,56-58"
+      ],
+      "text": [
+        "Zawarł też przymierze z ojcem Abrahamem,",
+        "W Izaaku spełnił obietnicę daną.",
+        "Tej to drugiej nocy Anioł podniósł krzyk,",
+        "Wstrzymał ramię ojca i nie zginął nikt.",
+        "Izaak był zbawiony, a Chrystus też był z nim.",
+        "Izaak był zbawiony, a Chrystus też był z nim.",
+        ""
+      ]
+    },
+    {
+      "range": "15-21",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Egipt",
+        "faraon",
+        "niewola",
+        "Pasch",
+        "wyzwolenie",
+        "Morze Czerwone",
+        "Mojżesz",
+        "Anioł",
+        "Chrystus",
+        "lud"
+      ],
+      "summary": "Trzecia noc: Pascha i wyjście z Egiptu, przejście przez Morze Czerwone; Chrystus jest obecny przy Mojżeszu jako zapowiedź wyzwolenia z grzechu.",
+      "bible": [
+        "Wj 12,1-51",
+        "Wj 14,1-31",
+        "1 Kor 10,1-4",
+        "1 P 1,18-20"
+      ],
+      "text": [
+        "Gdy byliśmy w Egipcie, faraon nas niewolił,",
+        "Bóg urządził Paschę, z niewoli nas wyzwolił.",
+        "Tej to trzeciej nocy nad ludem Anioł stał,",
+        "Morze tych zalało, co się ich każdy bał.",
+        "Mojżesz był przywódcą, a Chrystus też był z nim.",
+        "Mojżesz był przywódcą, a Chrystus też był z nim.",
+        ""
+      ]
+    },
+    {
+      "range": "22-28",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pascha",
+        "święta noc",
+        "śpiew",
+        "Chrystus",
+        "zmartwychwstanie",
+        "wolność",
+        "świat",
+        "wiara",
+        "śmierć"
+      ],
+      "summary": "Czwarta noc paschalna: Chrystus zmartwychwstaje, w jednej nocy wypełniając wszystkie obietnice zbawienia – stworzenie, wiarę i wolność od śmierci.",
+      "bible": [
+        "Mt 28,1-10",
+        "Łk 24,1-12",
+        "J 20,1-18",
+        "Rz 6,8-11",
+        "1 Kor 15,20-22"
+      ],
+      "text": [
+        "W tę świętą noc paschalną radośnie dziś śpiewamy,",
+        "Chrystus Zmartwychwstały, żywy jest tu z nami.",
+        "Jednej nocy stworzył dla nas świat,",
+        "Jednej nocy wiarę w serca wlał,",
+        "Jednej świętej nocy wszystkim wolność dał,",
+        "Jednej świętej nocy dla nas zmartwychwstał.",
+        ""
+      ]
+    },
+    {
+      "range": "29-32",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "zmartwychwstanie",
+        "śmierć",
+        "wolność",
+        "żywy",
+        "obecność"
+      ],
+      "summary": "Aklamacja paschalna: Chrystus zmartwychwstały jest żywy i obecny pośród zgromadzenia, darząc wszystkich wolnością od śmierci.",
+      "bible": [
+        "Mt 28,20",
+        "Rz 8,1-2",
+        "2 Kor 3,17",
+        "Ap 1,17-18"
+      ],
+      "text": [
+        "Tej tu nocy dla nas zmartwychwstał.",
+        "I od śmierci wszystkim wolność dał.",
+        "Chrystus Zmartwychwstały, żywy jest tu z nami.",
+        "Chrystus Zmartwychwstały, żywy jest tu z nami."
+      ]
+    },
+    {
+      "range": "1-32",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "stworzenie",
+        "przymierze",
+        "Abraham",
+        "Izaak",
+        "Mojżesz",
+        "Pasch",
+        "Chrystus",
+        "zmartwychwstanie",
+        "wolność",
+        "śmierć",
+        "życie",
+        "odkupienie",
+        "zbawienie",
+        "obietnica"
+      ],
+      "summary": "Pieśń katechetyczna o czterech kluczowych nocach zbawienia: stworzenie świata, przymierze z Abrahamem, Pascha wyjścia z Egiptu i paschalne zmartwychwstanie Chrystusa – ukazuje ciągłość Bożego planu zbawienia i typologiczne wypełnienie Starego Testamentu w Chrystusie.",
+      "bible": [
+        "Rdz 1,1-31",
+        "Rdz 15,1-21",
+        "Rdz 22,1-19",
+        "Wj 12,1-51",
+        "Wj 14,1-31",
+        "Mt 28,1-10",
+        "J 1,1-3",
+        "J 20,1-18",
+        "Rz 6,8-11",
+        "1 Kor 10,1-4",
+        "Hbr 11,17-19",
+        "Ap 1,17-18"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:5d0c99a3a06f7773372a35904636a9b26822434f2cc851a071932ac7658c3648",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "noc",
+        "Abraham",
+        "ofiara",
+        "syn",
+        "Izaak",
+        "Akedá",
+        "związanie",
+        "ojciec"
+      ],
+      "summary": "Narracja o Abrahamie przygotowującym się do złożenia syna Izaaka w ofierze, z dramatycznym momentem, gdy Izaak wypowiada słowo 'Akedá' (związanie).",
+      "bible": [
+        "Rdz 22,1-10"
+      ],
+      "text": [
+        "Była jeszcze noc, kiedy Abraham,",
+        "przygotowywał się, by złożyć syna w ofierze;",
+        "obydwaj patrzyli sobie prosto w oczy",
+        "i wtedy Izaak powiedział:",
+        "„Akedá, akedá, akedá, akedá.”",
+        ""
+      ]
+    },
+    {
+      "range": "7-14",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Izaak",
+        "związanie",
+        "ojciec",
+        "lęk",
+        "ofiara",
+        "Akedá",
+        "posłuszeństwo",
+        "wierność",
+        "Bóg"
+      ],
+      "summary": "Mowa Izaaka proszącego ojca o mocne związanie, aby ofiara była ważna – wyraz całkowitego zawierzenia i posłuszeństwa aż do końca.",
+      "bible": [
+        "Rdz 22,9-10"
+      ],
+      "text": [
+        "„Zwiąż mnie, zwiąż mnie mocno, ojcze mój,",
+        "bym czasem z lęku się nie opierał",
+        "i wtedy nieważna będzie twoja ofiara,",
+        "i obydwaj będziemy odrzuceni!”",
+        "„Akedá, akedá, akedá, akedá.”",
+        "„Zwiąż mnie, zwiąż mnie mocno",
+        "ojcze mój, bym się nie opierał!”",
+        ""
+      ]
+    },
+    {
+      "range": "15-21",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "wiara",
+        "ziemia",
+        "ojciec",
+        "syn",
+        "poświęcenie",
+        "ofiara",
+        "szyja",
+        "Akedá",
+        "Izaak",
+        "Abraham",
+        "Bóg"
+      ],
+      "summary": "Wezwanie do oglądania wiary na ziemi – ojca poświęcającego syna i syna nadstawiającego swą szyję jako znak doskonałego posłuszeństwa.",
+      "bible": [
+        "Rdz 22,1-19",
+        "Hbr 11,17-19"
+      ],
+      "text": [
+        "Przyjdźcie i zobaczcie wiarę na ziemi,",
+        "przyjdźcie i zobaczcie wiarę na ziemi:",
+        "ojciec, który poświęca swego syna,",
+        "a syn najdroższy nadstawia swą szyję!",
+        "„Akedá, akedá, akedá, akedá.”",
+        "„Zwiąż mnie, zwiąż mnie mocno",
+        "ojcze mój, bym się nie opierał!”"
+      ]
+    },
+    {
+      "range": "1-21",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Akedá",
+        "Abraham",
+        "Izaak",
+        "ofiara",
+        "związanie",
+        "wiara",
+        "posłuszeństwo",
+        "syn",
+        "ojciec",
+        "Bóg",
+        "Jezus",
+        "Chrystus",
+        "krzyż",
+        "zmartwychwstanie",
+        "przebaczenie"
+      ],
+      "summary": "Dramatyczna parafraza ofiary Izaaka (Rdz 22), odczytywana w świetle liturgii paschalnej jako typologiczna zapowiedź ofiary Jezusa Chrystusa – Ojciec poświęca Syna, a Syn dobrowolnie nadstawia szyję, co znajduje wypełnienie w krzyżu i zmartwychwstaniu.",
+      "bible": [
+        "Rdz 22,1-19",
+        "J 3,16",
+        "Rz 8,32",
+        "Hbr 11,17-19"
+      ]
+    }
+  ]
+}

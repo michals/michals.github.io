@@ -1,0 +1,313 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:269b9f65ad5275d033152a6e24c9604b84217a7b17dc4cd29a3360495ae379b3",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dzień",
+        "radość",
+        "miasto",
+        "Bóg",
+        "płomień",
+        "Duch Święty",
+        "wieczernik"
+      ],
+      "summary": "Dzień bezkresnej radości w mieście Boga – płomień Ducha Świętego jaśnieje w wieczerniku (Dz 2,1-4).",
+      "bible": [
+        "Dz 2,1-4"
+      ],
+      "text": [
+        "Dzień bezkresnej radości",
+        "w mieście naszego Boga:",
+        "płomień Ducha Świętego",
+        "jaśnieje w wieczerniku.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "cud",
+        "odnawiać się",
+        "prorok",
+        "mistyczny",
+        "upojenie",
+        "język",
+        "serce"
+      ],
+      "summary": "Odnowienie cudów starodawnych proroków; mistyczne upojenia ogarnia języki i serca – dar języków (Dz 2,4-13; Jl 3,1-5).",
+      "bible": [
+        "Dz 2,4-13",
+        "Jl 3,1-5"
+      ],
+      "text": [
+        "Odnawiają się cuda",
+        "starodawnych proroków,",
+        "mistyczne upojenie",
+        "ogarnia języki i serca.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "dzień",
+        "radość",
+        "miasto",
+        "Bóg",
+        "płomień",
+        "Duch Święty",
+        "wieczernik"
+      ],
+      "summary": "Refren o Dniu bezkresnej radości i płomieniu Ducha Świętego w wieczerniku.",
+      "bible": [
+        "Dz 2,1-4"
+      ],
+      "text": [
+        "Dzień bezkresnej radości",
+        "w mieście naszego Boga:",
+        "płomień Ducha Świętego",
+        "jaśnieje w wieczerniku.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławiony",
+        "czas",
+        "narodzić się",
+        "Kościół",
+        "łono",
+        "pierwociny",
+        "ludy"
+      ],
+      "summary": "Błogosławiony czas narodzin Kościoła, który w swe łono przyjmuje pierwociny ludów – uniwersalizm (Dz 2,5-11; Ga 3,28).",
+      "bible": [
+        "Dz 2,5-11",
+        "Ga 3,28"
+      ],
+      "text": [
+        "O błogosławiony czasie",
+        "narodzin Kościoła:",
+        "on przyjmuje w swe łono",
+        "pierwociny ludów.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "dzień",
+        "radość",
+        "miasto",
+        "Bóg",
+        "płomień",
+        "Duch Święty",
+        "wieczernik"
+      ],
+      "summary": "Refren o Dniu bezkresnej radości i płomieniu Ducha Świętego w wieczerniku.",
+      "bible": [
+        "Dz 2,1-4"
+      ],
+      "text": [
+        "Dzień bezkresnej radości",
+        "w mieście naszego Boga:",
+        "płomień Ducha Świętego",
+        "jaśnieje w wieczerniku.",
+        ""
+      ]
+    },
+    {
+      "range": "26-30",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "jubileusz",
+        "rok",
+        "pięćdziesiąty",
+        "uwalniać",
+        "niewolnik",
+        "przebaczenie"
+      ],
+      "summary": "Pięćdziesiątnica jako jubileusz roku pięćdziesiątego – uwolnienie niewolników i przebaczenie (Kpł 25,10; Łk 4,18-19).",
+      "bible": [
+        "Kpł 25,10",
+        "Łk 4,18-19"
+      ],
+      "text": [
+        "Oto jubileusz",
+        "roku pięćdziesiątego:",
+        "uwalnia niewolników",
+        "i obwieszcza przebaczenie.",
+        ""
+      ]
+    },
+    {
+      "range": "31-35",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "dzień",
+        "radość",
+        "miasto",
+        "Bóg",
+        "płomień",
+        "Duch Święty",
+        "wieczernik"
+      ],
+      "summary": "Refren o Dniu bezkresnej radości i płomieniu Ducha Świętego w wieczerniku.",
+      "bible": [
+        "Dz 2,1-4"
+      ],
+      "text": [
+        "Dzień bezkresnej radości",
+        "w mieście naszego Boga:",
+        "płomień Ducha Świętego",
+        "jaśnieje w wieczerniku.",
+        ""
+      ]
+    },
+    {
+      "range": "36-40",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "zesłać",
+        "Pan",
+        "dar",
+        "Duch",
+        "wzburzony",
+        "świat",
+        "sprawiedliwość",
+        "pokój"
+      ],
+      "summary": "Błaganie o zesłanie Ducha na wzburzony świat, by udzielił sprawiedliwości i pokoju – modlitwa za Kościół i świat (Ga 5,22-23).",
+      "bible": [
+        "Ga 5,22-23"
+      ],
+      "text": [
+        "Ześlij na nas, Panie,",
+        "dar Twojego Ducha,",
+        "udziel wzburzonemu światu",
+        "sprawiedliwości i pokoju.",
+        ""
+      ]
+    },
+    {
+      "range": "41-45",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "dzień",
+        "radość",
+        "miasto",
+        "Bóg",
+        "płomień",
+        "Duch Święty",
+        "wieczernik"
+      ],
+      "summary": "Refren o Dniu bezkresnej radości i płomieniu Ducha Świętego w wieczerniku.",
+      "bible": [
+        "Dz 2,1-4"
+      ],
+      "text": [
+        "Dzień bezkresnej radości",
+        "w mieście naszego Boga:",
+        "płomień Ducha Świętego",
+        "jaśnieje w wieczerniku.",
+        ""
+      ]
+    },
+    {
+      "range": "46-50",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "światło",
+        "mądrość",
+        "odsłonić",
+        "tajemnica",
+        "Trójca",
+        "źródło",
+        "miłość"
+      ],
+      "summary": "Modlitwa do Światła wiekuistej Mądrości o odsłonięcie tajemnicy Trójcy Świętej – źródła wiecznej miłości (1 Kor 2,6-10; 2 Kor 13,13).",
+      "bible": [
+        "1 Kor 2,6-10",
+        "2 Kor 13,13"
+      ],
+      "text": [
+        "O światło wiekuistej mądrości",
+        "odsłoń nam tajemnicę",
+        "Boga w Trójcy jedynego,",
+        "źródło wiecznej miłości.",
+        ""
+      ]
+    },
+    {
+      "range": "51-51",
+      "type": "zakończenie",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Amen"
+      ],
+      "summary": "Aklamacja Amen zamykająca hymn.",
+      "bible": [],
+      "text": [
+        "Amen."
+      ]
+    },
+    {
+      "range": "1-51",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pięćdziesiątnica",
+        "Duch Święty",
+        "płomień",
+        "wieczernik",
+        "Kościół",
+        "narodziny",
+        "języki",
+        "ogień",
+        "mądrość",
+        "Trójca Święta",
+        "jubileusz",
+        "przebaczenie",
+        "niewola",
+        "sprawiedliwość",
+        "pokój",
+        "radość",
+        "cud",
+        "prorocy",
+        "ludy",
+        "pierwociny",
+        "miłość",
+        "światłość"
+      ],
+      "summary": "Hymn na Jutrznię Zesłania Ducha Świętego – parafraza łacińskiego 'Beáta nobis gáudia'. Refren przywołuje dzień bezkresnej radości i płomień Ducha w wieczerniku (Dz 2,1-4). Zwrotki opisują: dar języków i odnowienie proroctw (Dz 2,4-13), narodziny Kościoła z pierwocin ludów (Dz 2,5-11), jubileusz pięćdziesiątego roku (Kpł 25,10; Łk 4,18-19), błaganie o dar Ducha dla świata (Ga 5,22-23) i kontemplację tajemnicy Trójcy Świętej. Typologia: wieczernik jako nowe Syjon (Dz 2) – prefiguracja Kościoła; jubileusz starotestamentalny wypełnia się w Chrystusowym odpuszczeniu (Łk 4,18-19; 2 Kor 3,17).",
+      "bible": [
+        "Dz 2,1-13",
+        "Jl 3,1-5",
+        "Kpł 25,10",
+        "Łk 4,18-19",
+        "Ga 3,28",
+        "Ga 5,22-23",
+        "1 Kor 2,6-10",
+        "2 Kor 13,13"
+      ]
+    }
+  ]
+}

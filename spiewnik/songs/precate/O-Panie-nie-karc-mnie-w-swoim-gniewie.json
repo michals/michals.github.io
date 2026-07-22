@@ -1,0 +1,213 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a8842c475f1e278626ac374310f93b40bb13ac0ea492408677f1bdbdc9896d86",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Pan",
+        "karać",
+        "gniew",
+        "zapalczywość",
+        "karanie",
+        "grzech"
+      ],
+      "summary": "Błagalna prośba, by Pan nie karał w swoim gniewie i zapalczywości.",
+      "bible": [
+        "Ps 6, 2",
+        "Ps 38, 2",
+        "Jr 10, 24"
+      ],
+      "text": [
+        "O Panie, nie karć mnie w swoim gniewie",
+        "i nie karz w swej zapalczywości.",
+        ""
+      ]
+    },
+    {
+      "range": "4-8",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "zmiłować się",
+        "zamierać",
+        "uleczyć",
+        "kości",
+        "drżeć",
+        "dusza",
+        "strwożony",
+        "jak długo",
+        "choroba",
+        "słabość"
+      ],
+      "summary": "Błaganie o zmiłowanie i uzdrowienie w obliczu śmiertelnego cierpienia - drżące kości, strwożona dusza, pytanie 'jak długo jeszcze?'",
+      "bible": [
+        "Ps 6, 3-4",
+        "Ps 41, 5",
+        "Iz 38, 16-17"
+      ],
+      "text": [
+        "Zmiłuj się, zmiłuj się nade mną, Panie, bo zamieram;",
+        "ulecz mnie Ty, o Panie, bo drżą moje kości.",
+        "Strwożona cała jest dusza moja,",
+        "a Ty, o Panie, jak długo jeszcze?",
+        ""
+      ]
+    },
+    {
+      "range": "9-12",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "powrócić",
+        "uwolnić",
+        "dusza",
+        "wybawić",
+        "miłosierdzie",
+        "umarli",
+        "szeol",
+        "chwała",
+        "śmierć",
+        "otchłań"
+      ],
+      "summary": "Prośba o powrót Boga, uwolnienie duszy i wybawienie przez miłosierdzie, z argumentem, że w szeolu nikt nie wspomina Boga ani nie śpiewa Jego chwały.",
+      "bible": [
+        "Ps 6, 5-6",
+        "Ps 30, 10",
+        "Iz 38, 18-19",
+        "Ps 115, 17"
+      ],
+      "text": [
+        "Powróć, o Panie, uwolnij moją duszę.",
+        "Wybaw mnie Ty, o Panie, przez Twoje miłosierdzie.",
+        "Bo nikt z umarłych Cię nie wspomni,",
+        "ani w szeolu nie śpiewa Twojej chwały."
+      ]
+    },
+    {
+      "range": "13-15",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Pan",
+        "karać",
+        "gniew",
+        "zapalczywość",
+        "karanie"
+      ],
+      "summary": "Refren - powtórzenie prośby, by Pan nie karał w gniewie.",
+      "bible": [
+        "Ps 6, 2"
+      ],
+      "text": [
+        "O Panie, nie karć mnie w swoim gniewie",
+        "i nie karz w swej zapalczywości.",
+        ""
+      ]
+    },
+    {
+      "range": "16-22",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "wycieńczyć",
+        "jęk",
+        "noc",
+        "łza",
+        "łoże",
+        "oko",
+        "wypłakać",
+        "smutek",
+        "wróg",
+        "złoczyńca",
+        "lament",
+        "modlitwa",
+        "wysłuchanie",
+        "ufność"
+      ],
+      "summary": "Opis wycieńczenia od jęków, nocy spędzonych na płaczu i smutku pośród wrogów, przechodzący w ufne wyznanie, że Pan słyszy lament i przyjmuje modlitwę.",
+      "bible": [
+        "Ps 6, 7-10",
+        "Ps 42, 4",
+        "Ps 56, 9",
+        "Mt 5, 4"
+      ],
+      "text": [
+        "Wycieńczyły mnie moje jęki,",
+        "każdej nocy zraszam łzami moje łoże;",
+        "moje oczy wypłakuję w smutku,",
+        "starzeję się pośród wielu wrogów.",
+        "Odstąpcie ode mnie złoczyńcy,",
+        "bo Pan słyszy mój lament,",
+        "bo Pan przyjmuje moją modlitwę."
+      ]
+    },
+    {
+      "range": "23-24",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Pan",
+        "karać",
+        "gniew",
+        "zapalczywość"
+      ],
+      "summary": "Refren końcowy - powtórzenie prośby, by Pan nie karał w gniewie.",
+      "bible": [
+        "Ps 6, 2"
+      ],
+      "text": [
+        "O Panie, nie karć mnie w swoim gniewie",
+        "i nie karz w swej zapalczywości."
+      ]
+    },
+    {
+      "range": "1-24",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Pan",
+        "gniew",
+        "kara",
+        "zmiłowanie",
+        "miłosierdzie",
+        "dusza",
+        "kości",
+        "strwożenie",
+        "szeol",
+        "śmierć",
+        "łzy",
+        "jęki",
+        "wróg",
+        "modlitwa",
+        "wysłuchanie",
+        "ufność",
+        "grzech",
+        "pokuta",
+        "cierpienie"
+      ],
+      "summary": "Psalm 6 - pierwszy z siedmiu psalmów pokutnych Dawida, błagalna modlitwa człowieka cierpiącego z powodu grzechu i choroby, proszącego o zaniechanie Bożego gniewu i o miłosierdzie. Psalm przechodzi od rozpaczliwego wołania w cierpieniu ('jak długo jeszcze?') przez wyznanie, że nawet śmierć (szeol) nie może wielbić Boga, do ufnego stwierdzenia, że Pan wysłuchuje modlitwy. W typologii chrześcijańskiej psalm ten jest prefiguracją męki Chrystusa w Ogrodzie Oliwnym: 'Smutna jest moja dusza aż do śmierci' (Mt 26, 38), Chrystus 'z głośnym wołaniem i płaczem zanosił modlitwy' (Hbr 5, 7). Drżenie kości zapowiada konanie na krzyżu, a prośba 'nie karć mnie w gniewie' wypełnia się w Chrystusie, który bierze na siebie gniew Boży za grzechy świata (Iz 53, 4-6; Rz 3, 25). Pytanie 'jak długo jeszcze?' znajduje odpowiedź w zmartwychwstaniu trzeciego dnia. Psalm kończy się ufnością, że Bóg wysłuchuje - tak jak Ojciec wysłuchał Syna (Hbr 5, 7-9). Wezwanie 'Odstąpcie ode mnie złoczyńcy' zapowiada sąd ostateczny (Mt 7, 23; 25, 41).",
+      "bible": [
+        "Ps 6",
+        "Ps 30, 10",
+        "Ps 38",
+        "Ps 42, 4",
+        "Ps 56, 9",
+        "Ps 88",
+        "Ps 115, 17",
+        "Iz 38, 18-19",
+        "Iz 53, 4-6",
+        "Mt 26, 38-39",
+        "Mt 7, 23",
+        "Łk 18, 13",
+        "Łk 23, 42",
+        "J 19, 36",
+        "Rz 3, 25",
+        "Hbr 5, 7-9",
+        "Ap 6, 10"
+      ]
+    }
+  ]
+}

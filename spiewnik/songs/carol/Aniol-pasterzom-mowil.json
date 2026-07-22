@@ -1,0 +1,238 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:27d1715c512cd4609a7bec7960df98b122752ca673c3dd4c388ef537c440d90c",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "anioł",
+        "pasterze",
+        "Chrystus",
+        "narodzenie",
+        "Betlejem",
+        "ubóstwo",
+        "Pan",
+        "stworzenie",
+        "Ewangelizacja"
+      ],
+      "summary": "Anioł zwiastuje pasterzom radosną nowinę o narodzeniu Chrystusa w Betlejem — Pan wszego stworzenia rodzi się w ubóstwie.",
+      "bible": [
+        "Łk 2, 9-11",
+        "Łk 2, 16"
+      ],
+      "text": [
+        "Anioł pasterzom mówił:",
+        "Chrystus się wam narodził",
+        "W Betlejem nie bardzo podłym mieście.",
+        "Narodził się w ubóstwie",
+        "Pan wszego stworzenia.",
+        ""
+      ]
+    },
+    {
+      "range": "7-12",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pasterze",
+        "Betlejem",
+        "poselstwo",
+        "radość",
+        "Dziecię",
+        "Maryja",
+        "Józef",
+        "żłób",
+        "wiara"
+      ],
+      "summary": "Pasterze biegną z pośpiechem do Betlejem, znajdują Dziecię w żłobie, Maryję i Józefa, wypełniając anielskie poselstwo.",
+      "bible": [
+        "Łk 2, 15-16"
+      ],
+      "text": [
+        "Chcąc się dowiedzieć tego",
+        "poselstwa wesołego,",
+        "bieżeli do Betlejem skwapliwie.",
+        "Znaleźli Dziecię w żłobie,",
+        "Maryję z Józefem.",
+        ""
+      ]
+    },
+    {
+      "range": "13-18",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Pan chwały",
+        "uniżenie",
+        "Wysoki",
+        "pałac",
+        "ubóstwo",
+        "kenoza",
+        "Jezus Chrystus",
+        "stworzenie"
+      ],
+      "summary": "Kontrast między chwałą boskiego Majestatu a Jego dobrowolnym uniżeniem: Pan chwały nie ma własnego pałacu.",
+      "bible": [
+        "Flp 2, 6-7",
+        "2 Kor 8, 9",
+        "Mt 8, 20"
+      ],
+      "text": [
+        "Taki Pan chwały wielkiej,",
+        "uniżył się Wysoki,",
+        "pałacu kosztownego żadnego",
+        "nie miał zbudowanego",
+        "Pan wszego stworzenia.",
+        ""
+      ]
+    },
+    {
+      "range": "19-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "narodzenie",
+        "cud",
+        "Panna",
+        "Syn",
+        "czystość",
+        "dziewictwo",
+        "Maryja",
+        "Wcielenie"
+      ],
+      "summary": "Podziw nad cudem dziewiczego narodzenia: Panna poczęła i porodziła Syna, zachowując nienaruszone dziewictwo.",
+      "bible": [
+        "Iz 7, 14",
+        "Mt 1, 23",
+        "Łk 1, 34-35"
+      ],
+      "text": [
+        "O dziwne narodzenie,",
+        "nigdy nie wysłowione!",
+        "Poczęła Panna Syna w czystości,",
+        "porodziła w całości",
+        "Panieństwa swojego.",
+        ""
+      ]
+    },
+    {
+      "range": "25-30",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "spełnienie",
+        "figura",
+        "typologia",
+        "różdżka Aarona",
+        "Panna",
+        "Maryja",
+        "proroctwo",
+        "Stary Testament",
+        "Nowy Testament"
+      ],
+      "summary": "Stwierdzenie wypełnienia się typologii starotestamentowej: różdżka Aarona, która zakwitła, była figurą dziewiczej płodności Maryi.",
+      "bible": [
+        "Lb 17, 23",
+        "Hbr 9, 4",
+        "Iz 11, 1"
+      ],
+      "text": [
+        "Już się ono spełniło,",
+        "co pod figurą było:",
+        "Arona różdżka ona zielona",
+        "stała się nam kwitnąca",
+        "i owoc rodząca.",
+        ""
+      ]
+    },
+    {
+      "range": "31-36",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg Ojciec",
+        "Syn",
+        "posłuszeństwo",
+        "obietnica",
+        "raj",
+        "Słuchać",
+        "Objawienie",
+        "Jezus Chrystus"
+      ],
+      "summary": "Wezwanie Boga Ojca, aby słuchać Jego umiłowanego Syna, obiecanego w raju, który jest wypełnieniem mesjańskich proroctw.",
+      "bible": [
+        "Mt 17, 5",
+        "Pwt 18, 15",
+        "Rdz 3, 15",
+        "Mk 9, 7"
+      ],
+      "text": [
+        "Słuchajcież Boga Ojca,",
+        "jako wam Go zaleca:",
+        "Ten ci jest Syn najmilszy, jedyny,",
+        "w raju wam obiecany,",
+        "Tego wy słuchajcie.",
+        ""
+      ]
+    },
+    {
+      "range": "37-41",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "cześć",
+        "chwała",
+        "Bóg Ojciec",
+        "Syn",
+        "Duch Święty",
+        "Trójca Święta",
+        "uwielbienie",
+        "doksologia"
+      ],
+      "summary": "Doksologia trynitarna oddająca cześć i chwałę Ojcu, Synowi i Duchowi Świętemu — Trójcy jedynemu Bogu.",
+      "bible": [
+        "Mt 28, 19",
+        "2 Kor 13, 13",
+        "Ga 4, 6"
+      ],
+      "text": [
+        "Bogu bądź cześć i chwała,",
+        "która by nie ustała,",
+        "Jak Ojcu, tak i Jego Synowi,",
+        "i Świętemu Duchowi,",
+        "w Trójcy jedynemu."
+      ]
+    },
+    {
+      "range": "1-41",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Boże Narodzenie",
+        "Chrystus",
+        "pasterze",
+        "Betlejem",
+        "Wcielenie",
+        "Maryja",
+        "dziewictwo",
+        "typologia",
+        "Trójca Święta",
+        "kenoza",
+        "zbawienie",
+        "proroctwo",
+        "doksologia"
+      ],
+      "summary": "Kolęda przedstawiająca historię zwiastowania pasterzom, ich wędrówkę do Betlejem i adorację nowonarodzonego Chrystusa. Zawiera głęboką refleksję teologiczną nad kenozą Syna Bożego, dziewiczym macierzyństwem Maryi jako wypełnieniem typologii różdżki Aarona oraz trynitarną doksologię.",
+      "bible": [
+        "Łk 2, 9-11.15-16",
+        "Flp 2, 6-7",
+        "Lb 17, 23",
+        "Mt 17, 5",
+        "Iz 7, 14",
+        "Mt 28, 19"
+      ]
+    }
+  ]
+}

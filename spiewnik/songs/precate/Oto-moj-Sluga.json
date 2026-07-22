@@ -1,0 +1,180 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:94a6a3a0e97654022cb1d478da62453edf676bd9c030940cb875f81a638af514",
+  "songs_analysis": [
+    {
+      "range": "1",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "1",
+      "bible": [],
+      "text": [
+        "Oto mój Sługa, którego wybrałem,"
+      ]
+    },
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Sługa",
+        "wybrany",
+        "ukochany",
+        "upodobanie",
+        "Bóg",
+        "Ojciec",
+        "Syn",
+        "Mesjasz",
+        "namaszczenie"
+      ],
+      "summary": "Bóg Ojciec przedstawia swojego wybranego Sługę, umiłowanego Syna, w którym ma upodobanie — zapowiedź Chrztu Pańskiego i Przemienienia.",
+      "bible": [
+        "Iz 42, 1",
+        "Mt 3, 17",
+        "Mt 17, 5",
+        "Mk 1, 11",
+        "Łk 3, 22",
+        "2 P 1, 17"
+      ],
+      "text": [
+        "Oto mój Sługa, którego wybrałem,",
+        "Oto mój Sługa, którego wybrałem,",
+        "mój ukochany, w którym mam upodobanie,",
+        "mój ukochany, którego wybrałem.",
+        ""
+      ]
+    },
+    {
+      "range": "6-11",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch",
+        "Święty",
+        "prawo",
+        "naród",
+        "ogłosić",
+        "spierać",
+        "krzyczeć",
+        "głos",
+        "łagodność",
+        "pokój",
+        "sprawiedliwość"
+      ],
+      "summary": "Duch Pański spoczywa na Słudze, który ogłasza prawo Boże wszystkim narodom — nie przez spór ani krzyk, lecz w cichej mocy.",
+      "bible": [
+        "Iz 42, 1-2",
+        "Iz 11, 2",
+        "Iz 61, 1",
+        "Mt 12, 18-19",
+        "Łk 4, 18",
+        "J 3, 34"
+      ],
+      "text": [
+        "Sprawię, że mój Duch spocznie na Nim",
+        "i ogłosi moje prawo wszystkim narodom,",
+        "i ogłosi moje prawo wszystkim narodom.",
+        "Nie będzie się spierał ani krzyczał,",
+        "nikt nie usłyszy Jego głosu na placach.",
+        ""
+      ]
+    },
+    {
+      "range": "12-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "trzcina",
+        "nadłamany",
+        "knotek",
+        "tlejący",
+        "gasić",
+        "łamać",
+        "miłosierdzie",
+        "łagodność",
+        "prawo",
+        "ziemia",
+        "sprawiedliwość"
+      ],
+      "summary": "Sługa Jahwe nie złamie nadłamanej trzciny ani nie zgasi tlejącego knotka — obraz Bożej łagodności i miłosierdzia wobec słabych, aż sprawiedliwość zatriumfuje na ziemi.",
+      "bible": [
+        "Iz 42, 3",
+        "Mt 12, 20",
+        "Iz 40, 11",
+        "Ez 34, 16",
+        "Ps 147, 3"
+      ],
+      "text": [
+        "Trzciny nadłamanej On nie będzie łamał,",
+        "knotka tlejącego On nie będzie gasił,",
+        "aż utrwali Prawo na ziemi,",
+        "aż utrwali Prawo na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "17-18",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "imię",
+        "nadzieja",
+        "naród",
+        "poganin",
+        "zbawienie",
+        "Mesjasz",
+        "królestwo"
+      ],
+      "summary": "W imieniu Sługi narody pokładają nadzieję — uniwersalistyczny wymiar zbawienia, które obejmuje wszystkich ludzi, nie tylko Izraela.",
+      "bible": [
+        "Iz 42, 4",
+        "Mt 12, 21",
+        "Rz 15, 12",
+        "Iz 11, 10",
+        "Ef 2, 12-13",
+        "Dz 4, 12"
+      ],
+      "text": [
+        "W Jego imieniu, w Jego imieniu",
+        "położą narody swoją nadzieję."
+      ]
+    },
+    {
+      "range": "1-18",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Sługa",
+        "Jahwe",
+        "Izajasz",
+        "Mesjasz",
+        "Duch",
+        "prawo",
+        "naród",
+        "miłosierdzie",
+        "łagodność",
+        "nadzieja",
+        "zbawienie",
+        "sprawiedliwość",
+        "ukochany",
+        "wybrany",
+        "imię"
+      ],
+      "summary": "Pierwsza Pieśń Sługi Jahwe: Bóg przedstawia swojego wybranego Sługę, na którym spoczywa Duch Święty. Sługa nie przychodzi z przemocą, lecz z łagodnością i miłosierdziem — nie łamie nadłamanej trzciny, nie gasi tlejącego knotka. Jego misja obejmuje wszystkie narody, które w Jego imieniu znajdą nadzieję. W Mt 12, 18-21 Jezus jest utożsamiony z tą właśnie zapowiedzią, co czyni ten fragment kluczowym chrystologicznie. Typologicznie: cichy i pokorny Sługa kontrastuje z ziemskimi władcami i zapowiada Chrystusa, który zbawia nie siłą, ale miłością.",
+      "bible": [
+        "Iz 42, 1-4",
+        "Mt 12, 18-21",
+        "Iz 11, 2",
+        "Iz 61, 1",
+        "Rz 15, 12",
+        "Mt 3, 17",
+        "Mt 17, 5",
+        "Ef 2, 12-13",
+        "Iz 40, 11",
+        "Ez 34, 16",
+        "Dz 4, 12"
+      ]
+    }
+  ]
+}

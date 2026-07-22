@@ -1,0 +1,253 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:e4499e3914f9e4524a57b14f62c77ce5c09c77e953d331a83ad56731f0283d6b",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Bóg",
+        "stworzenie",
+        "człowiek",
+        "obraz Boży",
+        "mężczyzna",
+        "kobieta",
+        "pomoc",
+        "jedno ciało",
+        "nierozerwalność",
+        "małżeństwo",
+        "początek"
+      ],
+      "summary": "Przypomnienie stworzenia człowieka na obraz Boży i ustanowienia małżeństwa jako nierozerwalnego związku mężczyzny i kobiety.",
+      "bible": [
+        "Rdz 1, 27",
+        "Rdz 2, 18-24",
+        "Mt 19, 4-6",
+        "Ef 5, 31"
+      ],
+      "text": [
+        "O Boże, Ty swoją potęgą stworzyłeś wszystko z niczego",
+        "i wprowadziłeś ład na początku wszechświata,",
+        "a stworzywszy człowieka na Twoje podobieństwo,",
+        "dałeś mężczyźnie kobietę jako nieodłączną pomoc, aby we dwoje stanowili jedno ciało.",
+        "Ty pouczyłeś nas, że tej jedności przez Ciebie ustanowionej nigdy nie wolno rozłączać."
+      ]
+    },
+    {
+      "range": "6-7",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "małżeństwo",
+        "sakrament",
+        "wspólnota",
+        "Chrystus",
+        "Kościół",
+        "symbol",
+        "tajemnica",
+        "oblubieniec",
+        "oblubienica",
+        "jedność"
+      ],
+      "summary": "Małżeństwo jako wielka tajemnica będąca symbolem związku Chrystusa z Kościołem.",
+      "bible": [
+        "Ef 5, 22-32",
+        "Ap 19, 7-9",
+        "Oz 2, 21-22"
+      ],
+      "text": [
+        "Boże, Ty uczyniłeś związek małżeński tak wielką i świętą tajemnicą,",
+        "że wspólnota zaślubionych jest symbolem związku Chrystusa z Kościołem."
+      ]
+    },
+    {
+      "range": "8-10",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "małżeństwo",
+        "błogosławieństwo",
+        "Bóg",
+        "początek",
+        "grzech pierworodny",
+        "potop",
+        "przymierze",
+        "niezniszczalność"
+      ],
+      "summary": "Błogosławieństwo małżeństwa ustanowione na początku dziejów, którego nie zniweczył grzech pierworodny ani kara potopu.",
+      "bible": [
+        "Rdz 3",
+        "Rdz 6-9",
+        "Rdz 9, 1-7"
+      ],
+      "text": [
+        "Boże, z Twojej woli, żona łączy się z mężem,",
+        "a związek ten, ustanowiony na początku dziejów ludzkich",
+        "otrzymał od Ciebie tak wielkie błogosławieństwo, że nie zniweczył go nawet grzech pierworodny, ani kara potopu."
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "błogosławieństwo",
+        "Duch Święty",
+        "łaska",
+        "miłość",
+        "serc e",
+        "wierność",
+        "przymierze małżeńskie",
+        "prośba"
+      ],
+      "summary": "Prośba o błogosławieństwo dla nowożeńców i zesłanie Ducha Świętego, aby miłość rozlana w ich sercach pozwoliła im wiernie trwać w przymierzu małżeńskim.",
+      "bible": [
+        "Rz 5, 5",
+        "Ga 5, 22",
+        "Lb 6, 24-26",
+        "Jr 31, 31-34"
+      ],
+      "text": [
+        "Wejrzyj z miłością na Twoich wyznawców, którzy zawarli związek małżeński,",
+        "a teraz proszą o Twoje błogosławieństwo.",
+        "Ześlij na nich łaskę Ducha świętego aby Twa miłość rozlana w ich sercach,",
+        "pozwoliła im pozostać wiernymi przymierzu małżeńskiemu."
+      ]
+    },
+    {
+      "range": "15-19",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "żona",
+        "mąż",
+        "miłość",
+        "zaufanie",
+        "równość",
+        "szacunek",
+        "naśladowanie",
+        "święte niewiasty",
+        "Chrystus",
+        "Kościół",
+        "ofiara",
+        "powołanie"
+      ],
+      "summary": "Błogosławieństwo dla żony i męża — żona niech naśladuje święte niewiasty, a mąż niech darzy ją zaufaniem, szacunkiem i miłością na wzór Chrystusa umiłowującego Kościół.",
+      "bible": [
+        "Ef 5, 25-33",
+        "1 P 3, 1-7",
+        "Prz 31, 10-31",
+        "Kol 3, 18-19"
+      ],
+      "text": [
+        "Obdarz Twoją córkę N. łaską miłości i pokoju.",
+        "Naucz ją naśladować święte niewiasty, których pochwałę głosi Pismo Święte.",
+        "Niech N., jej mąż, obdarza ją zaufaniem",
+        "i uznaje jej równość we wspólnym życiu i powołaniu do łaski",
+        "niech ją otacza szacunkiem i tak kocha jak Chrystus umiłował swój Kościół."
+      ]
+    },
+    {
+      "range": "20-25",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wiara",
+        "przykazania",
+        "czystość",
+        "Ewangelia",
+        "Chrystus",
+        "głoszenie",
+        "dzieci",
+        "rodzina",
+        "rodzice",
+        "wnuki",
+        "wytrwanie"
+      ],
+      "summary": "Prośba o wytrwanie w wierze i przykazaniach, zachowanie czystości obyczajów w małżeństwie, głoszenie Chrystusa oraz błogosławieństwo w postaci dzieci i wnuków.",
+      "bible": [
+        "J 15, 10",
+        "Mt 5, 13-16",
+        "Ps 127, 3-5",
+        "Rdz 1, 28",
+        "1 Kor 7, 3-5"
+      ],
+      "text": [
+        "Prosimy Cię Boże, spraw, aby oboje",
+        "wytrwali w wierze i postępowali według Twych przykazań",
+        "Niech wierni sobie zachowują czystość obyczajów we wspólnym pożyciu,",
+        "a czerpiąc siły z Ewangelii niech głoszą wszystkim Chrystusa.",
+        "(Niech radują się dziećmi, którym przekażą życie, i będą dla nich dobrymi rodzicami,",
+        "niech doczekają się wnuków.)"
+      ]
+    },
+    {
+      "range": "26-27",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "śmierć",
+        "życie wieczne",
+        "niebo",
+        "błogosławieni",
+        "Chrystus",
+        "zbawienie",
+        "schyłek"
+      ],
+      "summary": "Prośba o dar życia wiecznego dla małżonków u schyłku ich lat, aby przeszli do życia błogosławionych w niebie.",
+      "bible": [
+        "J 14, 2-3",
+        "Ap 21, 1-4",
+        "Flp 3, 20-21"
+      ],
+      "text": [
+        "Spraw także, aby u schyłku swych lat przeszli do życia",
+        "błogosławionych w niebie. Przez Chrystusa Pana naszego."
+      ]
+    },
+    {
+      "range": "28",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "amen",
+        "potwierdzenie",
+        "wiara",
+        "zgoda",
+        "liturgia"
+      ],
+      "summary": "Potrójne Amen jako uroczyste zakończenie i potwierdzenie błogosławieństwa nowożeńców.",
+      "bible": [],
+      "text": [
+        "Amen, amen, amen."
+      ]
+    },
+    {
+      "range": "1-28",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "małżeństwo",
+        "sakrament",
+        "błogosławieństwo",
+        "Chrystus",
+        "Kościół",
+        "miłość",
+        "wierność",
+        "rodzina",
+        "Duch Święty",
+        "życie wieczne",
+        "przymierze"
+      ],
+      "summary": "Błogosławieństwo nowożeńców — modlitwa dziękczynna za ustanowienie małżeństwa jako nierozerwalnego związku na wzór Chrystusa i Kościoła, z prośbą o łaskę Ducha Świętego, wierność przymierzu, dar dzieci oraz życie wieczne.",
+      "bible": [
+        "Rdz 1, 27-28",
+        "Rdz 2, 18-24",
+        "Ef 5, 22-33",
+        "Mt 19, 4-6",
+        "Ps 127, 3-5"
+      ]
+    }
+  ]
+}

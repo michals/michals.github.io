@@ -1,0 +1,255 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:522204e3bf1e3dc5195e0fe5561f163ac251f9396ab62073b6adf35ff1fcfc60",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Jezus Chrystus",
+        "Narodzenie",
+        "kołysanka",
+        "macierzyństwo",
+        "radość",
+        "Dzieciątko",
+        "Wcielenie",
+        "Bóg"
+      ],
+      "summary": "Maryja kołysze Jezusa i śpiewa Mu z wielką radością, ukazując czułość macierzyństwa Bożego.",
+      "bible": [
+        "Łk 2, 16"
+      ],
+      "text": [
+        "Gdy śliczna Panna Syna kołysała,",
+        "z wielkim weselem tak Jemu śpiewała:",
+        "Lili lili laj, moje Dzieciąteczko,",
+        "lili lili laj, śliczne Paniąteczko.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "stworzenie",
+        "chwała",
+        "Pan",
+        "radość",
+        "Jezus Chrystus",
+        "Król",
+        "niebo",
+        "dziedzictwo",
+        "uwielbienie",
+        "wesele"
+      ],
+      "summary": "Całe stworzenie wezwane do śpiewania na cześć Chrystusa jako Króla i niebieskiego Dziedzica.",
+      "bible": [
+        "Ps 148",
+        "Kol 1, 15-16"
+      ],
+      "text": [
+        "Wszystko stworzenie, śpiewaj Panu swemu,",
+        "pomóż radości wielkiej sercu memu.",
+        "Lili lili laj, wielki królewicu,",
+        "lili lili laj, niebieski dziedzicu!",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "anioł",
+        "niebo",
+        "chwała",
+        "Jezus Chrystus",
+        "uwielbienie",
+        "pokłon",
+        "żłób",
+        "ubóstwo",
+        "woni",
+        "kwiat"
+      ],
+      "summary": "Aniołowie wezwani do śpiewania Panu leżącemu w ubogim żłobie.",
+      "bible": [
+        "Łk 2, 13-14"
+      ],
+      "text": [
+        "Sypcie się z nieba, śliczni aniołowie,",
+        "śpiewajcie Panu, niebiescy duchowie:",
+        "Lili lili laj, mój wonny kwiateczku,",
+        "lili lili laj, w ubogim żłobeczku.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "cisza",
+        "wiatr",
+        "Pokój",
+        "Jezus Chrystus",
+        "Syn",
+        "Bóg",
+        "miłość",
+        "spokój",
+        "Dzieciątko"
+      ],
+      "summary": "Prośba o ciszę, by nie budzić nowonarodzonego Pana, który jest wdzięcznym Synem i Bogiem.",
+      "bible": [
+        "Mdr 18, 14-15"
+      ],
+      "text": [
+        "Cicho, wietrzyku, cicho, południowy,",
+        "cicho powiewaj, niech śpi Panicz nowy:",
+        "Lili lili laj, mój wdzięczny Synaczku,",
+        "lili lili laj, miluchny Robaczku.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "zwierzę",
+        "stajnia",
+        "Jezus Chrystus",
+        "Pan",
+        "miłość",
+        "opieką",
+        "Dzieciątko",
+        "sen",
+        "troska"
+      ],
+      "summary": "Prośba do zwierząt, by swym oddechem nie przerywały snu Dzieciątka, które jest Jedynym Panem i Kochaniem.",
+      "bible": [
+        "Iz 11, 6"
+      ],
+      "text": [
+        "Cicho bydlątka parą swą chuchajcie,",
+        "ślicznej Dziecinie snu nie przerywajcie:",
+        "Lili lili laj, mój Jedyny Panie,",
+        "lili lili laj, Jedyne Kochanie.",
+        ""
+      ]
+    },
+    {
+      "range": "26-30",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "serce",
+        "radość",
+        "śpiew",
+        "Jezus Chrystus",
+        "Syn",
+        "miłość",
+        "słodycz",
+        "kochanie"
+      ],
+      "summary": "Serce Maryi rozpływa się z radości podczas śpiewania Jezusowi, swemu najdroższemu Synowi.",
+      "bible": [
+        "Łk 1, 46-47"
+      ],
+      "text": [
+        "O jako serce jako się rozpływa!",
+        "Jakiej radości śpiewając zażywa:",
+        "Lili lili laj, mój drogi Kanaczku,",
+        "lili lili laj, najmilszy Synaczku.",
+        ""
+      ]
+    },
+    {
+      "range": "31-35",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "milczenie",
+        "słowo",
+        "serce",
+        "Jezus Chrystus",
+        "Bóg",
+        "Wcielenie",
+        "kontemplacja",
+        "miłość",
+        "niezmierzony"
+      ],
+      "summary": "Maryja pojmuje słowa Jezusa sercem w milczeniu, wyznając Jego boskość jako Boga wcielonego i niezmierzonego.",
+      "bible": [
+        "Łk 2, 19",
+        "J 1, 14"
+      ],
+      "text": [
+        "Nic mi nie mówisz, o Kochanie moje!",
+        "Przecież pojmuję w sercu słowa Twoje:",
+        "Lili lili laj, o Boże wcielony,",
+        "lili lili laj, nigdy niezmierzony.",
+        ""
+      ]
+    },
+    {
+      "range": "36-39",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "sen",
+        "pokój",
+        "Jezus Chrystus",
+        "perła",
+        "rubin",
+        "miłość",
+        "bezpieczeństwo",
+        "Matka",
+        "Dzieciątko"
+      ],
+      "summary": "Kołysanka na dobranoc – Maryja otacza Jezusa czułą opieką, nazywając Go perłą i rubinem.",
+      "bible": [
+        "Łk 2, 16"
+      ],
+      "text": [
+        "Śpijcie już sobie, moja Perło droga,",
+        "niech Ci snu nie rwie żadna przykra trwoga.",
+        "Lili lili laj, mój śliczny rubinie,",
+        "lili lili laj, póki sen nie minie."
+      ]
+    },
+    {
+      "range": "1-39",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Jezus Chrystus",
+        "Narodzenie",
+        "kołysanka",
+        "macierzyństwo",
+        "radość",
+        "Wcielenie",
+        "stworzenie",
+        "anioł",
+        "uwielbienie",
+        "żłób",
+        "ubóstwo",
+        "Bóg",
+        "miłość",
+        "pokłon",
+        "chwała"
+      ],
+      "summary": "Ludowa kołysanka Maryi do Dzieciątka Jezus, łącząca czułość macierzyńską z głęboką teologią Wcielenia – Bóg staje się małym Dzieckiem, które całe stworzenie i niebo uwielbia.",
+      "bible": [
+        "Łk 2, 16",
+        "J 1, 14",
+        "Ps 148",
+        "Iz 11, 6",
+        "Mdr 18, 14-15"
+      ]
+    }
+  ]
+}

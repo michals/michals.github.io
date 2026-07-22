@@ -1,0 +1,331 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:3e20b7b1d85f563d39cd88a3ea0de09b538c640ae981017788407551ae91a138",
+  "songs_analysis": [
+    {
+      "type": "refren",
+      "range": "1-4",
+      "sentiment": "pokutny",
+      "keywords": [
+        "oblubieniec",
+        "drzewo",
+        "loze",
+        "poslanie"
+      ],
+      "bible": [
+        "Pnp 5,1",
+        "1 P 2,24",
+        "J 19,17-18"
+      ],
+      "summary": "Wezwanie Oblubieńca, by wstąpił na drzewo swego loza (krzyż).",
+      "text": [
+        "Niech wstąpi Oblubieniec,",
+        "niech wstąpi na drzewo swego łoża;",
+        "niech wstąpi nasz Oblubieniec,",
+        "na posłanie, na posłanie swego łoża."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "6-7",
+      "sentiment": "pokutny",
+      "keywords": [
+        "sen",
+        "umieranie",
+        "bok",
+        "otwarcie",
+        "dziewica",
+        "kościół"
+      ],
+      "bible": [
+        "J 19,34",
+        "Rdz 2,21-22",
+        "Ef 5,25-27"
+      ],
+      "summary": "Niech śpi umierając, a Jego bok się otworzy, i wyjdzie z niego Dziewica Kościół.",
+      "text": [
+        "Niech śpi umierając, a Jego bok niech się otworzy,",
+        "i wyjdzie z niego Dziewica Kościół."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "9-10",
+      "sentiment": "pokutny",
+      "keywords": [
+        "bok",
+        "przebity",
+        "krew",
+        "woda",
+        "wyplynięcie"
+      ],
+      "bible": [
+        "J 19,34",
+        "1 J 5,6"
+      ],
+      "summary": "Z Jego boku przebitego natychmiast wyplynęła Krew i woda.",
+      "text": [
+        "Z Jego boku przebitego natychmiast wypłynęła",
+        "Krew i woda, Krew i woda."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "12-15",
+      "sentiment": "radosny",
+      "keywords": [
+        "woda",
+        "obmycie",
+        "oblubienica",
+        "krew",
+        "posag",
+        "adam",
+        "ewa",
+        "chrystus",
+        "kościół"
+      ],
+      "bible": [
+        "Rdz 2,21-23",
+        "Ef 5,25-32",
+        "J 19,34",
+        "Tt 3,5"
+      ],
+      "summary": "Woda, w ktorej Oblubienica zostala obmyta (chrzest), a Krew otrzymuje jako posag (Eucharystia). Zasypia Adam i stworzona jest Ewa, umiera Chrystus i tworzony jest Kościół.",
+      "text": [
+        "Woda, w której Oblubienica została obmyta,",
+        "Krew otrzymuje jako posag.",
+        "Zasypia Adam i stworzona jest Ewa,",
+        "umiera Chrystus i tworzony jest Kościół."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "17-20",
+      "sentiment": "pokutny",
+      "keywords": [
+        "oblubieniec",
+        "drzewo",
+        "loze",
+        "poslanie"
+      ],
+      "bible": [
+        "Pnp 5,1",
+        "1 P 2,24",
+        "J 19,17-18"
+      ],
+      "summary": "Powtorzenie refrenu.",
+      "text": [
+        "Niech wstąpi Oblubieniec,",
+        "niech wstąpi na drzewo swego łoża;",
+        "niech wstąpi nasz Oblubieniec,",
+        "na posłanie, na posłanie swego łoża."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "22-23",
+      "sentiment": "radosny",
+      "keywords": [
+        "sakrament",
+        "zaślubiny",
+        "misterium",
+        "oblubieniec",
+        "oblubienica"
+      ],
+      "bible": [
+        "Ef 5,32",
+        "Ap 19,7-9"
+      ],
+      "summary": "O, jakże wielki jest sakrament tych zaślubin! To misterium Oblubieńca i Oblubienicy.",
+      "text": [
+        "O, jakże wielki jest sakrament tych zaślubin!",
+        "To misterium Oblubieńca i Oblubienicy!"
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "25-27",
+      "sentiment": "pokutny",
+      "keywords": [
+        "welon",
+        "nakladanie",
+        "śmierć",
+        "oblubieniec",
+        "lączenie",
+        "zmartwychwstanie"
+      ],
+      "bible": [
+        "J 19,30",
+        "Rz 6,4",
+        "Ap 21,2"
+      ],
+      "summary": "Oblubienica naklada welon, gdy umiera Oblubieniec, i lączy się z Nią, gdy ze śmierci powstaje.",
+      "text": [
+        "Oblubienica nakłada welon,kiedy umiera Oblubieniec,",
+        "i Oblubieniec łączy się z Oblubienicą,",
+        "kiedy ze śmierci powstaje."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "29-30",
+      "sentiment": "radosny",
+      "keywords": [
+        "wstąpienie",
+        "niebiosa",
+        "oblubienica",
+        "plodność",
+        "ziemia"
+      ],
+      "bible": [
+        "Dz 1,9-11",
+        "Ef 1,22-23",
+        "Ap 12,1-2"
+      ],
+      "summary": "Gdy Oblubieniec wstępuje na Niebiosa, Oblubienica staje się plodna na calej ziemi (Kościół misyjny).",
+      "text": [
+        "A kiedy Oblubieniec wstępuje na Niebiosa, aj!",
+        "Oblubienica staje się płodna na całej ziemi."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "32-35",
+      "sentiment": "pokutny",
+      "keywords": [
+        "oblubieniec",
+        "drzewo",
+        "loze",
+        "poslanie"
+      ],
+      "bible": [
+        "Pnp 5,1",
+        "1 P 2,24",
+        "J 19,17-18"
+      ],
+      "summary": "Koncowe powtorzenie refrenu.",
+      "text": [
+        "Niech wstąpi Oblubieniec,",
+        "niech wstąpi na drzewo swego łoża;",
+        "niech wstąpi nasz Oblubieniec,",
+        "na posłanie, na posłanie swego łoża."
+      ]
+    },
+    {
+      "type": "fragment",
+      "range": "1-35",
+      "sentiment": "radosny",
+      "keywords": [
+        "oblubieniec",
+        "drzewo",
+        "loze",
+        "krzyż",
+        "bok",
+        "krew",
+        "woda",
+        "adam",
+        "ewa",
+        "kościół",
+        "sakrament",
+        "zaślubiny",
+        "śmierć",
+        "zmartwychwstanie",
+        "wstąpienie",
+        "misterium"
+      ],
+      "bible": [
+        "J 19,34",
+        "Rdz 2,21-23",
+        "Ef 5,25-32",
+        "Ap 19,7-9",
+        "Dz 1,9-11",
+        "Typologia: drzewo loza = krzyż; sen/śmierć Chrystusa = sen Adama; bok Chrystusa = zrodlo sakramentow (Krew = Eucharystia, woda = chrzest); Ewa = Kościół; welon = wiara; wstąpienie na niebiosa = Wniebowstąpienie i misja Kościoła"
+      ],
+      "summary": "Śpiew paschalny o Chrystusie-Oblubieńcu, ktory na krzyżu zasypia we śnie śmierci, a z Jego przebitego boku rodzi się Kościół-Oblubienica przez krew i wodę sakramentow. Misterium zaślubin Chrystusa i Kościoła, od krzyża przez zmartwychwstanie aż po Wniebowstąpienie.",
+      "text": [
+        "Niech wstąpi Oblubieniec,",
+        "niech wstąpi na drzewo swego łoża;",
+        "niech wstąpi nasz Oblubieniec,",
+        "na posłanie, na posłanie swego łoża.",
+        "",
+        "Niech śpi umierając, a Jego bok niech się otworzy,",
+        "i wyjdzie z niego Dziewica Kościół.",
+        "",
+        "Z Jego boku przebitego natychmiast wypłynęła",
+        "Krew i woda, Krew i woda.",
+        "",
+        "Woda, w której Oblubienica została obmyta,",
+        "Krew otrzymuje jako posag.",
+        "Zasypia Adam i stworzona jest Ewa,",
+        "umiera Chrystus i tworzony jest Kościół.",
+        "",
+        "Niech wstąpi Oblubieniec,",
+        "niech wstąpi na drzewo swego łoża;",
+        "niech wstąpi nasz Oblubieniec,",
+        "na posłanie, na posłanie swego łoża.",
+        "",
+        "O, jakże wielki jest sakrament tych zaślubin!",
+        "To misterium Oblubieńca i Oblubienicy!",
+        "",
+        "Oblubienica nakłada welon,kiedy umiera Oblubieniec,",
+        "i Oblubieniec łączy się z Oblubienicą,",
+        "kiedy ze śmierci powstaje.",
+        "",
+        "A kiedy Oblubieniec wstępuje na Niebiosa, aj!",
+        "Oblubienica staje się płodna na całej ziemi.",
+        "",
+        "Niech wstąpi Oblubieniec,",
+        "niech wstąpi na drzewo swego łoża;",
+        "niech wstąpi nasz Oblubieniec,",
+        "na posłanie, na posłanie swego łoża."
+      ]
+    },
+    {
+      "type": "całość",
+      "range": "1-35",
+      "sentiment": "radosny",
+      "keywords": [
+        "oblubieniec",
+        "chrystus",
+        "drzewo",
+        "krzyż",
+        "loze",
+        "bok",
+        "krew",
+        "woda",
+        "kościół",
+        "oblubienica",
+        "adam",
+        "ewa",
+        "sakrament",
+        "zaślubiny",
+        "misterium",
+        "śmierć",
+        "zmartwychwstanie",
+        "wstąpienie",
+        "welon",
+        "plodność",
+        "chrzest",
+        "eucharystia",
+        "kwodwultdeus",
+        "pascha"
+      ],
+      "bible": [
+        "Rdz 2,21-23 (sen Adama, stworzenie Ewy z żebra)",
+        "Rdz 3,15 (Protoewangelia)",
+        "J 19,34 (bok Chrystusa przebity, krew i woda)",
+        "J 19,30 (Chrystus umiera - 'dokonało się')",
+        "Dz 1,9-11 (Wniebowstąpienie)",
+        "Ef 5,25-32 (małżeństwo - Chrystus i Kościół, wielki sakrament)",
+        "Ef 1,22-23 (Kościół jako Cialo Chrystusa)",
+        "Ap 19,7-9 (zaślubiny Baranka)",
+        "Ap 21,2 (Nowe Jeruzalem - Oblubienica)",
+        "1 J 5,6 (Duch, woda i krew)",
+        "Tt 3,5 (obmycie - chrzest)",
+        "1 P 2,24 (drzewo krzyża)",
+        "Typologia: drzewo loza = krzyż; sen Adama = śmierć Chrystusa na krzyżu; Ewa z żebra Adama = Kościół z boku Chrystusa; woda = chrzest; krew = Eucharystia; welon Oblubienicy = wiara; plodność na ziemi = misyjny charakter Kościoła"
+      ],
+      "summary": "Śpiew paschalny przypisywany św. Kwodwultdeuszowi, oparty na typologii Adam-Chrystus i Ewa-Kościół. Chrystus-Oblubieniec wstępuje na krzyż (drzewo swego loza), a z Jego przebitego boku wyplywa krew i woda - sakramenty, z ktorych rodzi się Kościół-Oblubienica. Po zmartwychwstaniu i Wniebowstąpieniu Oblubieniec lączy się z Oblubienicą, ktora staje się plodna na calej ziemi."
+    }
+  ]
+}

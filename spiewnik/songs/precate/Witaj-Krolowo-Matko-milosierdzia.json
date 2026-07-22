@@ -1,0 +1,132 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:1685b0586d5ceec20a2bbd4f2ad276da13161bede69b1aa45ce5f48ad5ff8046",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "wstęp",
+      "sentiment": "błagalny",
+      "keywords": [
+        "królowa",
+        "matka",
+        "miłosierdzie",
+        "życie",
+        "słodycz",
+        "nadzieja",
+        "wygnanie",
+        "syn",
+        "Ewa",
+        "łza",
+        "płacz",
+        "dolina",
+        "łez"
+      ],
+      "summary": "Inwokacja do Maryi jako Królowej i Matki Miłosierdzia, zawierająca wołanie wygnańców — synów Ewy — jęczących i płaczących na tym łez padole, co nawiązuje do stanu człowieka po grzechu pierworodnym.",
+      "bible": [
+        "Łk 1:28",
+        "Rdz 3:15-19",
+        "Rdz 3:20",
+        "1 P 2:11",
+        "Ps 42:3",
+        "Ps 80:5"
+      ],
+      "text": [
+        "Witaj Królowo, Matko Miłosierdzia,",
+        "życie, słodyczy i nadziejo nasza, witaj!",
+        "Do Ciebie wołamy wygnańcy, synowie Ewy;",
+        "do Ciebie wzdychamy jęcząc i płacząc",
+        "na tym łez padole, na tym łez padole."
+      ]
+    },
+    {
+      "range": "6-11",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Pani",
+        "orędownictwo",
+        "miłosierny",
+        "oko",
+        "Jezus",
+        "owoc",
+        "żywot",
+        "łono",
+        "łaska",
+        "litość",
+        "słodki",
+        "Panna",
+        "Maryja"
+      ],
+      "summary": "Błagalna prośba do Maryi jako Orędowniczki, by zwróciła swe miłosierne oczy i po wygnaniu ukazała Jezusa — błogosławiony owoc Jej żywota, zakończona potrójną aklamacją: o łaskawa, o litościwa, o słodka Panno Maryjo.",
+      "bible": [
+        "Łk 1:42",
+        "Łk 1:48",
+        "J 2:1-5",
+        "J 19:26-27",
+        "1 J 2:1",
+        "Hbr 4:15-16"
+      ],
+      "text": [
+        "Przeto, Pani, Orędowniczko nasza,",
+        "one miłosierne oczy Twoje na nas zwróć,",
+        "a Jezusa, błogosławiony owoc żywota Twojego,",
+        "po tym wygnaniu nam okaż.",
+        "O łaskawa, o litościwa,",
+        "o słodka Panno Maryjo!"
+      ]
+    },
+    {
+      "range": "12-14",
+      "type": "zakończenie",
+      "sentiment": "błagalny",
+      "keywords": [
+        "modlitwa",
+        "wstawiennictwo",
+        "święty",
+        "Bóg",
+        "Rodzicielka",
+        "godność",
+        "obietnica",
+        "Chrystus"
+      ],
+      "summary": "Końcowa prośba o modlitwę wstawienniczą Maryi — Świętej Bożej Rodzicielki — aby lud wierzący stał się godnym obietnic Chrystusowych.",
+      "bible": [
+        "Łk 1:43",
+        "J 2:1-5",
+        "Hbr 4:14-16",
+        "Ef 3:12"
+      ],
+      "text": [
+        "Módl się za nami święta Boża Rodzicielko.",
+        "Abyśmy się stali godnymi obietnic",
+        "Chrystusowych, Chrystusowych."
+      ]
+    },
+    {
+      "range": "1-14",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "Królowa",
+        "Matka Miłosierdzia",
+        "orędownictwo",
+        "wstawiennictwo",
+        "wygnanie",
+        "grzech",
+        "Jezus",
+        "odkupienie",
+        "Boża Rodzicielka",
+        "salve regina"
+      ],
+      "summary": "Antyfona Salve Regina w przekładzie polskim — maryjny hymn błagalny, w którym Kościół pielgrzymujący na wygnaniu ziemskiego życia wzywa Maryję jako Królową i Matkę Miłosierdzia, Orędowniczkę i Pośredniczkę, prosząc o ukazanie Jezusa po zakończeniu ziemskiego wygnania.",
+      "bible": [
+        "Łk 1:28.42-43.48",
+        "J 19:26-27",
+        "Rdz 3:15-20",
+        "1 J 2:1",
+        "Ap 12:1"
+      ]
+    }
+  ]
+}

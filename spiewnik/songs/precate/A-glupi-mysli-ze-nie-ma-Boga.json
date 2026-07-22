@@ -1,0 +1,179 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:91c6faeece6f9dd9184595a69b7b18a43c6423d1c9012855087e540808656122",
+  "songs_analysis": [
+    {
+      "range": "1",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "Nagłówek pieśni — Ps 14, parafraza",
+      "bible": [],
+      "text": [
+        "A głupi myśli, że nie ma Boga."
+      ]
+    },
+    {
+      "range": "1-5",
+      "type": "wstęp",
+      "sentiment": "pokutny",
+      "keywords": [
+        "głupi",
+        "Bóg",
+        "zepsucie",
+        "dobro",
+        "grzech",
+        "ateizm"
+      ],
+      "summary": "Głupota odrzucenia Boga prowadzi do powszechnego zepsucia i braku czynienia dobra.",
+      "bible": [
+        "Ps 14:1"
+      ],
+      "text": [
+        "A głupi myśli, że nie ma Boga.",
+        "Są zepsuci, ohydne rzeczy popełniają.",
+        "Nie ma nikogo, kto czyni dobro,",
+        "nie ma nikogo, kto czyni dobro.",
+        ""
+      ]
+    },
+    {
+      "range": "6-12",
+      "type": "fragment",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Pan",
+        "Bóg",
+        "mądrość",
+        "szukanie Boga",
+        "zepsucie"
+      ],
+      "summary": "Bóg pochyla się z nieba, szukając człowieka mądrego, ale wszyscy zbłądzili i są zepsuci.",
+      "bible": [
+        "Ps 14:2-3",
+        "Rz 3:10-12"
+      ],
+      "text": [
+        "Pan z nieba pochyla się nad ludźmi,",
+        "by zobaczyć, czy istnieje jakiś człowiek mądry,",
+        "człowiek, który szuka Boga,",
+        "człowiek, który szuka Boga.",
+        "Wszyscy zbłądzili, wszyscy są zepsuci;",
+        "Nie ma takiego, co czyni dobrze, nie ma ani jednego.",
+        ""
+      ]
+    },
+    {
+      "range": "13-15",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "głupi",
+        "Bóg",
+        "zepsucie",
+        "ohyda"
+      ],
+      "summary": "Refren powtarzający głupotę zaprzeczenia istnieniu Boga i wynikające z niej zepsucie.",
+      "bible": [
+        "Ps 14:1"
+      ],
+      "text": [
+        "A głupi myśli, że nie ma Boga.",
+        "Są zepsuci, ohydne rzeczy popełniają.",
+        ""
+      ]
+    },
+    {
+      "range": "16-21",
+      "type": "fragment",
+      "sentiment": "pokutny",
+      "keywords": [
+        "niegodziwcy",
+        "Bóg",
+        "strach",
+        "sprawiedliwy",
+        "ucieczka",
+        "Pan",
+        "sąd"
+      ],
+      "summary": "Niegodziwcy lud Boży pożerają i nie wzywają Boga, lecz zadrżą ze strachu, bo Bóg jest ucieczką sprawiedliwych.",
+      "bible": [
+        "Ps 14:4-6"
+      ],
+      "text": [
+        "Nic nie rozumieją ludzie nikczemni,",
+        "niegodziwcy, co lud mój pożerają, jak chleb.",
+        "Nie wzywają Boga, lecz zadrżą ze strachu,",
+        "bo jest Bóg ze sprawiedliwym,",
+        "Pan jest jego ucieczką.",
+        ""
+      ]
+    },
+    {
+      "range": "22-26",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "sprawiedliwy",
+        "Pan",
+        "ucieczka",
+        "obecność"
+      ],
+      "summary": "Refren głoszący radosną pewność, że Bóg jest ze sprawiedliwym, a Pan jego ucieczką.",
+      "bible": [
+        "Ps 14:5b-6"
+      ],
+      "text": [
+        "Bo jest Bóg ze sprawiedliwym,",
+        "Pan jest jego ucieczką.",
+        "Bo jest Bóg ze sprawiedliwym,",
+        "Pan jest jego ucieczką.",
+        ""
+      ]
+    },
+    {
+      "range": "27-30",
+      "type": "zakończenie",
+      "sentiment": "pokutny",
+      "keywords": [
+        "głupi",
+        "Bóg",
+        "zepsucie",
+        "dobro"
+      ],
+      "summary": "Końcowe powtórzenie motywu głupoty odrzucenia Boga i braku czyniących dobro.",
+      "bible": [
+        "Ps 14:1"
+      ],
+      "text": [
+        "A głupi myśli, że nie ma Boga.",
+        "Są zepsuci, ohydne rzeczy popełniają.",
+        "Nie ma nikogo, kto czyni dobro,",
+        "nie ma nikogo, kto czyni dobro."
+      ]
+    },
+    {
+      "range": "1-30",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Psalm 14",
+        "głupota",
+        "ateizm",
+        "grzech",
+        "zepsucie",
+        "sąd Boży",
+        "sprawiedliwość",
+        "ucieczka",
+        "Pan",
+        "zbawienie"
+      ],
+      "summary": "Parafraza Psalmu 14: głupota odrzucenia Boga, powszechność grzechu, ale Bóg pozostaje ucieczką dla sprawiedliwych.",
+      "bible": [
+        "Ps 14",
+        "Rz 3:10-18"
+      ]
+    }
+  ]
+}

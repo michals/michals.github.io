@@ -1,0 +1,235 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:b83dc9255199fd3ca5b401bebc32e16a694a736effbc01ad3da145d75c02366c",
+  "songs_analysis": [
+    {
+      "range": "1",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "1",
+      "bible": [],
+      "text": [
+        "Pan jest światłem i zbawieniem moim,"
+      ]
+    },
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "światło",
+        "zbawienie",
+        "podpora",
+        "życie",
+        "lęk",
+        "trwoga",
+        "ufność",
+        "odwaga"
+      ],
+      "summary": "Pan jest światłem i zbawieniem — fundamentalne wyznanie ufności eliminujące lęk przed jakimkolwiek przeciwnościem.",
+      "bible": [
+        "Ps 27, 1",
+        "Iz 60, 20",
+        "J 8, 12",
+        "1 J 1, 5"
+      ],
+      "text": [
+        "Pan jest światłem i zbawieniem moim,",
+        "czego mam się lękać?",
+        "Pan podporą jest mojego życia,",
+        "przed kim mam się trwożyć?",
+        ""
+      ]
+    },
+    {
+      "range": "6-12",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wierzyć",
+        "dobroć",
+        "Pan",
+        "zobaczyć",
+        "nadzieja",
+        "odwaga",
+        "męstwo",
+        "czekanie",
+        "ufność"
+      ],
+      "summary": "Wyznanie wiary, że dobroć Pana zostanie ujrzana oraz wezwanie do nadziei i odwagi w oczekiwaniu na Pana — czterokrotnie powtórzona zachęta 'Miej nadzieję w Panu'.",
+      "bible": [
+        "Ps 27, 13-14",
+        "Ps 42, 6",
+        "Iz 40, 31",
+        "Rz 8, 25",
+        "Hbr 10, 35-36"
+      ],
+      "text": [
+        "Wierzę, że kiedyś na pewno",
+        "dobroć Twą, Panie, zobaczę.",
+        "Miej nadzieję w Panu, odwagi!",
+        "Miej nadzieję w Panu, odwagi!",
+        "Miej nadzieję w Panu, odwagi!",
+        "Miej nadzieję w Panu!",
+        ""
+      ]
+    },
+    {
+      "range": "13-17",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "prosić",
+        "Pan",
+        "poszukiwać",
+        "dom",
+        "przebywać",
+        "dni",
+        "obecność",
+        "tęsknota",
+        "świątynia"
+      ],
+      "summary": "Najgłębsze pragnienie duszy: mieszkać w domu Pana przez wszystkie dni życia — tęsknota za nieustanną obecnością Bożą, nawiązanie do Ps 27, 4.",
+      "bible": [
+        "Ps 27, 4",
+        "Ps 23, 6",
+        "Ps 84, 2-3",
+        "Ps 26, 8",
+        "Łk 2, 37"
+      ],
+      "text": [
+        "O jedno tylko proszę mego Pana,",
+        "tego poszukuję,",
+        "bym w domu Pana mógł przebywać",
+        "po wszystkie moje dni.",
+        ""
+      ]
+    },
+    {
+      "range": "18-24",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wierzyć",
+        "dobroć",
+        "Pan",
+        "zobaczyć",
+        "nadzieja",
+        "odwaga",
+        "ufność"
+      ],
+      "summary": "Powtórzenie refrenu: wiara w ujrzenie dobroci Pana i zachęta do nadziei — responsorium wspólnoty wierzących.",
+      "bible": [
+        "Ps 27, 13-14",
+        "Ps 42, 6",
+        "Iz 40, 31"
+      ],
+      "text": [
+        "Wierzę, że kiedyś na pewno",
+        "dobroć Twą, Panie, zobaczę.",
+        "Miej nadzieję w Panu, odwagi!",
+        "Miej nadzieję w Panu, odwagi!",
+        "Miej nadzieję w Panu, odwagi!",
+        "Miej nadzieję w Panu!",
+        ""
+      ]
+    },
+    {
+      "range": "25-29",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "chronić",
+        "skrzydło",
+        "bitwa",
+        "ręka",
+        "bezpieczeństwo",
+        "opoka",
+        "schronienie",
+        "droga"
+      ],
+      "summary": "Pan chroni pod swoimi skrzydłami w czasie bitwy i wyciąga rękę — obraz Bożej opieki i prowadzenia bezpieczną drogą.",
+      "bible": [
+        "Ps 27, 5",
+        "Ps 17, 8",
+        "Ps 57, 2",
+        "Ps 91, 4",
+        "Rt 2, 12",
+        "Mt 23, 37"
+      ],
+      "text": [
+        "Pan mnie chroni pod skrzydłami swymi,",
+        "gdy rozgorzeje bitwa.",
+        "Pan wyciąga ku mnie swoją rękę,",
+        "będę szedł bezpiecznie.",
+        ""
+      ]
+    },
+    {
+      "range": "30-35",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wierzyć",
+        "dobroć",
+        "Pan",
+        "zobaczyć",
+        "nadzieja",
+        "odwaga",
+        "ufność"
+      ],
+      "summary": "Końcowe powtórzenie refrenu: triumfalne potwierdzenie ufności — pieśń zamyka się w atmosferze niezachwianej nadziei.",
+      "bible": [
+        "Ps 27, 13-14",
+        "Ps 42, 6",
+        "Iz 40, 31"
+      ],
+      "text": [
+        "Wierzę, że kiedyś na pewno",
+        "dobroć Twą, Panie, zobaczę.",
+        "Miej nadzieję w Panu, odwagi!",
+        "Miej nadzieję w Panu, odwagi!",
+        "Miej nadzieję w Panu, odwagi!",
+        "Miej nadzieję w Panu!"
+      ]
+    },
+    {
+      "range": "1-35",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "światło",
+        "zbawienie",
+        "ufność",
+        "nadzieja",
+        "odwaga",
+        "dom",
+        "obecność",
+        "dobroć",
+        "chronić",
+        "skrzydło",
+        "wierzyć",
+        "prosić",
+        "życie",
+        "lęk"
+      ],
+      "summary": "Parafraza Psalmu 27 w formie pieśni responsoryjnej: trzy zwrotki przeplatane refrenem wyrażają niezachwianą ufność w Boga. Pan jest światłem rozpraszającym ciemność, podporą życia, schronieniem w bitwie. Najgłębszym pragnieniem psalmisty jest mieszkanie w domu Pana. Refren 'Miej nadzieję w Panu, odwagi!' staje się mantrą wiary, która pokonuje lęk. Typologicznie: światło Pańskie zapowiada Chrystusa — Światłość świata (J 8, 12); skrzydła Pana to opieka Boża, której pełnię objawia Jezus zbierający Jerusalem jak kura swe pisklęta (Mt 23, 37).",
+      "bible": [
+        "Ps 27",
+        "J 8, 12",
+        "1 J 1, 5",
+        "Iz 60, 20",
+        "Ps 17, 8",
+        "Ps 91, 4",
+        "Mt 23, 37",
+        "Iz 40, 31",
+        "Rz 8, 25",
+        "Hbr 10, 35-36"
+      ]
+    }
+  ]
+}

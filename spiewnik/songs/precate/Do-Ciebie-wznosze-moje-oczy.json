@@ -1,0 +1,207 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:5b01729be1c428255d48c08a0d783e7ab9278f194a47e428472b6014518a880e",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wznosić",
+        "oczy",
+        "Pan",
+        "niebo",
+        "Bóg",
+        "mieszkać",
+        "ufność"
+      ],
+      "summary": "Wzniesienie oczu ku Panu mieszkającemu w niebie jako wyraz ufności i oczekiwania na zmiłowanie.",
+      "bible": [
+        "Ps 123:1",
+        "Ps 121:1-2",
+        "J 17:1"
+      ],
+      "text": [
+        "Do Ciebie wznoszę moje oczy,",
+        "do Ciebie, który mieszkasz w niebie.",
+        ""
+      ]
+    },
+    {
+      "range": "4-11",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "oczy",
+        "sługa",
+        "pani",
+        "niewolnica",
+        "wpatrywać",
+        "Pan",
+        "zmiłować",
+        "ufać",
+        "miłosierdzie"
+      ],
+      "summary": "Oczy sług wpatrzone w ręce panów jako obraz ufnego oczekiwania na Boga, który się zmiłuje.",
+      "bible": [
+        "Ps 123:2",
+        "Ps 25:15",
+        "Ps 145:15",
+        "1 P 1:3"
+      ],
+      "text": [
+        "Jak oczy sług",
+        "są wpatrzone w ręce ich panów,",
+        "jak oczy niewolnicy",
+        "w ręce jej pani,",
+        "tak nasze oczy wpatrują się w Pana,",
+        "ufając, że się zmiłuje,",
+        "ufając, że się zmiłuje.",
+        ""
+      ]
+    },
+    {
+      "range": "12-14",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "litość",
+        "Pan",
+        "miłosierdzie",
+        "Bóg",
+        "zmiłowanie"
+      ],
+      "summary": "Dwukrotne błaganie o litość Pana jako odpowiedź na ufne oczekiwanie.",
+      "bible": [
+        "Ps 123:3",
+        "Ps 51:3",
+        "Łk 18:38"
+      ],
+      "text": [
+        "Miej litość nad nami, o Panie.",
+        "Miej litość nad nami, o Panie.",
+        ""
+      ]
+    },
+    {
+      "range": "15-17",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "dusza",
+        "pogarda",
+        "szyderstwo",
+        "nasycenie",
+        "wypełnienie",
+        "cierpienie",
+        "upokorzenie"
+      ],
+      "summary": "Wyznanie, że dusza jest nasycona pogardą i wypełniona szyderstwem ze strony wrogów.",
+      "bible": [
+        "Ps 123:3-4",
+        "Ps 119:22",
+        "Ps 69:21"
+      ],
+      "text": [
+        "Nasza dusza jest nasycona pogardą.",
+        "Bo nazbyt nas wypełnili szyderstwem.",
+        ""
+      ]
+    },
+    {
+      "range": "18-20",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "pogarda",
+        "pycha",
+        "szyderstwo",
+        "prześmiewca",
+        "wróg"
+      ],
+      "summary": "Skarga na pogardę ludzi pysznych i szyderstwo prześmiewców.",
+      "bible": [
+        "Ps 123:4",
+        "Ps 119:51",
+        "Prz 21:24"
+      ],
+      "text": [
+        "Pogardą ludzi pysznych.",
+        "Szyderstwem prześmiewców.",
+        ""
+      ]
+    },
+    {
+      "range": "21-23",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "litość",
+        "Pan",
+        "miłosierdzie",
+        "Bóg",
+        "zmiłowanie"
+      ],
+      "summary": "Ponowione błaganie o litość Pana wobec doznawanej pogardy.",
+      "bible": [
+        "Ps 123:3"
+      ],
+      "text": [
+        "Miej litość nad nami, o Panie.",
+        "Miej litość nad nami, o Panie.",
+        ""
+      ]
+    },
+    {
+      "range": "24-25",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wznosić",
+        "oczy",
+        "Pan",
+        "niebo",
+        "Bóg",
+        "mieszkać",
+        "ufność"
+      ],
+      "summary": "Powtórne wzniesienie oczu ku Panu mieszkającemu w niebie, zamykające psalm tą samą ufną postawą.",
+      "bible": [
+        "Ps 123:1"
+      ],
+      "text": [
+        "Do Ciebie wznoszę moje oczy,",
+        "do Ciebie, który mieszkasz w niebie."
+      ]
+    },
+    {
+      "range": "1-25",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "oczy",
+        "Pan",
+        "niebo",
+        "ufność",
+        "miłosierdzie",
+        "litość",
+        "sługa",
+        "pogarda",
+        "szyderstwo",
+        "dusza",
+        "cierpienie",
+        "Bóg",
+        "zmiłowanie",
+        "prześmiewca",
+        "pycha"
+      ],
+      "summary": "Psalm błagalny wyrażający ufne oczekiwanie na Boga pośród pogardy i szyderstw wrogów. Oczy sług wpatrzonych w ręce panów stają się obrazem ufności w Boże miłosierdzie. Typologicznie zapowiada Chrystusa wzgardzonego i wyśmianego, który ufa Ojcu.",
+      "bible": [
+        "Ps 123",
+        "Iz 53:3",
+        "Mt 27:39-44",
+        "1 P 2:23"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:e64cc73e78019b1dc7c7c4a16a32973d086678788207b17d4cfc4fdb95213eee",
+  "songs_analysis": [
+    {
+      "range": "1-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "krzyż",
+        "chwalebny",
+        "zmartwychwstały",
+        "Pan",
+        "drzewo",
+        "zbawienie",
+        "pokarm",
+        "rozkosz",
+        "korzeń",
+        "gałąź",
+        "wzrastać",
+        "odpoczywać"
+      ],
+      "summary": "Krzyż zmartwychwstałego Pana jest drzewem zbawienia, które karmi, poi i daje odpoczynek duszy.",
+      "bible": [
+        "Ga 6:14",
+        "Rdz 2:9",
+        "Dz 5:30"
+      ],
+      "text": [
+        "Chwalebny krzyż",
+        "zmartwychwstałego Pana",
+        "jest drzewem",
+        "mojego zbawienia;",
+        "on moim pokarmem,",
+        "on moją rozkoszą,",
+        "w jego korzeniach wzrastam,",
+        "w jego gałęziach odpoczywam."
+      ]
+    },
+    {
+      "range": "10-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "rosa",
+        "ożywiać",
+        "powiew",
+        "użyźniać",
+        "cień",
+        "namiot",
+        "głód",
+        "pokarm",
+        "pragnienie",
+        "źródło",
+        "woda",
+        "okrycie",
+        "nagość",
+        "ścieżka",
+        "droga",
+        "wąski",
+        "drabina",
+        "Jakub",
+        "łoże",
+        "miłość",
+        "poślubić"
+      ],
+      "summary": "Krzyż ożywia rosą Ducha, karmi w głodzie, poi w pragnieniu; jest drabiną Jakuba i łożem zaślubin duszy z Bogiem.",
+      "bible": [
+        "Rdz 28:12-13",
+        "J 1:51",
+        "Wj 16:4",
+        "Wj 17:6",
+        "Oz 2:18-22"
+      ],
+      "text": [
+        "Jego rosa mnie ożywia,",
+        "jego powiew mnie użyźnia,",
+        "w jego cieniu postawiłem mój namiot.",
+        "On w głodzie jest pokarmem,",
+        "w pragnieniu źródłem wody,",
+        "moim okryciem w nagości.",
+        "Stroma ścieżka, moja droga wąska,",
+        "drabina Jakuba, łoże miłości,",
+        "gdzie nas poślubił Pan."
+      ]
+    },
+    {
+      "range": "19-19",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "krzyż",
+        "chwalebny"
+      ],
+      "summary": "Skrócone wezwanie refrenowe – 'Chwalebny krzyż' – przywołujące początek hymnu.",
+      "bible": [
+        "Ga 6:14"
+      ],
+      "text": [
+        "Chwalebny krzyż …"
+      ]
+    },
+    {
+      "range": "21-29",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "trwoga",
+        "obrona",
+        "potknięcie",
+        "podpora",
+        "zwycięstwo",
+        "korona",
+        "walka",
+        "nagroda",
+        "drzewo",
+        "życie",
+        "wieczny",
+        "podpora",
+        "wszechświat",
+        "kościec",
+        "ziemia",
+        "wierzchołek",
+        "niebo",
+        "ramiona",
+        "miłość",
+        "Bóg"
+      ],
+      "summary": "Krzyż jest obroną w trwodze, podporą w słabości, drzewem życia wiecznego; w jego otwartych ramionach jaśnieje miłość Boga.",
+      "bible": [
+        "Ap 2:7",
+        "Ap 22:2",
+        "J 3:14-15",
+        "J 12:32",
+        "Rz 8:38-39"
+      ],
+      "text": [
+        "W trwodze tyś obroną,",
+        "w potknięciu podporą,",
+        "w zwycięstwie koroną,",
+        "w walce tyś nagrodą.",
+        "Drzewo życia wiecznego,",
+        "podpora wszechświata,",
+        "kościec ziemi,",
+        "twój wierzchołek sięga nieba,",
+        "a w twoich ramionach otwartych   jaśnieje miłość Boga."
+      ]
+    },
+    {
+      "range": "30-30",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "krzyż",
+        "chwalebny"
+      ],
+      "summary": "Końcowe wezwanie refrenowe – 'Chwalebny krzyż' – zamykające hymn adoracji krzyża.",
+      "bible": [
+        "Ga 6:14"
+      ],
+      "text": [
+        "Chwalebny krzyż …"
+      ]
+    },
+    {
+      "range": "1-30",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "krzyż",
+        "chwalebny",
+        "zmartwychwstały",
+        "Pan",
+        "drzewo",
+        "zbawienie",
+        "życie",
+        "wieczny",
+        "miłość",
+        "Bóg",
+        "drabina",
+        "Jakub",
+        "niebo",
+        "ramiona",
+        "pokarm",
+        "źródło",
+        "woda",
+        "namiot",
+        "korona",
+        "zwycięstwo"
+      ],
+      "summary": "Hymn o krzyżu chwalebnym ukazuje krzyż jako drzewo życia, sakrament zbawienia i łoże miłości, na którym Bóg jednoczy się z duszą – głęboka mistyka pasyjno-poranna.",
+      "bible": [
+        "Ga 6:14",
+        "Rdz 2:9",
+        "Rdz 28:12-13",
+        "J 1:51",
+        "Ap 22:2",
+        "J 12:32",
+        "Rz 8:38-39"
+      ]
+    }
+  ]
+}

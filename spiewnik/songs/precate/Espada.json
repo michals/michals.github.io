@@ -1,0 +1,214 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:edced54afbf7258f24e6a43d09547603fc76fd69557e70834084d83ebe96516e",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "miecz",
+        "sąd Boży",
+        "Maryja",
+        "Matka Boża",
+        "lament",
+        "proroctwo",
+        "Ezechiel",
+        "kara",
+        "orędownictwo"
+      ],
+      "summary": "Refren łączy obraz miecza sądu Bożego z Ez 21 z lamentacyjnym wezwaniem do Matki Bożej, ukazując napięcie między sprawiedliwością a orędownictwem.",
+      "bible": [
+        "Ez 21, 14-22",
+        "Łk 2, 35"
+      ],
+      "text": [
+        "Espada, espada, bruñida para matar.",
+        "María, Ma ría, madre de Dios.",
+        ""
+      ]
+    },
+    {
+      "range": "4-7",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "krzyk",
+        "syn człowieczy",
+        "Ezechiel",
+        "miecz",
+        "sąd",
+        "lud Boży",
+        "proroctwo",
+        "kara",
+        "Bóg"
+      ],
+      "summary": "Bóg nakazuje prorokowi Ezechielowi (synowi człowieczemu) ogłosić zapowiedź miecza sądu nad ludem Bożym, typologicznie zapowiadając sąd ostateczny.",
+      "bible": [
+        "Ez 21, 14-22",
+        "Ez 2, 1",
+        "Ap 19, 15"
+      ],
+      "text": [
+        "Krzycz, synu człowieczy,",
+        "krzycz, synu człowieczy.",
+        "Miecz jest dla mojego ludu,",
+        "miecz jest dla mojego ludu."
+      ]
+    },
+    {
+      "range": "8-10",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "miecz",
+        "sąd Boży",
+        "Maryja",
+        "Matka Boża",
+        "lament",
+        "orędownictwo"
+      ],
+      "summary": "Powtórzenie refrenu wzywającego orędownictwa Maryi w obliczu Bożego sądu.",
+      "bible": [
+        "Ez 21, 14-22",
+        "Łk 2, 35"
+      ],
+      "text": [
+        "Espada, espada, bruñida para matar.",
+        "María, Ma ría, madre de Dios.",
+        ""
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "nawrócenie",
+        "miecz",
+        "ostrze",
+        "nasycenie",
+        "dusza",
+        "sąd",
+        "Bóg",
+        "sprawiedliwość",
+        "zwrot"
+      ],
+      "summary": "Wezwanie do obrócenia się na wszystkie strony jako obraz całkowitego poddania się sądowi Bożemu, gdzie ostrza miecza nasycą się jak dusza Boga.",
+      "bible": [
+        "Ez 21, 14-22"
+      ],
+      "text": [
+        "Odwróć się w twą prawą stronę,",
+        "odwróć się, odwróć się w lewo",
+        "Tam, gdzie twoje ostrza będą nasycone,",
+        "tam, gdzie nasyci się moja dusza."
+      ]
+    },
+    {
+      "range": "15-17",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "miecz",
+        "sąd Boży",
+        "Maryja",
+        "Matka Boża",
+        "lament",
+        "orędownictwo"
+      ],
+      "summary": "Powtórzenie refrenu orędownictwa Maryi po drugiej zwrotce.",
+      "bible": [
+        "Ez 21, 14-22",
+        "Łk 2, 35"
+      ],
+      "text": [
+        "Espada, espada, bruñida para matar.",
+        "María, Ma ría, madre de Dios.",
+        ""
+      ]
+    },
+    {
+      "range": "18-23",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "miecz",
+        "zabić",
+        "ostrze",
+        "krzyk",
+        "syn człowieczy",
+        "Ezechiel",
+        "sąd",
+        "lud Boży",
+        "śmierć",
+        "proroctwo"
+      ],
+      "summary": "Obraz wyostrzonego miecza na zabicie i ponowiony nakaz krzyku prorockiego zapowiadającego ostateczny sąd nad ludem Bożym.",
+      "bible": [
+        "Ez 21, 14-22",
+        "Ez 2, 1",
+        "Ap 19, 15"
+      ],
+      "text": [
+        "Wyostrzony, aby zabić,",
+        "wyostrzony, aby zabić.",
+        "Krzycz, synu człowieczy,",
+        "krzycz, synu człowieczy.",
+        "Miecz jest dla mojego ludu,",
+        "miecz jest dla mojego ludu."
+      ]
+    },
+    {
+      "range": "24-25",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "miecz",
+        "sąd Boży",
+        "Maryja",
+        "Matka Boża",
+        "lament",
+        "orędownictwo"
+      ],
+      "summary": "Końcowe powtórzenie refrenu zamykającego pieśń sądu i orędownictwa.",
+      "bible": [
+        "Ez 21, 14-22",
+        "Łk 2, 35"
+      ],
+      "text": [
+        "Espada, espada, bruñida para matar.",
+        "María, Ma ría, madre de Dios."
+      ]
+    },
+    {
+      "range": "1-25",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "miecz",
+        "sąd Boży",
+        "proroctwo",
+        "Ezechiel",
+        "syn człowieczy",
+        "Maryja",
+        "Matka Boża",
+        "Wielki Post",
+        "lament",
+        "pokuta",
+        "lud Boży",
+        "nawrócenie",
+        "orędownictwo",
+        "sprawiedliwość",
+        "miłosierdzie"
+      ],
+      "summary": "Pieśń pokutna na Wielki Post łącząca starotestamentowe proroctwo Ezechiela o mieczu sądu Bożego z lamentacyjnym orędownictwem Maryi, Matki Bożej, ukazująca typologiczne napięcie między sprawiedliwością Bożą a miłosierdziem, zapowiadające sąd ostateczny i odkupieńczą ofiarę Chrystusa.",
+      "bible": [
+        "Ez 21, 14-22",
+        "Ez 2, 1",
+        "Łk 2, 35",
+        "Ap 19, 15"
+      ]
+    }
+  ]
+}

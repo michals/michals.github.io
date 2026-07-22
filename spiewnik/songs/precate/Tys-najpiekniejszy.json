@@ -1,0 +1,171 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:70e7a43d48d821e39b3386bd2afeab388e553a086d016559c79fdaab926d6c6d",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "piękno",
+        "syn Adama",
+        "wdzięk",
+        "wargi",
+        "błogosławieństwo",
+        "Pan"
+      ],
+      "summary": "Dwujęzyczne (polsko-hiszpańskie) otwarcie: Tyś najpiękniejszy wśród synów Adama, błogosławiony na zawsze.",
+      "bible": [
+        "Ps 45, 3"
+      ],
+      "text": [
+        "Tyś najpiękniejszy, Tyś najpiękniejszy,",
+        "wśród synów Adama, wśród synów Adama;",
+        "wdzięk się rozlał na twych wargach,",
+        "jesteś błogosławiony, błogosławiony na zawsze.",
+        "Eres hermoso, el más hermoso",
+        "de los hijos de Adán, de los hijos de Adán.",
+        "La gracia está en tus labios,",
+        "eres bendito, el bendito para siempre.",
+        ""
+      ]
+    },
+    {
+      "range": "10-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "miecz",
+        "mocarz",
+        "rydwan",
+        "łaska",
+        "blask",
+        "prawda",
+        "cichość",
+        "sprawiedliwość",
+        "łuk",
+        "strzały",
+        "narody",
+        "piękno",
+        "błogosławieństwo"
+      ],
+      "summary": "Opis Króla-Mesjasza jako mocarza z mieczem, walczącego w obronie prawdy i sprawiedliwości, któremu poddają się narody.",
+      "bible": [
+        "Ps 45, 4-6",
+        "Hbr 1, 8-9"
+      ],
+      "text": [
+        "Przypasz mocarzu miecz do Twego boku",
+        "i wstąp na rydwan pełen łaski i blasku.",
+        "Krocz w obronie prawdy, cichości i sprawiedliwości,",
+        "napnij swój łuk, który moc daje twej prawicy.",
+        "Ostre są twe strzały;",
+        "Poddają się Tobie narody.",
+        "Tyś najpiękniejszy, Tyś najpiękniejszy,",
+        "spośród synów Adama, spośród synów Adama;",
+        "wdzięk się rozlał na twych wargach,",
+        "jesteś błogosławiony, błogosławiony na zawsze.",
+        ""
+      ]
+    },
+    {
+      "range": "21-29",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pałac",
+        "kość słoniowa",
+        "cytry",
+        "córki królewskie",
+        "prawica",
+        "Królowa",
+        "złoto",
+        "Ofir",
+        "piękno",
+        "błogosławieństwo"
+      ],
+      "summary": "Oblubienica Króla – Królowa w złocie z Ofiru stojąca po prawicy, córki królewskie i muzyka cytry z pałaców.",
+      "bible": [
+        "Ps 45, 9-10",
+        "Ap 21, 2"
+      ],
+      "text": [
+        "Z pałaców z kości słoniowej",
+        "cytry śpiewają dla Ciebie;",
+        "córki królewskie twymi ulubienicami,",
+        "po twej prawicy stoi Królowa w złocie z Ofiru.",
+        "Tyś najpiękniejszy, Tyś najpiękniejszy,",
+        "spośród synów Adama, spośród synów Adama;",
+        "wdzięk się rozlał na twych wargach,",
+        "jesteś błogosławiony, błogosławiony na zawsze.",
+        ""
+      ]
+    },
+    {
+      "range": "30-39",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "córka",
+        "słuchaj",
+        "lud",
+        "dom ojca",
+        "król",
+        "piękno",
+        "Pan",
+        "oddanie",
+        "synowie",
+        "książęta",
+        "ziemia",
+        "błogosławieństwo"
+      ],
+      "summary": "Wezwanie do Oblubienicy, by zapomniała o swym ludzie i oddała się Królowi, który uczyni jej synów książętami nad ziemią.",
+      "bible": [
+        "Ps 45, 11-17",
+        "Ap 19, 7-9"
+      ],
+      "text": [
+        "Słuchaj, córko, spójrz, nakłoń ucha,",
+        "zapomnij o swym ludzie i o domu ojca,",
+        "a królowi spodoba się twoja piękność;",
+        "on jest twym Panem, oddaj się Jemu,",
+        "a zamiast ojców będziesz mieć synów,",
+        "których uczynisz książętami nad ziemią.",
+        "Tyś najpiękniejszy, Tyś najpiękniejszy,",
+        "spośród synów Adama, spośród synów Adama;",
+        "wdzięk się rozlał na twych wargach,",
+        "jesteś błogosławiony, błogosławiony na zawsze."
+      ]
+    },
+    {
+      "range": "1-39",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "piękno",
+        "Król",
+        "Mesjasz",
+        "Oblubieniec",
+        "Oblubienica",
+        "miecz",
+        "sprawiedliwość",
+        "narody",
+        "Królowa",
+        "pałac",
+        "córki królewskie",
+        "syna Adama",
+        "błogosławieństwo",
+        "książęta",
+        "ziemia",
+        "Pan"
+      ],
+      "summary": "Adaptacja Psalmu 45 – mesjański psalm weselny, interpretowany w tradycji chrześcijańskiej o Chrystusie-Królu i Kościele-Oblubienicy (Ap 19, 7-9; Ap 21). Dwujęzyczna pieśń o pięknie Mesjasza.",
+      "bible": [
+        "Ps 45",
+        "Hbr 1, 8-9",
+        "Ap 19, 7-9",
+        "Ap 21, 2"
+      ]
+    }
+  ]
+}

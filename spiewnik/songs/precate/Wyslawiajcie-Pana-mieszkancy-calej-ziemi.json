@@ -1,0 +1,232 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:c3eadeb74a2e1748a654fae61778f20c9fd18566fc93dad3fd00653e9405462b",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wysławianie",
+        "Pan",
+        "mieszkaniec",
+        "ziemia",
+        "radość",
+        "cześć",
+        "chwała"
+      ],
+      "summary": "Wezwanie wszystkich mieszkańców ziemi do radosnego oddawania czci Panu – uniwersalne zaproszenie do adoracji Stwórcy.",
+      "bible": [
+        "Ps 100:1-2a"
+      ],
+      "text": [
+        "Wysławiajcie Pana mieszkańcy całej ziemi,",
+        "z radością cześć należną mu oddajcie.",
+        ""
+      ]
+    },
+    {
+      "range": "4-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "przystąpienie",
+        "uwielbienie",
+        "bliskość",
+        "Bóg",
+        "służba"
+      ],
+      "summary": "Wezwanie do przystąpienia przed oblicze Boga z uwielbieniem – postawa służby i adoracji.",
+      "bible": [
+        "Ps 100:2b"
+      ],
+      "text": [
+        "Przystąpcie do Niego",
+        "z uwielbieniem.",
+        ""
+      ]
+    },
+    {
+      "range": "7-9",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wysławianie",
+        "Pan",
+        "ziemia",
+        "radość",
+        "cześć"
+      ],
+      "summary": "Powtórzenie refrenu radosnej adoracji Pana przez wszystkich mieszkańców ziemi.",
+      "bible": [
+        "Ps 100:1-2a"
+      ],
+      "text": [
+        "Wysławiajcie Pana mieszkańcy całej ziemi,",
+        "z radością cześć należną mu oddajcie.",
+        ""
+      ]
+    },
+    {
+      "range": "10-12",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "wyznanie",
+        "Bóg",
+        "stworzenie",
+        "lud",
+        "owca",
+        "pastwisko",
+        "dobroć"
+      ],
+      "summary": "Wyznanie, że Pan jest Bogiem, który nas stworzył i uczynił swoim ludem – deklaracja przynależności do Boga.",
+      "bible": [
+        "Ps 100:3",
+        "Ps 95:7",
+        "Ez 34:31"
+      ],
+      "text": [
+        "Wyznajcie, że Pan jest Bogiem,",
+        "On nas stworzył, jesteśmy Jego ludem.",
+        ""
+      ]
+    },
+    {
+      "range": "13-15",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wysławianie",
+        "Pan",
+        "ziemia",
+        "radość",
+        "cześć"
+      ],
+      "summary": "Powtórzenie refrenu radosnej adoracji Pana.",
+      "bible": [
+        "Ps 100:1-2a"
+      ],
+      "text": [
+        "Wysławiajcie Pana mieszkańcy całej ziemi,",
+        "z radością cześć należną mu oddajcie.",
+        ""
+      ]
+    },
+    {
+      "range": "16-18",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "próg",
+        "dziękczynienie",
+        "hymn",
+        "chwalenie",
+        "błogosławienie",
+        "imię",
+        "wdzięczność"
+      ],
+      "summary": "Wezwanie do przekroczenia progów świątyni z hymnami dziękczynienia, błogosławienia i chwalenia imienia Pańskiego.",
+      "bible": [
+        "Ps 100:4a"
+      ],
+      "text": [
+        "Przestąpcie Jego progi z hymnami dziękczynienia,",
+        "chwalcie i błogosławcie Jego Imię.",
+        ""
+      ]
+    },
+    {
+      "range": "19-21",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wysławianie",
+        "Pan",
+        "ziemia",
+        "radość",
+        "cześć"
+      ],
+      "summary": "Powtórzenie refrenu radosnej adoracji Pana.",
+      "bible": [
+        "Ps 100:1-2a"
+      ],
+      "text": [
+        "Wysławiajcie Pana mieszkańcy całej ziemi,",
+        "z radością cześć należną mu oddajcie.",
+        ""
+      ]
+    },
+    {
+      "range": "22-24",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dobroć",
+        "Pan",
+        "miłość",
+        "wieczność",
+        "wierność",
+        "Bóg"
+      ],
+      "summary": "Aklamacja dobroci Pana i Jego wiecznej miłości oraz wierności jako fundamentu wysławiania.",
+      "bible": [
+        "Ps 100:5",
+        "Ps 136",
+        "1 Krn 16:34",
+        "2 Krn 5:13"
+      ],
+      "text": [
+        "Bo dobry jest Pan,",
+        "Jego miłość trwa na wieki.",
+        ""
+      ]
+    },
+    {
+      "range": "25",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wysławianie",
+        "Pan",
+        "mieszkaniec",
+        "ziemia",
+        "cześć"
+      ],
+      "summary": "Końcowe, skrócone wezwanie do wysławiania Pana przez wszystkich mieszkańców ziemi.",
+      "bible": [
+        "Ps 100:1"
+      ],
+      "text": [
+        "Wysławiajcie Pana mieszkańcy całej ziemi!"
+      ]
+    },
+    {
+      "range": "1-25",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dziękczynienie",
+        "chwała",
+        "Pan",
+        "ziemia",
+        "radość",
+        "uwielbienie",
+        "stworzenie",
+        "lud Boży",
+        "miłość",
+        "wieczność",
+        "dobroć"
+      ],
+      "summary": "Pieśń oparta na Ps 100 to radosny hymn dziękczynienia wzywający wszystkie narody do adoracji Boga Stwórcy i Pasterza. Centralne motywy: przynależność do Pana jako Jego ludu i owiec Jego pastwiska, wdzięczne wejście do świątyni oraz wyznanie wiecznej miłości i dobroci Boga. Psalm ten w tradycji chrześcijańskiej jest odczytywany jako zapowiedź powszechnego powołania wszystkich narodów do Kościoła.",
+      "bible": [
+        "Ps 100:1-5",
+        "Ps 95:6-7",
+        "Ps 136",
+        "1 Krn 16:34",
+        "Rz 15:8-12",
+        "Ap 7:9-10"
+      ]
+    }
+  ]
+}

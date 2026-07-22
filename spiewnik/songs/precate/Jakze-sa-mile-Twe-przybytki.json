@@ -1,0 +1,131 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:b9c8f60a7b7b435413c7419355029830e500aab739974118e84663e311a84c99",
+  "songs_analysis": [
+    {
+      "range": "1-13",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "przybytek",
+        "Pan",
+        "Bóg",
+        "świątynia",
+        "ołtarz",
+        "dusza",
+        "pragnienie",
+        "tęsknota",
+        "chwała",
+        "uwielbienie",
+        "Syjon",
+        "dom Boży",
+        "pielgrzymka",
+        "siła",
+        "wierność",
+        "Król"
+      ],
+      "summary": "Wyrażenie tęsknoty duszy za domem Bożym i pragnienia przebywania w Jego przybytkach, z pochwałą szczęścia tych, którzy mieszkają w domu Pana.",
+      "bible": [
+        "Ps 84, 2-6",
+        "Ps 42, 2-3",
+        "Ps 63, 2",
+        "Ps 27, 4"
+      ],
+      "text": [
+        "Jakże są miłe Twe przybytki,",
+        "Panie, Panie zastępów!",
+        "Dusza moja pożąda i pragnie",
+        "żyć w przedsionkach Pana.(  )",
+        "Także wróbel znajduje schronienie,",
+        "jaskółka swoje gniazdo",
+        "przy Twoich ołtarzach, Panie,",
+        "mój Królu i mój Boże,",
+        "mój Królu i mój Boże.",
+        "Szczęśliwy, kto mieszka w Twym domu,",
+        "zawsze śpiewa Twoją chwałę, zawsze śpiewa Twoją chwałę.",
+        "Szczęśliwy, kto znajduje w Tobie siłę",
+        "i postanawia w swym sercu odbyć świętą podróż."
+      ]
+    },
+    {
+      "range": "14",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "15-23",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "15-23",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dolina płaczu",
+        "źródło życia",
+        "siła",
+        "Syjon",
+        "przedsionek",
+        "dom Boży",
+        "próg",
+        "niebo",
+        "pielgrzymka",
+        "przemiana",
+        "łaska",
+        "Królestwo Boże",
+        "Eucharystia"
+      ],
+      "summary": "Przejście przez dolinę płaczu zamienia się w źródło życia, a jeden dzień w przybytkach Pana przewyższa tysiące dni gdzie indziej, ukazując eschatologiczną wartość obecności Boga.",
+      "bible": [
+        "Ps 84, 7-11",
+        "Ps 126, 5-6",
+        "Ap 21, 3-4",
+        "J 4, 14",
+        "Ap 7, 17"
+      ],
+      "text": [
+        "Przechodząc przez dolinę płaczu,",
+        "zamienia ją w źródło życia;",
+        "rośnie w drodze jego siła,",
+        "aż osiągnie Syjon, aż osiągnie Syjon.",
+        "Jeden dzień w Twych przedsionkach, Panie,",
+        "jest mi droższy niż innych tysiące,",
+        "jest mi droższy niż innych tysiące.",
+        "Lepiej stać na progu Twego domu,",
+        "niż zamieszkiwać pałace ludzi możnych."
+      ]
+    },
+    {
+      "range": "1-23",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "przybytek",
+        "świątynia",
+        "Pan",
+        "Bóg",
+        "tęsknota",
+        "dusza",
+        "chwała",
+        "Syjon",
+        "dom Boży",
+        "pielgrzymka",
+        "dolina płaczu",
+        "źródło życia",
+        "szczęście",
+        "niebo",
+        "łaska",
+        "Królestwo Boże"
+      ],
+      "summary": "Parafraza Psalmu 84 wyrażająca tęsknotę duszy za domem Bożym, radość przebywania w Jego obecności i eschatologiczną nadzieję przemiany doczesnego cierpienia w źródło życia wiecznego.",
+      "bible": [
+        "Ps 84",
+        "Ps 42, 2-3",
+        "Ap 21, 3-4",
+        "J 4, 14"
+      ]
+    }
+  ]
+}

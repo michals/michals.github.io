@@ -1,0 +1,179 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:60efc2312eb427ed8f77a2b3aed908ff0289a9b2a8a030ef6becf09e216ee66b",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Dom",
+        "Błogosławieństwo",
+        "Zbawienie",
+        "Przybytek",
+        "Pokorny",
+        "Jezus Chrystus",
+        "Wcielenie",
+        "mieszkanie Boga"
+      ],
+      "summary": "Maryja jako Dom Błogosławieństwa i ziemski Przybytek Pokornego – nawiązanie do teologii obecności Boga pośród swego ludu, gdzie Maryja jest świątynią Zbawienia.",
+      "bible": [
+        "Wj 25, 8-9",
+        "Syr 24, 8-12",
+        "J 1, 14"
+      ],
+      "text": [
+        "Maryjo, Domie Błogosławieństwa,",
+        "Zbawienie naszego wieku,",
+        "Przybytku ziemski Pokornego.",
+        ""
+      ]
+    },
+    {
+      "range": "5-10",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "Kana Galilejska",
+        "wino",
+        "święto",
+        "życie",
+        "śmierć",
+        "grzech",
+        "wstawiennictwo",
+        "Jezus Chrystus",
+        "cud"
+      ],
+      "summary": "Nawiązanie do wesela w Kanie Galilejskiej – Maryja dostrzega ludzki brak (brak wina) symbolizujący grzech i śmierć panujące nad ludzkością.",
+      "bible": [
+        "J 2, 1-10",
+        "Rz 5, 12-14",
+        "Rz 6, 23"
+      ],
+      "text": [
+        "Ty, jak w Kanie Galilejskiej,",
+        "dostrzegłaś, że brakło nam wina,",
+        "że nasze święto nie było świętem,",
+        "że nasze życie nie było życiem,",
+        "albowiem śmierć panowała nad nami.",
+        ""
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Dom",
+        "Błogosławieństwo",
+        "Zbawienie",
+        "Przybytek",
+        "Pokorny",
+        "Jezus Chrystus",
+        "Wcielenie",
+        "mieszkanie Boga"
+      ],
+      "summary": "Refren uwielbiający Maryję jako Dom Błogosławieństwa i Przybytek Pokornego – powtórzenie teologicznego tytułu Maryi jako mieszkania Boga.",
+      "bible": [
+        "Wj 25, 8-9",
+        "Syr 24, 8-12",
+        "J 1, 14"
+      ],
+      "text": [
+        "Maryjo, Domie Błogosławieństwa,",
+        "Zbawienie naszego wieku,",
+        "Przybytku ziemski Pokornego.",
+        ""
+      ]
+    },
+    {
+      "range": "15-19",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Syn",
+        "Jezus Chrystus",
+        "posłuszeństwo",
+        "woda",
+        "wino",
+        "przemiana",
+        "Eucharystia",
+        "wiara",
+        "wstawiennictwo"
+      ],
+      "summary": "Maryja prowadzi do swojego Syna i uczy posłuszeństwa Jego słowu, aby Chrystus mógł przemienić naszą wodę (stare życie) w nowe wino (życie w Duchu) – typologia eucharystyczna i chrzcielna.",
+      "bible": [
+        "J 2, 5-10",
+        "J 19, 26-27",
+        "Rz 6, 4",
+        "2 Kor 5, 17"
+      ],
+      "text": [
+        "Ty przywiodłaś nas do Swego Syna",
+        "i nauczyłaś nas posłuszeństwa,",
+        "i czynić wszystko, co On nam mówi,",
+        "aby przemienił naszą wodę w nowe wino.",
+        ""
+      ]
+    },
+    {
+      "range": "20-23",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "zwycięstwo",
+        "życie wieczne",
+        "Chrystus Zmartwychwstały",
+        "alleluja",
+        "Pascha",
+        "Zmartwychwstanie",
+        "Jezus Chrystus"
+      ],
+      "summary": "Radosne ogłoszenie zwycięstwa i życia wiecznego w Chrystusie Zmartwychwstałym, zakończone aklamacją alleluja – typowo wielkanocne zakończenie.",
+      "bible": [
+        "1 Kor 15, 54-57",
+        "Rz 6, 9-11",
+        "Ap 1, 18"
+      ],
+      "text": [
+        "Zwycięstwo, zwycięstwo,",
+        "życie wieczne w Chrystusie Zmartwychwstałym!",
+        "Alleluja, allelu-, alleluja.",
+        "Alleluja, allelu-, alleluja!"
+      ]
+    },
+    {
+      "range": "1-23",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Dom Błogosławieństwa",
+        "Kana Galilejska",
+        "wstawiennictwo",
+        "posłuszeństwo",
+        "przemiana",
+        "wino",
+        "Eucharystia",
+        "Zmartwychwstanie",
+        "zwycięstwo",
+        "życie wieczne",
+        "Chrystus",
+        "alleluja",
+        "Pascha"
+      ],
+      "summary": "Pieśń maryjna o tematyce wielkanocnej i komunijnej, oparta na typologii wesela w Kanie Galilejskiej. Maryja jako Orędowniczka prowadzi do Chrystusa, który przemienia nasze życie (wodę w wino). Zakończenie jest tryumfalnym ogłoszeniem zwycięstwa Zmartwychwstałego i życia wiecznego.",
+      "bible": [
+        "J 2, 1-10",
+        "J 19, 26-27",
+        "Rz 6, 4",
+        "1 Kor 15, 54-57",
+        "Ap 1, 18"
+      ]
+    }
+  ]
+}

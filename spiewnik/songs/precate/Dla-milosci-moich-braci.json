@@ -1,0 +1,270 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:0f8e35c0639f22af6c746cf4f848a8ca14f640b467c804fcd542cb49dbe3c2a0",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "brat",
+        "przyjaciel",
+        "pokój",
+        "jedność",
+        "lud Boży",
+        "błogosławieństwo"
+      ],
+      "summary": "Refren wyrażający pragnienie pokoju dla braci i przyjaciół, nawiązujący do modlitwy o pokój dla Jeruzalem.",
+      "bible": [
+        "Ps 122:8-9"
+      ],
+      "text": [
+        "Dla miłości moich braci,",
+        "dla miłości moich przyjaciół,",
+        "będę mówił, będę mówił:",
+        "pokój niech będzie tobie.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "dom Pana",
+        "świątynia",
+        "Jeruzalem",
+        "pielgrzymka",
+        "miasto święte"
+      ],
+      "summary": "Radość z zaproszenia do domu Pańskiego i pielgrzymowania do bram Jeruzalem.",
+      "bible": [
+        "Ps 122:1-2"
+      ],
+      "text": [
+        "Radość, gdy mi powiedziano:",
+        "pójdźmy do domu Pana.",
+        "Już stoją nasze stopy",
+        "w twych bramach, miasto święte.",
+        ""
+      ]
+    },
+    {
+      "range": "11-19",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jeruzalem",
+        "odbudowa",
+        "miasto święte",
+        "Syjon",
+        "Kościół",
+        "eschatologia",
+        "Nowe Jeruzalem"
+      ],
+      "summary": "Refren o odbudowie Jeruzalem, zapowiedź odnowy Kościoła i nowego Jeruzalem w perspektywie eschatologicznej.",
+      "bible": [
+        "Ps 122:3",
+        "Ap 21:2"
+      ],
+      "text": [
+        "Jeruzalem, Jeruzalem,",
+        "znowu odbudowane!",
+        "Jeruzalem, Jeruzalem,",
+        "znowu odbudowane!",
+        "Jeruzalem, Jeruzalem,",
+        "znowu odbudowane!",
+        "Jeruzalem, Jeruzalem,",
+        "znowu odbudowane!",
+        ""
+      ]
+    },
+    {
+      "range": "20-24",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "brat",
+        "przyjaciel",
+        "pokój",
+        "jedność",
+        "błogosławieństwo"
+      ],
+      "summary": "Powtórzenie refrenu o pokoju dla braci, tworzące klamrę strukturalną i podkreślające wspólnotowy wymiar modlitwy.",
+      "bible": [
+        "Ps 122:8-9"
+      ],
+      "text": [
+        "Dla miłości moich braci,",
+        "dla miłości moich przyjaciół,",
+        "będę mówił, będę mówił:",
+        "pokój niech będzie tobie.",
+        ""
+      ]
+    },
+    {
+      "range": "25-29",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pokolenie",
+        "Izrael",
+        "prawo",
+        "wielbienie",
+        "Bóg",
+        "pielgrzymka",
+        "Syjon"
+      ],
+      "summary": "Pokolenia Izraela wstępują do Jeruzalem, aby wielbić Pana według Jego prawa i świadectwa.",
+      "bible": [
+        "Ps 122:4-5"
+      ],
+      "text": [
+        "Tam wstępują razem",
+        "pokolenia Pana.",
+        "Według prawa Izraela,",
+        "aby wielbić Pana.",
+        ""
+      ]
+    },
+    {
+      "range": "30-38",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jeruzalem",
+        "odbudowa",
+        "miasto święte",
+        "Syjon",
+        "eschatologia",
+        "Kościół"
+      ],
+      "summary": "Refren o odbudowie Jeruzalem, wyraz nadziei eschatologicznej na odnowę miasta świętego.",
+      "bible": [
+        "Ps 122:3",
+        "Ap 21:2"
+      ],
+      "text": [
+        "Jeruzalem, Jeruzalem,",
+        "znowu odbudowane!",
+        "Jeruzalem, Jeruzalem,",
+        "znowu odbudowane!",
+        "Jeruzalem, Jeruzalem,",
+        "znowu odbudowane!",
+        "Jeruzalem, Jeruzalem,",
+        "znowu odbudowane!",
+        ""
+      ]
+    },
+    {
+      "range": "39-43",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "brat",
+        "przyjaciel",
+        "pokój",
+        "jedność",
+        "błogosławieństwo"
+      ],
+      "summary": "Powtórzenie refrenu o pokoju dla braci, podkreślenie wspólnotowego wymiaru modlitwy psalmisty.",
+      "bible": [
+        "Ps 122:8-9"
+      ],
+      "text": [
+        "Dla miłości moich braci,",
+        "dla miłości moich przyjaciół,",
+        "będę mówił, będę mówił:",
+        "pokój niech będzie tobie.",
+        ""
+      ]
+    },
+    {
+      "range": "44-48",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pokój",
+        "Jeruzalem",
+        "modlitwa",
+        "błogosławieństwo",
+        "miłość Boga",
+        "Syjon"
+      ],
+      "summary": "Wezwanie do modlitwy o pokój dla Jeruzalem i błogosławieństwa dla tych, którzy miłują Boga.",
+      "bible": [
+        "Ps 122:6-7"
+      ],
+      "text": [
+        "Proście o pokój, proście o pokój",
+        "dla Jeruzalem.",
+        "Niech mają pokój, niech mają pokój",
+        "ci, którzy Cię kochają.",
+        ""
+      ]
+    },
+    {
+      "range": "49-60",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jeruzalem",
+        "odbudowa",
+        "radość",
+        "chwała",
+        "śpiew",
+        "uwielbienie",
+        "eschatologia",
+        "Nowe Jeruzalem"
+      ],
+      "summary": "Końcowy refren o odbudowie Jeruzalem z radosną wokalizą, wyraz pełni radości eschatologicznej w odnowionym mieście.",
+      "bible": [
+        "Ps 122:3",
+        "Ap 21:2-4"
+      ],
+      "text": [
+        "Jeruzalem, Jeruzalem,",
+        "znowu odbudowane!",
+        "Jeruzalem, Jeruzalem,",
+        "znowu odbudowane!",
+        "Jeruzalem, Jeruzalem,",
+        "znowu odbudowane!",
+        "Jeruzalem, Jeruzalem,",
+        "znowu odbudowane!",
+        "La lalalala la, la lalalala la,",
+        "La la-la la-la",
+        "La lalalala la, la lalalala la,",
+        "La la-la la-la"
+      ]
+    },
+    {
+      "range": "1-60",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jeruzalem",
+        "pokój",
+        "pielgrzymka",
+        "świątynia",
+        "odbudowa",
+        "jedność",
+        "radość",
+        "lud Boży",
+        "Syjon",
+        "eschatologia",
+        "Nowe Jeruzalem",
+        "błogosławieństwo",
+        "wielbienie"
+      ],
+      "summary": "Psalm 122 w formie responsoryjnej. Pieśń pielgrzymkowa o radości z odbudowy Jeruzalem, zapowiedź nowego Jeruzalem w Chrystusie. Modlitwa o pokój dla miasta świętego i całego ludu Bożego.",
+      "bible": [
+        "Ps 122",
+        "Ap 21:1-4"
+      ]
+    }
+  ]
+}

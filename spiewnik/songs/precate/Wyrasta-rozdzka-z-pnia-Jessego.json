@@ -1,0 +1,235 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:1f85645f90153ff83d3f1179f5555696d46d02244d5d14010b13adf0dd4cd74d",
+  "songs_analysis": [
+    {
+      "range": "1-8",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "różdżka",
+        "pień",
+        "Jesse",
+        "odrośl",
+        "korzeń",
+        "Duch Pański",
+        "mądrość",
+        "rozum",
+        "rada",
+        "męstwo",
+        "wiedza",
+        "pobożność",
+        "bojaźń Pańska",
+        "Mesjasz"
+      ],
+      "summary": "Mesjańska zapowiedź różdżki wyrastającej z pnia Jessego, na której spoczywa Duch Pański z siedmiorakimi darami — proroctwo o Jezusie Chrystusie i darach Ducha Świętego.",
+      "bible": [
+        "Iz 11:1-3a",
+        "Iz 4:2",
+        "Jer 23:5",
+        "Za 3:8",
+        "Ap 22:16",
+        "Iz 11:1-2"
+      ],
+      "text": [
+        "Wyrasta różdżka z pnia Jessego,",
+        "odrośl z jego korzeni.",
+        "Spoczywa na Nim Duch Pana,",
+        "Duch mądrości i rozumu,",
+        "Duch rady i męstwa,",
+        "Duch wiedzy i pobożności,",
+        "Duch bojaźni Pańskiej.",
+        ""
+      ]
+    },
+    {
+      "range": "9-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "sąd",
+        "pogłoska",
+        "uciśniony",
+        "słowo",
+        "rózga",
+        "gwałtownik",
+        "tchnienie",
+        "bezbożnik",
+        "wilk",
+        "baranek",
+        "pantera",
+        "koźlę",
+        "lew",
+        "cielę",
+        "chłopiec",
+        "pokój"
+      ],
+      "summary": "Portret sprawiedliwego Mesjasza, który sądzi uciśnionych i karze gwałtowników, oraz wizja powszechnego pokoju, w którym drapieżniki i ofiary żyją w harmonii pod przewodnictwem małego chłopca.",
+      "bible": [
+        "Iz 11:3b-6",
+        "Ps 72:2-4",
+        "Iz 11:3-6",
+        "Iz 65:25"
+      ],
+      "text": [
+        "Nie będzie sądził z pogłosek,",
+        "lecz pomoże wszystkim uciśnionym.",
+        "Jego słowo będzie rózgą dla gwałtownika",
+        "i tchnieniem ust swoich uśmierci bezbożnika.",
+        "Wilk zamieszka z barankiem,",
+        "pantera leżeć będzie z koźlęciem,",
+        "lew i cielę razem paść się będą,",
+        "a mały chłopiec je poprowadzi,",
+        "mały chłopiec je poprowadzi.",
+        ""
+      ]
+    },
+    {
+      "range": "19-26",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "różdżka",
+        "pień",
+        "Jesse",
+        "odrośl",
+        "Duch Pański",
+        "mądrość",
+        "rozum",
+        "rada",
+        "męstwo",
+        "wiedza",
+        "pobożność",
+        "bojaźń Pańska"
+      ],
+      "summary": "Powtórzenie refrenu o mesjańskiej różdżce i darach Ducha Świętego.",
+      "bible": [
+        "Iz 11:1-3a"
+      ],
+      "text": [
+        "Wyrasta różdżka z pnia Jessego,",
+        "odrośl z jego korzeni.",
+        "Spoczywa na Nim Duch Pana,",
+        "Duch mądrości i rozumu,",
+        "Duch rady i męstwa,",
+        "Duch wiedzy i pobożności,",
+        "Duch bojaźni Pańskiej.",
+        ""
+      ]
+    },
+    {
+      "range": "27-38",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "krowa",
+        "niedźwiedzica",
+        "lew",
+        "słoma",
+        "wół",
+        "niemowlę",
+        "igranie",
+        "nora",
+        "kobra",
+        "wąż",
+        "zło",
+        "poznanie Pana",
+        "ziemia",
+        "dzień",
+        "chorągiew",
+        "naród",
+        "ręka",
+        "droga",
+        "narody",
+        "Dziewica"
+      ],
+      "summary": "Kontynuacja wizji powszechnego pokoju i zniszczenia zła, gdy poznanie Pana wypełni ziemię, a Korzeń Jessego stanie się chorągwią dla wszystkich narodów; droga dla narodów otworzy się, a wskaże ją Dziewica — proroctwo mesjańskie z typologią maryjną.",
+      "bible": [
+        "Iz 11:7-11a.16",
+        "Iz 11:7-10",
+        "Iz 11:10",
+        "Iz 11:16",
+        "Iz 7:14",
+        "Mt 1:23",
+        "J 14:6"
+      ],
+      "text": [
+        "Krowa i niedźwiedzica przestawać będą razem,",
+        "lew żywić się będzie słomą jak wół,",
+        "niemowlę igrać będzie na norze kobry,",
+        "dziecko włoży rękę do kryjówki jadowitego węża.",
+        "Bo zła nie będzie się już więcej czynić.",
+        "Albowiem poznanie Pana wypełni ziemię.",
+        "Albowiem w owym dniuKorzeń Jessego wzniesie sięjak chorągiew dla narodów",
+        "i ludy pójdą za Nim z bojaźnią.",
+        "W owym dniu Pan wyciągnie swoją rękę.",
+        "Bo droga się otworzy,",
+        "droga dla narodów,",
+        "którą wskaże Dziewica."
+      ]
+    },
+    {
+      "range": "39-45",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "różdżka",
+        "pień",
+        "Jesse",
+        "odrośl",
+        "Duch Pański",
+        "mądrość",
+        "rozum",
+        "rada",
+        "męstwo",
+        "wiedza",
+        "pobożność",
+        "bojaźń Pańska"
+      ],
+      "summary": "Końcowe powtórzenie refrenu o mesjańskiej różdżce z pnia Jessego i darach Ducha Świętego jako wykonanie proroctwa.",
+      "bible": [
+        "Iz 11:1-3a"
+      ],
+      "text": [
+        "Wyrasta różdżka z pnia Jessego,",
+        "odrośl z jego korzeni.",
+        "Spoczywa na Nim Duch Pana,",
+        "Duch mądrości i rozumu,",
+        "Duch rady i męstwa,",
+        "Duch wiedzy i pobożności,",
+        "Duch bojaźni Pańskiej."
+      ]
+    },
+    {
+      "range": "1-45",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Mesjasz",
+        "Jesse",
+        "różdżka",
+        "Duch Święty",
+        "dary",
+        "pokój",
+        "sprawiedliwość",
+        "poznanie Pana",
+        "narody",
+        "Dziewica",
+        "odkupienie",
+        "Królestwo Boże"
+      ],
+      "summary": "Pieśń oparta na Iz 11,1-11a.16 wypełnia mesjańskie proroctwo o różdżce (Mesjaszu) wyrastającej z pnia Jessego. Siedem darów Ducha Świętego spoczywających na Nim wypełnia się w Chrystusie. Wizja powszechnego pokoju (wilk z barankiem) zapowiada eschatologiczne Królestwo Boże. Korzeń Jessego jako chorągiew dla narodów oraz droga wskazana przez Dziewicę wskazują na powszechność zbawienia w Chrystusie i rolę Maryi w ekonomii zbawienia.",
+      "bible": [
+        "Iz 11:1-11a.16",
+        "Ap 22:16",
+        "Rz 15:12",
+        "Mt 1:1-6",
+        "Iz 7:14",
+        "Mt 1:23",
+        "J 14:6",
+        "Rz 15:12",
+        "Ef 2:11-18"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:9e0cef0d8b6a06310af523a8ea583bc06c793a14de78afc0bd1e1381c46dab69",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwila",
+        "okamgnienie",
+        "trąba",
+        "ostateczny",
+        "umarli",
+        "powstać",
+        "nieskazitelność",
+        "przemienienie",
+        "zmartwychwstanie"
+      ],
+      "summary": "Opis zmartwychwstania umarłych w ostatniej chwili, na głos trąby ostatecznej - umarli powstaną nieskazitelni, a żyjący zostaną przemienieni.",
+      "bible": [
+        "1 Kor 15, 52",
+        "1 Tes 4, 16",
+        "J 5, 28-29"
+      ],
+      "text": [
+        "W jednej chwili, w jednym okamgnieniu,",
+        "na głos trąby ostatecznej, albowiem zabrzmi trąba,",
+        "a umarli powstaną w nieskazitelności,",
+        "a my będziemy przemienieni."
+      ]
+    },
+    {
+      "range": "5-9",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiewać",
+        "zwycięstwo",
+        "śmierć",
+        "pochłonąć",
+        "Alleluja",
+        "oścień",
+        "tryumf"
+      ],
+      "summary": "Refren - radosne ogłoszenie, że śmierć została pochłonięta w zwycięstwie, z tryumfalnym pytaniem: 'Gdzież jest, o śmierci, twe zwycięstwo?' i alleluja.",
+      "bible": [
+        "1 Kor 15, 54-55",
+        "Oz 13, 14",
+        "Iz 25, 8"
+      ],
+      "text": [
+        "Dlatego śpiewamy:",
+        "Zwycięstwo śmierć pochłonęło! Alleluja, alleluja.",
+        "Gdzież jest, o śmierci, twe zwycięstwo? Alleluja, alleluja.",
+        "Gdzież jest, o śmierci, oścień twój? Alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "10-13",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "oścień",
+        "śmierć",
+        "grzech",
+        "siła",
+        "prawo",
+        "zwyciężyć",
+        "Jezus Chrystus",
+        "zmartwychwstały",
+        "odkupienie"
+      ],
+      "summary": "Teologiczne wyjaśnienie: ościeniem śmierci jest grzech, siłą grzechu Prawo, ale zwycięstwo zostało dane przez Jezusa Chrystusa zmartwychwstałego.",
+      "bible": [
+        "1 Kor 15, 56-57",
+        "Rz 5, 20-21",
+        "Rz 6, 23",
+        "Rz 7, 7-13",
+        "Ga 3, 13"
+      ],
+      "text": [
+        "Ościeniem śmierci jest grzech,",
+        "a siła grzechu leży w prawie;",
+        "ale my zwyciężyliśmy",
+        "w Jezusie Chrystusie zmartwychwstałym."
+      ]
+    },
+    {
+      "range": "14-19",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiewać",
+        "zwycięstwo",
+        "śmierć",
+        "pochłonąć",
+        "Alleluja",
+        "oścień",
+        "tryumf"
+      ],
+      "summary": "Refren - powtórzenie tryumfalnego ogłoszenia zwycięstwa nad śmiercią, zakończone potrójnym alleluja.",
+      "bible": [
+        "1 Kor 15, 54-55"
+      ],
+      "text": [
+        "Dlatego śpiewamy:",
+        "Zwycięstwo śmierć pochłonęło! Alleluja, alleluja.",
+        "Gdzież jest, o śmierci, twe zwycięstwo? Alleluja, alleluja.",
+        "Gdzież jest, o śmierci, oścień twój? Alleluja, alleluja.",
+        "Alleluja, alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "20-30",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "przypomnieć",
+        "bracia",
+        "Ewangelia",
+        "ogłosić",
+        "otrzymać",
+        "Chrystus",
+        "umrzeć",
+        "grzech",
+        "Pisma",
+        "powrócić",
+        "martwy",
+        "ukazać się",
+        "Piotr",
+        "Dwunastu",
+        "pięćset",
+        "bracia",
+        "wiara"
+      ],
+      "summary": "Przypomnienie kerygmatu apostolskiego: Chrystus umarł za grzechy według Pism, zmartwychwstał i ukazał się Piotrowi, Dwunastu, ponad pięciuset braciom, a na końcu św. Pawłowi.",
+      "bible": [
+        "1 Kor 15, 1-8",
+        "Dz 2, 23-24",
+        "Dz 9, 3-6",
+        "Łk 24, 34",
+        "Mk 16, 14"
+      ],
+      "text": [
+        "Przypominam wam, bracia, Ewangelię,",
+        "którą wam ogłosiłem,",
+        "którą też sam otrzymałem:",
+        "że Chrystus zmarł za grzechy,",
+        "tak jak mówią Pisma!",
+        "i że powrócił z martwych,",
+        "tak jak mówią Pisma!",
+        "i że ukazał się Piotrowi,",
+        "a potem Dwunastu,",
+        "a potem na raz ponad pięciuset braciom,",
+        "a na końcu ukazał się mnie."
+      ]
+    },
+    {
+      "range": "31-38",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiewać",
+        "zwycięstwo",
+        "śmierć",
+        "pochłonąć",
+        "Alleluja",
+        "oścień",
+        "tryumf"
+      ],
+      "summary": "Refren końcowy - tryumfalne ogłoszenie zwycięstwa nad śmiercią jako odpowiedź na kerygmat paschalny, zakończone potrójnym alleluja.",
+      "bible": [
+        "1 Kor 15, 54-55"
+      ],
+      "text": [
+        "Dlatego śpiewamy:",
+        "Zwycięstwo śmierć pochłonęło!",
+        "Alleluja, alleluja.",
+        "Gdzież jest, o śmierci, twe zwycięstwo?",
+        "Alleluja, alleluja.",
+        "Gdzież jest, o śmierci, oścień twój?",
+        "Alleluja, alleluja.",
+        "Alleluja, alleluja, alleluja."
+      ]
+    },
+    {
+      "range": "1-38",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "śmierć",
+        "zwycięstwo",
+        "trąba",
+        "chwila",
+        "przemienienie",
+        "nieskazitelność",
+        "grzech",
+        "prawo",
+        "Jezus Chrystus",
+        "oścień",
+        "kerygmat",
+        "Ewangelia",
+        "Piotr",
+        "ukazanie",
+        "Alleluja",
+        "odkupienie",
+        "chwała",
+        "życie wieczne"
+      ],
+      "summary": "Pieśń oparta na 1 Kor 15 - wielki hymn paschalny o zmartwychwstaniu umarłych i zwycięstwie nad śmiercią przez Jezusa Chrystusa. Zawiera trzy zasadnicze części: (1) eschatologiczny obraz zmartwychwstania przy dźwięku trąby ostatecznej (1 Kor 15, 52; 1 Tes 4, 16); (2) teologiczne wyjaśnienie relacji śmierci, grzechu i Prawa, które zostają przezwyciężone w Chrystusie (Rz 5, 20-21; Rz 6, 23; Ga 3, 13); (3) pierwotny kerygmat Kościoła - Chrystus umarł za grzechy według Pism (Iz 53), zmartwychwstał trzeciego dnia i ukazał się świadkom (1 Kor 15, 3-8; Dz 2, 23-24). Refren 'Zwycięstwo śmierć pochłonęło' nawiązuje do Iz 25, 8 i Oz 13, 14, cytowanych przez św. Pawła. Potrójne alleluja podkreśla radość paschalną. Pieśń przeznaczona na Okres Wielkanocny i Komunię świętą łączy eschatologiczną nadzieję zmartwychwstania z rzeczywistością Eucharystii jako 'pokarmu na życie wieczne' (J 6, 54) i zapowiedzi uczty w królestwie niebieskim (Łk 22, 16).",
+      "bible": [
+        "1 Kor 15, 1-8",
+        "1 Kor 15, 52-57",
+        "Iz 25, 8",
+        "Oz 13, 14",
+        "Rz 5, 20-21",
+        "Rz 6, 23",
+        "Rz 7, 7-13",
+        "Ga 3, 13",
+        "1 Tes 4, 16",
+        "J 5, 28-29",
+        "J 6, 54",
+        "Dz 2, 23-24",
+        "Dz 9, 3-6",
+        "Łk 24, 34",
+        "Ap 20, 14"
+      ]
+    }
+  ]
+}

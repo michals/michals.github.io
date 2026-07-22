@@ -1,0 +1,386 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:9c086fe5c960272a5f7199d1522a1db5fc8590467da0191d20e417c13ba4ac3c",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "gwiazda",
+        "Jezus Chrystus",
+        "Józef",
+        "Maryja",
+        "obłok",
+        "chwała",
+        "Narodzenie",
+        "Betlejem"
+      ],
+      "summary": "Gwiazda goreje nad Jezusem, a Józef z Maryją stoją przy Nim, ukazując scenę Narodzenia.",
+      "bible": [
+        "Mt 2, 2",
+        "Łk 2, 7-13"
+      ],
+      "text": [
+        "Gore gwiazda Jezusowi",
+        "w obłoku, w obłoku.",
+        "Józef z Panną asystują",
+        "przy boku, przy boku.",
+        ""
+      ]
+    },
+    {
+      "range": "6-9",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radosny okrzyk",
+        "Narodzenie",
+        "Bóg",
+        "Dziecię",
+        "Betlejem",
+        "Wcielenie",
+        "radość"
+      ],
+      "summary": "Refren radosnego ogłoszenia: narodził się Bóg Dziecina w Betlejem.",
+      "bible": [
+        "Łk 2, 11"
+      ],
+      "text": [
+        "Hojże ino dyna, dyna,",
+        "narodził się Bóg dziecina",
+        "w Betlejem, w Betlejem.",
+        ""
+      ]
+    },
+    {
+      "range": "10-14",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "wół",
+        "osioł",
+        "żłób",
+        "Jezus Chrystus",
+        "służba",
+        "stajnia",
+        "zwierzę",
+        "Narodzenie"
+      ],
+      "summary": "Wół i osioł służą przy żłobie Nowonarodzonego, nawiązując do tradycyjnych motywów bożonarodzeniowych.",
+      "bible": [
+        "Iz 1, 3",
+        "Łk 2, 7"
+      ],
+      "text": [
+        "Wół i osioł w parze służą",
+        "przy żłobie, przy żłobie.",
+        "Huczą, buczą delikatnej",
+        "osobie, osobie.",
+        ""
+      ]
+    },
+    {
+      "range": "15-18",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radosny okrzyk",
+        "Narodzenie",
+        "Bóg",
+        "Dziecię",
+        "Betlejem",
+        "Wcielenie",
+        "radość"
+      ],
+      "summary": "Refren radosnego ogłoszenia: narodził się Bóg Dziecina w Betlejem.",
+      "bible": [
+        "Łk 2, 11"
+      ],
+      "text": [
+        "Hojże ino dyna, dyna,",
+        "narodził się Bóg dziecina",
+        "w Betlejem, w Betlejem.",
+        ""
+      ]
+    },
+    {
+      "range": "19-23",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "pasterz",
+        "podarunek",
+        "szopa",
+        "północ",
+        "Betlejem",
+        "Narodzenie",
+        "Jezus Chrystus"
+      ],
+      "summary": "Pastuszkowie przybiegli z podarunkami do szopy o północy.",
+      "bible": [
+        "Łk 2, 15-16"
+      ],
+      "text": [
+        "Pastuszkowie z podarunki",
+        "przybiegli, przybiegli.",
+        "W koło szopę o północy",
+        "oblegli, oblegli.",
+        ""
+      ]
+    },
+    {
+      "range": "24-27",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radosny okrzyk",
+        "Narodzenie",
+        "Bóg",
+        "Dziecię",
+        "Betlejem",
+        "Wcielenie",
+        "radość"
+      ],
+      "summary": "Refren radosnego ogłoszenia: narodził się Bóg Dziecina w Betlejem.",
+      "bible": [
+        "Łk 2, 11"
+      ],
+      "text": [
+        "Hojże ino dyna, dyna,",
+        "narodził się Bóg dziecina",
+        "w Betlejem, w Betlejem.",
+        ""
+      ]
+    },
+    {
+      "range": "28-32",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Anioł Pański",
+        "ogłoszenie",
+        "cud",
+        "pasterz",
+        "Narodzenie",
+        "Jezus Chrystus",
+        "niewiara",
+        "zdumienie"
+      ],
+      "summary": "Anioł Pański ogłosił pasterzom cud Narodzenia, którego nigdy wcześniej nie słyszeli.",
+      "bible": [
+        "Łk 2, 9-12"
+      ],
+      "text": [
+        "Anioł Pański sam ogłosił",
+        "te dziwy, te dziwy,",
+        "których oni nie słyszeli",
+        "jak żywi, jak żywi.",
+        ""
+      ]
+    },
+    {
+      "range": "33-36",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radosny okrzyk",
+        "Narodzenie",
+        "Bóg",
+        "Dziecię",
+        "Betlejem",
+        "Wcielenie",
+        "radość"
+      ],
+      "summary": "Refren radosnego ogłoszenia: narodził się Bóg Dziecina w Betlejem.",
+      "bible": [
+        "Łk 2, 11"
+      ],
+      "text": [
+        "Hojże ino dyna, dyna,",
+        "narodził się Bóg dziecina",
+        "w Betlejem, w Betlejem.",
+        ""
+      ]
+    },
+    {
+      "range": "37-41",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Anioł Pański",
+        "muzyka",
+        "pociecha",
+        "człowiek",
+        "radość",
+        "Narodzenie",
+        "Jezus Chrystus",
+        "zbawienie"
+      ],
+      "summary": "Anioł gra kuranty, skąd płynie jedyna pociecha dla człowieka – radość Narodzenia.",
+      "bible": [
+        "Łk 2, 13-14"
+      ],
+      "text": [
+        "Anioł Pański kuranciki,",
+        "wycina, wycina,",
+        "stąd pociecha dla człowieka",
+        "jedyna, jedyna.",
+        ""
+      ]
+    },
+    {
+      "range": "42-45",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radosny okrzyk",
+        "Narodzenie",
+        "Bóg",
+        "Dziecię",
+        "Betlejem",
+        "Wcielenie",
+        "radość"
+      ],
+      "summary": "Refren radosnego ogłoszenia: narodził się Bóg Dziecina w Betlejem.",
+      "bible": [
+        "Łk 2, 11"
+      ],
+      "text": [
+        "Hojże ino dyna, dyna,",
+        "narodził się Bóg dziecina",
+        "w Betlejem, w Betlejem.",
+        ""
+      ]
+    },
+    {
+      "range": "46-50",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Jezus",
+        "Narodzenie",
+        "wesele",
+        "pociecha",
+        "radość",
+        "zbawienie",
+        "Bóg"
+      ],
+      "summary": "Maryja powiła Jezusa, a wraz z Jego narodzinami zstąpiło wesele i pociecha dla ludzi.",
+      "bible": [
+        "Łk 2, 7"
+      ],
+      "text": [
+        "Już Maryja Jezuleńka",
+        "powiła, powiła,",
+        "stąd wesele i pociecha",
+        "zstąpiła, zstąpiła.",
+        ""
+      ]
+    },
+    {
+      "range": "51-54",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radosny okrzyk",
+        "Narodzenie",
+        "Bóg",
+        "Dziecię",
+        "Betlejem",
+        "Wcielenie",
+        "radość"
+      ],
+      "summary": "Refren radosnego ogłoszenia: narodził się Bóg Dziecina w Betlejem.",
+      "bible": [
+        "Łk 2, 11"
+      ],
+      "text": [
+        "Hojże ino dyna, dyna,",
+        "narodził się Bóg dziecina",
+        "w Betlejem, w Betlejem.",
+        ""
+      ]
+    },
+    {
+      "range": "55-59",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "gwiazda",
+        "Jezus Chrystus",
+        "Józef",
+        "Maryja",
+        "obłok",
+        "chwała",
+        "Narodzenie",
+        "powtórzenie"
+      ],
+      "summary": "Powtórzenie motywu gwiazdy i obecności Józefa z Maryją przy Jezusie (rama utworu).",
+      "bible": [
+        "Mt 2, 2",
+        "Łk 2, 7-13"
+      ],
+      "text": [
+        "Gore gwiazda Jezusowi",
+        "w obłoku, w obłoku.",
+        "Józef z Marią asystują",
+        "przy boku, przy boku.",
+        ""
+      ]
+    },
+    {
+      "range": "60-62",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radosny okrzyk",
+        "Narodzenie",
+        "Bóg",
+        "Dziecię",
+        "Betlejem",
+        "Wcielenie",
+        "radość"
+      ],
+      "summary": "Końcowy refren radosnego ogłoszenia: narodził się Bóg Dziecina w Betlejem.",
+      "bible": [
+        "Łk 2, 11"
+      ],
+      "text": [
+        "Hojże ino dyna, dyna,",
+        "narodził się Bóg dziecina",
+        "w Betlejem, w Betlejem."
+      ]
+    },
+    {
+      "range": "1-62",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "gwiazda",
+        "Jezus Chrystus",
+        "Narodzenie",
+        "Betlejem",
+        "Maryja",
+        "Józef",
+        "pasterz",
+        "anioł",
+        "Wcielenie",
+        "radość",
+        "Bóg",
+        "Dziecię",
+        "żłób",
+        "zwierzę",
+        "pociecha",
+        "zbawienie"
+      ],
+      "summary": "Radosna kolęda ludowa opisująca scenę Narodzenia – gwiazdę, Świętą Rodzinę, pastuszków i aniołów – z refrenem ogłaszającym narodziny Boga Dzieciny w Betlejem.",
+      "bible": [
+        "Mt 2, 2",
+        "Łk 2, 7-13",
+        "Łk 2, 11"
+      ]
+    }
+  ]
+}

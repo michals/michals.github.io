@@ -1,0 +1,200 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:2268a79ac001289708ddabcf176c7856eb914187115e682184fcb4db3d0c4575",
+  "songs_analysis": [
+    {
+      "type": "refren",
+      "range": "1-5",
+      "sentiment": "radosny",
+      "keywords": [
+        "piękna",
+        "przyjaciolka",
+        "Tirsa",
+        "przepiekna",
+        "Jerozolima"
+      ],
+      "bible": [
+        "Pnp 6,4"
+      ],
+      "summary": "Oblubieniec wychwala piękno Oblubienicy, porownując ją do Tirsy i Jerozolimy.",
+      "text": [
+        "Jesteś piękna, przyjaciółko moja,",
+        "jak Tirsa,",
+        "przepiękna jak Jerozolima,",
+        "Jerozolima, Jerozolima,",
+        "Jerozolima, Jerozolima."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "7-14",
+      "sentiment": "radosny",
+      "keywords": [
+        "stopy",
+        "sandaly",
+        "biodra",
+        "artysta",
+        "pępek",
+        "czasz",
+        "szyja",
+        "wieża",
+        "kość słoniowa",
+        "oczy",
+        "sadzawka",
+        "Cheszbon",
+        "glowa",
+        "Karmel",
+        "wlosy",
+        "purpura",
+        "krol",
+        "uwięziony"
+      ],
+      "bible": [
+        "Pnp 7,1-6"
+      ],
+      "summary": "Opis fizycznego piękna Oblubienicy: stopy w sandalach, biodra, pępek, szyja z kości słoniowej, oczy jak sadzawki Cheszbonu, glowa jak Karmel, wlosy jak purpura, w ktorych krol został uwięziony.",
+      "text": [
+        "Jak piękne są twoje stopy w sandałach,       córko książęca!",
+        "Linia twych bioder dziełem rąk artysty;",
+        "twój pępek jest jak okrągła czasza;",
+        "twoja szyja jak wieża z kości słoniowej;",
+        "twoje oczy jak sadzawki Cheszbonu;",
+        "twoja głowa jest jak góra Karmel;",
+        "twoje włosy są jak purpura:",
+        "król został w nich uwięziony."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "16-20",
+      "sentiment": "radosny",
+      "keywords": [
+        "piękna",
+        "przyjaciolka",
+        "Tirsa",
+        "przepiekna",
+        "Jerozolima"
+      ],
+      "bible": [
+        "Pnp 6,4"
+      ],
+      "summary": "Powtorzenie refrenu o pięknie Oblubienicy.",
+      "text": [
+        "Jesteś piękna, przyjaciółko moja,",
+        "jak Tirsa,",
+        "przepiękna jak Jerozolima,",
+        "Jerozolima, Jerozolima,",
+        "Jerozolima, Jerozolima."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "22-28",
+      "sentiment": "radosny",
+      "keywords": [
+        "jutrzenka",
+        "księżyc",
+        "słońce",
+        "piękna",
+        "miłość",
+        "rozkosz",
+        "przepiekna",
+        "Jerozolima"
+      ],
+      "bible": [
+        "Pnp 6,10",
+        "Pnp 7,7"
+      ],
+      "summary": "Kim jest ta, co wschodzi jak jutrzenka, piękna jak księżyc, jaśniejąca jak słońce? Oblubieniec wyznaje, jak piękna jest miłość i rozkosz.",
+      "text": [
+        "Kim jest ta, która wschodzi jak jutrzenka,",
+        "piękna jak księżyc,",
+        "jaśniejąca jak słońce?",
+        "Jak jesteś piękna, o miłości,",
+        "jak jesteś piękna, o rozkoszy.",
+        "Przepiękna jak Jerozolima,",
+        "przepiękna jak Jerozolima."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "30-34",
+      "sentiment": "radosny",
+      "keywords": [
+        "piękna",
+        "przyjaciolka",
+        "Tirsa",
+        "przepiekna",
+        "Jerozolima"
+      ],
+      "bible": [
+        "Pnp 6,4"
+      ],
+      "summary": "Powtorzenie refrenu o pięknie Oblubienicy.",
+      "text": [
+        "Jesteś piękna, przyjaciółko moja,",
+        "jak Tirsa,",
+        "przepiękna jak Jerozolima,",
+        "Jerozolima, Jerozolima,",
+        "Jerozolima, Jerozolima."
+      ]
+    },
+    {
+      "type": "zakończenie",
+      "range": "36-37",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jerozolima",
+        "wolanie",
+        "Aaj"
+      ],
+      "bible": [
+        "Pnp 6,4",
+        "Ap 21,2"
+      ],
+      "summary": "Rozszerzone wolanie 'Jerozolimo' jako finalne wezwanie Oblubienicy.",
+      "text": [
+        "Jerozolimo, Aaj, Jerozolimo,",
+        "Jerozolimo, Jerozolimo."
+      ]
+    },
+    {
+      "type": "całość",
+      "range": "1-37",
+      "sentiment": "radosny",
+      "keywords": [
+        "piękna",
+        "przyjaciolka",
+        "Tirsa",
+        "Jerozolima",
+        "oblubieniec",
+        "oblubienica",
+        "miłość",
+        "rozkosz",
+        "jutrzenka",
+        "księżyc",
+        "słońce",
+        "stopy",
+        "biodra",
+        "szyja",
+        "oczy",
+        "wlosy",
+        "krol",
+        "Karmel",
+        "Cheszbon",
+        "kosc sloniowa",
+        "sadzawka",
+        "purpura",
+        "piesń nad piesniami"
+      ],
+      "bible": [
+        "Pnp 6,4 (piękna jak Tirsa, przepiękna jak Jerozolima)",
+        "Pnp 6,10 (kim jest ta co wschodzi jak jutrzenka)",
+        "Pnp 7,1-6 (opis piękna Oblubienicy)",
+        "Pnp 7,7 (jakże piękna jesteś, miłości, w rozkoszach)",
+        "Typologia: Jerozolima = Kościół / Oblubienica mistyczna / Niebiańskie Jeruzalem; krol uwięziony we wlosach = Chrystus związany miłością do Kościoła; jutrzenka, księżyc, słońce = Maryja (tytuly z Litanii Loretańskiej)"
+      ],
+      "summary": "Pieśń oparta na Pnp 6-7, w ktorej Oblubieniec (Chrystus) wychwala piękno Oblubienicy (Kościoła/duszy) porownując ją do Tirsy, Jerozolimy i ciał niebieskich. Opis fizycznego piękna (stopy, biodra, szyja, oczy, wlosy) przechodzi w zachwyt nad tajemnicą miłości oblubieńczej, a refrenicznie powtarzane 'Jesteś piękna' nadaje piesni charakter hymnu uwielbienia."
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:5a92da301500ef55cd633a3102b8b9491a24f1beff750850ef98b9f27f0881a4",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "święty",
+        "Pan",
+        "Bóg",
+        "wszechświat",
+        "majestat",
+        "chwała",
+        "Trójca Święta",
+        "adoracja",
+        "królestwo"
+      ],
+      "summary": "Potrójna aklamacja świętości Pana Boga Wszechświata, podkreślająca Jego władzę nad całym stworzeniem.",
+      "bible": [
+        "Iz 6, 3",
+        "Ap 4, 8",
+        "Ps 97, 9"
+      ],
+      "text": [
+        "Święty, święty, święty,",
+        "święty jest nasz Pan,",
+        "Pan Bóg wszechświata,",
+        "święty jest nasz Pan!",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "niebo",
+        "ziemia",
+        "chwała",
+        "Bóg",
+        "hosanna",
+        "wysokość",
+        "obecność",
+        "stworzenie",
+        "uwielbienie"
+      ],
+      "summary": "Pełnia niebios i ziemi chwałą Bożą połączona z pierwszym okrzykiem Hosanna na wysokościach.",
+      "bible": [
+        "Iz 6, 3",
+        "Ps 19, 2",
+        "Ps 118, 25-26",
+        "Mt 21, 9"
+      ],
+      "text": [
+        "Pełne są niebiosa",
+        "i ziemia Twojej chwały.",
+        "Hosanna, hosanna, hosanna,",
+        "hosanna na wysokościach.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "święty",
+        "Pan",
+        "Bóg",
+        "wszechświat",
+        "majestat",
+        "chwała",
+        "Trójca Święta",
+        "adoracja"
+      ],
+      "summary": "Powtórzenie aklamacji Sanctus, podkreślające przez repetycję adoracyjny charakter uwielbienia.",
+      "bible": [
+        "Iz 6, 3",
+        "Ap 4, 8"
+      ],
+      "text": [
+        "Święty, święty, święty,",
+        "święty jest nasz Pan,",
+        "Pan Bóg wszechświata,",
+        "święty jest nasz Pan!",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławiony",
+        "Ten",
+        "iść",
+        "imię",
+        "Pan",
+        "Jezus Chrystus",
+        "Mesjasz",
+        "przyjście",
+        "Paruzja"
+      ],
+      "summary": "Dwukrotne błogosławieństwo Mesjasza przychodzącego w imię Pańskie (Benedictus), wzmacniające mesjańskie znaczenie aklamacji.",
+      "bible": [
+        "Ps 118, 26",
+        "Mt 21, 9",
+        "Mk 11, 9-10",
+        "J 12, 13"
+      ],
+      "text": [
+        "Błogosławiony Ten, który idzie,",
+        "idzie w imię Pana.",
+        "Błogosławiony Ten, który idzie,",
+        "idzie w imię Pana.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "hosanna",
+        "wysokość",
+        "błogosławiony",
+        "Ten",
+        "iść",
+        "imię",
+        "Pan",
+        "Jezus Chrystus",
+        "Mesjasz",
+        "przyjście",
+        "uwielbienie"
+      ],
+      "summary": "Połączenie aklamacji Hosanna z ponownym Benedictus – unikalna struktura łącząca dwa motywy w jednym fragmencie.",
+      "bible": [
+        "Ps 118, 25-26",
+        "Mt 21, 9",
+        "Mk 11, 9-10",
+        "J 12, 13"
+      ],
+      "text": [
+        "Hosanna na wysokościach!",
+        "Błogosławiony Ten, który idzie,",
+        "błogosławiony Ten, który idzie,",
+        "idzie w imię Pana.",
+        ""
+      ]
+    },
+    {
+      "range": "26-29",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "święty",
+        "Pan",
+        "Bóg",
+        "wszechświat",
+        "majestat",
+        "chwała",
+        "Trójca Święta",
+        "adoracja",
+        "zakończenie"
+      ],
+      "summary": "Końcowa aklamacja Sanctus, zamykająca pieśń potrójnym uwielbieniem Pana Boga Wszechświata.",
+      "bible": [
+        "Iz 6, 3",
+        "Ap 4, 8"
+      ],
+      "text": [
+        "Święty, święty, święty,",
+        "święty jest nasz Pan,",
+        "Pan Bóg wszechświata,",
+        "święty jest nasz Pan!"
+      ]
+    },
+    {
+      "range": "1-29",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "święty",
+        "Pan",
+        "Bóg",
+        "wszechświat",
+        "hosanna",
+        "błogosławiony",
+        "Mesjasz",
+        "Jezus Chrystus",
+        "chwała",
+        "majestat",
+        "adoracja",
+        "liturgia",
+        "niebo",
+        "ziemia",
+        "przyjście"
+      ],
+      "summary": "Sanctus z Baraków – pieśń o strukturze ABA'B''A'', gdzie aklamacja Sanctus (A) przeplata się z Benedictus (B) i Hosanna; podkreśla wszechmoc Boga i mesjańskie przyjście Chrystusa.",
+      "bible": [
+        "Iz 6, 3",
+        "Ps 118, 25-26",
+        "Mt 21, 9",
+        "Ap 4, 8"
+      ]
+    }
+  ]
+}

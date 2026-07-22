@@ -1,0 +1,167 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:6964f49f356499a22c354645eccc723051ad7dec26c972653734398fe2345c9e",
+  "songs_analysis": [
+    {
+      "range": "1-8",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "modlitwa",
+        "Kościół",
+        "papież",
+        "kardynał",
+        "biskup",
+        "prezbiter",
+        "diakon",
+        "duchowny",
+        "lud Boży",
+        "Eucharystia",
+        "niedziela",
+        "Chrystus",
+        "Ewangelia",
+        "jedność",
+        "dziękczynienie"
+      ],
+      "summary": "Modlitwa za Kościół święty z wdzięcznością za dar Eucharystii i jedność w Chrystusie głoszoną przez Ewangelię.",
+      "bible": [
+        "Ef 4, 4-6",
+        "1 P 2, 9-10",
+        "Dz 2, 42",
+        "1 Tm 2, 1-4"
+      ],
+      "text": [
+        "Módlmy się bracia za Święty Kościół Boży,",
+        "za Ojca Świętego Leona,",
+        "za wszystkich kardynałów, biskupów, proboszczów,",
+        "prezbiterów, diakonów, osoby duchowne i cały lud Boży,",
+        "dziękując za tę niedzielę, za tę Eucharystię,",
+        "za Kościół zjednoczony w Chrystusie",
+        "głoszeniem Ewangelii.",
+        "Wysłuchaj nas o Panie."
+      ]
+    },
+    {
+      "range": "9-14",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "modlitwa",
+        "władca",
+        "rządzący",
+        "naród",
+        "pokój",
+        "sprawiedliwość",
+        "wojna",
+        "podział",
+        "przywódca"
+      ],
+      "summary": "Modlitwa za rządzących i wszystkie narody o zaprzestanie wojen, zanik podziałów oraz nadejście pokoju i sprawiedliwości.",
+      "bible": [
+        "1 Tm 2, 1-2",
+        "Rz 13, 1-7",
+        "Iz 2, 4",
+        "Mt 5, 9",
+        "Ap 21, 4",
+        "Ps 122, 6-8"
+      ],
+      "text": [
+        "Módlmy się, bracia, za władców i za wszystkich ludzi,",
+        "którzy zostali ustanowieni jako przywódcy i rządzący narodami:",
+        "aby za ich przyczyną wojny ustały, by podziały zanikły,",
+        "a powstały drogi do pokoju i sprawiedliwości",
+        "we wszystkich narodach.",
+        "Wysłuchaj nas o Panie."
+      ]
+    },
+    {
+      "range": "15-19",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "modlitwa",
+        "cierpienie",
+        "choroba",
+        "ubóstwo",
+        "wojna",
+        "Dobra Nowina",
+        "miłosierdzie",
+        "chory",
+        "ubogi"
+      ],
+      "summary": "Modlitwa za cierpiących na ciele i duchu z prośbą o ustanie przyczyn cierpienia i głoszenie wszystkim Dobrej Nowiny o zbawieniu.",
+      "bible": [
+        "Mt 11, 28-30",
+        "2 Kor 1, 3-4",
+        "Łk 4, 18-19",
+        "Rz 8, 18",
+        "Iz 61, 1-2"
+      ],
+      "text": [
+        "Módlmy się za cierpiących na ciele lub na duchu",
+        "z powodu chorób, ubóstwa i wojen,",
+        "aby przyczyny cierpienia ustały",
+        "a wszystkim głoszono Dobrą Nowinę.",
+        "Wysłuchaj nas o Panie."
+      ]
+    },
+    {
+      "range": "20-24",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Eucharystia",
+        "cud",
+        "wspólnota",
+        "odnowienie",
+        "serce",
+        "bliźni",
+        "modlitwa",
+        "Duch Święty",
+        "miłość"
+      ],
+      "summary": "Modlitwa za zgromadzonych na Eucharystii z prośbą o odnowienie serc przez Boży cud i posłanie do najbliższych z odnowioną miłością.",
+      "bible": [
+        "Dz 2, 42-47",
+        "1 Kor 11, 23-26",
+        "Rz 12, 2",
+        "Ap 21, 5",
+        "Ez 36, 26"
+      ],
+      "text": [
+        "Módlmy się za nas samych, tutaj zgromadzonych,",
+        "przeżywających Boży cud Eucharystii,",
+        "aby nasze serca zostały nim odnowione",
+        "i pospieszyły ożywiać naszych najbliższych.",
+        "Wysłuchaj nas o Panie."
+      ]
+    },
+    {
+      "range": "1-24",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "modlitwa powszechna",
+        "Kościół",
+        "hierarchia",
+        "rządzący",
+        "cierpiący",
+        "wspólnota",
+        "Eucharystia",
+        "pokój",
+        "jedność",
+        "błaganie",
+        "Chrystus",
+        "miłosierdzie",
+        "Dobra Nowina"
+      ],
+      "summary": "Całość Modlitwy powszechnej obejmującej cztery intencje: za Kościół, za rządzących i pokój na świecie, za cierpiących oraz za zgromadzoną wspólnotę eucharystyczną, zanoszonej z wiarą o wysłuchanie.",
+      "bible": [
+        "1 Tm 2, 1-4",
+        "Dz 2, 42-47",
+        "Mt 11, 28-30",
+        "Ef 4, 4-6"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:6d3b441c513632ed7045674313b5f7246ca4f2fa0da1c980ddadc9bc7c9c5414",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "ogrody",
+        "druhowie",
+        "głos",
+        "słyszenie",
+        "Oblubieniec",
+        "tęsknota",
+        "miłość oblubieńcza"
+      ],
+      "summary": "Oblubieniec woła do Oblubienicy mieszkającej w ogrodach, pragnąc usłyszeć jej głos. Wyraz tęsknoty Chrystusa za Kościołem.",
+      "bible": [
+        "Pnp 8, 13"
+      ],
+      "text": [
+        "Ty, która mieszkasz w ogrodach,",
+        "gdzie druhowie nasłuchują twego głosu.",
+        "Daj mi go usłyszeć,",
+        "daj mi go usłyszeć."
+      ]
+    },
+    {
+      "range": "5-9",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "uchodź",
+        "kochany",
+        "gazela",
+        "jeleń",
+        "pachnące wzgórza",
+        "ucieczka",
+        "zjednoczenie",
+        "pośpiech",
+        "Oblubienica"
+      ],
+      "summary": "Oblubienica zaprasza Oblubieńca, by uchodził jak gazela na pachnące wzgórza – obraz tęsknoty i dążenia do zjednoczenia.",
+      "bible": [
+        "Pnp 8, 14"
+      ],
+      "text": [
+        "",
+        "„Uchodź, mój kochany,",
+        "biegnij jak gazela,",
+        "niby młody jeleń",
+        "schroń się na pachnące wzgórza!”"
+      ]
+    },
+    {
+      "range": "10-14",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "oczy",
+        "pokój",
+        "winnica",
+        "obecność",
+        "znalezienie łaski",
+        "pewność miłości",
+        "oblubieńcza zażyłość"
+      ],
+      "summary": "Oblubienica wyznaje, że znalazła pokój w oczach Oblubieńca, a jej winnica jest tuż przed nim – symbol wzajemnego oddania.",
+      "bible": [
+        "Pnp 8, 10"
+      ],
+      "text": [
+        "",
+        "Jestem w jego oczach",
+        "jako ta, która znalazła pokój.",
+        "Moja winnica jest tu, tu przede mną.",
+        "Moja winnica jest tu, tu przede mną."
+      ]
+    },
+    {
+      "range": "15-19",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "uchodź",
+        "kochany",
+        "gazela",
+        "jeleń",
+        "pachnące wzgórza",
+        "zjednoczenie",
+        "wezwanie"
+      ],
+      "summary": "Powtórne wezwanie Oblubienicy do Oblubieńca, by przybył jak gazela na pachnące wzgórza – nostalgia eschatologiczna.",
+      "bible": [
+        "Pnp 8, 14"
+      ],
+      "text": [
+        "",
+        "„Uchodź, mój kochany,",
+        "biegnij jak gazela,",
+        "niby młody jeleń",
+        "schroń się na pachnące wzgórza!”"
+      ]
+    },
+    {
+      "range": "20-24",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "ogrody",
+        "druhowie",
+        "głos",
+        "słyszenie",
+        "Oblubieniec",
+        "tęsknota",
+        "inkluzja",
+        "komunia"
+      ],
+      "summary": "Powrót do wołania Oblubieńca: 'Daj mi go usłyszeć!' – inkluzja zamykająca pieśń tęsknoty i wzajemnego poszukiwania.",
+      "bible": [
+        "Pnp 8, 13"
+      ],
+      "text": [
+        "",
+        "Ty, która mieszkasz w ogrodach,",
+        "gdzie druhowie nasłuchują twego głosu.",
+        "Daj mi go usłyszeć!",
+        "Daj mi go usłyszeć!"
+      ]
+    },
+    {
+      "range": "1-24",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "ogrody",
+        "Oblubieniec",
+        "Oblubienica",
+        "głos",
+        "druhowie",
+        "gazela",
+        "jeleń",
+        "pachnące wzgórza",
+        "pokój",
+        "winnica",
+        "oczy",
+        "tęsknota",
+        "zjednoczenie",
+        "miłość oblubieńcza",
+        "ucieczka",
+        "pośpiech",
+        "eschatologia",
+        "komunia",
+        "Chrystus",
+        "Kościół",
+        "dusza",
+        "mistyka",
+        "Pieśń nad Pieśniami"
+      ],
+      "summary": "Pieśń zaczerpnięta z Pieśni nad Pieśniami (Pnp 8, 10b-14) – dialog miłosny między Oblubieńcem a Oblubienicą. W interpretacji typologicznej: Chrystus i Kościół (lub dusza) poszukują się wzajemnie w ogrodach łaski. Oblubienica znalazła pokój i zaprasza Oblubieńca na pachnące wzgórza – obraz komunii eucharystycznej i eschatologicznego zjednoczenia z Bogiem.",
+      "bible": [
+        "Pnp 8, 10-14"
+      ]
+    }
+  ]
+}

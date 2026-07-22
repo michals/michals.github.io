@@ -1,0 +1,200 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:2be5d3622122ec1cd01323b68f36a35c9e6d4f94f9c86686188ac63ee89e0112",
+  "songs_analysis": [
+    {
+      "range": "1",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "2-5",
+      "text": [
+        "Epikleza"
+      ]
+    },
+    {
+      "range": "2-5",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Duch Święty",
+        "uświęcić",
+        "dar",
+        "Ciało",
+        "Krew",
+        "Jezus Chrystus",
+        "Pan",
+        "misterium",
+        "przymierze",
+        "wieczny",
+        "znak",
+        "Eucharystia",
+        "konsekracja"
+      ],
+      "summary": "Epikleza: prośba o uświęcenie darów przez Ducha Świętego, aby stały się Ciałem i Krwią Chrystusa dla spełnienia misterium wiecznego przymierza.",
+      "bible": [
+        "J 6, 51-56",
+        "1 Kor 11, 24-25",
+        "Łk 22, 19-20",
+        "Wj 24, 8",
+        "Jr 31, 31-34",
+        "Hbr 9, 15"
+      ],
+      "text": [
+        "Prosimy Cię, Boże, niech Duch Święty uświęci te dary,",
+        "aby się stały Ciałem ✠ i Krwią naszego Pana, Jezusa Chrystusa,",
+        "dla spełnienia tego wielkiego misterium,",
+        "które On nam zostawił jako znak wiecznego przymierza."
+      ]
+    },
+    {
+      "range": "6",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "7-19",
+      "text": [
+        "Opowiadanie i konsekracja"
+      ]
+    },
+    {
+      "range": "7-19",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "godzina",
+        "uwielbienie",
+        "Ojciec",
+        "miłość",
+        "wieczerza",
+        "chleb",
+        "błogosławić",
+        "łamać",
+        "Ciało",
+        "kielich",
+        "Krew",
+        "Nowe Przymierze",
+        "odpuszczenie",
+        "grzech",
+        "pamiątka",
+        "Jezus Chrystus",
+        "Eucharystia",
+        "konsekracja",
+        "Wieczerza Pańska",
+        "Ofiara"
+      ],
+      "summary": "Opowiadanie o ustanowieniu Eucharystii: gdy nadeszła godzina uwielbienia Jezusa, umiłowawszy swoich do końca, wziął chleb i kielich, ustanawiając Nowe i Wieczne Przymierze we Krwi na odpuszczenie grzechów.",
+      "bible": [
+        "J 13, 1",
+        "J 17, 1",
+        "Mt 26, 26-28",
+        "Mk 14, 22-24",
+        "Łk 22, 19-20",
+        "1 Kor 11, 23-25",
+        "Wj 24, 8",
+        "Jr 31, 31-34"
+      ],
+      "text": [
+        "Kiedy nadeszła godzina,",
+        "aby Jezus został uwielbiony przez Ciebie, Ojcze święty,",
+        "umiłowawszy swoich, którzy byli na świecie,",
+        "do końca ich umiłował, i gdy spożywali wieczerzę,",
+        "wziął chleb, błogosławił, łamał i rozdawał swoim uczniom, mówiąc:",
+        "Bierzcie i jedzcie z tego wszyscy:",
+        "To jest bowiem Ciało moje, które za was będzie wydane.",
+        "Podobnie wziął kielich napełniony winem,",
+        "dzięki składał i podał swoim uczniom, mówiąc:",
+        "Bierzcie i pijcie z niego wszyscy:",
+        "To jest bowiem kielich Krwi mojej nowego i wiecznego przymierza,",
+        "która za was i za wielu będzie wylana na odpuszczenie grzechów.",
+        "To czyńcie na moją pamiątkę."
+      ]
+    },
+    {
+      "range": "20",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "21-24",
+      "text": [
+        "Aklamacja"
+      ]
+    },
+    {
+      "range": "21-24",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "tajemnica",
+        "wiara",
+        "śmierć",
+        "zmartwychwstanie",
+        "Pan",
+        "Jezus",
+        "przyjście",
+        "chwała",
+        "Paruzja",
+        "aklamacja",
+        "wyznanie"
+      ],
+      "summary": "Aklamacja po konsekracji: wyznanie tajemnicy wiary – głoszenie śmierci i zmartwychwstania Pana oraz oczekiwanie Jego przyjścia w chwale.",
+      "bible": [
+        "1 Kor 11, 26",
+        "Ap 22, 17-20",
+        "Rz 10, 9",
+        "1 Tes 4, 16-17",
+        "Mk 13, 26"
+      ],
+      "text": [
+        "Oto wielka tajemnica wiary.",
+        "Głosimy śmierć Twoją, Panie Jezu,",
+        "wyznajemy Twoje zmartwychwstanie",
+        "i oczekujemy Twego przyjścia w chwale."
+      ]
+    },
+    {
+      "range": "1-24",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "konsekracja",
+        "Eucharystia",
+        "Ciało",
+        "Krew",
+        "Nowe Przymierze",
+        "Ofiara",
+        "Jezus Chrystus",
+        "aklamacja",
+        "śmierć",
+        "zmartwychwstanie",
+        "Paruzja",
+        "Duch Święty",
+        "epikleza",
+        "Wieczerza Pańska",
+        "odpuszczenie",
+        "grzech",
+        "pamiątka",
+        "tajemnica",
+        "wiara",
+        "modlitwa eucharystyczna",
+        "miłość"
+      ],
+      "summary": "Konsekracja Modlitwy Eucharystycznej IV: epikleza modląca o przemianę darów, ustanowienie Eucharystii z teologią miłości Jezusa do końca i Nowego Przymierza, oraz aklamacja wiernych.",
+      "bible": [
+        "J 13, 1",
+        "J 17, 1",
+        "Mt 26, 26-28",
+        "Mk 14, 22-24",
+        "Łk 22, 19-20",
+        "1 Kor 11, 23-25",
+        "Wj 24, 8",
+        "Jr 31, 31-34",
+        "1 Kor 11, 26",
+        "Ap 22, 17-20"
+      ]
+    }
+  ]
+}

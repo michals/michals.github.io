@@ -1,0 +1,203 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:0c373aba4e0ba75f9983ee5f4d901aece67e83d15fe75535e3715eb7a0bb6980",
+  "songs_analysis": [
+    {
+      "range": "1-2",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "chwała",
+        "Pan",
+        "alleluja"
+      ],
+      "summary": "Paschalna aklamacja głosząca zmartwychwstanie Chrystusa.",
+      "bible": [
+        "J 11,25"
+      ],
+      "text": [
+        "Resurrexit, Resurrexit, Resurrexit, Resurrexit.",
+        "Gloria, Gloria, Gloria, Gloria."
+      ]
+    },
+    {
+      "range": "3-7",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "zmartwychwstanie",
+        "życie",
+        "wiara",
+        "śmierć",
+        "wieczność"
+      ],
+      "summary": "Chrystus objawia się jako Zmartwychwstanie i Życie; kto w Niego wierzy, choćby umarł, żyć będzie na wieki.",
+      "bible": [
+        "J 11,25-26"
+      ],
+      "text": [
+        "Ja jestem, jestem zmartwychwstaniem,",
+        "zmartwychwstaniem, zmartwychwstaniem.",
+        "Kto wierzy we Mnie, choćby umarł żyć będzie,",
+        "a każdy kto żyje i wierzy we Mnie,",
+        "nie umrze na wieki, nie umrze na wieki."
+      ]
+    },
+    {
+      "range": "8-9",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "chwała",
+        "Pan"
+      ],
+      "summary": "Powtórzona paschalna aklamacja.",
+      "bible": [
+        "J 11,25"
+      ],
+      "text": [
+        "Resurrexit, Resurrexit, Resurrexit, Resurrexit.",
+        "Gloria, Gloria, Gloria, Gloria."
+      ]
+    },
+    {
+      "range": "10-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "zmartwychwstanie",
+        "życie",
+        "wiara",
+        "śmierć",
+        "wieczność"
+      ],
+      "summary": "Powtórzenie obietnicy życia wiecznego dla wierzących w Chrystusa.",
+      "bible": [
+        "J 11,25-26"
+      ],
+      "text": [
+        "Ja jestem, jestem zmartwychwstaniem,",
+        "zmartwychwstaniem, zmartwychwstaniem.",
+        "Kto wierzy we Mnie, choćby umarł żyć będzie,",
+        "a każdy kto żyje i wierzy we Mnie,",
+        "nie umrze na wieki, nie umrze na wieki.",
+        ""
+      ]
+    },
+    {
+      "range": "16-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "wiara",
+        "Chrystus",
+        "Syn Boży",
+        "Mesjasz",
+        "świat",
+        "wyznanie"
+      ],
+      "summary": "Dialog wiary: pytanie o wiarę w zmartwychwstanie i wyznanie Marty, że Jezus jest Chrystusem, Synem Bożym.",
+      "bible": [
+        "J 11,27"
+      ],
+      "text": [
+        "Czy ty w to wierzysz? Czy ty w to wierzysz?",
+        "Tak, ja wierzę, że Ty jesteś Chrystusem,",
+        "Synem Bożym, który miał przyjść na świat."
+      ]
+    },
+    {
+      "range": "19-20",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "chwała",
+        "Pan"
+      ],
+      "summary": "Paschalna aklamacja po wyznaniu wiary.",
+      "bible": [
+        "J 11,25"
+      ],
+      "text": [
+        "Resurrexit, Resurrexit, Resurrexit, Resurrexit.",
+        "Gloria, Gloria, Gloria, Gloria."
+      ]
+    },
+    {
+      "range": "21-23",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "śpiew",
+        "melodia",
+        "alleluja"
+      ],
+      "summary": "Melizmatyczne wyrażenie radości i śpiew Alleluja.",
+      "bible": [],
+      "text": [
+        "La la la la la la, La la la la la la la la,",
+        "La la la la la la, La la la la.",
+        "Alleluja, alleluja, alleluja, alleluja."
+      ]
+    },
+    {
+      "range": "24-25",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "chwała",
+        "Pan"
+      ],
+      "summary": "Powtórzona paschalna aklamacja.",
+      "bible": [
+        "J 11,25"
+      ],
+      "text": [
+        "Resurrexit, Resurrexit, Resurrexit, Resurrexit.",
+        "Gloria, Gloria, Gloria, Gloria."
+      ]
+    },
+    {
+      "range": "26-27",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja",
+        "uwielbienie"
+      ],
+      "summary": "Końcowa aklamacja Alleluja wieńcząca pieśń.",
+      "bible": [],
+      "text": [
+        "Alleluja, alleluja, alleluja, alleluja.",
+        "Alleluja."
+      ]
+    },
+    {
+      "range": "1-27",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "Jezus",
+        "wiara",
+        "życie wieczne",
+        "Chrystus",
+        "Syn Boży",
+        "chwała",
+        "alleluja",
+        "radość"
+      ],
+      "summary": "Pieśń paschalna łącząca aklamację Resurrexit z janową katechezą o Zmartwychwstaniu – Jezus jest Życiem, a wiara w Niego przezwycięża śmierć; wyznanie wiary w Chrystusa Syna Bożego prowadzi do radości Alleluja.",
+      "bible": [
+        "J 11,25-27"
+      ]
+    }
+  ]
+}

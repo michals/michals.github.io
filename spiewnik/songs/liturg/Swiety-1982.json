@@ -1,0 +1,127 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a8b06c696af7168313225c0310475149116f160dd93d2d98cb8a5961fb88a191",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Święty",
+        "Pan",
+        "Bóg",
+        "Wszechświat",
+        "Niebiosa",
+        "ziemia",
+        "chwała",
+        "uwielbienie"
+      ],
+      "summary": "Sanctus – potrójne ogłoszenie świętości Pana Boga Wszechświata, którego chwałą wypełnione są niebiosa i ziemia.",
+      "bible": [
+        "Iz 6, 3",
+        "Ps 19, 2",
+        "Ap 4, 8"
+      ],
+      "text": [
+        "Święty, święty, święty,",
+        "święty jest Pan,",
+        "",
+        "Pan Bóg wszechświata!",
+        "Niebiosa i ziemia są pełne Twojej chwały.",
+        ""
+      ]
+    },
+    {
+      "range": "7-9",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Hosanna",
+        "niebo",
+        "wysoki",
+        "uwielbienie"
+      ],
+      "summary": "Hosanna – okrzyk radości i uwielbienia Boga na niebie wysokim.",
+      "bible": [
+        "Ps 118, 25-26",
+        "Mt 21, 9",
+        "Mk 11, 9-10"
+      ],
+      "text": [
+        "Hosanna! Hosanna! Hosanna! Hosanna",
+        "na niebie wysokim.",
+        ""
+      ]
+    },
+    {
+      "range": "10-13",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławiony",
+        "Ten który idzie",
+        "imię Pana",
+        "Chrystus",
+        "Mesjasz"
+      ],
+      "summary": "Benedictus – błogosławieństwo Tego, który przychodzi w imię Pańskie, mesjańska zapowiedź przyjścia Chrystusa.",
+      "bible": [
+        "Ps 118, 26",
+        "Mt 21, 9",
+        "Mk 11, 10",
+        "Łk 13, 35",
+        "J 12, 13"
+      ],
+      "text": [
+        "Błogosławiony Ten, który idzie,",
+        "który idzie w imię Pana,",
+        "który idzie w imię Pana!",
+        ""
+      ]
+    },
+    {
+      "range": "14-15",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Hosanna",
+        "niebo",
+        "wysoki",
+        "uwielbienie"
+      ],
+      "summary": "Hosanna – powtórzony okrzyk radości i uwielbienia Boga na niebie wysokim.",
+      "bible": [
+        "Ps 118, 25-26",
+        "Mt 21, 9"
+      ],
+      "text": [
+        "Hosanna! Hosanna! Hosanna! Hosanna",
+        "na niebie wysokim."
+      ]
+    },
+    {
+      "range": "1-15",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "święty",
+        "Hosanna",
+        "błogosławiony",
+        "Pan Bóg",
+        "chwała",
+        "uwielbienie",
+        "Sanctus",
+        "Benedictus",
+        "Eucharystia",
+        "liturgia"
+      ],
+      "summary": "Pieśń Sanctus (Święty) wg melodii rzymskiej 1982, z potrójnym ogłoszeniem świętości Boga, okrzykami Hosanna i błogosławieństwem Tego, który idzie w imię Pańskie.",
+      "bible": [
+        "Iz 6, 3",
+        "Ps 118, 25-26",
+        "Mt 21, 9",
+        "Ap 4, 8"
+      ]
+    }
+  ]
+}

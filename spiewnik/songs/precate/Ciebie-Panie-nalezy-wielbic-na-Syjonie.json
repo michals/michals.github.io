@@ -1,0 +1,172 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:6136df113f27ef657bc7b8c7ff7bca0a2aa93a707e9417406a8e96ed1c8547cb",
+  "songs_analysis": [
+    {
+      "range": "1-2",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "wielbienie",
+        "Syjon",
+        "Jerozolima",
+        "Pan Bóg",
+        "chwała",
+        "świątynia"
+      ],
+      "summary": "Wezwanie do wielbienia Boga na Syjonie i dopełniania ślubów w Jerozolimie.",
+      "bible": [
+        "Ps 65,2"
+      ],
+      "text": [
+        "Ciebie, Panie, należy wielbić na Syjonie,",
+        "Tobie dopełniać ślubów w Jerozolimie."
+      ]
+    },
+    {
+      "range": "3-9",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "modlitwa",
+        "wysłuchanie",
+        "śmiertelnik",
+        "Bóg",
+        "człowiek"
+      ],
+      "summary": "Refreniczne wyznanie, że do Boga wysłuchującego modlitw przychodzi każdy śmiertelnik.",
+      "bible": [
+        "Ps 65,3"
+      ],
+      "text": [
+        "Do Ciebie, który wysłuchujesz modlitwy,",
+        "przychodzi wszelki śmiertelnik,",
+        "przychodzi wszelki śmiertelnik.",
+        "Do Ciebie, który wysłuchujesz modlitwy,",
+        "przychodzi wszelki śmiertelnik,",
+        "przychodzi wszelki śmiertelnik.",
+        ""
+      ]
+    },
+    {
+      "range": "10-13",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "wina",
+        "grzech",
+        "przebaczenie",
+        "wybranie",
+        "przygarnięcie",
+        "błogosławiony",
+        "przybytek Boży",
+        "miłosierdzie"
+      ],
+      "summary": "Wyznanie przygniecenia winami i ufność w Boże przebaczenie; błogosławieństwo dla wybranych przez Boga.",
+      "bible": [
+        "Ps 65,4-5"
+      ],
+      "text": [
+        "Przygniatają nas nasze winy,",
+        "ale Ty przebaczasz nasze grzechy.",
+        "Szczęśliwy, kogo wybrałeś i przygarnąłeś,",
+        "mieszkać będzie w Twoich przedsionkach."
+      ]
+    },
+    {
+      "range": "14-20",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "modlitwa",
+        "wysłuchanie",
+        "śmiertelnik",
+        "Bóg"
+      ],
+      "summary": "Powtórzenie refrenu o przyjściu każdego śmiertelnika do Boga wysłuchującego modlitw.",
+      "bible": [
+        "Ps 65,3"
+      ],
+      "text": [
+        "Do Ciebie, który wysłuchujesz modlitwy,",
+        "przychodzi wszelki śmiertelnik,",
+        "przychodzi wszelki śmiertelnik.",
+        "Do Ciebie, który wysłuchujesz modlitwy,",
+        "przychodzi wszelki śmiertelnik,",
+        "przychodzi wszelki śmiertelnik.",
+        ""
+      ]
+    },
+    {
+      "range": "21-24",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dom Boży",
+        "przybytek",
+        "świętość",
+        "miłość Boża",
+        "sprawiedliwość Boża",
+        "cud",
+        "nasycenie"
+      ],
+      "summary": "Ufność w nasycenie dobrami domu Bożego i uwielbienie za cuda miłości i sprawiedliwości Bożej.",
+      "bible": [
+        "Ps 65,5-6"
+      ],
+      "text": [
+        "Nasycimy się dobrami Twego domu,",
+        "świętością Twego przybytku.",
+        "Cudami Twojej miłości do nas przemawiasz,",
+        "cudami Twojej sprawiedliwości nam odpowiadasz."
+      ]
+    },
+    {
+      "range": "25-30",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "modlitwa",
+        "wysłuchanie",
+        "śmiertelnik",
+        "Bóg"
+      ],
+      "summary": "Powtórzenie refrenu o przyjściu każdego śmiertelnika do Boga wysłuchującego modlitw.",
+      "bible": [
+        "Ps 65,3"
+      ],
+      "text": [
+        "Do Ciebie, który wysłuchujesz modlitwy,",
+        "przychodzi wszelki śmiertelnik,",
+        "przychodzi wszelki śmiertelnik.",
+        "Do Ciebie, który wysłuchujesz modlitwy,",
+        "przychodzi wszelki śmiertelnik,",
+        "przychodzi wszelki śmiertelnik."
+      ]
+    },
+    {
+      "range": "1-30",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "wielbienie",
+        "Syjon",
+        "modlitwa",
+        "wysłuchanie",
+        "grzech",
+        "przebaczenie",
+        "przybytek Boży",
+        "miłość Boża",
+        "sprawiedliwość",
+        "cud",
+        "śmiertelnik",
+        "miłosierdzie",
+        "chwała Boża"
+      ],
+      "summary": "Parafraza Psalmu 65: wezwanie do wielbienia Boga na Syjonie, wyznanie grzechów z ufnością w przebaczenie oraz uwielbienie za dobroć i sprawiedliwość Bożą.",
+      "bible": [
+        "Ps 65"
+      ]
+    }
+  ]
+}

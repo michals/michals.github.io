@@ -1,0 +1,240 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a0f66994871489acdb452bc8005acd85dddc477f90e41a68fa4fb7fbefd37afe",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "głos",
+        "prorok",
+        "ogłaszać",
+        "Pan",
+        "przynosić",
+        "dar",
+        "pokój"
+      ],
+      "summary": "Głosy proroków ogłaszają przyjście Pana, który przynosi dar pokoju – wypełnienie proroctw mesjańskich (Iz 9,5-6; Iz 52,7).",
+      "bible": [
+        "Iz 9,5-6",
+        "Iz 52,7"
+      ],
+      "text": [
+        "Głosy proroków",
+        "ogłaszają Pana,",
+        "który przynosi wszystkim ludziom",
+        "podarunek pokoju.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "nowy",
+        "światło",
+        "poranek",
+        "głos",
+        "Król chwały"
+      ],
+      "summary": "Nowe światło rozbłyska o poranku – głos obwieszcza nadchodzącego Króla chwały (Ps 24,7-10; Iz 60,1).",
+      "bible": [
+        "Ps 24,7-10",
+        "Iz 60,1"
+      ],
+      "text": [
+        "Oto nowe światło",
+        "rozbłyska o poranku,",
+        "jakiś głos rozbrzmiewa:",
+        "nadchodzi Król chwały!",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pierwsze przyjście",
+        "Chrystus",
+        "przybyć",
+        "zbawić",
+        "zagoić",
+        "rana",
+        "ciało",
+        "duch"
+      ],
+      "summary": "Pierwsze przyjście Chrystusa dla zbawienia i uzdrowienia ran ciała i ducha – zbawcze Wcielenie (Iz 53,5; Łk 4,18).",
+      "bible": [
+        "Iz 53,5",
+        "Łk 4,18"
+      ],
+      "text": [
+        "Swoim pierwszym przyjściem",
+        "Chrystus przybył nas zbawić,",
+        "by zagoić rany",
+        "ciała i ducha.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "koniec czasów",
+        "powrócić",
+        "Sędzia",
+        "Królestwo",
+        "sługa wierny"
+      ],
+      "summary": "Przy końcu czasów Chrystus powróci jako Sędzia, by dać obiecane Królestwo wiernym sługom (Mt 25,31-46; 2 Tm 4,1).",
+      "bible": [
+        "Mt 25,31-46",
+        "2 Tm 4,1"
+      ],
+      "text": [
+        "Na końcu czasów",
+        "powróci jako Sędzia;",
+        "da obiecane Królestwo",
+        "swoim wiernym sługom.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "droga",
+        "światło",
+        "rozbłysnąć",
+        "Jezus",
+        "słońce",
+        "łaska",
+        "wołać",
+        "życie"
+      ],
+      "summary": "Światło Chrystusa rozbłyska na naszej drodze; Jezus jako słońce łaski wzywa do nowego życia (J 8,12; Ml 3,20).",
+      "bible": [
+        "J 8,12",
+        "Ml 3,20"
+      ],
+      "text": [
+        "Oto na naszej drodze",
+        "światło Jego rozbłyska:",
+        "Jezus słońce łaski",
+        "wola do nowego życia.",
+        ""
+      ]
+    },
+    {
+      "range": "26-30",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "szukać",
+        "poznawać",
+        "chwalić",
+        "błogosławiona ojczyzna"
+      ],
+      "summary": "Wyznanie szukania Chrystusa i pragnienia poznania Go, by chwalić na wieki w niebieskiej ojczyźnie – eschatologiczna nadzieja (Flp 3,20-21).",
+      "bible": [
+        "Flp 3,20-21"
+      ],
+      "text": [
+        "Ciebie, Chryste szukamy;",
+        "Ciebie chcemy poznawać,",
+        "by chwalić Cię na wieki",
+        "w błogosławionej ojczyźnie.",
+        ""
+      ]
+    },
+    {
+      "range": "31-35",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Pan",
+        "zrodzony",
+        "Maryja Dziewica",
+        "Ojciec",
+        "Duch Święty",
+        "wieki"
+      ],
+      "summary": "Doksologia trynitarna: chwała Chrystusowi zrodzonemu z Maryi Dziewicy, Ojcu i Duchowi Świętemu przez wszystkie wieki.",
+      "bible": [
+        "Łk 1,30-35",
+        "Mt 28,19"
+      ],
+      "text": [
+        "Tobie chwała, Panie,",
+        "zrodzony z Maryi Dziewicy,",
+        "Ojcu i Duchowi Świętemu",
+        "przez wszystkie wieki wieków.",
+        ""
+      ]
+    },
+    {
+      "range": "36-36",
+      "type": "zakończenie",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Amen"
+      ],
+      "summary": "Aklamacja Amen zamykająca hymn.",
+      "bible": [],
+      "text": [
+        "Amen."
+      ]
+    },
+    {
+      "range": "1-36",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Adwent",
+        "prorocy",
+        "przyjście",
+        "Chrystus",
+        "Król chwały",
+        "światło",
+        "słońce",
+        "łaska",
+        "Sędzia",
+        "Królestwo",
+        "Maryja",
+        "Dziewica",
+        "Wcielenie",
+        "Paruzja",
+        "doksologia",
+        "Trójca Święta",
+        "zbawienie",
+        "pokój",
+        "nadzieja",
+        "niebo",
+        "wieczność",
+        "Amen"
+      ],
+      "summary": "Hymn na Jutrznię Adwentu (po 16 XII) – parafraza łacińskiego 'Magnis prophétae vócibus'. Głosy proroków ogłaszają Pana przynoszącego pokój; nowe światło rozbłyska – nadchodzi Król chwały. Dwie zwrotki opisują pierwsze przyjście Chrystusa dla zbawienia i drugie jako Sędziego. końcowe zwrotki wzywają do szukania Chrystusa jako słońca łaski i wieńczy doksologia trynitarna z wezwaniem Maryi Dziewicy. Typologia: proroctwa mesjańskie (Iz 9,5-6; Iz 52,7) wypełniają się w Chrystusie; światłość w Adwencie prefiguruje Chrzest Pański.",
+      "bible": [
+        "Iz 9,5-6",
+        "Iz 52,7",
+        "Ps 24,7-10",
+        "Iz 60,1",
+        "Iz 53,5",
+        "Łk 4,18",
+        "Ml 3,20",
+        "J 8,12",
+        "Mt 25,31-46",
+        "Flp 3,20-21",
+        "Łk 1,30-35",
+        "Mt 28,19"
+      ]
+    }
+  ]
+}

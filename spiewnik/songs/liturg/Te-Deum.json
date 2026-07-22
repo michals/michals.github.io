@@ -1,0 +1,364 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:b803147e50b10766ebb58cee590ed5537f0a7cc67bb61628827561b112f38991",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "chwalić",
+        "Pan",
+        "wysławiać",
+        "Ojciec Przedwieczny",
+        "ziemia",
+        "cześć",
+        "oddawać",
+        "adoracja",
+        "uwielbienie",
+        "stworzenie"
+      ],
+      "summary": "Incipit hymnu Te Deum – uroczyste uwielbienie Boga Ojca Przedwiecznego przez całą ziemię.",
+      "bible": [
+        "Ps 95, 6",
+        "Ps 100, 4",
+        "Dn 3, 57-90"
+      ],
+      "text": [
+        "Ciebie, Boże, chwalimy.",
+        "Ciebie, Panie, wysławiamy,",
+        "Tobie, Ojcu Przedwiecznemu,",
+        "wszystka ziemia cześć oddaje.",
+        ""
+      ]
+    },
+    {
+      "range": "6-11",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "anioł",
+        "śpiewać",
+        "niebo",
+        "moce niebieskie",
+        "święty",
+        "Pan",
+        "Bóg",
+        "Zastępy",
+        "chwała",
+        "liturgia niebieska",
+        "Sabaoth"
+      ],
+      "summary": "Włączenie się w hymn aniołów i wszystkich mocy niebieskich, łączący liturgię ziemską z niebiańską aklamacją Sanctus.",
+      "bible": [
+        "Iz 6, 3",
+        "Ap 4, 8",
+        "Ps 103, 20-21",
+        "Ap 5, 11-12"
+      ],
+      "text": [
+        "Tobie śpiewają Aniołowie",
+        "i wszystkie niebieskie moce:",
+        "Święty, Święty, Święty,",
+        "Święty, Święty, Święty,",
+        "Pan Bóg Zastępów.",
+        ""
+      ]
+    },
+    {
+      "range": "12-16",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "niebo",
+        "ziemia",
+        "chwała",
+        "apostoł",
+        "męczennik",
+        "zastęp",
+        "świetlany",
+        "Kościół",
+        "chór",
+        "uwielbienie"
+      ],
+      "summary": "Niebiosa pełne chwały; do uwielbienia dołączają apostołowie i świetlany zastęp męczenników – Kościół niebieski.",
+      "bible": [
+        "Iz 6, 3",
+        "Ef 2, 20",
+        "Ap 21, 14",
+        "Ap 7, 9-17"
+      ],
+      "text": [
+        "Niebiosa i ziemia",
+        "są pełne Twojej chwały.",
+        "Ciebie wysławia chór Apostołów,",
+        "męczenników zastęp świetlany.",
+        ""
+      ]
+    },
+    {
+      "range": "17-21",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "prorok",
+        "wielbić",
+        "Kościół",
+        "głosić",
+        "chwała",
+        "Syn",
+        "Duch Święty",
+        "Pocieszyciel",
+        "Trójca Święta",
+        "Jezus Chrystus"
+      ],
+      "summary": "Prorocy i Kościół święty wielbią Boga wysławiając Trójcę Świętą – Syna Bożego i Ducha Pocieszyciela.",
+      "bible": [
+        "1 Kor 12, 28",
+        "Ef 4, 11",
+        "J 14, 16",
+        "2 Kor 13, 13",
+        "Mt 28, 19"
+      ],
+      "text": [
+        "Głosy proroków zgodnie Ciebie wielbią;",
+        "Kościół święty głosi Twoją chwałę,",
+        "wysławia Twego Jedynego Syna",
+        "i Świętego Ducha Pocieszyciela.",
+        ""
+      ]
+    },
+    {
+      "range": "22-26",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "Król",
+        "chwała",
+        "Syn",
+        "Ojciec",
+        "Dziewica",
+        "Matka",
+        "zrodzenie",
+        "zbawienie",
+        "człowiek",
+        "wcielenie",
+        "Maryja"
+      ],
+      "summary": "Chrystologiczne wyznanie wiary: Chrystus jako Król chwały, odwieczny Syn Ojca, zrodzony z Dziewicy Maryi dla zbawienia ludzkości.",
+      "bible": [
+        "Flp 2, 6-11",
+        "J 1, 14",
+        "Łk 1, 26-38",
+        "J 3, 16",
+        "Ga 4, 4-5"
+      ],
+      "text": [
+        "O Chryste, Królu chwały,",
+        "odwieczny Synu Ojca,",
+        "zrodzony z Dziewicy Matki",
+        "dla zbawienia człowieka.",
+        ""
+      ]
+    },
+    {
+      "range": "27-31",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "zwycięzca",
+        "śmierć",
+        "otworzyć",
+        "wierzący",
+        "Królestwo Niebios",
+        "prawica",
+        "Ojciec",
+        "chwała",
+        "sądzić",
+        "świat",
+        "koniec czasów",
+        "Paruzja",
+        "zmartwychwstanie",
+        "wniebowstąpienie"
+      ],
+      "summary": "Chrystus Zwycięzca śmierci, który otworzył wierzącym Królestwo, zasiada po prawicy Ojca i przyjdzie sądzić świat – eschatologiczne wyznanie wiary.",
+      "bible": [
+        "1 Kor 15, 55-57",
+        "Hbr 2, 14-15",
+        "Dz 1, 9-11",
+        "Mk 16, 19",
+        "2 Tm 4, 1",
+        "Mt 25, 31-46"
+      ],
+      "text": [
+        "Zwycięzco śmierci,",
+        "otworzyłeś wierzącym Królestwo Niebios.",
+        "Zasiadasz po prawicy Boga w ojcowskiej chwale,",
+        "przyjdziesz sądzić świat na końcu czasów.",
+        ""
+      ]
+    },
+    {
+      "range": "32-36",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "dopomóc",
+        "syn",
+        "Pan",
+        "odkupić",
+        "Krew",
+        "cenna",
+        "przyjąć",
+        "chwała",
+        "zgromadzenie świętych",
+        "zbawienie",
+        "odkupienie",
+        "Kościół"
+      ],
+      "summary": "Błagalna prośba o pomoc dla odkupionych Krwią Chrystusa; pragnienie przyjęcia do chwały zbawionych.",
+      "bible": [
+        "Ef 1, 7",
+        "Hbr 9, 12",
+        "Ap 7, 14",
+        "Łk 23, 43",
+        "1 P 1, 18-19"
+      ],
+      "text": [
+        "Dopomóż swoim synom, Panie,",
+        "których odkupiłeś swoją cenną Krwią.",
+        "Przyjmij nas w Twojej chwale",
+        "do zgromadzenia świętych.",
+        ""
+      ]
+    },
+    {
+      "range": "37-41",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "zachować",
+        "lud",
+        "Pan",
+        "prowadzić",
+        "strzec",
+        "syn",
+        "błogosławić",
+        "wysławiać",
+        "imię",
+        "wieki",
+        "codzienność",
+        "uwielbienie"
+      ],
+      "summary": "Prośba o zachowanie i prowadzenie ludu Bożego połączona z codziennym błogosławieniem i wysławianiem imienia Pańskiego.",
+      "bible": [
+        "Ps 28, 9",
+        "Ps 145, 2",
+        "Lb 6, 24-26",
+        "Dn 3, 52"
+      ],
+      "text": [
+        "Zachowaj lud swój, Panie,",
+        "prowadź i strzeż Twoich synów.",
+        "Każdego dnia Ciebie błogosławimy,",
+        "wysławiamy Twoje imię na wieki.",
+        ""
+      ]
+    },
+    {
+      "range": "42-46",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "raczyć",
+        "Pan",
+        "ustrzec",
+        "grzech",
+        "zawsze",
+        "miłosierdzie",
+        "ufność",
+        "pokładać",
+        "Bóg",
+        "opieka"
+      ],
+      "summary": "Codzienna prośba o zachowanie od grzechu i trwanie w Bożym miłosierdziu oraz wyznanie ufności pokładanej w Bogu.",
+      "bible": [
+        "Mt 6, 13",
+        "Ps 51, 3-4",
+        "Ps 33, 22",
+        "Prz 3, 5-6"
+      ],
+      "text": [
+        "Racz dzisiaj, Panie,",
+        "ustrzec nas od grzechu.",
+        "Niech zawsze będzie z nami Twoje miłosierdzie,",
+        "w Tobie ufność pokładamy.",
+        ""
+      ]
+    },
+    {
+      "range": "47-50",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "zmiłować się",
+        "Pan",
+        "nadzieja",
+        "zawstydzenie",
+        "wieki",
+        "miłosierdzie",
+        "ufność",
+        "zbawienie"
+      ],
+      "summary": "Błaganie o zmiłowanie i wyznanie nadziei pokładanej w Bogu, która nie zawodzi na wieki; nawiązanie do Kyrie eleison.",
+      "bible": [
+        "Łk 18, 13",
+        "Ps 25, 3",
+        "Rz 5, 5",
+        "Rz 10, 11",
+        "Ps 33, 22"
+      ],
+      "text": [
+        "Zmiłuj się nad nami, Panie,",
+        "zmiłuj się nad nami.",
+        "Tyś jest naszą nadzieją,",
+        "nie będziemy zawstydzeni na wieki."
+      ]
+    },
+    {
+      "range": "1-50",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "chwalić",
+        "Ojciec",
+        "Syn",
+        "Duch Święty",
+        "Trójca Święta",
+        "Chrystus",
+        "Król",
+        "zbawienie",
+        "odkupienie",
+        "miłosierdzie",
+        "Kościół",
+        "święci",
+        "aniołowie",
+        "Paruzja",
+        "nadzieja",
+        "adoracja"
+      ],
+      "summary": "Te Deum – uroczysty hymn dziękczynno-błagalny, będący wyznaniem wiary Kościoła: uwielbienie Trójcy Świętej, chrystologiczne and wyznanie (Wcielenie, Odkupienie, Paruzja) oraz prośba o zbawienie i miłosierdzie.",
+      "bible": [
+        "Iz 6, 3",
+        "Ps 118, 25-26",
+        "Flp 2, 6-11",
+        "1 Kor 15, 55-57",
+        "Ap 4, 8",
+        "J 3, 16"
+      ]
+    }
+  ]
+}

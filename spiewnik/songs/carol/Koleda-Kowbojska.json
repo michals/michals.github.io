@@ -1,0 +1,139 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:aa77e744e02cc13ee6806a83694fadfc73df853e047027adc2e53a0f5d29bf66",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "nowy świat",
+        "Jezus Chrystus",
+        "serce",
+        "Narodzenie",
+        "początek",
+        "zbawienie",
+        "radość"
+      ],
+      "summary": "Narodzenie Jezusa zapoczątkowuje nowy świat – radosne przyjęcie Go do serca odmienia wszystko.",
+      "bible": [
+        "Ap 21, 5",
+        "2 Kor 5, 17"
+      ],
+      "text": [
+        "Dzisiejszej nocy się zacznie nowy świat.",
+        "Dzisiejszej nocy się zacznie nowy świat.",
+        "Gdy na siodło moje wskoczę i do serca wezmę Go,",
+        "dzisiejszej nocy się zacznie nowy świat.",
+        ""
+      ]
+    },
+    {
+      "range": "6-12",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "nowe życie",
+        "serce",
+        "człowiek",
+        "nienawiść",
+        "wolność",
+        "Jezus Chrystus",
+        "zbawienie",
+        "przemiana",
+        "ogień",
+        "Duch Święty"
+      ],
+      "summary": "Nowe życie w Chrystusie dociera do serca każdego człowieka jak błyskawica, uwalniając od nienawiści wszystkie kraje.",
+      "bible": [
+        "J 8, 36",
+        "Rz 5, 5",
+        "Dz 2, 1-4"
+      ],
+      "text": [
+        "Z drugiej strony prerii,",
+        "prosto przez dolinę,",
+        "w serce, które każdy człowiek ma.",
+        "Tam trafi całkiem nowe życie,",
+        "błyskawicy strzałem",
+        "i od nienawiści uwolni każdy kraj.",
+        ""
+      ]
+    },
+    {
+      "range": "13-17",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "nowy świat",
+        "Jezus Chrystus",
+        "serce",
+        "Narodzenie",
+        "początek",
+        "zbawienie",
+        "radość"
+      ],
+      "summary": "Powtórzenie refrenu – decyzja przyjęcia Jezusa do serca otwiera nowy świat.",
+      "bible": [
+        "Ap 21, 5",
+        "2 Kor 5, 17"
+      ],
+      "text": [
+        "Dzisiejszej nocy się zacznie nowy świat.",
+        "Dzisiejszej nocy się zacznie nowy świat.",
+        "Gdy na siodło moje wskoczę i do serca wezmę Go,",
+        "dzisiejszej nocy się zacznie nowy świat.",
+        ""
+      ]
+    },
+    {
+      "range": "18-21",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "szlak",
+        "podróż",
+        "Jezus Chrystus",
+        "nowy świat",
+        "radość",
+        "zaproszenie",
+        "nadzieja"
+      ],
+      "summary": "Radosne zakończenie – wezwanie do wyruszenia w drogę z Chrystusem ku nowemu światu.",
+      "bible": [
+        "J 14, 6"
+      ],
+      "text": [
+        "Yay! Yippee! Dziś czeka na nas szlak.",
+        "Yay! Yippee! Pojadę nim i tak.",
+        "Gdy na siodło moje wskoczę i do serca wezmę Go,",
+        "dzisiejszej nocy się zacznie nowy świat, nowy świat."
+      ]
+    },
+    {
+      "range": "1-21",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "nowy świat",
+        "Jezus Chrystus",
+        "Narodzenie",
+        "serce",
+        "zbawienie",
+        "radość",
+        "wolność",
+        "nowe życie",
+        "przemiana",
+        "miłość",
+        "nadzieja"
+      ],
+      "summary": "Współczesna kolęda w konwencji kowbojskiej, głosząca że narodzenie Jezusa zapoczątkowuje nowy świat – przyjęcie Go do serca uwalnia od nienawiści i daje nowe życie.",
+      "bible": [
+        "Ap 21, 5",
+        "2 Kor 5, 17",
+        "J 8, 36",
+        "J 14, 6"
+      ]
+    }
+  ]
+}

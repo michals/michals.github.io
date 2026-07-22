@@ -1,0 +1,179 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:ec36c02dc982571f0df89342e09fcaa043185a1d9683b9e51c8f1aa7e1728b52",
+  "songs_analysis": [
+    {
+      "range": "1-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dzieci",
+        "Betlejem",
+        "królowie",
+        "Wschód",
+        "gwiazda",
+        "sen",
+        "ciekawość",
+        "dialog",
+        "Mędrcy"
+      ],
+      "summary": "Dzieci betlejemskie widzą nadchodzących trzech królów i pytają o ich pochodzenie; pierwszy król opowiada o Dalekim Wschodzie, złocie i gwieździe, która nie daje mu zasnąć.",
+      "bible": [
+        "Mt 2, 1-2.9-10"
+      ],
+      "text": [
+        "Małe dzieci betlejemskie",
+        "bawią się na placu miasta.",
+        "Oto idą trzej królowie:",
+        "pierwszy, drugi, trzeci też.",
+        "Ale skąd wy przybywacie",
+        "na tych koniach i wielbłądach.",
+        "Kim jesteście, kim jesteście,",
+        "żeście przyszli właśnie tu.",
+        "1 Pochodzę z Dalekiego Wschodu,",
+        "tam, gdzie złota i srebra     mnóstwo wszędzie.",
+        "Ale nocą nie mogę zasnąć,",
+        "bo gwiazdę widziałem,tę gwiazdę na niebie.",
+        "Ale nocą nie może on zasnąć,",
+        "bo gwiazdę zobaczył, tę gwiazdę na niebie.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Wschód",
+        "kwiaty",
+        "perfumy",
+        "król",
+        "gwiazda",
+        "niepokój",
+        "tęsknota",
+        "poszukiwanie",
+        "Mędrcy"
+      ],
+      "summary": "Drugi król mówi o Dalekim Wschodzie pełnym kwiatów i perfum, ale gwiazda nie daje mu spokoju — zapowiedź duchowego poszukiwania.",
+      "bible": [
+        "Mt 2, 1-2"
+      ],
+      "text": [
+        "2 Pochodzę z Dalekiego Wschodu,",
+        "tam, gdzie kwiatów i perfum …",
+        "",
+        "Ale nocą nie może on zasnąć …",
+        ""
+      ]
+    },
+    {
+      "range": "21-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Wschód",
+        "biedni",
+        "chorzy",
+        "król",
+        "gwiazda",
+        "niepokój",
+        "współczucie",
+        "Mędrcy"
+      ],
+      "summary": "Trzeci król wspomina o biednych i chorych w swej krainie, a gwiazda nie daje mu spokoju — pragnienie spotkania z Zbawicielem.",
+      "bible": [
+        "Mt 2, 1-2"
+      ],
+      "text": [
+        "3 Pochodzę z Dalekiego Wschodu,",
+        "tam, gdzie biednych i chorych …",
+        "Ale nocą nie może on zasnąć …",
+        ""
+      ]
+    },
+    {
+      "range": "25-31",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "królowie",
+        "Wschód",
+        "gwiazda",
+        "uczczenie",
+        "Król",
+        "narodzenie",
+        "Mesjasz",
+        "pokłon",
+        "Mędrcy",
+        "objawienie"
+      ],
+      "summary": "Wszyscy królowie razem wyznają, że widzieli gwiazdę Mesjasza i przybyli oddać Mu pokłon jako nowonarodzonemu Królowi.",
+      "bible": [
+        "Mt 2, 2.10-11"
+      ],
+      "text": [
+        "W Jesteśmy z Dalekiego Wschodu,",
+        "widzieliśmy, jak Jego gwiazda rośnie.",
+        "Przybyliśmy tu aby uczcić Go,",
+        "bowiem dziś się narodził nam Król.",
+        "Przybyliśmy tu aby uczcić Go,",
+        "bowiem dziś się narodził nam Król.",
+        ""
+      ]
+    },
+    {
+      "range": "32-39",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dzieci",
+        "Betlejem",
+        "gwiazda",
+        "Jezus",
+        "magowie",
+        "Zbawiciel",
+        "wędrówka",
+        "odkrycie",
+        "naśladowanie"
+      ],
+      "summary": "Dzieci wpatrzone w niebo widzą gwiazdę wskazującą Jezusa i ruszają z magami, by odnaleźć nowonarodzonego Zbawiciela.",
+      "bible": [
+        "Mt 2, 9-10",
+        "J 8, 12"
+      ],
+      "text": [
+        "Małe dzieci betlejemskie",
+        "wszystkie się wpatrują w niebo.",
+        "Oto świeci wielka gwiazda",
+        "tam, gdzie właśnie Jezus jest.",
+        "Przeto jedźmy wszyscy razem",
+        "na tych koniach i wielbłądach",
+        "za magami, co odkryli,",
+        "gdzie Zbawiciel zrodził się."
+      ]
+    },
+    {
+      "range": "1-39",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Boże Narodzenie",
+        "królowie",
+        "Mędrcy",
+        "dzieci",
+        "Betlejem",
+        "gwiazda",
+        "pokłon",
+        "Jezus Chrystus",
+        "Zbawiciel",
+        "poszukiwanie",
+        "dialog",
+        "objawienie"
+      ],
+      "summary": "Dziecięca kolęda dialogowana, w której dzieci betlejemskie spotykają Trzech Króli i pytają o cel ich podróży. Kolejno pierwszy, drugi i trzeci król opowiadają o swoich krajach i gwieździe, która ich przywiodła. Wszyscy razem wyznają wiarę w nowonarodzonego Króla. Dzieci ruszają za magami, by odnaleźć Zbawiciela. Pieśń ma charakter katechetyczny i ukazuje uniwersalne poszukiwanie Boga.",
+      "bible": [
+        "Mt 2, 1-12"
+      ]
+    }
+  ]
+}

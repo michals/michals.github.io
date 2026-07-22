@@ -1,0 +1,307 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:0f4e2c80360e974cc38f84e8a54612d71727f99ecbc965f516104697cb8a2965",
+  "songs_analysis": [
+    {
+      "type": "refren",
+      "range": "1-4",
+      "sentiment": "radosny",
+      "keywords": [
+        "wieczerza",
+        "baranek",
+        "biala szata",
+        "morze czerwone",
+        "chrystus",
+        "śpiew"
+      ],
+      "bible": [
+        "Ap 19,9",
+        "Ap 7,14",
+        "Wj 14"
+      ],
+      "summary": "Refren: Na wieczerzy Baranka, odziani w białe szaty, po przejściu Morza Czerwonego, śpiewamy Chrystusowi.",
+      "text": [
+        "Na wieczerzy Baranka,",
+        "odziani w białe szaty,",
+        "przebywszy Morze Czerwone,",
+        "śpiewamy Chrystusowi Panu."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "5-8",
+      "sentiment": "radosny",
+      "keywords": [
+        "cialo",
+        "miłość",
+        "stol",
+        "chleb żywy",
+        "krew",
+        "ołtarz",
+        "kielich",
+        "nowe przymierze"
+      ],
+      "bible": [
+        "1 Kor 11,25",
+        "J 6,51",
+        "Hbr 9,15"
+      ],
+      "summary": "Cialo Chrystusa zapalone miłością jest chlebem żywym, a Jego krew kielichem Nowego Przymierza.",
+      "text": [
+        "Jego ciało zapalone miłością",
+        "na stole jest chlebem żywym;",
+        "Jego krew na ołtarzu",
+        "kielichem Nowego Przymierza."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "9-12",
+      "sentiment": "radosny",
+      "keywords": [
+        "wieczerza",
+        "baranek",
+        "biala szata",
+        "morze czerwone",
+        "chrystus",
+        "śpiew"
+      ],
+      "bible": [
+        "Ap 19,9",
+        "Ap 7,14",
+        "Wj 14"
+      ],
+      "summary": "Powtorzenie refrenu.",
+      "text": [
+        "Na wieczerzy Baranka,",
+        "odziani w białe szaty,",
+        "przebywszy Morze Czerwone,",
+        "śpiewamy Chrystusowi Panu."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "14-17",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "wieczór",
+        "cud",
+        "ramię",
+        "wybawienie",
+        "aniol niszczyciel"
+      ],
+      "bible": [
+        "Wj 12,23",
+        "Wj 15,6"
+      ],
+      "summary": "W ten wspaniały wieczór wracaja starodawne cuda: potężne ramie Boga wybawia nas od aniola niszczyciela.",
+      "text": [
+        "W ten wspaniały wieczór",
+        "wracają starodawne cuda:",
+        "potężne ramię nas wybawia",
+        "od anioła niszczyciela."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "18-21",
+      "sentiment": "radosny",
+      "keywords": [
+        "wieczerza",
+        "baranek",
+        "biala szata",
+        "morze czerwone",
+        "chrystus",
+        "śpiew"
+      ],
+      "bible": [
+        "Ap 19,9",
+        "Ap 7,14",
+        "Wj 14"
+      ],
+      "summary": "Powtorzenie refrenu.",
+      "text": [
+        "Na wieczerzy Baranka,",
+        "odziani w białe szaty,",
+        "przebywszy Morze Czerwone,",
+        "śpiewamy Chrystusowi Panu."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "23-26",
+      "sentiment": "radosny",
+      "keywords": [
+        "baranek",
+        "ofiarny",
+        "chrystus",
+        "pascha",
+        "cialo",
+        "uwielbione",
+        "chleb przaśny"
+      ],
+      "bible": [
+        "1 Kor 5,7",
+        "Wj 12,8",
+        "J 6,51"
+      ],
+      "summary": "Cichy Baranek ofiarny - Chrystus nasza Pascha, Jego uwielbione cialo jest prawdziwym chlebem przaśnym.",
+      "text": [
+        "Cichy Baranek ofiarny",
+        "Chrystus nasza Pascha;",
+        "Jego ciało uwielbione",
+        "jest prawdziwym chlebem przaśnym."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "27-30",
+      "sentiment": "radosny",
+      "keywords": [
+        "wieczerza",
+        "baranek",
+        "biala szata",
+        "morze czerwone",
+        "chrystus",
+        "śpiew"
+      ],
+      "bible": [
+        "Ap 19,9",
+        "Ap 7,14",
+        "Wj 14"
+      ],
+      "summary": "Powtorzenie refrenu.",
+      "text": [
+        "Na wieczerzy Baranka,",
+        "odziani w białe szaty,",
+        "przebywszy Morze Czerwone,",
+        "śpiewamy Chrystusowi Panu."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "32-35",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "kościół",
+        "pascha",
+        "radość",
+        "zwycięstwo",
+        "chrzest",
+        "odrodzenie"
+      ],
+      "bible": [
+        "Rz 6,4",
+        "Ef 1,18-23",
+        "Ap 21,2"
+      ],
+      "summary": "Prośba do Pana, by opromieniał Kościół paschalną radością i przyłączył do swego zwycięstwa ochrzczonych.",
+      "text": [
+        "Opromieniaj swój Kościół",
+        "paschalną radością, Panie;",
+        "przyłącz do Twego zwycięstwa",
+        "we chrzcie odrodzonych."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "36-39",
+      "sentiment": "radosny",
+      "keywords": [
+        "wieczerza",
+        "baranek",
+        "biala szata",
+        "morze czerwone",
+        "chrystus",
+        "śpiew"
+      ],
+      "bible": [
+        "Ap 19,9",
+        "Ap 7,14",
+        "Wj 14"
+      ],
+      "summary": "Powtorzenie refrenu.",
+      "text": [
+        "Na wieczerzy Baranka,",
+        "odziani w białe szaty,",
+        "przebywszy Morze Czerwone,",
+        "śpiewamy Chrystusowi Panu."
+      ]
+    },
+    {
+      "type": "zakończenie",
+      "range": "41-45",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwala",
+        "cześć",
+        "chrystus",
+        "zwycięzca",
+        "śmierć",
+        "ojciec",
+        "duch święty",
+        "trójca",
+        "amen"
+      ],
+      "bible": [
+        "Flp 2,9-11",
+        "Ap 5,12",
+        "Rz 16,27"
+      ],
+      "summary": "Doksologia trynitarna: chwala i cześć Chrystusowi zwycięzcy śmierci, Ojcu i Duchowi Świętemu, teraz i na wieki. Amen.",
+      "text": [
+        "Chwała i cześć Chrystusowi",
+        "zwycięzcy śmierci,",
+        "Ojcu i Duchowi Świętemu",
+        "teraz i na wieki wieków.",
+        "Amen"
+      ]
+    },
+    {
+      "type": "całość",
+      "range": "1-45",
+      "sentiment": "radosny",
+      "keywords": [
+        "wieczerza",
+        "baranek",
+        "pascha",
+        "chrystus",
+        "morze czerwone",
+        "biala szata",
+        "nowe przymierze",
+        "krew",
+        "cialo",
+        "chleb żywy",
+        "kielich",
+        "ołtarz",
+        "cud",
+        "wybawienie",
+        "aniol niszczyciel",
+        "ofiara",
+        "chleb przaśny",
+        "kościół",
+        "chrzest",
+        "zwycięstwo",
+        "śmierć",
+        "trójca",
+        "doksologia",
+        "amen",
+        "eucharystia"
+      ],
+      "bible": [
+        "Wj 12 (Pascha, baranek paschalny, aniol niszczyciel)",
+        "Wj 14 (Morze Czerwone)",
+        "Wj 15,6 (potężne ramię Pańskie)",
+        "Ap 19,9 (Uczta Baranka)",
+        "Ap 7,9-14 (biale szaty)",
+        "1 Kor 5,7 (Chrystus naszą Paschą)",
+        "1 Kor 11,25 (Nowe Przymierze we krwi)",
+        "J 6,51 (chleb żywy)",
+        "Rz 6,4 (chrzest jako nowe życie)",
+        "Flp 2,9-11 (chwala Chrystusa)",
+        "Typologia: Baranek = Chrystus; Morze Czerwone = chrzest; biala szata = laska uświęcająca; krew na ołtarzu = Eucharystia; chleb przaśny = Cialo Chrystusa; aniol niszczyciel = wyzwolenie z niewoli grzechu; wyjście z Egiptu = przejście z ciemności do światła"
+      ],
+      "summary": "Hymn 'Ad cenam Agni providi' na Nieszpory okresu wielkanocnego, przed Wniebowstąpieniem. Lacinski hymn liturgiczny opiewający Ofiarę Chrystusa-Baranka, przejście przez Morze Czerwone (typ chrztu), ustanowienie Nowego Przymierza we krwi Chrystusa oraz paschalną radość Kościoła. Strofy przeplatane refrenem o wieczerzy Baranka zamyka trynitarna doksologia."
+    }
+  ]
+}

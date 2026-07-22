@@ -1,0 +1,230 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:714c0fd393999270326fac118184a3433eccc387a3d838ddb3f4eca8c08c5a30",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "wstęp",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Niewiasta",
+        "Syn",
+        "Jezus Chrystus",
+        "Matka",
+        "Maryja",
+        "Krzyż",
+        "słowa z krzyża",
+        "Jan",
+        "Kościół"
+      ],
+      "summary": "Słowa Jezusa z krzyża do Maryi i umiłowanego ucznia: 'Niewiasto, oto Twój Syn' i 'Oto Twoja Matka' – ustanowienie Maryi Matką Kościoła.",
+      "bible": [
+        "J 19, 26-27"
+      ],
+      "text": [
+        "„Niewiasto, oto Twój Syn,",
+        "Niewiasto, oto Twój Syn,",
+        "oto Twój Syn,",
+        "oto Twój Syn!”",
+        "„Oto Twoja Matka,",
+        "oto Twoja Matka”.",
+        ""
+      ]
+    },
+    {
+      "range": "8-16",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "Matka",
+        "moja",
+        "nasza",
+        "zamieszkać",
+        "dom",
+        "nauczyć",
+        "kochać",
+        "Syn",
+        "Jezus Chrystus",
+        "miłość",
+        "obecność",
+        "Duch Święty"
+      ],
+      "summary": "Modlitwa do Maryi, aby zamieszkała w naszym sercu i nauczyła nas kochać Jej Syna tak, jak Ona Go kochała – prośba o dar prawdziwej miłości do Chrystusa.",
+      "bible": [
+        "J 19, 26-27",
+        "J 14, 23",
+        "Rz 5, 5"
+      ],
+      "text": [
+        "Maryjo, Matko moja,",
+        "Maryjo, Matko nasza,",
+        "przyjdź i zamieszkaj ze mną tu,",
+        "wejdź do domu mego",
+        "i naucz nas kochać Twego Syna,",
+        "tak jak Go kochałaś Ty,",
+        "i naucz nas kochać Twego Syna,",
+        "tak jak Go kochałaś Ty.",
+        ""
+      ]
+    },
+    {
+      "range": "17-21",
+      "type": "fragment",
+      "sentiment": "neutralny",
+      "keywords": [
+        "pragnienie",
+        "spełnienie",
+        "Jezus Chrystus",
+        "Krzyż",
+        "śmierć",
+        "wypełnienie Pism",
+        "Pascha",
+        "ofiara"
+      ],
+      "summary": "Słowa Jezusa na krzyżu: 'Pragnę' i 'Wszystko się spełniło' – ogłoszenie wypełnienia dzieła zbawienia i oddanie ducha Ojcu.",
+      "bible": [
+        "J 19, 28-30",
+        "Ps 69, 22",
+        "Ps 22, 16"
+      ],
+      "text": [
+        "„Pragnę, o jak pragnę,",
+        "wszystko się spełniło,",
+        "wszystko się spełniło,",
+        "wszystko się spełniło”.",
+        ""
+      ]
+    },
+    {
+      "range": "22-23",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "Matka",
+        "moja",
+        "wezwanie",
+        "modlitwa"
+      ],
+      "summary": "Skrócone wezwanie Maryi jako Matki – refren wyrażający synowskie oddanie i prośbę o macierzyńską obecność.",
+      "bible": [
+        "J 19, 26-27"
+      ],
+      "text": [
+        "Maryjo, Matko moja …",
+        ""
+      ]
+    },
+    {
+      "range": "24-32",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "żołnierze",
+        "śmierć",
+        "Jezus Chrystus",
+        "nogi",
+        "włócznia",
+        "bok",
+        "krew",
+        "woda",
+        "Krzyż",
+        "Pascha",
+        "Eucharystia",
+        "Chrzest",
+        "Kościół",
+        "sakrament"
+      ],
+      "summary": "Opis przebicia boku Chrystusa na krzyżu, z którego wypłynęła krew i woda – typologia sakramentalna: Eucharystia (krew) i Chrzest (woda) oraz narodziny Kościoła z boku Chrystusa jako nowej Ewy.",
+      "bible": [
+        "J 19, 31-37",
+        "Wj 12, 46",
+        "Lb 9, 12",
+        "Ps 34, 21",
+        "Rdz 2, 21-23",
+        "1 J 5, 6-8"
+      ],
+      "text": [
+        "A potem przyszli żołnierze,",
+        "a widząc, że już umarł,",
+        "nie łamali Mu nóg,",
+        "ale jeden z nich",
+        "włócznią przebił Mu bok",
+        "i natychmiast wypłynęła",
+        "krew i woda,",
+        "krew i woda.",
+        ""
+      ]
+    },
+    {
+      "range": "33-40",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Matka",
+        "Kościół",
+        "bok Chrystusa",
+        "Oblubienica",
+        "nowa Ewa",
+        "Jezus Chrystus",
+        "narodziny Kościoła",
+        "sakrament",
+        "odkupienie"
+      ],
+      "summary": "Maryja jako Matka Kościoła – Kościół rodzi się z boku Chrystusa (krew i woda), a Maryja jako nowa Ewa i Oblubienica jest Matką wszystkich wierzących.",
+      "bible": [
+        "J 19, 34-37",
+        "Rdz 2, 21-23",
+        "Rdz 3, 15",
+        "Ef 5, 25-27",
+        "Ap 12, 1-6",
+        "2 Kor 11, 2"
+      ],
+      "text": [
+        "Maryjo, Matko moja,",
+        "Maryjo, Matko nasza,",
+        "jesteś Matką Kościoła,",
+        "on rodzi się z boku Chrystusa:",
+        "Oblubienica - nowa Ewa.",
+        "On rodzi się z boku Chrystusa:",
+        "Oblubienica - nowa Ewa.",
+        "Maryjo, Matko moja …"
+      ]
+    },
+    {
+      "range": "1-40",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Maryja",
+        "Matka",
+        "Kościół",
+        "Krzyż",
+        "Jezus Chrystus",
+        "Niewiasta",
+        "Syn",
+        "krew",
+        "woda",
+        "nowa Ewa",
+        "Oblubienica",
+        "sakrament",
+        "Eucharystia",
+        "Chrzest",
+        "odkupienie",
+        "Pascha",
+        "Jan"
+      ],
+      "summary": "Pieśń oparta na scenie pod krzyżem (J 19, 25-37), gdzie Jezus daje Maryję za Matkę Kościołowi. Zawiera słowa Jezusa z krzyża, opis przebicia boku (krew i woda – sakramenty Kościoła) oraz teologię Maryi jako Matki Kościoła i nowej Ewy. Kontekst wielkopostny i śpiew na Łamanie Chleba podkreśla eucharystyczny i paschalny wymiar pieśni.",
+      "bible": [
+        "J 19, 25-37",
+        "Rdz 2, 21-23",
+        "Rdz 3, 15",
+        "Ef 5, 25-27",
+        "Ap 12, 1-6",
+        "1 J 5, 6-8"
+      ]
+    }
+  ]
+}

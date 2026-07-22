@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a642d75ca49ba5ff79d17f3019c63321f8ef8e075c2c19d4f21c9f1a83622625",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "Bóg Ojciec",
+        "Duch Święty",
+        "Trójca Święta",
+        "cześć",
+        "chwała",
+        "wieczność",
+        "doksologia",
+        "Amen"
+      ],
+      "summary": "Uroczysta doksologia kończąca Modlitwę Eucharystyczną, wyznająca wiarę w Trójcę Świętą i oddająca cześć Bogu przez Chrystusa w Duchu Świętym na wieki.",
+      "bible": [
+        "Rz 11, 36",
+        "Ef 3, 20-21",
+        "Ap 5, 13",
+        "Flp 2, 9-11"
+      ],
+      "text": [
+        "Przez Chrystusa, z Chrystusem i w Chrystusie,",
+        "Tobie, Boże Ojcze wszechmogący,",
+        "w jedności Ducha Świętego,",
+        "wszelka cześć i chwała,",
+        "przez wszystkie wieki wieków.",
+        "Amen, amen, amen!"
+      ]
+    },
+    {
+      "range": "1-6",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "doksologia",
+        "Eucharystia",
+        "Chrystus",
+        "Trójca Święta",
+        "Bóg Ojciec",
+        "Duch Święty",
+        "chwała",
+        "Amen",
+        "liturgia",
+        "wieczność"
+      ],
+      "summary": "Doksologia kończąca Modlitwę Eucharystyczną II, wyznająca cześć i chwałę Bogu Ojcu przez Chrystusa w Duchu Świętym na wieki wieków, z aklamacją Amen.",
+      "bible": [
+        "Rz 11, 36",
+        "Ef 3, 20-21",
+        "Ap 5, 13"
+      ]
+    }
+  ]
+}

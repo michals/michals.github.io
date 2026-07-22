@@ -1,0 +1,225 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:622baca11e4530826e94f28e862ec5b5213915ef07a0cfbb3c992f8d18cda006",
+  "songs_analysis": [
+    {
+      "range": "1",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "2-4",
+      "text": [
+        "Anamneza"
+      ]
+    },
+    {
+      "range": "2-4",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "anamneza",
+        "śmierć",
+        "zmartwychwstanie",
+        "Syn",
+        "Jezus Chrystus",
+        "Ofiara",
+        "Chleb życia",
+        "Kielich zbawienia",
+        "Eucharystia",
+        "Bóg",
+        "wybrać",
+        "służba",
+        "dziękczynienie"
+      ],
+      "summary": "Anamneza: Kościół wspominając śmierć i zmartwychwstanie Chrystusa, ofiaruje Bogu Chleb życia i Kielich zbawienia, dziękując za wybranie do służby Bożej.",
+      "bible": [
+        "Łk 22, 19",
+        "1 Kor 11, 24-25",
+        "J 6, 35",
+        "J 6, 51",
+        "Ps 116 (115), 13",
+        "1 P 2, 9"
+      ],
+      "text": [
+        "Wspominając śmierć i zmartwychwstanie Twojego Syna,",
+        "ofiarujemy Tobie, Boże, Chleb życia i Kielich zbawienia",
+        "i dziękujemy, że nas wybrałeś, abyśmy stali przed Tobą i Tobie służyli."
+      ]
+    },
+    {
+      "range": "5",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "6-7",
+      "text": [
+        "Epikleza"
+      ]
+    },
+    {
+      "range": "6-7",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Duch Święty",
+        "jedność",
+        "Ciało",
+        "Krew",
+        "Chrystus",
+        "Eucharystia",
+        "Kościół",
+        "Komunia Święta"
+      ],
+      "summary": "Epikleza: błaganie o zjednoczenie wszystkich przyjmujących Ciało i Krew Chrystusa przez Ducha Świętego.",
+      "bible": [
+        "Dz 2, 1-4",
+        "1 Kor 10, 16-17",
+        "J 17, 20-23",
+        "Rz 8, 14-17"
+      ],
+      "text": [
+        "Pokornie błagamy, aby Duch Święty zjednoczył nas wszystkich,",
+        "przyjmujących Ciało i Krew Chrystusa."
+      ]
+    },
+    {
+      "range": "8",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "9-15",
+      "text": [
+        "Modlitwy wstawiennicze"
+      ]
+    },
+    {
+      "range": "9-15",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Kościół",
+        "Papież",
+        "biskup",
+        "duchowieństwo",
+        "miłość",
+        "zmarły",
+        "brat",
+        "siostra",
+        "nadzieja",
+        "zmartwychwstanie",
+        "łaska",
+        "światłość",
+        "Boża",
+        "modlitwa wstawiennicza"
+      ],
+      "summary": "Modlitwy wstawiennicze za Kościół na całej ziemi, papieża, biskupa, duchowieństwo, zmarłych oraz prośba o dopuszczenie ich do oglądania Bożej światłości.",
+      "bible": [
+        "1 Tm 2, 1-4",
+        "Ef 3, 14-19",
+        "2 Tes 1, 11",
+        "Ap 14, 13",
+        "Dn 12, 3",
+        "Mt 5, 8"
+      ],
+      "text": [
+        "Pamiętaj Boże, o Twoim Kościele na całej ziemi.",
+        "Spraw, aby lud Twój wzrastał w miłości razem z naszym Papieżem N.,",
+        "naszym Biskupem N. oraz całym duchowieństwem.",
+        "Pamiętaj także o naszych zmarłych braciach i siostrach,",
+        "którzy zasnęli z nadzieją zmartwychwstania,",
+        "i o wszystkich, którzy w Twojej łasce odeszli z tego świata.",
+        "Dopuść ich do oglądania Twojej światłości."
+      ]
+    },
+    {
+      "range": "16",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "17-24",
+      "text": [
+        "Wspomnienie Świętych"
+      ]
+    },
+    {
+      "range": "17-24",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "zmiłowanie",
+        "życie wieczne",
+        "Bogurodzica",
+        "Dziewica",
+        "Maryja",
+        "święty Józef",
+        "Apostoł",
+        "święty",
+        "Jezus Chrystus",
+        "Syn",
+        "Kościół",
+        "świętych obcowanie",
+        "chwała"
+      ],
+      "summary": "Prośba o udział w życiu wiecznym z Maryją, św. Józefem, apostołami i wszystkimi świętymi, aby wspólnie wychwalać Boga przez Chrystusa.",
+      "bible": [
+        "Ap 7, 9-10",
+        "Hbr 12, 1",
+        "Hbr 13, 14",
+        "J 14, 2-3",
+        "Ef 1, 3-6"
+      ],
+      "text": [
+        "Prosimy Cię, zmiłuj się nad nami wszystkimi",
+        "i daj nam udział w życiu wiecznym",
+        "z Najświętszą Bogurodzicą Dziewicą Maryją,",
+        "ze świętym Józefem, Jej oblubieńcem,",
+        "ze świętymi Apostołami i wszystkimi Świętymi,",
+        "którzy w ciągu wieków podobali się Tobie,",
+        "abyśmy z nimi wychwalali Ciebie",
+        "przez Twojego Syna, Jezusa Chrystusa."
+      ]
+    },
+    {
+      "range": "1-24",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "anamneza",
+        "Ofiara",
+        "Eucharystia",
+        "Duch Święty",
+        "jedność",
+        "Kościół",
+        "wstawiennictwo",
+        "zmarły",
+        "święty",
+        "Maryja",
+        "Józef",
+        "Apostoł",
+        "życie wieczne",
+        "Jezus Chrystus",
+        "Ciało",
+        "Krew",
+        "zmartwychwstanie",
+        "modlitwa eucharystyczna",
+        "świętych obcowanie",
+        "chwała"
+      ],
+      "summary": "Słowa po konsekracji Modlitwy Eucharystycznej II: anamneza ofiary Chrystusa, epikleza o jedność w Duchu Świętym, modlitwy wstawiennicze za Kościół i zmarłych oraz wspomnienie świętych z prośbą o życie wieczne.",
+      "bible": [
+        "Łk 22, 19",
+        "1 Kor 11, 24-25",
+        "J 17, 20-23",
+        "1 Kor 10, 16-17",
+        "1 Tm 2, 1-4",
+        "Ap 14, 13",
+        "Ap 7, 9-10",
+        "Hbr 12, 1"
+      ]
+    }
+  ]
+}

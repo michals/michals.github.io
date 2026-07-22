@@ -1,0 +1,215 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:c9c9bfc461dc7a88e721c4cab004ecce60ce0538d11e2976e64cb3430057fbf8",
+  "songs_analysis": [
+    {
+      "range": "1",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "2-3",
+      "text": [
+        "Przejście"
+      ]
+    },
+    {
+      "range": "2-3",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "świętość",
+        "źródło",
+        "uwielbienie",
+        "Trójca Święta"
+      ],
+      "summary": "Rozpoczęcie Modlitwy Eucharystycznej wyznaniem świętości Boga jako źródła wszelkiej świętości.",
+      "bible": [
+        "Iz 6, 3",
+        "Ap 4, 8",
+        "Kpł 19, 2"
+      ],
+      "text": [
+        "Zaprawdę, święty jesteś, Boże,",
+        "źródło wszelkiej świętości."
+      ]
+    },
+    {
+      "range": "4",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "5-7",
+      "text": [
+        "Epikleza. Modlitwa konsekracyjna"
+      ]
+    },
+    {
+      "range": "5-7",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Duch Święty",
+        "dar",
+        "konsekracja",
+        "Ciało Chrystusa",
+        "Krew Chrystusa",
+        "Eucharystia",
+        "przemienienie",
+        "ofiara"
+      ],
+      "summary": "Epikleza - modlitwa o uświęcenie darów chleba i wina mocą Ducha Świętego, aby stały się Ciałem i Krwią Jezusa Chrystusa.",
+      "bible": [
+        "Łk 22, 19-20",
+        "1 Kor 11, 23-25",
+        "J 6, 51-58"
+      ],
+      "text": [
+        "Uświęć te dary mocą Twojego Ducha,",
+        "aby stały się dla nas Ciałem ✠ i Krwią",
+        "naszego Pana, Jezusa Chrystusa."
+      ]
+    },
+    {
+      "range": "8",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "9-22",
+      "text": [
+        "Opowiadanie i konsekracja"
+      ]
+    },
+    {
+      "range": "9-22",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Jezus Chrystus",
+        "męka",
+        "chleb",
+        "kielich",
+        "Ciało",
+        "Krew",
+        "przymierze",
+        "nowe przymierze",
+        "wieczne przymierze",
+        "Eucharystia",
+        "Ostatnia Wieczerza",
+        "ofiara",
+        "grzech",
+        "odpuszczenie",
+        "pamiątka",
+        "sakrament",
+        "kapłaństwo"
+      ],
+      "summary": "Opowiadanie o ustanowieniu Eucharystii podczas Ostatniej Wieczerzy: Jezus bierze chleb i kielich, dziękuje Ojcu, łamie chleb jako swoje Ciało i podaje kielich Krwi nowego i wiecznego przymierza, która będzie wylana na odpuszczenie grzechów, nakazując czynić to na Jego pamiątkę.",
+      "bible": [
+        "Łk 22, 14-20",
+        "1 Kor 11, 23-25",
+        "Mt 26, 26-28",
+        "Mk 14, 22-24",
+        "Wj 24, 8",
+        "Jr 31, 31-34",
+        "Hbr 9, 15"
+      ],
+      "text": [
+        "On to, gdy dobrowolnie wydał się na mękę, wziął chleb",
+        "i dzięki Tobie składając, Ojcze, Ojcze,",
+        "błogosławił, łamał i rozdawał swoim uczniom mówiąc:",
+        "„bierzcie i jedzcie z tego wszyscy:",
+        "to jest bowiem ciało moje, które za was będzie wydane”.",
+        "Podobnie po wieczerzy wziął kielich",
+        "i ponownie dzięki Tobie składając, Ojcze, Ojcze,",
+        "błogosławił i podał swoim uczniom, mówiąc:",
+        "„bierzcie i pijcie z niego wszyscy:",
+        "to jest bowiem kielich krwi mojej",
+        "nowego i wiecznego przymierza,",
+        "która za was i za wielu będzie wylana",
+        "na odpuszczenie grzechów.",
+        "To czyńcie na moją pamiątkę”."
+      ]
+    },
+    {
+      "range": "23",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "24-28",
+      "text": [
+        "Aklamacja"
+      ]
+    },
+    {
+      "range": "24-28",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "tajemnica wiary",
+        "śmierć Jezusa",
+        "zmartwychwstanie",
+        "Maranatha",
+        "wyznanie",
+        "głosić",
+        "Paruzja",
+        "Jezus Chrystus",
+        "odkupienie"
+      ],
+      "summary": "Aklamacja po konsekracji: wyznanie tajemnicy wiary - głoszenie śmierci Jezusa, wyznanie Jego zmartwychwstania i oczekiwanie na Jego przyjście (Maranatha).",
+      "bible": [
+        "1 Kor 11, 26",
+        "Ap 22, 20",
+        "Dz 3, 15",
+        "Rz 6, 9",
+        "1 Tes 4, 16-17"
+      ],
+      "text": [
+        "Oto wielka tajemnica wiary:",
+        "Głosimy Twoją śmierć, o Jezu,",
+        "wyznajemy Twoje zmartwychwstanie.",
+        "Maranatha! Maranatha! Maranatha!",
+        "Maranatha!"
+      ]
+    },
+    {
+      "range": "1-28",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Modlitwa Eucharystyczna",
+        "konsekracja",
+        "Eucharystia",
+        "Jezus Chrystus",
+        "Duch Święty",
+        "Ciało",
+        "Krew",
+        "nowe przymierze",
+        "ofiara",
+        "Ostatnia Wieczerza",
+        "pamiątka",
+        "tajemnica wiary",
+        "śmierć",
+        "zmartwychwstanie",
+        "Paruzja",
+        "Maranatha",
+        "kapłaństwo",
+        "sakrament"
+      ],
+      "summary": "Centralna część Modlitwy Eucharystycznej II: od przejścia przez prefację, epiklezę i opowiadanie o ustanowieniu Eucharystii z konsekracją chleba i wina, po aklamację wiernych głoszących tajemnicę wiary - śmierć i zmartwychwstanie Chrystusa oraz oczekiwanie na Jego przyjście.",
+      "bible": [
+        "Łk 22, 14-20",
+        "1 Kor 11, 23-26",
+        "Mt 26, 26-28",
+        "Mk 14, 22-24",
+        "Jr 31, 31-34",
+        "Hbr 9, 15",
+        "Ap 22, 20",
+        "J 6, 51-58"
+      ]
+    }
+  ]
+}

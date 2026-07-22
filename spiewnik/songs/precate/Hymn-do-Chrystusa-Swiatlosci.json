@@ -1,0 +1,135 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:52d617df6f07f3c460eef68ce5017fb842373df5888b99fe42428f8c8ae45c85",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "Chrystus",
+        "Słowo Boże",
+        "światłość",
+        "Trójca Święta",
+        "chwała",
+        "adoracja"
+      ],
+      "summary": "Uwielbienie Chrystusa jako Słowa Bożego i Światłości ze Światłości, z trynitarnym odniesieniem do potrójnej światłości niepodzielnej chwały.",
+      "bible": [
+        "J 1, 1-5",
+        "J 8, 12",
+        "Credo Nicejskie"
+      ],
+      "text": [
+        "Błogosławimy Cię w tej to godzinie",
+        "o Chryste mój, Słowo Boże!",
+        "Światłość ze Światłości bez początku.",
+        "Błogosławimy Cię, Słowo Boże,",
+        "Błogosławimy Cię, Słowo Boże.",
+        "Błogosławimy Cię, potrójna Światłościniepodzielnej chwały!"
+      ]
+    },
+    {
+      "range": "7-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "zwycięstwo",
+        "ciemność",
+        "zmartwychwstanie",
+        "śmierć",
+        "Chrystus",
+        "światłość",
+        "Pascha"
+      ],
+      "summary": "Głoszenie zwycięstwa Chrystusa nad ciemnościami i śmiercią poprzez Jego zmartwychwstanie.",
+      "bible": [
+        "J 1, 5",
+        "Kol 1, 13",
+        "1 Kor 15, 54-55"
+      ],
+      "text": [
+        "Ty pokonałeś ciemności,",
+        "wskrzesiłeś Światłość                    zmartwychwstając ze śmierci."
+      ]
+    },
+    {
+      "range": "9-12",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "światłość wieczna",
+        "oświecenie",
+        "życie",
+        "świat",
+        "Chrystus",
+        "błogosławieństwo",
+        "Pan"
+      ],
+      "summary": "Chrystus jako wieczna Światłość oświecająca życie ludzkie i wschodząca nad światem, której oddaje się cześć.",
+      "bible": [
+        "J 1, 9",
+        "J 12, 46",
+        "Ap 21, 23"
+      ],
+      "text": [
+        "Tyś jest wieczną Światłością,                 która oświeca nasze życie.",
+        "Tyś jest wieczną Światłością,               która wschodzi nad światem.",
+        "Tyś jest wieczną Światłością,",
+        "błogosławimy Cię Panie!"
+      ]
+    },
+    {
+      "range": "13-18",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "Chrystus",
+        "Słowo Boże",
+        "światłość",
+        "adoracja",
+        "dziękczynienie"
+      ],
+      "summary": "Repryza uwielbienia Chrystusa jako Słowa Bożego i Światłości, stanowiąca liturgiczne zamknięcie hymnu.",
+      "bible": [
+        "J 1, 1-5",
+        "J 8, 12"
+      ],
+      "text": [
+        "Błogosławimy Cię w tej to godzinie",
+        "o Chryste mój, Słowo Boże!",
+        "Światłość ze",
+        "Światłości bez początku.",
+        "Błogosławimy Cię, Słowo Boże,",
+        "Błogosławimy Cię, Słowo Boże."
+      ]
+    },
+    {
+      "range": "1-18",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "światłość",
+        "zmartwychwstanie",
+        "Pascha",
+        "Słowo Boże",
+        "Trójca Święta",
+        "adoracja",
+        "błogosławieństwo",
+        "zwycięstwo",
+        "życie wieczne"
+      ],
+      "summary": "Hymn paschalny ku czci Chrystusa jako Światłości świata, który poprzez zmartwychwstanie pokonał ciemności śmierci i oświeca życie wierzących.",
+      "bible": [
+        "J 1, 1-14",
+        "J 8, 12",
+        "Kol 1, 13",
+        "Ap 21, 23",
+        "Credo Nicejskie"
+      ]
+    }
+  ]
+}

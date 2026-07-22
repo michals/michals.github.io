@@ -1,0 +1,259 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:64a7b003d2c39eafd1d7d9a381c097881de9db45c55ee9a1aa51a64c4f2148f6",
+  "songs_analysis": [
+    {
+      "range": "1-2",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Syn Człowieczy",
+        "przyjść",
+        "Pan",
+        "Jezus"
+      ],
+      "summary": "Inwokacja do Syna Człowieczego, Pana Jezusa, aby przyszedł.",
+      "bible": [
+        "Ap 22, 20",
+        "Dn 7, 13-14"
+      ],
+      "text": [
+        "Przyjdź, Synu Człowieczy.",
+        "Przyjdź, Panie Jezu!"
+      ]
+    },
+    {
+      "range": "3-3",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "Rubryka KpW odnosząca się do zakresu 4-6.",
+      "bible": [],
+      "text": [
+        "KpW:"
+      ]
+    },
+    {
+      "range": "4-6",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "sługa",
+        "ubogi",
+        "przyjść",
+        "Pan",
+        "Jezus"
+      ],
+      "summary": "Wezwanie Chrystusa jako sługi ubogich: Przyjdź, Panie Jezu.",
+      "bible": [
+        "Iz 53, 11",
+        "Mk 10, 45"
+      ],
+      "text": [
+        "Przyjdź, sługo ubogich.",
+        "Przyjdź, Panie Jezu!",
+        ""
+      ]
+    },
+    {
+      "range": "7-10",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch Święty",
+        "mówić",
+        "słuchać",
+        "przyjść"
+      ],
+      "summary": "Duch Święty wzywa: Przyjdź! Kto słucha, niech odpowiada: Przyjdź!",
+      "bible": [
+        "Ap 22, 17"
+      ],
+      "text": [
+        "Duch Święty mówi: Przyjdź!",
+        "Ten, kto słucha, niech mówi: Przyjdź!",
+        "Przyjdź! Przyjdź! Przyjdź!",
+        ""
+      ]
+    },
+    {
+      "range": "11-11",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "Rubryka KpW odnosząca się do zakresu 12-13.",
+      "bible": [],
+      "text": [
+        "KpW:"
+      ]
+    },
+    {
+      "range": "12-13",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "miłość",
+        "przyjść",
+        "Pan",
+        "Jezus"
+      ],
+      "summary": "Wezwanie Chrystusa jako miłości: Przyjdź, Panie Jezu.",
+      "bible": [],
+      "text": [
+        "Przyjdź, miłości moja.",
+        "Przyjdź, Panie Jezu!"
+      ]
+    },
+    {
+      "range": "14-14",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "Rubryka KpW odnosząca się do zakresu 15-16.",
+      "bible": [],
+      "text": [
+        "KpW:"
+      ]
+    },
+    {
+      "range": "15-17",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "uciszyć",
+        "ogień",
+        "przyjść",
+        "Pan",
+        "Jezus"
+      ],
+      "summary": "Prośba o uciszenie ognia i wezwanie Pana Jezusa.",
+      "bible": [],
+      "text": [
+        "Ucisz, Ty ten ogień.",
+        "Przyjdź, Panie Jezu!",
+        ""
+      ]
+    },
+    {
+      "range": "18-21",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Oblubienica",
+        "mówić",
+        "słuchać",
+        "przyjść"
+      ],
+      "summary": "Oblubienica (Kościół) wzywa: Przyjdź! Kto słucha, niech odpowiada: Przyjdź!",
+      "bible": [
+        "Ap 22, 17",
+        "Ap 19, 7"
+      ],
+      "text": [
+        "Oblubienica mówi: Przyjdź!",
+        "Ten, kto słucha, niech mówi: Przyjdź!",
+        "Przyjdź! Przyjdź! Przyjdź!",
+        ""
+      ]
+    },
+    {
+      "range": "22-22",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "Rubryka KpW odnosząca się do zakresu 23-37.",
+      "bible": [],
+      "text": [
+        "KpW:"
+      ]
+    },
+    {
+      "range": "23-37",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Syn Człowieczy",
+        "Pan",
+        "Jezus",
+        "przyjść",
+        "naród",
+        "język",
+        "uniwersalny"
+      ],
+      "summary": "Uniwersalne wezwanie Chrystusa w sześciu językach (włoski, hiszpański, francuski, angielski, rosyjski, polski) obrazujące powszechne oczekiwanie na Jego przyjście.",
+      "bible": [
+        "Ap 22, 17-20",
+        "Dz 2, 5-11"
+      ],
+      "text": [
+        "Vieni, Figlio dell’uomo",
+        "Vieni, Signore Gesù!",
+        "",
+        "Ven, Hijo del Hombre",
+        "Ven, Señor Jesus!",
+        "",
+        "Viens, Fils de l’Homme",
+        "Viens, Seigneur Jésus!",
+        "",
+        "Come, Son of the Man",
+        "Come, Lord Jesus!",
+        "",
+        "Приди, Сын Человеческий",
+        "Приди, Господь Иисус!",
+        ""
+      ]
+    },
+    {
+      "range": "38-42",
+      "type": "zakończenie",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Syn Człowieczy",
+        "przyjść",
+        "Pan",
+        "Jezus",
+        "Maranatha"
+      ],
+      "summary": "Końcowa inwokacja z aklamacją Maranatha – Przyjdź, Panie Jezu!",
+      "bible": [
+        "Ap 22, 20",
+        "1 Kor 16, 22"
+      ],
+      "text": [
+        "Przyjdź, Synu Człowieczy",
+        "Przyjdź … Przyjdź … Przyjdź …",
+        "Panie … Panie … Przyjdź …",
+        "Maranatha!",
+        "Panie Jezu!"
+      ]
+    },
+    {
+      "range": "1-42",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Syn Człowieczy",
+        "przyjść",
+        "Pan",
+        "Jezus",
+        "Maranatha",
+        "Duch Święty",
+        "Oblubienica",
+        "słuchać",
+        "sługa",
+        "ubogi",
+        "miłość",
+        "ogień",
+        "uniwersalny",
+        "Adwent"
+      ],
+      "summary": "Pieśń adwentowa oparta na Ap 22, 17-20, w której Duch Święty i Oblubienica (Kościół) wołają 'Przyjdź!' do Pana Jezusa. Inwokacja powtarzana jest w wielu językach, symbolizując powszechne oczekiwanie na Paruzję.",
+      "bible": [
+        "Ap 22, 17-20",
+        "1 Kor 16, 22",
+        "Dn 7, 13-14",
+        "Ap 19, 7"
+      ]
+    }
+  ]
+}

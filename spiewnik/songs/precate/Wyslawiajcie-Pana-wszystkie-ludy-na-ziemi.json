@@ -1,0 +1,153 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:618bf7f7604cc67ba0463057102c254d99c72533f92c90270bb4ad1f364b5cfc",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wysławianie",
+        "Pan",
+        "lud",
+        "ziemia",
+        "naród",
+        "chwała"
+      ],
+      "summary": "Wezwanie wszystkich ludów i narodów ziemi do oddawania chwały Panu – uniwersalistyczny charakter psalmu wzywa całą ludzkość do uwielbienia Boga.",
+      "bible": [
+        "Ps 117:1a",
+        "Rz 15:11",
+        "Ps 67:4-6"
+      ],
+      "text": [
+        "Wysławiajcie Pana",
+        "wszystkie ludy na ziemi,",
+        "narody dajcie Mu chwałę.",
+        ""
+      ]
+    },
+    {
+      "range": "5-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "mocny",
+        "wierność",
+        "wieczność",
+        "Pan",
+        "naród",
+        "trwanie"
+      ],
+      "summary": "Uzasadnienie wezwania: mocna i potężna jest miłość Pana do nas, a Jego wierność trwa na wieki – teologiczne uzasadnienie powszechnej adoracji.",
+      "bible": [
+        "Ps 117:2a",
+        "Ps 100:5",
+        "Ps 136",
+        "Wj 34:6-7"
+      ],
+      "text": [
+        "Bo mocna jest Jego miłość do nas,",
+        "a Jego wierność trwa na wieki,",
+        "narody, wysławiajcie Pana.",
+        ""
+      ]
+    },
+    {
+      "range": "9-12",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wysławianie",
+        "Pan",
+        "lud",
+        "ziemia",
+        "naród",
+        "chwała"
+      ],
+      "summary": "Powtórzenie wezwania wszystkich ludów do wysławiania Pana.",
+      "bible": [
+        "Ps 117:1a"
+      ],
+      "text": [
+        "Wysławiajcie Pana",
+        "wszystkie ludy na ziemi,",
+        "narody dajcie Mu chwałę.",
+        ""
+      ]
+    },
+    {
+      "range": "13-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "wielki",
+        "miłosierdzie",
+        "wieczność",
+        "naród",
+        "chwała"
+      ],
+      "summary": "Podkreślenie wielkości miłości i wieczności miłosierdzia Bożego jako motywacji do oddania chwały Panu.",
+      "bible": [
+        "Ps 117:2a-b",
+        "Ps 103:8",
+        "Ps 145:8-9"
+      ],
+      "text": [
+        "Bo wielka jest Jego miłość do nas,",
+        "a Jego miłosierdzie trwa na wieki,",
+        "narody, dajcie Mu chwałę.",
+        ""
+      ]
+    },
+    {
+      "range": "17-19",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wysławianie",
+        "Pan",
+        "lud",
+        "ziemia",
+        "naród",
+        "chwała"
+      ],
+      "summary": "Końcowe wezwanie wszystkich ludów do wysławiania Pana jako odpowiedź na Jego wieczną miłość.",
+      "bible": [
+        "Ps 117:1"
+      ],
+      "text": [
+        "Wysławiajcie Pana",
+        "wszystkie ludy na ziemi,",
+        "narody dajcie Mu chwałę."
+      ]
+    },
+    {
+      "range": "1-19",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "wysławianie",
+        "Pan",
+        "ludy",
+        "narody",
+        "chwała",
+        "miłość",
+        "wierność",
+        "miłosierdzie",
+        "wieczność",
+        "uniwersalizm"
+      ],
+      "summary": "Pieśń oparta na Ps 117, najkrótszym psalmie Pisma Świętego, który stanowi radosne wezwanie wszystkich narodów i ludów ziemi do wysławiania Pana. Uzasadnieniem jest potężna miłość Boga do ludzi i Jego wieczna wierność. W Nowym Testamencie św. Paweł cytuje ten psalm (Rz 15,11) jako biblijne potwierdzenie powszechności zbawienia w Chrystusie – wezwania wszystkich narodów do oddawania chwały Bogu.",
+      "bible": [
+        "Ps 117:1-2",
+        "Rz 15:8-12",
+        "Ps 100:5",
+        "Ps 136",
+        "Ap 7:9-10"
+      ]
+    }
+  ]
+}

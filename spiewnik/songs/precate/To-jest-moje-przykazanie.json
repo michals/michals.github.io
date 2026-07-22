@@ -1,0 +1,209 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:07a5a184bf2d8ff1dee9ffe5e0231aeb50b9530bf2b0ea1eef1880f03be8fbc8",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "przykazanie",
+        "miłość",
+        "miłowanie wzajemne",
+        "Jezus Chrystus",
+        "wzór miłości",
+        "Nowe przykazanie"
+      ],
+      "summary": "Chrystus daje nowe przykazanie wzajemnej miłości na wzór Jego miłości do uczniów. Fundament życia chrześcijańskiego.",
+      "bible": [
+        "J 15, 12"
+      ],
+      "text": [
+        "To jest moje przykazanie:",
+        "abyście się miłowali.",
+        "To jest moje przykazanie:",
+        "abyście się miłowali",
+        "wzajemnie,",
+        "jak Ja was umiłowałem,",
+        "jak Ja was umiłowałem."
+      ]
+    },
+    {
+      "range": "8-9",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "życie",
+        "oddanie",
+        "przyjaciele",
+        "ofiara",
+        "męczeństwo",
+        "największa miłość"
+      ],
+      "summary": "Nikt nie ma większej miłości od tej, gdy ktoś życie oddaje za przyjaciół – szczyt objawienia miłości Chrystusa na krzyżu.",
+      "bible": [
+        "J 15, 13",
+        "1 J 3, 16"
+      ],
+      "text": [
+        "Nikt nie ma większej miłości od tej,",
+        "gdy ktoś życie oddaje             za swoich przyjaciół."
+      ]
+    },
+    {
+      "range": "10-13",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "przyjaciele",
+        "Jezus",
+        "uczniowie",
+        "przyjaźń z Bogiem",
+        "wybranie",
+        "relacja osobowa"
+      ],
+      "summary": "Uczniowie są nazwani przyjaciółmi Chrystusa – nowa jakość relacji Boga z człowiekiem oparta na miłości i zaufaniu.",
+      "bible": [
+        "J 15, 14-15"
+      ],
+      "text": [
+        "Wy jesteście moimi przyjaciółmi,",
+        "wy jesteście moimi przyjaciółmi.",
+        "Wy jesteście moimi przyjaciółmi,",
+        "wy jesteście moimi przyjaciółmi."
+      ]
+    },
+    {
+      "range": "14-18",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "wybranie",
+        "wybór Boży",
+        "świat",
+        "nienawiść",
+        "prześladowanie",
+        "uczeń a świat",
+        "jedność z Chrystusem"
+      ],
+      "summary": "Chrystus wybrał swoich uczniów, nie odwrotnie. Świat nienawidzi ich, bo najpierw znienawidził Chrystusa.",
+      "bible": [
+        "J 15, 16-18"
+      ],
+      "text": [
+        "Nie wyście wybrali Mnie,",
+        "ale Ja wybrałem was.",
+        "Jeśli świat was nienawidzi,",
+        "wiedzcie, że wpierw znienawidził Mnie,",
+        "jeśli świat was nienawidzi."
+      ]
+    },
+    {
+      "range": "19-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Ojciec",
+        "Syn",
+        "jedność",
+        "jedno",
+        "świat",
+        "wiara",
+        "posłanie",
+        "modlitwa arcykapłańska",
+        "Trójca Święta",
+        "komunia"
+      ],
+      "summary": "Modlitwa arcykapłańska Chrystusa o jedność uczniów na wzór jedności Ojca i Syna, aby świat uwierzył w Jego posłanie.",
+      "bible": [
+        "J 17, 21"
+      ],
+      "text": [
+        "",
+        "Ojcze, jak Ty jesteś we Mnie",
+        "a Ja jestem w Tobie,",
+        "niech będą jedno w Nas,",
+        "aby świat uwierzył,",
+        "że Ty Mnie posłałeś."
+      ]
+    },
+    {
+      "range": "25-39",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "przykazanie miłości",
+        "miłowanie",
+        "Jezus",
+        "przyjaciele",
+        "wybranie",
+        "świat",
+        "nienawiść",
+        "Ojciec",
+        "jedność",
+        "posłanie",
+        "rekapitulacja"
+      ],
+      "summary": "Rekapitulacja głównych tematów: przykazanie miłości, przyjaźń z Chrystusem, wybranie, nienawiść świata i modlitwa o jedność.",
+      "bible": [
+        "J 15, 12-18",
+        "J 17, 21"
+      ],
+      "text": [
+        "To jest moje przykazanie,",
+        "abyście się miłowali,",
+        "jak Ja was umiłowałem",
+        "Wy jesteście moimi przyjaciółmi,",
+        "wy jesteście moimi przyjaciółmi.",
+        "Nie wyście wybrali Mnie,",
+        "ale Ja wybrałem was.",
+        "Jeśli świat was nienawidzi,",
+        "wiedzcie, że wpierw znienawidził Mnie,",
+        "jeśli świat was nienawidzi.",
+        "Ojcze, jak Ty jesteś we Mnie,",
+        "a Ja jestem w Tobie,",
+        "niech będą jedno w Nas,",
+        "aby świat uwierzył,",
+        "że Ty Mnie posłałeś."
+      ]
+    },
+    {
+      "range": "1-39",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "przykazanie",
+        "miłość",
+        "Jezus Chrystus",
+        "przyjaciele",
+        "ofiara",
+        "krzyż",
+        "wybranie",
+        "świat",
+        "nienawiść",
+        "Ojciec",
+        "Syn",
+        "jedność",
+        "komunia",
+        "Trójca Święta",
+        "posłanie",
+        "wiara",
+        "nowe przykazanie",
+        "wzór miłości",
+        "modlitwa arcykapłańska",
+        "Duch Święty",
+        "Kościół",
+        "uczniostwo",
+        "rekapitulacja",
+        "Eucharystia"
+      ],
+      "summary": "Pieśń oparta na mowie pożegnalnej Chrystusa (J 15-17): nowe przykazanie miłości, największa miłość polegająca na oddaniu życia za przyjaciół, przyjaźń ucznia z Chrystusem, wybranie oraz modlitwa o jedność na wzór Trójcy Świętej. Centralne przesłanie: miłość i jedność jako znak misji Chrystusa dla świata.",
+      "bible": [
+        "J 15, 12-18",
+        "J 17, 21",
+        "1 J 3, 16"
+      ]
+    }
+  ]
+}

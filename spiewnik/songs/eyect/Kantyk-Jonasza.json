@@ -1,0 +1,197 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:2a91a70ef5902f4b5520c1acb49fb240917444d171f906d4ded91059a24d78d6",
+  "songs_analysis": [
+    {
+      "range": "1-24",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "utrapienie",
+        "wołanie",
+        "Jahwe",
+        "odpowiedź",
+        "szeol",
+        "głębokość",
+        "pomoc",
+        "głos",
+        "głębia",
+        "morze",
+        "nurt",
+        "bałwan",
+        "fala",
+        "Bóg",
+        "modlitwa"
+      ],
+      "summary": "Jonasz woła z głębokości szeolu; mimo że został wrzucony w morskie głębiny, Bóg odpowiada na jego wołanie. Trzykrotne powtórzenia podkreślają intensywność błagania i pewność wysłuchania.",
+      "bible": [
+        "Jon 2,2-4",
+        "Ps 69,2-3",
+        "Ps 130,1"
+      ],
+      "text": [
+        "W utrapieniu moim wołałem,",
+        "w utrapieniu moim wołałem",
+        "do Jahwe,",
+        "a odpowiedział mi,",
+        "a odpowiedział mi,",
+        "a odpowiedział mi.",
+        "Z głębokości szeolu wzywałem,",
+        "z głębokości szeolu wzywałem",
+        "pomocy,",
+        "a usłyszałeś mój głos,",
+        "a usłyszałeś mój głos,",
+        "a usłyszałeś mój głos.",
+        "Rzuciłeś mnie na głębię,",
+        "rzuciłeś mnie na głębię,",
+        "we wnętrze morza",
+        "i nurt ogarnął mnie,",
+        "i nurt ogarnął mnie,",
+        "i nurt ogarnął mnie.",
+        "Wszystkie twe morskie bałwany,",
+        "wszystkie twe morskie bałwany",
+        "i fale,",
+        "przeszły nade mną,",
+        "przeszły nade mną,",
+        "przeszły nade mną."
+      ]
+    },
+    {
+      "range": "25-29",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wygnanie",
+        "oczy",
+        "Boże",
+        "miasto",
+        "Jahwe",
+        "oddalenie",
+        "tęsknota",
+        "świątynia"
+      ],
+      "summary": "Jonasz lamentuje nad wygnaniem z obecności Bożej, wyrażając tęsknotę za miastem Bożym i niemożnością oglądania Boga z daleka.",
+      "bible": [
+        "Jon 2,5",
+        "Ps 42,2-3",
+        "Ps 51,13"
+      ],
+      "text": [
+        "",
+        "Wygnany daleko od oczu Twoich,",
+        "jakże mam dojrzeć miasto Twe?",
+        "Wygnany daleko od oczu Twoich,",
+        "jakże mam dojrzeć Cię."
+      ]
+    },
+    {
+      "range": "30-47",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "odejście",
+        "ocean",
+        "ogarnąć",
+        "dno",
+        "zstąpić",
+        "zawory",
+        "ziemia",
+        "przepaść",
+        "życie",
+        "wyprowadzić",
+        "Jahwe",
+        "Pan",
+        "Bóg",
+        "ocalenie",
+        "wybawienie"
+      ],
+      "summary": "Jonasz wyznaje swoje oddalenie od Boga i zstąpienie na dno otchłani, ale zarazem dziękuje za wyprowadzenie życia z przepaści. Osobiste wyznanie wiary 'O Jahwe, Panie mój, mój Boże'.",
+      "bible": [
+        "Jon 2,6-7",
+        "Ps 30,4",
+        "Ps 40,3"
+      ],
+      "text": [
+        "",
+        "To ja odszedłem od Ciebie,",
+        "to ja odszedłem od Ciebie, a ocean",
+        "ogarnął mnie,",
+        "ogarnął mnie,",
+        "ogarnął mnie.",
+        "Do dna zstąpiłem,",
+        "do dna zstąpiłem,",
+        "a zawory ziemi",
+        "zostały poza mną",
+        "zostały poza mną",
+        "na zawsze.",
+        "Ale Ty wyprowadziłeś życie moje,",
+        "ale Ty wyprowadziłeś życie moje",
+        "z przepaści.",
+        "O Jahwe, Panie mój,",
+        "o Jahwe, Panie mój,",
+        "mój Boże."
+      ]
+    },
+    {
+      "range": "48-52",
+      "type": "zakończenie",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "życie",
+        "umierać",
+        "wspomnienie",
+        "obietnica",
+        "modlitwa",
+        "wysłuchanie",
+        "Jahwe",
+        "powrót",
+        "życie",
+        "dziękczynienie"
+      ],
+      "summary": "Jonasz wspomina Boże obietnice w obliczu śmierci i świadczy o wysłuchaniu modlitwy oraz przywróceniu życia. Końcowe dziękczynienie za łaskę ocalenia.",
+      "bible": [
+        "Jon 2,8-10",
+        "Ps 116,1-2"
+      ],
+      "text": [
+        "",
+        "Gdy życie we mnie umierało,",
+        "wspomniałem na Twe obietnice.",
+        "Modlitwy mojej wysłuchałeś,",
+        "wróciłeś mi życie."
+      ]
+    },
+    {
+      "range": "1-52",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Jonasz",
+        "modlitwa",
+        "szeol",
+        "morze",
+        "ocalenie",
+        "Jahwe",
+        "wygnanie",
+        "otchłań",
+        "śmierć",
+        "życie",
+        "obietnica",
+        "wysłuchanie",
+        "przepaść",
+        "dziękczynienie",
+        "Bóg",
+        "pokuta",
+        "nawrócenie"
+      ],
+      "summary": "Parafraza modlitwy Jonasza z wnętrza wieloryba (Jon 2). Prorok woła z otchłani, wyznaje swoje oddalenie od Boga, a następnie dziękuje za wyprowadzenie życia z przepaści. Utwór ma charakter typologiczny – trzydniowy pobyt Jonasza w brzuchu wieloryba jest typem śmierci i zmartwychwstania Chrystusa (Mt 12,40).",
+      "bible": [
+        "Jon 2,1-11",
+        "Ps 69,2-3",
+        "Ps 130,1",
+        "Mt 12,40",
+        "Rz 10,7"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:8b6f26168c20d821e9721f6bcee764b81acdbcc1e8bce221f16e94f803c4fee9",
+  "songs_analysis": [
+    {
+      "range": "1-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "fundament",
+        "święta góra",
+        "Syjon",
+        "miasto Boga",
+        "Jakub",
+        "Babilon",
+        "Palestyna",
+        "Tyr",
+        "Etiopia",
+        "narodzenie",
+        "Matka",
+        "Kościół",
+        "Jeruzalem",
+        "nowe narodzenie",
+        "ludy",
+        "powszechność"
+      ],
+      "summary": "Opis Syjonu jako świętego miasta Boga, któremu Pan nadał chlubę ponad wszystkie namioty Jakuba, oraz zapowiedź powszechnego zgromadzenia wszystkich narodów w Syjonie.",
+      "bible": [
+        "Ps 87, 1-5",
+        "Iz 2, 2-3",
+        "Ga 4, 26",
+        "Ap 21, 10-14",
+        "Ef 2, 19-22"
+      ],
+      "text": [
+        "Jego fundamenty są na świętych górach, ",
+        "Pan miłuje bramy Syjonu                     bardziej niż wszystkie namioty Jakuba.",
+        "O Tobie głoszą rzeczy wspaniałe,                     o miasto Boga!",
+        "Przywołam Rahab i Babilonię,",
+        "Palestynę, Tyr i Etiopię,kiedy ktoś się w nich rodzi,mówi się: „on się tam urodził!”",
+        "Ale o Syjonie mówi się: „Matka”!",
+        "Bowiem wszyscy w nim się narodzili,",
+        "Pan - On sam go stworzył i zbudował!"
+      ]
+    },
+    {
+      "range": "9",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "10-16",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "10-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Matka",
+        "miasto Boga",
+        "księga",
+        "narodzenie",
+        "taniec",
+        "śpiew",
+        "źródło",
+        "Syjon",
+        "Kościół",
+        "nowe narodzenie",
+        "chrzest",
+        "życie wieczne",
+        "Maryja",
+        "Jeruzalem Niebieskie"
+      ],
+      "summary": "Pan zapisuje narody w swojej księdze jako zrodzone na Syjonie, a zgromadzeni tańcem i śpiewem ogłaszają, że w Nim są wszystkie źródła życia.",
+      "bible": [
+        "Ps 87, 6-7",
+        "Ap 21, 27",
+        "Flp 4, 3",
+        "Ap 3, 5",
+        "Ez 47, 1-12",
+        "J 4, 14",
+        "J 7, 37-38"
+      ],
+      "text": [
+        "Matko, matko, miasto Boga!",
+        "",
+        "Pan zapisuje w swojej księdze:",
+        "„Ten się tam urodził”;",
+        "i tańcząc zaśpiewają:                 „W Tobie są wszystkie me źródła”!",
+        "I śpiewaniem i tańcem ogłaszają:",
+        "„W Tobie są wszystkie moje źródła”."
+      ]
+    },
+    {
+      "range": "17",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "18",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "18",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Matka",
+        "miasto Boga",
+        "Syjon",
+        "Kościół",
+        "Maryja",
+        "Niebieskie Jeruzalem",
+        "macierzyństwo",
+        "zakończenie"
+      ],
+      "summary": "Końcowe wezwanie do Syjonu jako Matki, podkreślające macierzyński charakter miasta Bożego rodzącego ludy do zbawienia.",
+      "bible": [
+        "Ps 87, 5",
+        "Ga 4, 26",
+        "Ap 21, 2"
+      ],
+      "text": [
+        "Matko, matko, miasto Boga!"
+      ]
+    },
+    {
+      "range": "1-18",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Syjon",
+        "miasto Boga",
+        "Matka",
+        "Kościół",
+        "narodzenie",
+        "fundament",
+        "święta góra",
+        "ludy",
+        "powszechność",
+        "księga życia",
+        "źródło",
+        "taniec",
+        "śpiew",
+        "Jeruzalem Niebieskie",
+        "Maryja"
+      ],
+      "summary": "Parafraza Psalmu 87 ukazująca Syjon jako matkę wszystkich narodów, typologiczne odniesienie do Kościoła jako miejsca nowego narodzenia w Chrystusie i zapowiedź Niebieskiego Jeruzalem.",
+      "bible": [
+        "Ps 87",
+        "Ga 4, 26",
+        "Ap 21, 2",
+        "Ap 21, 10-14",
+        "Ef 2, 19-22"
+      ]
+    }
+  ]
+}

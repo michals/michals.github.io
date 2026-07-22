@@ -1,0 +1,398 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:2997ef06d1eaf1043823a8740957c98224c729143f53ac403b67f77ad5ce1cc2",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "narodzenie",
+        "świat",
+        "noc",
+        "jasność",
+        "Aniołowie",
+        "radość",
+        "śpiew",
+        "niebiosa"
+      ],
+      "summary": "Narodzenie Chrystusa przemienia ciemną noc w promienistą jasność, a aniołowie wyśpiewują radość pod niebiosa.",
+      "bible": [
+        "Łk 2, 8-9",
+        "J 1, 5",
+        "Iz 9, 1"
+      ],
+      "text": [
+        "Gdy się Chrystus rodzi",
+        "i na świat przychodzi,",
+        "ciemna noc w jasnościach",
+        "promienistych brodzi.",
+        "Aniołowie się radują,",
+        "pod niebiosa wyśpiewują:",
+        ""
+      ]
+    },
+    {
+      "range": "8-10",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Gloria",
+        "chwała",
+        "Bóg",
+        "najwyższy",
+        "aniołowie",
+        "uwielbienie",
+        "łaciński"
+      ],
+      "summary": "Refren kolędy cytujący hymn anielski 'Gloria in excelsis Deo' — chwała Bogu na wysokościach.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Gloria, gloria, gloria",
+        "in excelsis De-e-o!",
+        ""
+      ]
+    },
+    {
+      "range": "11-17",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "anioł",
+        "pasterze",
+        "trzody",
+        "Betlejem",
+        "pośpiech",
+        "Zbawiciel",
+        "Odkupiciel",
+        "narodzenie",
+        "Chrystus"
+      ],
+      "summary": "Aniołowie nakazują pasterzom spieszyć do Betlejem, bo narodził się Zbawiciel i Odkupiciel całego świata.",
+      "bible": [
+        "Łk 2, 8-11.15-16"
+      ],
+      "text": [
+        "Mówią do pasterzy,",
+        "którzy trzód swych strzegli,",
+        "aby do Betlejem",
+        "czym prędzej pobiegli,",
+        "bo się narodził Zbawiciel",
+        "wszego świata Odkupiciel:",
+        ""
+      ]
+    },
+    {
+      "range": "18-20",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Gloria",
+        "chwała",
+        "Bóg",
+        "najwyższy",
+        "aniołowie",
+        "uwielbienie"
+      ],
+      "summary": "Powtórzenie refrenu 'Gloria in excelsis Deo'.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Gloria, gloria, gloria",
+        "in excelsis De-e-o!",
+        ""
+      ]
+    },
+    {
+      "range": "21-27",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "duchy niebieskie",
+        "posłowie",
+        "niebo",
+        "pytanie",
+        "strach",
+        "ludzka słabość",
+        "objawienie",
+        "niepojętość"
+      ],
+      "summary": "Pasterze, przerażeni i niepojmujący anielskiego orędzia, proszą o wyraźniejsze wskazanie, co mają czynić.",
+      "bible": [
+        "Łk 1, 12",
+        "Łk 2, 9",
+        "Dz 2, 37"
+      ],
+      "text": [
+        "O niebieskie duchy",
+        "i posłowie nieba,",
+        "powiedzcież wyraźniej,",
+        "co nam czynić trzeba,",
+        "bo my nic nie pojmujemy,",
+        "ledwo od strachu żyjemy:",
+        ""
+      ]
+    },
+    {
+      "range": "28-30",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Gloria",
+        "chwała",
+        "Bóg",
+        "najwyższy",
+        "aniołowie",
+        "uwielbienie"
+      ],
+      "summary": "Powtórzenie refrenu 'Gloria in excelsis Deo'.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Gloria, gloria, gloria",
+        "in excelsis De-e-o!",
+        ""
+      ]
+    },
+    {
+      "range": "31-37",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Betlejem",
+        "Dziecię",
+        "pieluszki",
+        "żłób",
+        "pokłon",
+        "boski",
+        "troski",
+        "pocieszenie"
+      ],
+      "summary": "Aniołowie wskazują Dziecię w żłobie jako cel podróży; On osłodzi wszystkie troski tym, którzy oddadzą Mu pokłon.",
+      "bible": [
+        "Łk 2, 12",
+        "Mt 11, 28-30"
+      ],
+      "text": [
+        "Idźcie do Betlejem,",
+        "gdzie Dziecię zrodzone,",
+        "w pieluszki powite,",
+        "w żłobie położone,",
+        "oddajcie Mu pokłon boski,",
+        "On osłodzi wasze troski:",
+        ""
+      ]
+    },
+    {
+      "range": "38-40",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Gloria",
+        "chwała",
+        "Bóg",
+        "najwyższy",
+        "aniołowie",
+        "uwielbienie"
+      ],
+      "summary": "Powtórzenie refrenu 'Gloria in excelsis Deo'.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Gloria, gloria, gloria",
+        "in excelsis De-e-o!",
+        ""
+      ]
+    },
+    {
+      "range": "41-47",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pasterze",
+        "Betlejem",
+        "pośpiech",
+        "spełnienie",
+        "Anieli",
+        "zeznanie",
+        "wiara",
+        "posłuszeństwo"
+      ],
+      "summary": "Pasterze zrozumieli anielskie orędzie i pobiegli do Betlejem, gdzie zastali wszystko dokładnie tak, jak im aniołowie powiedzieli.",
+      "bible": [
+        "Łk 2, 15-16",
+        "Łk 2, 20"
+      ],
+      "text": [
+        "A gdy pastuszkowie",
+        "wszystko zrozumieli,",
+        "zaraz do Betlejem",
+        "spieszno pobieżeli,",
+        "i zupełnie tak zastali",
+        "jak Anieli im zeznali:",
+        ""
+      ]
+    },
+    {
+      "range": "48-50",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Gloria",
+        "chwała",
+        "Bóg",
+        "najwyższy",
+        "aniołowie",
+        "uwielbienie"
+      ],
+      "summary": "Powtórzenie refrenu 'Gloria in excelsis Deo'.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Gloria, gloria, gloria",
+        "in excelsis De-e-o!",
+        ""
+      ]
+    },
+    {
+      "range": "51-57",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "zaduma",
+        "Bóg",
+        "uniżenie",
+        "stworzenie",
+        "pokłon",
+        "kolana",
+        "Pan",
+        "adoracja",
+        "kenoza"
+      ],
+      "summary": "Pełni zadumy nad tym, że Bóg tak się zniżył do swego stworzenia, pasterze padają na kolana i oddają cześć Panu.",
+      "bible": [
+        "Flp 2, 6-7",
+        "Ps 8, 4-5",
+        "Łk 2, 16"
+      ],
+      "text": [
+        "A stanąwszy w miejscu",
+        "pełni zadumienia,",
+        "iż się Bóg tak zniżył",
+        "do swego stworzenia,",
+        "padli przed Nim na kolana",
+        "i uczcili swego Pana:",
+        ""
+      ]
+    },
+    {
+      "range": "58-60",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Gloria",
+        "chwała",
+        "Bóg",
+        "najwyższy",
+        "aniołowie",
+        "uwielbienie"
+      ],
+      "summary": "Powtórzenie refrenu 'Gloria in excelsis Deo'.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Gloria, gloria, gloria",
+        "in excelsis De-e-o!",
+        ""
+      ]
+    },
+    {
+      "range": "61-67",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pokłon",
+        "Pan",
+        "radość",
+        "trzody",
+        "powrót",
+        "godność",
+        "Bóg",
+        "widzenie",
+        "ziemia",
+        "uczczenie"
+      ],
+      "summary": "Po oddaniu pokłonu pasterze wracają do swych trzód z wielką radością, że stali się godni oglądać Boga na ziemi.",
+      "bible": [
+        "Łk 2, 20",
+        "Mt 5, 8",
+        "1 J 1, 1-3"
+      ],
+      "text": [
+        "Wreszcie kiedy pokłon",
+        "Panu już oddali,",
+        "z wielką wesołością",
+        "do swych trzód wracali,",
+        "że się stali być godnymi",
+        "Boga widzieć na tej ziemi:",
+        ""
+      ]
+    },
+    {
+      "range": "68-69",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Gloria",
+        "chwała",
+        "Bóg",
+        "najwyższy",
+        "aniołowie",
+        "uwielbienie"
+      ],
+      "summary": "Końcowe powtórzenie refrenu 'Gloria in excelsis Deo', wieńczące całą kolędę.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Gloria, gloria, gloria",
+        "in excelsis De-e-o!"
+      ]
+    },
+    {
+      "range": "1-69",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Boże Narodzenie",
+        "Chrystus",
+        "narodzenie",
+        "pasterze",
+        "aniołowie",
+        "Betlejem",
+        "Gloria",
+        "żłób",
+        "pokłon",
+        "adoracja",
+        "radość",
+        "kenoza",
+        "objawienie"
+      ],
+      "summary": "Kolęda szczegółowo opowiadająca historię pasterzy w scenie narodzenia: od anielskiego zwiastowania, przez ich początkowy strach i niezrozumienie, po wędrówkę do Betlejem, adorację i powrót z radością. Refren 'Gloria in excelsis Deo' (Łk 2, 14) jest liturgicznym i teologicznym centrum pieśni, podkreślającym oddawanie chwały Bogu za dar Wcielenia.",
+      "bible": [
+        "Łk 2, 8-18.20",
+        "Flp 2, 6-7",
+        "J 1, 5",
+        "Iz 9, 1"
+      ]
+    }
+  ]
+}

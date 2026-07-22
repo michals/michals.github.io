@@ -1,0 +1,243 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:f7139c1742429494dcee2df585a38ad563171c0028b11f1f297f331db0d45412",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "blask",
+        "moc",
+        "chwała",
+        "Jezus Chrystus",
+        "przyjście",
+        "adwent",
+        "majestat",
+        "Bóg",
+        "Król"
+      ],
+      "summary": "Zapowiedź przyjścia Pana przyodzianego w blask, moc i chwałę – obraz Boga jako Króla i Władcy w majestacie.",
+      "bible": [
+        "Ps 93, 1",
+        "Ap 1, 5-7"
+      ],
+      "text": [
+        "Nadchodzi Pan, przyodziany w blask,",
+        "przepasany mocą, obleczony w chwałę.",
+        ""
+      ]
+    },
+    {
+      "range": "4-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "świat",
+        "tron",
+        "niewzruszony",
+        "Bóg",
+        "od wieków",
+        "dom",
+        "świętość",
+        "Królestwo Boże",
+        "wieczność",
+        "majestat"
+      ],
+      "summary": "Bóg utwierdza świat, Jego tron jest niewzruszony, a domowi Jego przystoi świętość – hymn na cześć wiecznego Królestwa Bożego.",
+      "bible": [
+        "Ps 93, 1-5",
+        "Ps 96, 10"
+      ],
+      "text": [
+        "Utwierdza świat, tak że się nie zachwieje,",
+        "Twój tron niewzruszony, Tyś jest od wieków;",
+        "domowi Twemu przystoi świętość,",
+        "domowi Twemu przystoi świętość!",
+        ""
+      ]
+    },
+    {
+      "range": "9-11",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "blask",
+        "moc",
+        "chwała",
+        "Jezus Chrystus",
+        "przyjście",
+        "adwent",
+        "majestat",
+        "Bóg",
+        "Król"
+      ],
+      "summary": "Refren ogłaszający przyjście Pana w blasku, mocy i chwale – adwentowa zapowiedź paruzji.",
+      "bible": [
+        "Ps 93, 1",
+        "Ap 1, 5-7"
+      ],
+      "text": [
+        "Nadchodzi Pan, przyodziany w blask,",
+        "przepasany mocą, obleczony w chwałę.",
+        ""
+      ]
+    },
+    {
+      "range": "12-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "uwolnienie",
+        "grzech",
+        "królestwo kapłańskie",
+        "chwała",
+        "moc",
+        "wieki",
+        "Jezus Chrystus",
+        "odkupienie",
+        "Kościół",
+        "kapłaństwo"
+      ],
+      "summary": "Uwielbienie Chrystusa, który nas kocha, uwalnia od grzechów i czyni nas królestwem kapłańskim – nawiązanie do kapłaństwa powszechnego wiernych.",
+      "bible": [
+        "Ap 1, 5-6",
+        "Wj 19, 6",
+        "1 P 2, 9",
+        "Ap 5, 9-10"
+      ],
+      "text": [
+        "Temu, który nas kocha i uwalnia od grzechów,",
+        "i uczynił nas królestwem kapłańskim,",
+        "Jemu niech będzie chwała i moc,",
+        "przez wszystkie wieki wieków,",
+        ""
+      ]
+    },
+    {
+      "range": "17-19",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "blask",
+        "moc",
+        "chwała",
+        "Jezus Chrystus",
+        "przyjście",
+        "adwent",
+        "majestat",
+        "Bóg",
+        "Król"
+      ],
+      "summary": "Refren ogłaszający przyjście Pana w blasku, mocy i chwale – adwentowa zapowiedź paruzji.",
+      "bible": [
+        "Ps 93, 1",
+        "Ap 1, 5-7"
+      ],
+      "text": [
+        "Nadchodzi Pan, przyodziany w blask,",
+        "przepasany mocą, obleczony w chwałę.",
+        ""
+      ]
+    },
+    {
+      "range": "20-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "przyjście",
+        "obłok",
+        "zobaczyć",
+        "przebodli",
+        "narody",
+        "ziemia",
+        "Jezus Chrystus",
+        "paruzja",
+        "Sąd Ostateczny",
+        "Apokalipsa",
+        "chwała"
+      ],
+      "summary": "Opis paruzji Chrystusa przychodzącego na obłokach, którego ujrzą wszyscy, także ci, którzy Go przebodli – nawiązanie do Apokalipsy i zapowiedź Sądu Ostatecznego.",
+      "bible": [
+        "Ap 1, 7",
+        "Dn 7, 13",
+        "Mt 24, 30",
+        "Za 12, 10",
+        "J 19, 37"
+      ],
+      "text": [
+        "Oto przychodzi, przychodzi na obłokach,",
+        "oto przychodzi i wszyscy Go zobaczą,",
+        "także ci, [także] ci, co Go przebodli,",
+        "wszystkie narody całej ziemi!",
+        ""
+      ]
+    },
+    {
+      "range": "25-26",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "blask",
+        "moc",
+        "chwała",
+        "Jezus Chrystus",
+        "przyjście",
+        "adwent",
+        "majestat",
+        "Bóg",
+        "Król"
+      ],
+      "summary": "Refren ogłaszający przyjście Pana w blasku, mocy i chwale – adwentowa zapowiedź paruzji.",
+      "bible": [
+        "Ps 93, 1",
+        "Ap 1, 5-7"
+      ],
+      "text": [
+        "Nadchodzi Pan, przyodziany w blask,",
+        "przepasany mocą, obleczony w chwałę."
+      ]
+    },
+    {
+      "range": "1-26",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "przyjście",
+        "blask",
+        "moc",
+        "chwała",
+        "adwent",
+        "paruzja",
+        "Jezus Chrystus",
+        "Król",
+        "świat",
+        "tron",
+        "świętość",
+        "miłość",
+        "uwolnienie",
+        "grzech",
+        "królestwo kapłańskie",
+        "obłok",
+        "narody",
+        "Apokalipsa"
+      ],
+      "summary": "Adwentowa pieśń oparta na Psalmie 93 i Apokalipsie św. Jana, ogłaszająca przyjście Pana w blasku i chwale. Chrystus utwierdza świat, uwalnia od grzechów i czyni nas królestwem kapłańskim. Paruzja Chrystusa na obłokach, którą ujrzą wszystkie narody, także ci, którzy Go przebodli – eschatologiczne oczekiwanie na powtórne przyjście Zbawiciela.",
+      "bible": [
+        "Ps 93, 1-5",
+        "Ap 1, 5-7",
+        "Dn 7, 13",
+        "Mt 24, 30",
+        "Za 12, 10",
+        "J 19, 37",
+        "1 P 2, 9"
+      ]
+    }
+  ]
+}

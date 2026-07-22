@@ -1,0 +1,236 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:0b417cc3f3b3d86c79edf480b8d32491419b09c877c6013f20ee10a758aa53bf",
+  "songs_analysis": [
+    {
+      "range": "1-11",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jahwe",
+        "Jeruzalem",
+        "Syjon",
+        "chwała",
+        "uwielbienie",
+        "śpiew",
+        "Bóg",
+        "uzdrowienie",
+        "serce",
+        "Izrael"
+      ],
+      "summary": "Wezwanie Jeruzalem i Syjonu do chwalenia Jahwe, który leczy złamanych na duchu i uzdrawia Izraela z ran.",
+      "bible": [
+        "Ps 147,1-3"
+      ],
+      "text": [
+        "Śpiewaj Jahwé, Jeruzalém.",
+        "Syjonie Boga chwal.",
+        "On leczy wszystkie serca złamane,",
+        "uzdrawia Izraela z ran.",
+        "",
+        "Dobrze błogosławić Jahwé.",
+        "wdzięcznie pochwalną nucić pieśń.",
+        "Śpiewajcie Jahwe pieśni i psalmy,",
+        "grajcie na gitarze dla Pana.",
+        "Śpiewaj Jahwé, Jeruzalém …",
+        ""
+      ]
+    },
+    {
+      "range": "12-17",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "Jeruzalem",
+        "budowa",
+        "zgromadzenie",
+        "Izrael",
+        "rozproszenie",
+        "pokorny",
+        "poniżenie",
+        "grzesznik"
+      ],
+      "summary": "Pan buduje Jeruzalem, gromadzi rozproszonych Izraelitów, podnosi pokornych i poniża występnych.",
+      "bible": [
+        "Ps 147,2-6"
+      ],
+      "text": [
+        "Pan buduje Jeruzalém,",
+        "gromadzi rozproszonych z Izraela;",
+        "Pan dźwiga pokornych,",
+        "a poniża występnych aż do ziemi.",
+        "Śpiewaj Jahwé, Jeruzalém …",
+        ""
+      ]
+    },
+    {
+      "range": "18-23",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "gwiazdy",
+        "liczby",
+        "imię",
+        "Pan",
+        "wielkość",
+        "siła",
+        "mądrość",
+        "stworzenie",
+        "wszechmoc"
+      ],
+      "summary": "Pan zna każdą gwiazdę z imienia, Jego siła i mądrość są nieogarnione – wszechmoc Boga objawiona w stworzeniu.",
+      "bible": [
+        "Ps 147,4-5",
+        "Iz 40,26"
+      ],
+      "text": [
+        "On liczbę gwiazd oznacza,",
+        "wszystkie je woła po imieniu.",
+        "Pan jest wielki i zasobny w siły,",
+        "mądrość Jego jest niewypowiedziana.",
+        "Śpiewaj Jahwé, Jeruzalém …",
+        ""
+      ]
+    },
+    {
+      "range": "24-29",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "siła",
+        "rumak",
+        "mąż",
+        "Pan",
+        "bojaźń",
+        "łaska",
+        "pokora",
+        "ufność"
+      ],
+      "summary": "Pan nie upodobał sobie w sile fizycznej, ale w tych, którzy się Go boją i wyczekują Jego łaski.",
+      "bible": [
+        "Ps 147,10-11",
+        "1 Sm 16,7"
+      ],
+      "text": [
+        "Nie kocha się w sile rumaka;",
+        "nie upodobał w sile męża.",
+        "Podobają się Panu, którzy się Go boją,",
+        "którzy wyczekują Jego łaski.",
+        "Śpiewaj Jahwé, Jeruzalém …",
+        ""
+      ]
+    },
+    {
+      "range": "30-35",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "bramy",
+        "błogosławieństwo",
+        "synowie",
+        "pokój",
+        "pszenica",
+        "Syjon",
+        "bezpieczeństwo"
+      ],
+      "summary": "Pan umacnia bramy Jeruzalem, błogosławi jego mieszkańcom, zapewnia pokój i syci najlepszą pszenicą.",
+      "bible": [
+        "Ps 147,13-14"
+      ],
+      "text": [
+        "Umacnia zawory bram twoich",
+        "i błogosławi synom twoim w tobie.",
+        "Zapewnia pokój twoim granicom,",
+        "nasyca cię najlepszą pszenicą.",
+        "Śpiewaj Jahwé, Jeruzalém …",
+        ""
+      ]
+    },
+    {
+      "range": "36-41",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ziemia",
+        "orędzie",
+        "słowo",
+        "śnieg",
+        "wełna",
+        "szron",
+        "popiół",
+        "przyroda",
+        "Pan"
+      ],
+      "summary": "Pan zsyła na ziemię swoje słowo i orędzie, panuje nad przyrodą: daje śnieg i rozsiewa szron.",
+      "bible": [
+        "Ps 147,15-17",
+        "Iz 55,10-11"
+      ],
+      "text": [
+        "Na ziemię zsyła swoje orędzie,",
+        "mknie chyżo Jego słowo.",
+        "On daje śnieg niby wełnę,",
+        "a szron jak popiół rozsiewa.",
+        "Śpiewaj Jahwé, Jeruzalém …",
+        ""
+      ]
+    },
+    {
+      "range": "42-46",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "słowo",
+        "Jakub",
+        "Izrael",
+        "ustawy",
+        "wyroki",
+        "objawienie",
+        "przymierze",
+        "naród wybrany"
+      ],
+      "summary": "Pan obwieścił swoje słowo Jakubowi, dając Izraelowi ustawy i wyroki – wybór Izraela na naród przymierza.",
+      "bible": [
+        "Ps 147,19-20",
+        "Rz 3,1-2",
+        "Rz 9,4-5"
+      ],
+      "text": [
+        "Obwieścił swoje słowa Jakubowi,",
+        "Izraelowi ustawy swe i wyroki.",
+        "Żadnemu narodowi tak nie uczynił:",
+        "o swoich wyrokach ich nie pouczył.",
+        "Śpiewaj Jahwé, Jeruzalém …"
+      ]
+    },
+    {
+      "range": "1-46",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jahwe",
+        "Jeruzalem",
+        "Syjon",
+        "chwała",
+        "stworzenie",
+        "Izrael",
+        "słowo",
+        "przymierze",
+        "łaska",
+        "pokój",
+        "uzdrowienie",
+        "objawienie",
+        "wszechmoc"
+      ],
+      "summary": "Parafraza Psalmu 147 – hymn pochwalny na cześć Jahwe, który leczy złamanych, buduje Jeruzalem, włada stworzeniem i objawił swoje słowo Izraelowi, wybranemu narodowi przymierza.",
+      "bible": [
+        "Ps 147,1-20",
+        "Iz 40,26",
+        "Iz 55,10-11",
+        "Rz 3,1-2",
+        "Rz 9,4-5"
+      ]
+    }
+  ]
+}

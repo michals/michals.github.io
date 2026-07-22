@@ -1,0 +1,148 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:6f8932cff408cfaa1ca0f21c10df27c4d353a3645ae87d5056abf5e838fd81b3",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "ręce",
+        "modlitwa",
+        "Pan",
+        "rozpostarcie",
+        "Ody Salomona"
+      ],
+      "summary": "Modlitewny gest rozpostartych rąk na wzór Chrystusa modlącego się do Ojca.",
+      "bible": [
+        "Ody Salomona 27",
+        "Iz 65,2"
+      ],
+      "text": [
+        "Rozciągnąłem moje ręce,",
+        "rozciągnąłem moje ręce",
+        "i modliłem się do Pana,",
+        "modliłem się tak jak Pan.",
+        ""
+      ]
+    },
+    {
+      "range": "6-8",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Abba",
+        "Ojciec",
+        "duch",
+        "zawierzenie",
+        "ręce"
+      ],
+      "summary": "Chrystusowe wołanie Abba, Ojcze i powierzenie ducha w ręce Boga na wzór Psalmu 31.",
+      "bible": [
+        "Mk 14,36",
+        "Łk 23,46",
+        "Ps 31,6"
+      ],
+      "text": [
+        "Abba, Ojcze mój, Abba, Ojcze mój.",
+        "W Twoje ręce powierzam ducha mego.",
+        "W Twoje ręce powierzam ducha mego."
+      ]
+    },
+    {
+      "range": "9-13",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "ręce",
+        "modlitwa",
+        "Pan",
+        "rozpostarcie"
+      ],
+      "summary": "Powtórzenie gestu modlitewnego rozpostartych rąk jako naśladowanie Chrystusa.",
+      "bible": [
+        "Ody Salomona 27"
+      ],
+      "text": [
+        "Rozciągnąłem moje ręce,",
+        "rozciągnąłem moje ręce",
+        "i modliłem się do Pana,",
+        "modliłem się tak jak Pan.( )",
+        ""
+      ]
+    },
+    {
+      "range": "14-17",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "krzyż",
+        "ręce",
+        "drzewo",
+        "wywyższenie",
+        "znak",
+        "wyprostowanie"
+      ],
+      "summary": "Rozpostarte ręce są typologicznym znakiem Krzyża Chrystusa; drzewo krzyża zostało wywyższone jak wąż miedziany na pustyni.",
+      "bible": [
+        "Lb 21,8-9",
+        "J 3,14",
+        "Dz 5,30",
+        "Ga 3,13"
+      ],
+      "text": [
+        "Ponieważ rozpostarte ręce są znakiem jego Krzyża",
+        "i trwam wyprostowany,",
+        "drzewo wywyższone,",
+        "drzewo wywyższone."
+      ]
+    },
+    {
+      "range": "18-21",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "ręce",
+        "modlitwa",
+        "Pan"
+      ],
+      "summary": "Powtórzenie gestu modlitewnego rozpostartych rąk.",
+      "bible": [
+        "Ody Salomona 27"
+      ],
+      "text": [
+        "Rozciągnąłem moje ręce,",
+        "rozciągnąłem moje ręce",
+        "i modliłem się do Pana,",
+        "modliłem się tak jak Pan."
+      ]
+    },
+    {
+      "range": "1-21",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "ręce",
+        "modlitwa",
+        "krzyż",
+        "Chrystus",
+        "Abba",
+        "Ojciec",
+        "duch",
+        "drzewo",
+        "wywyższenie",
+        "zawierzenie",
+        "Ody Salomona"
+      ],
+      "summary": "Hymn z Od Salomona łączący modlitwę rozpostartych rąk z typologią Krzyża: gest modlitewny prefiguruje krzyż Chrystusa, a zawierzenie ducha Ojcu wypełnia się w paschalnej ofierze Syna Bożego.",
+      "bible": [
+        "Ody Salomona 27",
+        "Mk 14,36",
+        "Łk 23,46",
+        "Ps 31,6",
+        "Lb 21,8-9",
+        "J 3,14"
+      ]
+    }
+  ]
+}

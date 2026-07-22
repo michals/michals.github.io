@@ -1,0 +1,180 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:07a7cf398fa0b8c5d38bce491ddc41f97352db7c613da483873f0cdeb6ace4f3",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Maryja",
+        "ból",
+        "ofiara",
+        "krzyż",
+        "Syn Boży",
+        "pasja",
+        "cierpienie",
+        "śmierć",
+        "Matka Bolesna",
+        "owca",
+        "baranek",
+        "zabicie",
+        "Jezus Chrystus"
+      ],
+      "summary": "Obraz Maryi podążającej za Synem na śmierć krzyżową jak owca za swoim jagnięciem, wyrażający ból Matki i zapowiedź ofiary Chrystusa.",
+      "bible": [
+        "J 19, 25-27",
+        "Łk 23, 26-31",
+        "Iz 53, 7",
+        "J 1, 29"
+      ],
+      "text": [
+        "Jak owca, co widzi, jak prowadzą jej jagniątko na zabicie,",
+        "Maryja szła za Nim pochłonięta przez ból.",
+        "I mówiła: Dokąd cię wiodą Synu mój?",
+        "Jakże kończy się tak nagle bieg Twojego życia?",
+        "Mów do mnie, nie omijaj mnie bez słowa.",
+        "Mój Synu, mój Synu i mój Boże.",
+        ""
+      ]
+    },
+    {
+      "range": "8",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "9-15",
+      "bible": [],
+      "text": [
+        "Maryja:"
+      ]
+    },
+    {
+      "range": "9-15",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "ból",
+        "cierpienie",
+        "krzyż",
+        "nienawiść",
+        "niesprawiedliwość",
+        "światło",
+        "śmierć",
+        "Syn Boży",
+        "Maryja",
+        "Matka Bolesna",
+        "pasja",
+        "męka",
+        "oskarżenie",
+        "Jezus Chrystus"
+      ],
+      "summary": "Maryja wyraża swój ból i niedowierzanie wobec niesprawiedliwego cierpienia i śmierci Syna, wołając: 'jak to możliwe, że światło dogasa?'.",
+      "bible": [
+        "J 19, 25",
+        "Łk 2, 35",
+        "Iz 53, 3-5",
+        "J 1, 5"
+      ],
+      "text": [
+        "Nigdy bym nie przypuszczała, że zobaczę Cię w tym stanie.",
+        "Nigdy bym nie uwierzyła, że dotrą aż do takiej nienawiści i złości,",
+        "więzić Ciebie wbrew wszelkiej sprawiedliwości.",
+        "Chciałabym zrozumieć, biada mi,",
+        "jak to możliwe, że światło dogasa?",
+        "jak to możliwe, że przybijają Cię do krzyża?",
+        "Mój Synu, mój Synu i mój Boże."
+      ]
+    },
+    {
+      "range": "16-17",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "18-26",
+      "bible": [],
+      "text": [
+        "",
+        "Chrystus:"
+      ]
+    },
+    {
+      "range": "18-26",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Chrystus",
+        "krzyż",
+        "cierpienie",
+        "odkupienie",
+        "zbawienie",
+        "Adam",
+        "Ewa",
+        "pasja",
+        "ofiara",
+        "grzech pierworodny",
+        "zmartwychwstanie",
+        "Maryja",
+        "Matka",
+        "konieczność",
+        "Jezus Chrystus"
+      ],
+      "summary": "Chrystus wyjaśnia konieczność swojej męki dla zbawienia Adama i przywrócenia Ewy do życia, ukazując odkupieńczy wymiar krzyża.",
+      "bible": [
+        "Łk 24, 26",
+        "Rz 5, 12-21",
+        "1 Kor 15, 21-22",
+        "Rdz 3, 15",
+        "J 3, 16",
+        "Rz 6, 23"
+      ],
+      "text": [
+        "Czemu płaczesz, czemu płaczesz Matko moja?",
+        "Czemu płaczesz, czemu płaczesz Matko moja?",
+        "Czy nie trzeba, żebym cierpiał?",
+        "Czy nie trzeba, żebym umierał?",
+        "Jak więc będę mógł zbawić Adama?",
+        "Jak więc będę mógł ujrzeć Ewę, jak powraca do życia?",
+        "Jak owca, co widzi, jak prowadzą jej jagniątko na zabicie, …",
+        "Mów do mnie, nie omijaj mnie bez słowa.",
+        "Mój Synu, mój Synu i mój Boże."
+      ]
+    },
+    {
+      "range": "1-26",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Maryja",
+        "Matka Bolesna",
+        "krzyż",
+        "ofiara",
+        "Chrystus",
+        "odkupienie",
+        "zbawienie",
+        "Adam",
+        "Ewa",
+        "pasja",
+        "cierpienie",
+        "miłość",
+        "Syn Boży",
+        "grzech",
+        "życie wieczne",
+        "matka",
+        "kompassja",
+        "Jezus Chrystus"
+      ],
+      "summary": "Dialog Maryi i Chrystusa pod krzyżem, inspirowany kontakionem Romana Melodosa, ukazuje głębię męki Pańskiej i odkupieńczą konieczność ofiary krzyżowej dla zbawienia ludzkości.",
+      "bible": [
+        "J 19, 25-27",
+        "Łk 23, 26-31",
+        "Łk 2, 35",
+        "Iz 53, 7",
+        "Rz 5, 12-21",
+        "1 Kor 15, 21-22",
+        "Rdz 3, 15",
+        "J 3, 16"
+      ]
+    }
+  ]
+}

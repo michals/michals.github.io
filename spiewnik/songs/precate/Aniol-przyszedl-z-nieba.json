@@ -1,0 +1,310 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:55c78bc078105aba07af74eca799295704fe349168db13163f1d00cb384c854b",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Anioł",
+        "niebo",
+        "nowina",
+        "rodzić",
+        "Zbawiciel",
+        "narodzenie",
+        "Dobra Nowina",
+        "zwiastowanie",
+        "obietnica"
+      ],
+      "summary": "Anioł z nieba zwiastuje pasterzom narodzenie Zbawiciela, wypełnienie mesjańskiej obietnicy. Treść anielskiego orędzia: «Oto wam się rodzi Zbawiciel».",
+      "bible": [
+        "Łk 2, 9-12"
+      ],
+      "text": [
+        "Dziś Anioł przyszedł z nieba",
+        "przynosząc wielką nowinę:",
+        "„Oto wam się rodzi,",
+        "oto rodzi się Zbawiciel”.",
+        ""
+      ]
+    },
+    {
+      "range": "6-11",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "Zbawiciel",
+        "dar",
+        "żłób",
+        "Jezus Chrystus",
+        "Pan",
+        "doba",
+        "zbawienie"
+      ],
+      "summary": "Radosne wyznanie wiary: Jezus Chrystus jest darowanym Zbawicielem, który jako Pan leży w żłobie. Refren wyraża eschatologiczną radość z przyjścia Mesjasza.",
+      "bible": [
+        "Łk 2, 11-12"
+      ],
+      "text": [
+        "Co za radość, co za radość,",
+        "co za radość,",
+        "dziś Zbawiciel jest nam dan.",
+        "O tej dobie leży w żłobie",
+        "Jezus Chrystus Pan.",
+        ""
+      ]
+    },
+    {
+      "range": "12-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "żłób",
+        "pieluchy",
+        "powicie",
+        "znak",
+        "narodzenie",
+        "Zbawiciel"
+      ],
+      "summary": "Opis znaku danego pasterzom: dziecię owinięte pieluchami w żłobie, które jest zapowiedzianym Zbawicielem.",
+      "bible": [
+        "Łk 2, 12"
+      ],
+      "text": [
+        "Leży w zwyczajnym żłobie,",
+        "pieluchy to Jego powicie",
+        "i to będzie znakiem,",
+        "że narodził się Zbawiciel.",
+        ""
+      ]
+    },
+    {
+      "range": "17-22",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "Zbawiciel",
+        "dar",
+        "żłób",
+        "Jezus Chrystus",
+        "Pan",
+        "doba",
+        "zbawienie"
+      ],
+      "summary": "Radosne wyznanie wiary: Jezus Chrystus jest darowanym Zbawicielem, który jako Pan leży w żłobie.",
+      "bible": [
+        "Łk 2, 11-12"
+      ],
+      "text": [
+        "Co za radość, co za radość,",
+        "co za radość,",
+        "dziś Zbawiciel jest nam dan.",
+        "O tej dobie leży w żłobie",
+        "Jezus Chrystus Pan.",
+        ""
+      ]
+    },
+    {
+      "range": "23-27",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "stajnia",
+        "Betlejem",
+        "pasterze",
+        "Zbawiciel",
+        "dar",
+        "serce",
+        "szczery",
+        "pokłon"
+      ],
+      "summary": "Pasterze przybywają do stajni betlejemskiej i szczerze ofiarowują Zbawicielowi dary z serca — zapowiedź pokłonu wszystkich narodów.",
+      "bible": [
+        "Łk 2, 15-16"
+      ],
+      "text": [
+        "Do stajni Betlejemskiej",
+        "przybyli pasterze,",
+        "Zbawicielowi przynoszą",
+        "swoje dary z serca szczerze.",
+        ""
+      ]
+    },
+    {
+      "range": "28-33",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "Zbawiciel",
+        "dar",
+        "żłób",
+        "Jezus Chrystus",
+        "Pan",
+        "doba",
+        "zbawienie"
+      ],
+      "summary": "Radosne wyznanie wiary: Jezus Chrystus jest darowanym Zbawicielem, który jako Pan leży w żłobie.",
+      "bible": [
+        "Łk 2, 11-12"
+      ],
+      "text": [
+        "Co za radość, co za radość,",
+        "co za radość,",
+        "dziś Zbawiciel jest nam dan.",
+        "O tej dobie leży w żłobie",
+        "Jezus Chrystus Pan.",
+        ""
+      ]
+    },
+    {
+      "range": "34-38",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Józef",
+        "wół",
+        "osioł",
+        "osiołek",
+        "Dziecię",
+        "Emmanuel",
+        "Bóg z nami",
+        "wcielenie"
+      ],
+      "summary": "Pasterze spotykają Świętą Rodzinę — Maryję i Józefa — oraz Dziecię nazwane Emmanuel, czyli «Bóg z nami», co jest wypełnieniem proroctwa Izajasza.",
+      "bible": [
+        "Łk 2, 16",
+        "Iz 7, 14"
+      ],
+      "text": [
+        "Spotkali tam Maryję,",
+        "Józefa też poznali.",
+        "Wołu, osiołka i dziecię,",
+        "co Emmanuel będzie zwany.",
+        ""
+      ]
+    },
+    {
+      "range": "39-44",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "Zbawiciel",
+        "dar",
+        "żłób",
+        "Jezus Chrystus",
+        "Pan",
+        "doba",
+        "zbawienie"
+      ],
+      "summary": "Radosne wyznanie wiary: Jezus Chrystus jest darowanym Zbawicielem, który jako Pan leży w żłobie.",
+      "bible": [
+        "Łk 2, 11-12"
+      ],
+      "text": [
+        "Co za radość, co za radość,",
+        "co za radość,",
+        "dziś Zbawiciel jest nam dan.",
+        "O tej dobie leży w żłobie",
+        "Jezus Chrystus Pan.",
+        ""
+      ]
+    },
+    {
+      "range": "45-49",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "wół",
+        "rozpoznawać",
+        "pan",
+        "osioł",
+        "właściciel",
+        "żłób",
+        "Izrael",
+        "nierozumienie",
+        "radość",
+        "ślepota duchowa",
+        "niewierność",
+        "zatwardziałość"
+      ],
+      "summary": "Kontrast między wiernością zwierząt rozpoznających swego Pana a duchową ślepotą Izraela, który nie przyjmuje radości zbawienia. Bezpośrednie nawiązanie do Iz 1,3.",
+      "bible": [
+        "Iz 1, 3"
+      ],
+      "text": [
+        "Wół rozpoznaje pana",
+        "a osioł żłób właściciela,",
+        "Lecz Izrael nic nie rozumie,",
+        "radość mu się nie udziela.",
+        ""
+      ]
+    },
+    {
+      "range": "50-54",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "Zbawiciel",
+        "dar",
+        "żłób",
+        "Jezus Chrystus",
+        "Pan",
+        "doba",
+        "zbawienie"
+      ],
+      "summary": "Radosne wyznanie wiary: Jezus Chrystus jest darowanym Zbawicielem, który jako Pan leży w żłobie. Ostateczne wezwanie do przyjęcia radości zbawienia.",
+      "bible": [
+        "Łk 2, 11-12"
+      ],
+      "text": [
+        "Co za radość, co za radość,",
+        "co za radość,",
+        "dziś Zbawiciel jest nam dan.",
+        "O tej dobie leży w żłobie",
+        "Jezus Chrystus Pan."
+      ]
+    },
+    {
+      "range": "1-54",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Boże Narodzenie",
+        "kolęda",
+        "Anioł",
+        "pasterze",
+        "Zbawiciel",
+        "Jezus Chrystus",
+        "Emmanuel",
+        "żłób",
+        "Betlejem",
+        "Maryja",
+        "Józef",
+        "wół",
+        "osioł",
+        "Izrael",
+        "radość",
+        "zbawienie",
+        "wcielenie",
+        "pokłon",
+        "dar",
+        "znak",
+        "Mesjasz",
+        "Pan"
+      ],
+      "summary": "Kolęda opowiadająca o zwiastowaniu pasterzom narodzin Zbawiciela (Łk 2), ich pokłonie w stajence betlejemskiej oraz kontraście między poznaniem Pana przez zwierzęta a niezrozumieniem Izraela (Iz 1,3). Utwór ma charakter radosny z elementem pokutnym w ostatniej zwrotce, która stanowi wezwanie do wiary i otwarcia się na radość z przyjścia Mesjasza — Emmanuela, Boga z nami.",
+      "bible": [
+        "Łk 2, 9-12.15-16",
+        "Iz 1, 3",
+        "Iz 7, 14"
+      ]
+    }
+  ]
+}

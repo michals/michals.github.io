@@ -1,0 +1,193 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:5932714ab785b817c34a3683cad0306d66a5b6b979286c49d6535716c10b467e",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Baranku Boży",
+        "Jezus Chrystus",
+        "grzech",
+        "zmiłowanie",
+        "miłosierdzie",
+        "ofiara",
+        "odkupienie",
+        "Pascha",
+        "baranek paschalny"
+      ],
+      "summary": "Pierwsze wezwanie Baranka Bożego, który gładzi grzechy świata, z prośbą o zmiłowanie.",
+      "bible": [
+        "J 1, 29",
+        "Iz 53, 7",
+        "Wj 12, 3-6",
+        "Ap 5, 6-12",
+        "1 Kor 5, 7"
+      ],
+      "text": [
+        "Baranku Boży",
+        "który gładzisz grzechy świata,",
+        "zmiłuj się nad nami,",
+        ""
+      ]
+    },
+    {
+      "range": "5-8",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Baranku Boży",
+        "Jezus Chrystus",
+        "grzech",
+        "zmiłowanie",
+        "miłosierdzie",
+        "ofiara",
+        "odkupienie"
+      ],
+      "summary": "Drugie wezwanie Baranka Bożego z prośbą o zmiłowanie.",
+      "bible": [
+        "J 1, 29",
+        "Iz 53, 7",
+        "Wj 12, 3-6",
+        "Ap 5, 6-12"
+      ],
+      "text": [
+        "Baranku Boży",
+        "który gładzisz grzechy świata,",
+        "zmiłuj się nad nami,",
+        ""
+      ]
+    },
+    {
+      "range": "9-13",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Baranku Boży",
+        "Jezus Chrystus",
+        "grzech",
+        "pokój",
+        "miłosierdzie",
+        "ofiara",
+        "pojednanie"
+      ],
+      "summary": "Trzecie wezwanie Baranka Bożego z prośbą o dar pokoju.",
+      "bible": [
+        "J 1, 29",
+        "J 14, 27",
+        "Iz 53, 7",
+        "Ap 5, 6-12",
+        "Ef 2, 14-17"
+      ],
+      "text": [
+        "Baranku Boży",
+        "który gładzisz grzechy świata,",
+        "obdarz nas pokojem,",
+        "obdarz nas pokojem.",
+        ""
+      ]
+    },
+    {
+      "range": "14-17",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Agnus Dei",
+        "Jezus Chrystus",
+        "grzech",
+        "zmiłowanie",
+        "miłosierdzie",
+        "ofiara"
+      ],
+      "summary": "Pierwsze wezwanie Agnus Dei po łacinie z prośbą o zmiłowanie.",
+      "bible": [
+        "J 1, 29",
+        "Iz 53, 7",
+        "Ap 5, 6-12"
+      ],
+      "text": [
+        "Agnus Dei,",
+        "qui tollis peccata mundi:",
+        "miserere nobis.",
+        ""
+      ]
+    },
+    {
+      "range": "18-21",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Agnus Dei",
+        "Jezus Chrystus",
+        "grzech",
+        "zmiłowanie",
+        "miłosierdzie"
+      ],
+      "summary": "Drugie wezwanie Agnus Dei po łacinie z prośbą o zmiłowanie.",
+      "bible": [
+        "J 1, 29",
+        "Iz 53, 7",
+        "Ap 5, 6-12"
+      ],
+      "text": [
+        "Agnus Dei,",
+        "qui tollis peccata mundi:",
+        "miserere nobis.",
+        ""
+      ]
+    },
+    {
+      "range": "22-25",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Agnus Dei",
+        "Jezus Chrystus",
+        "pokój",
+        "miłosierdzie",
+        "pojednanie"
+      ],
+      "summary": "Trzecie wezwanie Agnus Dei po łacinie z prośbą o dar pokoju.",
+      "bible": [
+        "J 1, 29",
+        "J 14, 27",
+        "Ap 5, 6-12"
+      ],
+      "text": [
+        "Agnus Dei,",
+        "qui tollis peccata mundi:",
+        "dona nobis pacem,",
+        "dona nobis pacem."
+      ]
+    },
+    {
+      "range": "1-25",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Baranku Boży",
+        "Agnus Dei",
+        "Jezus Chrystus",
+        "Eucharystia",
+        "Msza Święta",
+        "grzech",
+        "zmiłowanie",
+        "pokój",
+        "odkupienie",
+        "Pascha",
+        "ofiara",
+        "pojednanie"
+      ],
+      "summary": "Liturgiczna aklamacja Baranku Boży (Agnus Dei) ze stałych części Mszy Świętej — trzykrotne wezwanie Chrystusa jako Baranka Paschalnego gładzącego grzechy świata, z prośbą o zmiłowanie i dar pokoju.",
+      "bible": [
+        "J 1, 29",
+        "Iz 53, 7",
+        "Wj 12, 1-14",
+        "Ap 5, 6-14",
+        "1 Kor 5, 7",
+        "J 14, 27"
+      ]
+    }
+  ]
+}

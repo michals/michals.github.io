@@ -1,0 +1,153 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:7a1010c953e6515966a877f3cbd4f420aa213a8335bfac9bd0f6cdd68d7f9558",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Ojciec",
+        "pamiątka",
+        "odkupienie",
+        "śmierć",
+        "Chrystus",
+        "zstąpienie",
+        "otchłań",
+        "zmartwychwstanie",
+        "wstąpienie",
+        "niebo",
+        "przyjście",
+        "chwała",
+        "Ciało",
+        "Krew",
+        "Ofiara",
+        "świat",
+        "zbawienie",
+        "Jezus Chrystus",
+        "anamneza",
+        "Eucharystia"
+      ],
+      "summary": "Anamneza: sprawowanie pamiątki odkupienia – wspomnienie śmierci, zstąpienia do otchłani, zmartwychwstania, wstąpienia do nieba i oczekiwanie powtórnego przyjścia Chrystusa; złożenie Jego Ciała i Krwi jako ofiary zbawiennej dla całego świata.",
+      "bible": [
+        "Łk 22, 19-20",
+        "1 Kor 11, 24-26",
+        "1 P 3, 18-19",
+        "Dz 2, 31",
+        "Mt 28, 5-7",
+        "Dz 1, 9-11",
+        "Dz 3, 21",
+        "Ap 1, 7",
+        "J 6, 51",
+        "Hbr 9, 26-28"
+      ],
+      "text": [
+        "Boże, Ojcze,",
+        "sprawując teraz pamiątkę naszego odkupienia,",
+        "wspominamy śmierć Chrystusa",
+        "i Jego zstąpienie do otchłani,",
+        "wyznajemy Jego zmartwychwstanie",
+        "i wstąpienie do nieba,",
+        "a oczekując Jego przyjścia w chwale,",
+        "składamy Ci, Boże, Jego Ciało i Krew",
+        "jako Ofiarę miłą Tobie i zbawienną dla całego świata."
+      ]
+    },
+    {
+      "range": "10-15",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Ofiara",
+        "Kościół",
+        "chleb",
+        "kielich",
+        "Duch Święty",
+        "jedność",
+        "ciało",
+        "Chrystus",
+        "żywa ofiara",
+        "chwała",
+        "Bóg",
+        "Eucharystia",
+        "Komunia"
+      ],
+      "summary": "Ofiarowanie i epikleza: prośba, aby uczestnicy Eucharystii zostali złączeni przez Ducha Świętego w jedno ciało i stali się w Chrystusie żywą ofiarą ku chwale Bożej.",
+      "bible": [
+        "1 Kor 10, 16-17",
+        "J 17, 20-23",
+        "Rz 12, 1",
+        "Ef 4, 4-6",
+        "Hbr 13, 15-16",
+        "Dz 2, 42"
+      ],
+      "text": [
+        "Wejrzyj, Boże, na Ofiarę,",
+        "którą sam dałeś swojemu Kościołowi",
+        "i spraw, aby wszyscy, którzy będą spożywali ten sam Chleb,",
+        "i pili z jednego Kielicha,",
+        "zostali przez Ducha Świętego złączeni w jedno ciało",
+        "i stali się w Chrystusie żywą ofiarą ku Twojej chwale."
+      ]
+    },
+    {
+      "range": "16-17",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "uwielbienie",
+        "Bóg",
+        "wysławiać"
+      ],
+      "summary": "Refren uwielbienia: wysławianie chwały Bożej.",
+      "bible": [
+        "Ps 34 (33), 2",
+        "Ps 145 (144), 1",
+        "Ap 5, 13"
+      ],
+      "text": [
+        "Wysławiamy Twoją chwałę",
+        "Wysławiamy Twoją chwałę"
+      ]
+    },
+    {
+      "range": "1-17",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "anamneza",
+        "Ofiara",
+        "śmierć",
+        "zmartwychwstanie",
+        "wstąpienie",
+        "Chrystus",
+        "Eucharystia",
+        "Duch Święty",
+        "jedność",
+        "Kościół",
+        "żywa ofiara",
+        "chwała",
+        "odkupienie",
+        "otchłań",
+        "Paruzja",
+        "Jezus Chrystus",
+        "Bóg",
+        "Ojciec",
+        "uwielbienie"
+      ],
+      "summary": "Anamneza i ofiarowanie Modlitwy Eucharystycznej IV: wspomnienie całego misterium paschalnego Chrystusa, ofiarowanie Jego Ciała i Krwi oraz modlitwa o zjednoczenie wiernych w Duchu Świętym jako żywej ofiary.",
+      "bible": [
+        "Łk 22, 19-20",
+        "1 Kor 11, 24-26",
+        "1 P 3, 18-19",
+        "Dz 1, 9-11",
+        "Ap 1, 7",
+        "1 Kor 10, 16-17",
+        "J 17, 20-23",
+        "Rz 12, 1",
+        "Hbr 9, 26-28"
+      ]
+    }
+  ]
+}

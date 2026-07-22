@@ -1,0 +1,330 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:4e5c3e8dadf17a1385b2cc0534822f39b81bfd7ad439ff256468a68d2e997cb6",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "Jerycho",
+        "miasto",
+        "przechodzić",
+        "wejście"
+      ],
+      "summary": "Jezus wchodzi do Jerycha, zapowiadając zbawcze spotkanie.",
+      "bible": [
+        "Łk 19, 1"
+      ],
+      "text": [
+        "Gdy Jezus wszedł do Jerycha,",
+        "przechodził przez to miasto,",
+        "gdy Jezus wszedł do Jerycha,",
+        "przechodził przez to miasto."
+      ]
+    },
+    {
+      "range": "5-11",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Zacheusz",
+        "człowiek",
+        "celnik",
+        "zwierzchnik",
+        "bogactwo",
+        "zobaczyć",
+        "Jezus",
+        "wzrost",
+        "sykomora",
+        "drzewo"
+      ],
+      "summary": "Zacheusz, bogaty zwierzchnik celników, pragnie zobaczyć Jezusa i wspina się na sykomorę.",
+      "bible": [
+        "Łk 19, 2-4"
+      ],
+      "text": [
+        "A oto człowiek imieniem Zacheusz,",
+        "zwierzchnik celników, bardzo bogaty,",
+        "próbował zobaczyć Jezusa, ale nie mógł, bo był niskiego wzrostu.",
+        "Pobiegł więc naprzód",
+        "i wspiął się na sykomorę,",
+        "bo miał tamtędy przechodzić,",
+        "miał tamtędy przechodzić."
+      ]
+    },
+    {
+      "range": "12-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "Zacheusz",
+        "spojrzeć",
+        "zobaczyć",
+        "zejść",
+        "dom",
+        "wezwanie",
+        "dzisiaj",
+        "trzeba"
+      ],
+      "summary": "Jezus dostrzega Zacheusza, wzywa go po imieniu i zapowiada wizytę w jego domu.",
+      "bible": [
+        "Łk 19, 5",
+        "Ap 3, 20"
+      ],
+      "text": [
+        "Gdy Jezus przyszedł na to miejsce,",
+        "spojrzał w górę i go zobaczył,",
+        "i rzekł mu: „Zacheuszu, zejdź prędko,",
+        "albowiem trzeba, abym dziś wszedł do twego domu”."
+      ]
+    },
+    {
+      "range": "16-19",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "Jerycho",
+        "miasto",
+        "przechodzić",
+        "wejście"
+      ],
+      "summary": "Refren powtarza obraz Jezusa przechodzącego przez Jerycho.",
+      "bible": [
+        "Łk 19, 1"
+      ],
+      "text": [
+        "Gdy Jezus wszedł do Jerycha,",
+        "przechodził przez to miasto,",
+        "gdy Jezus wszedł do Jerycha,",
+        "przechodził przez to miasto."
+      ]
+    },
+    {
+      "range": "20-22",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Zacheusz",
+        "zejść",
+        "pośpiech",
+        "radość",
+        "przyjąć",
+        "szemrać"
+      ],
+      "summary": "Zacheusz z radością przyjmuje Jezusa, lecz zgromadzeni szemrają.",
+      "bible": [
+        "Łk 19, 6-7"
+      ],
+      "text": [
+        "Zacheusz zszedł w pośpiechu",
+        "i przyjął Go pełen radości,",
+        "a widząc to, wszyscy szemrali:"
+      ]
+    },
+    {
+      "range": "23-24",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "Odnosi się do wersów 20-22: szemranie tłumu, że Jezus wszedł do domu grzesznika.",
+      "bible": [
+        "Łk 19, 7"
+      ],
+      "text": [
+        "",
+        "„Wszedł do domu grzesznika!”."
+      ]
+    },
+    {
+      "range": "25-28",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Zacheusz",
+        "Pan",
+        "dobra",
+        "ubogi",
+        "okraść",
+        "zwrócić",
+        "poczwórnie",
+        "pokuta",
+        "sprawiedliwość",
+        "nawrócenie"
+      ],
+      "summary": "Zacheusz publicznie wyznaje grzechy i obiecuje połowę majątku oddać ubogim oraz zwrócić poczwórnie skrzywdzonym.",
+      "bible": [
+        "Łk 19, 8",
+        "Wj 22, 3",
+        "Lb 5, 7"
+      ],
+      "text": [
+        "Zacheusz wstał i powiedział do Pana:",
+        "„Panie, oto połowę moich dóbr daję ubogim,",
+        "a jeśli kogoś okradłem,",
+        "poczwórnie mu to zwrócę”."
+      ]
+    },
+    {
+      "range": "29-33",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "odpowiedzieć",
+        "zbawienie",
+        "dom",
+        "Abraham",
+        "Syn Człowieczy",
+        "szukać",
+        "zbawić",
+        "zaginąć"
+      ],
+      "summary": "Jezus ogłasza zbawienie dla domu Zacheusza, który jest synem Abrahama, gdyż Syn Człowieczy przyszedł szukać i zbawić to, co zginęło.",
+      "bible": [
+        "Łk 19, 9-10",
+        "Ez 34, 16",
+        "Mt 18, 11"
+      ],
+      "text": [
+        "A Gdy Jezus mu odpowiedział:",
+        "„Dzisiaj zbawienie weszło do tego domu,",
+        "dzisiaj zbawienie weszło do tego domu”.",
+        "„Bo także on jest synem Abrahama,",
+        "albowiem Syn Człowieczy przyszedł szukaći zbawić to, co zginęło”."
+      ]
+    },
+    {
+      "range": "34-37",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "Jerycho",
+        "miasto",
+        "przechodzić",
+        "wejście"
+      ],
+      "summary": "Refren powtarza obraz Jezusa przechodzącego przez Jerycho.",
+      "bible": [
+        "Łk 19, 1"
+      ],
+      "text": [
+        "Gdy Jezus wszedł do Jerycha,",
+        "przechodził przez to miasto,",
+        "gdy Jezus wszedł do Jerycha,",
+        "przechodził przez to miasto."
+      ]
+    },
+    {
+      "range": "38-39",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "zbawienie",
+        "dom",
+        "dzisiaj",
+        "teraźniejszość",
+        "łaska"
+      ],
+      "summary": "Radosne ogłoszenie, że zbawienie weszło do tego domu tu i teraz.",
+      "bible": [
+        "Łk 19, 9"
+      ],
+      "text": [
+        "„Dzisiaj zbawienie weszło do tego domu,",
+        "dzisiaj zbawienie weszło do tego domu”."
+      ]
+    },
+    {
+      "range": "40-42",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Zacheusz",
+        "ty",
+        "zejść",
+        "Jezus",
+        "dom",
+        "wezwanie",
+        "teraźniejszość",
+        "otwarcie",
+        "odpowiedź"
+      ],
+      "summary": "Bezpośrednie zastosowanie do słuchacza: każdy jest wezwanym Zacheuszem, który ma zejść i otworzyć dom na Chrystusa.",
+      "bible": [
+        "Łk 19, 5",
+        "Ap 3, 20"
+      ],
+      "text": [
+        "Zacheuszem jesteś ty,",
+        "„zejdź prędko,",
+        "albowiem trzeba, abym dziś         wszedł do twego domu”."
+      ]
+    },
+    {
+      "range": "43-44",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "zbawienie",
+        "dom",
+        "dzisiaj",
+        "teraźniejszość",
+        "łaska",
+        "spełnienie"
+      ],
+      "summary": "Końcowe potwierdzenie zbawczej obecności Chrystusa w domu.",
+      "bible": [
+        "Łk 19, 9"
+      ],
+      "text": [
+        "„Dzisiaj zbawienie weszło do tego domu,",
+        "dzisiaj zbawienie weszło do tego domu”."
+      ]
+    },
+    {
+      "range": "1-44",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Zacheusz",
+        "Jezus",
+        "Jerycho",
+        "zbawienie",
+        "nawrócenie",
+        "grzesznik",
+        "miłosierdzie",
+        "dom",
+        "spotkanie",
+        "pokuta",
+        "radość",
+        "Abraham",
+        "Syn Człowieczy",
+        "szukać",
+        "zbawić",
+        "ginąć",
+        "sykomora",
+        "celnik",
+        "ubogi",
+        "sprawiedliwość",
+        "łaska",
+        "wezwanie",
+        "odpowiedź",
+        "wierność"
+      ],
+      "summary": "Pieśń oparta na Łk 19, 1-10 o spotkaniu Jezusa z Zacheuszem, ukazująca Boże miłosierdzie, natychmiastowe nawrócenie grzesznika i zbawienie przychodzące do domu otwartego na Chrystusa.",
+      "bible": [
+        "Łk 19, 1-10",
+        "Ez 34, 16",
+        "Ap 3, 20",
+        "Rz 4, 16",
+        "Mt 18, 11",
+        "Wj 22, 3"
+      ]
+    }
+  ]
+}

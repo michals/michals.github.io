@@ -1,0 +1,214 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:4b3fbf82936a30ef680e31bb8e5e078dce789d8c2345a62ea7bd3e5ea7a460b4",
+  "songs_analysis": [
+    {
+      "range": "1-2",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "Ojciec",
+        "wszechmogący",
+        "stworzyciel",
+        "niebo",
+        "ziemia",
+        "wiara",
+        "wyznanie",
+        "stworzenie"
+      ],
+      "summary": "Wyznanie wiary w Boga Ojca Wszechmogącego jako Stworzyciela nieba i ziemi.",
+      "bible": [
+        "Rdz 1, 1",
+        "Ps 146, 6",
+        "Iz 42, 5",
+        "Ne 9, 6"
+      ],
+      "text": [
+        "Wierzę w Boga Ojca Wszechmogącego,",
+        "Stworzyciela nieba i ziemi."
+      ]
+    },
+    {
+      "range": "3-6",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Syn Boży",
+        "Jednorodzony",
+        "Pan",
+        "Duch Święty",
+        "Maryja",
+        "Panna",
+        "Wcielenie",
+        "wiara"
+      ],
+      "summary": "Wyznanie wiary w Jezusa Chrystusa, Syna Bożego Jednorodzonego i Pana naszego, który począł się z Ducha Świętego i narodził z Maryi Panny.",
+      "bible": [
+        "J 1, 14",
+        "J 3, 16",
+        "Łk 1, 31-35",
+        "Ga 4, 4",
+        "Flp 2, 6-8",
+        "Iz 7, 14"
+      ],
+      "text": [
+        "Wierzę w Jezusa Chrystusa,",
+        "Syna Jego Jedynego, Pana naszego,",
+        "który się począł z Ducha Świętego,",
+        "narodził się z Maryi Panny."
+      ]
+    },
+    {
+      "range": "7-9",
+      "type": "fragment",
+      "sentiment": "pokutny",
+      "keywords": [
+        "męka",
+        "krzyż",
+        "śmierć",
+        "ukrzyżowanie",
+        "Piłat",
+        "pogrzeb",
+        "zstąpienie do piekieł",
+        "Jezus Chrystus",
+        "odkupienie",
+        "męczeństwo"
+      ],
+      "summary": "Wyznanie męki Chrystusa pod Ponckim Piłatem, Jego ukrzyżowania, śmierci, pogrzebu i zstąpienia do piekieł.",
+      "bible": [
+        "Mt 27, 11-50",
+        "Mk 15, 1-37",
+        "Łk 23, 1-46",
+        "J 19, 1-30",
+        "1 P 3, 19",
+        "Ef 4, 9"
+      ],
+      "text": [
+        "Umęczon pod Ponckim Piłatem,",
+        "ukrzyżowan, umarł i pogrzebion,",
+        "zstąpił do piekieł."
+      ]
+    },
+    {
+      "range": "10-13",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "trzeci dzień",
+        "wniebowstąpienie",
+        "prawica Ojca",
+        "sąd",
+        "żywi",
+        "umarli",
+        "Jezus Chrystus",
+        "chwała",
+        "powtórne przyjście"
+      ],
+      "summary": "Wyznanie zmartwychwstania Chrystusa trzeciego dnia, wniebowstąpienia, zasiadania po prawicy Ojca i przyjścia na sąd ostateczny.",
+      "bible": [
+        "Mt 28, 1-10",
+        "Mk 16, 1-8",
+        "Łk 24, 1-12",
+        "J 20, 1-10",
+        "Dz 1, 9-11",
+        "1 Kor 15, 4",
+        "2 Tm 4, 1",
+        "Dn 7, 10"
+      ],
+      "text": [
+        "Trzeciego dnia zmartwychwstał,",
+        "trzeciego dnia zmartwychwstał,",
+        "wstąpił na niebiosa, siedzi po prawicy Ojca,",
+        "stamtąd przyjdzie sądzić żywych i umarłych."
+      ]
+    },
+    {
+      "range": "14-19",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch Święty",
+        "Kościół",
+        "powszechny",
+        "świętych obcowanie",
+        "grzech",
+        "odpuszczenie",
+        "zmartwychwstanie",
+        "ciało",
+        "życie wieczne",
+        "wiara"
+      ],
+      "summary": "Wyznanie wiary w Ducha Świętego, Kościół powszechny, obcowanie świętych, odpuszczenie grzechów, zmartwychwstanie ciała i żywot wieczny.",
+      "bible": [
+        "J 14, 16-17",
+        "Dz 2, 1-4",
+        "Ef 4, 4-6",
+        "1 Kor 15, 12-22",
+        "1 J 1, 9",
+        "Dn 12, 2",
+        "J 11, 25-26"
+      ],
+      "text": [
+        "Wierzę w Ducha Świętego,",
+        "święty Kościół powszechny,",
+        "świętych obcowanie,",
+        "grzechów odpuszczenie,",
+        "ciała zmartwychwstanie,",
+        "żywot wieczny."
+      ]
+    },
+    {
+      "range": "20",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "amen",
+        "potwierdzenie",
+        "wiara",
+        "zgoda",
+        "wyznanie"
+      ],
+      "summary": "Uroczyste Amen jako potwierdzenie wyznania wiary.",
+      "bible": [],
+      "text": [
+        "Amen!"
+      ]
+    },
+    {
+      "range": "1-20",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "wiara",
+        "wyznanie",
+        "Bóg Ojciec",
+        "Jezus Chrystus",
+        "Duch Święty",
+        "Trójca Święta",
+        "Kościół",
+        "zmartwychwstanie",
+        "życie wieczne",
+        "odkupienie",
+        "stworzenie",
+        "Wcielenie",
+        "męka",
+        "sąd ostateczny"
+      ],
+      "summary": "Credo (Skład apostolski) — uroczyste wyznanie wiary chrześcijańskiej, zawierające podstawowe prawdy: w Boga Ojca Stworzyciela, Jezusa Chrystusa (Wcielenie, męka, śmierć, zmartwychwstanie, wniebowstąpienie, powtórne przyjście), Ducha Świętego, Kościół, odpuszczenie grzechów, zmartwychwstanie ciał i życie wieczne.",
+      "bible": [
+        "Rdz 1, 1",
+        "J 1, 14",
+        "J 3, 16",
+        "Mt 27-28",
+        "Dz 1, 9-11",
+        "1 Kor 15, 3-8",
+        "J 14, 16-17",
+        "Dz 2, 1-4",
+        "1 Kor 15, 12-22"
+      ]
+    }
+  ]
+}

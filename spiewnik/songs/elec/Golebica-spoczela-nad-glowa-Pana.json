@@ -1,0 +1,221 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:89ed4e9ec3a9b14bd7340b0249f0276fb216fda9e5c8258b0f0d8f637bbc0b99",
+  "songs_analysis": [
+    {
+      "type": "zwrotka",
+      "range": "1-9",
+      "sentiment": "radosny",
+      "keywords": [
+        "golebica",
+        "pan",
+        "psalm",
+        "wznoszenie",
+        "zamiar",
+        "miłość",
+        "blask",
+        "otchłań",
+        "krzyk",
+        "niewiasta",
+        "rodzące",
+        "ciemność",
+        "wejrzenie"
+      ],
+      "bible": [
+        "Ody Salomona 24",
+        "Rdz 1,2",
+        "Mk 1,10",
+        "Ap 12,1-2",
+        "Iz 66,7-9"
+      ],
+      "summary": "Gołębica spoczywa nad głową Pana śpiewając psalmy, Pan objawia zamiary swej miłości, otwierają się otchłanie z krzykiem rodzących, a Pan niszczy ciemności swoim wejrzeniem.",
+      "text": [
+        "Gołębica spoczęła nad głową Pana,",
+        "śpiewała psalmy wznosząc się nad Nim.",
+        "A Pan objawił zamiary swej miłości,",
+        "zamiary o niezrównanym blasku dla każdego.",
+        "I otwarły się otchłanie,",
+        "i dał się słyszeć straszliwy krzyk",
+        "jakby niewiast rodzących,",
+        "ale Pan zniweczył ciemności",
+        "swoim wejrzeniem."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "10-13",
+      "sentiment": "radosny",
+      "keywords": [
+        "golebica",
+        "pan",
+        "psalm",
+        "zamiar",
+        "miłość",
+        "blask"
+      ],
+      "bible": [
+        "Ody Salomona 24"
+      ],
+      "summary": "Powtorzenie motywu gołębicy spoczywającej nad Panem i objawiającej Jego zamiary miłości.",
+      "text": [
+        "Gołębica spoczęła nad głowę Pana,",
+        "śpiewała psalmy wznosząc się nad Nim.",
+        "A Pan objawił zamiary swej miłości,",
+        "zamiary o niezrównanym blasku dla każdego."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "15-23",
+      "sentiment": "pokutny",
+      "keywords": [
+        "zamiar",
+        "zatracony",
+        "anioł",
+        "placz",
+        "prawda",
+        "droga",
+        "łaska",
+        "moc",
+        "świętość"
+      ],
+      "bible": [
+        "Ody Salomona 24",
+        "J 3,16",
+        "Rz 8,14-17",
+        "Ef 1,3-10"
+      ],
+      "summary": "Zamiary Boże zostały zatracone przez tych, ktorzy nie poszli za Jego prawdą, ale Pan okazuje łaskę idącym za Nim i daje moc do życia w świętości.",
+      "text": [
+        "Lecz zamiary zatracono",
+        "i aniołowie niebiescy płakali,",
+        "zamiary wobec tych wszystkich,",
+        "którzy nie szli za Jego prawdą.",
+        "Albowiem Pan pokazał swoją drogę",
+        "i rozlał swoją łaskę",
+        "na tych, którzy za Nim idą;",
+        "i dał im tę moc,",
+        "by ozdobili się Jego świętością."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "24-27",
+      "sentiment": "radosny",
+      "keywords": [
+        "golebica",
+        "pan",
+        "psalm",
+        "zamiar",
+        "miłość",
+        "blask"
+      ],
+      "bible": [
+        "Ody Salomona 24"
+      ],
+      "summary": "Powtorzenie motywu gołębicy jako refren kończący hymn.",
+      "text": [
+        "Gołębica spoczęła nad głowę Pana,",
+        "śpiewała psalmy wznosząc się nad Nim.",
+        "A Pan objawił zamiary swej miłości,",
+        "zamiary o niezrównanym blasku dla każdego."
+      ]
+    },
+    {
+      "type": "fragment",
+      "range": "1-27",
+      "sentiment": "radosny",
+      "keywords": [
+        "golebica",
+        "duch święty",
+        "pan",
+        "miłość",
+        "zamiar",
+        "otchłań",
+        "łaska",
+        "świętość",
+        "anioł",
+        "prawda",
+        "trójca",
+        "chrzest"
+      ],
+      "bible": [
+        "Ody Salomona 24",
+        "Rdz 1,2",
+        "Mk 1,10",
+        "Ap 12,1-2",
+        "Iz 66,7-9",
+        "Typologia: gołębica = Duch Święty; zamiary miłości = plan zbawienia; krzyk rodzących = eschatologiczne bóle porodu nowego stworzenia"
+      ],
+      "summary": "Wczesnochrześcijański hymn o Gołębicy (Duchu Świętym) spoczywającej nad Panem, objawiającej plany Bożej miłości, i o ludziach, ktorzy je zatraciwszy, dostępują jednak łaski przez wierność.",
+      "text": [
+        "Gołębica spoczęła nad głową Pana,",
+        "śpiewała psalmy wznosząc się nad Nim.",
+        "A Pan objawił zamiary swej miłości,",
+        "zamiary o niezrównanym blasku dla każdego.",
+        "I otwarły się otchłanie,",
+        "i dał się słyszeć straszliwy krzyk",
+        "jakby niewiast rodzących,",
+        "ale Pan zniweczył ciemności",
+        "swoim wejrzeniem.",
+        "Gołębica spoczęła nad głowę Pana,",
+        "śpiewała psalmy wznosząc się nad Nim.",
+        "A Pan objawił zamiary swej miłości,",
+        "zamiary o niezrównanym blasku dla każdego.",
+        "",
+        "Lecz zamiary zatracono",
+        "i aniołowie niebiescy płakali,",
+        "zamiary wobec tych wszystkich,",
+        "którzy nie szli za Jego prawdą.",
+        "Albowiem Pan pokazał swoją drogę",
+        "i rozlał swoją łaskę",
+        "na tych, którzy za Nim idą;",
+        "i dał im tę moc,",
+        "by ozdobili się Jego świętością.",
+        "Gołębica spoczęła nad głowę Pana,",
+        "śpiewała psalmy wznosząc się nad Nim.",
+        "A Pan objawił zamiary swej miłości,",
+        "zamiary o niezrównanym blasku dla każdego."
+      ]
+    },
+    {
+      "type": "całość",
+      "range": "1-27",
+      "sentiment": "radosny",
+      "keywords": [
+        "golebica",
+        "duch święty",
+        "pan",
+        "miłość",
+        "zamiar",
+        "zbawienie",
+        "łaska",
+        "świętość",
+        "otchłań",
+        "krzyk rodzących",
+        "ciemność",
+        "anioł",
+        "prawda",
+        "moc",
+        "ody salomona",
+        "chrzest",
+        "trójca",
+        "psalm",
+        "blask",
+        "droga",
+        "wierność"
+      ],
+      "bible": [
+        "Ody Salomona 24 (apokryf)",
+        "Rdz 1,2 (Duch Boży unoszący się nad wodami)",
+        "Rdz 8,8-12 (gołębica Noego)",
+        "Mk 1,10 / Mt 3,16 / Łk 3,22 (Duch Święty jako gołębica przy chrzcie Jezusa)",
+        "J 3,16 (zamiary miłości Boga)",
+        "Ap 12,1-2 (niewiasta rodząca)",
+        "Iz 66,7-9 (bóle rodzącej Syjonu)",
+        "Typologia: gołębica = Duch Święty, otchłanie i krzyk rodzących = nowe stworzenie, zamiary miłości = odwieczny plan zbawienia"
+      ],
+      "summary": "Hymn z Ody Salomona o Duchu Świętym jako gołębicy spoczywającej nad Chrystusem, objawiającej Boże zamiary miłości. Obraz otchłani i krzyku rodzących przywołuje eschatologiczne narodziny nowego stworzenia, a zatracone zamiary i płacz aniołow ukazują dramat odrzucenia Bożej prawdy, ktory jednak przezwycięża łaska dla wiernych."
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:00de6c660485c76571ca6d2078a098dea9eb7c5bb57861aeef3eaab69c7717cd",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Liban",
+        "oblubienica",
+        "przyjść",
+        "wieniec",
+        "góra",
+        "Hermon",
+        "serc",
+        "zranić",
+        "siostra"
+      ],
+      "summary": "Oblubieniec wzywa oblubienicę z Libanu, mówiąc o zranieniu serca i górskich szczytach jako jej wieńcu.",
+      "bible": [
+        "Pnp 4, 8-9"
+      ],
+      "text": [
+        "Przyjdź z Libanu, oblubienico,",
+        "przyjdź z Libanu, przyjdź!",
+        "Twoim wieńcem będą szczyty górskie,",
+        "wysokie szczyty Hermonu.",
+        "Serce mi zraniłaś, zraniłaś mi serce,",
+        "siostro ma oblubienico.",
+        "Przyjdź z Libanu, oblubienico,",
+        "przyjdź z Libanu, przyjdź!",
+        ""
+      ]
+    },
+    {
+      "range": "10-14",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "szukać",
+        "miłość",
+        "życie",
+        "znaleźć",
+        "pochwycić",
+        "nigdy",
+        "puścić"
+      ],
+      "summary": "Oblubienica szukała miłości swego życia, znalazła ją i pochwyciła na zawsze.",
+      "bible": [
+        "Pnp 3, 1-4",
+        "Mt 13, 44-46"
+      ],
+      "text": [
+        "Szukałam miłości mojego życia,",
+        "szukałam, lecz nie znalazłam;",
+        "znalazłam miłość mojego życia,",
+        "pochwyciłam Go i nigdy już nie puszczę!",
+        ""
+      ]
+    },
+    {
+      "range": "15-23",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "przynależeć",
+        "miły",
+        "wędrować",
+        "pole",
+        "noc",
+        "wioska",
+        "świt",
+        "winnica",
+        "owoc"
+      ],
+      "summary": "Oblubienica wyznaje wzajemną przynależność i zaprasza ukochanego do wspólnej wędrówki po polach i winnicach.",
+      "bible": [
+        "Pnp 6, 3",
+        "Pnp 7, 11-13"
+      ],
+      "text": [
+        "Ja przynależę do mego miłego,",
+        "a On jest cały mój;",
+        "Przyjdź, mój miły, wędrujmy po polach,",
+        "spędzimy noc we wioskach.",
+        "Pójdziemy o świcie do winnicy,",
+        "zbierzemy tam owoce",
+        "Ja przynależę do mego miłego,",
+        "a on jest cały mój.",
+        ""
+      ]
+    },
+    {
+      "range": "24-25",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "szukać",
+        "miłość",
+        "życie"
+      ],
+      "summary": "Skrócone przypomnienie poszukiwania miłości życia.",
+      "bible": [
+        "Pnp 3, 1-2"
+      ],
+      "text": [
+        "Szukałam miłości mojego życia, …",
+        ""
+      ]
+    },
+    {
+      "range": "26-34",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "powstać",
+        "ukochana",
+        "gołębica",
+        "przyjść",
+        "zima",
+        "przeminąć",
+        "śpiew",
+        "synogarlica",
+        "kwiat",
+        "słońce"
+      ],
+      "summary": "Oblubieniec wzywa ukochaną do powstania, bo zima przeminęła, nadeszła wiosna, słychać śpiew synogarlicy.",
+      "bible": [
+        "Pnp 2, 10-13"
+      ],
+      "text": [
+        "Powstań szybko, ma ukochana,",
+        "przyjdź gołębico, przyjdź!",
+        "Bowiem zima już przeminęła,",
+        "śpiew synogarlicy już słychać,",
+        "kwiaty powróciły znowu na pola,",
+        "słońce stało się upalne.",
+        "Powstań szybko, ma ukochana,",
+        "przyjdź gołębico, przyjdź!",
+        ""
+      ]
+    },
+    {
+      "range": "35-36",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "szukać",
+        "miłość",
+        "życie"
+      ],
+      "summary": "Skrócone przypomnienie poszukiwania miłości życia.",
+      "bible": [
+        "Pnp 3, 1-2"
+      ],
+      "text": [
+        "Szukałam miłości mojego życia, …",
+        ""
+      ]
+    },
+    {
+      "range": "37-45",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "pieczęć",
+        "serc",
+        "ramię",
+        "miłość",
+        "śmierć",
+        "potężny",
+        "woda",
+        "ugasić",
+        "bogactwo"
+      ],
+      "summary": "Prośba o położenie jak pieczęć na sercu i ramieniu, bo miłość jest potężna jak śmierć, a wody jej nie ugaszą.",
+      "bible": [
+        "Pnp 8, 6-7",
+        "Ef 1, 13",
+        "1 Kor 15, 55"
+      ],
+      "text": [
+        "Połóż mnie jak pieczęć na twym sercu,",
+        "jak pieczęć na twym ramieniu,",
+        "bo miłość jest jak śmierć potężna,",
+        "wody jej nie ugaszą",
+        "Oddać za nią wszystkie swoje bogactwa,",
+        "oznacza mieć ją za nic.",
+        "Połóż mnie jak pieczęć na twym sercu,",
+        "jak pieczęć na twym ramieniu.",
+        ""
+      ]
+    },
+    {
+      "range": "46-46",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "szukać",
+        "miłość",
+        "życie"
+      ],
+      "summary": "Końcowe skrócone przypomnienie poszukiwania miłości życia.",
+      "bible": [
+        "Pnp 3, 1-2"
+      ],
+      "text": [
+        "Szukałam miłości mojego życia, …"
+      ]
+    },
+    {
+      "range": "1-46",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "oblubienica",
+        "oblubieniec",
+        "miłość",
+        "Liban",
+        "szukać",
+        "znaleźć",
+        "pieczęć",
+        "śmierć",
+        "wiosna",
+        "winnica",
+        "gołębica",
+        "przynależeć",
+        "wierność"
+      ],
+      "summary": "Pieśń oparta na Pieśni nad Pieśniami (Pnp 4; 2; 7; 8), w której Oblubieniec (Chrystus) wzywa Oblubienicę (Kościół), a Oblubienica wyznaje wzajemną miłość i wierność. W typologii chrześcijańskiej obrazuje miłość Chrystusa do Kościoła i duszy.",
+      "bible": [
+        "Pnp 4, 8-9",
+        "Pnp 2, 10-13",
+        "Pnp 7, 11-13",
+        "Pnp 8, 6-7",
+        "Ef 5, 25-32",
+        "Ap 19, 7",
+        "Ef 1, 13"
+      ]
+    }
+  ]
+}

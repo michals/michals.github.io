@@ -1,0 +1,281 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:120d0608d2b4a21f5579298538ae8a047f8be87b060327a535e4204b92420eef",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "oblicze",
+        "anioł",
+        "uwielbienie",
+        "psalm",
+        "sławienie",
+        "imię",
+        "miłość",
+        "Pan",
+        "Bóg",
+        "wierność"
+      ],
+      "summary": "Refren deklarujący uwielbienie Boga w obliczu aniołów za Jego wierną miłość.",
+      "bible": [
+        "Ps 138,1-2"
+      ],
+      "text": [
+        "W obliczu aniołów pragnę Cię uwielbiać,",
+        "w obliczu aniołów chcę Ci psalmy śpiewać;",
+        "sławić będę Twoje imię",
+        "za Twą wierną miłość do mnie.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dziękczynienie",
+        "Pan",
+        "serce",
+        "obietnica",
+        "sława",
+        "wezwanie",
+        "odpowiedź",
+        "moc",
+        "odwaga",
+        "dusza",
+        "Bóg"
+      ],
+      "summary": "Dziękczynienie z całego serca, ponieważ Bóg odpowiedział na wołanie i obdarzył mocą i odwagą duszy.",
+      "bible": [
+        "Ps 138,3"
+      ],
+      "text": [
+        "Dzięki Ci, Panie, z całego serca,",
+        "ponieważ Twa obietnica przewyższyła Twoją sławę;",
+        "gdy Cię wzywałem, Tyś mi odpowiedział,",
+        "dałeś moc i odwagę mojej duszy.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "oblicze",
+        "anioł",
+        "uwielbienie",
+        "psalm",
+        "sławienie",
+        "imię",
+        "miłość",
+        "Pan",
+        "Bóg"
+      ],
+      "summary": "Powtórzenie refrenu uwielbienia w obliczu aniołów.",
+      "bible": [
+        "Ps 138,1-2"
+      ],
+      "text": [
+        "W obliczu aniołów pragnę Cię uwielbiać,",
+        "w obliczu aniołów chcę Ci psalmy śpiewać;",
+        "sławić będę Twoje imię",
+        "za Twą wierną miłość do mnie.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Pan",
+        "król",
+        "ziemia",
+        "słowo",
+        "śpiew",
+        "droga",
+        "miłość",
+        "Bóg",
+        "powszechne uwielbienie"
+      ],
+      "summary": "Zapowiedź, że wszyscy królowie ziemi będą chwalić Pana, gdy usłyszą Jego słowa i poznają wielkość Jego miłości.",
+      "bible": [
+        "Ps 138,4-5"
+      ],
+      "text": [
+        "Chwalić Cię będą, Panie, wszyscy królowie ziemi,",
+        "gdy usłyszą słowa ust Twoich",
+        "i śpiewać będą na drodze Pańskiej,",
+        "powiedzą, jak wielka jest Twa miłość.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "oblicze",
+        "anioł",
+        "uwielbienie",
+        "psalm",
+        "sławienie",
+        "imię",
+        "miłość",
+        "Pan",
+        "Bóg"
+      ],
+      "summary": "Powtórzenie refrenu uwielbienia w obliczu aniołów.",
+      "bible": [
+        "Ps 138,1-2"
+      ],
+      "text": [
+        "W obliczu aniołów pragnę Cię uwielbiać,",
+        "w obliczu aniołów chcę Ci psalmy śpiewać;",
+        "sławić będę Twoje imię",
+        "za Twą wierną miłość do mnie.",
+        ""
+      ]
+    },
+    {
+      "range": "26-30",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Pan",
+        "Najwyższy",
+        "pokorny",
+        "pyszny",
+        "utrapienie",
+        "ręka",
+        "prawica",
+        "zbawienie",
+        "Bóg",
+        "opatrzność"
+      ],
+      "summary": "Wyznanie, że Pan Najwyższy widzi pokornego, a pysznego poznaje z daleka; w utrapieniu wyciąga rękę i zbawia prawicą.",
+      "bible": [
+        "Ps 138,6-7"
+      ],
+      "text": [
+        "Pan jest Najwyższy, widzi pokornego,",
+        "poznaje pysznego, patrzy nań z daleka;",
+        "ale gdy ja chodzę pośród utrapienia,",
+        "wyciągasz rękę, Twoja prawica mnie zbawia.",
+        ""
+      ]
+    },
+    {
+      "range": "31-35",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "oblicze",
+        "anioł",
+        "uwielbienie",
+        "psalm",
+        "sławienie",
+        "imię",
+        "miłość",
+        "Pan",
+        "Bóg"
+      ],
+      "summary": "Powtórzenie refrenu uwielbienia w obliczu aniołów.",
+      "bible": [
+        "Ps 138,1-2"
+      ],
+      "text": [
+        "W obliczu aniołów pragnę Cię uwielbiać,",
+        "w obliczu aniołów chcę Ci psalmy śpiewać;",
+        "sławić będę Twoje imię",
+        "za Twą wierną miłość do mnie.",
+        ""
+      ]
+    },
+    {
+      "range": "36-40",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Pan",
+        "dzieło",
+        "miłość",
+        "wieczność",
+        "ręka",
+        "stworzenie",
+        "opuszczenie",
+        "Bóg",
+        "Kościół",
+        "prośba"
+      ],
+      "summary": "Ufność, że Pan dopełni swoje dzieło, bo Jego miłość jest wieczna; prośba, aby nie opuszczał dzieła rąk swoich.",
+      "bible": [
+        "Ps 138,8"
+      ],
+      "text": [
+        "Pan dopełni we mnie swoje dzieło,",
+        "bo wielka i wieczna jest Jego miłość;",
+        "On nie opuszcza dzieła rąk swoich,",
+        "Panie, nie opuszczaj nas!",
+        ""
+      ]
+    },
+    {
+      "range": "41-44",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "oblicze",
+        "anioł",
+        "uwielbienie",
+        "psalm",
+        "sławienie",
+        "imię",
+        "miłość",
+        "Pan",
+        "Bóg"
+      ],
+      "summary": "Końcowe powtórzenie refrenu jako trwające uwielbienie w obliczu aniołów.",
+      "bible": [
+        "Ps 138,1-2"
+      ],
+      "text": [
+        "W obliczu aniołów pragnę Cię uwielbiać,",
+        "w obliczu aniołów chcę Ci psalmy śpiewać;",
+        "sławić będę Twoje imię",
+        "za Twą wierną miłość do mnie."
+      ]
+    },
+    {
+      "range": "1-44",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "uwielbienie",
+        "anioł",
+        "Pan",
+        "Bóg",
+        "miłość",
+        "wierność",
+        "dziękczynienie",
+        "król",
+        "pokorny",
+        "pyszny",
+        "utrapienie",
+        "zbawienie",
+        "dzieło",
+        "stworzenie",
+        "Kościół",
+        "psalm"
+      ],
+      "summary": "Parafraza Psalmu 138 – radosne uwielbienie Boga w obliczu aniołów za Jego wierną miłość, odpowiedź na wołanie, wywyższenie pokornych i obietnicę dopełnienia dzieła zbawienia.",
+      "bible": [
+        "Ps 138"
+      ]
+    }
+  ]
+}

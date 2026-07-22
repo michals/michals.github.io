@@ -1,0 +1,272 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:e8aaf041bd46577b3073dc691a77c410e2c0170fa3b4abdb777c1cdae65b35a1",
+  "songs_analysis": [
+    {
+      "range": "1",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "1",
+      "bible": [],
+      "text": [
+        "Byli zwykłymi ludźmi jak ja, jak ty,"
+      ]
+    },
+    {
+      "range": "1-7",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "zwykły",
+        "człowiek",
+        "rybak",
+        "sieć",
+        "jezioro",
+        "poborca",
+        "podatek",
+        "uczony",
+        "Mistrz",
+        "umrzeć",
+        "pogrzebany"
+      ],
+      "summary": "Apostołowie byli zwykłymi ludźmi — rybakami i celnikami, bez wykształcenia, a ich Mistrz umarł i został pogrzebany. Kontrast między ludzką zwyczajnością a Boskim powołaniem.",
+      "bible": [
+        "Dz 4, 13",
+        "Mt 4, 18-22",
+        "Mt 9, 9",
+        "Mk 1, 16-20",
+        "Łk 5, 1-11",
+        "J 19, 38-42"
+      ],
+      "text": [
+        "Byli zwykłymi ludźmi jak ja, jak ty,",
+        "zarzucali swe sieci w jezioro",
+        "lub ściągali podatki w bramach miasta.",
+        "Wśród nich - o ile pamiętam -",
+        "nie było żadnego uczonego,",
+        "a Ten, którego nazywali Mistrzem,",
+        "umarł też i został pogrzebany."
+      ]
+    },
+    {
+      "range": "8-14",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "podmuch",
+        "niebo",
+        "wicher",
+        "trząść",
+        "drzwi",
+        "głos",
+        "wołać",
+        "wezwanie",
+        "daleko",
+        "płomień",
+        "czekać",
+        "nadzieja",
+        "miłość"
+      ],
+      "summary": "Refren wzywający do rozpoznania podmuchu Ducha Świętego — wichru trzęsącego drzwiami, głosu wzywającego do wyjścia, płomienia rodzącego się w oczekującym.",
+      "bible": [
+        "Dz 2, 2",
+        "J 3, 8",
+        "Pnp 8, 6-7",
+        "1 Kor 13, 13"
+      ],
+      "text": [
+        "Jeśli słyszysz jakiś podmuch z nieba,",
+        "jakiś wicher, który trzęsie drzwiami,",
+        "posłuchaj: to jest głos, który woła,",
+        "wezwanie, by pójść daleko.",
+        "To jest płomień, który powstaje       w tym, który czeka,",
+        "w tym, który żywi nadzieję miłości.",
+        ""
+      ]
+    },
+    {
+      "range": "15-21",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "serce",
+        "ręka",
+        "lodowaty",
+        "ściskać",
+        "oko",
+        "łza",
+        "oblicze",
+        "gorączka",
+        "strach",
+        "przyjaciel",
+        "kobieta",
+        "krzyż",
+        "utrata",
+        "żałoba",
+        "lęk"
+      ],
+      "summary": "Obraz apostołów pogrążonych w lęku i żałobie po stracie Mistrza — serce ściśnięte lodowatą ręką, oczy wypłakane, twarz szara z gorączki i strachu. Lament nad ukrzyżowanym Przyjacielem.",
+      "bible": [
+        "J 20, 19",
+        "Łk 24, 17-21",
+        "J 16, 20-22",
+        "Mk 15, 40-41"
+      ],
+      "text": [
+        "Mieli serce w piersi jak ja, jak ty,",
+        "które ręka lodowata ściskała;",
+        "mieli oczy wypłakane z łez",
+        "i oblicze szare z gorączki i strachu;",
+        "myśleli zapewne o utraconym przyjacielu,",
+        "o kobiecie zostawionej na progu domu,",
+        "o krzyżu zatkniętym na szczycie pagórka."
+      ]
+    },
+    {
+      "range": "22-29",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "podmuch",
+        "niebo",
+        "wicher",
+        "trząść",
+        "drzwi",
+        "głos",
+        "wołać",
+        "wezwanie",
+        "daleko",
+        "płomień",
+        "czekać",
+        "nadzieja",
+        "miłość"
+      ],
+      "summary": "Powtórzenie refrenu: nieustanne wołanie Ducha, który budzi z lęku i wzywa do wyjścia.",
+      "bible": [
+        "Dz 2, 2",
+        "Iz 6, 8"
+      ],
+      "text": [
+        "",
+        "Jeśli słyszysz jakiś podmuch z nieba,",
+        "jakiś wicher, który trzęsie drzwiami,",
+        "posłuchaj: to jest głos, który woła,",
+        "wezwanie, by pójść daleko.",
+        "To jest płomień, który powstaje       w tym, który czeka,",
+        "w tym, który żywi nadzieję miłości.",
+        ""
+      ]
+    },
+    {
+      "range": "30-37",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "wicher",
+        "uderzyć",
+        "brama",
+        "dom",
+        "wieczernik",
+        "oko",
+        "głos",
+        "płomień",
+        "plac",
+        "krzyczeć",
+        "radość",
+        "cień",
+        "dobra nowina",
+        "Królestwo Boże",
+        "nadejść"
+      ],
+      "summary": "Wicher uderza w wieczernik, apostołowie napełniają się Duchem i wychodzą na plac głosić radosną nowinę: Królestwo Boże już nadeszło. Przejście od strachu do odwagi.",
+      "bible": [
+        "Dz 2, 2-4",
+        "Dz 2, 14-18",
+        "J 20, 21-22",
+        "Łk 24, 49",
+        "Mk 1, 15"
+      ],
+      "text": [
+        "A wicher uderzył w bramę domu,",
+        "wpadł jak szalony do wieczernika;",
+        "mieli oczy i głosy pełne płomienia",
+        "i wyszli na plac, by krzyczeć z radości.",
+        "Człowiecze, który czekasz ukryty w cieniu,",
+        "głos, który mówi, jest właśnie dla ciebie;",
+        "przynosi ci radość, dobrą nowinę:",
+        "Królestwo Boże już nadeszło."
+      ]
+    },
+    {
+      "range": "38-43",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "podmuch",
+        "niebo",
+        "wicher",
+        "trząść",
+        "drzwi",
+        "głos",
+        "wołać",
+        "wezwanie",
+        "daleko",
+        "płomień",
+        "czekać",
+        "nadzieja",
+        "miłość"
+      ],
+      "summary": "Końcowe powtórzenie refrenu — pieśń zamyka się wezwaniem do odpowiedzi na głos Ducha i niesienia nadziei miłości.",
+      "bible": [
+        "Dz 2, 2",
+        "Ap 22, 17",
+        "Rz 5, 5"
+      ],
+      "text": [
+        "Jeśli słyszysz jakiś podmuch z nieba,",
+        "jakiś wicher, który trzęsie drzwiami,",
+        "posłuchaj: to jest głos, który woła,",
+        "wezwanie, by pójść daleko.",
+        "To jest płomień, który powstajew tym, który czeka,",
+        "w tym, który żywi nadzieję miłości."
+      ]
+    },
+    {
+      "range": "1-43",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pięćdziesiątnica",
+        "Duch Święty",
+        "apostoł",
+        "zwykły",
+        "lęk",
+        "żałoba",
+        "wicher",
+        "płomień",
+        "głos",
+        "wezwanie",
+        "nadzieja",
+        "miłość",
+        "radość",
+        "Królestwo Boże",
+        "wieczernik",
+        "misja"
+      ],
+      "summary": "Współczesny hymn o Zesłaniu Ducha Świętego ukazujący przemianę zalęknionych, zwykłych ludzi w odważnych głosicieli Ewangelii. Trzy zwrotki kontrastują zwyczajność apostołów i ich żałobę po Ukrzyżowanym z uderzeniem Ducha Świętego w dniu Pięćdziesiątnicy. Refren 'Jeśli słyszysz jakiś podmuch z nieba' wzywa każdego słuchacza do osobistej odpowiedzi na działanie Ducha. Typologicznie: wicher i ogień zstępujące na Wieczernik są wypełnieniem zapowiedzi prorockich (Jl 3, 1-5), a 'zwykli ludzie' stający się heroldami Królestwa ukazują przemieniającą moc łaski.",
+      "bible": [
+        "Dz 2, 1-13",
+        "Dz 4, 13",
+        "Jl 3, 1-5",
+        "J 20, 19-22",
+        "Łk 24, 49",
+        "Mk 1, 15",
+        "J 3, 8",
+        "Rz 5, 5",
+        "1 Kor 13, 13",
+        "Ap 22, 17"
+      ]
+    }
+  ]
+}

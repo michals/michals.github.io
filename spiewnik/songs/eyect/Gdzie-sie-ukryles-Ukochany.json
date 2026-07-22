@@ -1,0 +1,319 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:b415958fbca39ee945882a31f897404dd68ad670a0a45c3514a917cf2a993a2d",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "ukryć się",
+        "Ukochany",
+        "jęk",
+        "zostawić",
+        "uciec",
+        "jeleń",
+        "zranić",
+        "wołać",
+        "oddalić się"
+      ],
+      "summary": "Dusza-Oblubienica szuka ukrytego Ukochanego, który zranił ją miłością i oddalił się – parafraza Pieśni nad pieśniami i św. Jana od Krzyża.",
+      "bible": [
+        "Pnp 3,1-4",
+        "Pnp 5,6"
+      ],
+      "text": [
+        "1 Gdzie się ukryłeś, Ukochany,",
+        "wśród jęków mnie zostawiłeś?",
+        "Uciekłeś jak jeleń,",
+        "jak już mnie zraniłeś,",
+        "wyszłam za Tobą wołając,a Ty się oddaliłeś! "
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "pasterz",
+        "pastwisko",
+        "wierch",
+        "wyniosły",
+        "spotkać",
+        "Najukochańszy",
+        "cierpieć",
+        "umierać"
+      ],
+      "summary": "Oblubienica prosi pasterzy, by przekazali Ukochanemu, że dla Niego cierpi i umiera – mistyczna teologia miłości.",
+      "bible": [
+        "Pnp 5,8"
+      ],
+      "text": [
+        "2 Pasterze, co przemierzacie pastwiska",
+        "aż po wierch wyniosły,",
+        "gdy przypadkiem Go spotkacie,",
+        "mego Najukochańszego,",
+        "powiedzcie Mu, że cierpię         i umieram dla Niego. "
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "szukać",
+        "miłość",
+        "góra",
+        "dolina",
+        "kwiat",
+        "zwierz",
+        "trwoga",
+        "twierdza",
+        "granica"
+      ],
+      "summary": "Oblubienica postanawia szukać Ukochanego przez góry i doliny, nie lękając się przeszkód – radykalne poszukiwanie Boga.",
+      "bible": [
+        "Pnp 3,2",
+        "Pnp 8,6-7"
+      ],
+      "text": [
+        "3 Szukając mojej miłości",
+        "pójdę przez góry i doliny.",
+        "Nie będę zrywać kwiatów,",
+        "przed zwierzem nie uczuję trwogi,",
+        "przejdę przez twierdze i graniczne progi! "
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "gaj",
+        "las",
+        "ręka",
+        "Ukochany",
+        "zasadzić",
+        "łąka",
+        "zieleń",
+        "kwiat",
+        "ozdobić",
+        "przechodzić"
+      ],
+      "summary": "Kontemplacja stworzenia jako dzieła ręki Ukochanego – przyroda jest naznaczona Jego pięknem.",
+      "bible": [
+        "Pnp 2,12-13",
+        "Mdr 13,1-5"
+      ],
+      "text": [
+        "4 O wy, gaje i lasy",
+        "ręką Ukochanego zasadzone!",
+        "O łąki pełne zieleni",
+        "kwiatami ozdobione,",
+        "powiedzcie, czy przechodził    przez was w którąś stronę? "
+      ]
+    },
+    {
+      "range": "21-26",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "tysiąc",
+        "łaska",
+        "rozlewać",
+        "przebiegać",
+        "gaj",
+        "pośpiech",
+        "spojrzeć",
+        "postać",
+        "piękno"
+      ],
+      "summary": "Ukochany rozlewa tysiące łask, przebiegając przez gaje; samo Jego spojrzenie odziewa stworzenie w piękno.",
+      "bible": [
+        "Pnp 2,8-9",
+        "Pnp 5,13-16"
+      ],
+      "text": [
+        "5 Tysiąc łask rozlewając,",
+        "przebiegał przez te gaje w pośpiechu,",
+        "a gdy na nie spojrzał,",
+        "samą swą postacią",
+        "zostawił je odziane w swoje piękno.",
+        ""
+      ]
+    },
+    {
+      "range": "27-31",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "uzdrowić",
+        "oddać się",
+        "posyłać",
+        "zwiastun",
+        "oznajmić",
+        "pragnąć"
+      ],
+      "summary": "Błaganie o bezpośrednią obecność Ukochanego – żaden zwiastun nie zastąpi Jego samego; troska o pełnię mistycznej unii (Pnp 8,1; św. Jan od Krzyża, Droga na Górę Karmel).",
+      "bible": [
+        "Pnp 8,1"
+      ],
+      "text": [
+        "6 Aj, któż zdoła mnie uzdrowić?",
+        "Oddaj mi się już wreszcie, całkowicie",
+        "i nie posyłaj już więcej żadnego zwiastuna,",
+        "bo nie mogą oznajmić tego, czego pragnę. ",
+        "5 Tysiąc łask rozlewając, …"
+      ]
+    },
+    {
+      "range": "32-35",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "trwać",
+        "życie",
+        "nie żyć",
+        "pogrążać się",
+        "konanie",
+        "strzała",
+        "ranny",
+        "Miły",
+        "nie pojmować"
+      ],
+      "summary": "Paradoks mistyczny: dusza umiera z tęsknoty, ranna strzałami miłości, cierpiąc, że nie może w pełni pojąć Umiłowanego.",
+      "bible": [
+        "Pnp 2,5",
+        "Pnp 5,8"
+      ],
+      "text": [
+        "8 Czemu jeszcze trwasz, o życie",
+        "wciąż nie żyjąc tam, gdzie żyjesz,",
+        "pogrążając się w konaniu od strzał",
+        "które tym cię ranią, że Miłego nie pojmujesz."
+      ]
+    },
+    {
+      "range": "36-40",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "głębina",
+        "winna piwnica",
+        "rozkosz",
+        "mądrość Boża",
+        "pastwisko",
+        "puste pragnienie",
+        "stado"
+      ],
+      "summary": "W głębinie mistycznego upojenia dusza pije rozkosze Bożej mądrości i porzuca puste pragnienia – aluzja do Mądrości Syracha (Syr 24).",
+      "bible": [
+        "Syr 24",
+        "Pnp 2,4",
+        "Pnp 8,2"
+      ],
+      "text": [
+        "26W głębinie winnej piwnicy,",
+        "piłam rozkosze Bożej mądrości,",
+        "kiedy wyszłam na pastwiska",
+        "porzuciłam swe puste pragnienia -",
+        "zostawiłam stada, za którymi biegałam. "
+      ]
+    },
+    {
+      "range": "41-44",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "czułość",
+        "pieszczota",
+        "słodycz",
+        "mądrość",
+        "oddać",
+        "życie",
+        "przyrzec",
+        "Oblubienica"
+      ],
+      "summary": "Dusza oddaje się Ukochanemu bez reszty i przyrzeka być Jego Oblubienicą – motyw przymierza małżeńskiego z Bogiem (Oz 2,18-22; Pnp 6,3).",
+      "bible": [
+        "Pnp 6,3",
+        "Oz 2,18-22"
+      ],
+      "text": [
+        "27Tam dałeś mi czułość i pieszczoty,",
+        "napełniłeś mnie słodyczą Twej mądrości.",
+        "Ja oddałam Ci bez reszty całe swoje życie",
+        "i przyrzekłam, że Twoją będę Oblubienicą. "
+      ]
+    },
+    {
+      "range": "45-50",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "staranie",
+        "troszczyć się",
+        "Miłość",
+        "stado",
+        "praca",
+        "oddać",
+        "sprawa Boża"
+      ],
+      "summary": "Dusza porzuca własne sprawy, by troszczyć się wyłącznie o sprawy Ukochanego–Miłości – doskonałe oddanie się Bogu.",
+      "bible": [
+        "Pnp 8,6-7",
+        "Łk 10,38-42"
+      ],
+      "text": [
+        "28Tyś jedynym mym staraniem,",
+        "to co moje, Tobie oddaję.",
+        "Już nie strzegę swego stada,",
+        "innej pracy nie przyjmuję,",
+        "bowiem troszczę się o Twoje sprawy        - o Miłość. ",
+        "5 Tysiąc łask rozlewając, …"
+      ]
+    },
+    {
+      "range": "1-50",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Ukochany",
+        "Oblubienica",
+        "dusza",
+        "miłość",
+        "szukanie",
+        "mistyka",
+        "zranienie",
+        "tęsknota",
+        "góra",
+        "dolina",
+        "gaj",
+        "mądrość",
+        "wino",
+        "piwnica",
+        "unia",
+        "przymierze",
+        "oblubieńczy",
+        "Jezus",
+        "Bóg",
+        "łaska",
+        "piękno",
+        "stworzenie",
+        "kontemplacja",
+        "Karmel",
+        "święty Jan od Krzyża"
+      ],
+      "summary": "Mistyczna pieśń oparta na 'Cántico Espiritual' św. Jana od Krzyża i Pieśni nad pieśniami. Dusza-Oblubienica szuka Ukrytego Ukochanego (Chrystusa), przechodząc od tęsknoty i zranienia miłością do mistycznej unii w 'winnej piwnicy' mądrości Bożej. Ostatnie zwrotki opisują całkowite oddanie się duszy Oblubieńcowi – przymierze oblubieńcze prefigurujące zaślubiny mistyczne. Typologia: Pnp jako prefiguracja miłości Chrystusa i Kościoła (Ef 5,25-32).",
+      "bible": [
+        "Pnp 3,1-4",
+        "Pnp 5,6-8",
+        "Pnp 8,1-7",
+        "Syr 24",
+        "Oz 2,18-22",
+        "Ef 5,25-32",
+        "Łk 10,38-42"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:0e4284b47e7d9d568365a7db3825d0745c2da663f615be0d920348b02c24b567",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "4-21",
+      "bible": [],
+      "text": [
+        "Intencja",
+        "Tajemnice różańca z dnia (radosna, bolesna, chwalebna, światła)",
+        ""
+      ]
+    },
+    {
+      "range": "4-10",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Ojcze nasz",
+        "modlitwa",
+        "Niebo",
+        "imię Boże",
+        "Królestwo Boże",
+        "wola Boża",
+        "chleb powszedni",
+        "odpuszczenie",
+        "wina",
+        "przebaczenie",
+        "pokuszenie",
+        "zło",
+        "zbawienie"
+      ],
+      "summary": "Modlitwa Pańska (Ojcze nasz) – siedem próśb skierowanych do Boga Ojca: o świętość imienia, Królestwo, wolę Bożą, chleb, odpuszczenie win, wybawienie od pokus i od złego.",
+      "bible": [
+        "Mt 6, 9-13",
+        "Łk 11, 2-4"
+      ],
+      "text": [
+        "1Ojcze nasz, któryś jest w niebie,",
+        "święć się imię Twoje; przyjdź Królestwo Twoje;",
+        "bądź wola Twoja, jako w niebie tak i na ziemi.",
+        "2Chleba naszego powszedniego daj nam dzisiaj",
+        "i odpuść nam nasze winy, jako i my odpuszczamy naszym winowajcom.",
+        "I nie wódź nas na pokuszenie, ale nas zbaw ode złego. Amen.",
+        ""
+      ]
+    },
+    {
+      "range": "11-17",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "łaska",
+        "Pan",
+        "błogosławiony",
+        "niewiasta",
+        "owoc żywota",
+        "Jezus",
+        "Matka Boża",
+        "grzesznik",
+        "śmierć",
+        "wstawiennictwo"
+      ],
+      "summary": "Pozdrowienie anielskie – Zdrowaś Maryjo, łączące słowa Archanioła Gabriela i św. Elżbiety z prośbą o wstawiennictwo Matki Bożej za grzesznymi.",
+      "bible": [
+        "Łk 1, 28",
+        "Łk 1, 42"
+      ],
+      "text": [
+        "1Zdrowaś Maryjo, łaskiś pełna, Pan z Tobą,",
+        "błogosławionaś Ty między niewiastami,",
+        "i błogosławiony owoc żywota Twojego, Jezus.",
+        "2Święta Maryjo, Matko Boża,",
+        "módl się za nami grzesznymi",
+        "teraz i w godzinę śmierci naszej. Amen.",
+        ""
+      ]
+    },
+    {
+      "range": "18-21",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chwała Ojcu",
+        "Syn",
+        "Duch Święty",
+        "Trójca Święta",
+        "początek",
+        "wieczność",
+        "Amen"
+      ],
+      "summary": "Doksologia trynitarna 'Chwała Ojcu' – uwielbienie Trójcy Świętej na początku, teraz i na wieki wieków.",
+      "bible": [
+        "2 Kor 13, 13",
+        "Mt 28, 19",
+        "Rz 11, 36",
+        "Ap 5, 13"
+      ],
+      "text": [
+        "3Chwała Ojcu i Synowi, i Duchowi Świętemu.",
+        "4Jak była na początku, teraz i zawsze,",
+        "i na wieki wieków.   Amen.",
+        ""
+      ]
+    },
+    {
+      "range": "22-23",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "",
+      "bible": [],
+      "text": [
+        "Pieśń do Dziewicy Maryi",
+        ""
+      ]
+    },
+    {
+      "range": "24-25",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "",
+      "bible": [],
+      "text": [
+        "Litania Loretańska, którą na zakończenie można zaśpiewać",
+        "na melodię „Litanii do wszystkich świętych”."
+      ]
+    },
+    {
+      "range": "1-25",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Różaniec",
+        "modlitwa",
+        "Maryja",
+        "Ojcze nasz",
+        "Zdrowaś Maryjo",
+        "Chwała Ojcu",
+        "Trójca Święta",
+        "tajemnice różańca",
+        "wstawiennictwo",
+        "Jezus Chrystus"
+      ],
+      "summary": "Śpiewany Różaniec święty, obejmujący Modlitwę Pańską, Pozdrowienie Anielskie i Doksologię trynitarną, z zapowiedzią intencji i tajemnic różańcowych.",
+      "bible": [
+        "Mt 6, 9-13",
+        "Łk 1, 28",
+        "Łk 1, 42",
+        "2 Kor 13, 13"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:1133b55aea99ccd7be8ad25eb1120b1bfb9e81091ab0f930879ccf7df6078e7d",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "wstęp",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Pan",
+        "duch",
+        "serce",
+        "wzniesienie",
+        "dziękczynienie",
+        "Bóg",
+        "Eucharystia",
+        "liturgia",
+        "wspólnota"
+      ],
+      "summary": "Liturgiczny dialog prefacji: pozdrowienie, wezwanie do wzniesienia serc i składania dziękczynienia Panu Bogu.",
+      "bible": [
+        "Kol 3, 1-2",
+        "Ps 136",
+        "Flp 4, 4-6",
+        "Rt 2, 4"
+      ],
+      "text": [
+        "Pan z wami.",
+        "i z duchem twoim.",
+        "W górę serca.",
+        "Wznosimy je do Pana.",
+        "Dzięki składajmy Panu Bogu naszemu.",
+        "Godne to i sprawiedliwe.",
+        "Godne to i sprawiedliwe."
+      ]
+    },
+    {
+      "range": "8-22",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dziękczynienie",
+        "Bóg Ojciec",
+        "świętość",
+        "Bóg żywy",
+        "Bóg prawdziwy",
+        "przedwieczność",
+        "światłość",
+        "dobroć",
+        "źródło życia",
+        "stworzenie",
+        "chwała",
+        "Anioł",
+        "uwielbienie",
+        "stworzenie",
+        "imię Boże",
+        "radość"
+      ],
+      "summary": "Prefacja wysławiająca Boga jako jedynego żywego i prawdziwego, źródło życia i dobra, otoczonego nieustannym uwielbieniem zastępów anielskich, do którego włącza się Kościół z całym stworzeniem.",
+      "bible": [
+        "1 Tm 6, 16",
+        "Ps 36, 10",
+        "Rdz 1",
+        "Iz 6, 2-3",
+        "Ap 4, 8",
+        "Ps 103, 20-21",
+        "Dn 7, 10"
+      ],
+      "text": [
+        "Zaprawdę, godne to jest, abyśmy Tobie składali dziękczynienie,",
+        "i sprawiedliwe, abyśmy Ciebie wychwalali, o Ojcze święty,",
+        "albowiem Ty jeden jesteś Bogiem żywym i prawdziwym,",
+        "Ty jesteś przedwieczny i trwasz na wieki",
+        "mieszkając w niedostępnej światłości.",
+        "Tylko Ty, Boże, jesteś dobry",
+        "i jako jedyne źródło życia powołałeś wszystko do istnienia,",
+        "aby napełnić swoje stworzenia dobrami",
+        "i wiele z nich uszczęśliwić jasnością Twojej chwały.",
+        "Stoją więc przed Tobą niezliczone zastępy Aniołów,",
+        "którzy służą Tobie dniem i nocą,",
+        "a wpatrzeni w chwałę Twojego oblicza nieustannie cześć Tobie oddają.",
+        "Łącząc się z nimi, razem z całym stworzeniem, które jest pod niebem",
+        "i wielbi Cię przez nasze usta, z radością wysławiamy Twoje imię, wołając:",
+        ""
+      ]
+    },
+    {
+      "range": "23",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "",
+      "bible": [],
+      "text": [
+        "Następuje „Święty”"
+      ]
+    },
+    {
+      "range": "1-23",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dziękczynienie",
+        "Bóg Ojciec",
+        "Anioł",
+        "stworzenie",
+        "chwała",
+        "uwielbienie",
+        "liturgia",
+        "Eucharystia",
+        "świętość",
+        "światłość"
+      ],
+      "summary": "Prefacja Modlitwy eucharystycznej IV, obejmująca dialog liturgiczny i dziękczynienie Bogu Ojcu za Jego świętość, dobroć, dzieło stworzenia oraz nieustanną chwałę oddawaną Mu przez Aniołów i całe stworzenie.",
+      "bible": [
+        "1 Tm 6, 16",
+        "Iz 6, 2-3",
+        "Ap 4, 8",
+        "Ps 136"
+      ]
+    }
+  ]
+}

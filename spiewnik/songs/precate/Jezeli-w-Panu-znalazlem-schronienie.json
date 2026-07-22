@@ -1,0 +1,158 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:46c2004c054f138b403860aeba2d0560ae560b15f013575e299887688e01fd59",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Pan",
+        "schronienie",
+        "uciekać",
+        "góra",
+        "wróbel",
+        "ufność",
+        "zaufanie",
+        "Bóg",
+        "modlitwa",
+        "Ps 11",
+        "psalm"
+      ],
+      "summary": "Wyznanie ufności Bogu jako jedynemu schronieniu, które odpiera rady ludzkie nakłaniające do ucieczki.",
+      "bible": [
+        "Ps 11, 1"
+      ],
+      "text": [
+        "Jeżeli w Panu znalazłem schronienie,",
+        "jak możecie mi mówić, jak możecie mi mówić,",
+        "bym uciekał niby wróbel ku górze,",
+        "bym uciekał niby wróbel ku górze."
+      ]
+    },
+    {
+      "range": "5-10",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "bezbożny",
+        "łuk",
+        "strzała",
+        "ciemność",
+        "prawy",
+        "serce",
+        "fundament",
+        "wstrząsnąć",
+        "sprawiedliwy",
+        "zło",
+        "prześladowanie",
+        "sąd"
+      ],
+      "summary": "Opis działania bezbożnych czyhających na prawych oraz fundamentalne pytanie o rolę sprawiedliwego w świecie, w którym zachwiane są podstawy porządku.",
+      "bible": [
+        "Ps 11, 2-3",
+        "Ps 37, 14",
+        "Ps 64, 4-5"
+      ],
+      "text": [
+        "Ja wiem, że bezbożni napinają łuki",
+        "i zakładają strzały na cięciwy,",
+        "by ugodzić w ciemności prawych sercem.",
+        "Lecz kiedy wstrząśnięte są fundamenty,",
+        "co może zdziałać sprawiedliwy?",
+        "Co może zdziałać sprawiedliwy?"
+      ]
+    },
+    {
+      "range": "11-18",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Pan",
+        "przybytek",
+        "tron",
+        "niebo",
+        "oczy",
+        "źrenice",
+        "badać",
+        "sprawiedliwy",
+        "bezbożny",
+        "przemoc",
+        "Bóg",
+        "sąd",
+        "opatrzność",
+        "Ps 11"
+      ],
+      "summary": "Wyznanie wiary w Boga zasiadającego na tronie w niebie, który widzi wszystkich ludzi, przenika sprawiedliwych i bezbożnych, i nie godzi się na przemoc.",
+      "bible": [
+        "Ps 11, 4-5",
+        "Ps 33, 13-15",
+        "Ps 7, 12",
+        "Prz 15, 3"
+      ],
+      "text": [
+        "Ale Pan, ale Pan jest w swym świętym przybytku,",
+        "Pan ma swój tron na niebie,",
+        "Jego oczy są otwarte na świat,",
+        "Jego źrenice badają każdego człowieka.",
+        "Bo Pan, bo Pan przenika sprawiedliwych,",
+        "Pan przenika także bezbożnych,",
+        "Panu Bogu nie podoba się przemoc.",
+        "Panu Bogu nie podoba się przemoc."
+      ]
+    },
+    {
+      "range": "19-22",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Pan",
+        "schronienie",
+        "uciekać",
+        "góra",
+        "wróbel",
+        "ufność",
+        "zaufanie",
+        "Bóg",
+        "modlitwa",
+        "Ps 11"
+      ],
+      "summary": "Końcowe powtórzenie refrenu ufności w Bogu jako jedynym schronieniu.",
+      "bible": [
+        "Ps 11, 1"
+      ],
+      "text": [
+        "Jeżeli w Panu znalazłem schronienie,",
+        "jak możecie mi mówić, jak możecie mi mówić,",
+        "bym uciekał niby wróbel ku górze,",
+        "bym uciekał niby wróbel ku górze."
+      ]
+    },
+    {
+      "range": "1-22",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "schronienie",
+        "ufność",
+        "Pan",
+        "Bóg",
+        "sąd",
+        "sprawiedliwość",
+        "bezbożny",
+        "prawy",
+        "tron",
+        "niebo",
+        "Ps 11",
+        "psalm",
+        "modlitwa",
+        "zaufanie",
+        "opatrzność"
+      ],
+      "summary": "Parafraza Psalmu 11, wyrażająca niezachwianą ufność w Bogu jako schronieniu pośród zagrożenia ze strony bezbożnych oraz wyznanie wiary w Jego sprawiedliwy sąd z nieba. Charakter błagalny przechodzący w dziękczynienie za Bożą opiekę.",
+      "bible": [
+        "Ps 11, 1-7"
+      ]
+    }
+  ]
+}

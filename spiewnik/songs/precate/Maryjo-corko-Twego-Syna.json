@@ -1,0 +1,238 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:2884297ce4911c2d4d946fb44d9fd2d9fdcd4c74d09aec2a44a3269e77f325f5",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "córka",
+        "Syn",
+        "Jezus Chrystus",
+        "Matka",
+        "Dziewica",
+        "Trójca Święta",
+        "macierzyństwo",
+        "dziewictwo",
+        "adoracja"
+      ],
+      "summary": "Uwielbienie Maryi jako Matki Jezusa i naszej Matki, wyrażające podziw dla tajemnicy Jej dziewiczości i macierzyństwa.",
+      "bible": [
+        "Łk 1, 26-38",
+        "J 19, 26-27"
+      ],
+      "text": [
+        "Maryjo, córko Twego Syna,",
+        "Matko Jezusa i Matko nasza,",
+        "Dziewico tak bardzo przedziwna.",
+        ""
+      ]
+    },
+    {
+      "range": "5-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "stworzenie",
+        "Stworzyciel",
+        "świat",
+        "Służebnica",
+        "Pan",
+        "Wcielenie",
+        "Jezus Chrystus",
+        "pokora",
+        "służba"
+      ],
+      "summary": "Maryja jako stworzenie, które wydało na świat Stworzyciela, oraz Służebnica Pańska, która poczęła swego Pana – podkreślenie tajemnicy Wcielenia i pokory Maryi.",
+      "bible": [
+        "Łk 1, 38",
+        "Łk 1, 48-49",
+        "J 1, 1-3",
+        "Flp 2, 6-7"
+      ],
+      "text": [
+        "Maryjo, Tyś jest stworzeniem,",
+        "które wydało na świat Stworzyciela;",
+        "Tyś Służebnicą, która poczęła swego Pana.",
+        ""
+      ]
+    },
+    {
+      "range": "9-12",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "córka",
+        "Syn",
+        "Jezus Chrystus",
+        "Matka",
+        "Dziewica",
+        "Trójca Święta",
+        "macierzyństwo",
+        "dziewictwo",
+        "adoracja"
+      ],
+      "summary": "Uwielbienie Maryi jako Matki Jezusa i naszej Matki, wyrażające podziw dla tajemnicy Jej dziewiczości i macierzyństwa.",
+      "bible": [
+        "Łk 1, 26-38",
+        "J 19, 26-27"
+      ],
+      "text": [
+        "Maryjo, córko Twego Syna,",
+        "Matko Jezusa i Matko nasza,",
+        "Dziewico tak bardzo przedziwna.",
+        ""
+      ]
+    },
+    {
+      "range": "13-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "ziemia",
+        "stworzenie",
+        "chwała",
+        "obraz",
+        "niebo",
+        "człowiek",
+        "chwała Boża",
+        "świętość"
+      ],
+      "summary": "Maryja jako stworzenie z ziemi, które stało się pełnym chwały obrazem nieba – podkreślenie Jej roli jako pośredniczki między ziemią a niebem.",
+      "bible": [
+        "Rdz 2, 7",
+        "1 Kor 15, 47-49",
+        "Ap 12, 1"
+      ],
+      "text": [
+        "Maryjo, utworzona z ziemi,",
+        "Tyś jest pełnym chwały,",
+        "pełnym chwały obrazem nieba.",
+        ""
+      ]
+    },
+    {
+      "range": "17-20",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "córka",
+        "Syn",
+        "Jezus Chrystus",
+        "Matka",
+        "Dziewica",
+        "Trójca Święta",
+        "macierzyństwo",
+        "dziewictwo",
+        "adoracja"
+      ],
+      "summary": "Uwielbienie Maryi jako Matki Jezusa i naszej Matki, wyrażające podziw dla tajemnicy Jej dziewiczości i macierzyństwa.",
+      "bible": [
+        "Łk 1, 26-38",
+        "J 19, 26-27"
+      ],
+      "text": [
+        "Maryjo, córko Twego Syna,",
+        "Matko Jezusa i Matko nasza,",
+        "Dziewico tak bardzo przedziwna.",
+        ""
+      ]
+    },
+    {
+      "range": "21-26",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "najmniejsza",
+        "niewiasta",
+        "największa",
+        "córka Boga",
+        "Matka Boga",
+        "pokora",
+        "wywyższenie",
+        "Jezus Chrystus",
+        "Trójca Święta"
+      ],
+      "summary": "Paradoks teologiczny: Maryja będąc najmniejszą i córką Boga, jest jednocześnie największą niewiastą i Matką Boga – ukazanie logiki Ewangelii, gdzie uniżenie prowadzi do wywyższenia.",
+      "bible": [
+        "Łk 1, 48",
+        "Łk 1, 43",
+        "Mt 23, 12",
+        "Flp 2, 6-11"
+      ],
+      "text": [
+        "Maryjo, Ty będąc najmniejszą,",
+        "jesteś niewiastą największą",
+        "i będąc córką Boga, jesteś Jego Matką,",
+        "będąc córką Boga, jesteś Jego Matką.",
+        "Dziewico tak bardzo przedziwna.",
+        ""
+      ]
+    },
+    {
+      "range": "27-29",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "córka",
+        "Syn",
+        "Jezus Chrystus",
+        "Matka",
+        "Dziewica",
+        "Trójca Święta",
+        "macierzyństwo",
+        "dziewictwo",
+        "adoracja"
+      ],
+      "summary": "Uwielbienie Maryi jako Matki Jezusa i naszej Matki, wyrażające podziw dla tajemnicy Jej dziewiczości i macierzyństwa.",
+      "bible": [
+        "Łk 1, 26-38",
+        "J 19, 26-27"
+      ],
+      "text": [
+        "Maryjo, córko Twego Syna,",
+        "Matko Jezusa i Matko nasza,",
+        "Dziewico tak bardzo przedziwna."
+      ]
+    },
+    {
+      "range": "1-29",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "córka",
+        "Syn",
+        "Jezus Chrystus",
+        "Matka",
+        "Dziewica",
+        "Trójca Święta",
+        "Wcielenie",
+        "stworzenie",
+        "chwała",
+        "pokora",
+        "wywyższenie",
+        "macierzyństwo",
+        "Służebnica Pańska",
+        "adoracja"
+      ],
+      "summary": "Hymn maryjny oparty na paradoksie teologicznym: Maryja jako córka Twego Syna (Trójca Święta), Matka Jezusa i nasza Matka, Dziewica przedziwna. Pieśń ukazuje Maryję w tajemnicy Wcielenia – jako stworzenie, które rodzi Stworzyciela, Służebnicę poczynającą Pana, najmniejszą stającą się największą. Teologia maryjna osadzona w kontekście adwentowego oczekiwania.",
+      "bible": [
+        "Łk 1, 26-38",
+        "Łk 1, 43",
+        "Łk 1, 48",
+        "J 19, 26-27",
+        "Flp 2, 6-11",
+        "Ap 12, 1"
+      ]
+    }
+  ]
+}

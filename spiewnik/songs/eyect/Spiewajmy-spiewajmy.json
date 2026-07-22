@@ -1,0 +1,139 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:038f4ca87dff8171e81215a6bd87eabc5438e87a6d1071c118230cecf69d801a",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pieśń",
+        "nowa",
+        "Jahwe",
+        "Pan",
+        "chwała",
+        "potęga",
+        "okazanie"
+      ],
+      "summary": "Zapowiedź nowej pieśni na cześć Jahwe, który potężnie okazał swoją chwałę – nawiązanie do pieśni Mojżesza po przejściu przez Morze Czerwone.",
+      "bible": [
+        "Wj 15,1",
+        "Ap 5,9",
+        "Ap 14,3"
+      ],
+      "text": [
+        "Pieśń nową zaśpiewam",
+        "Jahwe, memu Panu,",
+        "który w sposób potężny",
+        "swoją chwałę okazał.",
+        ""
+      ]
+    },
+    {
+      "range": "6-15",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "Pan",
+        "wróg",
+        "zwycięstwo",
+        "Król",
+        "wieczność",
+        "uwielbienie"
+      ],
+      "summary": "Refren: Śpiewajmy Panu, który zwyciężył wroga i panuje jako Król na wieki – aklamacja paschalnego zwycięstwa Boga.",
+      "bible": [
+        "Wj 15,1-2",
+        "Wj 15,18"
+      ],
+      "text": [
+        "Śpiewajmy Panu;",
+        "On wroga zwyciężył.",
+        "Śpiewajmy Panu;",
+        "On Królem na wieki.",
+        "",
+        "Śpiewajmy, śpiewajmy",
+        "Panu naszemu.",
+        "On wroga zwyciężył,",
+        "On Królem na wieki.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "Ojciec",
+        "Jahwe",
+        "imię",
+        "śpiew",
+        "objawienie"
+      ],
+      "summary": "Wyznanie wiary: Jahwe jest Bogiem ojców, Jego imię zostało objawione – personalny Bóg przymierza.",
+      "bible": [
+        "Wj 3,13-15",
+        "Wj 15,2"
+      ],
+      "text": [
+        "Śpiewajmy, śpiewajmy,",
+        "to Bóg mego Ojca.",
+        "śpiewajmy, śpiewajmy,",
+        "Jahwe Jego imię.",
+        ""
+      ]
+    },
+    {
+      "range": "21-24",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "pieśń",
+        "nowa",
+        "Jahwe",
+        "Pan",
+        "chwała",
+        "potęga",
+        "inclusio"
+      ],
+      "summary": "Powtórzenie incipitu jako inclusio – nowa pieśń dla Jahwe, który okazał swoją chwałę, zamyka hymn w strukturze klamrowej.",
+      "bible": [
+        "Wj 15,1"
+      ],
+      "text": [
+        "Pieśń nową zaśpiewam",
+        "Jahwe, memu Panu,",
+        "który w sposób potężny",
+        "swoją chwałę okazał."
+      ]
+    },
+    {
+      "range": "1-24",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "nowa pieśń",
+        "Jahwe",
+        "Pan",
+        "zwycięstwo",
+        "Król",
+        "chwała",
+        "wróg",
+        "Mojżesz",
+        "Pasch",
+        "wyjście"
+      ],
+      "summary": "Skrócony Kantyk Mojżesza (Wj 15,1-2) – radosny hymn dziękczynienia za paschalne zwycięstwo Boga nad wrogiem, okazanie Jego chwały i wieczne królowanie, z personalnym objawieniem Jahwe jako Boga Ojców.",
+      "bible": [
+        "Wj 15,1-2",
+        "Wj 15,18",
+        "Wj 3,13-15",
+        "Ap 5,9",
+        "Ap 15,3"
+      ]
+    }
+  ]
+}

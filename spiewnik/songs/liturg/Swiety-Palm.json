@@ -1,0 +1,189 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:23ec5153e349c75a6bf923cf7c92ae998b00f701516e14eefae8f1996fec664f",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "święty",
+        "Pan",
+        "Jahwe",
+        "Sabaoth",
+        "Bóg",
+        "majestat",
+        "chwała",
+        "Trójca Święta",
+        "adoracja",
+        "królestwo"
+      ],
+      "summary": "Potrójna aklamacja świętości Pana Boga Jahwe Zastępów, centralne wezwanie liturgii eucharystycznej nawiązujące do teofanii Izajasza.",
+      "bible": [
+        "Iz 6, 3",
+        "Ap 4, 8",
+        "Ps 99, 9"
+      ],
+      "text": [
+        "Święty, święty, święty,",
+        "święty, święty, święty,",
+        "Święty, święty, święty!",
+        "Święty jest nasz Pan",
+        "Jahwe Sabaoth,",
+        "Jahwe Sabaoth.",
+        ""
+      ]
+    },
+    {
+      "range": "8-12",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "niebo",
+        "ziemia",
+        "wypełnienie",
+        "chwała",
+        "Bóg",
+        "obecność",
+        "stworzenie",
+        "wszechświat"
+      ],
+      "summary": "Niebiosa i ziemia są wypełnione obecnością Bożą – całe stworzenie staje się świątynią Jego chwały.",
+      "bible": [
+        "Iz 6, 3",
+        "Ps 19, 2",
+        "Ps 24, 1",
+        "Syr 42, 16"
+      ],
+      "text": [
+        "Niebiosa",
+        "i ziemia",
+        "są wypełnione,",
+        "są wypełnione Tobą!",
+        ""
+      ]
+    },
+    {
+      "range": "13-18",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "hosanna",
+        "uwielbienie",
+        "Mesjasz",
+        "Jezus Chrystus",
+        "Król",
+        "zbawienie",
+        "wysokość",
+        "niebo"
+      ],
+      "summary": "Dwuczęściowa aklamacja refreniczna 'Hosanna' – najpierw proste wołanie, następnie rozszerzone o 'na niebie wysokim' – wyrażająca radość mesjańską.",
+      "bible": [
+        "Ps 118, 25-26",
+        "Mt 21, 9",
+        "Mk 11, 9-10",
+        "J 12, 13"
+      ],
+      "text": [
+        "Hosanna, hosanna,",
+        "hosanna, hosanna.",
+        "",
+        "Hosanna na niebie wysokim,",
+        "Hosanna, hosanna!",
+        ""
+      ]
+    },
+    {
+      "range": "19-23",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławiony",
+        "Ten",
+        "iść",
+        "imię",
+        "Pan",
+        "Jezus Chrystus",
+        "Mesjasz",
+        "przyjście",
+        "Paruzja"
+      ],
+      "summary": "Benedictus – błogosławieństwo Tego, który przychodzi w imię Pańskie; odnosi się zarówno do wjazdu Jezusa do Jerozolimy, jak i Jego eschatologicznego przyjścia.",
+      "bible": [
+        "Ps 118, 26",
+        "Mt 21, 9",
+        "Mk 11, 9-10",
+        "Łk 13, 35",
+        "J 12, 13"
+      ],
+      "text": [
+        "Błogosławiony",
+        "jest Ten, który idzie,",
+        "jest Ten, który idzie,",
+        "idzie w imię Pana.",
+        ""
+      ]
+    },
+    {
+      "range": "24-28",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "hosanna",
+        "uwielbienie",
+        "Mesjasz",
+        "Jezus Chrystus",
+        "Król",
+        "zbawienie",
+        "wysokość",
+        "niebo"
+      ],
+      "summary": "Powtórzenie refrenu Hosanna po Benedictus, zamykające pieśń radosnym uwielbieniem Chrystusa.",
+      "bible": [
+        "Ps 118, 25-26",
+        "Mt 21, 9",
+        "Mk 11, 9-10",
+        "J 12, 13"
+      ],
+      "text": [
+        "Hosanna, hosanna,",
+        "hosanna, hosanna.",
+        "",
+        "Hosanna na niebie wysokim,",
+        "Hosanna, hosanna!"
+      ]
+    },
+    {
+      "range": "1-28",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "święty",
+        "Jahwe",
+        "Sabaoth",
+        "hosanna",
+        "błogosławiony",
+        "Pan",
+        "Bóg",
+        "Mesjasz",
+        "Jezus Chrystus",
+        "chwała",
+        "majestat",
+        "adoracja",
+        "liturgia",
+        "niebo",
+        "ziemia",
+        "zbawienie"
+      ],
+      "summary": "Pieśń Sanctus w melodii palmowej, łącząca aklamację świętości Boga (Iz 6, 3) z radosnym okrzykiem mesjańskim (Ps 118); refreniczna struktura Hosanny nadaje jej charakter processyjny i paschalny.",
+      "bible": [
+        "Iz 6, 3",
+        "Ps 118, 25-26",
+        "Mt 21, 9",
+        "Mk 11, 9-10",
+        "J 12, 13",
+        "Ap 4, 8"
+      ]
+    }
+  ]
+}

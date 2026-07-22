@@ -1,0 +1,173 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:c17ff6ab05dce63e3781d001d409cea7f11e9b88cdce2943ef5afc9585781470",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "wybranie",
+        "patriarcha",
+        "Abraham",
+        "potomstwo",
+        "przymierze",
+        "obietnica",
+        "Bóg",
+        "Izrael",
+        "cud"
+      ],
+      "summary": "Bóg wybiera ojców Izraela i z niepłodnego starca rozmnaża potomstwo, okazując wierność przymierzu.",
+      "bible": [
+        "Joz 24, 2-4",
+        "Rdz 12, 1-2",
+        "Rdz 15, 5-6",
+        "Rdz 21, 1-3"
+      ],
+      "text": [
+        "Po tamtej stronie rzeki",
+        "wybrałem waszych ojców",
+        "i z niepłodnego starca",
+        "rozmnożyłem potomstwo.",
+        "Dalekie to jest od nas,",
+        "by opuścić naszego Boga,",
+        "który dokonał przeogromnych cudów",
+        "na naszych zdumionych oczach.",
+        ""
+      ]
+    },
+    {
+      "range": "10-18",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "niewola",
+        "Egipt",
+        "wyjście",
+        "ramię potężne",
+        "Morze Czerwone",
+        "cud",
+        "wyzwolenie",
+        "pascha",
+        "zbawienie"
+      ],
+      "summary": "Bóg wyprowadza naród z niewoli egipskiej i cudownie otwiera Morze Sitowia, dokonując zbawczego aktu wyzwolenia.",
+      "bible": [
+        "Joz 24, 5-7",
+        "Wj 14, 21-22",
+        "Wj 15"
+      ],
+      "text": [
+        "Naród niewolników",
+        "wywiodłem z egipskiej ziemi,",
+        "a ramieniem potężnym",
+        "otworzyłem Morze Sitowia.",
+        "Dalekie to jest od nas,",
+        "by opuścić naszego Boga,",
+        "który dokonał przeogromnych cudów",
+        "na naszych zdumionych oczach.",
+        ""
+      ]
+    },
+    {
+      "range": "19-27",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "pustynia",
+        "manna",
+        "karmienie",
+        "orzeł",
+        "skrzydła",
+        "opiek Boża",
+        "Eucharystia",
+        "sakrament"
+      ],
+      "summary": "Bóg karmi Izraela manną na pustyni i niesie go na skrzydłach orła — obraz Bożej opieki typologicznie wskazujący na Eucharystię.",
+      "bible": [
+        "Joz 24, 7",
+        "Wj 16",
+        "Pwt 32, 11",
+        "J 6, 49-51"
+      ],
+      "text": [
+        "Latami na pustyni",
+        "karmiłem was manną,",
+        "a na skrzydłach orła",
+        "przeniosłem was na drugą stronę gór.",
+        "Dalekie to jest od nas,",
+        "by opuścić naszego Boga,",
+        "który dokonał przeogromnych cudów",
+        "na naszych zdumionych oczach.",
+        ""
+      ]
+    },
+    {
+      "range": "28-35",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "ziemia obiecana",
+        "miasto",
+        "winnica",
+        "studnia",
+        "woda żywa",
+        "dar",
+        "Kanaan",
+        "przymierze",
+        "wierność",
+        "Jezus",
+        "sakrament chrztu"
+      ],
+      "summary": "Bóg daruje Izraelowi ziemię, miasta, winnice i studnie, których sami nie budowali — zapowiedź darów zbawienia i wody żywej w Chrystusie.",
+      "bible": [
+        "Joz 24, 8-13",
+        "Pwt 6, 10-12",
+        "J 4, 10-14",
+        "J 7, 37-38"
+      ],
+      "text": [
+        "I dałem wam piękną ziemię,",
+        "miasta nie budowane przez was,",
+        "winnice przez was nie sadzone,",
+        "studnie tryskające wodą żywą.",
+        "Dalekie to jest od nas,",
+        "by opuścić naszego Boga,",
+        "który dokonał przeogromnych cudów",
+        "na naszych zdumionych oczach."
+      ]
+    },
+    {
+      "range": "1-35",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "przymierze",
+        "wybranie",
+        "Abraham",
+        "patriarcha",
+        "exodus",
+        "wyjście",
+        "Morze Czerwone",
+        "manna",
+        "pustynia",
+        "ziemia obiecana",
+        "cud",
+        "wierność",
+        "Jahwe",
+        "Bóg",
+        "Izrael",
+        "Kościół"
+      ],
+      "summary": "Pieśń oparta na mowie Jozuego (Joz 24) stanowi litanijne wyznanie zbawczych dzieł Boga w historii Izraela — od powołania Abrahama, przez wyjście z Egiptu, dar manny, aż po wprowadzenie do Ziemi Obiecanej.",
+      "bible": [
+        "Joz 24, 2-18",
+        "Wj 14",
+        "Wj 16",
+        "Pwt 32, 11",
+        "J 6",
+        "J 4, 10-14"
+      ]
+    }
+  ]
+}

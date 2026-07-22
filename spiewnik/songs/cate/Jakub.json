@@ -1,0 +1,205 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:99eec582ddc172654e1891fc7bbd00705faf4c13dcf8a126a03d1c6064871732",
+  "songs_analysis": [
+    {
+      "type": "zwrotka",
+      "range": "1-10",
+      "keywords": [
+        "Jakub",
+        "noc",
+        "żona",
+        "dzieci",
+        "przeprawić się",
+        "bród",
+        "Jabbok",
+        "potok",
+        "mienie",
+        "sam",
+        "pozostać",
+        "powstać",
+        "zabrać"
+      ],
+      "bible": [
+        "Rdz 32, 23-24"
+      ],
+      "sentiment": "neutralny",
+      "summary": "Jakub pod osłoną nocy przeprawia rodzinę i dobytek przez bród Jabboku i zostaje sam",
+      "text": [
+        "Noc już zapadła,",
+        "gdy Jakub powstał,",
+        "zabrał swe żony",
+        "i wszystkie swe dzieci,",
+        "i przeprawił się przez bród Jabboku.",
+        "Kiedy już ich zabrał",
+        "i przeprawił przez potok,",
+        "przeniósł potem",
+        "całe swe mienie:",
+        "i pozostał sam jeden."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "11-19",
+      "keywords": [
+        "zmagać się",
+        "Bóg",
+        "jutrzenka",
+        "przemóc",
+        "staw biodrowy",
+        "zwichnąć",
+        "walka",
+        "zostawić",
+        "wstać",
+        "widząc",
+        "uderzyć"
+      ],
+      "bible": [
+        "Rdz 32, 25-26",
+        "Oz 12, 4-5"
+      ],
+      "sentiment": "pokutny",
+      "summary": "Tajemniczy przeciwnik zmaga się z Jakubem aż do świtu i rani go w staw biodrowy",
+      "text": [
+        "Wtedy ktoś zmagał się z nim.",
+        "Wtedy ktoś zmagał się z nim",
+        "aż do jutrzenki.",
+        "A widząc,",
+        "że nie może go przemóc,",
+        "uderzył w staw biodrowy,",
+        "a staw Jakuba się zwichnął",
+        "w czasie walki z nim.",
+        "Zostaw mnie, bo już wstaje jutrzenka."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "21-22",
+      "keywords": [
+        "zostawić",
+        "jutrzenka",
+        "wstać",
+        "wypuścić",
+        "błogosławić",
+        "Jakub",
+        "Bóg",
+        "upór",
+        "wiara",
+        "błaganie"
+      ],
+      "bible": [
+        "Rdz 32, 27"
+      ],
+      "sentiment": "błagalny",
+      "summary": "Jakub nie puszcza Bożego wysłannika, domagając się błogosławieństwa",
+      "text": [
+        "Zostaw mnie, bo już wstaje jutrzenka.",
+        "Ja nie wypuszczę Cię,"
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "23-27",
+      "keywords": [
+        "Bóg",
+        "zapytać",
+        "imię",
+        "Jakub",
+        "odpowiedzieć",
+        "wyznanie",
+        "tożsamość"
+      ],
+      "bible": [
+        "Rdz 32, 28"
+      ],
+      "sentiment": "neutralny",
+      "summary": "Bóg pyta Jakuba o imię, a ten wyznaje swoją tożsamość",
+      "text": [
+        "jeśli mnie nie pobłogosławisz.",
+        "A Bóg go zapytał:",
+        "„Jakie jest twe imię”",
+        "„Jakie jest twe imię”",
+        "„Jakub” odpowiedział on,"
+      ]
+    },
+    {
+      "type": "zakończenie",
+      "range": "28-39",
+      "keywords": [
+        "Jakub",
+        "Izrael",
+        "imię",
+        "Bóg",
+        "bezsilność",
+        "oparcie",
+        "potężny",
+        "zwyciężać",
+        "przymierze",
+        "tożsamość",
+        "powołanie",
+        "łaska",
+        "wybranie"
+      ],
+      "bible": [
+        "Rdz 32, 29",
+        "Rdz 35, 10",
+        "Rdz 17, 5"
+      ],
+      "sentiment": "radosny",
+      "summary": "Jakub otrzymuje nowe imię Izrael, które oznacza nową tożsamość, Boże oparcie i zwycięstwo",
+      "text": [
+        "„Jakub” odpowiedział on.",
+        "Nie będziesz zwał się już Jakubem.",
+        "Izrael, Izrael,",
+        "Izrael będzie twe imię.",
+        "Izrael: poznałeś swoją bezsilność.",
+        "Izrael: Bóg będzie twoim oparciem,",
+        "Izrael: potężny w Bogu,",
+        "Izrael: będziesz zwyciężać.",
+        "Izrael: poznałeś swoją bezsilność.",
+        "Izrael: Bóg będzie twoim oparciem.",
+        "Izrael, Izrael, Izrael,",
+        "Izrael będzie twe imię."
+      ]
+    },
+    {
+      "type": "całość",
+      "range": "1-39",
+      "keywords": [
+        "Jakub",
+        "Izrael",
+        "Bóg",
+        "zmagać się",
+        "jutrzenka",
+        "błogosławić",
+        "imię",
+        "bezsilność",
+        "oparcie",
+        "zwyciężać",
+        "przymierze",
+        "tożsamość",
+        "powołanie",
+        "walka",
+        "noc",
+        "potok",
+        "staw biodrowy",
+        "łaska",
+        "przeprawić się",
+        "sam",
+        "wybranie",
+        "przemóc",
+        "zwichnąć",
+        "odpowiedzieć",
+        "błaganie"
+      ],
+      "bible": [
+        "Rdz 32, 23-29",
+        "Rdz 35, 10",
+        "Oz 12, 4-5",
+        "Rdz 17, 5"
+      ],
+      "sentiment": "radosny",
+      "summary": "Pieśń opowiada historię walki Jakuba z Bogiem nad potokiem Jabbok, która prowadzi do przemiany, błogosławieństwa i nadania nowego imienia Izrael"
+    }
+  ]
+}

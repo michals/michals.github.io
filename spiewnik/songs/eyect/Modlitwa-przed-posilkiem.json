@@ -1,0 +1,165 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:b1c1d96980b7f79acc9dde53ec14a7bf0f4ebdb658fa4f1eb271e59a193e6af2",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "chleb",
+        "ubogi",
+        "radość",
+        "Panie",
+        "dziękczynienie",
+        "Bóg",
+        "Eucharystia",
+        "dziękować"
+      ],
+      "summary": "Bóg jest chlebem ubogich i radością wszystkich – dziękczynienie za dar chleba, który ma wymiar eucharystyczny i społeczny.",
+      "bible": [
+        "Ps 104,15",
+        "J 6,35",
+        "Mt 5,3"
+      ],
+      "text": [
+        "Ty jesteś chlebem ubogich,",
+        "jesteś radością dla wszystkich.",
+        "O, Panie, dzięki Ci.",
+        ""
+      ]
+    },
+    {
+      "range": "5-9",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "karmić",
+        "ptak",
+        "niebo",
+        "deszcz",
+        "wzrost",
+        "trawa",
+        "Panie",
+        "dziękczynienie",
+        "Bóg",
+        "Opatrzność",
+        "stworzenie"
+      ],
+      "summary": "Bóg karmi ptaki niebieskie, zsyła deszcz i daje wzrost trawie – dziękczynienie za Bożą Opatrzność w świecie przyrody.",
+      "bible": [
+        "Ps 104,27-28",
+        "Mt 6,26",
+        "Ps 147,8"
+      ],
+      "text": [
+        "Ty karmisz ptaki niebieskie,",
+        "posyłasz deszcz swój i dajesz wzrost trawie.",
+        "O, Panie, dzięki Ci,",
+        "o, Panie, dzięki Ci.",
+        ""
+      ]
+    },
+    {
+      "range": "10-13",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "biedny",
+        "szukać",
+        "siła",
+        "resztka",
+        "spiekota",
+        "radować",
+        "Jahwe",
+        "ubóstwo",
+        "ufność",
+        "Bóg"
+      ],
+      "summary": "Biedni szukają Boga w trudzie i spiekocie, by radować się w Jahwe. Obraz ubogich Pańskich (anawim) pokładających nadzieję w Bogu.",
+      "bible": [
+        "Ps 34,6",
+        "Iz 49,13",
+        "Sof 3,12"
+      ],
+      "text": [
+        "Biedni szukają Cię wkoło,",
+        "sił resztką idą w spiekocie",
+        "by się radować w Jahwe.",
+        ""
+      ]
+    },
+    {
+      "range": "14-17",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "moc",
+        "ramię",
+        "Szeol",
+        "władca",
+        "tron",
+        "zrzucić",
+        "święty",
+        "Jahwe",
+        "sąd",
+        "sprawiedliwość",
+        "wywyższenie"
+      ],
+      "summary": "Wezwanie Boga do objawienia mocy swego ramienia – zrzucenia złych władców z tronów do Szeolu. Pytanie retoryczne 'Któż święty jak Jahwe?' podkreśla Jego wyjątkową świętość i sprawiedliwość.",
+      "bible": [
+        "1 Sm 2,6-8",
+        "Łk 1,51-52",
+        "Ps 113,7-8",
+        "Wj 15,11"
+      ],
+      "text": [
+        "Pokaż moc swego ramienia,",
+        "zrzuć do Szeoluzłych władców z ich tronów.",
+        "Któż święty jak Jahwe,",
+        "któż święty jak Jahwe?"
+      ]
+    },
+    {
+      "range": "1-17",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "chleb",
+        "ubogi",
+        "radość",
+        "Panie",
+        "dziękczynienie",
+        "ptak",
+        "deszcz",
+        "trawa",
+        "biedny",
+        "szukać",
+        "Jahwe",
+        "moc",
+        "ramię",
+        "Szeol",
+        "władca",
+        "tron",
+        "święty",
+        "Bóg",
+        "Opatrzność",
+        "stworzenie",
+        "sąd",
+        "sprawiedliwość",
+        "Eucharystia"
+      ],
+      "summary": "Modlitwa przed posiłkiem (Beracha) łącząca dziękczynienie za chleb i Bożą Opatrzność w stworzeniu z motywem sądu nad złymi władcami. Bóg jest chlebem ubogich, karmi ptaki i trawę, ale też zrzuca władców z tronów. Pieśń ma wymiar eucharystyczny i społeczny, odwołuje się do Magnificat i tradycji żydowskiej berachy.",
+      "bible": [
+        "Ps 104,15",
+        "Ps 104,27-28",
+        "Mt 6,26",
+        "1 Sm 2,6-8",
+        "Łk 1,51-52",
+        "J 6,35",
+        "Wj 15,11",
+        "Ps 113,7-8"
+      ]
+    }
+  ]
+}

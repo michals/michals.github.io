@@ -1,0 +1,172 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:2d557f84de451c04d12a9832d8d23c3e9c82000d388f635db8d46f3d2c442b10",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Mędrzec",
+        "król",
+        "monarcha",
+        "Jezus Chrystus",
+        "żłób",
+        "tron",
+        "proroctwo",
+        "zgon",
+        "Narodzenie",
+        "pokora",
+        "królestwo"
+      ],
+      "summary": "Mędrcy spieszą zobaczyć Dziecię, które nie ma tronu ani berła, a proroctwo o Jego zgonie już się szerzy.",
+      "bible": [
+        "Mt 2, 1-2",
+        "Iz 53",
+        "Łk 2, 34-35"
+      ],
+      "text": [
+        "Mędrcy świata, monarchowie,",
+        "gdzie spiesznie dążycie?",
+        "Powiedzcież nam, trzej Królowie.",
+        "chcecie widzieć Dziecię?",
+        "Ono w żłobie, nie ma tronu",
+        "i berła nie dzierży,",
+        "a proroctwo Jego zgonu",
+        "już się w świecie szerzy.",
+        ""
+      ]
+    },
+    {
+      "range": "10-18",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "złość",
+        "Herod",
+        "prześladowanie",
+        "Dziecię",
+        "Mędrzec",
+        "Betlejem",
+        "gwiazda",
+        "Zbawiciel",
+        "nadzieja",
+        "odwaga"
+      ],
+      "summary": "Herod knuje spisek przeciw Dziecięciu, ale Mędrców nie odstrasza to – spieszą do Betlejem, ciesząc się nadzieją.",
+      "bible": [
+        "Mt 2, 3-10"
+      ],
+      "text": [
+        "Mędrcy świata, złość okrutna",
+        "Dziecię prześladuje,",
+        "wieść okropna, wieść to smutna,",
+        "Herod spisek knuje.",
+        "Nic monarchów nie odstrasza,",
+        "do Betlejem spieszą,",
+        "gwiazda Zbawcę im ogłasza,",
+        "nadzieją się cieszą.",
+        ""
+      ]
+    },
+    {
+      "range": "19-27",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Jezus Chrystus",
+        "pokłon",
+        "dar",
+        "kadzidło",
+        "mirra",
+        "złoto",
+        "ofiara",
+        "Król",
+        "Bóg",
+        "kapłan",
+        "prorok"
+      ],
+      "summary": "Mędrcy stają przed Maryją, biją czołem przed Jezusem i składają dary – złoto, kadzidło i mirrę.",
+      "bible": [
+        "Mt 2, 11"
+      ],
+      "text": [
+        "Przed Maryją stają społem,",
+        "niosą Panu dary.",
+        "Przed Jezusem biją czołem,",
+        "składają ofiary.",
+        "Trzykroć szczęśliwi Królowie,",
+        "któż wam nie zazdrości?",
+        "Cóż my damy, kto nam powie,",
+        "pałając z miłości?",
+        ""
+      ]
+    },
+    {
+      "range": "28-35",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "kapłan",
+        "dar",
+        "modlitwa",
+        "praca",
+        "miłość",
+        "serce",
+        "kadzidło",
+        "mirra",
+        "złoto",
+        "ofiara",
+        "Jezus Chrystus",
+        "adoracja"
+      ],
+      "summary": "W odpowiedzi na pytanie, co my możemy dać Jezusowi – ofiarujemy modlitwę, pracę i żar serca jako nasz dar troisty.",
+      "bible": [
+        "Rz 12, 1",
+        "Ps 51, 19",
+        "Mt 2, 11"
+      ],
+      "text": [
+        "Tak, jak każą nam kapłani,",
+        "damy dar troisty:",
+        "modły, pracę niosąc w dani",
+        "i żar serca czysty.",
+        "To kadzidło, mirrę, złoto",
+        "niesiem, Jezu, szczerze;",
+        "Co dajemy Ci z ochotą",
+        "od nas przyjm w ofierze."
+      ]
+    },
+    {
+      "range": "1-35",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Mędrzec",
+        "król",
+        "Jezus Chrystus",
+        "Narodzenie",
+        "pokłon",
+        "dar",
+        "złoto",
+        "kadzidło",
+        "mirra",
+        "adoracja",
+        "ofiara",
+        "Herod",
+        "gwiazda",
+        "Betlejem",
+        "Zbawiciel",
+        "Maryja"
+      ],
+      "summary": "Kolęda opisująca wędrówkę Mędrców do Betlejem, pokłon przed Jezusem i złożenie darów, zakończona wezwaniem do ofiarowania własnego serca i życia.",
+      "bible": [
+        "Mt 2, 1-12",
+        "Iz 53",
+        "Łk 2, 34-35",
+        "Rz 12, 1"
+      ]
+    }
+  ]
+}

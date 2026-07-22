@@ -1,0 +1,249 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:715a72aa71597020298e8f75dc8873a027786da1b7419ed7c75d64d4015712ea",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "błogosławić",
+        "Pan",
+        "chwała",
+        "chlubienie",
+        "pokorny",
+        "radość",
+        "uwielbienie"
+      ],
+      "summary": "Postanowienie błogosławienia Pana w każdym czasie i chlubienia się Nim, aby pokorni słysząc to radowali się.",
+      "bible": [
+        "Ps 34:2-3"
+      ],
+      "text": [
+        "Błogosławić będę Pana w każdym czasie,",
+        "na moich ustach zawsze Jego chwała;",
+        "będę chlubić się w Panu,",
+        "niech usłyszą pokorni i weselą się.",
+        ""
+      ]
+    },
+    {
+      "range": "6-9",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "Pan",
+        "wezwanie",
+        "szukanie",
+        "odpowiedź",
+        "uwolnienie",
+        "trwoga"
+      ],
+      "summary": "Wezwanie do wspólnego śpiewania Panu, bo On odpowiada szukającym Go i uwalnia od trwogi.",
+      "bible": [
+        "Ps 34:4-5"
+      ],
+      "text": [
+        "Śpiewajcie wraz ze Mną Panu,",
+        "śpiewajmy razem Jego imieniu,",
+        "bo szukałem Pana i mi odpowiedział",
+        "i od wszelkiej trwogi mnie uwolnił."
+      ]
+    },
+    {
+      "range": "10-14",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "błogosławić",
+        "Pan",
+        "chwała",
+        "chlubienie",
+        "pokorny",
+        "radość"
+      ],
+      "summary": "Powtórzenie refrenu o błogosławieniu Pana i chlubieniu się Nim.",
+      "bible": [
+        "Ps 34:2-3"
+      ],
+      "text": [
+        "Błogosławić będę Pana w każdym czasie,",
+        "na moich ustach zawsze Jego chwała;",
+        "będę chlubić się w Panu,",
+        "niech usłyszą pokorni i weselą się.",
+        ""
+      ]
+    },
+    {
+      "range": "15-18",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Anioł Pański",
+        "obóz",
+        "obrona",
+        "bojaźń Boża",
+        "zbawienie",
+        "biedak",
+        "wysłuchanie",
+        "uwolnienie",
+        "ucisk"
+      ],
+      "summary": "Anioł Pański broni bogobojnych, a Pan wysłuchuje wołanie biedaka i uwalnia go z ucisków.",
+      "bible": [
+        "Ps 34:8",
+        "Hbr 1:14"
+      ],
+      "text": [
+        "Anioł Pański stawia obóz warowny",
+        "wokół tych, co się Go boją, i ich zbawia;",
+        "oto biedak woła, a Pan go wysłuchuje",
+        "i uwalnia ze wszystkich jego ucisków."
+      ]
+    },
+    {
+      "range": "19-23",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "błogosławić",
+        "Pan",
+        "chwała",
+        "chlubienie",
+        "pokorny",
+        "radość"
+      ],
+      "summary": "Powtórzenie refrenu o błogosławieniu Pana i chlubieniu się Nim.",
+      "bible": [
+        "Ps 34:2-3"
+      ],
+      "text": [
+        "Błogosławić będę Pana w każdym czasie,",
+        "na moich ustach zawsze Jego chwała;",
+        "będę chlubić się w Panu,",
+        "niech usłyszą pokorni i weselą się.",
+        ""
+      ]
+    },
+    {
+      "range": "24-27",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "skosztować",
+        "zobaczyć",
+        "dobroć",
+        "Pan",
+        "szczęście",
+        "ucieczka",
+        "ufność"
+      ],
+      "summary": "Zaproszenie do doświadczenia dobroci Pana i szczęścia tych, którzy się u Niego chronią.",
+      "bible": [
+        "Ps 34:9",
+        "1P 2:3"
+      ],
+      "text": [
+        "Skosztujcie i zobaczcie, jak dobry jest Pan,",
+        "szczęśliwy człowiek, który chroni się u Niego.",
+        "Skosztujcie i zobaczcie, jak dobry jest Pan,",
+        "szczęśliwy człowiek, który chroni się u Niego."
+      ]
+    },
+    {
+      "range": "28-32",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "błogosławić",
+        "Pan",
+        "chwała",
+        "chlubienie",
+        "pokorny",
+        "radość"
+      ],
+      "summary": "Powtórzenie refrenu o błogosławieniu Pana i chlubieniu się Nim.",
+      "bible": [
+        "Ps 34:2-3"
+      ],
+      "text": [
+        "Błogosławić będę Pana w każdym czasie,",
+        "na moich ustach zawsze Jego chwała;",
+        "będę chlubić się w Panu,",
+        "niech usłyszą pokorni i weselą się.",
+        ""
+      ]
+    },
+    {
+      "range": "33-36",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "próba",
+        "sprawiedliwy",
+        "uwolnienie",
+        "wołanie",
+        "wysłuchanie",
+        "wybawienie",
+        "ucisk",
+        "opatrzność"
+      ],
+      "summary": "Sprawiedliwi przechodzą próby, lecz Pan ich uwalnia, wysłuchuje ich wołania i wybawia z ucisków.",
+      "bible": [
+        "Ps 34:20",
+        "Ps 34:18"
+      ],
+      "text": [
+        "Wiele jest prób, które czekają sprawiedliwego,",
+        "lecz ze wszystkich Pan go uwalnia;",
+        "wołają do Niego, a Pan ich wysłuchuje",
+        "i wybawia ze wszystkich ucisków."
+      ]
+    },
+    {
+      "range": "37-40",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "błogosławić",
+        "Pan",
+        "chwała",
+        "chlubienie",
+        "pokorny",
+        "radość"
+      ],
+      "summary": "Końcowe powtórzenie refrenu o błogosławieniu Pana.",
+      "bible": [
+        "Ps 34:2-3"
+      ],
+      "text": [
+        "Błogosławić będę Pana w każdym czasie,",
+        "na moich ustach zawsze Jego chwała;",
+        "będę chlubić się w Panu,",
+        "niech usłyszą pokorni i weselą się."
+      ]
+    },
+    {
+      "range": "1-40",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "błogosławienie",
+        "Pan",
+        "chwała",
+        "uwielbienie",
+        "dobroć",
+        "wybawienie",
+        "ucisk",
+        "próba",
+        "ufność",
+        "opatrzność"
+      ],
+      "summary": "Psalm 34 jest dziękczynną pieśnią o błogosławieniu Pana w każdym czasie, który wysłuchuje wołających, uwalnia z ucisków i okazuje swoją dobroć sprawiedliwym.",
+      "bible": [
+        "Ps 34"
+      ]
+    }
+  ]
+}

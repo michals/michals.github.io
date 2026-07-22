@@ -1,0 +1,207 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:5a8aa524718a946b6cdaddbe977a50a907702efbbb35f22876b80afbe016a49c",
+  "songs_analysis": [
+    {
+      "range": "1-8",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Jezus",
+        "miasto",
+        "głosić",
+        "Królestwo",
+        "tłum",
+        "wzruszenie",
+        "zmęczenie",
+        "znękanie",
+        "owca",
+        "pasterz",
+        "litość",
+        "Mt 9"
+      ],
+      "summary": "Narracja o Jezusie obchodzącym miasta i wioski, głoszącym Królestwo i litującym się nad zmęczonymi i znękanymi tłumami jak owcami bez pasterza.",
+      "bible": [
+        "Mt 9, 35-36",
+        "Mk 6, 34",
+        "Lb 27, 17",
+        "Ez 34, 5-6"
+      ],
+      "text": [
+        "Jezus obchodził wszystkie miasta",
+        "i od wioski do wioski przepowiadał Królestwo.",
+        "A widząc tłumy, które za nim szły,",
+        "wzruszył się;",
+        "bo były zmęczone,",
+        "bo były znękane,",
+        "jak owce bez pasterza.",
+        ""
+      ]
+    },
+    {
+      "range": "9-19",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Jezus",
+        "uczeń",
+        "żniwo",
+        "robotnik",
+        "Pan żniwa",
+        "posłać",
+        "wilk",
+        "owieczka",
+        "roztropność",
+        "wąż",
+        "gołębica",
+        "posłanie",
+        "misja",
+        "Mt 9",
+        "Mt 10",
+        "Kościół",
+        "apostoł"
+      ],
+      "summary": "Jezus wzywa do modlitwy o robotników na wielkie żniwo, posyła uczniów jak owce między wilki, nakazując roztropność węży i prostotę gołębi.",
+      "bible": [
+        "Mt 9, 37-38",
+        "Mt 10, 16",
+        "Łk 10, 2-3",
+        "J 4, 35"
+      ],
+      "text": [
+        "Wtedy Jezus rzekł do swych uczniów:",
+        "„Żniwo jest wielkie, naprawdę wielkie,",
+        "ale robotników jest mało.",
+        "Proście zatem tego, kto jest Panem żniwa,",
+        "aby posłał robotników na swe żniwo.()",
+        "A oto ja was posyłam,",
+        "jak owieczki między wilki;",
+        "bądźcie zatem roztropni            jako węże",
+        "i prości jako gołębie,",
+        "jako gołębie.",
+        ""
+      ]
+    },
+    {
+      "range": "20-25",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "torba",
+        "pieniądz",
+        "bagaż",
+        "sandał",
+        "głosić",
+        "Królestwo",
+        "bliskość",
+        "Jezus",
+        "zmartwychwstanie",
+        "misja",
+        "Mt 10",
+        "ubóstwo",
+        "ewangelizacja"
+      ],
+      "summary": "Instrukcje dla posłanych: wyrzeczenie się dóbr materialnych i głoszenie bliskości Królestwa oraz zmartwychwstałego Jezusa.",
+      "bible": [
+        "Mt 10, 9-10",
+        "Łk 10, 4",
+        "Mt 10, 7",
+        "Łk 9, 3"
+      ],
+      "text": [
+        "Nie noście torby ani pieniędzy,",
+        "ani bagaży, ani sandałów",
+        "i ogłaszajcie: Królestwo jest blisko,",
+        "Jezus zmartwychwstał, przychodzi z nami,",
+        "przychodzi z nami.",
+        ""
+      ]
+    },
+    {
+      "range": "26-47",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "ojciec",
+        "matka",
+        "syn",
+        "córka",
+        "Jezus",
+        "krzyż",
+        "naśladowanie",
+        "życie",
+        "śmierć",
+        "utrata",
+        "odnalezienie",
+        "Mt 10",
+        "uczeń",
+        "Bóg",
+        "Ojciec",
+        "posłanie",
+        "autorytet"
+      ],
+      "summary": "Warunki bycia uczniem Jezusa: miłość do Niego ponad więzi rodzinne, niesienie krzyża, utrata życia doczesnego dla Ewangelii — prowadząca do jego odnalezienia. Moc reprezentacji uczniów jest przedłużeniem autorytetu samego Jezusa i Boga.",
+      "bible": [
+        "Mt 10, 37-40",
+        "Łk 14, 26-27",
+        "Mt 16, 24-25",
+        "Łk 17, 33",
+        "J 12, 25",
+        "J 13, 20"
+      ],
+      "text": [
+        "A kto kocha ojca lub matkę bardziej niż mnie,",
+        "nie jest godzien mnie,",
+        "nie jest godzien mnie.",
+        "A kto kocha syna lub córkę bardziej niż mnie,",
+        "nie jest godzien mnie,",
+        "nie jest godzien mnie.",
+        "A kto nie bierze swego krzyża, a idzie za mną,",
+        "nie jest godzien mnie,",
+        "nie jest godzien mnie.",
+        "A kto szuka swego życia na tym świecie,",
+        "utraci je,",
+        "utraci je.",
+        "A kto traci swoje życie z miłości do mnie,",
+        "odnajdzie je,",
+        "odnajdzie je.",
+        "Kto słucha was,",
+        "ten słucha mnie.",
+        "Kto przyjmuje was,",
+        "przyjmuje mnie.",
+        "Kto przyjmuje mnie,",
+        "przyjmuje Boga,",
+        "przyjmuje Boga!”"
+      ]
+    },
+    {
+      "range": "1-47",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "Królestwo",
+        "uczeń",
+        "posłanie",
+        "misja",
+        "Mt 9",
+        "Mt 10",
+        "żniwo",
+        "krzyż",
+        "naśladowanie",
+        "miłość",
+        "głosić",
+        "ewangelizacja",
+        "Kościół",
+        "apostoł",
+        "zmartwychwstanie"
+      ],
+      "summary": "Pieśń oparta na Ewangelii Mt 9-10, ukazująca Jezusa litującego się nad tłumem, posyłającego uczniów z misją głoszenia Królestwa oraz stawiającego radykalne wymagania bycia Jego naśladowcą: miłość ponad wszystko i gotowość na krzyż.",
+      "bible": [
+        "Mt 9, 35 - 10, 40",
+        "Łk 10, 2-16"
+      ]
+    }
+  ]
+}

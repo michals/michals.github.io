@@ -1,0 +1,127 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:438864b379ad1ac83e9738f8f13f297e6f41ee3b33acf8449c73b811160cb6a4",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "błogosławić",
+        "dusza",
+        "Jahwe",
+        "święte imię",
+        "miłość",
+        "chwała",
+        "uwielbienie"
+      ],
+      "summary": "Wezwanie duszy do błogosławienia Jahwe i śpiewania Jego świętemu imieniu z wdzięcznością za Jego miłość.",
+      "bible": [
+        "Ps 103:1-2"
+      ],
+      "text": [
+        "Błogosław, duszo moja, Jahwe,",
+        "śpiewaj święte imię Jego.",
+        "Błogosław, duszo moja, Jahwe,",
+        "nie zapominaj Jego miłości.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "odpuszczenie",
+        "wina",
+        "uzdrowienie",
+        "niemoc",
+        "wybawienie",
+        "śmierć",
+        "łaska",
+        "miłość",
+        "miłosierdzie"
+      ],
+      "summary": "Bóg odpuszcza winy, leczy niemoce, wybawia od śmierci i wypełnia łaską i miłością.",
+      "bible": [
+        "Ps 103:3-4"
+      ],
+      "text": [
+        "On odpuszcza wszystkie twoje winy,",
+        "leczy wszystkie twe niemoce,",
+        "życie twe wybawia od śmierci,",
+        "wypełnia cię łaską i miłością.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "sprawiedliwość",
+        "obrona",
+        "pokorny",
+        "Mojżesz",
+        "droga",
+        "Izrael",
+        "dzieła",
+        "objawienie"
+      ],
+      "summary": "Pan okazuje sprawiedliwość, broni pokornych, objawił Mojżeszowi swoje drogi i Izraelowi swoje dzieła.",
+      "bible": [
+        "Ps 103:6-7",
+        "Wj 33:13"
+      ],
+      "text": [
+        "On oddaje ci sprawiedliwość,",
+        "broni najpokorniejszych,",
+        "Mojżesza nauczył dróg swoich,",
+        "Izraelowi pokazał swe dzieła.",
+        ""
+      ]
+    },
+    {
+      "range": "16-19",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "błogosławić",
+        "dusza",
+        "Jahwe",
+        "święte imię",
+        "miłość",
+        "pamięć"
+      ],
+      "summary": "Powtórne wezwanie duszy do błogosławienia Jahwe i nie zapominania Jego miłości.",
+      "bible": [
+        "Ps 103:1-2"
+      ],
+      "text": [
+        "Błogosław, duszo moja, Jahwe,",
+        "śpiewaj święte imię Jego.",
+        "Błogosław, duszo moja, Jahwe,",
+        "nie zapominaj Jego miłości."
+      ]
+    },
+    {
+      "range": "1-19",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "błogosławienie",
+        "Jahwe",
+        "miłosierdzie",
+        "odpuszczenie",
+        "sprawiedliwość",
+        "chwała",
+        "dziękczynienie",
+        "łaska"
+      ],
+      "summary": "Psalm 103 jest dziękczynnym wezwaniem duszy do błogosławienia Jahwe za Jego miłosierdzie, odpuszczenie win, uzdrowienie i sprawiedliwość.",
+      "bible": [
+        "Ps 103"
+      ]
+    }
+  ]
+}

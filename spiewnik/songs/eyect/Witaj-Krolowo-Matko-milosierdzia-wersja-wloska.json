@@ -1,0 +1,138 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:025405532f7486136fee3f7e94acdb183233e70be151541f86225e39c9e14032",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "królowa",
+        "matka",
+        "miłosierdzie",
+        "życie",
+        "słodycz",
+        "nadzieja",
+        "Maryja",
+        "Jezus"
+      ],
+      "summary": "Uroczyste powitanie Maryi jako Królowej, Matki Miłosierdzia, życia, słodyczy i nadziei ludu Bożego.",
+      "bible": [
+        "Łk 1,28",
+        "Łk 1,42"
+      ],
+      "text": [
+        "Witaj Królowo, Matko Miłosierdzia,",
+        "życie, słodyczy i nadziejo nasza,",
+        "witaj."
+      ]
+    },
+    {
+      "range": "4-6",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wygnańcy",
+        "syn",
+        "Ewa",
+        "płacz",
+        "łzy",
+        "padół",
+        "ziemia",
+        "grzech",
+        "Maryja"
+      ],
+      "summary": "Wołanie wygnańców – synów Ewy – jęczących i płaczących na tym łez padole, wzywających Maryi.",
+      "bible": [
+        "Rdz 3,17-19"
+      ],
+      "text": [
+        "Do Ciebie wołamy wygnańcy, synowie Ewy,",
+        "do Ciebie wzdychamy jęcząc i płacząc",
+        "na tym łez padole, na tym łez padole."
+      ]
+    },
+    {
+      "range": "7-12",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "orędowniczka",
+        "miłosierdzie",
+        "oczy",
+        "wygnanie",
+        "Jezus",
+        "błogosławiony",
+        "owoc",
+        "łono",
+        "łaska",
+        "litość",
+        "słodki",
+        "Panna",
+        "Maryja"
+      ],
+      "summary": "Prośba do Maryi Orędowniczki o spojrzenie miłosiernym okiem i ukazanie Jezusa po wygnaniu.",
+      "bible": [
+        "Łk 1,42",
+        "J 2,1-11"
+      ],
+      "text": [
+        "Przeto, Orędowniczko nasza,",
+        "zwróć na nas twoje miłosierne oczy,",
+        "a po tym wygnaniu okaż nam, Jezusa,",
+        "błogosławiony owoc Twego łona,",
+        "O najłaskawsza, o litościwa,",
+        "o słodka Panno Maryjo!"
+      ]
+    },
+    {
+      "range": "13-15",
+      "type": "zakończenie",
+      "sentiment": "błagalny",
+      "keywords": [
+        "modlitwa",
+        "Boża Rodzicielka",
+        "obietnica",
+        "Jezus Chrystus",
+        "godność",
+        "Maryja",
+        "Kościół"
+      ],
+      "summary": "Wezwanie do świętej Bożej Rodzicielki o modlitwę, aby wierni stali się godni obietnic Jezusa Chrystusa.",
+      "bible": [
+        "J 2,1-11",
+        "Dz 1,14"
+      ],
+      "text": [
+        "Módl się za nami święta Boża Rodzicielko,",
+        "abyśmy się stali godni osiągnąć obietnice,",
+        "Jezusa Chrystusa, Jezusa Chrystusa."
+      ]
+    },
+    {
+      "range": "1-15",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "królowa",
+        "matka",
+        "miłosierdzie",
+        "życie",
+        "nadzieja",
+        "wygnańcy",
+        "grzech",
+        "Jezus",
+        "orędowniczka",
+        "modlitwa",
+        "zbawienie",
+        "obietnica"
+      ],
+      "summary": "Parafraza antyfony maryjnej 'Salve Regina' – pokorne wołanie Kościoła pielgrzymującego do Maryi, Matki Miłosierdzia i Orędowniczki, z prośbą o wstawiennictwo i ukazanie Jezusa po ziemskim wygnaniu.",
+      "bible": [
+        "Łk 1,26-56",
+        "J 19,26-27"
+      ]
+    }
+  ]
+}

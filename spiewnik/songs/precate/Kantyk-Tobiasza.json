@@ -1,0 +1,222 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:6a78fda31af090eeb4ab8680c9a12d872dd6d97b2adb22a3aa178569e069e74b",
+  "songs_analysis": [
+    {
+      "range": "1-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "dusza",
+        "Pan",
+        "Król",
+        "Jerozolima",
+        "odbudowa",
+        "Kościół",
+        "nowe Jeruzalem"
+      ],
+      "summary": "Dusza błogosławi Pana i wielkiego Króla, ponieważ Jerozolima zostanie odbudowana na zawsze — zapowiedź nowego Jeruzalem w Apokalipsie.",
+      "bible": [
+        "Tb 13, 9-11",
+        "Ap 21, 2-4"
+      ],
+      "text": [
+        "Błogosław duszo moja Pana,",
+        "błogosław duszo moja wielkiego Króla,",
+        "albowiem będzie odbudowana",
+        "Jerozolima, Jerozolima.",
+        "Jerozolima, Jerozolima,",
+        "Jerozolima, Jerozolima,",
+        "Jerozolima odbudowana,",
+        "Jerozolima na zawsze."
+      ]
+    },
+    {
+      "range": "9-17",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "brama",
+        "szafir",
+        "szmaragd",
+        "kamień",
+        "złoto",
+        "rubin",
+        "Ofir",
+        "radość",
+        "śpiew",
+        "Jerozolima",
+        "chwała",
+        "Kościół",
+        "Niebo"
+      ],
+      "summary": "Odbudowana Jerozolima jaśnieje szafirami, szmaragdami i złotem — obraz chwalebnego Kościoła niebieskiego i duszy ozdobionej łaską.",
+      "bible": [
+        "Tb 13, 12-13",
+        "Ap 21, 18-21",
+        "Iz 54, 11-12"
+      ],
+      "text": [
+        "Twoje bramy będą odbudowane",
+        "z szafiru i ze szmaragdu,",
+        "z cennych kamieni twoje mury,",
+        "twoje wieże z czystego złota.",
+        "Twoje place błyszczą rubinem,",
+        "twe ulice złotem z Ofiru,",
+        "w twoich bramach będzie radość,",
+        "w twoich domach zabrzmi śpiew:",
+        "Jerozolima …"
+      ]
+    },
+    {
+      "range": "18-22",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "światło",
+        "krańce ziemi",
+        "ludy",
+        "narody",
+        "mieszkanie",
+        "imię",
+        "powszechność",
+        "misja",
+        "Kościół"
+      ],
+      "summary": "Światło Jerozolimy sięga krańców ziemi, a liczne ludy przybywają do miejsca przebywania imienia Bożego — obraz powszechności zbawienia.",
+      "bible": [
+        "Tb 13, 14",
+        "Iz 60, 3",
+        "Mt 28, 19",
+        "Ap 21, 24"
+      ],
+      "text": [
+        "Twoje światło dotrze               aż do krańców ziemi,",
+        "przyjdą do ciebie liczne ludy,",
+        "mieszkańcy wielu narodów",
+        "do miejsca, gdzie przebywa twe imię.",
+        ""
+      ]
+    },
+    {
+      "range": "23-27",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pokolenie",
+        "naród",
+        "śpiew",
+        "imię",
+        "Wybrany",
+        "Jezus Chrystus",
+        "Mesjasz",
+        "wieczność"
+      ],
+      "summary": "Wszystkie pokolenia i narody śpiewają na cześć imienia Twego Wybranego — mesjańskie uwielbienie Chrystusa przez wszystkie ludy.",
+      "bible": [
+        "Tb 13, 15-16",
+        "Flp 2, 9-11",
+        "Ap 7, 9-10"
+      ],
+      "text": [
+        "Pokolenia radować się będą,",
+        "wszystkie narody śpiewać ci będą",
+        "i w niej imię Twego Wybranego",
+        "będzie na zawsze, będzie na zawsze.",
+        "Jerozolima …"
+      ]
+    },
+    {
+      "range": "28-42",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "przekleństwo",
+        "zniszczenie",
+        "błogosławieństwo",
+        "odbudowa",
+        "miłość",
+        "pokój",
+        "radość",
+        "brama",
+        "śpiew",
+        "sprawiedliwość"
+      ],
+      "summary": "Przeklęci niszczyciele Jerozolimy, błogosławieni jej odbudowujący i miłujący — nauka o Bożej sprawiedliwości i nagrodzie za wierność.",
+      "bible": [
+        "Tb 13, 17",
+        "Ps 137, 7-8",
+        "Mt 5, 9",
+        "Mt 25, 34-40"
+      ],
+      "text": [
+        "Przeklęci, którzy mówią ci słowa okrutne;",
+        "przeklęci, którzy cię niszczą,",
+        "którzy burzą twoje mury",
+        "i równają z ziemią twoje wieże.",
+        "Ale błogosławieni,",
+        "błogosławieni na zawsze",
+        "ci, którzy cię odbudowują,",
+        "ci, którzy cię wznoszą na nowo,",
+        "błogosławieni, którzy cię miłują,",
+        "którzy cieszą się z twego pokoju.",
+        "Bo w twoich bramach będzie radość,",
+        "w twoich domach zabrzmi śpiew.",
+        "W twoich bramach będzie radość,",
+        "w twoich domach zabrzmi śpiew.",
+        "Jerozolima …"
+      ]
+    },
+    {
+      "range": "43-44",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja",
+        "uwielbienie",
+        "chwała",
+        "radość",
+        "wielkanoc",
+        "zmartwychwstanie"
+      ],
+      "summary": "Wielokrotne 'Alleluja' jako radosne, paschalne zakończenie pieśni — liturgiczny okrzyk uwielbienia.",
+      "bible": [
+        "Ps 150",
+        "Ap 19, 1-6"
+      ],
+      "text": [
+        "Alleluja, alleluja, alleluja, alleluja,",
+        "alleluja, alleluja, alleluja, alleluja."
+      ]
+    },
+    {
+      "range": "1-44",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jerozolima",
+        "odbudowa",
+        "chwała",
+        "błogosławieństwo",
+        "narody",
+        "światło",
+        "Wybrany",
+        "Mesjasz",
+        "pokój",
+        "radość",
+        "alleluja",
+        "Kościół",
+        "nowe Jeruzalem"
+      ],
+      "summary": "Pieśń oparta na kantyku Tobiasza (Tb 13) jest proroczą wizją odbudowanej i chwalebnej Jerozolimy, do której przybywają wszystkie narody, co typologicznie wypełnia się w Kościele i nowym Jeruzalem z Apokalipsy.",
+      "bible": [
+        "Tb 13, 9-18",
+        "Ap 21",
+        "Iz 60",
+        "Ap 7, 9-10",
+        "Ap 19, 1-6"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:f9bfd8bd11d590b5774cfc00d651a1a696e2e357ef3ab43801975167aa559f4a",
+  "songs_analysis": [
+    {
+      "type": "zwrotka",
+      "range": "1-19",
+      "keywords": [
+        "służyć",
+        "pan",
+        "kochać",
+        "wzgardzić",
+        "Bóg",
+        "pieniądz",
+        "martwić się",
+        "życie",
+        "jeść",
+        "pić",
+        "ubrać się",
+        "ciało",
+        "ptak",
+        "niebo",
+        "siać",
+        "żniwować",
+        "Ojciec",
+        "żywić",
+        "lilia",
+        "pole",
+        "prząść",
+        "tkać",
+        "Salomon",
+        "starać się",
+        "przedłużyć"
+      ],
+      "bible": [
+        "Mt 6, 24-29",
+        "Łk 12, 22-27"
+      ],
+      "sentiment": "radosny",
+      "summary": "Jezus uczy, że nie można służyć Bogu i pieniądzowi, i zachęca do ufności wobec Ojca, który żywi ptaki i przyodziewa lilie",
+      "text": [
+        "Nikt nie może,",
+        "nie może służyć dwom panom,",
+        "bo kochając jednego, wzgardzi drugim.",
+        "Nie możecie służyć Bogu i pieniądzowi!",
+        "Dlatego wam mówię:",
+        "Nie martwcie się o swoje życie,",
+        "co będziecie jedli, co będziecie pili,",
+        "w co się ubierzecie;",
+        "czy życie nie znaczy więcej niż jedzenie?",
+        "A może wasze ciało nie znaczy więcej niż ubranie?",
+        "Popatrzcie na ptaki niebieskie:",
+        "nie sieją i nie żniwują,",
+        "a jednak wasz Ojciec je żywi!",
+        "A któż z was, choćby nie wiem jak się starał,",
+        "może przedłużyć o chwilę swoje życie?",
+        "A o ubranie czemu się martwicie?",
+        "Przypatrzcie się liliom na polu:",
+        "nie przędą i nie tkają,",
+        "Salomon nie ubierał się jak one!"
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "21-30",
+      "keywords": [
+        "szukać",
+        "Królestwo",
+        "Boży",
+        "dać",
+        "służyć",
+        "pan",
+        "Bóg",
+        "pieniądz",
+        "wszystko"
+      ],
+      "bible": [
+        "Mt 6, 24.33"
+      ],
+      "sentiment": "radosny",
+      "summary": "Wezwanie do szukania Królestwa Bożego i przypomnienie, że nie można służyć Bogu i pieniądzowi",
+      "text": [
+        "Szukajcie najpierw Królestwa Bożego,",
+        "a wszystko będzie wam dane.",
+        "Nie możecie służyć Bogu i pieniądzowi!",
+        "Szukajcie Królestwa Bożego,",
+        "a wszystko będzie wam dane.",
+        "Nie możecie służyć dwom panom!",
+        "Nikt nie może,",
+        "nie może służyć dwom panom,",
+        "bo kochając jednego, wzgardzi drugim.",
+        "Nie możecie służyć Bogu i pieniądzowi!"
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "32-34",
+      "keywords": [
+        "ptak",
+        "niebo",
+        "siać",
+        "żniwować",
+        "Ojciec",
+        "żywić",
+        "Opatrzność",
+        "troska"
+      ],
+      "bible": [
+        "Mt 6, 26"
+      ],
+      "sentiment": "radosny",
+      "summary": "Powtórzenie obrazu ptaków niebieskich, które są karmione przez Ojca",
+      "text": [
+        "Popatrzcie na ptaki niebieskie:",
+        "nie sieją i nie żniwują,",
+        "a jednak wasz Ojciec je żywi!"
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "36-38",
+      "keywords": [
+        "lilia",
+        "pole",
+        "prząść",
+        "tkać",
+        "Salomon",
+        "ubierać się",
+        "chwała",
+        "Boże dzieło"
+      ],
+      "bible": [
+        "Mt 6, 28-29"
+      ],
+      "sentiment": "radosny",
+      "summary": "Powtórzenie obrazu lilii polnych, które przewyższają przepychem Salomona",
+      "text": [
+        "Przypatrzcie się liliom na polu:",
+        "nie przędą i nie tkają,",
+        "Salomon nie ubierał się jak one!"
+      ]
+    },
+    {
+      "type": "zakończenie",
+      "range": "40-42",
+      "keywords": [
+        "szukać",
+        "Królestwo",
+        "Boży",
+        "dać",
+        "wszystko",
+        "służyć",
+        "pan",
+        "ufność",
+        "pierwszeństwo"
+      ],
+      "bible": [
+        "Mt 6, 33"
+      ],
+      "sentiment": "radosny",
+      "summary": "Ostateczne wezwanie do szukania Królestwa Bożego i odrzucenia podziału służby między Bogiem a pieniądzem",
+      "text": [
+        "Szukajcie Królestwa Bożego,",
+        "a wszystko będzie wam dane.",
+        "Nie możecie służyć dwom panom!"
+      ]
+    },
+    {
+      "type": "całość",
+      "range": "1-42",
+      "keywords": [
+        "Bóg",
+        "pieniądz",
+        "służyć",
+        "Królestwo",
+        "szukać",
+        "ufność",
+        "Opatrzność",
+        "ptak",
+        "lilia",
+        "Ojciec",
+        "żywić",
+        "martwić się",
+        "troska",
+        "ubranie",
+        "jedzenie",
+        "życie",
+        "Salomon",
+        "pole",
+        "niebo",
+        "wolność",
+        "pierwszeństwo",
+        "dar",
+        "wszystko",
+        "chwila",
+        "starać się"
+      ],
+      "bible": [
+        "Mt 6, 24-33",
+        "Łk 12, 22-31"
+      ],
+      "sentiment": "radosny",
+      "summary": "Pieśń oparta na Ewangelii wzywa do szukania najpierw Królestwa Bożego i ufności w Opatrzność, uwalniając od lęku o rzeczy materialne"
+    }
+  ]
+}

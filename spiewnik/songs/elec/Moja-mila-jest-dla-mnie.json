@@ -1,0 +1,356 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:c55b9bf9e3806e5331adca0774a44eec587a64fd2e371407737c6c200ca5dead",
+  "songs_analysis": [
+    {
+      "type": "zwrotka",
+      "range": "1-5",
+      "sentiment": "radosny",
+      "keywords": [
+        "mila",
+        "narcyz",
+        "Saron",
+        "roza",
+        "dolina"
+      ],
+      "bible": [
+        "Pnp 2,1"
+      ],
+      "summary": "Oblubienica określa się jako narcyz Saronu i roza rosnąca w dolinach.",
+      "text": [
+        "Moja miła",
+        "jest dla mnie,",
+        "- narcyz Saronu,",
+        "róża rosnąca w dolinach.",
+        ""
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "7-10",
+      "sentiment": "radosny",
+      "keywords": [
+        "mily",
+        "mirra",
+        "zapach",
+        "pierś"
+      ],
+      "bible": [
+        "Pnp 1,13-14"
+      ],
+      "summary": "Oblubienica mowi o Oblubieńcu jak o zapachu mirry spoczywającym na jej piersi.",
+      "text": [
+        "jest dla mnie",
+        "jak zapach mirry,",
+        "spoczywa na mej piersi.",
+        ""
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "12-14",
+      "sentiment": "radosny",
+      "keywords": [
+        "mila",
+        "lilia",
+        "cierń",
+        "dziewczę"
+      ],
+      "bible": [
+        "Pnp 2,2"
+      ],
+      "summary": "Oblubieniec określa Oblubienicę jako lilię wśrod cierni.",
+      "text": [
+        "jest dla mnie,",
+        "jak lilia wśród cierni,",
+        "tak moja miła jest pośród dziewcząt."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "16-19",
+      "sentiment": "radosny",
+      "keywords": [
+        "mily",
+        "henna",
+        "grono",
+        "winnica",
+        "En-gaddi"
+      ],
+      "bible": [
+        "Pnp 1,14"
+      ],
+      "summary": "Oblubienica mowi o Oblubieńcu jak o gronie henny w winnicach En-gaddi.",
+      "text": [
+        "Mój miły",
+        "jest dla mnie",
+        "jak grono henny,",
+        "w winnicach En-gaddi."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "21-22",
+      "sentiment": "radosny",
+      "keywords": [
+        "piękna",
+        "kochana",
+        "piekna"
+      ],
+      "bible": [
+        "Pnp 1,15"
+      ],
+      "summary": "Oblubieniec wyznaje: 'Jak piękna jesteś, kochana moja'.",
+      "text": [
+        "Jak piękna jesteś, kochana moja,",
+        "o jakże piękna, o jakże piękna!"
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "24",
+      "sentiment": "radosny",
+      "keywords": [
+        "oczy",
+        "golebica"
+      ],
+      "bible": [
+        "Pnp 1,15"
+      ],
+      "summary": "Oblubieniec: 'Twoje oczy jak gołębice'.",
+      "text": [
+        "Twoje oczy jak gołębice."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "26-27",
+      "sentiment": "radosny",
+      "keywords": [
+        "piekny",
+        "ukochany",
+        "uroczy"
+      ],
+      "bible": [
+        "Pnp 1,16"
+      ],
+      "summary": "Oblubienica: 'Jak jesteś piękny moj ukochany, o jak uroczy'.",
+      "text": [
+        "Jak jesteś piękny mój ukochany,",
+        "o jak uroczy, o jak uroczy!"
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "29",
+      "sentiment": "radosny",
+      "keywords": [
+        "loze",
+        "zieleń"
+      ],
+      "bible": [
+        "Pnp 1,16"
+      ],
+      "summary": "Oblubienica: 'A nasze łoże jest z zieleni'.",
+      "text": [
+        "A nasze łoże jest z zieleni."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "31-45",
+      "sentiment": "radosny",
+      "keywords": [
+        "jabłoń",
+        "drzewo",
+        "las",
+        "umilowany",
+        "młodzieniec",
+        "cień",
+        "owoc",
+        "slodycz",
+        "podniebienie",
+        "wino",
+        "komnata",
+        "sztandar",
+        "miłość",
+        "sala biesiadna",
+        "reka",
+        "glowa",
+        "obejmowanie",
+        "zaklinanie",
+        "corka jerozolimska",
+        "budzenie"
+      ],
+      "bible": [
+        "Pnp 2,3-7"
+      ],
+      "summary": "Oblubienica: Oblubieniec jak jabłoń wśrod drzew, w Jego cieniu usiadła, owoc slodki. Wprowadził ja do komnaty z winem, a jego sztandarem jest miłość. Lewa reka pod jej glową, prawa obejmuje. Zaklina corki jerozolimskie, by nie budzily miłości, dopoki nie zechce.",
+      "text": [
+        "Jak jabłoń pośród drzew leśnych,",
+        "tak jest mój umiłowany,",
+        "mój umiłowany wśród młodzieńców.",
+        "W upragnionym jego cieniu usiadłam,",
+        "a owoc jego jest słodki,",
+        "o jakże słodki memu podniebieniu!",
+        "Wprowadził mnie do komnaty z winem,",
+        "a jego sztandarem nade mną jest miłość;",
+        "wprowadził mnie do sali biesiadnej,",
+        "a jego sztandarem nade mną jest miłość;",
+        "lewa jego ręka pod moją głową,",
+        "a prawą mnie obejmuje.",
+        "Ja zaklinam was, o córki jerozolimskie,",
+        "nie budźcie, nie rozbudzajcie miłości,",
+        "dopóki nie zechce sama."
+      ]
+    },
+    {
+      "type": "fragment",
+      "range": "1-19",
+      "sentiment": "radosny",
+      "keywords": [
+        "mila",
+        "mily",
+        "narcyz",
+        "roza",
+        "lilia",
+        "mirra",
+        "henna",
+        "Saron",
+        "En-gaddi",
+        "piękno",
+        "wzajemność",
+        "określenia miłości"
+      ],
+      "bible": [
+        "Pnp 1,13-14",
+        "Pnp 2,1-2"
+      ],
+      "summary": "Wzajemne określenia miłości: Oblubienica jako narcyz i roza, Oblubieniec jako mirra i henna - wzajemne poszukiwanie i afirmacja.",
+      "text": [
+        "Moja miła",
+        "jest dla mnie,",
+        "- narcyz Saronu,",
+        "róża rosnąca w dolinach.",
+        "",
+        "Mój miły",
+        "jest dla mnie",
+        "jak zapach mirry,",
+        "spoczywa na mej piersi.",
+        "",
+        "Moja miła",
+        "jest dla mnie,",
+        "jak lilia wśród cierni,",
+        "tak moja miła jest pośród dziewcząt.",
+        "",
+        "Mój miły",
+        "jest dla mnie",
+        "jak grono henny,",
+        "w winnicach En-gaddi."
+      ]
+    },
+    {
+      "type": "fragment",
+      "range": "21-29",
+      "sentiment": "radosny",
+      "keywords": [
+        "piękna",
+        "piekny",
+        "oczy",
+        "golebica",
+        "loze",
+        "zieleń",
+        "uroczy",
+        "wzajemny zachwyt"
+      ],
+      "bible": [
+        "Pnp 1,15-16"
+      ],
+      "summary": "Wzajemny zachwyt Oblubieńca i Oblubienicy nad swoim pięknem oraz obraz loza miłości z zieleni.",
+      "text": [
+        "Jak piękna jesteś, kochana moja,",
+        "o jakże piękna, o jakże piękna!",
+        "",
+        "Twoje oczy jak gołębice.",
+        "",
+        "Jak jesteś piękny mój ukochany,",
+        "o jak uroczy, o jak uroczy!",
+        "",
+        "A nasze łoże jest z zieleni."
+      ]
+    },
+    {
+      "type": "fragment",
+      "range": "31-45",
+      "sentiment": "radosny",
+      "keywords": [
+        "jabłoń",
+        "komnata",
+        "wino",
+        "sztandar",
+        "miłość",
+        "zjednoczenie",
+        "zaklęcie",
+        "corka jerozolimska"
+      ],
+      "bible": [
+        "Pnp 2,3-7"
+      ],
+      "summary": "Pełne zjednoczenie: Oblubieniec jak jabłoń daje cień i slodki owoc, prowadzi do komnaty biesiadnej pod sztandarem miłości, a na koniec Oblubienica zaklina, by nie budzić miłości przed czasem.",
+      "text": [
+        "Jak jabłoń pośród drzew leśnych,",
+        "tak jest mój umiłowany,",
+        "mój umiłowany wśród młodzieńców.",
+        "W upragnionym jego cieniu usiadłam,",
+        "a owoc jego jest słodki,",
+        "o jakże słodki memu podniebieniu!",
+        "Wprowadził mnie do komnaty z winem,",
+        "a jego sztandarem nade mną jest miłość;",
+        "wprowadził mnie do sali biesiadnej,",
+        "a jego sztandarem nade mną jest miłość;",
+        "lewa jego ręka pod moją głową,",
+        "a prawą mnie obejmuje.",
+        "Ja zaklinam was, o córki jerozolimskie,",
+        "nie budźcie, nie rozbudzajcie miłości,",
+        "dopóki nie zechce sama."
+      ]
+    },
+    {
+      "type": "całość",
+      "range": "1-45",
+      "sentiment": "radosny",
+      "keywords": [
+        "mila",
+        "mily",
+        "oblubieniec",
+        "oblubienica",
+        "miłość",
+        "narcyz",
+        "roza",
+        "lilia",
+        "mirra",
+        "henna",
+        "jabłoń",
+        "wino",
+        "sztandar",
+        "loze",
+        "oczy",
+        "golebica",
+        "komnata",
+        "corka jerozolimska",
+        "zjednoczenie",
+        "slodycz",
+        "cień",
+        "owoc",
+        "piesń nad piesniami",
+        "zaklęcie"
+      ],
+      "bible": [
+        "Pnp 1,13-16 (mirra, henna, En-gaddi, piękno wzajemne, loze z zieleni)",
+        "Pnp 2,1-7 (narcyz Saronu, roza, lilia, jabłoń, cień, owoc, komnata z winem, sztandar miłości, zaklęcie corek jerozolimskich)",
+        "Typologia: Oblubieniec = Chrystus, Oblubienica = Kościół/dusza; jabłoń = krzyż/drzewo życia; komnata z winem = Eucharystia; sztandar miłości = miłość Chrystusa na krzyżu; zaklęcie niebudzenia miłości = szacunek dla Bożego czasu i tajemnicy"
+      ],
+      "summary": "Pieśń oparta na Pnp 1,13-16 i 2,1-7, przedstawiająca naprzemienne wyznania miłości Oblubieńca (Chrystusa) i Oblubienicy (Kościoła/duszy). Od wzajemnych określeń (narcyz Saronu, mirra, lilia, henna) poprzez zachwyt pięknem aż do pełnego zjednoczenia w komnacie biesiadnej, gdzie sztandarem jest miłość, a utwór zamyka uroczyste zaklęcie nienaruszenia tej miłości."
+    }
+  ]
+}

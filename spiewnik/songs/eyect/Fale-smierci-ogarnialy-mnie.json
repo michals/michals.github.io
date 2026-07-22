@@ -1,0 +1,229 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:52f14ef81424f390e6bf5a5cac5f5c4659c93b184d5525dbfde49ae593539c7a",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "fala",
+        "śmierć",
+        "przerażać",
+        "trąba",
+        "Belial",
+        "pęta",
+        "szeol",
+        "sidło",
+        "pochwycić"
+      ],
+      "summary": "Obraz śmiertelnego niebezpieczeństwa: fale śmierci, pęta Szeolu i sidła Beliala ogarniają psalmistę (Ps 18,5-6).",
+      "bible": [
+        "Ps 18,5-6"
+      ],
+      "text": [
+        "Fale śmierci ogarniały mnie,",
+        "przerażały mnie trąby Beliala,",
+        "ściskały mnie pęta szeolu,",
+        "pochwycony byłem w sidła śmierci."
+      ]
+    },
+    {
+      "range": "5-6",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "Wskazówka wykonawcza: melodia a) – linia 1-4.",
+      "bible": [],
+      "text": [
+        "melodia a)",
+        ""
+      ]
+    },
+    {
+      "range": "7-10",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "onda",
+        "morte",
+        "Belial",
+        "Sheol",
+        "ceppo",
+        "morte"
+      ],
+      "summary": "Włoska wersja pierwszej zwrotki – fale śmierci i sidła Szeolu.",
+      "bible": [
+        "Ps 18,5-6"
+      ],
+      "text": [
+        "Le onde della morte mi avvolgevano,",
+        "mi spaventavano le trombe di Belial,",
+        "mi stringevano i lacci dello Sheol,",
+        "ero preso nei ceppi della morte."
+      ]
+    },
+    {
+      "range": "11-12",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "Wskazówka wykonawcza: melodia b) – linia 7-10.",
+      "bible": [],
+      "text": [
+        "melodia b)",
+        ""
+      ]
+    },
+    {
+      "range": "13-18",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wołać",
+        "Pan",
+        "udręczenie",
+        "Bóg",
+        "przyzywać",
+        "usłyszeć",
+        "głos",
+        "świątynia",
+        "krzyk"
+      ],
+      "summary": "Psalmista woła do Pana w udręczeniu, a Bóg słyszy jego głos ze świątyni (Ps 18,7).",
+      "bible": [
+        "Ps 18,7"
+      ],
+      "text": [
+        "Wołałem Pana w moim udręczeniu,",
+        "mego Boga, mego Boga przyzywałem;",
+        "i usłyszał mój głos ze swej świątyni,",
+        "",
+        "i dotarł do Jego ucha mój krzyk;",
+        ""
+      ]
+    },
+    {
+      "range": "19-22",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ziemia",
+        "poruszyć się",
+        "zachwiać",
+        "fundament",
+        "góra",
+        "drżeć",
+        "obniżyć",
+        "niebiosa",
+        "zstąpić"
+      ],
+      "summary": "Teofania: ziemia drży, fundamenty gór się chwieją, Bóg obniża niebiosa i zstępuje (Ps 18,8-10).",
+      "bible": [
+        "Ps 18,8-10"
+      ],
+      "text": [
+        "i ziemia poruszyła się i zachwiała,",
+        "zadrżały fundamenty gór,",
+        "bowiem obniżył niebiosa i zstąpił.",
+        ""
+      ]
+    },
+    {
+      "range": "23-27",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dno",
+        "morze",
+        "fundament",
+        "świat",
+        "odsłonić",
+        "ręka",
+        "wyciągnąć",
+        "pochwycić",
+        "wydźwignąć",
+        "głębokość",
+        "woda"
+      ],
+      "summary": "Bóg odsłania fundamenty świata, wyciąga rękę i wydźwiga psalmistę z głębokości wód – obraz zbawienia (Ps 18,16-17).",
+      "bible": [
+        "Ps 18,16-17"
+      ],
+      "text": [
+        "I ukazało się dno morza,",
+        "i fundamenty świata się odsłoniły,",
+        "i wyciągnął swą rękę, i mnie pochwycił,",
+        "wydźwignął mnie z głębokości wód.",
+        ""
+      ]
+    },
+    {
+      "range": "28-31",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "Pan",
+        "skała",
+        "Wybawiciel",
+        "Bóg"
+      ],
+      "summary": "Wyznanie miłości do Boga jako skały i Wybawiciela (Ps 18,2-3).",
+      "bible": [
+        "Ps 18,2-3"
+      ],
+      "text": [
+        "Kocham Cię, Panie, Tyś moją skałą.",
+        "Tyś mym Wybawicielem, Tyś moim Bogiem.",
+        "Kocham Cię, kocham Cię, Panie.",
+        ""
+      ]
+    },
+    {
+      "range": "32-32",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "Wskazówka da capo: powtórzyć fragment 'Fale śmierci…'.",
+      "bible": [],
+      "text": [
+        "Fale śmierci …"
+      ]
+    },
+    {
+      "range": "1-32",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "śmierć",
+        "szeol",
+        "Belial",
+        "niebezpieczeństwo",
+        "wołanie",
+        "Pan",
+        "Bóg",
+        "teofania",
+        "ziemia",
+        "góra",
+        "morze",
+        "ręka",
+        "wybawienie",
+        "skała",
+        "miłość",
+        "Wybawiciel",
+        "zbawienie",
+        "psalm",
+        "ufność",
+        "dziękczynienie"
+      ],
+      "summary": "Parafraza Ps 18 – pieśń przejścia od śmiertelnego ucisku (fale śmierci, pęta Szeolu) przez dramatyczne wołanie do Boga po teofaniczną interwencję i wybawienie. Typologia: fale śmierci prefigurują zstąpienie Chrystusa do otchłani (1 P 3,19); wydźwignięcie z wód zapowiada chrzest i zmartwychwstanie (Rz 6,4). Bóg jako Skała typologicznie wskazuje na Chrystusa (1 Kor 10,4).",
+      "bible": [
+        "Ps 18",
+        "1 P 3,19",
+        "Rz 6,4",
+        "1 Kor 10,4"
+      ]
+    }
+  ]
+}

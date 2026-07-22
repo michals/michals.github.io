@@ -1,0 +1,613 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:de7f26731f32630e7f442e84ee4edc85fa1321bf6799860c73bc45432539b7fa",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "wstęp",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dobro",
+        "Bóg",
+        "Pan",
+        "dziękczynienie",
+        "błogosławieństwo"
+      ],
+      "summary": "Wstępne ogłoszenie Bożej dobroci, która obficie obdarza swój lud — motyw przewodni całej pieśni opartej na hebrajskiej tradycji Dayenu.",
+      "bible": [
+        "Ps 103,2",
+        "Ps 116,12"
+      ],
+      "text": [
+        "Iloma dobrami nas wszystkich Pan obdarzył!",
+        "Iloma dobrami nas wszystkich Pan obdarzył!",
+        ""
+      ]
+    },
+    {
+      "range": "4-9",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Chrystus",
+        "Egipt",
+        "faraon",
+        "sprawiedliwość",
+        "wyjście",
+        "niewola",
+        "Mojżesz",
+        "Pascha",
+        "Jezus Chrystus",
+        "Odkupienie",
+        "Wyjście"
+      ],
+      "summary": "Pierwszy dar: wyprowadzenie z Egiptu przez Chrystusa i wymierzenie sprawiedliwości faraonowi. Chrystus jest nowym Mojżeszem, który wyprowadza z niewoli grzechu.",
+      "bible": [
+        "Wj 12,31-42",
+        "Wj 7-12",
+        "Mt 2,13-15",
+        "1 Kor 10,1-2",
+        "Kol 2,15"
+      ],
+      "text": [
+        "Gdyby Chrystus nas wyprowadził z Egiptu,",
+        "a nie wymierzył sprawiedliwości faraonowi,",
+        "to by wystarczyło nam,",
+        "to już by nam wystarczyło!",
+        "Dayenú, dayenú, dayenú.",
+        ""
+      ]
+    },
+    {
+      "range": "10-15",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "faraon",
+        "sprawiedliwość",
+        "idole",
+        "bałwochwalstwo",
+        "wolność",
+        "Jezus Chrystus",
+        "nawrócenie",
+        "Bóg"
+      ],
+      "summary": "Drugi dar: uwolnienie od idoli po osądzeniu faraona. Wyzwolenie z Egiptu prowadzi do porzucenia pogańskich bożków i zwrócenia się ku prawdziwemu Bogu.",
+      "bible": [
+        "Wj 14,26-31",
+        "Wj 20,3-5",
+        "1 J 5,21",
+        "Dz 14,15"
+      ],
+      "text": [
+        "Gdyby wymierzył sprawiedliwość faraonowi,",
+        "a nie uwolnił nas od wszystkich idoli,",
+        "to by wystarczyło nam,",
+        "to już by nam wystarczyło!",
+        "Dayenú, dayenú, dayenú.",
+        ""
+      ]
+    },
+    {
+      "range": "16-21",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "idole",
+        "bogactwo",
+        "dar",
+        "Bóg",
+        "Opatrzność",
+        "Kościół",
+        "Jezus Chrystus"
+      ],
+      "summary": "Trzeci dar: otrzymanie bogactw Egipcjan po uwolnieniu od idoli. Bóg nie tylko wyzwala, ale także wzbogaca swój lud dobrami doczesnymi.",
+      "bible": [
+        "Wj 12,35-36",
+        "Kol 2,3",
+        "Mt 6,19-21"
+      ],
+      "text": [
+        "Gdyby uwolnił nas od wszystkich idoli,",
+        "a nie darował nam ich bogactwa,",
+        "to by wystarczyło nam,",
+        "to już by nam wystarczyło!",
+        "Dayenú, dayenú, dayenú.",
+        ""
+      ]
+    },
+    {
+      "range": "22-27",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "bogactwo",
+        "morze",
+        "otwarcie",
+        "przejście",
+        "chrzest",
+        "Mojżesz",
+        "Pascha",
+        "Jezus Chrystus",
+        "Odkupienie"
+      ],
+      "summary": "Czwarty dar: otwarcie morza po otrzymaniu bogactw. Przejście przez Morze Czerwone jest typem chrztu świętego, przez który wierni przechodzą z niewoli grzechu do wolności dzieci Bożych.",
+      "bible": [
+        "Wj 14,21-22",
+        "1 Kor 10,1-2",
+        "Rz 6,3-4"
+      ],
+      "text": [
+        "Gdyby nam darował ich bogactwa,",
+        "a nie otworzył przed nami morza,",
+        "to by wystarczyło nam,",
+        "to już by nam wystarczyło!",
+        "Dayenú, dayenú, dayenú.",
+        ""
+      ]
+    },
+    {
+      "range": "28-33",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "morze",
+        "zatopienie",
+        "ciemiężyciele",
+        "sprawiedliwość",
+        "zwycięstwo",
+        "śmierć",
+        "szatan",
+        "Jezus Chrystus",
+        "Pascha",
+        "Zmartwychwstanie"
+      ],
+      "summary": "Piąty dar: zatopienie ciemiężycieli w morzu. Zniszczenie wojsk egipskich jest typem zwycięstwa Chrystusa nad szatanem przez śmierć krzyżową i zmartwychwstanie.",
+      "bible": [
+        "Wj 14,26-28",
+        "Wj 15,4-5",
+        "Rz 6,3-4",
+        "Ap 20,14"
+      ],
+      "text": [
+        "Gdyby otworzył przed nami morze,",
+        "a nie zatopił naszych ciemiężycieli,",
+        "to by wystarczyło nam,",
+        "to już by nam wystarczyło!",
+        "Dayenú, dayenú, dayenú.",
+        ""
+      ]
+    },
+    {
+      "range": "34-39",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "ciemiężyciele",
+        "droga",
+        "pustynia",
+        "wędrówka",
+        "próba",
+        "nawrócenie",
+        "Kościół",
+        "Duch Święty"
+      ],
+      "summary": "Szósty dar: prowadzenie przez pustynię po zatopieniu wrogów. Wędrówka Izraela przez pustynię jest typem życia Kościoła i duchowej drogi nawrócenia.",
+      "bible": [
+        "Wj 15,22-27",
+        "Pwt 8,2-3",
+        "Mt 4,1-2"
+      ],
+      "text": [
+        "Gdyby zatopił naszych ciemiężycieli,",
+        "a nie dał nam drogi przez pustynię,",
+        "to by wystarczyło nam,",
+        "to już by nam wystarczyło!",
+        "Dayenú, dayenú, dayenú.",
+        ""
+      ]
+    },
+    {
+      "range": "40-45",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "droga",
+        "pustynia",
+        "chleb",
+        "życie",
+        "manna",
+        "Eucharystia",
+        "Jezus Chrystus",
+        "Ciało Chrystusa",
+        "Komunia",
+        "Pascha"
+      ],
+      "summary": "Siódmy dar: nakarmienie chlebem życia na pustyni. Manna na pustyni jest typem Eucharystii — Chrystusa jako Chleba Życia, który karmi Kościół w drodze do niebieskiej ojczyzny.",
+      "bible": [
+        "Wj 16,4-18",
+        "J 6,31-35",
+        "J 6,48-51",
+        "1 Kor 10,16-17"
+      ],
+      "text": [
+        "Gdyby nam dał drogę przez pustynię,",
+        "a nie nakarmił nas chlebem życia,",
+        "to by wystarczyło nam,",
+        "to już by nam wystarczyło!",
+        "Dayenú, dayenú, dayenú.",
+        ""
+      ]
+    },
+    {
+      "range": "46-51",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "chleb",
+        "życie",
+        "dzień Pański",
+        "niedziela",
+        "szabat",
+        "odpoczynek",
+        "Zmartwychwstanie",
+        "Jezus Chrystus",
+        "Pascha"
+      ],
+      "summary": "Ósmy dar: podarowanie dnia Pańskiego po nakarmieniu chlebem życia. Szabat Starego Przymierza zostaje wypełniony przez Dzień Pański — niedzielę, dzień zmartwychwstania Chrystusa.",
+      "bible": [
+        "Wj 20,8-11",
+        "Rdz 2,2-3",
+        "Mk 16,1-8",
+        "Dz 20,7",
+        "Ap 1,10"
+      ],
+      "text": [
+        "Gdyby nakarmił nas chlebem życia,",
+        "a nie podarował nam dnia Pańskiego,",
+        "to by wystarczyło nam,",
+        "to już by nam wystarczyło!",
+        "Dayenú, dayenú, dayenú.",
+        ""
+      ]
+    },
+    {
+      "range": "52-57",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dzień Pański",
+        "Nowe Przymierze",
+        "Przymierze",
+        "Krew Chrystusa",
+        "Eucharystia",
+        "Jezus Chrystus",
+        "Pascha",
+        "Kościół",
+        "pojednanie"
+      ],
+      "summary": "Dziewiąty dar: zawarcie Nowego Przymierza po ustanowieniu dnia Pańskiego. Nowe Przymierze zapowiedziane przez Jeremiasza zostaje przypieczętowane Krwią Chrystusa na krzyżu.",
+      "bible": [
+        "Jr 31,31-34",
+        "Wj 24,8",
+        "Łk 22,20",
+        "Hbr 8,6-13",
+        "Hbr 9,15"
+      ],
+      "text": [
+        "Gdyby nam podarował dzień Pański,",
+        "a nie zawarł z nami Nowego Przymierza,",
+        "to by wystarczyło nam,",
+        "to już by nam wystarczyło!",
+        "Dayenú, dayenú, dayenú.",
+        ""
+      ]
+    },
+    {
+      "range": "58-63",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Nowe Przymierze",
+        "Kościół",
+        "wspólnota",
+        "Ciało Chrystusa",
+        "lud Boży",
+        "Jezus Chrystus",
+        "Duch Święty",
+        "Piotr",
+        "zbawienie"
+      ],
+      "summary": "Dziesiąty dar: wprowadzenie do Kościoła po zawarciu Nowego Przymierza. Izrael jako królestwo kapłanów jest typem Kościoła — nowego Ludu Bożego zgromadzonego przez Chrystusa.",
+      "bible": [
+        "Wj 19,5-6",
+        "Mt 16,18-19",
+        "Dz 2,42-47",
+        "Ef 1,22-23",
+        "Ef 5,25-27"
+      ],
+      "text": [
+        "Gdyby zawarł z nami Nowe Przymierze,",
+        "a nie wprowadził nas do Kościoła,",
+        "to by wystarczyło nam,",
+        "to już by nam wystarczyło!",
+        "Dayenú, dayenú, dayenú.",
+        ""
+      ]
+    },
+    {
+      "range": "64-69",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Kościół",
+        "Świątynia",
+        "Bóg",
+        "mieszkanie",
+        "dom Boży",
+        "kamień",
+        "Duch Święty",
+        "Jezus Chrystus",
+        "sakrament"
+      ],
+      "summary": "Jedenasty dar: zbudowanie Świątyni w wiernych po wprowadzeniu do Kościoła. Świątynia Jerozolimska jest typem duchowej świątyni, którą Bóg buduje w sercach wiernych — każdy ochrzczony jest mieszkaniem Boga.",
+      "bible": [
+        "1 Krl 8,10-13",
+        "1 Kor 3,16-17",
+        "Ef 2,19-22",
+        "1 P 2,4-5"
+      ],
+      "text": [
+        "Gdyby nas wprowadził do Kościoła,",
+        "a nie zbudował w nas swojej Świątyni,",
+        "to by wystarczyło nam,",
+        "to już by nam wystarczyło!",
+        "Dayenú, dayenú, dayenú.",
+        ""
+      ]
+    },
+    {
+      "range": "70-75",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Świątynia",
+        "Duch Święty",
+        "namaszczenie",
+        "Pięćdziesiątnica",
+        "Kościół",
+        "sakrament",
+        "bierzmowanie",
+        "Trójca Święta",
+        "uświęcenie",
+        "chwała"
+      ],
+      "summary": "Dwunasty dar: napełnienie świątyni Duchem Świętym. Chwała wypełniająca Świątynię Salomona jest typem zesłania Ducha Świętego w dniu Pięćdziesiątnicy.",
+      "bible": [
+        "1 Krl 8,10-11",
+        "Ez 36,26-27",
+        "Dz 2,1-4",
+        "Rz 8,9",
+        "1 Kor 6,19"
+      ],
+      "text": [
+        "Gdyby w nas zbudował swoją Świątynię,",
+        "a nie napełnił jej swoim Duchem Świętym,",
+        "to by wystarczyło nam,",
+        "to już by nam wystarczyło!",
+        "Dayenú, dayenú, dayenú.",
+        ""
+      ]
+    },
+    {
+      "range": "76-77",
+      "type": "zakończenie",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dziękczynienie",
+        "wdzięczność",
+        "chwała",
+        "Pan",
+        "Bóg",
+        "uwielbienie",
+        "Eucharystia"
+      ],
+      "summary": "Refren dziękczynny: wezwanie do składania dziękczynienia Panu za wszystkie Jego dary. Skoro każdy dar z osobna był wystarczający, tym bardziej wszystkie razem zasługują na wdzięczność.",
+      "bible": [
+        "Ps 116,17",
+        "1 Tes 5,18",
+        "Ef 5,20"
+      ],
+      "text": [
+        "Tym więc bardziej powinniśmy składać dzięki Panu!",
+        "Tym więc bardziej powinniśmy składać dzięki Panu!"
+      ]
+    },
+    {
+      "range": "78-82",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "niewola",
+        "Egipt",
+        "faraon",
+        "sprawiedliwość",
+        "wolność",
+        "wyjście",
+        "nieprzyjaciele",
+        "Mojżesz",
+        "Pascha",
+        "Odkupienie"
+      ],
+      "summary": "Wyliczenie pierwszych darów: wyprowadzenie z niewoli egipskiej, wymierzenie sprawiedliwości faraonowi i uwolnienie od nieprzyjaciół. Potrójne wyzwolenie — z miejsca, od władzy i od zagrożenia.",
+      "bible": [
+        "Wj 12,31-42",
+        "Wj 14,26-31",
+        "Ps 136,10-15"
+      ],
+      "text": [
+        "",
+        "Bo nas wyprowadził z niewoli egipskiej.",
+        "Bo wymierzył sprawiedliwość faraonowi.",
+        "Bo nas uwolnił od wszystkich nieprzyjaciół.",
+        ""
+      ]
+    },
+    {
+      "range": "83-86",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "bogactwo",
+        "morze",
+        "otwarcie",
+        "zatopienie",
+        "ciemiężyciele",
+        "zwycięstwo",
+        "chrzest",
+        "Mojżesz",
+        "Odkupienie"
+      ],
+      "summary": "Wyliczenie darów: podarowanie bogactw Egipcjan, otwarcie morza i zatopienie ciemiężycieli. Łączy motyw zaopatrzenia z motywem zbawczego sądu Bożego.",
+      "bible": [
+        "Wj 12,35-36",
+        "Wj 14,21-22",
+        "Wj 14,26-28",
+        "Wj 15,4-5"
+      ],
+      "text": [
+        "Bo nam podarował wszystkie ich bogactwa.",
+        "Bo otworzył morze, morze przed nami.",
+        "Bo w nim zatopił ciemiężycieli naszych.",
+        ""
+      ]
+    },
+    {
+      "range": "87-90",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "droga",
+        "pustynia",
+        "chleb",
+        "życie",
+        "manna",
+        "dzień Pański",
+        "szabat",
+        "Eucharystia",
+        "Jezus Chrystus"
+      ],
+      "summary": "Wyliczenie darów: droga przez pustynię, chleb życia (manna — typ Eucharystii) i święty dzień Pański (szabat wypełniony niedzielą zmartwychwstania).",
+      "bible": [
+        "Wj 15,22-27",
+        "Wj 16,4-18",
+        "Wj 20,8-11",
+        "J 6,31-35"
+      ],
+      "text": [
+        "Bo nam podarował drogę przez pustynię.",
+        "Bo nas nakarmił chlebem życia.",
+        "Bo nam podarował święty dzień Pański.",
+        ""
+      ]
+    },
+    {
+      "range": "91-95",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Nowe Przymierze",
+        "Kościół",
+        "Świątynia",
+        "Duch Święty",
+        "odpuszczenie",
+        "grzech",
+        "Jezus Chrystus",
+        "Trójca Święta",
+        "sakrament",
+        "Pięćdziesiątnica",
+        "uświęcenie"
+      ],
+      "summary": "Wyliczenie darów Nowego Przymierza: Przymierze, Kościół, Świątynia duchowa i napełnienie Duchem Świętym z odpuszczeniem grzechów. Kulminacja Historii Zbawienia w darze Ducha Świętego.",
+      "bible": [
+        "Jr 31,31-34",
+        "Mt 16,18",
+        "1 Kor 3,16-17",
+        "Dz 2,1-4",
+        "Dz 2,38"
+      ],
+      "text": [
+        "Bo nam podarował Nowe Przymierze.",
+        "Bo nas wprowadził do swego Kościoła.",
+        "Bo zbudował w nas swoją Świątynię.",
+        "",
+        "I napełnił ją swoim Duchem Świętym,odpuszczając nam grzechy."
+      ]
+    },
+    {
+      "range": "96-100",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "Pascha",
+        "Zmartwychwstanie",
+        "Alleluja",
+        "zwycięstwo",
+        "śmierć",
+        "życie",
+        "Jezus Chrystus",
+        "Odkupienie",
+        "radosny",
+        "uwielbienie"
+      ],
+      "summary": "Zakończenie: Chrystus jako nasza Pascha zmartwychwstał dla nas — centralne wydarzenie wiary chrześcijańskiej. Potrójne Alleluja jako radosna odpowiedź na wszystkie dary Boga.",
+      "bible": [
+        "1 Kor 5,7-8",
+        "Rz 6,9",
+        "Ap 19,1-6"
+      ],
+      "text": [
+        "",
+        "Chrystus nasza Pascha",
+        "zmartwychpowstał dla nas!",
+        "",
+        "Alleluja! Alleluja! Alleluja!"
+      ]
+    },
+    {
+      "range": "1-100",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Dayenu",
+        "dziękczynienie",
+        "Historia Zbawienia",
+        "Pascha",
+        "Wyjście",
+        "Nowe Przymierze",
+        "Kościół",
+        "Duch Święty",
+        "Eucharystia",
+        "Chrzest",
+        "Odkupienie",
+        "Zmartwychwstanie",
+        "Jezus Chrystus",
+        "Trójca Święta",
+        "Przymierze",
+        "Pięćdziesiątnica",
+        "manna",
+        "szabat",
+        "chleb życia",
+        "świątynia"
+      ],
+      "summary": "Chrześcijańska adaptacja hebrajskiej pieśni paschalnej Dayenu ('To by wystarczyło'). Pieśń opisuje dwanaście etapów Historii Zbawienia od wyjścia z Egiptu aż po dar Ducha Świętego w Kościele. Każdy z tych darów Boga jest wystarczającym powodem do wdzięczności, a wszystkie razem prowadzą do Paschy Chrystusa — wypełnienia i szczytu dzieła zbawienia.",
+      "bible": [
+        "Wj 12-20",
+        "1 Kor 10,1-11",
+        "Hbr 8,6-13",
+        "1 Kor 5,7-8"
+      ]
+    }
+  ]
+}

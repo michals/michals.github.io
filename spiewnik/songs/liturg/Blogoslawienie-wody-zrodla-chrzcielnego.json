@@ -1,0 +1,162 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:0d8bf6554297a4156cdd4e23e49515828166f080ea511fcc57da72ead6f2936a",
+  "songs_analysis": [
+    {
+      "range": "1-8",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Bóg",
+        "sakrament",
+        "woda",
+        "chrzest",
+        "stworzenie",
+        "Duch Święty",
+        "potop",
+        "Morze Czerwone",
+        "Jezus Chrystus",
+        "chrzest w Jordanie",
+        "krzyż",
+        "krew",
+        "odkupienie",
+        "zbawienie",
+        "obraz typologiczny"
+      ],
+      "summary": "Dziękczynne przypomnienie biblijnych typów wody w historii zbawienia: Duch unoszący się nad wodami stworzenia, potop jako obraz chrztu, przejście przez Morze Czerwone, chrzest Jezusa w Jordanie i krew z wodą z boku Chrystusa na krzyżu.",
+      "bible": [
+        "Rdz 1, 2",
+        "Rdz 6-9",
+        "Wj 14, 21-22",
+        "Mk 1, 9-11",
+        "J 19, 34",
+        "1 P 3, 20-21",
+        "1 Kor 10, 1-2"
+      ],
+      "text": [
+        "O Boże, poprzez znaki sakramentalne,                                           Ty dokonujesz niewidzialną mocą                                      cudów zbawienia.",
+        "Ty w ciągu dziejów w wieloraki sposób                      przygotowałeś wodę, Twoje stworzenie,                             aby stała się znakiem chrztu.",
+        "Od początku Twój Duch unosił się nad wodami,                                                                     aby już wtedy woda nabrała mocy uświęcania.",
+        "A także w wodach potopu dałeś nam obraz chrztu,aby dzisiaj, tak jak wtedy, woda oznaczałakoniec grzechu i początek nowego życia.",
+        "Tyś wyzwolił z niewoli synów Abrahama,                przeprowadzając ich suchą nogą przez Morze Czerwone,             aby stali się obrazem przyszłego ludu ochrzczonych.",
+        "A na końcu, gdy nadeszła pełnia czasów,               Twój Syn, ochrzczony przez Jana w wodach Jordanu                       został namaszczony przez Ducha Świętego.",
+        "Podniesiony na krzyżu wylał ze swego boku krew i wodę.",
+        ""
+      ]
+    },
+    {
+      "range": "9-14",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Jezus Chrystus",
+        "zmartwychwstanie",
+        "nakaz misyjny",
+        "chrzest",
+        "Trójca Święta",
+        "Kościół",
+        "Duch Święty",
+        "odrodzenie",
+        "nowe stworzenie",
+        "łaska",
+        "woda",
+        "obraz Boży",
+        "grzech"
+      ],
+      "summary": "Nakaz misyjny Chrystusa po zmartwychwstaniu i epikleza nad wodą chrzcielną, aby przez chrzest człowiek stworzony na obraz Boży został obmyty z grzechu i odrodził się z wody i Ducha Świętego jako nowe stworzenie.",
+      "bible": [
+        "Mt 28, 19-20",
+        "Mk 16, 15-16",
+        "J 3, 5",
+        "Rz 6, 4",
+        "2 Kor 5, 17",
+        "Tt 3, 5",
+        "Rdz 1, 26-27"
+      ],
+      "text": [
+        "A po swym zmartwychpowstaniu nakazał uczniom:                                                                             „Idźcie, głoście Ewangelię wszystkim narodom",
+        "i chrzcijcie je w imię Ojca i Syna, i Ducha Świętego”.",
+        "A teraz, teraz Ojcze wejrzyj z miłością na Twój Kościół                                                                    i spraw, by dla niego wytrysnęło źródło Chrztu Świętego.",
+        "Wylej na tę wodę za sprawą Ducha Świętego                                                                                                  łaskę Twego Jedynego Syna,",
+        "aby poprzez sakrament chrztu               człowiek stworzony na Twój obraz            był obmyty ze zmazy grzechowej;                  i z wody, i z Ducha Świętego     odrodził się jako nowe stworzenie.",
+        ""
+      ]
+    },
+    {
+      "range": "15-18",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Duch Święty",
+        "chrzest",
+        "śmierć",
+        "zmartwychwstanie",
+        "Jezus Chrystus",
+        "życie wieczne",
+        "pogrzebanie z Chrystusem",
+        "nowe życie",
+        "woda"
+      ],
+      "summary": "Epikleza o zstąpienie Ducha Świętego na wodę chrzcielną, aby ochrzczeni pogrzebani z Chrystusem w śmierci razem z Nim powstali do życia nieśmiertelnego.",
+      "bible": [
+        "Rz 6, 3-5",
+        "Kol 2, 12",
+        "Ef 2, 5-6",
+        "J 3, 5"
+      ],
+      "text": [
+        "Niech zstąpi, Ojcze, w tę wodę za sprawąTwego Syna potęga i moc Ducha Świętego,aby wszyscy ci, którzy w niej otrzymają chrzest,pogrzebani razem z Chrystusem",
+        "w śmierci, razem z Nim powstali,                                                                           powstali do życia nieśmiertelnego.",
+        "Przez Chrystusa naszego Pana.",
+        ""
+      ]
+    },
+    {
+      "range": "19",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "amen",
+        "potwierdzenie",
+        "wiara",
+        "zgoda",
+        "liturgia"
+      ],
+      "summary": "Potrójne Amen jako uroczyste zakończenie i potwierdzenie błogosławieństwa wody chrzcielnej.",
+      "bible": [],
+      "text": [
+        "Amen, amen, amen!"
+      ]
+    },
+    {
+      "range": "1-19",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "chrzest",
+        "woda",
+        "Duch Święty",
+        "Jezus Chrystus",
+        "odkupienie",
+        "nowe stworzenie",
+        "Pascha",
+        "sakrament",
+        "Kościół",
+        "odrodzenie",
+        "zmartwychwstanie",
+        "życie wieczne"
+      ],
+      "summary": "Błogosławieństwo wody chrzcielnej — modlitwa dziękczynna za zbawcze działanie Boga przez wodę w historii zbawienia, z epiklezą o zstąpienie Ducha Świętego, aby przez chrzest wierni pogrzebani z Chrystusem powstali do nowego życia.",
+      "bible": [
+        "Rdz 1, 2",
+        "Wj 14, 15-31",
+        "J 3, 5",
+        "J 19, 34",
+        "Rz 6, 3-5",
+        "Mt 28, 19-20",
+        "Dz 2, 38",
+        "1 P 3, 20-21"
+      ]
+    }
+  ]
+}

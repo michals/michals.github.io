@@ -1,0 +1,192 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:8ee9140857a45149f09d8d3465b05eb360110397d1378155addb24776f1d4885",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "miłość",
+        "Chrystus",
+        "przynaglenie",
+        "Duch Święty",
+        "apostołstwo"
+      ],
+      "summary": "Miłość Chrystusa przynagla wiernych do głoszenia Ewangelii.",
+      "bible": [
+        "2 Kor 5,14"
+      ],
+      "text": [
+        "Caritas Christi urget nos!",
+        "Caritas Christi urget nos!",
+        ""
+      ]
+    },
+    {
+      "range": "4-8",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "miłość",
+        "Chrystus",
+        "śmierć",
+        "odkupienie",
+        "wszyscy",
+        "świadomość",
+        "zbawienie"
+      ],
+      "summary": "Świadomość śmierci Chrystusa za wszystkich prowadzi do uznania, że wszyscy są umarli w grzechu i odkupieni.",
+      "bible": [
+        "2 Kor 5,14"
+      ],
+      "text": [
+        "Miłość Chrystusaprzynagla nas, świadomych tego;",
+        "Miłość Chrystusa                   przynagla nas, świadomych tego,",
+        "że skoro jeden umarł za wszystkich,        wszyscy są umarli;",
+        "że skoro Chrystus umarł za wszystkich,                    wszyscy są umarli.",
+        ""
+      ]
+    },
+    {
+      "range": "9-12",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "śmierć",
+        "Chrystus",
+        "życie",
+        "zmartwychwstanie",
+        "odkupienie",
+        "nowe życie"
+      ],
+      "summary": "Chrystus umarł za wszystkich, aby żyjący nie żyli już dla siebie, ale dla Tego, który za nich umarł i zmartwychwstał.",
+      "bible": [
+        "2 Kor 5,15"
+      ],
+      "text": [
+        "A umarł On za wszystkich, aby ci, co żyją,",
+        "nie żyli już więcej dla siebie,",
+        "ale dla Tego, który umarł",
+        "i zmartwychwstał za nich"
+      ]
+    },
+    {
+      "range": "13-15",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "miłość",
+        "Chrystus",
+        "przynaglenie",
+        "Duch Święty",
+        "apostołstwo"
+      ],
+      "summary": "Powtórzenie refrenu — miłość Chrystusa przynagla do głoszenia Ewangelii.",
+      "bible": [
+        "2 Kor 5,14"
+      ],
+      "text": [
+        "Caritas Christi urget nos!",
+        "Caritas Christi urget nos!",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Chrystus",
+        "nowe stworzenie",
+        "grzech",
+        "sprawiedliwość",
+        "odkupienie",
+        "przebaczenie",
+        "nowość życia",
+        "pojednanie"
+      ],
+      "summary": "Kto jest w Chrystusie, staje się nowym stworzeniem; Bóg uczynił Chrystusa grzechem, abyśmy stali się sprawiedliwością Bożą w Nim.",
+      "bible": [
+        "2 Kor 5,17.21"
+      ],
+      "text": [
+        "Jeśli ktoś jest w Chrystusie,                 jest nowym stworzeniem.",
+        "To co stare minęło, a oto wszystko jest nowe.",
+        "Tego, który nie znał grzechu,                    uczynił Bóg grzechem,",
+        "abyśmy stali się sprawiedliwością Bożą w Nim.",
+        ""
+      ]
+    },
+    {
+      "range": "21-22",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "biada",
+        "głoszenie",
+        "Ewangelia",
+        "powołanie",
+        "apostoł",
+        "odpowiedzialność",
+        "Paweł"
+      ],
+      "summary": "Wyraz świadomości apostolskiego obowiązku głoszenia Ewangelii — biada, jeśli tego zaniedba.",
+      "bible": [
+        "1 Kor 9,16b"
+      ],
+      "text": [
+        "Biada mi, gdybym nie głosił Ewangelii!",
+        "Biada mi! Biada mi!"
+      ]
+    },
+    {
+      "range": "23-24",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "miłość",
+        "Chrystus",
+        "przynaglenie",
+        "Duch Święty",
+        "apostołstwo"
+      ],
+      "summary": "Końcowe powtórzenie refrenu — miłość Chrystusa przynagla do głoszenia Ewangelii.",
+      "bible": [
+        "2 Kor 5,14"
+      ],
+      "text": [
+        "Caritas Christi urget nos!",
+        "Caritas Christi urget nos!"
+      ]
+    },
+    {
+      "range": "1-24",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "miłość",
+        "Chrystus",
+        "śmierć",
+        "odkupienie",
+        "zmartwychwstanie",
+        "nowe stworzenie",
+        "sprawiedliwość",
+        "grzech",
+        "pojednanie",
+        "Ewangelia",
+        "apostołstwo",
+        "powołanie",
+        "męka",
+        "zbawienie",
+        "łaska",
+        "Duch Święty"
+      ],
+      "summary": "Hymn o miłości Chrystusa, która przynagla do głoszenia Ewangelii — śmierć Chrystusa za wszystkich uzdalnia wiernych do nowego życia i czyni nowym stworzeniem.",
+      "bible": [
+        "2 Kor 5,14-15.17.21",
+        "1 Kor 9,16b"
+      ]
+    }
+  ]
+}

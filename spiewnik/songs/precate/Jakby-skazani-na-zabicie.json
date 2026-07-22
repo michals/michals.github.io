@@ -1,0 +1,217 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:8b4718f451c50415ce0f1a50d3791d53aee01c88b653f30457789ec2f03c688c",
+  "songs_analysis": [
+    {
+      "range": "1-21",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "apostoł",
+        "cierpienie",
+        "prześladowanie",
+        "ubóstwo",
+        "pragnienie",
+        "głód",
+        "nagość",
+        "tułaczka",
+        "błogosławieństwo",
+        "miłość",
+        "zniewaga",
+        "ofiara",
+        "Kościół",
+        "misja",
+        "śmieć",
+        "odraza",
+        "uniżenie",
+        "Jezus Chrystus"
+      ],
+      "summary": "Opis cierpienia, prześladowania i uniżenia apostołów na wzór Chrystusa, którzy odpowiadają miłością na zniewagi i stają się śmieciem świata.",
+      "bible": [
+        "1 Kor 4, 9-13",
+        "2 Kor 6, 4-10",
+        "Rz 8, 35-39",
+        "Mt 5, 44",
+        "Flp 1, 29",
+        "Dz 5, 41"
+      ],
+      "text": [
+        "Aż do tej chwili znosimy nagość,",
+        "cierpimy pragnienie i głód.",
+        "Aż do tej chwili znosimy nagość,",
+        "cierpimy pragnienie i głód.",
+        "Prześladowani, na tułaczkę skazani.",
+        "Prześladowani, na tułaczkę skazani.",
+        "Gdy nam złorzeczą - błogosławimy,",
+        "policzkowani - zamykamy usta,",
+        "gdy nas oczerniają - odpowiadamy miłością.",
+        "Gdy nas oczerniają - odpowiadamy miłością.",
+        "Staliśmy się śmieciem,",
+        "staliśmy się śmieciem,",
+        "staliśmy się śmieciem,",
+        "śmieciem tego świata",
+        "i odrazą dla wszystkich.",
+        "Albowiem myślę,",
+        "że dla nas,",
+        "apostołów",
+        "Bóg wyznaczył",
+        "ostatnie miejsce.",
+        ""
+      ]
+    },
+    {
+      "range": "22-25",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "śmierć",
+        "ofiara",
+        "skazanie",
+        "męczeństwo",
+        "apostoł",
+        "cierpienie",
+        "prześladowanie",
+        "naśladowanie Chrystusa",
+        "Jezus Chrystus",
+        "Krzyż"
+      ],
+      "summary": "Refren powtarzający metaforę apostołów jako skazanych na zabicie, ukazując ich całkowite oddanie i zjednoczenie z męką Chrystusa.",
+      "bible": [
+        "1 Kor 4, 9",
+        "Rz 8, 36",
+        "Flp 1, 29",
+        "Dz 5, 41"
+      ],
+      "text": [
+        "Jakby skazani na zabicie,",
+        "jakby skazani na zabicie,",
+        "jakby skazani na zabicie,",
+        "jakby skazani na zabicie."
+      ]
+    },
+    {
+      "range": "26-31",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "widowisko",
+        "świat",
+        "anioł",
+        "ludzie",
+        "apostoł",
+        "uniżenie",
+        "cierpienie",
+        "świadectwo",
+        "męczeństwo",
+        "Kościół",
+        "herold",
+        "Jezus Chrystus"
+      ],
+      "summary": "Apostołowie stają się widowiskiem dla świata i aniołów, co ukazuje ich radykalne świadectwo i całkowite wyzucie z własnej chwały.",
+      "bible": [
+        "1 Kor 4, 9",
+        "Hbr 10, 33",
+        "1 Kor 9, 23"
+      ],
+      "text": [
+        "Uznani",
+        "za widowisko,",
+        "dla świata,",
+        "dla aniołów",
+        "i dla ludzi,",
+        "i dla ludzi."
+      ]
+    },
+    {
+      "range": "32-35",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "śmierć",
+        "ofiara",
+        "skazanie",
+        "męczeństwo",
+        "apostoł",
+        "cierpienie",
+        "prześladowanie",
+        "naśladowanie Chrystusa",
+        "Jezus Chrystus",
+        "Krzyż"
+      ],
+      "summary": "Powtórzenie refrenu o skazaniu na zabicie, podkreślające konsekwencję apostolskiego powołania i udziału w męce Chrystusa.",
+      "bible": [
+        "1 Kor 4, 9",
+        "Rz 8, 36",
+        "Flp 1, 29"
+      ],
+      "text": [
+        "Jakby skazani na zabicie,",
+        "jakby skazani na zabicie,",
+        "jakby skazani na zabicie,",
+        "jakby skazani na zabicie."
+      ]
+    },
+    {
+      "range": "36-40",
+      "type": "zakończenie",
+      "sentiment": "pokutny",
+      "keywords": [
+        "śmieć",
+        "odraza",
+        "świat",
+        "uniżenie",
+        "wzgarda",
+        "apostoł",
+        "cierpienie",
+        "ofiara",
+        "Krzyż",
+        "Chrystus",
+        "Kościół"
+      ],
+      "summary": "Powtórzenie finałowego obrazu apostołów jako śmiecia i odrazy świata, podkreślające całkowite uniżenie na wzór Sługi Pańskiego.",
+      "bible": [
+        "1 Kor 4, 13",
+        "Iz 53, 3",
+        "Ps 22, 7",
+        "Flp 2, 7"
+      ],
+      "text": [
+        "Staliśmy się śmieciem,",
+        "staliśmy się śmieciem,",
+        "staliśmy się śmieciem,",
+        "śmieciem tego świata",
+        "i odrazą dla wszystkich."
+      ]
+    },
+    {
+      "range": "1-40",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "apostoł",
+        "cierpienie",
+        "prześladowanie",
+        "uniżenie",
+        "ofiara",
+        "męczeństwo",
+        "Chrystus",
+        "Krzyż",
+        "świadectwo",
+        "miłość",
+        "świat",
+        "wzgarda",
+        "Kościół",
+        "naśladowanie",
+        "Pawel"
+      ],
+      "summary": "Parafraza 1 Kor 4, 9-13 ukazująca apostolskie cierpienie i uniżenie jako świadectwo wiary na wzór Chrystusa i konsekwencję powołania do głoszenia Ewangelii.",
+      "bible": [
+        "1 Kor 4, 9-13",
+        "2 Kor 6, 4-10",
+        "Rz 8, 35-39",
+        "Iz 53, 3",
+        "Flp 2, 7"
+      ]
+    }
+  ]
+}

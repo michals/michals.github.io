@@ -1,0 +1,196 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:9243bce5523c30e02e1809703771314e434412584afbbb9efd8df9f7f89b3be0",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jahwe",
+        "Bóg",
+        "uwielbienie",
+        "chwała",
+        "adoracja"
+      ],
+      "summary": "Refrenowe wyznanie: Jahwe jest Bogiem, któremu należy się cześć i uwielbienie.",
+      "bible": [
+        "Iz 25, 1"
+      ],
+      "text": [
+        "Jahwe, Tyś Bogiem mym,",
+        "będę wielbić Cię.",
+        ""
+      ]
+    },
+    {
+      "range": "4-7",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "imię Boże",
+        "sławienie",
+        "uwielbienie",
+        "chwała",
+        "modlitwa"
+      ],
+      "summary": "Potrójne sławienie imienia Bożego jako akt uwielbienia i adoracji.",
+      "bible": [
+        "Iz 25, 1",
+        "Ps 145, 1-2"
+      ],
+      "text": [
+        "Będę Twe imię sławić.",
+        "Będę Twe imię sławić.",
+        "Będę Twe imię sławić.",
+        ""
+      ]
+    },
+    {
+      "range": "8-10",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jahwe",
+        "Bóg",
+        "uwielbienie",
+        "chwała",
+        "adoracja"
+      ],
+      "summary": "Powtórzenie refrenu uwielbienia Jahwe jako Boga.",
+      "bible": [
+        "Iz 25, 1"
+      ],
+      "text": [
+        "Jahwe, Tyś Bogiem mym,",
+        "będę wielbić Cię.",
+        ""
+      ]
+    },
+    {
+      "range": "11-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "śmierć",
+        "zniszczenie",
+        "zawsze",
+        "łzy",
+        "osuszenie",
+        "twarz",
+        "eschatologia",
+        "zbawienie",
+        "Bóg",
+        "zmartwychwstanie"
+      ],
+      "summary": "Zapowiedź eschatologicznego zwycięstwa Boga nad śmiercią i ocierania łez – wypełnienie w zmartwychwstaniu.",
+      "bible": [
+        "Iz 25, 7-8",
+        "Ap 21, 4",
+        "1 Kor 15, 54",
+        "Ap 7, 17"
+      ],
+      "text": [
+        "Zniweczysz śmierć",
+        "na zawsze,",
+        "osuszysz łzy",
+        "na wszystkich twarzach,",
+        "na wszystkich twarzach.",
+        ""
+      ]
+    },
+    {
+      "range": "17-19",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jahwe",
+        "Bóg",
+        "uwielbienie",
+        "chwała",
+        "adoracja"
+      ],
+      "summary": "Powtórzenie refrenu uwielbienia.",
+      "bible": [
+        "Iz 25, 1"
+      ],
+      "text": [
+        "Jahwe, Tyś Bogiem mym,",
+        "będę wielbić Cię.",
+        ""
+      ]
+    },
+    {
+      "range": "20-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "kroki",
+        "ubodzy",
+        "pokorni",
+        "Reszta Jakuba",
+        "Izrael",
+        "lud Boży",
+        "obietnica",
+        "przymierze"
+      ],
+      "summary": "Nadzieja mesjańska: kroki ubogich i pokornych jako znak nadchodzącej Reszty Jakuba – wiernego ludu Bożego.",
+      "bible": [
+        "Iz 25, 1-8",
+        "So 3, 12-13",
+        "Rz 9, 27",
+        "Rz 11, 5"
+      ],
+      "text": [
+        "Już słychać kroki ubogich,",
+        "kroki pokornych,",
+        "kroki pokornych.",
+        "Oto Reszta Jakuba!",
+        ""
+      ]
+    },
+    {
+      "range": "25-26",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jahwe",
+        "Bóg",
+        "uwielbienie",
+        "chwała",
+        "adoracja"
+      ],
+      "summary": "Końcowe powtórzenie refrenu jako liturgiczne dopełnienie pieśni.",
+      "bible": [
+        "Iz 25, 1"
+      ],
+      "text": [
+        "Jahwe, Tyś Bogiem mym,",
+        "będę wielbić Cię."
+      ]
+    },
+    {
+      "range": "1-26",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jahwe",
+        "Bóg",
+        "Iz 25",
+        "uwielbienie",
+        "eschatologia",
+        "śmierć zwyciężona",
+        "Reszta Jakuba",
+        "ubodzy",
+        "pokorni",
+        "zbawienie"
+      ],
+      "summary": "Pieśń oparta na Iz 25, 1-8, łącząca uwielbienie Boga z eschatologiczną nadzieją na zniszczenie śmierci, ociera łez i przyjście Reszty Jakuba.",
+      "bible": [
+        "Iz 25, 1-8",
+        "Ap 21, 4",
+        "1 Kor 15, 54"
+      ]
+    }
+  ]
+}

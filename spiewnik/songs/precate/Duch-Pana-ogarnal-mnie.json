@@ -1,0 +1,189 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:ddd229a72eeb48ad0aacdee83eb5c3235f090ce3b842b9be6550f9eeae32f489",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch",
+        "Pan",
+        "namaścić",
+        "posłać",
+        "przepowiadać",
+        "zbawienie"
+      ],
+      "summary": "Refren oparty na Łk 4, 18-19: Duch Pański namaszcza i posła, by głosić zbawienie.",
+      "bible": [
+        "Łk 4, 18-19",
+        "Iz 61, 1-2"
+      ],
+      "text": [
+        "Duch Pana, Duch Pana ogarnął mnie.",
+        "On mnie namaścił,",
+        "On mnie posłał,",
+        "bym przepowiadał zbawienie.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "przepowiadać",
+        "zbawienie",
+        "ubogi",
+        "serce",
+        "złamać"
+      ],
+      "summary": "Misja głoszenia zbawienia skierowana do ubogich i ludzi o złamanym sercu.",
+      "bible": [
+        "Iz 61, 1",
+        "Mt 11, 5"
+      ],
+      "text": [
+        "Bym przepowiadał zbawienie,",
+        "bym przepowiadał zbawienie",
+        "ubogim,",
+        "których serce jest złamane.",
+        ""
+      ]
+    },
+    {
+      "range": "11-16",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch",
+        "Pan",
+        "namaścić",
+        "posłać",
+        "przepowiadać",
+        "zbawienie"
+      ],
+      "summary": "Powtórzenie refrenu o namaszczeniu i posłaniu przez Ducha Pańskiego.",
+      "bible": [
+        "Łk 4, 18-19",
+        "Iz 61, 1-2"
+      ],
+      "text": [
+        "Duch Pana, Duch Pana ogarnął mnie.",
+        "Duch Pana, Duch Pana ogarnął mnie.",
+        "On mnie namaścił,",
+        "On mnie posłał,",
+        "bym przepowiadał zbawienie:",
+        ""
+      ]
+    },
+    {
+      "range": "17-21",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ślepy",
+        "chromy",
+        "trędowaty",
+        "przepowiadać",
+        "zbawienie"
+      ],
+      "summary": "Wymienia mesjańskie znaki: ślepi przejrzą, chromi będą chodzić, trędowaci wyzdrowieją jako owoce głoszenia zbawienia.",
+      "bible": [
+        "Łk 7, 22",
+        "Iz 35, 5-6",
+        "Mt 11, 5"
+      ],
+      "text": [
+        "by ślepi przejrzeli,",
+        "by chromi chodzili,",
+        "trędowaci wyzdrowieli,",
+        "bym przepowiadał zbawienie.",
+        ""
+      ]
+    },
+    {
+      "range": "22-27",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch",
+        "Pan",
+        "namaścić",
+        "posłać",
+        "przepowiadać",
+        "zbawienie"
+      ],
+      "summary": "Trzecie powtórzenie refrenu umacniające temat posłania przez Ducha.",
+      "bible": [
+        "Łk 4, 18-19",
+        "Iz 61, 1-2"
+      ],
+      "text": [
+        "Duch Pana, Duch Pana ogarnął mnie.",
+        "Duch Pana, Duch Pana ogarnął mnie.",
+        "On mnie namaścił,",
+        "On mnie posłał,",
+        "bym przepowiadał zbawienie.",
+        ""
+      ]
+    },
+    {
+      "range": "28-31",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "przepowiadać",
+        "zbawienie",
+        "ubogi",
+        "serce",
+        "złamać"
+      ],
+      "summary": "Powtórzenie zwrotki o głoszeniu zbawienia ubogim, podkreślające Boże miłosierdzie.",
+      "bible": [
+        "Iz 61, 1",
+        "Mt 11, 5"
+      ],
+      "text": [
+        "Bym przepowiadał zbawienie,",
+        "bym przepowiadał zbawienie",
+        "ubogim,",
+        "których serce jest złamane."
+      ]
+    },
+    {
+      "range": "1-31",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch",
+        "Pan",
+        "namaścić",
+        "posłać",
+        "przepowiadać",
+        "zbawienie",
+        "ubogi",
+        "serc złamane",
+        "ślepy",
+        "chromy",
+        "trędowaty",
+        "Mesjasz",
+        "Izajasz",
+        "Łukasz",
+        "Ewangelia",
+        "Duch Święty",
+        "posłannictwo",
+        "misyjny",
+        "Kościół"
+      ],
+      "summary": "Pieśń oparta na Łk 4, 18-19, gdzie Jezus odnosi proroctwo Izajasza do siebie. Łączy namaszczenie Duchem Świętym z misją głoszenia zbawienia ubogim i chorym.",
+      "bible": [
+        "Łk 4, 18-19",
+        "Iz 61, 1-2",
+        "Iz 35, 5-6",
+        "Mt 11, 5",
+        "Dz 10, 38"
+      ]
+    }
+  ]
+}

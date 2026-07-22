@@ -1,0 +1,149 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:048365c0269cb614bf385f1f9b8b1ecb16e3f9bee36f6b062d8e964ebed8aaff",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "osiołek",
+        "nizin",
+        "jechać",
+        "Betlejem",
+        "podróż",
+        "Jezus Chrystus",
+        "Boże Narodzenie"
+      ],
+      "summary": "Podmiot liryczny wyrusza w podróż do Betlejem na małym osiołku, wyrażając radość z nadchodzącego spotkania z nowonarodzonym Jezusem.",
+      "bible": [
+        "Łk 2, 15-16"
+      ],
+      "text": [
+        "Z moim osiołkiem małym z nizin jadę dziś do Betlejem.",
+        "Z moim osiołkiem małym z nizin jadę dziś do Betlejem.",
+        ""
+      ]
+    },
+    {
+      "range": "4-6",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wiedzieć",
+        "Betlejem",
+        "jechać",
+        "pewność",
+        "podróż",
+        "Jezus Chrystus"
+      ],
+      "summary": "Refren wyrażający pewność i zdecydowanie w dążeniu do Betlejem, gdzie narodził się Jezus.",
+      "bible": [
+        "Mt 2, 1-2"
+      ],
+      "text": [
+        "Jedno wiem, jedno wiem, jadę dziś do Betlejem!",
+        "Jedno wiem, jedno wiem, jadę dziś do Betlejem!",
+        ""
+      ]
+    },
+    {
+      "range": "7-11",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "osiołek",
+        "śpieszyć się",
+        "przybyć",
+        "Jezus",
+        "świat",
+        "narodzenie",
+        "Boże Narodzenie",
+        "Wcielenie"
+      ],
+      "summary": "Radosna zachęta do pośpiechu w podróży, ponieważ Jezus przychodzi na świat – wyrażenie oczekiwania na zbawcze wydarzenie Wcielenia.",
+      "bible": [
+        "Łk 2, 15-16"
+      ],
+      "text": [
+        "Tuki tuki tukituki. Tukituki tu ki ta.",
+        "Pospiesz że się mój osiołku, przybędziemy akurat.",
+        "Tuki tuki tukituki. Tukituki tu ki ta.",
+        "Pospiesz że się mój osiołku, Jezus przyjdzie na ten świat.",
+        ""
+      ]
+    },
+    {
+      "range": "12-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "osiołek",
+        "podskakiwać",
+        "kłusować",
+        "radość",
+        "podróż",
+        "Betlejem",
+        "Jezus Chrystus"
+      ],
+      "summary": "Obraz radosnej podróży na podskakującym i kłusującym osiołku, z powtórzeniem refrenu wyrażającego pewność celu.",
+      "bible": [],
+      "text": [
+        "Z moim osiołkiem podskakuję, mój osiołek dziś kłusuje.",
+        "Z moim osiołkiem podskakuję, mój osiołek dziś kłusuje.",
+        "Jedno wiem …",
+        "Tuki tuki …",
+        ""
+      ]
+    },
+    {
+      "range": "17-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "słońce",
+        "niebo",
+        "ścieżka",
+        "oświecić",
+        "światło",
+        "droga",
+        "Betlejem",
+        "Jezus Chrystus",
+        "Boże Narodzenie"
+      ],
+      "summary": "Poranne słońce oświeca ścieżkę podróżnemu zmierzającemu do Betlejem, symbolizując Boże prowadzenie w drodze do nowonarodzonego Zbawiciela.",
+      "bible": [
+        "Ps 119, 105",
+        "J 8, 12"
+      ],
+      "text": [
+        "Poranne słonko w niebo wzleci, moją ścieżkę mi oświeci.",
+        "Poranne słonko w niebo wzleci, moją ścieżkę mi oświeci.",
+        "Jedno wiem …",
+        "Tuki tuki …"
+      ]
+    },
+    {
+      "range": "1-20",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "osiołek",
+        "Betlejem",
+        "podróż",
+        "Jezus Chrystus",
+        "Boże Narodzenie",
+        "radość",
+        "światło",
+        "słońce",
+        "pośpiech",
+        "narodzenie"
+      ],
+      "summary": "Radosna kolęda dziecięca opowiadająca o podróży do Betlejem na osiołku, wyrażająca dziecięcą radość i prostotę oczekiwania na nowonarodzonego Jezusa. Łączy motyw wędrówki z symbolicznym światłem prowadzącym do Zbawiciela.",
+      "bible": [
+        "Łk 2, 15-16",
+        "Mt 2, 1-2"
+      ]
+    }
+  ]
+}

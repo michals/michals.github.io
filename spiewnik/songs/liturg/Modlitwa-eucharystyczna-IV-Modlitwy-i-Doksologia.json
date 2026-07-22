@@ -1,0 +1,177 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:8a10631a074ab527758b6862b75901e99816761672a66e81d28508fa50e4a93b",
+  "songs_analysis": [
+    {
+      "range": "1",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "2-10",
+      "bible": [],
+      "text": [
+        "Modlitwy wstawiennicze"
+      ]
+    },
+    {
+      "range": "2-10",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "ofiara",
+        "papież",
+        "biskup",
+        "duchowieństwo",
+        "Kościół",
+        "lud Boży",
+        "wstawiennictwo",
+        "modlitwa",
+        "Jezus Chrystus",
+        "Eucharystia",
+        "zmarły",
+        "wiara"
+      ],
+      "summary": "Modlitwa wstawiennicza Kościoła składającego Ofiarę eucharystyczną za papieża, biskupów, duchowieństwo, wiernych, wszystkich szukających Boga oraz za zmarłych.",
+      "bible": [
+        "1 Tm 2, 1-4",
+        "Hbr 13, 15",
+        "2 Mch 12, 43-46",
+        "Ap 14, 13"
+      ],
+      "text": [
+        "Pamiętaj, Boże, o wszystkich, za których składamy tę Ofiarę:",
+        "przede wszystkim o Twoim słudze, naszym Papieżu N.,",
+        "o naszym Biskupie N.,",
+        "o wszystkich biskupach i całym duchowieństwie,",
+        "o składających Ofiarę i tutaj zgromadzonych, o całym Twoim ludzie",
+        "i o wszystkich, którzy szczerym sercem Ciebie szukają.",
+        "Pamiętaj także o tych,",
+        "którzy odeszli z tego świata w pokoju z Chrystusem,",
+        "oraz o wszystkich zmarłych, których wiarę jedynie Ty znałeś."
+      ]
+    },
+    {
+      "range": "11",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "12-19",
+      "bible": [],
+      "text": [
+        "Wspomnienie Świętych"
+      ]
+    },
+    {
+      "range": "12-19",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg Ojciec",
+        "dziecko Boże",
+        "dziedzictwo",
+        "życie wieczne",
+        "Maryja",
+        "Bogurodzica",
+        "święty Józef",
+        "Apostoł",
+        "Święty",
+        "Królestwo Boże",
+        "stworzenie",
+        "wyzwolenie",
+        "grzech",
+        "śmierć",
+        "chwała",
+        "Jezus Chrystus"
+      ],
+      "summary": "Prośba o udział w dziedzictwie życia wiecznego w komunii z Maryją, świętym Józefem, Apostołami i wszystkimi świętymi w Królestwie Bożym, gdzie wyzwolone stworzenie będzie wielbić Boga przez Chrystusa.",
+      "bible": [
+        "Rz 8, 17",
+        "Ef 1, 18",
+        "Ap 7, 9-10",
+        "Rz 8, 19-22",
+        "1 Kor 15, 54-57",
+        "Mt 1, 16"
+      ],
+      "text": [
+        "O dobry Ojcze,",
+        "daj nam, swoim dzieciom, dziedzictwo życia wiecznego",
+        "z Najświętszą Dziewicą, Bogurodzicą Maryją,",
+        "ze świętym Józefem, Jej oblubieńcem",
+        "z Apostołami i wszystkimi Świętymi w Twoim Królestwie,",
+        "gdzie z całym stworzeniem wyzwolonym z grzechu i śmierci",
+        "będziemy Cię chwalić przez naszego Pana Jezusa Chrystusa,",
+        "przez którego obdarzasz świat wszelkimi dobrami."
+      ]
+    },
+    {
+      "range": "20",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "21-26",
+      "bible": [],
+      "text": [
+        "Doksologia końcowa"
+      ]
+    },
+    {
+      "range": "21-26",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "Bóg Ojciec",
+        "Duch Święty",
+        "Trójca Święta",
+        "chwała",
+        "cześć",
+        "wieczność",
+        "Amen",
+        "doksologia",
+        "uwielbienie"
+      ],
+      "summary": "Uroczysta doksologia trynitarna Kościoła: przez Chrystusa, z Chrystusem i w Chrystusie oddawana jest wszelka cześć i chwała Bogu Ojcu w jedności Ducha Świętego na wieki.",
+      "bible": [
+        "Rz 11, 36",
+        "Ef 3, 21",
+        "Flp 2, 9-11",
+        "1 Kor 8, 6",
+        "2 Kor 13, 13"
+      ],
+      "text": [
+        "Przez Chrystusa, z Chrystusem i w Chrystusie,",
+        "Tobie, Boże, Ojcze wszechmogący,",
+        "w jedności Ducha Świętego,",
+        "wszelka cześć i chwała,",
+        "przez wszystkie wieki wieków.",
+        "Amen, amen, amen, amen."
+      ]
+    },
+    {
+      "range": "1-26",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "ofiara eucharystyczna",
+        "wstawiennictwo",
+        "Kościół",
+        "Święty",
+        "życie wieczne",
+        "doksologia",
+        "Trójca Święta",
+        "Jezus Chrystus",
+        "Maryja",
+        "Eucharystia",
+        "modlitwa",
+        "zbawienie"
+      ],
+      "summary": "Modlitwa eucharystyczna IV obejmująca modlitwy wstawiennicze za Kościół i zmarłych, wspomnienie świętych z prośbą o życie wieczne oraz uroczystą doksologię trynitarną zakończoną Amen.",
+      "bible": [
+        "1 Tm 2, 1-4",
+        "Ap 7, 9-10",
+        "Rz 11, 36",
+        "Ef 3, 21"
+      ]
+    }
+  ]
+}

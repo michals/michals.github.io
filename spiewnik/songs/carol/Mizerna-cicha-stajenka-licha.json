@@ -1,0 +1,348 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:d5aba6b8f327f831f661b44bdab195498e8baefff07e9543cf422644125a4791",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "stajenka",
+        "ubóstwo",
+        "chwała",
+        "Jezus Chrystus",
+        "żłób",
+        "Dziecię",
+        "Narodzenie",
+        "niebo",
+        "pokora",
+        "Wcielenie"
+      ],
+      "summary": "Opis ubogiej stajenki pełnej niebieskiej chwały, gdzie w promieniach leży Jezus mały.",
+      "bible": [
+        "Łk 2, 16"
+      ],
+      "text": [
+        "Mizerna, cicha, stajenka licha,",
+        "Pełna niebieskiej chwały;",
+        "Oto leżący, przed nami śpiący,",
+        "W promieniach Jezus mały.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "anioł",
+        "niebo",
+        "pokłon",
+        "chwała",
+        "Jezus Chrystus",
+        "adoracja",
+        "Narodzenie",
+        "tęcza",
+        "skrzydło"
+      ],
+      "summary": "Aniołowie zstępują, klęczą pochyleni ze złotymi włosami i białymi skrzydłami pod malowaną tęczą.",
+      "bible": [
+        "Łk 2, 13-14"
+      ],
+      "text": [
+        "Nad nim Anieli w locie stanęli",
+        "I pochyleni klęczą;",
+        "Z włosy złotemi, z skrzydły białemi",
+        "Pod malowaną tęczą.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "zdziwienie",
+        "stworzenie",
+        "świat",
+        "mądrość",
+        "światłość",
+        "Bóg",
+        "człowiek",
+        "Wcielenie",
+        "orzeźwienie",
+        "Chrystus"
+      ],
+      "summary": "Cały świat orzeźwiony zdumieniem – Mądrość mądrości i Światłość światłości, Bóg-człowiek wcielony.",
+      "bible": [
+        "J 1, 1-14",
+        "1 Kor 1, 24",
+        "Mdr 7, 26"
+      ],
+      "text": [
+        "Wielkie zdziwienie,                                       wszelkie stworzenie,",
+        "Cały świat orzeźwiony;",
+        "Mądrość mądrości,                                         światłość światłości,",
+        "Bóg-człowiek tu wcielony.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pasterz",
+        "ubogi",
+        "Pan",
+        "natchnienie",
+        "zbawienie",
+        "pokłon",
+        "adoracja",
+        "Narodzenie",
+        "kolana"
+      ],
+      "summary": "Ubodzy ludzie, pełni natchnienia i zbawienia, padają na kolana przed Panem.",
+      "bible": [
+        "Łk 2, 15-20"
+      ],
+      "text": [
+        "I oto mnodzy ludzie ubodzy",
+        "Radzi oglądać Pana;",
+        "Pełni natchnienia, pełni zbawienia,",
+        "Upadli na kolana.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "oczekiwanie",
+        "tęsknota",
+        "niebo",
+        "piekło",
+        "zbawienie",
+        "Słowo",
+        "Wcielenie",
+        "Narodzenie",
+        "odkupienie",
+        "nadzieja"
+      ],
+      "summary": "Długie oczekiwanie i wzdychanie skończone – niebo rozgorzało, Słowo ciałem się stało, piekło zawarte, niebo otwarte.",
+      "bible": [
+        "J 1, 14",
+        "Rdz 3, 15",
+        "Hbr 1, 1-2"
+      ],
+      "text": [
+        "Długo czekali, długo wzdychali,",
+        "Aż niebo rozgorzało,",
+        "Piekło zawarte, niebo otwarte,",
+        "Słowo ciałem się stało.",
+        ""
+      ]
+    },
+    {
+      "range": "26-30",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Dziecię",
+        "sen",
+        "cisza",
+        "ubóstwo",
+        "Jezus Chrystus",
+        "promienny",
+        "uśmiech",
+        "Narodzenie",
+        "pokój"
+      ],
+      "summary": "Śpiące Dziecię promienne w ciszy ubogiej strzechy, na ustach małych migają uśmiechy.",
+      "bible": [
+        "Łk 2, 16"
+      ],
+      "text": [
+        "Śpi jeszcze senne Dziecię promienne,",
+        "W ciszy ubogiej strzechy;",
+        "Na licach białych, na ustach małych,",
+        "Migają się uśmiechy.",
+        ""
+      ]
+    },
+    {
+      "range": "31-35",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "kościół",
+        "cisza",
+        "nabożeństwo",
+        "dusza",
+        "łza",
+        "nadzieja",
+        "adoracja",
+        "modlitwa",
+        "wzniesienie"
+      ],
+      "summary": "Jak w kościele – cisza pobożna, oczy się roszą, dusze się wznoszą, a nadzieje płyną w serca.",
+      "bible": [
+        "Ps 42, 2-3",
+        "Rz 15, 13"
+      ],
+      "text": [
+        "Jako w kościele choć ludzi wiele",
+        "Cisza pobożna wieje;",
+        "Oczy się roszą, dusze się wznoszą,",
+        "Płyną w serca nadzieje.",
+        ""
+      ]
+    },
+    {
+      "range": "36-40",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "kołysanka",
+        "Dziecię",
+        "Jezus Chrystus",
+        "zbawienie",
+        "przebudzenie",
+        "miłość",
+        "odkupienie",
+        "nadzieja"
+      ],
+      "summary": "Lulanie Dziecięcia – gdy się rozbudzi, zbawienie stanie się udziałem wszystkich ludzi.",
+      "bible": [
+        "Łk 2, 30-32"
+      ],
+      "text": [
+        "Lulaj dziecino, lulaj ptaszyno,",
+        "Nasze umiłowanie;",
+        "Gdy się rozbudzi, w tej rzeszy ludzi,",
+        "Zbawienie nam się stanie.",
+        ""
+      ]
+    },
+    {
+      "range": "41-45",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Maryja",
+        "Józef",
+        "lilia",
+        "staruszek",
+        "pasterz",
+        "uśmiech",
+        "Narodzenie",
+        "Święta Rodzina"
+      ],
+      "summary": "Maryja, czysta lilija, i drżący Staruszek Józef stoją przed nami i pastuszkami uśmiechnięci.",
+      "bible": [
+        "Łk 2, 16"
+      ],
+      "text": [
+        "Oto Maryja, czysta lilija,",
+        "Przy niej Staruszek drżący,",
+        "Stoją przed nami, przed pastuszkami,",
+        "Tacy uśmiechający.",
+        ""
+      ]
+    },
+    {
+      "range": "46-50",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "człowiek",
+        "niedola",
+        "zbawienie",
+        "chwała",
+        "pokój",
+        "dobrej woli",
+        "Narodzenie",
+        "odkupienie",
+        "Emanuel"
+      ],
+      "summary": "Bóg z nami gości – skończony czas niedoli; chwała na niebie, pokój ludziom dobrej woli.",
+      "bible": [
+        "Łk 2, 14",
+        "Iz 7, 14",
+        "Mt 1, 23"
+      ],
+      "text": [
+        "Hej! Ludzie prości, Bóg z nami gości,",
+        "Skończony czas niedoli.",
+        "On daje siebie, chwała na niebie,",
+        "Pokój ludziom dobrej woli.",
+        ""
+      ]
+    },
+    {
+      "range": "51-54",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "ziemia",
+        "blask",
+        "przepaść",
+        "szatan",
+        "upadek",
+        "Pan",
+        "zwycięstwo",
+        "królestwo",
+        "odkupienie"
+      ],
+      "summary": "Radość na ziemi – przepaść rozwarta, upadek czarta, zstępuje Pan nad pany, roztaczając blask.",
+      "bible": [
+        "Rdz 3, 15",
+        "Ap 12, 9",
+        "J 12, 31"
+      ],
+      "text": [
+        "Radość na ziemi, bo nad wszystkiemi,",
+        "Roztacza blask rumiany.",
+        "Przepaść rozwarta, upadek czarta,",
+        "Zstępuje Pan nad pany."
+      ]
+    },
+    {
+      "range": "1-54",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Narodzenie",
+        "stajenka",
+        "ubóstwo",
+        "anioł",
+        "pasterz",
+        "Wcielenie",
+        "zbawienie",
+        "chwała",
+        "pokój",
+        "Maryja",
+        "Józef",
+        "odkupienie",
+        "Słowo",
+        "światłość",
+        "zwycięstwo",
+        "szatan"
+      ],
+      "summary": "Głęboka teologicznie kolęda opisująca scenę Narodzenia – od ubogiej stajenki, przez pokłon aniołów i pasterzy, po ogłoszenie Wcielenia Słowa, pokoju ludziom i ostatecznego zwycięstwa nad szatanem.",
+      "bible": [
+        "Łk 2, 16",
+        "J 1, 1-14",
+        "Łk 2, 14",
+        "Iz 7, 14",
+        "Rdz 3, 15",
+        "Ap 12, 9",
+        "Hbr 1, 1-2"
+      ]
+    }
+  ]
+}

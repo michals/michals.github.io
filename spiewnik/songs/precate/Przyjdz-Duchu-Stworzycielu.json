@@ -1,0 +1,222 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:f4367da367d9ea5411f57ea1cc12257a27976f4e9fa394c91dfe6ab7d24713cf",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Duch Święty",
+        "Stworzyciel",
+        "przyjść",
+        "nawiedzić",
+        "umysł",
+        "napełnić",
+        "miłość",
+        "serc",
+        "stworzyć"
+      ],
+      "summary": "Inwokacja do Ducha Świętego Stworzyciela, aby nawiedził umysły i napełnił miłością serca wiernych.",
+      "bible": [
+        "Rdz 1, 2",
+        "Rz 5, 5"
+      ],
+      "text": [
+        "Przyjdź, Duchu Stworzycielu,",
+        "nawiedź nasze umysły,",
+        "napełnij Twoją miłością,",
+        "serca, które stworzyłeś.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pocieszyciel",
+        "dar",
+        "Ojciec",
+        "woda żywa",
+        "ogień",
+        "miłość",
+        "namaszczenie",
+        "dusza"
+      ],
+      "summary": "Duch Święty uwielbiony jako Pocieszyciel, dar Ojca, woda żywa, ogień, miłość i święte namaszczenie duszy.",
+      "bible": [
+        "J 14, 16.26",
+        "J 4, 10",
+        "J 7, 38-39",
+        "Dz 2, 3",
+        "1 J 2, 20"
+      ],
+      "text": [
+        "O słodki Pocieszycielu,",
+        "darze Ojca najwyższego,",
+        "wodo żywa, ogniu, miłości,",
+        "święte duszy namaszczenie.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "palec",
+        "Bóg",
+        "obiecać",
+        "Zbawiciel",
+        "dar",
+        "siedem",
+        "słowo",
+        "wzbudzić"
+      ],
+      "summary": "Duch Święty jako palec Bożej ręki, obiecany przez Zbawiciela; prośba o zesłanie siedmiu darów i wzbudzenie słowa.",
+      "bible": [
+        "Wj 8, 15",
+        "J 14, 16",
+        "Iz 11, 1-2",
+        "Łk 11, 20"
+      ],
+      "text": [
+        "Palcu ręki Boga,",
+        "obiecany przez Zbawiciela,",
+        "ześlij Twoich siedem darów,",
+        "wzbudź w nas Twoje słowo.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "światło",
+        "rozum",
+        "płomień",
+        "serc",
+        "uleczyć",
+        "rana",
+        "balsam",
+        "miłość"
+      ],
+      "summary": "Prośba, by Duch był światłem rozumu, płomieniem w sercu i uleczył rany balsamem miłości.",
+      "bible": [
+        "J 8, 12",
+        "Łk 10, 34",
+        "Ps 147, 3"
+      ],
+      "text": [
+        "Bądź światłem dla rozumu,",
+        "płomieniem palącym w sercu,",
+        "ulecz nasze rany",
+        "balsamem Twojej miłości.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "obrona",
+        "nieprzyjaciel",
+        "pokój",
+        "dar",
+        "zwycięski",
+        "prowadzenie",
+        "zły"
+      ],
+      "summary": "Prośba o obronę przed nieprzyjacielem, dar pokoju, zwycięskie prowadzenie i zachowanie od złego.",
+      "bible": [
+        "Ef 6, 10-11",
+        "J 14, 27",
+        "Mt 6, 13"
+      ],
+      "text": [
+        "Broń nas od nieprzyjaciela,",
+        "przynieś nam w darze pokój,",
+        "Twoje zwycięskie prowadzenie",
+        "niech nas zachowa od złego.",
+        ""
+      ]
+    },
+    {
+      "range": "26-30",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "światło",
+        "mądrość",
+        "tajemnica",
+        "Bóg",
+        "Ojciec",
+        "Syn",
+        "jedność",
+        "miłość"
+      ],
+      "summary": "Prośba o odsłonięcie wielkiej tajemnicy Trójcy Świętej: Ojca i Syna zjednoczonych jedną miłością.",
+      "bible": [
+        "Mt 28, 19",
+        "2 Kor 13, 13",
+        "J 17, 21"
+      ],
+      "text": [
+        "Światło wiekuistej mądrości,",
+        "odsłoń nam wielką tajemnicę",
+        "Boga Ojca i Syna,",
+        "zjednoczonych jedną miłością.",
+        ""
+      ]
+    },
+    {
+      "range": "31-31",
+      "type": "zakończenie",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Amen"
+      ],
+      "summary": "Uroczyste zakończenie hymnu aklamacją Amen.",
+      "bible": [],
+      "text": [
+        "Amen."
+      ]
+    },
+    {
+      "range": "1-31",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Duch Święty",
+        "Stworzyciel",
+        "Pocieszyciel",
+        "dar",
+        "miłość",
+        "światło",
+        "mądrość",
+        "siedem darów",
+        "namaszczenie",
+        "woda żywa",
+        "ogień",
+        "Trójca",
+        "pokój",
+        "obrona",
+        "uświęcenie"
+      ],
+      "summary": "Hymn Veni Creator Spiritus na Zesłanie Ducha Świętego, zawierający inwokację do Ducha Stworzyciela, Jego biblijne tytuły oraz prośby o Jego dary, uświęcenie i ochronę, zakończony kontemplacją tajemnicy Trójcy Świętej.",
+      "bible": [
+        "Rdz 1, 2",
+        "J 14, 16.26",
+        "Dz 2, 1-4",
+        "Iz 11, 1-2",
+        "J 7, 38-39",
+        "Ef 6, 10-11",
+        "Mt 6, 13",
+        "2 Kor 13, 13"
+      ]
+    }
+  ]
+}

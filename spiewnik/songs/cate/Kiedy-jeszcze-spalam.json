@@ -1,0 +1,246 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:2186c3aa82677c5313524fbf9d8afc2cf0dabe66d6fe842a409fd5171a925676",
+  "songs_analysis": [
+    {
+      "type": "zwrotka",
+      "range": "1-15",
+      "keywords": [
+        "spać",
+        "serce",
+        "czuwać",
+        "słyszeć",
+        "miły",
+        "głos",
+        "otworzyć",
+        "siostra",
+        "gołąbka",
+        "głowa",
+        "rosa",
+        "kędziory",
+        "kropla",
+        "noc",
+        "ręka",
+        "szczelina",
+        "drzwi",
+        "wnętrze",
+        "zadrzeć",
+        "wstać",
+        "śpiesznie",
+        "dłoń",
+        "mirra",
+        "palec",
+        "zasuwa"
+      ],
+      "bible": [
+        "Pnp 5, 2-5"
+      ],
+      "sentiment": "radosny",
+      "summary": "Oblubienica słyszy głos ukochanego, który prosi o otwarcie, a ona z drżeniem serca śpieszy mu otworzyć",
+      "text": [
+        "Kiedy jeszcze spałam,",
+        "moje serce czuwało,",
+        "usłyszałam mego miłego głos:",
+        "„Otwórz mi, moja siostro,",
+        "otwórz mi, gołąbko,",
+        "albowiem moja głowa pokryta jest rosą,",
+        "a moje kędziory",
+        "kroplami nocy”.",
+        "Wsunął swą rękę",
+        "przez szczelinę drzwi,",
+        "i moje wnętrze zadrżało.",
+        "Wstałam śpiesznie, by otworzyć,",
+        "a dłonie moje ociekały mirrą",
+        "i z palców moich spływała mirra",
+        "na uchwyt zasuwy."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "17-20",
+      "keywords": [
+        "zaklinać",
+        "córka",
+        "jerozolimski",
+        "znaleźć",
+        "miły",
+        "umierać",
+        "miłość",
+        "tęsknota",
+        "oblubienica"
+      ],
+      "bible": [
+        "Pnp 5, 8",
+        "Pnp 2, 7",
+        "Pnp 3, 5"
+      ],
+      "sentiment": "błagalny",
+      "summary": "Oblubienica zaklina córki jerozolimskie, by powiedziały jej ukochanemu, że umiera z miłości",
+      "text": [
+        "Ja zaklinam was,",
+        "córki jerozolimskie,",
+        "gdy znajdziecie mego miłego,",
+        "powiedzcie, że umieram z miłości."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "22-32",
+      "keywords": [
+        "otworzyć",
+        "miły",
+        "odejść",
+        "zniknąć",
+        "życie",
+        "ustać",
+        "oddalić",
+        "szukać",
+        "znaleźć",
+        "wołać",
+        "odpowiedzieć",
+        "strażnik",
+        "miasto",
+        "suknia",
+        "zranić",
+        "mur",
+        "oblubienica",
+        "strata"
+      ],
+      "bible": [
+        "Pnp 5, 6-7",
+        "Pnp 3, 1-3"
+      ],
+      "sentiment": "pokutny",
+      "summary": "Oblubienica otwiera, lecz ukochanego już nie ma; wyrusza na poszukiwanie, a strażnicy miejscy ranią ją",
+      "text": [
+        "Otworzyłam, otworzyłam memu miłemu,",
+        "lecz go nie było,",
+        "już odszedł i zniknął.",
+        "Życie we mnie ustało,",
+        "ponieważ się oddalił;",
+        "szukałam go, lecz nie znalazłam,",
+        "wołałam go, wołałam, ale mi nie odpowiedział.",
+        "Spotkali mnie strażnicy,",
+        "którzy obchodzą miasto,",
+        "zdarli ze mnie suknię",
+        "i zranili mnie strażnicy murów."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "34-37",
+      "keywords": [
+        "zaklinać",
+        "córka",
+        "jerozolimski",
+        "znaleźć",
+        "miły",
+        "umierać",
+        "miłość",
+        "tęsknota"
+      ],
+      "bible": [
+        "Pnp 5, 8"
+      ],
+      "sentiment": "błagalny",
+      "summary": "Oblubienica ponownie zaklina córki jerozolimskie, by wyznały jej miłość",
+      "text": [
+        "Ja zaklinam was,",
+        "córki jerozolimskie,",
+        "gdy znajdziecie mego miłego,",
+        "powiedzcie, że umieram z miłości."
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "39-42",
+      "keywords": [
+        "brat",
+        "całować",
+        "gorszyć się",
+        "oblubienica",
+        "miłość",
+        "tęsknota",
+        "oblubieniec",
+        "bliskość",
+        "czułość"
+      ],
+      "bible": [
+        "Pnp 8, 1"
+      ],
+      "sentiment": "błagalny",
+      "summary": "Oblubienica wyraża pragnienie swobodnej czułości wobec ukochanego bez lęku przed zgorszeniem",
+      "text": [
+        "Ach!",
+        "Gdybyś był moim bratem,",
+        "mogłabym cię całować",
+        "tak, by się nie gorszono."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "44-47",
+      "keywords": [
+        "zaklinać",
+        "córka",
+        "jerozolimski",
+        "znaleźć",
+        "miły",
+        "umierać",
+        "miłość",
+        "tęsknota"
+      ],
+      "bible": [
+        "Pnp 5, 8"
+      ],
+      "sentiment": "błagalny",
+      "summary": "Oblubienica po raz trzeci zaklina córki jerozolimskie, by świadczyły o jej miłości",
+      "text": [
+        "Ja zaklinam was,",
+        "córki jerozolimskie,",
+        "gdy znajdziecie mego miłego,",
+        "powiedzcie, że umieram z miłości."
+      ]
+    },
+    {
+      "type": "całość",
+      "range": "1-47",
+      "keywords": [
+        "oblubienica",
+        "oblubieniec",
+        "miłość",
+        "tęsknota",
+        "szukać",
+        "miły",
+        "noc",
+        "otworzyć",
+        "odejść",
+        "zranić",
+        "strażnik",
+        "mirra",
+        "umierać",
+        "córka jerozolimska",
+        "Bóg",
+        "dusza",
+        "mistyczny",
+        "zjednoczenie",
+        "próba",
+        "wierność",
+        "bliskość",
+        "całować",
+        "wołać",
+        "znaleźć",
+        "odpowiedzieć"
+      ],
+      "bible": [
+        "Pnp 5, 2-8",
+        "Pnp 8, 1",
+        "Pnp 2, 7",
+        "Pnp 3, 1-4",
+        "Ef 5, 25-32"
+      ],
+      "sentiment": "błagalny",
+      "summary": "Pieśń na podstawie Pieśni nad Pieśniami opowiada o oblubienicy szukającej ukochanego w nocy i wyrażającej swoją tęsknotę miłosną, co w interpretacji mistycznej obrazuje duszę szukającą Boga"
+    }
+  ]
+}

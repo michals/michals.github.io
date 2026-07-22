@@ -1,0 +1,217 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:05636794ca1a81b170b4ae6ccee9e8c9ff157f328fdd8f252f79adba4f91a63f",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bóg",
+        "ucieczka",
+        "odrzucić",
+        "smutek",
+        "prześladowanie",
+        "wróg"
+      ],
+      "summary": "Skarga duszy do Boga – ucieczki, która wydaje się odrzucona, wśród smutku i prześladowania (Ps 43,2).",
+      "bible": [
+        "Ps 43,2"
+      ],
+      "text": [
+        "Ty Boże, jesteś moją ucieczką,",
+        "dlaczego mnie odrzuciłeś?",
+        "Czemu chodzę smutny i prześladowany",
+        "przez wroga?",
+        ""
+      ]
+    },
+    {
+      "range": "6-8",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Pan",
+        "zesłać",
+        "wierność",
+        "światłość"
+      ],
+      "summary": "Błaganie o zesłanie Bożej wierności i światłości jako przewodników (Ps 43,3).",
+      "bible": [
+        "Ps 43,3"
+      ],
+      "text": [
+        "Panie, ześlij Twoją wierność,",
+        "Panie, ześlij Twoją światłość.",
+        ""
+      ]
+    },
+    {
+      "range": "9-13",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "światłość",
+        "wierność",
+        "wieść",
+        "prowadzić",
+        "święta góra",
+        "przybytek"
+      ],
+      "summary": "Prośba, by światłość i wierność Boża zaprowadziły na świętą górę i do przybytków Pana (Ps 43,3).",
+      "bible": [
+        "Ps 43,3"
+      ],
+      "text": [
+        "Ześlij światłość i wierność Twoją,",
+        "niech one mnie wiodą,",
+        "niech mnie zaprowadzą na Twoją świętą górę",
+        "i do Twoich przybytków.",
+        ""
+      ]
+    },
+    {
+      "range": "14-16",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Pan",
+        "zesłać",
+        "wierność",
+        "światłość"
+      ],
+      "summary": "Błaganie o zesłanie Bożej wierności i światłości.",
+      "bible": [
+        "Ps 43,3"
+      ],
+      "text": [
+        "Panie, ześlij Twoją wierność,",
+        "Panie, ześlij Twoją światłość.",
+        ""
+      ]
+    },
+    {
+      "range": "17-21",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "przystąpić",
+        "ołtarz",
+        "Bóg",
+        "wesele",
+        "radość",
+        "chwalić",
+        "lutnia"
+      ],
+      "summary": "Zapowiedź przystąpienia do ołtarza Bożego z radością i chwałą na lutni – prefiguracja liturgii eucharystycznej (Ps 43,4).",
+      "bible": [
+        "Ps 43,4"
+      ],
+      "text": [
+        "I przystąpię do ołtarza Bożego,",
+        "do Boga, który jest moim weselem i radością.",
+        "I będę Cię chwalił przy dźwiękach lutni,",
+        "Boże mój, Boże.",
+        ""
+      ]
+    },
+    {
+      "range": "22-24",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Pan",
+        "zesłać",
+        "wierność",
+        "światłość"
+      ],
+      "summary": "Błaganie o zesłanie Bożej wierności i światłości.",
+      "bible": [
+        "Ps 43,3"
+      ],
+      "text": [
+        "Panie, ześlij Twoją wierność,",
+        "Panie, ześlij Twoją światłość.",
+        ""
+      ]
+    },
+    {
+      "range": "25-29",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dusza",
+        "zgnębienie",
+        "trwoga",
+        "ufać",
+        "Bóg",
+        "wysławiać",
+        "zbawienie",
+        "oblicze"
+      ],
+      "summary": "Napomnienie duszy, by ufała Bogu; On jest zbawieniem i Bogiem wierzącego (Ps 43,5).",
+      "bible": [
+        "Ps 43,5"
+      ],
+      "text": [
+        "Czemu zgnębiona jesteś duszo moja",
+        "i czemu trwożysz się we mnie?",
+        "Ufaj Bogu, bo jeszcze wysławiać Go będę,",
+        "On zbawieniem mojego oblicza i moim Bogiem.",
+        ""
+      ]
+    },
+    {
+      "range": "30-31",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Pan",
+        "zesłać",
+        "wierność",
+        "światłość"
+      ],
+      "summary": "Błaganie o zesłanie Bożej wierności i światłości.",
+      "bible": [
+        "Ps 43,3"
+      ],
+      "text": [
+        "Panie, ześlij Twoją wierność,",
+        "Panie, ześlij Twoją światłość."
+      ]
+    },
+    {
+      "range": "1-31",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "ucieczka",
+        "Bóg",
+        "światłość",
+        "wierność",
+        "ołtarz",
+        "dusza",
+        "ufność",
+        "zbawienie",
+        "radość",
+        "prześladowanie",
+        "przybytek",
+        "góra święta",
+        "lutnia",
+        "chwała",
+        "trwoga",
+        "wesele",
+        "nadzieja",
+        "modlitwa",
+        "psalm",
+        "łaska"
+      ],
+      "summary": "Parafraza Ps 43 – pieśń przejścia od smutku i ucisku do radości przy ołtarzu Bożym. Refren o światłości i wierności jako przewodnikach. Typologia: święta góra i przybytek prefigurują Kościół i Eucharystię; tęsknota za ołtarzem Bożym zapowiada chrześcijańską liturgię (Hbr 10,19-22). Światłość Boża typologicznie wskazuje na Chrystusa – Światłość świata (J 8,12).",
+      "bible": [
+        "Ps 43",
+        "J 8,12",
+        "Hbr 10,19-22"
+      ]
+    }
+  ]
+}

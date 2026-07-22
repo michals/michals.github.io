@@ -1,0 +1,181 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:85bfeee772a2d51d389bbd12b992d9cd86743caba17d6b6c46cacd33b1a53642",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "prawica",
+        "nieprzyjaciele",
+        "podnóżek",
+        "tron",
+        "władza",
+        "Mesjasz"
+      ],
+      "summary": "Zaproszenie Mesjasza do zasiadania po prawicy Boga i obietnica poddania nieprzyjaciół pod Jego stopy.",
+      "bible": [
+        "Ps 110,1",
+        "Mt 22,44",
+        "Dz 2,34-35",
+        "Hbr 1,13"
+      ],
+      "text": [
+        "Rzekł Pan do Pana mego:",
+        "„Siądź po mojej prawicy,",
+        "aż położę twych nieprzyjaciół",
+        "jak podnóżek pod Twe stopy,",
+        "jak podnóżek pod Twe stopy,",
+        "jak podnóżek pod Twe stopy”.",
+        ""
+      ]
+    },
+    {
+      "range": "8-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "berło",
+        "Syjon",
+        "panowanie",
+        "wrogowie",
+        "jutrzenka",
+        "zrodzenie",
+        "królestwo"
+      ],
+      "summary": "Pan rozpościera berło Mesjasza z Syjonu, a Bóg rodzi Go z łona jutrzenki jak rosę – metafora wiecznego zrodzenia Syna.",
+      "bible": [
+        "Ps 110,2-3",
+        "J 1,14",
+        "Hbr 1,5"
+      ],
+      "text": [
+        "Berło Twojej władzy",
+        "rozpościera Pan z Syjonu:",
+        "„Panuj pośród swoich wrogów,",
+        "panuj pośród swoich wrogów.",
+        "Z łona jutrzenki",
+        "jako rosę Cię zrodziłem,",
+        "z łona jutrzenki",
+        "jako rosę Cię zrodziłem”.",
+        ""
+      ]
+    },
+    {
+      "range": "17-23",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "prawica",
+        "nieprzyjaciele",
+        "podnóżek",
+        "tron"
+      ],
+      "summary": "Powtórzenie mesjańskiego wezwania do zasiadania po prawicy Boga.",
+      "bible": [
+        "Ps 110,1",
+        "Mt 22,44"
+      ],
+      "text": [
+        "Rzekł Pan do Pana mego:",
+        "„Siądź po mojej prawicy,",
+        "aż położę Twych nieprzyjaciół",
+        "jak podnóżek pod Twe stopy,",
+        "jak podnóżek pod Twe stopy,",
+        "jak podnóżek pod Twe stopy”.",
+        ""
+      ]
+    },
+    {
+      "range": "24-36",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "kapłan",
+        "Melchizedek",
+        "wieczność",
+        "przysięga",
+        "pragnienie",
+        "potok",
+        "głowa",
+        "sąd"
+      ],
+      "summary": "Mesjasz ustanowiony kapłanem na wieki na wzór Melchizedeka; gasi pragnienie wodą z potoku i podnosi głowę – typologia paschalna i eucharystyczna.",
+      "bible": [
+        "Ps 110,4-7",
+        "Hbr 5,6",
+        "Hbr 7,1-28",
+        "J 19,28-30"
+      ],
+      "text": [
+        "Pan przysiągł i żal Mu nie będzie:",
+        "„Tyś jest kapłanem na wieki",
+        "na wzór Melchizedeka,",
+        "na wzór Melchizedeka”.",
+        "Pan jest po Twojej prawicy,",
+        "zniweczy wszystkich Twoich wrogów,",
+        "będzie sądził narody,",
+        "będzie sądził narody.",
+        "Bowiem w drodze ugasi pragnienie wodą z potoku",
+        "i podniesie głowę wysoko,",
+        "i podniesie głowę wysoko,",
+        "i podniesie głowę wysoko.",
+        ""
+      ]
+    },
+    {
+      "range": "37-42",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "prawica",
+        "nieprzyjaciele",
+        "podnóżek",
+        "stopy"
+      ],
+      "summary": "Końcowe powtórzenie mesjańskiej intronizacji po prawicy Ojca.",
+      "bible": [
+        "Ps 110,1",
+        "Mt 22,44"
+      ],
+      "text": [
+        "Rzekł Pan do Pana mego:",
+        "„Siądź po mojej prawicy,",
+        "aż położę twych nieprzyjaciół",
+        "jak podnóżek pod twe stopy,",
+        "jak podnóżek pod twe stopy,",
+        "jak podnóżek pod twe stopy”."
+      ]
+    },
+    {
+      "range": "1-42",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Mesjasz",
+        "kapłan",
+        "król",
+        "prawica",
+        "Syjon",
+        "Melchizedek",
+        "wieczność",
+        "panowanie",
+        "sąd",
+        "zbawienie",
+        "psalm mesjański"
+      ],
+      "summary": "Psalm 110, najczęściej cytowany w NT psalm mesjański, ukazuje intronizację Chrystusa-Króla po prawicy Ojca i Jego wieczne kapłaństwo na wzór Melchizedeka; wypełnia się w zmartwychwstaniu, wniebowstąpieniu i eucharystycznej ofierze Syna Bożego.",
+      "bible": [
+        "Ps 110",
+        "Mt 22,44",
+        "Dz 2,34-35",
+        "Hbr 5,6",
+        "Hbr 7,1-28"
+      ]
+    }
+  ]
+}

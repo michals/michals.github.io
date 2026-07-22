@@ -1,0 +1,221 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:dc606a808871fe05e5555213a99bfd70a4761e0d607d58e228e61ad9e53cccb0",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "święty",
+        "Pan",
+        "Bóg",
+        "majestat",
+        "chwała",
+        "Trójca Święta",
+        "adoracja"
+      ],
+      "summary": "Potrójna aklamacja Sanctus – liturgiczne wołanie o świętości Boga, fundament każdej Eucharystii.",
+      "bible": [
+        "Iz 6, 3",
+        "Ap 4, 8"
+      ],
+      "text": [
+        "Święty, święty, święty,",
+        "Święty, święty, święty.",
+        ""
+      ]
+    },
+    {
+      "range": "4-8",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "niebo",
+        "ziemia",
+        "wypełnienie",
+        "chwała",
+        "Bóg",
+        "obecność",
+        "stworzenie"
+      ],
+      "summary": "Pleni sunt caeli – wyznanie, że cały wszechświat jest przeniknięty chwałą Bożą.",
+      "bible": [
+        "Iz 6, 3",
+        "Ps 19, 2",
+        "Ps 24, 1"
+      ],
+      "text": [
+        "Niebiosa",
+        "i ziemia",
+        "są wypełnione,",
+        "są wypełnione Tobą.",
+        ""
+      ]
+    },
+    {
+      "range": "9-11",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "hosanna",
+        "uwielbienie",
+        "Mesjasz",
+        "Jezus Chrystus",
+        "Król",
+        "zbawienie",
+        "wysokość",
+        "niebo"
+      ],
+      "summary": "Pierwsza aklamacja refreniczna Hosanna na niebie wysokim – radosne wołanie o zbawienie.",
+      "bible": [
+        "Ps 118, 25-26",
+        "Mt 21, 9",
+        "Mk 11, 9-10",
+        "J 12, 13"
+      ],
+      "text": [
+        "Hosanna, hosanna, hosanna, hosanna,",
+        "Hosanna, hosanna, na niebie wysokim!",
+        ""
+      ]
+    },
+    {
+      "range": "12-14",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "hosanna",
+        "uwielbienie",
+        "Mesjasz",
+        "Jezus Chrystus",
+        "Król",
+        "zbawienie",
+        "wysokość",
+        "niebo"
+      ],
+      "summary": "Powtórzenie refrenu Hosanna, podkreślające radosny charakter liturgicznej aklamacji.",
+      "bible": [
+        "Ps 118, 25-26",
+        "Mt 21, 9",
+        "Mk 11, 9-10",
+        "J 12, 13"
+      ],
+      "text": [
+        "Hosanna, hosanna, hosanna, hosanna,",
+        "Hosanna, hosanna, na niebie wysokim!",
+        ""
+      ]
+    },
+    {
+      "range": "15-19",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławiony",
+        "Ten",
+        "iść",
+        "imię",
+        "Pan",
+        "Jezus Chrystus",
+        "Mesjasz",
+        "przyjście",
+        "Paruzja"
+      ],
+      "summary": "Benedictus – błogosławieństwo Mesjasza przychodzącego w imię Pańskie; typologiczne wypełnienie Psalmu 118 w osobie Jezusa Chrystusa.",
+      "bible": [
+        "Ps 118, 26",
+        "Mt 21, 9",
+        "Mk 11, 9-10",
+        "Łk 13, 35",
+        "J 12, 13"
+      ],
+      "text": [
+        "Błogosławiony",
+        "Ten, który idzie.",
+        "Błogosławiony,",
+        "który idzie w imię Pana.",
+        ""
+      ]
+    },
+    {
+      "range": "20-22",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "hosanna",
+        "uwielbienie",
+        "Mesjasz",
+        "Jezus Chrystus",
+        "Król",
+        "zbawienie",
+        "wysokość"
+      ],
+      "summary": "Refren Hosanna po Benedictus, łączący błogosławieństwo Mesjasza z radosną aklamacją.",
+      "bible": [
+        "Ps 118, 25-26",
+        "Mt 21, 9",
+        "Mk 11, 9-10",
+        "J 12, 13"
+      ],
+      "text": [
+        "Hosanna, hosanna, hosanna, hosanna,",
+        "Hosanna, hosanna, na niebie wysokim!",
+        ""
+      ]
+    },
+    {
+      "range": "23-24",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "hosanna",
+        "uwielbienie",
+        "Mesjasz",
+        "Jezus Chrystus",
+        "Król",
+        "zbawienie",
+        "wysokość"
+      ],
+      "summary": "Końcowe powtórzenie refrenu Hosanna, zamykające pieśń Sanctus w rzymskiej melodii.",
+      "bible": [
+        "Ps 118, 25-26",
+        "Mt 21, 9",
+        "Mk 11, 9-10",
+        "J 12, 13"
+      ],
+      "text": [
+        "Hosanna, hosanna, hosanna, hosanna,",
+        "Hosanna, hosanna, na niebie wysokim!"
+      ]
+    },
+    {
+      "range": "1-24",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "święty",
+        "Pan",
+        "Bóg",
+        "hosanna",
+        "błogosławiony",
+        "Mesjasz",
+        "Jezus Chrystus",
+        "chwała",
+        "majestat",
+        "adoracja",
+        "liturgia",
+        "niebo",
+        "ziemia",
+        "zbawienie"
+      ],
+      "summary": "Sanctus rzymskie – klasyczna, czterokrotnie powtórzona struktura refreniczna Hosanny otaczająca Sanctus, Pleni sunt i Benedictus; stanowi liturgiczną aklamację Kościoła uczestniczącego w niebiańskiej liturgii.",
+      "bible": [
+        "Iz 6, 3",
+        "Ps 118, 25-26",
+        "Mt 21, 9",
+        "Ap 4, 8"
+      ]
+    }
+  ]
+}

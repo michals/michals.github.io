@@ -1,0 +1,303 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:599c27d85eb96c56c1e1c9228e9fba60a8e3a12e4d75f53f36a7b01b0d630692",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "ślepy",
+        "wzrok",
+        "uzdrowienie",
+        "grzesznik",
+        "zmiłowanie",
+        "Jezus Chrystus",
+        "miłosierdzie",
+        "wiara",
+        "cud"
+      ],
+      "summary": "Wezwanie do Chrystusa, który przywrócił wzrok ślepemu, z prośbą o zmiłowanie dla grzeszników.",
+      "bible": [
+        "Mk 10, 46-52",
+        "Łk 18, 35-43",
+        "J 9, 1-7"
+      ],
+      "text": [
+        "Ty, któryś ślepemu wołającemu do Ciebie   wzrok przywrócił,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami,",
+        "zmiłuj się Panie!",
+        ""
+      ]
+    },
+    {
+      "range": "5-8",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Zacheusz",
+        "zbawienie",
+        "dom",
+        "grzesznik",
+        "zmiłowanie",
+        "Jezus Chrystus",
+        "nawrócenie",
+        "miłosierdzie"
+      ],
+      "summary": "Wezwanie do Chrystusa, który wszedł do domu Zacheusza niosąc zbawienie, z prośbą o zmiłowanie.",
+      "bible": [
+        "Łk 19, 1-10"
+      ],
+      "text": [
+        "Ty, który wszedłeś do domu Zacheusza      niosąc zbawienie,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami,",
+        "zmiłuj się Panie!",
+        ""
+      ]
+    },
+    {
+      "range": "9-12",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Łazarz",
+        "śmierć",
+        "wskrzeszenie",
+        "życie",
+        "grzesznik",
+        "zmiłowanie",
+        "Jezus Chrystus",
+        "zmartwychwstanie",
+        "wiara"
+      ],
+      "summary": "Wezwanie do Chrystusa, który wskrzesił Łazarza z martwych, z prośbą o zmiłowanie.",
+      "bible": [
+        "J 11, 1-44"
+      ],
+      "text": [
+        "Ty, któryś ze śmierci wezwał Łazarza,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami,",
+        "zmiłuj się Panie!",
+        ""
+      ]
+    },
+    {
+      "range": "13-16",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "cudzołożnica",
+        "przebaczenie",
+        "grzech",
+        "miłosierdzie",
+        "grzesznik",
+        "zmiłowanie",
+        "Jezus Chrystus",
+        "sąd",
+        "nawrócenie"
+      ],
+      "summary": "Wezwanie do Chrystusa, który przebaczył cudzołożnicy, z prośbą o zmiłowanie.",
+      "bible": [
+        "J 8, 1-11"
+      ],
+      "text": [
+        "Ty, któryś przebaczył cudzołożnicy,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami,",
+        "zmiłuj się Panie!",
+        ""
+      ]
+    },
+    {
+      "range": "17-20",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "grzesznik",
+        "prostytutka",
+        "posiłek",
+        "miłosierdzie",
+        "Jezus Chrystus",
+        "zmiłowanie",
+        "towarzystwo",
+        "nawrócenie"
+      ],
+      "summary": "Wezwanie do Chrystusa, który jadł z prostytutkami i grzesznikami, z prośbą o zmiłowanie.",
+      "bible": [
+        "Mt 9, 10-13",
+        "Mk 2, 15-17",
+        "Łk 5, 29-32",
+        "Łk 15, 1-2"
+      ],
+      "text": [
+        "Ty, któryś nigdy nie odmówił jedzenia z prostytutkami i grzesznikami,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami,",
+        "zmiłuj się Panie!",
+        ""
+      ]
+    },
+    {
+      "range": "21-24",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "krzyż",
+        "dobry łotr",
+        "przebaczenie",
+        "grzesznik",
+        "zmiłowanie",
+        "Jezus Chrystus",
+        "odkupienie",
+        "miłosierdzie",
+        "śmierć"
+      ],
+      "summary": "Wezwanie do Chrystusa, który na krzyżu przebaczył dobremu łotrowi, z prośbą o zmiłowanie.",
+      "bible": [
+        "Łk 23, 39-43"
+      ],
+      "text": [
+        "Ty, któryś z krzyża przebaczył dobremu łotrowi,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami,",
+        "zmiłuj się Panie!",
+        ""
+      ]
+    },
+    {
+      "range": "25-28",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "grzech",
+        "znajomość",
+        "Jezus Chrystus",
+        "zmiłowanie",
+        "grzesznik",
+        "serce",
+        "wszechwiedza",
+        "sumienie"
+      ],
+      "summary": "Wezwanie do Chrystusa, który jedyny zna nasze grzechy, z prośbą o zmiłowanie.",
+      "bible": [
+        "Ps 139, 1-4",
+        "J 2, 25",
+        "Jr 17, 10"
+      ],
+      "text": [
+        "Ty, który jedyny znasz nasze grzechy,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami,",
+        "zmiłuj się Panie!",
+        ""
+      ]
+    },
+    {
+      "range": "29-32",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Judasz",
+        "zdrada",
+        "miłość",
+        "koniec",
+        "wierność",
+        "Jezus Chrystus",
+        "zmiłowanie",
+        "miłosierdzie",
+        "grzesznik"
+      ],
+      "summary": "Wezwanie do Chrystusa, który kochał Judasza aż do końca, z prośbą o zmiłowanie.",
+      "bible": [
+        "Mt 26, 14-16",
+        "Mt 26, 47-50",
+        "J 13, 21-30",
+        "J 13, 1"
+      ],
+      "text": [
+        "Ty, któryś kochał Judasza aż do końca,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami,",
+        "zmiłuj się Panie!",
+        ""
+      ]
+    },
+    {
+      "range": "33-36",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "nieprzyjaciel",
+        "miłość",
+        "przykazanie",
+        "Jezus Chrystus",
+        "zmiłowanie",
+        "grzesznik",
+        "miłosierdzie",
+        "przebaczenie"
+      ],
+      "summary": "Wezwanie do Chrystusa, który jedynie kocha nieprzyjaciół, z prośbą o zmiłowanie.",
+      "bible": [
+        "Mt 5, 43-48",
+        "Łk 6, 27-36",
+        "Rz 5, 10"
+      ],
+      "text": [
+        "Ty, który jedyny kochasz nieprzyjaciół,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami,",
+        "zmiłuj się Panie!",
+        ""
+      ]
+    },
+    {
+      "range": "37-39",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "śmierć",
+        "zmartwychwstanie",
+        "usprawiedliwienie",
+        "Jezus Chrystus",
+        "zmiłowanie",
+        "grzesznik",
+        "odkupienie",
+        "Pascha",
+        "zbawienie"
+      ],
+      "summary": "Wezwanie do Chrystusa, który umarł i zmartwychwstał dla naszego usprawiedliwienia, z prośbą o zmiłowanie.",
+      "bible": [
+        "Rz 4, 25",
+        "1 Kor 15, 3-4",
+        "Rz 5, 8-9"
+      ],
+      "text": [
+        "Ty, któryś umarł i zmartwychwstał dla naszego usprawiedliwienia,",
+        "zmiłuj się nad nami, bo jesteśmy grzesznikami,",
+        "zmiłuj się Panie!"
+      ]
+    },
+    {
+      "range": "1-39",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "pokuta",
+        "grzech",
+        "zmiłowanie",
+        "Jezus Chrystus",
+        "litania",
+        "miłosierdzie",
+        "grzesznik",
+        "nawrócenie",
+        "odkupienie",
+        "przebaczenie",
+        "usprawiedliwienie"
+      ],
+      "summary": "Litania pokutna oparta na ewangelicznych scenach miłosierdzia — każde wezwanie przywołuje konkretny akt miłosierdzia Chrystusa wobec grzeszników z prośbą o zmiłowanie.",
+      "bible": [
+        "Mk 10, 46-52",
+        "Łk 19, 1-10",
+        "J 11, 1-44",
+        "J 8, 1-11",
+        "Łk 23, 39-43",
+        "Mt 5, 43-48",
+        "Rz 4, 25"
+      ]
+    }
+  ]
+}

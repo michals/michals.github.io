@@ -1,0 +1,260 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:91f850245c6608d876b8c0d7e3751c5b4d8c54b27fdc224357e0ce3a8fe5afd1",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Pan",
+        "dom",
+        "budowa",
+        "miasto",
+        "straż",
+        "trud",
+        "daremność",
+        "Boża Opatrzność",
+        "łaska",
+        "działanie Boże",
+        "ufność",
+        "błogosławieństwo"
+      ],
+      "summary": "Zasadnicza prawda, że bez Pana wszelki ludzki trud budowania i strzeżenia jest daremny, podkreślająca absolutną zależność człowieka od Boga.",
+      "bible": [
+        "Ps 127, 1",
+        "J 15, 5",
+        "1 Kor 3, 7",
+        "Mdr 9, 9-12"
+      ],
+      "text": [
+        "Jeśli Pan nie wybuduje domu,",
+        "na próżno trudzą się ci, którzy go wznoszą.",
+        "",
+        "Jeśli Pan nie ustrzeże miasta,",
+        "nadaremnie czuwa strażnik,",
+        "jeśli Pan nie ustrzeże miasta."
+      ]
+    },
+    {
+      "range": "7",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "8-9",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "8-9",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Pan",
+        "dom",
+        "budowa",
+        "trud",
+        "daremność",
+        "Boża Opatrzność",
+        "ufność",
+        "łaska"
+      ],
+      "summary": "Powtórzenie refrenu o daremności ludzkiego trudu bez Pana, podkreślające centralne przesłanie psalmu.",
+      "bible": [
+        "Ps 127, 1"
+      ],
+      "text": [
+        "-Jeśli Pan nie wybuduje domu,",
+        "na próżno trudzą się ci, którzy go wznoszą."
+      ]
+    },
+    {
+      "range": "10",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "11-14",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "praca",
+        "chleb",
+        "sen",
+        "dar",
+        "Bóg",
+        "przyjaciel",
+        "Opatrzność",
+        "odpoczynek",
+        "zaufanie",
+        "utrzymanie",
+        "dar Boży"
+      ],
+      "summary": "Nadmierny ludzki trud i troska o chleb są daremne, ponieważ Bóg daje swym przyjaciołom wszystko we śnie, ukazując ufność w Bożą Opatrzność.",
+      "bible": [
+        "Ps 127, 2",
+        "Mt 6, 25-34",
+        "Flp 4, 6-7",
+        "Rdz 2, 2-3",
+        "Prz 10, 22"
+      ],
+      "text": [
+        "Na próżno zrywacie się przed świtem,",
+        "późno idziecie na spoczynek,",
+        "by zapracować na chleb.",
+        "Bóg daje go swym przyjaciołom we śnie."
+      ]
+    },
+    {
+      "range": "15",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "16-17",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "16-17",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Pan",
+        "dom",
+        "budowa",
+        "trud",
+        "daremność",
+        "Boża Opatrzność",
+        "ufność",
+        "łaska"
+      ],
+      "summary": "Powtórzenie refrenu o daremności ludzkiego trudu bez Pana.",
+      "bible": [
+        "Ps 127, 1"
+      ],
+      "text": [
+        "-Jeśli Pan nie wybuduje domu,",
+        "na próżno trudzą się ci, którzy go wznoszą."
+      ]
+    },
+    {
+      "range": "18",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "19-23",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "19-23",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "syn",
+        "dar",
+        "rodzina",
+        "dziecko",
+        "błogosławieństwo",
+        "strzała",
+        "wojownik",
+        "szczęście",
+        "potomstwo",
+        "małżeństwo",
+        "płodność",
+        "Boże błogosławieństwo",
+        "rodzicielstwo"
+      ],
+      "summary": "Synowie są darem Pana i jak strzały w ręku wojownika, a mąż mają liczne potomstwo jest szczęśliwy i nie boi się wrogów.",
+      "bible": [
+        "Ps 127, 3-5",
+        "Rdz 1, 28",
+        "Rdz 33, 5",
+        "Joz 24, 3-4",
+        "Ps 128, 3-4"
+      ],
+      "text": [
+        "Darem Pana są synowie,",
+        "są jak strzały w ręku wojownika",
+        "synowie zrodzeni w młodości.",
+        "Szczęśliwy mąż, który napełnił nimi swój kołczan;",
+        "nie będzie się bał swoich wrogów."
+      ]
+    },
+    {
+      "range": "24",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "25-26",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "25-26",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Pan",
+        "dom",
+        "budowa",
+        "trud",
+        "daremność",
+        "Boża Opatrzność",
+        "ufność",
+        "łaska"
+      ],
+      "summary": "Końcowe powtórzenie refrenu podsumowującego całej pieśni.",
+      "bible": [
+        "Ps 127, 1"
+      ],
+      "text": [
+        "-Jeśli Pan nie wybuduje domu,",
+        "na próżno trudzą się ci, którzy go wznoszą."
+      ]
+    },
+    {
+      "range": "1-26",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Ps 127",
+        "Boża Opatrzność",
+        "zaufanie",
+        "daremność",
+        "łaska",
+        "dom",
+        "miasto",
+        "rodzina",
+        "syn",
+        "praca",
+        "chleb",
+        "błogosławieństwo",
+        "ufność",
+        "Boże działanie"
+      ],
+      "summary": "Parafraza Psalmu 127 ukazująca całkowitą zależność człowieka od Boga we wszystkich aspektach życia — budowaniu, pracy, rodzinie — oraz ufność w Bożą Opatrzność.",
+      "bible": [
+        "Ps 127",
+        "Mt 6, 25-34",
+        "J 15, 5",
+        "Rdz 1, 28",
+        "1 Kor 3, 7"
+      ]
+    }
+  ]
+}

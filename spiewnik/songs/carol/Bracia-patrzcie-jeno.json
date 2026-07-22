@@ -1,0 +1,234 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:f094f8c4059d1e7e7cd231923a685e29d343b03a67514705c75133257985ade2",
+  "songs_analysis": [
+    {
+      "range": "1-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "bracia",
+        "niebo",
+        "goreć",
+        "Betlejem",
+        "pasterze",
+        "Bóg",
+        "cud",
+        "wezwanie"
+      ],
+      "summary": "Pasterze wzywają się wzajemnie do porzucenia zajęć i pośpiechu do Betlejem, gdzie dzieje się coś niezwykłego — niebo goreje światłem.",
+      "bible": [
+        "Łk 2, 8-12",
+        "Łk 2, 15"
+      ],
+      "text": [
+        "Bracia patrzcie jeno",
+        "jak niebo goreje!",
+        "Znać, że coś dziwnego",
+        "w Betlejem się dzieje.",
+        "Rzućmy budy, warty, stada,",
+        "niechaj nimi Pan Bóg włada.",
+        "A my do Betlejem,",
+        "a my do Betlejem,",
+        "do Betlejem.",
+        ""
+      ]
+    },
+    {
+      "range": "11-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "gwiazda",
+        "światło",
+        "Pan",
+        "pokłon",
+        "Betlejem",
+        "radość",
+        "śmiałość",
+        "adoracja"
+      ],
+      "summary": "Gwiazda prowadzi pasterzy do Betlejem, wzywając ich śmiałym i wesołym krokiem do oddania pokłonu Panu.",
+      "bible": [
+        "Mt 2, 2",
+        "Łk 2, 8-12",
+        "Lb 24, 17"
+      ],
+      "text": [
+        "Patrzcie, jak tam gwiazda",
+        "światłem swoim miga!",
+        "Pewnie do uczczenia",
+        "Pana swego ściga.",
+        "Krokiem śmiałym i wesołym",
+        "śpieszmy i uderzmy czołem;",
+        "przed Panem w Betlejem,",
+        "przed Panem w Betlejem,",
+        "w Betlejem.",
+        ""
+      ]
+    },
+    {
+      "range": "21-30",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "cud",
+        "Dziecię",
+        "Bóg",
+        "świat",
+        "żłób",
+        "bieda",
+        "Panię",
+        "Betlejem",
+        "wypełnienie"
+      ],
+      "summary": "Spełnienie zapowiedzi: oglądają Dziecię — Boga świata — w żłobie, biednie okryte, a jednak znakomite jako Panię.",
+      "bible": [
+        "Łk 2, 12.16",
+        "Iz 9, 5"
+      ],
+      "text": [
+        "Wszakże powiedziałem,",
+        "że cuda ujrzymy!",
+        "Dziecię, Boga świata,",
+        "w żłobie zobaczymy.",
+        "Patrzcie, jak biedne okryte,",
+        "w żłobku Panię znakomite.",
+        "W szopie przy Betlejem,",
+        "w szopie przy Betlejem,",
+        "przy Betlejem.",
+        ""
+      ]
+    },
+    {
+      "range": "31-40",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "prorok",
+        "Panna",
+        "Syn",
+        "lud",
+        "nowina",
+        "radość",
+        "Pan",
+        "Betlejem",
+        "Mesjasz",
+        "Izajasz"
+      ],
+      "summary": "Wypełnienie proroctwa Izajasza: Panna rodzi Syna, co jest szczęśliwą nowiną dla całego ludu i źródłem radości dla pasterzy.",
+      "bible": [
+        "Iz 7, 14",
+        "Mt 1, 23",
+        "Łk 2, 10-11"
+      ],
+      "text": [
+        "Jak prorok powiedział,",
+        "Panna zrodzi Syna.",
+        "Dla ludu całego",
+        "szczęśliwa nowina.",
+        "Nam zaś radość w tej tu chwili,",
+        "gdyśmy Pana zobaczyli",
+        "w szopie przy Betlejem,",
+        "w szopie przy Betlejem,",
+        "przy Betlejem.",
+        ""
+      ]
+    },
+    {
+      "range": "41-50",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Betlejem",
+        "Juda",
+        "sława",
+        "ziemie",
+        "uczniowie",
+        "Pan",
+        "radość",
+        "wspólnota"
+      ],
+      "summary": "Betlejem zostanie sławne w całej ziemi Juda jako miejsce narodzenia Mesjasza; zgromadzeni stają się Jego uczniami.",
+      "bible": [
+        "Mi 5, 1",
+        "Mt 2, 6",
+        "J 7, 42"
+      ],
+      "text": [
+        "Betlejem miasteczko,",
+        "w Juda sławne będzie.",
+        "Pamiętnym się stanie,",
+        "w tym kraju i wszędzie.",
+        "Ucieszmy się więc ziomkowie,",
+        "Pana tegoż już uczniowie.",
+        "W szopie przy Betlejem,",
+        "w szopie przy Betlejem,",
+        "przy Betlejem.",
+        ""
+      ]
+    },
+    {
+      "range": "51-59",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pamiątka",
+        "odwiedziny",
+        "pasterze",
+        "czciciel",
+        "wiara",
+        "Chrystus",
+        "Zbawca",
+        "radość",
+        "Kościół",
+        "liturgia"
+      ],
+      "summary": "Współcześni wierni obchodzą pamiątkę odwiedzin pasterzy; każdy czciciel Boga wierzący w Chrystusa znajduje Zbawcę i raduje się razem z nimi.",
+      "bible": [
+        "Łk 2, 16",
+        "1 P 1, 8",
+        "Hbr 11, 1"
+      ],
+      "text": [
+        "Obchodząc pamiątkę",
+        "odwiedzin pasterzy,",
+        "każdy czciciel Boga,",
+        "co w Chrystusa wierzy,",
+        "niech się cieszy i raduje,",
+        "że Zbawcę swego znajduje",
+        "w szopie przy Betlejem,",
+        "w szopie przy Betlejem,",
+        "przy Betlejem."
+      ]
+    },
+    {
+      "range": "1-59",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Boże Narodzenie",
+        "pasterze",
+        "Betlejem",
+        "gwiazda",
+        "żłób",
+        "Dziecię",
+        "proroctwo",
+        "Mesjasz",
+        "Chrystus",
+        "Zbawiciel",
+        "radość",
+        "adoracja",
+        "Kościół"
+      ],
+      "summary": "Radosna kolęda pasterska, w której pasterze wzywają się wzajemnie do Betlejem, gdzie odnajdują wypełnienie proroctw — nowonarodzonego Zbawiciela. Ukazuje przejście od Starego do Nowego Przymierza i aktualizację wydarzenia bożonarodzeniowego we wspólnocie wierzących.",
+      "bible": [
+        "Łk 2, 8-16",
+        "Iz 7, 14",
+        "Mi 5, 1",
+        "Mt 1, 23",
+        "Mt 2, 6"
+      ]
+    }
+  ]
+}

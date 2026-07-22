@@ -1,0 +1,280 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:eb88e7bf1f9c62de2f2bc70b144d1669498c3fa1f5e3801648f6b5e6657c8e24",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "uwielbienie",
+        "dusza",
+        "Pan",
+        "Bóg",
+        "Zbawca",
+        "radość",
+        "serce",
+        "magnificat",
+        "Maryja"
+      ],
+      "summary": "Refren Magnificat – uwielbienie duszy Maryi dla Pana i radość w Bogu Zbawicielu. Profetyczny wzór chrześcijańskiej modlitwy uwielbienia i dziękczynienia.",
+      "bible": [
+        "Łk 1, 46-47"
+      ],
+      "text": [
+        "Uwielbia dusza moja",
+        "Pana mego moc.",
+        "Raduje się me serce",
+        "w Bogu, Zbawcy mym.",
+        "Uwielbia dusza moja",
+        "Pana mego moc.",
+        "Raduje się me serce",
+        "w Bogu, Zbawcy my(  )m.",
+        ""
+      ]
+    },
+    {
+      "range": "10-14",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "pokolenia",
+        "Maryja",
+        "ziemia",
+        "proroctwo",
+        "spełnienie"
+      ],
+      "summary": "Zapowiedź, że wszystkie pokolenia błogosławić będą Maryję – spełnienie proroctwa o wywyższeniu ubogiej służebnicy Pańskiej.",
+      "bible": [
+        "Łk 1, 48"
+      ],
+      "text": [
+        "Oto teraz mnie błogosławić będą",
+        "wszystkie pokolenia ziemi.",
+        "Oto teraz mnie błogosławić będą",
+        "wszystkie pokolenia ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "15-21",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "świętość",
+        "Wszechmogący",
+        "imię",
+        "święte",
+        "wielkie rzeczy",
+        "Bóg",
+        "Maryja",
+        "cud"
+      ],
+      "summary": "Bóg Wszechmogący uczynił wielkie rzeczy Maryi – Jego imię jest święte. Uznanie Bożej wszechmocy i świętości jako źródła wszystkich darów.",
+      "bible": [
+        "Łk 1, 49"
+      ],
+      "text": [
+        "Gdyż wielkie rzeczy",
+        "uczynił mi Wszechmogący,",
+        "Jego imię jest święte.",
+        "Gdyż wielkie rzeczy",
+        "uczynił mi Wszechmogący,",
+        "Jego imię jest święte.",
+        ""
+      ]
+    },
+    {
+      "range": "22-26",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "moc",
+        "ramię",
+        "rozproszenie",
+        "wyniosły",
+        "serce",
+        "sprawiedliwość",
+        "pokora",
+        "sąd"
+      ],
+      "summary": "Bóg okazuje moc swojego ramienia i rozprasza pysznych sercem. Zapowiedź eschatologicznej sprawiedliwości i odwrócenia losów.",
+      "bible": [
+        "Łk 1, 51",
+        "Ps 89, 11",
+        "1 P 5, 5"
+      ],
+      "text": [
+        "Okazuje moc ramienia swego",
+        "i rozprasza wyniosłych sercem.",
+        "Okazuje moc ramienia swego",
+        "i rozprasza wyniosłych sercem.",
+        ""
+      ]
+    },
+    {
+      "range": "27-30",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "możnowładca",
+        "tron",
+        "wywyższenie",
+        "uniżony",
+        "odwrócenie",
+        "sprawiedliwość",
+        "sąd Boży"
+      ],
+      "summary": "Bóg wywraca trony możnowładców i wywyższa uniżonych. Teologia odwrócenia – Bóg staje po stronie pokornych przeciw pysznym.",
+      "bible": [
+        "Łk 1, 52",
+        "1 Sm 2, 7-8",
+        "Ps 147, 6"
+      ],
+      "text": [
+        "Możnowładcom",
+        "wywraca trony,",
+        "a wywyższa uniżonych.",
+        ""
+      ]
+    },
+    {
+      "range": "31-34",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "głodny",
+        "nasycenie",
+        "dobro",
+        "bogacz",
+        "odprawienie",
+        "sprawiedliwość",
+        "miłosierdzie",
+        "odwrócenie"
+      ],
+      "summary": "Bóg nasyca głodnych dobrami, a bogaczy odprawia z niczym. Realizacja Bożej sprawiedliwości i opcja preferencyjna na rzecz ubogich.",
+      "bible": [
+        "Łk 1, 53",
+        "Ps 107, 9",
+        "Ps 34, 11"
+      ],
+      "text": [
+        "Głodnych nasyca",
+        "swoimi dobrami",
+        "a bogaczy odprawia z niczym.",
+        ""
+      ]
+    },
+    {
+      "range": "35-39",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "sługa",
+        "Izrael",
+        "miłosierdzie",
+        "pamięć",
+        "Bóg",
+        "przymierze",
+        "naród wybrany"
+      ],
+      "summary": "Bóg podnosi swojego sługę Izraela, pomny na swoje miłosierdzie. Wierność Boża przymierzu z narodem wybranym i pamięć o obietnicach.",
+      "bible": [
+        "Łk 1, 54",
+        "Ps 98, 3",
+        "Iz 41, 8-9"
+      ],
+      "text": [
+        "Podnosi swego sługę Izraela,",
+        "pomny na swoje miłosierdzie.",
+        "Podnosi swego sługę Izraela,",
+        "pomny na swoje miłosierdzie.",
+        ""
+      ]
+    },
+    {
+      "range": "40-44",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "obietnica",
+        "Abraham",
+        "potomstwo",
+        "przymierze",
+        "ojcowie",
+        "wierność",
+        "Bóg",
+        "zbawienie"
+      ],
+      "summary": "Spełnienie obietnicy danej Abrahamowi i jego potomstwu – fundament całej historii zbawienia. Bóg wierny swoim obietnicom.",
+      "bible": [
+        "Łk 1, 55",
+        "Rdz 12, 2-3",
+        "Rdz 17, 1-8"
+      ],
+      "text": [
+        "Jak obiecał Abrahamowi",
+        "i jego potomstwu.",
+        "Jak obiecał Abrahamowi",
+        "i jego potomstwu.",
+        ""
+      ]
+    },
+    {
+      "range": "45-52",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "uwielbienie",
+        "dusza",
+        "Pan",
+        "Bóg",
+        "Zbawca",
+        "radość",
+        "serce"
+      ],
+      "summary": "Powtórzenie refrenu Magnificat – zamknięcie kantyku inkluzją, powrót do uwielbienia i radości w Bogu Zbawicielu.",
+      "bible": [
+        "Łk 1, 46-47"
+      ],
+      "text": [
+        "Uwielbia dusza moja",
+        "Pana mego moc.",
+        "Raduje się me serce",
+        "w Bogu, Zbawcy mym.",
+        "Uwielbia dusza moja",
+        "Pana mego moc.",
+        "Raduje się me serce",
+        "w Bogu, Zbawcy my(  )m."
+      ]
+    },
+    {
+      "range": "1-52",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Magnificat",
+        "Maryja",
+        "uwielbienie",
+        "radość",
+        "Zbawiciel",
+        "odwrócenie",
+        "miłosierdzie",
+        "sprawiedliwość",
+        "obietnica",
+        "Abraham",
+        "Izrael",
+        "pokorny",
+        "głodny",
+        "uniżony",
+        "przymierze"
+      ],
+      "summary": "Kantyk Maryi (Magnificat) z Łk 1, 46-55 – hymn uwielbienia i dziękczynienia za Boże działanie w historii zbawienia. Maryja wysławia Boga za Jego miłosierdzie, wierność obietnicom danym Abrahamowi oraz za rewolucyjne odwrócenie losów: wywyższenie pokornych, nasycenie głodnych i odesłanie pysznych z niczym. Pieśń łączy osobiste dziękczynienie Maryi z uniwersalną teologią Bożej sprawiedliwości.",
+      "bible": [
+        "Łk 1, 46-55",
+        "1 Sm 2, 1-10"
+      ]
+    }
+  ]
+}

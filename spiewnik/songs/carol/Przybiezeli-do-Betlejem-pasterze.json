@@ -1,0 +1,438 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:0a7a87d1a36037d57c352c772ce7d2dca6408aa6bf82837418b38d794b207cf9",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pasterz",
+        "Betlejem",
+        "Dzieciątko",
+        "lir",
+        "grać",
+        "przybiec",
+        "Jezus Chrystus",
+        "narodzenie",
+        "pokłon",
+        "adoracja"
+      ],
+      "summary": "Pasterze przybywają do Betlejem, radośnie grając nowonarodzonemu Dzieciątku na lirze, co nawiązuje do adoracji pasterzy opisanej w Ewangelii Łukasza.",
+      "bible": [
+        "Łk 2, 15-16"
+      ],
+      "text": [
+        "Przybieżeli do Betlejem pasterze,",
+        "grając skocznie Dzieciąteczku na lirze.",
+        ""
+      ]
+    },
+    {
+      "range": "4-7",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "wysokość",
+        "pokój",
+        "ziemia",
+        "Bóg",
+        "niebo",
+        "anioł",
+        "chwała Boża"
+      ],
+      "summary": "Refren pieśni zaczerpnięty z pieśni aniołów podczas narodzenia Chrystusa, głoszący chwałę Bogu i pokój ludziom na ziemi.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Chwała na wysokości,",
+        "chwała na wysokości,",
+        "a pokój na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "8-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ukłon",
+        "pokora",
+        "serce",
+        "ochota",
+        "Bóg",
+        "Jezus Chrystus",
+        "adoracja",
+        "hołd"
+      ],
+      "summary": "Pasterze oddają pokłon Bogu z pokorą i ochotnym sercem, składając hołd nowonarodzonemu Zbawicielowi.",
+      "bible": [
+        "Łk 2, 16"
+      ],
+      "text": [
+        "Oddawali swe ukłony w pokorze",
+        "Tobie z serca ochotnego, o Boże!",
+        ""
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "wysokość",
+        "pokój",
+        "ziemia",
+        "Bóg",
+        "niebo",
+        "anioł",
+        "chwała Boża"
+      ],
+      "summary": "Refren pieśni zaczerpnięty z pieśni aniołów podczas narodzenia Chrystusa, głoszący chwałę Bogu i pokój ludziom na ziemi.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Chwała na wysokości,",
+        "chwała na wysokości,",
+        "a pokój na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "15-17",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "anioł",
+        "Pan",
+        "ogłosić",
+        "dziw",
+        "cud",
+        "objawienie",
+        "pasterz",
+        "Jezus Chrystus",
+        "narodzenie"
+      ],
+      "summary": "Anioł Pański objawił pasterzom cudowne wydarzenia, które przewyższają wszystko, co kiedykolwiek słyszeli.",
+      "bible": [
+        "Łk 2, 10-12"
+      ],
+      "text": [
+        "Anioł Pański sam ogłosił te dziwy,",
+        "których oni nie słyszeli, jak żywi.",
+        ""
+      ]
+    },
+    {
+      "range": "18-21",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "wysokość",
+        "pokój",
+        "ziemia",
+        "Bóg",
+        "niebo",
+        "anioł",
+        "chwała Boża"
+      ],
+      "summary": "Refren pieśni zaczerpnięty z pieśni aniołów podczas narodzenia Chrystusa, głoszący chwałę Bogu i pokój ludziom na ziemi.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Chwała na wysokości,",
+        "chwała na wysokości,",
+        "a pokój na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "22-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dziwić się",
+        "muzyka",
+        "Dziecię",
+        "niebo",
+        "pasterz",
+        "zdumienie",
+        "Jezus Chrystus",
+        "Mesjasz"
+      ],
+      "summary": "Pasterze zdumiewają się niebiańską muzyką i zastanawiają się, kim będzie to niezwykłe Dziecię.",
+      "bible": [
+        "Łk 2, 15-19"
+      ],
+      "text": [
+        "Dziwili się napowietrznej muzyce",
+        "i myśleli: „Co to będzie za Dziecię?”",
+        ""
+      ]
+    },
+    {
+      "range": "25-28",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "wysokość",
+        "pokój",
+        "ziemia",
+        "Bóg",
+        "niebo",
+        "anioł",
+        "chwała Boża"
+      ],
+      "summary": "Refren pieśni zaczerpnięty z pieśni aniołów podczas narodzenia Chrystusa, głoszący chwałę Bogu i pokój ludziom na ziemi.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Chwała na wysokości,",
+        "chwała na wysokości,",
+        "a pokój na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "29-31",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "wół",
+        "osioł",
+        "kłaniać się",
+        "król",
+        "podarunek",
+        "pokłon",
+        "adoracja",
+        "Jezus Chrystus",
+        "Mesjasz"
+      ],
+      "summary": "Pytanie retoryczne o Dziecię, któremu kłaniają się zwierzęta i składają dary trzej królowie, wskazujące na Jego boską tożsamość.",
+      "bible": [
+        "Iz 1, 3",
+        "Mt 2, 11"
+      ],
+      "text": [
+        "Któremu się wół i osioł kłaniają,",
+        "trzej królowie podarunki oddają?",
+        ""
+      ]
+    },
+    {
+      "range": "32-35",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "wysokość",
+        "pokój",
+        "ziemia",
+        "Bóg",
+        "niebo",
+        "anioł",
+        "chwała Boża"
+      ],
+      "summary": "Refren pieśni zaczerpnięty z pieśni aniołów podczas narodzenia Chrystusa, głoszący chwałę Bogu i pokój ludziom na ziemi.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Chwała na wysokości,",
+        "chwała na wysokości,",
+        "a pokój na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "36-38",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "anioł",
+        "gromada",
+        "pilnować",
+        "Panna",
+        "Józef",
+        "piastować",
+        "Święta Rodzina",
+        "Maryja"
+      ],
+      "summary": "Obraz Świętej Rodziny: aniołowie czuwają nad Dzieciątkiem, a Maryja z Józefem opiekują się Nim.",
+      "bible": [
+        "Łk 2, 16"
+      ],
+      "text": [
+        "I Anieli gromadami pilnują,",
+        "Panna Przeczysta z Józefem piastują?”",
+        ""
+      ]
+    },
+    {
+      "range": "39-42",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "wysokość",
+        "pokój",
+        "ziemia",
+        "Bóg",
+        "niebo",
+        "anioł",
+        "chwała Boża"
+      ],
+      "summary": "Refren pieśni zaczerpnięty z pieśni aniołów podczas narodzenia Chrystusa, głoszący chwałę Bogu i pokój ludziom na ziemi.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Chwała na wysokości,",
+        "chwała na wysokości,",
+        "a pokój na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "43-45",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Mesjasz",
+        "narodzić się",
+        "Pan",
+        "łaskawy",
+        "prawy",
+        "Jezus Chrystus",
+        "Zbawiciel",
+        "Wcielenie",
+        "wyznanie"
+      ],
+      "summary": "Pasterze rozpoznali w Dziecięciu prawdziwego Mesjasza i łaskawego Pana, co stanowi wyznanie wiary w Jego boskie posłannictwo.",
+      "bible": [
+        "Łk 2, 11",
+        "Mt 16, 16"
+      ],
+      "text": [
+        "Poznali Go Mesyjaszem być prawym,",
+        "narodzonym dzisiaj Panem łaskawym",
+        ""
+      ]
+    },
+    {
+      "range": "46-49",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "wysokość",
+        "pokój",
+        "ziemia",
+        "Bóg",
+        "niebo",
+        "anioł",
+        "chwała Boża"
+      ],
+      "summary": "Refren pieśni zaczerpnięty z pieśni aniołów podczas narodzenia Chrystusa, głoszący chwałę Bogu i pokój ludziom na ziemi.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Chwała na wysokości,",
+        "chwała na wysokości,",
+        "a pokój na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "50-52",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "Zbawca",
+        "serce",
+        "kochać",
+        "znać",
+        "Jezus Chrystus",
+        "wiara",
+        "miłość",
+        "wyznanie"
+      ],
+      "summary": "Osobiste wyznanie wiary podmiotu zbiorowego, który rozpoznaje w Jezusie Boga i Zbawiciela oraz odpowiada miłością całego serca.",
+      "bible": [
+        "J 4, 42",
+        "1 J 4, 19"
+      ],
+      "text": [
+        "My Go także Bogiem, Zbawcą już znamy",
+        "i z całego serca wszyscy kochamy",
+        ""
+      ]
+    },
+    {
+      "range": "53-55",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "wysokość",
+        "pokój",
+        "ziemia",
+        "Bóg",
+        "niebo",
+        "anioł",
+        "chwała Boża"
+      ],
+      "summary": "Refren pieśni zaczerpnięty z pieśni aniołów podczas narodzenia Chrystusa, głoszący chwałę Bogu i pokój ludziom na ziemi.",
+      "bible": [
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Chwała na wysokości,",
+        "chwała na wysokości,",
+        "a pokój na ziemi."
+      ]
+    },
+    {
+      "range": "1-55",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "pasterz",
+        "Betlejem",
+        "Dzieciątko",
+        "chwała",
+        "pokój",
+        "Mesjasz",
+        "Zbawiciel",
+        "Jezus Chrystus",
+        "Bóg",
+        "narodzenie",
+        "adoracja",
+        "anioł",
+        "Boże Narodzenie",
+        "Wcielenie",
+        "pokłon",
+        "król",
+        "Maryja",
+        "Józef"
+      ],
+      "summary": "Kolęda opowiadająca historię pokłonu pasterzy nowonarodzonemu Jezusowi w Betlejem, z refrenem 'Chwała na wysokości' zaczerpniętym z Łk 2, 14. Pieśń łączy motywy adoracji, radości z narodzenia Mesjasza i wyznania wiary w Chrystusa jako Boga i Zbawiciela.",
+      "bible": [
+        "Łk 2, 8-18",
+        "Łk 2, 14",
+        "Mt 2, 11",
+        "Iz 1, 3"
+      ]
+    }
+  ]
+}

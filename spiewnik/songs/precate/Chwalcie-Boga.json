@@ -1,0 +1,180 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a64dcf333a7b09f4be72a1c4017fe1581f2f08556387bdb671e15f6d04d9538f",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Alleluja",
+        "chwała",
+        "Pan"
+      ],
+      "summary": "Potrójny refren alleluja, wezwanie do wielbienia Boga radosnym okrzykiem.",
+      "bible": [
+        "Ps 150"
+      ],
+      "text": [
+        "Alleluja, alleluja, alleluja.",
+        "Alleluja, alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "4-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "święty",
+        "przybytek",
+        "firmament",
+        "dzieło",
+        "majestat",
+        "chwała",
+        "wielbić"
+      ],
+      "summary": "Wezwanie do chwalenia Boga w Jego świętym przybytku i na firmamencie za wielkie dzieła i wzniosły majestat.",
+      "bible": [
+        "Ps 150, 1-2"
+      ],
+      "text": [
+        "Chwalcie Boga w Jego świętym przybytku,",
+        "chwalcie na wysokim firmamencie,",
+        "chwalcie Go za wielkie Jego dzieła,",
+        "chwalcie Jego wzniosły majestat.",
+        ""
+      ]
+    },
+    {
+      "range": "9-11",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Alleluja",
+        "chwała",
+        "Pan"
+      ],
+      "summary": "Potrójny refren alleluja powtarzający wezwanie do uwielbienia.",
+      "bible": [
+        "Ps 150"
+      ],
+      "text": [
+        "Alleluja, alleluja, alleluja.",
+        "Alleluja, alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "12-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "trąba",
+        "harfa",
+        "gitara",
+        "bębenek",
+        "taniec",
+        "struny",
+        "flet",
+        "instrument",
+        "chwała"
+      ],
+      "summary": "Wezwanie do chwalenia Boga instrumentami muzycznymi: trąbą, harfami, gitarami, bębenkami, tańcem, strunami i fletami.",
+      "bible": [
+        "Ps 150, 3-4"
+      ],
+      "text": [
+        "Chwalcie Go przy dźwięku donośnej trąby,",
+        "chwalcie Go na harfach i gitarach,",
+        "chwalcie bębenkami, chwalcie wśród tańców,",
+        "chwalcie Go na strunach i na fletach.",
+        ""
+      ]
+    },
+    {
+      "range": "17-19",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Alleluja",
+        "chwała",
+        "Pan"
+      ],
+      "summary": "Potrójny refren alleluja powtarzający wezwanie do uwielbienia.",
+      "bible": [
+        "Ps 150"
+      ],
+      "text": [
+        "Alleluja, alleluja, alleluja.",
+        "Alleluja, alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "20-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "cymbły",
+        "wielbić",
+        "Pan",
+        "chwała",
+        "wysławiać",
+        "Bóg",
+        "wszystko",
+        "żyje"
+      ],
+      "summary": "Wezwanie do chwalenia Boga dźwięcznymi cymbałami; wszystko, co żyje, niech wielbi Pana.",
+      "bible": [
+        "Ps 150, 4-6"
+      ],
+      "text": [
+        "Chwalcie Go przy wtórze dźwięcznych cymbałów,",
+        "chwalcie Go na cymbałach brzmiących;",
+        "wszystko, co żyje, niech wielbi Pana.",
+        "Chwalcie i wysławiajcie Boga.",
+        ""
+      ]
+    },
+    {
+      "range": "25-26",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Alleluja",
+        "chwała",
+        "Pan"
+      ],
+      "summary": "Końcowe alleluja wieńczące psalm.",
+      "bible": [
+        "Ps 150"
+      ],
+      "text": [
+        "Alleluja, alleluja, alleluja.",
+        "Alleluja, alleluja, alleluja."
+      ]
+    },
+    {
+      "range": "1-26",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Alleluja",
+        "chwała",
+        "Pan",
+        "Bóg",
+        "wielbić",
+        "wysławiać",
+        "psalm",
+        "instrument",
+        "stworzenie"
+      ],
+      "summary": "Parafraza Psalmu 150 – psalm pochwalny wzywający całe stworzenie i wszystkie instrumenty do wielbienia Boga, przeplatany refrenem alleluja.",
+      "bible": [
+        "Ps 150"
+      ]
+    }
+  ]
+}

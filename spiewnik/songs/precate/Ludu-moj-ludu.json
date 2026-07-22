@@ -1,0 +1,263 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:7e79e479f5a19e2ec8a3e2d6063fb62b2cd9810e9db0c1d65d70dbc99f529fef",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "lud",
+        "Bóg",
+        "zło",
+        "zasmucić",
+        "odpowiedź",
+        "wyrzut",
+        "niewdzięczność",
+        "skarga",
+        "przebaczenie"
+      ],
+      "summary": "Refren – dramatyczne pytanie Boga do swojego ludu: 'Cóżem ci uczynił, w czym cię zasmuciłem?' Nawiązanie do starotestamentalnych skarg Boga przeciw niewiernemu Izraelowi.",
+      "bible": [
+        "Mi 6, 3",
+        "Iz 5, 4"
+      ],
+      "text": [
+        "Ludu, mój ludu, ludu, mój ludu,",
+        "cóż złegom ci uczynił,",
+        "cóż złegom uczynił",
+        "i w czym cię zasmuciłem,",
+        "daj mi odpowiedź,",
+        "w czym cię zasmuciłem?",
+        ""
+      ]
+    },
+    {
+      "range": "8-11",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Egipt",
+        "wyjście",
+        "niewola",
+        "krzyż",
+        "niewdzięczność",
+        "wyzwolenie",
+        "Pascha",
+        "Chrystus"
+      ],
+      "summary": "Bóg wyprowadził lud z Egiptu (Wyjście – Pascha), a lud przygotował Mu krzyż. Typologia paschalna: wyzwolenie z Egiptu prefiguruje odkupienie przez krzyż Chrystusa, który jest nową Paschą.",
+      "bible": [
+        "Wj 12-14",
+        "J 19, 16-22",
+        "1 Kor 5, 7"
+      ],
+      "text": [
+        "To Ja wywiodłem cię z E()giptu,",
+        "to Ja wywiodłem cię z Egiptu,",
+        "a ty, a ty przygotowałeś mi krzyż!",
+        ""
+      ]
+    },
+    {
+      "range": "12-18",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "lud",
+        "Bóg",
+        "zło",
+        "zasmucić",
+        "odpowiedź",
+        "wyrzut",
+        "niewdzięczność"
+      ],
+      "summary": "Powtórzenie refrenu – podtrzymanie skargi Boga wobec niewiernego ludu.",
+      "bible": [
+        "Mi 6, 3"
+      ],
+      "text": [
+        "Ludu, mój ludu, ludu, mój ludu,",
+        "cóż złegom ci uczynił,",
+        "cóż złegom uczynił",
+        "i w czym cię zasmuciłem,",
+        "daj mi odpowiedź,",
+        "w czym cię zasmuciłem?",
+        ""
+      ]
+    },
+    {
+      "range": "19-24",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "pustynia",
+        "czterdzieści lat",
+        "wędrówka",
+        "głód",
+        "manna",
+        "Ziemia Obiecana",
+        "krzyż",
+        "niewdzięczność",
+        "Eucharystia"
+      ],
+      "summary": "Bóg prowadził lud przez pustynię 40 lat, karmił manną i wprowadził do Ziemi Obiecanej – lud odpowiedział krzyżem. Manna z pustyni typologicznie zapowiada Eucharystię (chleb z nieba).",
+      "bible": [
+        "Wj 16",
+        "Lb 14",
+        "J 6, 31-35",
+        "1 Kor 10, 3-4"
+      ],
+      "text": [
+        "Za to, że wiodłem cię",
+        "czterdzieści lat przez pu()stynię,",
+        "za to, że twój głód koiłem ()manną",
+        "i wprowadziłem cię do Ziemi Obiecanej,",
+        "ty, ty przygotowałeś mi krzyż!",
+        ""
+      ]
+    },
+    {
+      "range": "25-31",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "lud",
+        "Bóg",
+        "zło",
+        "zasmucić",
+        "odpowiedź",
+        "wyrzut",
+        "niewdzięczność"
+      ],
+      "summary": "Kolejne powtórzenie refrenu – narastające napięcie dramatyczne między Bożą dobrocią a ludzką niewiernością.",
+      "bible": [
+        "Mi 6, 3"
+      ],
+      "text": [
+        "Ludu, mój ludu, ludu, mój ludu,",
+        "cóż złegom ci uczynił,",
+        "cóż złegom uczynił",
+        "i w czym cię zasmuciłem,",
+        "daj mi odpowiedź,",
+        "w czym cię zasmuciłem?",
+        ""
+      ]
+    },
+    {
+      "range": "32-36",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "winnica",
+        "ukochanie",
+        "gorzkość",
+        "Izrael",
+        "niewierność",
+        "przymierze",
+        "odrzucenie",
+        "Bóg"
+      ],
+      "summary": "Przypowieść o winnicy – Bóg uczynił wszystko dla swojej winnicy (Izraela), a ona stała się gorzka. Odrzucenie Bożej miłości prowadzi do gorzkich owoców.",
+      "bible": [
+        "Iz 5, 1-7",
+        "Mt 21, 33-46"
+      ],
+      "text": [
+        "Co jeszcze miałem ci uczynić,",
+        "a nie zro()biłem?",
+        "Ja ci śpiewałem: „winnico moja ukochana”,",
+        "a ty, a ty stałaś się gorzka!",
+        ""
+      ]
+    },
+    {
+      "range": "37-46",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Święty Boże",
+        "Święty mocny",
+        "Święty nieśmiertelny",
+        "zmiłowanie",
+        "miłosierdzie",
+        "liturgia",
+        "Trisagion",
+        "błaganie",
+        "kościół"
+      ],
+      "summary": "Trisagion – starożytny hymn liturgiczny 'Święty Boże, Święty mocny, Święty a nieśmiertelny, zmiłuj się nad nami'. Wielojęzyczne (grecki, łaciński, polski) wołanie o miłosierdzie, liturgiczna odpowiedź na rozważanie Męki Pańskiej.",
+      "bible": [
+        "Iz 6, 3",
+        "Ap 4, 8"
+      ],
+      "text": [
+        "Ágios       o Theós,",
+        "άγιος ο Θεός   - Święty Boże",
+        "Sanctus Deus,",
+        "ágios ischyrós, άγιος ισχυρός - Święty mocny",
+        "Sanctus fortis,",
+        "ágios athánatos, άγιος αθάνατος - Święty a nieśmiertelny",
+        "eléison imás,     ελέησον ημάς - zmiłuj się nad nami",
+        "Sanctus immortalis,",
+        "miserere nobis!",
+        ""
+      ]
+    },
+    {
+      "range": "47-52",
+      "type": "refren",
+      "sentiment": "pokutny",
+      "keywords": [
+        "lud",
+        "Bóg",
+        "zło",
+        "zasmucić",
+        "odpowiedź",
+        "wyrzut",
+        "niewdzięczność"
+      ],
+      "summary": "Końcowe powtórzenie refrenu – ostatnie wołanie Boga skierowane do ludu, pozostawione bez odpowiedzi.",
+      "bible": [
+        "Mi 6, 3"
+      ],
+      "text": [
+        "Ludu, mój ludu, ludu, mój ludu,",
+        "cóż złegom ci uczynił,",
+        "cóż złegom uczynił",
+        "i w czym cię zasmuciłem,",
+        "daj mi odpowiedź,",
+        "w czym cię zasmuciłem?"
+      ]
+    },
+    {
+      "range": "1-52",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Męka Pańska",
+        "niewdzięczność",
+        "Wyjście",
+        "Pascha",
+        "Eucharystia",
+        "manna",
+        "winnica",
+        "krzyż",
+        "Trisagion",
+        "miłosierdzie",
+        "nawrócenie",
+        "Wielki Post",
+        "Lamentacje"
+      ],
+      "summary": "Pieśń pasyjna inspirowana Improperiami (Lamentacjami) Wielkiego Piątku – Bóg wyrzuca ludowi niewdzięczność za wszystkie dobrodziejstwa od Wyjścia z Egiptu przez mannę na pustyni po winnicę, a lud odpowiada krzyżem. Kulminacją jest Trisagion – wielojęzyczne wołanie o miłosierdzie. Pieśń przeznaczona na Wielki Post i Łamanie Chleba prowadzi od kontemplacji niewdzięczności do żalu i błagania o zmiłowanie.",
+      "bible": [
+        "Wj 12-16",
+        "Iz 5, 1-7",
+        "Iz 6, 3",
+        "Mi 6, 3-5",
+        "Mt 27",
+        "J 6"
+      ]
+    }
+  ]
+}

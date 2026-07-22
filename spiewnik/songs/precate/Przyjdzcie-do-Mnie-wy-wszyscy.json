@@ -1,0 +1,124 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:4f824d20f717af4b9e7611f289b67be142942efa74b867dcabd08bc13224b14c",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "przyjść",
+        "utrudzony",
+        "obciążony",
+        "pokrzepić"
+      ],
+      "summary": "Jezus zaprasza wszystkich utrudzonych i obciążonych, by przyszli do Niego, a On ich pokrzepi.",
+      "bible": [
+        "Mt 11, 28"
+      ],
+      "text": [
+        "Przyjdźcie do Mnie wy wszyscy,",
+        "którzy jesteście utrudzeni i obciążeni,",
+        "a Ja was pokrzepię,",
+        "a Ja was pokrzepię.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "jarzmo",
+        "wziąć",
+        "uczyć się",
+        "cichy",
+        "pokorny",
+        "serc",
+        "ukoje",
+        "dusza"
+      ],
+      "summary": "Jezus uczy, by wziąć Jego jarzmo na siebie i uczyć się od Niego cichości i pokory serca, co przyniesie ukojenie duszy.",
+      "bible": [
+        "Mt 11, 29",
+        "Iz 53, 7"
+      ],
+      "text": [
+        "Weźcie moje jarzmo na siebie,",
+        "i uczcie się ode Mnie,",
+        "że jestem cichy i pokorny sercem,",
+        "a znajdziecie ukojenie dla siebie,",
+        "a znajdziecie ukojenie dla waszych dusz."
+      ]
+    },
+    {
+      "range": "11-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "jarzmo",
+        "słodki",
+        "brzemię",
+        "lekki"
+      ],
+      "summary": "Jarzmo Chrystusa jest słodkie, a Jego brzemię lekkie – powtórzone dla podkreślenia łagodności Jego nauki.",
+      "bible": [
+        "Mt 11, 30",
+        "1 J 5, 3"
+      ],
+      "text": [
+        "Bo moje jarzmo jest słodkie,",
+        "bo moje jarzmo jest słodkie,",
+        "a moje brzemię lekkie.",
+        "Bo moje jarzmo jest słodkie,",
+        "a moje brzemię lekkie.",
+        ""
+      ]
+    },
+    {
+      "range": "17-18",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "przyjść",
+        "jarzmo",
+        "słodki"
+      ],
+      "summary": "Skrócone powtórzenie zaproszenia Jezusa i zapewnienia o słodkim jarzmie jako zakończenie pieśni.",
+      "bible": [
+        "Mt 11, 28-30"
+      ],
+      "text": [
+        "Przyjdźcie do Mnie wy wszyscy, …",
+        "Bo moje jarzmo jest słodkie. …"
+      ]
+    },
+    {
+      "range": "1-18",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "przyjść",
+        "utrudzony",
+        "obciążony",
+        "pokrzepić",
+        "jarzmo",
+        "słodki",
+        "brzemię",
+        "lekki",
+        "cichy",
+        "pokorny",
+        "serc",
+        "ukoje",
+        "dusza"
+      ],
+      "summary": "Pieśń oparta na Mt 11, 28-30, w której Jezus zaprasza utrudzonych i obciążonych, obiecując pokrzepienie i ukojenie duszy dla tych, którzy przyjmą Jego słodkie jarzmo i lekkie brzemię.",
+      "bible": [
+        "Mt 11, 28-30",
+        "Iz 53, 7",
+        "1 J 5, 3",
+        "Jr 6, 16"
+      ]
+    }
+  ]
+}

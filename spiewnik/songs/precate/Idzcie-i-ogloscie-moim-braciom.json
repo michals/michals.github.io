@@ -1,0 +1,219 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:9c6fb600e14c9d38d87effd66feb874c658e26c643195ccc6649041849c3a81d",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "posłanie",
+        "ogłosić",
+        "bracia",
+        "Galilea",
+        "Jezus Chrystus",
+        "zmartwychwstanie",
+        "misja"
+      ],
+      "summary": "Posłanie do braci z wieścią o zmartwychwstaniu i zapowiedzią spotkania z Chrystusem w Galilei.",
+      "bible": [
+        "Mt 28, 7-10"
+      ],
+      "text": [
+        "„Idźcie i ogłoście moim braciom,",
+        "niech idą do Galilei.",
+        "bo tam Mnie zobaczą,",
+        "bo tam Mnie zobaczą.”",
+        ""
+      ]
+    },
+    {
+      "range": "6-18",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "uczniowie",
+        "Galilea",
+        "góra",
+        "pokłon",
+        "Jezus",
+        "władza",
+        "niebo",
+        "ziemia",
+        "posłanie",
+        "nauczanie",
+        "chrzest",
+        "Trójca Święta",
+        "przykazanie",
+        "Kościół"
+      ],
+      "summary": "Narracja o spotkaniu uczniów z Jezusem w Galilei oraz nakaz misyjny: chrzcić wszystkie narody w imię Trójcy Świętej i nauczać zachowywać przykazania.",
+      "bible": [
+        "Mt 28, 16-20",
+        "Dz 1, 8",
+        "Mk 16, 15-16"
+      ],
+      "text": [
+        "Uczniowie udali się do Galilei",
+        "na górę, którą Jezus im wskazał.",
+        "Kiedy ujrzeli Go, oddali mu pokłon.",
+        "A Jezus im powiedział:",
+        "„Dana mi jest wszelka władza",
+        "w niebie i na ziemi.",
+        "Idźcie więc i nauczajcie",
+        "wszystkie narody,",
+        "chrzcząc je w imię Ojca,",
+        "i Syna i Ducha Świętego",
+        "i ucząc je zachowywać",
+        "to wszystko, co Ja wam przykazałem.",
+        ""
+      ]
+    },
+    {
+      "range": "19-22",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "obecność",
+        "Jezus",
+        "z nami",
+        "wszystkie dni",
+        "Emanuel",
+        "pocieszenie"
+      ],
+      "summary": "Zapewnienie o stałej obecności Jezusa z Kościołem przez wszystkie dni.",
+      "bible": [
+        "Mt 28, 20",
+        "Iz 7, 14"
+      ],
+      "text": [
+        "Oto Ja jestem z wami,",
+        "oto Ja jestem z wami",
+        "przez wszystkie dni.",
+        ""
+      ]
+    },
+    {
+      "range": "23-27",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "posłanie",
+        "ogłosić",
+        "bracia",
+        "Galilea",
+        "Jezus Chrystus",
+        "zmartwychwstanie",
+        "misja"
+      ],
+      "summary": "Powtórzenie posłania do braci – wezwanie do głoszenia zmartwychwstałego Chrystusa.",
+      "bible": [
+        "Mt 28, 7-10"
+      ],
+      "text": [
+        "Idźcie i ogłoście moim braciom,",
+        "niech idą do Galilei.",
+        "Idźcie i ogłoście moim braciom,",
+        "niech idą do Galilei.",
+        ""
+      ]
+    },
+    {
+      "range": "28-34",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "obecność",
+        "Jezus",
+        "wszystkie dni",
+        "koniec świata",
+        "paruzja",
+        "eschatologia",
+        "Emanuel"
+      ],
+      "summary": "Obietnica obecności Chrystusa z Kościołem aż do końca świata – eschatologiczne zakończenie Ewangelii Mateusza.",
+      "bible": [
+        "Mt 28, 20",
+        "Dz 1, 11"
+      ],
+      "text": [
+        "Oto Ja jestem z wami,",
+        "oto Ja jestem z wami",
+        "przez wszystkie dni,",
+        "",
+        "aż do końca świata,",
+        "aż do końca świata.”",
+        ""
+      ]
+    },
+    {
+      "range": "35-39",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "posłanie",
+        "ogłosić",
+        "bracia",
+        "Galilea",
+        "Jezus Chrystus",
+        "zmartwychwstanie",
+        "misja"
+      ],
+      "summary": "Finalne powtórzenie posłania, podkreślające ciągłość misyjnego nakazu Chrystusa.",
+      "bible": [
+        "Mt 28, 7-10"
+      ],
+      "text": [
+        "Idźcie i ogłoście moim braciom,",
+        "niech idą do Galilei.",
+        "Idźcie i ogłoście moim braciom,",
+        "niech idą do Galilei,",
+        ""
+      ]
+    },
+    {
+      "range": "40-42",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "obecność",
+        "Jezus",
+        "z nami",
+        "wszystkie dni",
+        "Emanuel",
+        "pocieszenie"
+      ],
+      "summary": "Końcowe zapewnienie o stałej obecności Jezusa – liturgiczne zamknięcie pieśni.",
+      "bible": [
+        "Mt 28, 20"
+      ],
+      "text": [
+        "Oto Ja jestem z wami,",
+        "oto Ja jestem z wami",
+        "przez wszystkie dni."
+      ]
+    },
+    {
+      "range": "1-42",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "posłanie",
+        "misja",
+        "zmartwychwstanie",
+        "Galilea",
+        "uczniowie",
+        "chrzest",
+        "Trójca Święta",
+        "obecność Boża",
+        "Emanuel",
+        "Kościół",
+        "paruzja"
+      ],
+      "summary": "Pieśń osadzona w narracji Mt 28, łącząca posłanie misyjne (Idźcie i głoście) z obietnicą stałej obecności Chrystusa (Oto Ja jestem z wami) aż do końca świata.",
+      "bible": [
+        "Mt 28, 7-10.16-20"
+      ]
+    }
+  ]
+}

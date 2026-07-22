@@ -1,0 +1,181 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:440ba2c7454ad0ac6610e0b3477dcfe1729f2a2ed5e7c86acba4423a56872ea7",
+  "songs_analysis": [
+    {
+      "range": "1-13",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "miasto święte",
+        "ziemia Zbawiciela",
+        "pielgrzym",
+        "wędrowanie",
+        "święty lud",
+        "zjednoczenie",
+        "miłość Boga",
+        "droga",
+        "nadzieja",
+        "ubogi",
+        "brat",
+        "alleluja",
+        "Chrystus"
+      ],
+      "summary": "Wspólnota wiernych jako pielgrzymi zdążający do świętego miasta – eschatologicznej Jerozolimy. Chrystus jest drogą, nadzieją i bratem ubogich. Zwrotka kończy się aklamacją Amen Alleluja.",
+      "bible": [
+        "Ap 21, 2",
+        "Hbr 11, 10",
+        "J 14, 6",
+        "Mt 25, 40"
+      ],
+      "text": [
+        "Ku tobie, miasto święte,",
+        "ku tobie, ziemio Zbawiciela:",
+        "jak pielgrzymi wędrujący,",
+        "przychodzimy do Ciebie.",
+        "Jesteśmy Twoim świętym ludem,",
+        "który dziś wędruje zjednoczony.",
+        "Przychodzisz między nas,",
+        "Twa miłość nas",
+        "poprowadzi.",
+        "Ty jesteś naszą drogą,",
+        "Tyś jest nadzieją naszą,",
+        "Tyś jest ubogich bratem.",
+        "Amen! Alleluja!"
+      ]
+    },
+    {
+      "range": "14-18",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "miasto święte",
+        "ziemia Zbawiciela",
+        "pielgrzym",
+        "wędrowanie",
+        "przyjście",
+        "Chrystus"
+      ],
+      "summary": "Refren o pielgrzymowaniu do świętego miasta i ziemi Zbawiciela – wyraz eschatologicznej nadziei i przynależności do ludu Bożego.",
+      "bible": [
+        "Ap 21, 2-3",
+        "Hbr 13, 14"
+      ],
+      "text": [
+        "Ku tobie, miasto święte,",
+        "ku tobie, ziemio Zbawiciela:",
+        "jak pielgrzymi wędrujący,",
+        "przychodzimy do Ciebie.",
+        ""
+      ]
+    },
+    {
+      "range": "19-26",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "stół",
+        "przymierze",
+        "Ciało Chrystusa",
+        "Krew Chrystusa",
+        "obmycie",
+        "królowanie",
+        "miasto święte",
+        "wiara",
+        "zbawienie",
+        "Eucharystia",
+        "Ofiara"
+      ],
+      "summary": "Eucharystyczna uczta – Ciało i Krew Chrystusa pieczętują przymierze. Uczta zapowiada eschatologiczne królowanie w świętym mieście. Obmycie Krwią i zbawienie przez wiarę.",
+      "bible": [
+        "Mt 26, 26-28",
+        "1 Kor 11, 23-26",
+        "Ap 22, 1-5",
+        "Wj 24, 8"
+      ],
+      "text": [
+        "Do Twego stołu przyjdziemy,",
+        "pieczętujemy Twe przymierze.",
+        "Spożyjemy Twoje Ciało,",
+        "Twa Krew obmyje nas.",
+        "Będziemy królować z Tobą",
+        "w Twoim świętym mieście,",
+        "pić będziemy Twoją Krew,",
+        "Twa wiara zbawi nas."
+      ]
+    },
+    {
+      "range": "27",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "14-17",
+      "bible": [],
+      "text": [
+        "Ku tobie, miasto święte, …"
+      ]
+    },
+    {
+      "range": "28-35",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "stół",
+        "przymierze",
+        "Ciało Chrystusa",
+        "Krew Chrystusa",
+        "obmycie",
+        "królowanie",
+        "miasto święte",
+        "wiara",
+        "zbawienie",
+        "Eucharystia",
+        "uczta",
+        "najdroższa Krew"
+      ],
+      "summary": "Wariant eucharystyczny – siadanie przy stole, uznanie przymierza, spożycie Ciała, obmycie Krwią. Proroctwo królowania z Chrystusem w niebiańskim mieście. Krew najdroższa jako napój zbawienia.",
+      "bible": [
+        "J 6, 53-57",
+        "Ap 22, 1-5",
+        "1 Kor 10, 16-17"
+      ],
+      "text": [
+        "Siadamy przy Twym stole,",
+        "uznając Twe przymierze,",
+        "by spożyć Twoje ciało,",
+        "Twa Krew obmyje nas.",
+        "Aby królować z Tobą,",
+        "w Twym przenajświętszym mieście,",
+        "Krew Twą najdroższą pijąc.",
+        "Twa wiara zbawi nas."
+      ]
+    },
+    {
+      "range": "1-35",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "miasto święte",
+        "pielgrzym",
+        "Eucharystia",
+        "Ciało Chrystusa",
+        "Krew Chrystusa",
+        "przymierze",
+        "królowanie",
+        "nadzieja",
+        "zbawienie",
+        "eschatologia",
+        "Jerozolima",
+        "Chrystus",
+        "alleluja"
+      ],
+      "summary": "Pieśń pielgrzymkowa i eucharystyczna – wspólnota wiernych jako lud pielgrzymujący do niebieskiego miasta, karmiący się Ciałem i Krwią Chrystusa przy stole Eucharystii. Pieśń łączy motyw wędrówki (Kościół pielgrzymujący) z ucztą eschatologiczną (Kościół tryumfujący), a Eucharystia jest zadatkiem przyszłej chwały.",
+      "bible": [
+        "Ap 21",
+        "J 6",
+        "1 Kor 11, 23-26",
+        "Hbr 11, 10"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:1f470a174c4611f6a229589303c9ea9c20365530ccd5e7560806fde9feeaf900",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstać",
+        "Pan",
+        "alleluja"
+      ],
+      "summary": "Potrójne ogłoszenie zmartwychwstania Pana z radosnym Alleluja.",
+      "bible": [
+        "Mt 28, 6",
+        "Mk 16, 6"
+      ],
+      "text": [
+        "Zmartwychwstał Pan,",
+        "zmartwychwstał Pan,",
+        "zmartwychwstał Pan,",
+        "alleluja!"
+      ]
+    },
+    {
+      "range": "5-9",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja",
+        "zmartwychwstać",
+        "Pan"
+      ],
+      "summary": "Alleluja jako odpowiedź na zmartwychwstanie Pana.",
+      "bible": [
+        "Ap 19, 1"
+      ],
+      "text": [
+        "",
+        "Alleluja,",
+        "alleluja,",
+        "alleluja,",
+        "zmartwychwstał Pan!"
+      ]
+    },
+    {
+      "range": "10-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "śmierć",
+        "zwycięstwo",
+        "gdzie",
+        "pytać",
+        "tryumf"
+      ],
+      "summary": "Tryumfalne pytanie do śmierci o jej zwycięstwo, nawiązujące do 1 Kor 15, 55.",
+      "bible": [
+        "1 Kor 15, 55",
+        "Oz 13, 14"
+      ],
+      "text": [
+        "",
+        "O śmierci,",
+        "gdzie jesteś śmierci?",
+        "Gdzie jest moja śmierć?",
+        "Gdzie jest jej zwycięstwo?",
+        ""
+      ]
+    },
+    {
+      "range": "16-17",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstać",
+        "Pan"
+      ],
+      "summary": "Skrócone wezwanie przypominające o zmartwychwstaniu.",
+      "bible": [
+        "Mt 28, 6"
+      ],
+      "text": [
+        "Zmartwychwstał Pan, …",
+        ""
+      ]
+    },
+    {
+      "range": "18-22",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "radować się",
+        "brat",
+        "dzisiaj",
+        "miłować się",
+        "zmartwychwstać"
+      ],
+      "summary": "Wezwanie do radości i wzajemnej miłości, której źródłem jest zmartwychwstanie Chrystusa.",
+      "bible": [
+        "J 13, 34",
+        "1 J 4, 19"
+      ],
+      "text": [
+        "Radujmy się,",
+        "radujmy się, bracia,",
+        "jeśli dzisiaj się miłujemy,",
+        "to dlatego, że On zmartwychwstał.",
+        ""
+      ]
+    },
+    {
+      "range": "23-24",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstać",
+        "Pan"
+      ],
+      "summary": "Skrócone wezwanie przypominające o zmartwychwstaniu.",
+      "bible": [
+        "Mt 28, 6"
+      ],
+      "text": [
+        "Zmartwychwstał Pan, …",
+        ""
+      ]
+    },
+    {
+      "range": "25-29",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dziękować",
+        "Ojciec",
+        "prowadzić",
+        "Królestwo",
+        "miłość",
+        "żyć"
+      ],
+      "summary": "Dziękczynienie Ojcu, który prowadzi do Królestwa, gdzie żyje się miłością.",
+      "bible": [
+        "Kol 1, 12-13",
+        "Mt 25, 34"
+      ],
+      "text": [
+        "Dzięki,",
+        "dzięki niech będą Ojcu,",
+        "który nas prowadzi do swego Królestwa,",
+        "gdzie się miłością żyje!",
+        ""
+      ]
+    },
+    {
+      "range": "30-31",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstać",
+        "Pan"
+      ],
+      "summary": "Skrócone wezwanie przypominające o zmartwychwstaniu.",
+      "bible": [
+        "Mt 28, 6"
+      ],
+      "text": [
+        "Zmartwychwstał Pan, …",
+        ""
+      ]
+    },
+    {
+      "range": "32-36",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "umierać",
+        "Nim",
+        "żyć",
+        "śpiewać",
+        "alleluja",
+        "jedność",
+        "Chrystus"
+      ],
+      "summary": "Jeśli umieramy z Chrystusem, z Nim też żyjemy i śpiewamy alleluja.",
+      "bible": [
+        "Rz 6, 8",
+        "2 Tm 2, 11"
+      ],
+      "text": [
+        "Jeśli z Nim umieramy,",
+        "z Nim także żyjemy,",
+        "z Nim razem śpiewamy,",
+        "alleluja!",
+        ""
+      ]
+    },
+    {
+      "range": "37-41",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja",
+        "zmartwychwstać",
+        "Pan"
+      ],
+      "summary": "Alleluja jako odpowiedź na zmartwychwstanie Pana.",
+      "bible": [
+        "Ap 19, 1"
+      ],
+      "text": [
+        "Alleluja,",
+        "alleluja,",
+        "alleluja,",
+        "zmartwychwstał Pan!",
+        ""
+      ]
+    },
+    {
+      "range": "42-45",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstać",
+        "Pan",
+        "alleluja"
+      ],
+      "summary": "Końcowe potrójne ogłoszenie zmartwychwstania Pana z Alleluja.",
+      "bible": [
+        "Mt 28, 6"
+      ],
+      "text": [
+        "Zmartwychwstał Pan,",
+        "zmartwychwstał Pan,",
+        "zmartwychwstał Pan,",
+        "alleluja!"
+      ]
+    },
+    {
+      "range": "1-45",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "Pan",
+        "Chrystus",
+        "alleluja",
+        "śmierć",
+        "zwycięstwo",
+        "radość",
+        "miłość",
+        "brat",
+        "Ojciec",
+        "Królestwo",
+        "umierać",
+        "żyć",
+        "dziękczynienie",
+        "tryumf",
+        "nowe życie",
+        "pascha",
+        "odkupienie"
+      ],
+      "summary": "Wielkanocna pieśń tryumfalna o zmartwychwstaniu Chrystusa, który pokonał śmierć, wzywa do radości, miłości braterskiej i dziękczynienia Ojcu za Królestwo.",
+      "bible": [
+        "1 Kor 15, 54-58",
+        "Oz 13, 14",
+        "Rz 6, 8",
+        "2 Tm 2, 11",
+        "Kol 1, 12-13",
+        "Ap 19, 1",
+        "J 13, 34"
+      ]
+    }
+  ]
+}

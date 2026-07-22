@@ -1,0 +1,202 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:238cc81e6ea62ac58b313eb4b012ece2912c328c0a2a67b8c80692711edfe338",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "głębokość",
+        "serce",
+        "wołać",
+        "Pan",
+        "uszy",
+        "otwarty",
+        "wysłuchanie",
+        "Bóg"
+      ],
+      "summary": "Refren – wołanie z głębokości serca do Pana z prośbą o wysłuchanie.",
+      "bible": [
+        "Ps 130,1-2"
+      ],
+      "text": [
+        "Z głębokości serca",
+        "wołam do Ciebie, Panie.",
+        "Miej uszy otwarte,",
+        "wysłuchaj mnie, o Panie"
+      ]
+    },
+    {
+      "range": "5-9",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "grzech",
+        "przebaczenie",
+        "Bóg",
+        "powrót",
+        "ostanie",
+        "się",
+        "sąd",
+        "miłosierdzie"
+      ],
+      "summary": "Wyznanie, że nikt nie ostoi się przed Bogiem jeśli pamięta On grzechy, ale u Niego jest przebaczenie, by ludzie mogli do Niego wrócić.",
+      "bible": [
+        "Ps 130,3-4"
+      ],
+      "text": [
+        "",
+        "Jeśli na grzechy pomnisz,",
+        "któż się przed Tobą ostoi?",
+        "Ale u Ciebie jest przebaczenie,",
+        "byśmy do Ciebie wrócili."
+      ]
+    },
+    {
+      "range": "10-13",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "głębokość",
+        "serce",
+        "wołać",
+        "Pan",
+        "uszy",
+        "wysłuchanie"
+      ],
+      "summary": "Powtórzenie refrenu wołania z głębokości serca.",
+      "bible": [
+        "Ps 130,1-2"
+      ],
+      "text": [
+        "Z głębokości serca",
+        "wołam do Ciebie, Panie.",
+        "Miej uszy otwarte,",
+        "wysłuchaj mnie, o Panie"
+      ]
+    },
+    {
+      "range": "14-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "serce",
+        "ufność",
+        "słowo",
+        "Bóg",
+        "dusza",
+        "wyczekiwanie",
+        "Pan",
+        "strażnik",
+        "jutrzenka",
+        "nadzieja"
+      ],
+      "summary": "Wyznanie ufności serca w Boże słowo i duszy wyczekującej Pana bardziej niż strażnik jutrzenki.",
+      "bible": [
+        "Ps 130,5-6"
+      ],
+      "text": [
+        "",
+        "Serce me zaufało",
+        "Twemu wszechmocnemu słowu,",
+        "dusza moja wyczekuje Pana",
+        "bardziej, niż strażnik jutrzenki"
+      ]
+    },
+    {
+      "range": "19-22",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "głębokość",
+        "serce",
+        "wołać",
+        "Pan",
+        "uszy",
+        "wysłuchanie"
+      ],
+      "summary": "Powtórzenie refrenu wołania z głębokości serca.",
+      "bible": [
+        "Ps 130,1-2"
+      ],
+      "text": [
+        "Z głębokości serca",
+        "wołam do Ciebie, Panie.",
+        "Miej uszy otwarte,",
+        "wysłuchaj mnie, o Panie"
+      ]
+    },
+    {
+      "range": "23-27",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłosierdzie",
+        "łaska",
+        "Bóg",
+        "przebaczenie",
+        "lud",
+        "grzech",
+        "odkupienie"
+      ],
+      "summary": "Wyznanie, że u Boga jest miłosierdzie i obfituje łaska – On przebacza swemu ludowi wszystkie grzechy.",
+      "bible": [
+        "Ps 130,7-8"
+      ],
+      "text": [
+        "",
+        "U Boga jest miłosierdzie",
+        "i obfituje łaska",
+        "On przebaczy swemu ludowi",
+        "wszystkie jego grzechy."
+      ]
+    },
+    {
+      "range": "28-31",
+      "type": "zakończenie",
+      "sentiment": "błagalny",
+      "keywords": [
+        "głębokość",
+        "serce",
+        "wołać",
+        "Pan",
+        "uszy",
+        "wysłuchanie"
+      ],
+      "summary": "Końcowe powtórzenie refrenu jako trwające wołanie o miłosierdzie.",
+      "bible": [
+        "Ps 130,1-2"
+      ],
+      "text": [
+        "Z głębokości serca",
+        "wołam do Ciebie, Panie.",
+        "Miej uszy otwarte,",
+        "wysłuchaj mnie, o Panie"
+      ]
+    },
+    {
+      "range": "1-31",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "głębokość",
+        "serce",
+        "wołanie",
+        "Pan",
+        "grzech",
+        "przebaczenie",
+        "miłosierdzie",
+        "łaska",
+        "ufność",
+        "nadzieja",
+        "odkupienie",
+        "Bóg"
+      ],
+      "summary": "Parafraza Psalmu 130 (De profundis) – pokutne wołanie z głębi ludzkiej niedoli do Boga, który jest źródłem przebaczenia, miłosierdzia i odkupienia, z ufnym wyczekiwaniem na Jego zbawienie.",
+      "bible": [
+        "Ps 130"
+      ]
+    }
+  ]
+}

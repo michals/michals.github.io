@@ -1,0 +1,317 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:9aa043d825b5f1d5e44155e8470a28387cafc6eed3cddb0238a5f55fc1ac01ca",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "jeden",
+        "niebo",
+        "ziemia",
+        "monoteizm",
+        "wiara",
+        "wyznanie"
+      ],
+      "summary": "Fundament wiary: Jeden jest Bóg w niebie i na ziemi – wyznanie monoteizmu biblijnego (Szema Izrael).",
+      "bible": [
+        "Pwt 6,4",
+        "Mk 12,29-30"
+      ],
+      "text": [
+        "Kto wie, co to jest jeden?",
+        "Kto wie, co to jest jeden?",
+        "1 Ja wiem, co to jest jeden.",
+        "Ja wiem, co to jest jeden.",
+        "1 Jeden jest nasz Bóg            w niebie i na ziemi.",
+        "Jeden jest nasz Bógw niebie i na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "8-11",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "dwa",
+        "tablice",
+        "przymierze",
+        "prawo",
+        "Dekalog",
+        "Bóg"
+      ],
+      "summary": "Dwie tablice Przymierza – Dekalog dany Mojżeszowi na Synaju jako fundament przymierza Boga z Izraelem.",
+      "bible": [
+        "Wj 20,1-17",
+        "Wj 31,18",
+        "Pwt 5,1-22"
+      ],
+      "text": [
+        "Kto wie, co to jest dwa? …",
+        "2 Dwie, dwie tablice przymierza.",
+        "Jeden jest nasz Bógw niebie i na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "12-17",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "trzy",
+        "patriarchowie",
+        "Abraham",
+        "Izaak",
+        "Jakub",
+        "obietnica",
+        "przymierze"
+      ],
+      "summary": "Trzej patriarchowie: Abraham, Izaak i Jakub – ojcowie wiary Izraela, którym Bóg dał obietnicę przymierza.",
+      "bible": [
+        "Rdz 12,1-3",
+        "Rdz 17,1-14",
+        "Rdz 26,2-5",
+        "Rdz 28,13-15"
+      ],
+      "text": [
+        "Kto wie, co to jest trzy? …",
+        "3 Trzej, trzej są patriarchowie.",
+        "2 Dwie, dwie tablice przymierza.",
+        "1 Jeden jest nasz Bóg                         w niebie i na ziemi.",
+        "Jeden jest nasz Bóg                          w niebie i na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "18-23",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "cztery",
+        "noce",
+        "Pasch",
+        "zbawienie",
+        "historia",
+        "tradycja"
+      ],
+      "summary": "Cztery ważne noce paschalne – nawiązanie do czterech nocy zbawienia w tradycji sederowej (stworzenie, przymierze z Abrahamem, wyjście z Egiptu, przyjście Mesjasza).",
+      "bible": [
+        "Wj 12,42",
+        "Rdz 1,1-31",
+        "Rdz 22,1-19",
+        "Wj 14,1-31"
+      ],
+      "text": [
+        "Kto wie, co to jest cztery? …",
+        "4 Cztery, cztery, są ważne noce.",
+        "3 Trzej, trzej są patriarchowie.",
+        "2 Dwie, dwie tablice przymierza.",
+        "Jeden jest nasz Bóg                          w niebie i na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "24-31",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "pięć",
+        "Księgi",
+        "Prawo",
+        "Tora",
+        "Mojżesz",
+        "Pięcioksiąg"
+      ],
+      "summary": "Pięć Ksiąg Prawa – Pięcioksiąg Mojżeszowy (Tora) jako fundament objawienia Starego Testamentu.",
+      "bible": [
+        "Rdz 1,1 - Pwt 34,12"
+      ],
+      "text": [
+        "Kto wie, co to jest pięć? …",
+        "5 Pięć, pięć jest Ksiąg Prawa.",
+        "4 Cztery, cztery, są ważne noce.",
+        "⋮",
+        "",
+        "1 Jeden jest nasz Bóg w niebie i na ziemi.",
+        "Jeden jest nasz Bóg w niebie i na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "32-38",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "sześć",
+        "dni",
+        "stworzenie",
+        "świat",
+        "Bóg",
+        "sabat"
+      ],
+      "summary": "Sześć dni stworzenia – wszechświat i życie jako dzieło Boże, przygotowanie na siódmy dzień odpoczynku.",
+      "bible": [
+        "Rdz 1,1-31",
+        "Wj 20,11"
+      ],
+      "text": [
+        "Kto wie, co to jest sześć? …",
+        "6 Sześć, sześć było dni stworzenia.",
+        "5 Pięć, pięć jest Ksiąg Prawa.",
+        "⋮",
+        "2 Dwie, dwie tablice przymierza.",
+        "Jeden jest nasz Bóg w niebie i na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "39-45",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "siedem",
+        "narody",
+        "wróg",
+        "ziemia obiecana",
+        "Izrael",
+        "podbój"
+      ],
+      "summary": "Siedem wrogich narodów Kanaanu – symboliczne przeszkody na drodze do Ziemi Obiecanej, które Bóg usuwa przed swoim ludem.",
+      "bible": [
+        "Pwt 7,1-5",
+        "Joz 3,10",
+        "Dz 13,19"
+      ],
+      "text": [
+        "Kto wie, co to jest siedem? …",
+        "7 Siedem, siedem wrogich narodów.",
+        "6 Sześć, sześć było dni stworzenia.",
+        "⋮",
+        "1 Jeden jest nasz Bóg w niebie i na ziemi.",
+        "Jeden jest nasz Bóg w niebie i na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "46-52",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "osiem",
+        "osoby",
+        "arka",
+        "Noe",
+        "potop",
+        "ocalenie",
+        "przymierze"
+      ],
+      "summary": "Osiem osób ocalonych w arce Noego – typologia chrztu i nowego stworzenia przez wodę potopu.",
+      "bible": [
+        "Rdz 7,1-24",
+        "Rdz 8,1-22",
+        "1 P 3,20-21"
+      ],
+      "text": [
+        "Kto wie, co to jest osiem? …",
+        "8 Osiem, osiem osób było w arce.",
+        "7 Siedem, siedem wrogich narodów.",
+        "⋮",
+        "2 Dwie, dwie tablice przymierza.",
+        "Jeden jest nasz Bóg w niebie i na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "53-59",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dziewięć",
+        "miesiące",
+        "poród",
+        "narodzenie",
+        "życie",
+        "człowiek",
+        "wcielenie"
+      ],
+      "summary": "Dziewięć miesięcy do porodu – tajemnica poczęcia i narodzin człowieka, zapowiedź wcielenia Syna Bożego.",
+      "bible": [
+        "Ps 139,13-16",
+        "Łk 1,26-38",
+        "Łk 2,1-7"
+      ],
+      "text": [
+        "Kto wie, co to jest dziewięć? …",
+        "9 Dziewięć jest miesięcy do porodu.",
+        "8 Osiem, osiem osób było w arce.",
+        "⋮",
+        "1 Jeden jest nasz Bóg w niebie i na ziemi.",
+        "Jeden jest nasz Bóg w niebie i na ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "60-65",
+      "type": "zakończenie",
+      "sentiment": "neutralny",
+      "keywords": [
+        "dziesięć",
+        "przykazania",
+        "Dekalog",
+        "prawo",
+        "życie",
+        "Bóg",
+        "jedność"
+      ],
+      "summary": "Dziesięć przykazań – Dekalog jako pełnia prawa moralnego, które prowadzi z powrotem do jedynego Boga.",
+      "bible": [
+        "Wj 20,1-17",
+        "Pwt 5,6-21",
+        "Mt 22,36-40"
+      ],
+      "text": [
+        "Kto wie, co to jest dziesięć? …",
+        "10 Dziesięć, dziesięć jest przykazań życia.",
+        "9 Dziewięć jest miesięcy do porodu.",
+        "⋮",
+        "2 Dwie, dwie tablice przymierza.",
+        "Jeden jest nasz Bóg w niebie i na ziemi."
+      ]
+    },
+    {
+      "range": "1-65",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "jeden",
+        "Dekalog",
+        "patriarchowie",
+        "Pasch",
+        "Tora",
+        "stworzenie",
+        "narody",
+        "Noe",
+        "wcielenie",
+        "przykazania",
+        "obietnica",
+        "przymierze"
+      ],
+      "summary": "Pieśń kumulacyjna wywodząca się z tradycji hebrajskiej ('Echad mi yodea'), wymieniająca dziesięć kluczowych elementów wiary i historii zbawienia: od jednego Boga, przez patriarchów, Paschę, Torę, stworzenie, narody kanaanejskie, arkę Noego, narodziny, aż po Dekalog – wszystko prowadzi do wyznania jedynego Boga.",
+      "bible": [
+        "Pwt 6,4",
+        "Rdz 1,1-31",
+        "Rdz 7,1-24",
+        "Rdz 12,1-3",
+        "Rdz 22,1-19",
+        "Wj 12,1-51",
+        "Wj 20,1-17",
+        "Ps 139,13-16",
+        "Łk 1,26-38",
+        "1 P 3,20-21"
+      ]
+    }
+  ]
+}

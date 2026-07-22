@@ -1,0 +1,178 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:47cce520d98f1c99afa37ad9b14ba771525e611fa8c9a9605073259056a5b269",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jeruzalem",
+        "pójść",
+        "matka",
+        "spożywać",
+        "zioła",
+        "nasycić",
+        "pragnienie"
+      ],
+      "summary": "Podmiot wyraża pragnienie udania się do Jeruzalem, aby spożywać zioła i nasycić nimi swoje pragnienia.",
+      "bible": [
+        "Ps 122, 1",
+        "Ex 12, 8",
+        "Ga 4, 26"
+      ],
+      "text": [
+        "Pragnę pójść, matko,",
+        "do Jeruzalem, Jeruzalem,",
+        "by spożywać zioła,",
+        "aby nasycić się nimi, nasycić się nimi.",
+        ""
+      ]
+    },
+    {
+      "range": "6-9",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ścieżka",
+        "odnaleźć",
+        "pielgrzymować",
+        "świat"
+      ],
+      "summary": "Podmiot odnalazł ścieżkę i pielgrzymuje nią przez cały świat.",
+      "bible": [
+        "Ps 16, 11",
+        "J 14, 6"
+      ],
+      "text": [
+        "Już tę ścieżkę odnalazłem,",
+        "już tą ścieżką pielgrzymuję,",
+        "już na ścieżce",
+        "całego świata, całego świata."
+      ]
+    },
+    {
+      "range": "10-13",
+      "type": "refren",
+      "sentiment": "neutralny",
+      "keywords": [
+        "melodia",
+        "śpiew",
+        "radość"
+      ],
+      "summary": "Melodyjny refren bez słów, wyrażający radość pielgrzymki.",
+      "bible": [],
+      "text": [
+        "La la, la la la la la la la la.",
+        "La la, la la la la la la la la la la la la,",
+        "la la la la la la la la, la la la la la la la la.",
+        ""
+      ]
+    },
+    {
+      "range": "14-20",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "spożywać",
+        "nasycić",
+        "pragnienie",
+        "przyjaźń",
+        "łagodność",
+        "posłuszeństwo"
+      ],
+      "summary": "Prośba o spożywanie darów Bożych, które nasycają pragnienia przyjaźni, łagodności i posłuszeństwa.",
+      "bible": [
+        "Ga 5, 22-23",
+        "Ps 34, 9"
+      ],
+      "text": [
+        "Daj mi je spożywać,",
+        "abym nasycił nimi me pragnienia;",
+        "to są pragnienia przyjaźni,",
+        "to są pragnienia łagodności,",
+        "to są pragnienia,",
+        "to są pragnienia posłuszeństwa.",
+        ""
+      ]
+    },
+    {
+      "range": "21-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ścieżka",
+        "odnaleźć",
+        "pielgrzymować",
+        "świat"
+      ],
+      "summary": "Powtórzenie motywu odnalezionej ścieżki pielgrzymowania przez cały świat.",
+      "bible": [
+        "Ps 16, 11",
+        "J 14, 6"
+      ],
+      "text": [
+        "Już tę ścieżkę odnalazłem,",
+        "już tą ścieżką pielgrzymuję,",
+        "już na ścieżce",
+        "całego świata, całego świata."
+      ]
+    },
+    {
+      "range": "25-26",
+      "type": "zakończenie",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Adonaj",
+        "Bóg",
+        "Pan",
+        "jeden",
+        "jedność"
+      ],
+      "summary": "Uroczysta akklamacja Shema Israel: Pan jest naszym Bogiem, Pan jest jeden.",
+      "bible": [
+        "Pwt 6, 4",
+        "Mk 12, 29"
+      ],
+      "text": [
+        "Adonaj Elohenu, Adonaj Elohenu,",
+        "Adonaj Ehad."
+      ]
+    },
+    {
+      "range": "1-26",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jeruzalem",
+        "pielgrzymka",
+        "ścieżka",
+        "Bóg",
+        "Adonaj",
+        "pragnienie",
+        "spożywać",
+        "nasycić",
+        "przyjaźń",
+        "łagodność",
+        "posłuszeństwo",
+        "świat",
+        "matka",
+        "zioła",
+        "jedność",
+        "odnaleźć",
+        "śpiew"
+      ],
+      "summary": "Sefardyjski kantyk o pielgrzymowaniu do niebieskiego Jeruzalem, wyrażający tęsknotę za zjednoczeniem z Bogiem, zwieńczony wyznaniem wiary Shema Israel. Spożywanie ziół nawiązuje do Paschy, a ścieżka pielgrzyma symbolizuje Chrystusa jako Drogę.",
+      "bible": [
+        "Ps 122",
+        "Pwt 6, 4",
+        "Ex 12, 8",
+        "Ap 21, 1-2",
+        "J 14, 6",
+        "Ga 5, 22-23",
+        "Mk 12, 29-30",
+        "Ga 4, 26"
+      ]
+    }
+  ]
+}

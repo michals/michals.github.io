@@ -1,0 +1,285 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:e9d59c4b7b595cdb7930b95fc7070aa32becb30f4f7e5f00fdbada7b09c68bfc",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śmierć",
+        "głębina",
+        "Chrystus",
+        "powstanie",
+        "zwycięstwo",
+        "ojcowie"
+      ],
+      "summary": "Refren: Chrystus zwycięsko powstaje z przepastnych głębin śmierci wraz z dawnymi ojcami.",
+      "bible": [
+        "1 P 3, 19",
+        "Dz 2, 24"
+      ],
+      "text": [
+        "Z przepastnych głębin śmierci",
+        "Chrystus powstaje zwycięski",
+        "razem z dawnymi ojcami.",
+        ""
+      ]
+    },
+    {
+      "range": "5-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pascha",
+        "słońce",
+        "śpiew",
+        "niebo",
+        "radość",
+        "ziemia"
+      ],
+      "summary": "Słońce Paschy rozbłyska, niebo rozbrzmiewa śpiewem, ziemia unosi się radością.",
+      "bible": [
+        "Ps 96, 11-13"
+      ],
+      "text": [
+        "Rozbłyska słońce Paschy,",
+        "rozbrzmiewa niebo śpiewem,",
+        "radością unosi się ziemia.",
+        ""
+      ]
+    },
+    {
+      "range": "9-12",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śmierć",
+        "głębina",
+        "Chrystus",
+        "powstanie",
+        "zwycięstwo",
+        "ojcowie"
+      ],
+      "summary": "Refren: powstanie Chrystusa z głębin śmierci z ojcami.",
+      "bible": [
+        "1 P 3, 19",
+        "Dz 2, 24"
+      ],
+      "text": [
+        "Z przepastnych głębin śmierci",
+        "Chrystus powstaje zwycięski",
+        "razem z dawnymi ojcami.",
+        ""
+      ]
+    },
+    {
+      "range": "13-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "grób",
+        "pusty",
+        "strażnik",
+        "Jezus Chrystus",
+        "zmartwychwstanie"
+      ],
+      "summary": "Obok pustego grobu na próżno czuwa strażnik – Jezus Chrystus zmartwychwstał.",
+      "bible": [
+        "Mt 28, 2-4",
+        "Łk 24, 1-6"
+      ],
+      "text": [
+        "Obok pustego grobu",
+        "na próżno czuwa strażnik:",
+        "Jezus Chrystus zmartwychwstał.",
+        ""
+      ]
+    },
+    {
+      "range": "17-20",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śmierć",
+        "głębina",
+        "Chrystus",
+        "powstanie",
+        "zwycięstwo",
+        "ojcowie"
+      ],
+      "summary": "Refren: powstanie Chrystusa.",
+      "bible": [
+        "1 P 3, 19",
+        "Dz 2, 24"
+      ],
+      "text": [
+        "Z przepastnych głębin śmierci",
+        "Chrystus powstaje zwycięski",
+        "razem z dawnymi ojcami.",
+        ""
+      ]
+    },
+    {
+      "range": "21-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus",
+        "Król",
+        "nieśmiertelność",
+        "zwycięstwo",
+        "chrzest",
+        "odrodzenie"
+      ],
+      "summary": "Wezwanie do Jezusa, Króla Nieśmiertelnego, by do Jego zwycięstwa przyłączył odrodzonych przez chrzest.",
+      "bible": [
+        "Rz 6, 3-5",
+        "Kol 2, 12",
+        "Tt 3, 5"
+      ],
+      "text": [
+        "O Jezu, Królu Nieśmiertelny,",
+        "przyłącz do Twego zwycięstwa",
+        "we chrzcie odrodzonych.",
+        ""
+      ]
+    },
+    {
+      "range": "25-28",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śmierć",
+        "głębina",
+        "Chrystus",
+        "powstanie",
+        "zwycięstwo",
+        "ojcowie"
+      ],
+      "summary": "Refren: powstanie Chrystusa.",
+      "bible": [
+        "1 P 3, 19",
+        "Dz 2, 24"
+      ],
+      "text": [
+        "Z przepastnych głębin śmierci",
+        "Chrystus powstaje zwycięski",
+        "razem z dawnymi ojcami.",
+        ""
+      ]
+    },
+    {
+      "range": "29-32",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Kościół",
+        "światło",
+        "Pascha",
+        "miłość",
+        "pokój",
+        "rękojmia"
+      ],
+      "summary": "Prośba, by Chrystus rozpromienił Kościół światłem swojej Paschy jako rękojmią miłości i pokoju.",
+      "bible": [
+        "J 14, 27",
+        "Rz 8, 11"
+      ],
+      "text": [
+        "Rozpromień Twój Kościół",
+        "światłem Twojej Paschy:",
+        "rękojmią miłości i pokoju.",
+        ""
+      ]
+    },
+    {
+      "range": "33-36",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śmierć",
+        "głębina",
+        "Chrystus",
+        "powstanie",
+        "zwycięstwo",
+        "ojcowie"
+      ],
+      "summary": "Refren: powstanie Chrystusa.",
+      "bible": [
+        "1 P 3, 19",
+        "Dz 2, 24"
+      ],
+      "text": [
+        "Z przepastnych głębin śmierci",
+        "Chrystus powstaje zwycięski",
+        "razem z dawnymi ojcami.",
+        ""
+      ]
+    },
+    {
+      "range": "37-40",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "cześć",
+        "Chrystus",
+        "Ojciec",
+        "Duch Święty",
+        "amen",
+        "wieczność"
+      ],
+      "summary": "Doksologia trynitarna: chwała i cześć Chrystusowi, Ojcu i Duchowi Świętemu na wieki. Amen!",
+      "bible": [
+        "Rz 16, 27",
+        "Ga 1, 5"
+      ],
+      "text": [
+        "Chwała i cześć Chrystusowi",
+        "Ojcu, Duchowi Świętemu",
+        "teraz i na wieki wieków.",
+        "Amen! Amen! Amen!"
+      ]
+    },
+    {
+      "range": "1-40",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "śmierć",
+        "głębina",
+        "Chrystus",
+        "powstanie",
+        "zwycięstwo",
+        "Pascha",
+        "grób",
+        "pusty",
+        "zmartwychwstanie",
+        "ojcowie",
+        "chrzest",
+        "odrodzenie",
+        "Kościół",
+        "światło",
+        "chwała",
+        "Ojciec",
+        "Duch Święty",
+        "Król",
+        "nieśmiertelność",
+        "miłość",
+        "pokój",
+        "amen"
+      ],
+      "summary": "Hymn na Jutrznię wielkanocną o zwycięskim powstaniu Chrystusa z przepastnych głębin śmierci wraz z ojcami – refreniczna pieśń paschalna, której zwrotki rozwijają motywy pustego grobu, chrztu, światła Paschy w Kościele, zakończona doksologią trynitarną.",
+      "bible": [
+        "1 P 3, 19",
+        "Dz 2, 24",
+        "Mt 28, 2-6",
+        "Rz 6, 3-5",
+        "Kol 2, 12",
+        "J 14, 27",
+        "Rz 8, 11"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:26efa40d61acc37b744ae98d45ea9c36fcdaed6296d1403a7e2b0f04ace07dc5",
+  "songs_analysis": [
+    {
+      "range": "1-2",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja"
+      ],
+      "summary": "Aklamacja Alleluja otwierająca psalm uwielbienia.",
+      "bible": [
+        "Ps 146"
+      ],
+      "text": [
+        "Alleluja, alleluja. Alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "3-7",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Pan",
+        "dusza",
+        "serce",
+        "święte imię",
+        "życie",
+        "chwalić",
+        "Bóg",
+        "śpiewać"
+      ],
+      "summary": "Postanowienie chwalenia Pana przez całe życie duszą i sercem (Ps 146,1-2).",
+      "bible": [
+        "Ps 146,1-2"
+      ],
+      "text": [
+        "Daj chwałę Panu, duszo moja",
+        "ty, serce moje, Jego świętemu imieniu;",
+        "przez całe życie chwalić będę Pana,",
+        "śpiewać będę memu Bogu, jak długo będę żył.",
+        ""
+      ]
+    },
+    {
+      "range": "8-9",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja"
+      ],
+      "summary": "Aklamacja Alleluja.",
+      "bible": [
+        "Ps 146"
+      ],
+      "text": [
+        "Alleluja, alleluja. Alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "10-14",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "ufność",
+        "możny",
+        "człowiek",
+        "zbawienie",
+        "proch",
+        "umierać",
+        "zamiar"
+      ],
+      "summary": "Ostrzeżenie przed pokładaniem ufności w śmiertelnych ludziach, którzy wracają do prochu (Ps 146,3-4).",
+      "bible": [
+        "Ps 146,3-4"
+      ],
+      "text": [
+        "Nie pokładam ufności w możnych,",
+        "w człowieku, w którym nie ma zbawienia:",
+        "do prochu wraca, kiedy umiera,",
+        "rozwiewają się w tym dniu wszystkie jego zamiary.",
+        ""
+      ]
+    },
+    {
+      "range": "15-16",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja"
+      ],
+      "summary": "Aklamacja Alleluja.",
+      "bible": [
+        "Ps 146"
+      ],
+      "text": [
+        "Alleluja, alleluja. Alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "17-21",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "otwierać",
+        "oko",
+        "ślepy",
+        "sprawiedliwość",
+        "uciśniony",
+        "chleb",
+        "zgłodniały",
+        "jeniec",
+        "wypuścić",
+        "wolność"
+      ],
+      "summary": "Pan otwiera oczy ślepym, wymierza sprawiedliwość uciśnionym, karmi głodnych i uwalnia więźniów – mesjańskie znaki Izajasza (Ps 146,5-7; Iz 35,5; Łk 4,18).",
+      "bible": [
+        "Ps 146,5-7",
+        "Iz 35,5",
+        "Łk 4,18"
+      ],
+      "text": [
+        "Ale w Tobie, Panie, który otwierasz oczy ślepym,",
+        "który świadczysz sprawiedliwość uciśnionym,",
+        "w Tobie, który dajesz chleb zgłodniałym",
+        "i jeńców wypuszczasz na wolność.",
+        ""
+      ]
+    },
+    {
+      "range": "22-23",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja"
+      ],
+      "summary": "Aklamacja Alleluja.",
+      "bible": [
+        "Ps 146"
+      ],
+      "text": [
+        "Alleluja, alleluja. Alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "24-28",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "szczęśliwy",
+        "zawierzyć",
+        "Pan",
+        "Bóg",
+        "Abraham",
+        "ufność",
+        "królować",
+        "Syjon",
+        "wieki"
+      ],
+      "summary": "Błogosławiony, kto ufa Bogu Abrahama; Pan króluje na wieki jako Bóg Syjonu (Ps 146,8-10; Rz 4).",
+      "bible": [
+        "Ps 146,8-10",
+        "Rz 4"
+      ],
+      "text": [
+        "Szczęśliwy, kto zawierzył Panu,",
+        "w Bogu Abrahama złożył ufność.",
+        "Króluje Pan na zawsze,",
+        "Bóg Syjonu na wieki.",
+        ""
+      ]
+    },
+    {
+      "range": "29-29",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja"
+      ],
+      "summary": "Aklamacja Alleluja zamykająca psalm.",
+      "bible": [
+        "Ps 146"
+      ],
+      "text": [
+        "Alleluja, alleluja. Alleluja, alleluja."
+      ]
+    },
+    {
+      "range": "1-29",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Pan",
+        "Bóg",
+        "alleluja",
+        "dusza",
+        "chwalić",
+        "śpiew",
+        "ufność",
+        "Bóg Abrahama",
+        "królestwo",
+        "Syjon",
+        "wieczność",
+        "ślepy",
+        "głodny",
+        "jeniec",
+        "sprawiedliwość",
+        "wyzwolenie",
+        "zbawienie",
+        "miłosierdzie",
+        "nadzieja"
+      ],
+      "summary": "Parafraza Ps 146 – hymn uwielbienia Boga, który nie pokłada ufności w możnych tego świata, lecz czyni sprawiedliwość, karmi głodnych i uwalnia więźniów. Typologia: otwieranie oczu ślepym i wyzwalanie jeńców zapowiada mesjańskie dzieła Chrystusa (Łk 4,18; Mt 11,5). Bóg Abrahama jako refren przymierza prefiguruje wiarę chrześcijańską (Rz 4).",
+      "bible": [
+        "Ps 146",
+        "Iz 35,5",
+        "Łk 4,18",
+        "Mt 11,5",
+        "Rz 4"
+      ]
+    }
+  ]
+}

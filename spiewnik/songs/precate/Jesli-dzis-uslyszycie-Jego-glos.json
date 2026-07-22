@@ -1,0 +1,227 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:9903756dd7a1a327f6ef0b7b0b7ff7b26e85b4177b175acbfc7a23b609084a9e",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "głos",
+        "serce",
+        "zatwardziałość",
+        "wysławianie",
+        "chwała",
+        "skała",
+        "zbawienie",
+        "dziękczynienie",
+        "pieśń",
+        "psalm",
+        "radość",
+        "wezwanie",
+        "Bóg"
+      ],
+      "summary": "Wezwanie do wysławiania Pana, skały zbawienia, z radosnym śpiewem i dziękczynieniem, połączone z ostrzeżeniem przed zatwardzaniem serca.",
+      "bible": [
+        "Ps 95, 1-7a",
+        "Ps 81, 9",
+        "Hbr 3, 7-11",
+        "Ef 5, 19",
+        "Kol 3, 16"
+      ],
+      "text": [
+        "Jeśli dziś usłyszycie Jego głos,",
+        "nie zatwardzajcie waszego serca.",
+        "",
+        "Przyjdźcie, wysławiajmy głośno Pana,",
+        "chwalmy skałę naszego zbawienia.",
+        "Przystąpmy do Niego, by Mu dziękować,",
+        "radośnie śpiewajmy pieśni i psalmy.",
+        "Jeśli dziś usłyszycie Jego głos,",
+        "nie zatwardzajcie waszego serca."
+      ]
+    },
+    {
+      "range": "10",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "11-16",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "11-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "Król",
+        "władza",
+        "stworzenie",
+        "głębina ziemi",
+        "morze",
+        "wielkość",
+        "wszechmoc",
+        "Pan",
+        "bogowie",
+        "Stwórca",
+        "królestwo Boże"
+      ],
+      "summary": "Wyznanie wielkości Boga jako Króla nad wszystkimi bogami i Stwórcy wszechświata, który trzyma w swym ręku głębiny ziemi i morze.",
+      "bible": [
+        "Ps 95, 3-5",
+        "Ps 24, 1-2",
+        "Ps 135, 5-6",
+        "Ne 9, 6",
+        "Dz 14, 15"
+      ],
+      "text": [
+        "Albowiem wielkim Bogiem jest Pan,",
+        "wielkim Królem nad wszystkimi bogami.",
+        "W Jego ręku są głębiny ziemi,",
+        "Jego jest morze, On je uczynił.",
+        "Jeśli dziś usłyszycie Jego głos,",
+        "nie zatwardzajcie waszego serca."
+      ]
+    },
+    {
+      "range": "17",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "18-24",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "18-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "uwielbienie",
+        "pokłon",
+        "stworzenie",
+        "lud Boży",
+        "trzoda",
+        "pasterz",
+        "pastwisko",
+        "wierność",
+        "przymierze",
+        "Bóg",
+        "Król",
+        "służba Boża"
+      ],
+      "summary": "Wezwanie do oddania pokłonu Panu, który jest naszym Bogiem, a my Jego ludem i trzodą Jego pastwiska, wyrażające przymierzną więź Boga z Izraelem.",
+      "bible": [
+        "Ps 95, 6-7",
+        "Ps 100, 3",
+        "Ez 34, 31",
+        "J 10, 14-16",
+        "1 P 2, 9-10"
+      ],
+      "text": [
+        "Przyjdźcie, padnijmy na twarze,",
+        "zegnijmy kolana przed Panem, który nas stworzył.",
+        "On jest naszym Bogiem, a my jesteśmy Jego ludem,",
+        "jesteśmy Jego trzodą, którą On prowadzi,",
+        "ludem Jego pastwiska.",
+        "Jeśli dziś usłyszycie Jego głos,",
+        "nie zatwardzajcie waszego serca."
+      ]
+    },
+    {
+      "range": "25",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "26-38",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "26-38",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "próba",
+        "pustynia",
+        "Meriba",
+        "Massa",
+        "bunt",
+        "zatwardziałość",
+        "czterdzieści lat",
+        "gniew",
+        "odpoczynek",
+        "sąd",
+        "niewierność",
+        "ojcowie",
+        "pokolenie",
+        "drogi Boże",
+        "kara",
+        "Izrael"
+      ],
+      "summary": "Przypomnienie buntu Izraela na pustyni w Meriba i Massa jako przestroga przed zatwardzaniem serca, z groźbą niewejścia do Bożego odpoczynku.",
+      "bible": [
+        "Ps 95, 8-11",
+        "Wj 17, 1-7",
+        "Lb 20, 2-13",
+        "Hbr 3, 7-19",
+        "Hbr 4, 1-11",
+        "Pwt 6, 16"
+      ],
+      "text": [
+        "Obyście, obyście",
+        "dziś usłyszeli mój głos i nie zatwardzali serca,",
+        "jak w Meriba, jak w dniu Massa, na pustyni,",
+        "gdzie wasi ojcowie wystawili mnie na próbę,",
+        "mimo że widzieli moje dzieła,",
+        "zmusili Mnie do pełnienia swojej woli.",
+        "Przez lat czterdzieści",
+        "odczuwałem wstręt do tego pokolenia.",
+        "I rzekłem: „Są ludem o sercu zbłąkanym,",
+        "nie znają moich dróg,",
+        "dlatego nie wejdą do mego odpoczynku!”",
+        "Jeśli dziś usłyszycie Jego głos,",
+        "nie zatwardzajcie waszego serca."
+      ]
+    },
+    {
+      "range": "1-38",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Ps 95",
+        "głos Boży",
+        "zatwardziałość serca",
+        "uwielbienie",
+        "stworzenie",
+        "przymierze",
+        "trzoda",
+        "pustynia",
+        "próba",
+        "niewierność",
+        "odpoczynek",
+        "sąd",
+        "nawrócenie",
+        "posłuszeństwo",
+        "wiara"
+      ],
+      "summary": "Pełna parafraza Psalmu 95 łącząca radosne wezwanie do uwielbienia Boga Stwórcy i Króla z przestrogą przed zatwardzaniem serca na wzór buntu Izraela na pustyni.",
+      "bible": [
+        "Ps 95",
+        "Hbr 3, 7-19",
+        "Hbr 4, 1-11",
+        "Wj 17, 1-7",
+        "J 10, 14-16"
+      ]
+    }
+  ]
+}

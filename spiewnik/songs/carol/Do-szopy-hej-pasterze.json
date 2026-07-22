@@ -1,0 +1,234 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:9bfc9704d4760cfb152e1c9efd7b3559e6d6e0e65674dd4e4b0377f59731c985",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "szopa",
+        "pasterze",
+        "cud",
+        "Syn Boży",
+        "żłób",
+        "zbawienie",
+        "Aniołowie",
+        "śpiew",
+        "królowie",
+        "pokłon",
+        "Jezus Chrystus"
+      ],
+      "summary": "Wezwanie do szopy, gdzie leży Syn Boży, by zbawić ludzki ród; wszystkie stworzenia niebieskie i ziemskie oddają Mu cześć.",
+      "bible": [
+        "Łk 2, 7.13.15-16",
+        "Mt 2, 11"
+      ],
+      "text": [
+        "Do szopy, hej pasterze,",
+        "Do szopy, bo tam cud!",
+        "Syn Boży w żłobie leży,",
+        "by zbawić ludzki ród.",
+        "Śpiewajcie Aniołowie,",
+        "pasterze, grajcie Mu.",
+        "Kłaniajcie się Królowie,",
+        "nie budźcie Go ze snu.",
+        ""
+      ]
+    },
+    {
+      "range": "10-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pokłon",
+        "kolana",
+        "Dziecię",
+        "Bóg",
+        "Pan",
+        "wdzięczność",
+        "adoracja",
+        "dług",
+        "Jezus Chrystus"
+      ],
+      "summary": "Akt adoracji na kolanach: Dziecię jest naszym Bogiem i Panem, któremu składamy wdzięczny dług uwielbienia.",
+      "bible": [
+        "Flp 2, 10",
+        "Rz 14, 11",
+        "Iz 45, 23"
+      ],
+      "text": [
+        "Padnijmy na kolana,",
+        "to Dziecię to nasz Bóg,",
+        "Witajmy swego Pana;",
+        "wdzięczności złóżmy dług.",
+        "Śpiewajcie Aniołowie,",
+        "pasterze, grajcie Mu.",
+        "Kłaniajcie się Królowie,",
+        "nie budźcie Go ze snu.",
+        ""
+      ]
+    },
+    {
+      "range": "19-27",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "niepojęty",
+        "miłość",
+        "siano",
+        "bydlęta",
+        "tron",
+        "służba",
+        "Jezus Chrystus",
+        "kenoza"
+      ],
+      "summary": "Refleksja nad niepojętą miłością Boga, który na sianie pośród bydląt ma swój tron i służbę.",
+      "bible": [
+        "Rz 11, 33",
+        "Ef 3, 19",
+        "1 Kor 1, 27",
+        "2 Kor 8, 9"
+      ],
+      "text": [
+        "O Boże niepojęty,",
+        "kto pojmie miłość Twą?",
+        "Na sianie wśród bydlęty,",
+        "masz tron i służbę swą.",
+        "Śpiewajcie Aniołowie,",
+        "pasterze, grajcie Mu.",
+        "Kłaniajcie się Królowie,",
+        "nie budźcie Go ze snu.",
+        ""
+      ]
+    },
+    {
+      "range": "28-36",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Ojciec",
+        "Bóstwo",
+        "niebo",
+        "ubóstwo",
+        "cierpienie",
+        "zło",
+        "Jezus Chrystus",
+        "Syn Boży",
+        "Trójca Święta",
+        "kenoza"
+      ],
+      "summary": "Syn równy Ojcu w Bóstwie opuszcza niebo, rodzi się w ubóstwie i dobrowolnie przyjmuje cierpienie.",
+      "bible": [
+        "Flp 2, 6-7",
+        "J 10, 30",
+        "J 1, 1-2",
+        "2 Kor 8, 9"
+      ],
+      "text": [
+        "On Ojcu równy w Bóstwie",
+        "opuszcza niebo swe",
+        "A rodzi się w ubóstwie",
+        "i cierpi wszystko złe",
+        "Śpiewajcie Aniołowie,",
+        "pasterze, grajcie Mu.",
+        "Kłaniajcie się Królowie,",
+        "nie budźcie Go ze snu.",
+        ""
+      ]
+    },
+    {
+      "range": "37-45",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "Stwórca",
+        "chwała",
+        "cześć",
+        "szopa",
+        "słodki sen",
+        "Jezus Chrystus",
+        "Wcielenie",
+        "adoracja"
+      ],
+      "summary": "Bóg, Stwórca wiecznej chwały, godzien wszelkiej czci, śpi słodko w zbutwiałej szopie — obraz skrajnego uniżenia.",
+      "bible": [
+        "Rdz 1, 1",
+        "Ap 4, 11",
+        "Iz 40, 28"
+      ],
+      "text": [
+        "Bóg, Stwórca wiecznej chwały,",
+        "Bóg godzien wszelkiej czci,",
+        "patrz, w szopie tej zbutwiałej,",
+        "jak słodko On tam śpi.",
+        "Śpiewajcie Aniołowie,",
+        "pasterze, grajcie Mu.",
+        "Kłaniajcie się Królowie,",
+        "nie budźcie Go ze snu.",
+        ""
+      ]
+    },
+    {
+      "range": "46-53",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Jezus",
+        "najsłodszy",
+        "oddanie",
+        "skarb",
+        "własność",
+        "ofiarowanie",
+        "zawierzenie",
+        "miłość"
+      ],
+      "summary": "Osobiste oddanie się Jezusowi: podmiot liryczny ofiarowuje siebie jako własność Zbawiciela, nazywając Go najsłodszym i najdroższym skarbem.",
+      "bible": [
+        "Rz 12, 1",
+        "Ga 2, 20",
+        "1 P 1, 18-19"
+      ],
+      "text": [
+        "Jezuniu mój najsłodszy,",
+        "Tobie oddaję się.",
+        "O skarbie mój najdroższy,",
+        "racz wziąć na własność mnie.",
+        "Śpiewajcie Aniołowie,",
+        "pasterze, grajcie Mu.",
+        "Kłaniajcie się Królowie,",
+        "nie budźcie Go ze snu."
+      ]
+    },
+    {
+      "range": "1-53",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Boże Narodzenie",
+        "Jezus Chrystus",
+        "Syn Boży",
+        "adoracja",
+        "żłób",
+        "szopa",
+        "kenoza",
+        "zbawienie",
+        "pasterze",
+        "aniołowie",
+        "królowie",
+        "oddanie",
+        "Wcielenie"
+      ],
+      "summary": "Kolęda o pokłonie składanym nowonarodzonemu Synowi Bożemu w szopie. Każda zwrotka kończy się wezwaniem do śpiewu i gry na cześć Jezusa. Łączy radość adoracji z głęboką refleksją teologiczną nad kenozą Boga i Jego niepojętą miłością, kończąc się osobistym aktem zawierzenia się Zbawicielowi.",
+      "bible": [
+        "Łk 2, 7.13.15-16",
+        "Mt 2, 11",
+        "Flp 2, 6-7",
+        "J 10, 30",
+        "Rz 12, 1"
+      ]
+    }
+  ]
+}

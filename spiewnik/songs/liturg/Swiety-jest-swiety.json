@@ -1,0 +1,206 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:7c952520af21d51d18b6df6fabc34f5d0ae02562a9df7ca7d845755b5fb8f147",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "święty",
+        "Jahwe",
+        "Sabaoth",
+        "Pan",
+        "Bóg",
+        "majestat",
+        "chwała",
+        "Trójca Święta",
+        "adoracja",
+        "transcendencja"
+      ],
+      "summary": "Potrójna aklamacja świętości Boga Jahwe Zastępów, nawiązująca do wizji Izajasza w świątyni i liturgii niebieskiej z Apokalipsy.",
+      "bible": [
+        "Iz 6, 3",
+        "Ap 4, 8"
+      ],
+      "text": [
+        "Święty jest święty, Święty jest święty,",
+        "Święty jest święty, Święty jest święty,",
+        "Święty jest święty, Jahwe Sabaoth.",
+        ""
+      ]
+    },
+    {
+      "range": "5-7",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "niebo",
+        "ziemia",
+        "chwała",
+        "Bóg",
+        "obecność",
+        "stworzenie",
+        "wszechświat",
+        "objawienie"
+      ],
+      "summary": "Całe stworzenie, zarówno niebiosa jak i ziemia, są wypełnione chwałą Bożą.",
+      "bible": [
+        "Iz 6, 3",
+        "Ps 19, 2",
+        "Ps 24, 1",
+        "Syr 42, 16"
+      ],
+      "text": [
+        "Niebiosa i ziemia",
+        "wypełnione są Tobą.",
+        ""
+      ]
+    },
+    {
+      "range": "8-10",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "hosanna",
+        "uwielbienie",
+        "Mesjasz",
+        "Jezus Chrystus",
+        "Król",
+        "zbawienie",
+        "wysokość",
+        "liturgia niebieska"
+      ],
+      "summary": "Okrzyk mesjański 'Hosanna' na wysokościach, łączący błaganie o zbawienie z radosnym uwielbieniem Chrystusa Króla.",
+      "bible": [
+        "Ps 118, 25-26",
+        "Mt 21, 9",
+        "Mk 11, 9-10",
+        "J 12, 13"
+      ],
+      "text": [
+        "Hosanna na wysokości,",
+        "hosanna!",
+        ""
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "święty",
+        "Jahwe",
+        "Sabaoth",
+        "Pan",
+        "Bóg",
+        "majestat",
+        "chwała",
+        "Trójca Święta",
+        "adoracja"
+      ],
+      "summary": "Powtórzenie aklamacji Sanctus, podkreślające przez liturgiczne powtórzenie transcendentną świętość Boga.",
+      "bible": [
+        "Iz 6, 3",
+        "Ap 4, 8"
+      ],
+      "text": [
+        "Święty jest święty, Święty jest święty,",
+        "Święty jest święty, Święty jest święty,",
+        "Święty jest święty, Jahwe Sabaoth.",
+        ""
+      ]
+    },
+    {
+      "range": "15-17",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławiony",
+        "Ten",
+        "iść",
+        "imię",
+        "Pan",
+        "Jezus Chrystus",
+        "Mesjasz",
+        "przyjście",
+        "Paruzja",
+        "zbawienie"
+      ],
+      "summary": "Błogosławieństwo Mesjasza przychodzącego w imię Pańskie, typologicznie łączące wjazd do Jerozolimy z zapowiedzią Paruzji.",
+      "bible": [
+        "Ps 118, 26",
+        "Mt 21, 9",
+        "Mk 11, 9-10",
+        "Łk 13, 35",
+        "J 12, 13"
+      ],
+      "text": [
+        "Błogosławiony Ten, który idzie,",
+        "który idzie w imię Pana.",
+        ""
+      ]
+    },
+    {
+      "range": "18-22",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "hosanna",
+        "święty",
+        "Jahwe",
+        "Sabaoth",
+        "Pan",
+        "uwielbienie",
+        "Mesjasz",
+        "chwała",
+        "majestat",
+        "Bóg"
+      ],
+      "summary": "Kulminacyjne połączenie aklamacji Hosanna i Sanctus, zamykające liturgiczną pieśń uwielbieniem Boga Trójjedynego.",
+      "bible": [
+        "Ps 118, 25-26",
+        "Iz 6, 3",
+        "Mt 21, 9",
+        "Ap 4, 8"
+      ],
+      "text": [
+        "Hosanna na wysokości,",
+        "hosanna!",
+        "Święty jest święty, Święty jest święty,",
+        "Święty jest święty, Święty jest święty,",
+        "Święty jest święty, Jahwe Sabaoth."
+      ]
+    },
+    {
+      "range": "1-22",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "święty",
+        "Jahwe",
+        "Sabaoth",
+        "hosanna",
+        "błogosławiony",
+        "Pan",
+        "Bóg",
+        "Mesjasz",
+        "Jezus Chrystus",
+        "chwała",
+        "majestat",
+        "adoracja",
+        "liturgia niebieska",
+        "Trójca Święta",
+        "stworzenie"
+      ],
+      "summary": "Sanctus w melodii hebrajskiej – liturgiczna pieśń łącząca wizję Izajasza (Iz 6, 3) z mesjańską aklamacją Psalmu 118, wyrażająca uwielbienie Boga przez całe stworzenie i Kościół uczestniczący w liturgii niebieskiej.",
+      "bible": [
+        "Iz 6, 1-3",
+        "Ps 118, 25-26",
+        "Mt 21, 9",
+        "Ap 4, 8",
+        "Ap 7, 12"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:451da5accabb13322156c8fd29c36c4fc69c9c2221469f5c1293c9257e01be4a",
+  "songs_analysis": [
+    {
+      "range": "1-14",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "światłość",
+        "ciemność",
+        "serce",
+        "chwała",
+        "oblicze Chrystusa",
+        "skarb",
+        "naczynie gliniane",
+        "moc",
+        "miłość",
+        "ucisk",
+        "zmiażdżenie",
+        "prześladowanie",
+        "opuszczenie",
+        "pokonanie",
+        "wytrwanie",
+        "łaska",
+        "objawienie",
+        "poznanie",
+        "służba"
+      ],
+      "summary": "Ten sam Bóg, który stworzył światło, rozjaśnił w sercach poznanie swej chwały na obliczu Chrystusa — skarb w glinianych naczyniach, które trwają w ucisku.",
+      "bible": [
+        "2 Kor 4:6-9",
+        "Rdz 1:3",
+        "J 1:5",
+        "J 14:9",
+        "Iz 64:7",
+        "1 Kor 1:26-29"
+      ],
+      "text": [
+        "Ten sam Bóg, który rzekł:",
+        "„Niech światłość świeci w ciemności”,",
+        "jest Tym, który zajaśniał w naszych sercach,",
+        "aby rozjaśnić światło poznania swej chwały,",
+        "która jest na obliczu Chrystusa.",
+        "Lecz skarb ten nosimy w naczyniach glinianych.",
+        "by się okazało,",
+        "że ta przemożna moc miłości jest od Boga,",
+        "jest od Boga, a nie z nas samych.",
+        "Zewsząd ucisk znosimy,",
+        "lecz nie jesteśmy zmiażdżeni;",
+        "prześladowani, lecz nie opuszczeni;",
+        "powaleni, lecz nie pokonani.",
+        ""
+      ]
+    },
+    {
+      "range": "15-19",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "noszenie",
+        "ciało",
+        "umieranie Jezusa",
+        "śmierć",
+        "zmartwychwstanie",
+        "objawienie",
+        "Chrystus",
+        "życie",
+        "ofiara",
+        "uczestnictwo",
+        "męka",
+        "pascha",
+        "odkupienie",
+        "łaska",
+        "zjednoczenie",
+        "naśladowanie",
+        "cierpienie",
+        "chwała",
+        "tożsamość chrześcijańska",
+        "przemienienie"
+      ],
+      "summary": "Nieustanne noszenie w ciele umierania Jezusa, aby Jego zmartwychwstanie objawiło się w naszym życiu.",
+      "bible": [
+        "2 Kor 4:10-11",
+        "Ga 6:17",
+        "Rz 6:3-5",
+        "Flp 3:10",
+        "Rz 8:11"
+      ],
+      "text": [
+        "Nieustannie nosząc w naszym ciele",
+        "umieranie Jezusa;",
+        "aby także objawiło się w nas",
+        "Jego zmartwychwstanie.",
+        ""
+      ]
+    },
+    {
+      "range": "20-22",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "umieranie",
+        "świat",
+        "życie",
+        "ofiara",
+        "dar",
+        "obumieranie",
+        "owocowanie",
+        "służba",
+        "miłość",
+        "wspólnota",
+        "Ciało Chrystusa",
+        "Kościół",
+        "zbawienie",
+        "nadzieja",
+        "misja",
+        "apostolstwo",
+        "świadectwo",
+        "krzyż",
+        "zmartwychwstanie",
+        "życie wieczne"
+      ],
+      "summary": "Paradoks chrześcijaństwa — śmierć jednych staje się źródłem życia dla świata.",
+      "bible": [
+        "2 Kor 4:12",
+        "J 12:24",
+        "2 Kor 1:5-6"
+      ],
+      "text": [
+        "I tak kiedy my umieramy,",
+        "świat otrzymuje życie.",
+        ""
+      ]
+    },
+    {
+      "range": "23-26",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "noszenie",
+        "ciało",
+        "umieranie Jezusa",
+        "zmartwychwstanie",
+        "objawienie",
+        "Chrystus",
+        "życie",
+        "ofiara",
+        "uczestnictwo",
+        "pascha",
+        "odkupienie",
+        "zjednoczenie",
+        "naśladowanie",
+        "cierpienie",
+        "chwała",
+        "tożsamość",
+        "przemienienie",
+        "powtórzenie",
+        "trwanie",
+        "wytrwanie"
+      ],
+      "summary": "Powtórzenie refrenu o noszeniu umierania Jezusa i objawieniu się Jego zmartwychwstania.",
+      "bible": [
+        "2 Kor 4:10-11",
+        "Rz 6:3-5",
+        "Flp 3:10"
+      ],
+      "text": [
+        "Nieustannie nosząc w naszym ciele",
+        "umieranie Jezusa;",
+        "aby także objawiło się w nas",
+        "jego zmartwychwstanie."
+      ]
+    },
+    {
+      "range": "1-26",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "światłość",
+        "Chrystus",
+        "skarb",
+        "naczynie gliniane",
+        "umieranie",
+        "zmartwychwstanie",
+        "życie",
+        "ofiara",
+        "ucisk",
+        "moc Boża",
+        "słabość",
+        "chwała",
+        "ciemność",
+        "poznanie",
+        "oblicze",
+        "ciało",
+        "śmierć",
+        "krzyż",
+        "pascha",
+        "odkupienie",
+        "łaska",
+        "służba",
+        "apostolstwo",
+        "świadectwo",
+        "Kościół"
+      ],
+      "summary": "Pieśń oparta na 2 Kor 4,6-12 ukazuje światło Chrystusa w glinianych naczyniach — przez umieranie Jezusa noszone w ciele objawia się Jego zmartwychwstanie, a śmierć staje się życiem dla świata.",
+      "bible": [
+        "2 Kor 4:6-12",
+        "Rdz 1:3",
+        "J 1:5",
+        "J 12:24",
+        "Rz 6:3-5",
+        "Flp 3:10",
+        "Ga 6:17",
+        "Rz 8:11"
+      ]
+    }
+  ]
+}

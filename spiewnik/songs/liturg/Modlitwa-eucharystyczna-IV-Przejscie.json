@@ -1,0 +1,157 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:b7ec69755e8d42d292479b89723941db355619664be01fca56868ecb5693a16c",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Bóg Ojciec",
+        "stworzenie",
+        "mądrość",
+        "miłość",
+        "człowiek",
+        "obraz Boży",
+        "świat",
+        "nieposłuszeństwo",
+        "grzech",
+        "śmierć",
+        "przyjaźń",
+        "miłosierdzie",
+        "zbawienie",
+        "Opatrzność"
+      ],
+      "summary": "Wysławienie Boga za dzieło stworzenia człowieka na swoje podobieństwo oraz za miłosierdzie okazane po grzechu nieposłuszeństwa.",
+      "bible": [
+        "Rdz 1, 26-28",
+        "Rdz 3",
+        "Mdr 11, 23-26",
+        "Rz 5, 12",
+        "Oz 11, 8-9",
+        "Ps 145, 8-9"
+      ],
+      "text": [
+        "Wysławiamy Cię, Ojcze święty, bo jesteś wielki i wszystkie stworzenia",
+        "głoszą Twoją mądrość i miłość. Ty stworzyłeś człowieka na swoje",
+        "podobieństwo i powierzyłeś mu cały świat, aby służąc Tobie samemu",
+        "jako Stwórcy, rządził wszelkim stworzeniem. A gdy człowiek przez",
+        "nieposłuszeństwo utracił Twoją przyjaźń, nie pozostawiłeś go",
+        "pod władzą śmierci. W miłosierdziu swoim pospieszyłeś z pomocą",
+        "wszystkim ludziom, aby Ciebie szukali i znaleźli."
+      ]
+    },
+    {
+      "range": "8-14",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "przymierze",
+        "prorok",
+        "zbawienie",
+        "Syn Boży",
+        "Jednorodzony",
+        "Wcielenie",
+        "Duch Święty",
+        "Maryja Dziewica",
+        "człowieczeństwo",
+        "dobra nowina",
+        "ubogi",
+        "wyzwolenie",
+        "Jezus Chrystus"
+      ],
+      "summary": "Przymierza Boga z ludźmi, nauczanie proroków i wypełnienie obietnic przez posłanie Syna, który za sprawą Ducha Świętego stał się człowiekiem i głosił zbawienie ubogim.",
+      "bible": [
+        "Rdz 12, 1-3",
+        "Wj 24, 8",
+        "Jr 31, 31-34",
+        "Iz 61, 1-2",
+        "J 3, 16",
+        "Ga 4, 4-5",
+        "Łk 1, 26-38",
+        "Hbr 4, 15",
+        "Łk 4, 16-21",
+        "Łk 7, 22"
+      ],
+      "text": [
+        "Wielokrotnie zawierałeś przymierze z ludźmi i pouczałeś ich",
+        "przez Proroków, aby oczekiwali zbawienia. Ojcze święty,",
+        "tak umiłowałeś świat, że gdy nadeszła pełnia czasów,",
+        "zesłałeś nam swojego Jednorodzonego Syna, aby nas zbawił.",
+        "On to za sprawą Ducha Świętego stał się człowiekiem, narodził się",
+        "z Maryi Dziewicy i był do nas podobny we wszystkim oprócz grzechu.",
+        "Ubogim głosił dobrą nowinę o zbawieniu, jeńcom wyzwolenie,"
+      ]
+    },
+    {
+      "range": "15-22",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "śmierć krzyżowa",
+        "zmartwychwstanie",
+        "śmierć",
+        "życie",
+        "Chrystus",
+        "Duch Święty",
+        "uświęcenie",
+        "zbawienie",
+        "Pascha",
+        "ofiara",
+        "odkupienie",
+        "nowe życie",
+        "wierzący"
+      ],
+      "summary": "Chrystus przez śmierć krzyżową i zmartwychwstanie zwyciężył śmierć i odnowił życie, a następnie zesłał Ducha Świętego, który prowadzi Jego dzieło i dopełnia uświęcenia.",
+      "bible": [
+        "Flp 2, 8",
+        "J 19, 17-30",
+        "Mt 28, 1-10",
+        "Rz 6, 4-11",
+        "2 Kor 5, 15",
+        "Dz 2, 33",
+        "J 14, 16-17",
+        "J 16, 7-15",
+        "Rz 8, 9-11"
+      ],
+      "text": [
+        "a smutnym radość. Aby wypełnić Twoje postanowienie,",
+        "wydał się na śmierć krzyżową, a zmartwychwstając zwyciężył śmierć",
+        "zmartwychwstając zwyciężył śmierć i odnowił życie.",
+        "Abyśmy żyli już nie dla siebie, ale dla Chrystusa,",
+        "który za nas umarł i zmartwychwstał, zesłał On od Ciebie, Ojcze,",
+        "jako pierwszy dar dla wierzących, Ducha Świętego,",
+        "który dalej prowadzi Jego dzieło na świecie",
+        "i dopełnia wszelkiego uświęcenia."
+      ]
+    },
+    {
+      "range": "1-22",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "stworzenie",
+        "grzech",
+        "miłosierdzie",
+        "przymierze",
+        "Wcielenie",
+        "Jezus Chrystus",
+        "Duch Święty",
+        "zbawienie",
+        "uświęcenie",
+        "historia zbawienia",
+        "Bóg Ojciec",
+        "Pascha"
+      ],
+      "summary": "Historia zbawienia od stworzenia przez grzech pierworodny, przymierza, Wcielenie i życie Jezusa, aż po Jego śmierć krzyżową, zmartwychwstanie i zesłanie Ducha Świętego.",
+      "bible": [
+        "Rdz 1, 26-28",
+        "Rz 5, 12-21",
+        "Ga 4, 4-5",
+        "Flp 2, 8",
+        "Rz 6, 4-11",
+        "Dz 2, 33"
+      ]
+    }
+  ]
+}

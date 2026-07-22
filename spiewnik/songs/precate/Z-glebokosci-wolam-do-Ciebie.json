@@ -1,0 +1,222 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:1d9a7ea95bac4b0d84cb23b10140d9268fc831411a394b18ad8e80235fa90987",
+  "songs_analysis": [
+    {
+      "range": "1-10",
+      "type": "wstęp",
+      "sentiment": "błagalny",
+      "keywords": [
+        "głębokość",
+        "wołanie",
+        "Panie",
+        "wysłuchanie",
+        "uszy",
+        "modlitwa"
+      ],
+      "summary": "Dwukrotne błagalne wołanie z głębokości do Pana o wysłuchanie modlitwy.",
+      "bible": [
+        "Ps 130, 1-2"
+      ],
+      "text": [
+        "Z głębokości wołam do Ciebie:",
+        "Panie, wysłuchaj mego głosu!",
+        "Niech Twe uszy będą otwarte",
+        "na głos mojej modlitwy!",
+        "",
+        "Z głębokości wołam do Ciebie:",
+        "Panie, wysłuchaj mego głosu!",
+        "Niech Twe uszy będą otwarte",
+        "na głos mojej modlitwy!()",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "grzech",
+        "pamięć",
+        "ocalenie",
+        "przebaczenie",
+        "miłość",
+        "Pan"
+      ],
+      "summary": "Wyznanie, że nikt by się nie ocalił, gdyby Bóg zachowywał pamięć o grzechach – lecz On udziela przebaczenia, bo jest pełen miłości.",
+      "bible": [
+        "Ps 130, 3-4",
+        "Rz 3, 23-24"
+      ],
+      "text": [
+        "Jeśli zachowasz pamięć o grzechach, Panie,",
+        "któż się ocali, któż się ocali?",
+        "Lecz Ty udzielasz przebaczenia,",
+        "bo Ty jesteś pełen miłości.",
+        ""
+      ]
+    },
+    {
+      "range": "16-18",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "przebaczenie",
+        "miłość",
+        "Pan"
+      ],
+      "summary": "Refreniczne powtórzenie wyznania: Ty udzielasz przebaczenia, bo jesteś pełen miłości.",
+      "bible": [
+        "Ps 130, 4"
+      ],
+      "text": [
+        "Lecz Ty udzielasz przebaczenia,",
+        "bo Ty jesteś pełen miłości.",
+        ""
+      ]
+    },
+    {
+      "range": "19-21",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "ufność",
+        "Pan",
+        "dusza",
+        "słowo"
+      ],
+      "summary": "Pokładanie ufności w Panu – dusza ufa Jego słowu.",
+      "bible": [
+        "Ps 130, 5"
+      ],
+      "text": [
+        "Pokładam ufność w Panu,",
+        "a dusza moja ufa Jego słowu.",
+        ""
+      ]
+    },
+    {
+      "range": "22-28",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "dusza",
+        "oczekiwanie",
+        "Pan",
+        "straż",
+        "jutrzenka",
+        "Izrael",
+        "miłość",
+        "przebaczenie"
+      ],
+      "summary": "Oczekiwanie duszy na Pana bardziej niż straże oczekują jutrzenki – Izrael niech oczekuje Pana, u którego jest miłość i przebaczenie.",
+      "bible": [
+        "Ps 130, 6-7",
+        "Rz 13, 12"
+      ],
+      "text": [
+        "Dusza moja oczekuje Pana,",
+        "bardziej niż straże oczekują jutrzenki.",
+        "Izrael oczekuje Pana,",
+        "bardziej niż straże oczekują jutrzenki.",
+        "Albowiem w Panu jest miłość,",
+        "tylko u Niego jest przebaczenie.",
+        ""
+      ]
+    },
+    {
+      "range": "29-31",
+      "type": "refren",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "miłość",
+        "przebaczenie",
+        "Pan"
+      ],
+      "summary": "Refreniczne powtórzenie: w Panu jest miłość, tylko u Niego jest przebaczenie.",
+      "bible": [
+        "Ps 130, 7"
+      ],
+      "text": [
+        "Albowiem w Panu jest miłość,",
+        "tylko u Niego jest przebaczenie.",
+        ""
+      ]
+    },
+    {
+      "range": "32-41",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "odkupienie",
+        "Izrael",
+        "grzech",
+        "Pan",
+        "Bóg"
+      ],
+      "summary": "Antyfonalna deklaracja: Pan Bóg odkupi Izraela ze wszystkich jego grzechów – wielokrotnie powtórzona.",
+      "bible": [
+        "Ps 130, 8",
+        "Rz 11, 26-27"
+      ],
+      "text": [
+        "Pan Bóg odkupi Izraela.",
+        "",
+        "Pan Bóg odkupi Izraela",
+        "ze wszystkich Jego grzechów.",
+        "",
+        "Pan Bóg odkupi Izraela.",
+        "",
+        "Pan Bóg odkupi Izraela",
+        "ze wszystkich Jego grzechów.",
+        ""
+      ]
+    },
+    {
+      "range": "42-45",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "śpiew",
+        "alleluja"
+      ],
+      "summary": "Radosna wokaliza zamykająca psalm – aj, aj, aj, aj!",
+      "bible": [],
+      "text": [
+        "Aj, aj, aj, aj,",
+        "aj, aj, aj, aj,",
+        "aj, aj, aj, aj,",
+        "aj, aj, aj, aj!"
+      ]
+    },
+    {
+      "range": "1-45",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "głębokość",
+        "wołanie",
+        "grzech",
+        "przebaczenie",
+        "miłość",
+        "ufność",
+        "oczekiwanie",
+        "straż",
+        "jutrzenka",
+        "Izrael",
+        "odkupienie",
+        "Pan",
+        "dusza",
+        "słowo"
+      ],
+      "summary": "Adaptacja Psalmu 130 (De profundis) – jeden z psalmów pokutnych, wznoszący się z głębi grzechu i strapienia ku ufności, oczekiwaniu i pewności odkupienia Izraela przez Pana.",
+      "bible": [
+        "Ps 130",
+        "Rz 3, 23-24",
+        "Rz 11, 26-27",
+        "Rz 13, 12"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:f3da4cfd138673031f874bf7502720548f3828c33dc1ea6778c414d7b4194eac",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "godzien",
+        "księga",
+        "pieczęcie",
+        "zabity",
+        "krew",
+        "pokolenie",
+        "język",
+        "lud",
+        "naród",
+        "Baranek",
+        "Ap 5",
+        "Chrystus",
+        "odkupienie",
+        "ofiara"
+      ],
+      "summary": "Pierwsza część hymnu (A1): Baranek (Chrystus) uznany za godnego otwarcia księgi zapieczętowanej, ponieważ przez śmierć i przelanie krwi odkupił lud Boży ze wszystkich narodów (Ap 5, 9).",
+      "bible": [
+        "Ap 5, 9",
+        "Iz 53, 7",
+        "J 1, 29",
+        "Hbr 9, 12-14"
+      ],
+      "text": [
+        "Godzien jesteś wziąć księgę",
+        "i otworzyć jej pieczęcie,",
+        "albowiem Ty zostałeś zabity",
+        "i nabyłeś krwią swoją",
+        "ludzi z każdego pokolenia,       języka, ludu i narodu.",
+        ""
+      ]
+    },
+    {
+      "range": "7-13",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "uczynienie",
+        "Bóg",
+        "królestwo",
+        "kapłaństwo",
+        "królowanie",
+        "ziemia",
+        "Ap 5",
+        "Kościół",
+        "lud kapłański",
+        "godność chrzcielna"
+      ],
+      "summary": "Druga część (B1): Chrystus uczynił odkupionych królestwem i kapłanami dla Boga, co realizuje starotestamentalne proroctwo o kapłańskim królestwie (Wj 19, 6) i zapowiada udział ochrzczonych w kapłaństwie Chrystusa.",
+      "bible": [
+        "Ap 5, 10",
+        "Wj 19, 6",
+        "1 P 2, 9",
+        "Rz 5, 17"
+      ],
+      "text": [
+        "I uczyniłeś",
+        "z nich dla naszego Boga",
+        "królestwo,",
+        "królestwo kapłańskie.",
+        "I królują, i królują",
+        "na całej ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "14-19",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "godzien",
+        "Baranek zabity",
+        "księga",
+        "pieczęcie",
+        "krew",
+        "pokolenie",
+        "język",
+        "lud",
+        "naród",
+        "Ap 5",
+        "Chrystus",
+        "odkupienie",
+        "Eucharystia"
+      ],
+      "summary": "Powtórzenie A2 z wyraźnym wskazaniem 'Baranka zabitego' (Chrystusa ukrzyżowanego i zmartwychwstałego), który swą krwią odkupił ludzkość ze wszystkich ludów, typologicznie łącząc ofiarę paschalną (Wj 12) z ofiarą eucharystyczną.",
+      "bible": [
+        "Ap 5, 9",
+        "Iz 53, 7",
+        "Wj 12",
+        "1 Kor 5, 7",
+        "J 1, 29"
+      ],
+      "text": [
+        "Godzien jesteś Baranku zabity",
+        "wziąć księgę",
+        "i otworzyć jej pieczęcie,",
+        "bowiem nabyłeś krwią swoją",
+        "ludzi z każdego pokolenia,     języka, ludu i narodu.",
+        ""
+      ]
+    },
+    {
+      "range": "20-26",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "uczynienie",
+        "Bóg",
+        "królestwo",
+        "kapłaństwo",
+        "królowanie",
+        "ziemia",
+        "Ap 5",
+        "Kościół",
+        "lud kapłański"
+      ],
+      "summary": "Powtórzenie B2: odkupieni stają się królestwem kapłańskim, co wskazuje na eschatologiczny wymiar Kościoła uczestniczącego już teraz w królowaniu Chrystusa.",
+      "bible": [
+        "Ap 5, 10",
+        "Wj 19, 6",
+        "1 P 2, 9",
+        "Ap 20, 6"
+      ],
+      "text": [
+        "I uczyniłeś",
+        "z nich dla naszego Boga",
+        "królestwo,",
+        "królestwo kapłańskie,",
+        "i królują i królują",
+        "na całej ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "27-32",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "godzien",
+        "Baranek zabity",
+        "potęga",
+        "bogactwo",
+        "chwała",
+        "mądrość",
+        "moc",
+        "cześć",
+        "błogosławieństwo",
+        "krew",
+        "Ap 5",
+        "Chrystus",
+        "doksologia",
+        "uwielbienie"
+      ],
+      "summary": "Trzecia część A3, najpełniejsza: Baranek zabity uznany za godnego wszelkiej potęgi, bogactwa, chwały, mądrości, mocy, czci i błogosławieństwa — pełna doksologia oddająca cześć Chrystusowi jako Panu wszechświata.",
+      "bible": [
+        "Ap 5, 12",
+        "Flp 2, 9-11",
+        "Kol 1, 15-20",
+        "Ap 4, 11"
+      ],
+      "text": [
+        "Godzien jesteś Baranku zabity",
+        "aby wziąć potęgę, bogactwo i chwałę,",
+        "mądrość i moc, cześć i błogosławieństwo,",
+        "bowiem nabyłeś krwią swoją",
+        "ludzi z każdego pokolenia,       języka, ludu i narodu.",
+        ""
+      ]
+    },
+    {
+      "range": "33-38",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "uczynienie",
+        "Bóg",
+        "królestwo",
+        "kapłaństwo",
+        "królowanie",
+        "ziemia",
+        "Ap 5",
+        "Kościół",
+        "eschatologia",
+        "nowe Jeruzalem"
+      ],
+      "summary": "Końcowe powtórzenie B3, zamykające hymn potrójnym potwierdzeniem: odkupieni królują na całej ziemi jako kapłański lud Boży, zapowiadając eschatologiczną pełnię Królestwa Bożego.",
+      "bible": [
+        "Ap 5, 10",
+        "Wj 19, 6",
+        "1 P 2, 9",
+        "Ap 20, 6",
+        "Ap 22, 5"
+      ],
+      "text": [
+        "I uczyniłeś",
+        "z nich dla naszego Boga",
+        "królestwo,",
+        "królestwo kapłańskie,",
+        "i królują i królują",
+        "na całej ziemi."
+      ]
+    },
+    {
+      "range": "1-38",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Ap 5",
+        "Baranek",
+        "Chrystus",
+        "odkupienie",
+        "krew",
+        "księga",
+        "pieczęcie",
+        "królestwo kapłańskie",
+        "królowanie",
+        "doksologia",
+        "potęga",
+        "bogactwo",
+        "chwała",
+        "mądrość",
+        "moc",
+        "cześć",
+        "błogosławieństwo",
+        "Kościół",
+        "eschatologia",
+        "Okres Wielkanocny",
+        "Łamanie Chleba",
+        "Eucharystia",
+        "Wj 19, 6",
+        "1 P 2, 9"
+      ],
+      "summary": "Hymn uwielbienia Baranka Bożego oparty na Ap 5, 9-12, głoszący godność Chrystusa zabitego i zmartwychwstałego do otwarcia księgi dziejów oraz ustanowienie odkupionych królestwem kapłańskim dla Boga. Stosowny na Okres Wielkanocny, Łamanie Chleba i Liturgię Godzin, łączący teologię ofiary, odkupienia, królowania Chrystusa i kapłańskiej godności ochrzczonych, wypełniający typologię Wj 19, 6 i zapowiadający eschatologiczną pełnię Ap 22.",
+      "bible": [
+        "Ap 5, 9-12",
+        "Wj 19, 6",
+        "Iz 53, 7",
+        "J 1, 29",
+        "Flp 2, 9-11",
+        "1 P 2, 9",
+        "Hbr 9, 12-14",
+        "Ap 20, 6",
+        "Ap 22, 5"
+      ]
+    }
+  ]
+}

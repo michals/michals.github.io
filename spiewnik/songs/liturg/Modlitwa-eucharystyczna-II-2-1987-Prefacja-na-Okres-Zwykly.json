@@ -1,0 +1,243 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:8cc565cbcce575c5eca4882ff4d2480af2030a39aaa96f0524ddd149e24cd0b6",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Pan",
+        "duch",
+        "serce",
+        "wznosić",
+        "dziękczynienie",
+        "Bóg",
+        "sprawiedliwość",
+        "uwielbienie"
+      ],
+      "summary": "Liturgiczny dialog prefacji: wezwanie do wzniesienia serc i składania dziękczynienia Bogu, który jest godny uwielbienia.",
+      "bible": [
+        "Kol 3, 1-2",
+        "Ps 86 (85), 12"
+      ],
+      "text": [
+        "Pan z wami.",
+        "I z duchem twoim.",
+        "W górę serca.",
+        "Wznosimy je do Pana.",
+        "Dzięki składajmy Panu Bogu naszemu.",
+        "Godne to i sprawiedliwe."
+      ]
+    },
+    {
+      "range": "7-10",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Ojciec",
+        "święty",
+        "dziękczynienie",
+        "Syn",
+        "Jezus Chrystus",
+        "Bóg",
+        "wieczność",
+        "umiłowany"
+      ],
+      "summary": "Rozpoczęcie właściwej prefacji: dziękczynienie składane Ojcu Świętemu przez umiłowanego Syna Jezusa Chrystusa.",
+      "bible": [
+        "Ef 1, 3-6",
+        "Kol 1, 12-14",
+        "Mt 3, 17"
+      ],
+      "text": [
+        "Zaprawdę godne to i sprawiedliwe, słuszne i zbawienne,",
+        "abyśmy Tobie, Ojcze Święty,",
+        "zawsze i wszędzie składali dziękczynienie",
+        "przez umiłowanego Syna Twojego, Jezusa Chrystusa."
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Słowo",
+        "stworzenie",
+        "Zbawiciel",
+        "Odkupiciel",
+        "Jezus Chrystus",
+        "człowiek",
+        "Duch Święty",
+        "Dziewica",
+        "Narodzenie",
+        "Wcielenie",
+        "Bóg",
+        "Ojciec"
+      ],
+      "summary": "Chrystus jest Słowem Ojca, przez które wszystko zostało stworzone; zesłany jako Zbawiciel, stał się człowiekiem za sprawą Ducha Świętego i narodził się z Dziewicy.",
+      "bible": [
+        "J 1, 1-3.14",
+        "Kol 1, 15-17",
+        "Hbr 1, 1-2",
+        "Łk 1, 35",
+        "Mt 1, 18-25",
+        "Flp 2, 6-7"
+      ],
+      "text": [
+        "On jest Słowem Twoim, przez które wszystko stworzyłeś,",
+        "Jego nam zesłałeś, jako Zbawiciela i Odkupiciela,",
+        "który stał się człowiekiem za sprawą Ducha Świętego",
+        "i narodził się z Dziewicy."
+      ]
+    },
+    {
+      "range": "15-18",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "wola",
+        "lud święty",
+        "ręka",
+        "krzyż",
+        "śmierć",
+        "pokonać",
+        "zmartwychwstanie",
+        "moc",
+        "Chrystus",
+        "Odkupienie",
+        "Ofiara"
+      ],
+      "summary": "Chrystus, spełniając wolę Ojca, nabył lud święty; wyciągając ręce na krzyżu pokonał śmierć i objawił moc zmartwychwstania.",
+      "bible": [
+        "Iz 53, 10-12",
+        "J 10, 17-18",
+        "Rz 6, 9-11",
+        "1 Kor 15, 54-57",
+        "Hbr 10, 9-10"
+      ],
+      "text": [
+        "On spełniając Twoją wolę, nabył dla Ciebie lud święty,",
+        "gdy wyciągnął swoje ręce na krzyżu, aby śmierć pokonać",
+        "i objawić moc Zmartwychwstania.",
+        ""
+      ]
+    },
+    {
+      "range": "19",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "20",
+      "text": [
+        "Rytmicznie"
+      ]
+    },
+    {
+      "range": "20-21",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "moc",
+        "Chrystus",
+        "objawić"
+      ],
+      "summary": "Powtórzenie ostatniego wersetu w wykonaniu rytmicznym: objawienie mocy zmartwychwstania.",
+      "bible": [
+        "Rz 6, 9-11",
+        "1 Kor 15, 54-57"
+      ],
+      "text": [
+        "i objawić moc Zmartwychwstania.",
+        ""
+      ]
+    },
+    {
+      "range": "22",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "23-25",
+      "text": [
+        "Recytatyw"
+      ]
+    },
+    {
+      "range": "23-25",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Anioł",
+        "święty",
+        "chwała",
+        "uwielbienie",
+        "Bóg",
+        "liturgia niebiańska"
+      ],
+      "summary": "Zjednoczenie z aniołami i wszystkimi świętymi w głoszeniu chwały Bożej, zapowiedź hymnu Sanctus.",
+      "bible": [
+        "Iz 6, 3",
+        "Ap 4, 8",
+        "Ap 5, 13"
+      ],
+      "text": [
+        "Dlatego z Aniołami i wszystkimi Świętymi",
+        "głosimy Twoją chwałę, razem z nimi wołając:",
+        ""
+      ]
+    },
+    {
+      "range": "26",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "Rubryka wskazująca na następujący po prefacji hymn «Święty».",
+      "text": [
+        "Następuje „Święty”"
+      ]
+    },
+    {
+      "range": "1-26",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dziękczynienie",
+        "Jezus Chrystus",
+        "Słowo",
+        "stworzenie",
+        "Wcielenie",
+        "Dziewica Maryja",
+        "Duch Święty",
+        "Odkupienie",
+        "krzyż",
+        "śmierć",
+        "zmartwychwstanie",
+        "Anioł",
+        "święty",
+        "chwała",
+        "prefacja",
+        "Eucharystia",
+        "Ofiara",
+        "Ojciec",
+        "Bóg",
+        "liturgia"
+      ],
+      "summary": "Prefacja na Okres Zwykły Modlitwy Eucharystycznej II (1987): dziękczynienie przez Chrystusa – Słowo Wcielone, Zbawiciela i Odkupiciela, który przez krzyż pokonał śmierć i objawił zmartwychwstanie; Kościół łączy się z aniołami w uwielbieniu.",
+      "bible": [
+        "J 1, 1-3.14",
+        "Kol 1, 15-17",
+        "Łk 1, 35",
+        "Flp 2, 6-7",
+        "Iz 53, 10-12",
+        "Rz 6, 9-11",
+        "1 Kor 15, 54-57",
+        "Iz 6, 3",
+        "Ap 4, 8"
+      ]
+    }
+  ]
+}

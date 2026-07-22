@@ -1,0 +1,193 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:623477fca19f5b69b8e58aabc86d788b9285360d894f714c9a74347cb26993c1",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wołanie",
+        "pomoc",
+        "krzyk",
+        "lament",
+        "udręka",
+        "Pan",
+        "modlitwa"
+      ],
+      "summary": "Refren błagalny: głośne wołanie o pomoc do Pana, wylewanie lamentu i udręki przed obliczem Boga.",
+      "bible": [
+        "Ps 142:1-3"
+      ],
+      "text": [
+        "Do Ciebie, Panie, głośno wołam o pomoc,",
+        "Ciebie, Panie, moim krzykiem błagam,",
+        "przed Tobą, Panie, wylewam mój lament,",
+        "przed Ciebie moją udrękę zanoszę.",
+        ""
+      ]
+    },
+    {
+      "range": "6-14",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "duch",
+        "gaśnięcie",
+        "ścieżka",
+        "sidła",
+        "opuszczenie",
+        "pociecha",
+        "samotność",
+        "Pan",
+        "prześladowanie"
+      ],
+      "summary": "Opis skrajnego ucisku: duch gaśnie, zastawione sidła, brak pociechy i nikogo, kto by dbał o życie psalmisty.",
+      "bible": [
+        "Ps 142:4-5"
+      ],
+      "text": [
+        "Czuję, że duch we mnie gaśnie,",
+        "ale Ty znasz moją ścieżkę.",
+        "Spójrz, Panie, że na drodze,",
+        "spójrz, zastawili na mnie sidła;",
+        "Zobacz, że po mej prawicy nie ma nikogo,",
+        "nikogo, kto by mnie rozpoznał;",
+        "opuszcza mnie wszelka pociecha,",
+        "bo nie ma nikogo, kto by dbał o moje życie.",
+        ""
+      ]
+    },
+    {
+      "range": "15-19",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wołanie",
+        "schronienie",
+        "udział",
+        "szczęście",
+        "Pan",
+        "ufność",
+        "Bóg"
+      ],
+      "summary": "Refren wyznania ufności: Pan jedynym schronieniem, udziałem i szczęściem psalmisty na ziemi.",
+      "bible": [
+        "Ps 142:6"
+      ],
+      "text": [
+        "Do Ciebie wołam, o Panie.",
+        "Tobie mówię: tylko Tyś mym schronieniem.",
+        "Tyś moim udziałem na tej ziemi,",
+        "jedynym moim szczęściem.",
+        ""
+      ]
+    },
+    {
+      "range": "20-28",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "płacz",
+        "udręka",
+        "uwolnienie",
+        "wróg",
+        "więzienie",
+        "dziękczynienie",
+        "imię Pańskie",
+        "sprawiedliwy",
+        "miłość Boża"
+      ],
+      "summary": "Błaganie o uwolnienie z więzienia i od wrogów, z obietnicą dziękczynienia i zapowiedzią radości sprawiedliwych z miłości Bożej.",
+      "bible": [
+        "Ps 142:7-8"
+      ],
+      "text": [
+        "Słuchaj, Panie, ja płaczę,",
+        "bo jestem w wielkiej udręce.",
+        "Uwolnij mnie Ty od wrogów,",
+        "co są mocniejsi ode mnie;",
+        "wyrwij moją duszę z tego więzienia,",
+        "a złożę dzięki Twemu imieniu;",
+        "wtedy otoczą mnie sprawiedliwi,",
+        "radować się będą Twą miłością do mnie.",
+        ""
+      ]
+    },
+    {
+      "range": "29-33",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wołanie",
+        "pomoc",
+        "krzyk",
+        "lament",
+        "udręka",
+        "Pan",
+        "modlitwa"
+      ],
+      "summary": "Powtórzenie refrenu błagalnego o pomoc, wypełnienie klamry kompozycyjnej psalmu.",
+      "bible": [
+        "Ps 142:1-3"
+      ],
+      "text": [
+        "Do Ciebie, Panie, głośno wołam o pomoc,",
+        "Ciebie, Panie, moim krzykiem błagam,",
+        "przed Tobą, Panie, wylewam mój lament,",
+        "przed Ciebie moją udrękę zanoszę.",
+        ""
+      ]
+    },
+    {
+      "range": "34-37",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wołanie",
+        "schronienie",
+        "udział",
+        "szczęście",
+        "Pan",
+        "ufność",
+        "Bóg"
+      ],
+      "summary": "Końcowe powtórzenie refrenu ufności, wytrwanie w wyznaniu, że Pan jest jedynym schronieniem i szczęściem.",
+      "bible": [
+        "Ps 142:6"
+      ],
+      "text": [
+        "Do Ciebie wołam, o Panie.",
+        "Tobie mówię: tylko Tyś mym schronieniem.",
+        "Tyś moim udziałem na tej ziemi,",
+        "jedynym moim szczęściem."
+      ]
+    },
+    {
+      "range": "1-37",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Psalm 142",
+        "błaganie",
+        "wołanie",
+        "pomoc",
+        "ucisk",
+        "prześladowanie",
+        "schronienie",
+        "ufność",
+        "modlitwa",
+        "uwolnienie",
+        "dziękczynienie",
+        "miłosierdzie",
+        "Pan"
+      ],
+      "summary": "Psalm 142 w formie responsoryjnej. Błagalne wołanie człowieka w skrajnym ucisku, który wśród samotności i prześladowania ufa Panu jako jedynemu schronieniu i szczęściu. Zapowiedź Chrystusa modlącego się w Ogrójcu.",
+      "bible": [
+        "Ps 142",
+        "Mt 26:38-39",
+        "Hbr 5:7"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:d19fce2e17fe29451e2c87436fa57e18367289aefc812e7e9d73bff24c6b1be7",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Izrael",
+        "zgromadzenie",
+        "lud",
+        "walka",
+        "dobrowolny",
+        "błogosławić",
+        "Jahwe",
+        "Pan",
+        "śpiewać"
+      ],
+      "summary": "Lud Izraela dobrowolnie gromadzi się do walki, błogosławiąc Jahwe i śpiewając Mu pieśń pochwalną.",
+      "bible": [
+        "Sdz 5:2"
+      ],
+      "text": [
+        "Kiedy Izrael zwołuje zgromadzenie,",
+        "a lud dobrowolnie zgłasza się do walki:",
+        "Błogosławcie Jahwe,",
+        "błogosławcie Jahwe,",
+        "błogosławcie Jahwe,",
+        "memu Panu śpiewać chcę."
+      ]
+    },
+    {
+      "range": "7-12",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Débora",
+        "przebudzić",
+        "śpiew",
+        "pieśń",
+        "Barak",
+        "powstać"
+      ],
+      "summary": "Prorokini Débora i wódz Barak są wzywani, by powstać i głosić pieśń na cześć Boga.",
+      "bible": [
+        "Sdz 5:12"
+      ],
+      "text": [
+        "Przebudź się, Déboro,",
+        "przebudź się, Déboro,",
+        "zaśpiewaj pieśń!",
+        "Przebudź się, Déboro,",
+        "przebudź się, Déboro,",
+        "powstań, Baraku!"
+      ]
+    },
+    {
+      "range": "14-20",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Szamgar",
+        "Anat",
+        "Jael",
+        "Izrael",
+        "obcy",
+        "bóg",
+        "wojna",
+        "brama",
+        "wybawiciel",
+        "włócznia",
+        "tysiąc"
+      ],
+      "summary": "W czasach ucisku, gdy Izrael porzucił Boga dla obcych bogów, zabrakło mu obrońcy i oręża.",
+      "bible": [
+        "Sdz 5:6-8"
+      ],
+      "text": [
+        "Za dni Szamgara, syna Anata, za dni Jaeli,",
+        "znikły gromady podróżnych,",
+        "nie można już było chodzić po drogach,",
+        "bowiem Izrael poszukał sobie obcych bogów.",
+        "Gdy wojna była już u bram,",
+        "nie znalazł się wybawiciel w Izraelu,",
+        "ani jedna włócznia wśród dziesięciu tysięcy."
+      ]
+    },
+    {
+      "range": "21-24",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławić",
+        "Jahwe",
+        "Pan",
+        "śpiewać"
+      ],
+      "summary": "Wezwanie do błogosławienia Jahwe po opisie niedoli Izraela – kontrast między ludzką słabością a Bożą mocą.",
+      "bible": [
+        "Sdz 5:2-3"
+      ],
+      "text": [
+        "Błogosławcie Jahwe,",
+        "błogosławcie Jahwe,",
+        "błogosławcie Jahwe,",
+        "memu Panu śpiewać chcę."
+      ]
+    },
+    {
+      "range": "26-31",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Débora",
+        "przebudzić",
+        "śpiew",
+        "pieśń",
+        "Barak",
+        "powstać"
+      ],
+      "summary": "Ponowione wezwanie do Debory i Baraka, by powstali i śpiewali na chwałę Boga.",
+      "bible": [
+        "Sdz 5:12"
+      ],
+      "text": [
+        "Przebudź się, Déboro,",
+        "przebudź się, Déboro,",
+        "zaśpiewaj pieśń!",
+        "Przebudź się, Déboro,",
+        "przebudź się, Déboro,",
+        "powstań, Baraku!"
+      ]
+    },
+    {
+      "range": "33-40",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Seir",
+        "Jahwe",
+        "Bóg",
+        "Edom",
+        "ziemia",
+        "niebo",
+        "chmura",
+        "góra",
+        "Izrael",
+        "gwiazda",
+        "wysokość",
+        "niebiosa",
+        "Kiszon",
+        "potok",
+        "święty",
+        "Sisera"
+      ],
+      "summary": "Teofania Boga wychodzącego z Seiru – drży ziemia, walczą gwiazdy, a potok Kiszon porywa wrogów Izraela.",
+      "bible": [
+        "Sdz 5:4-5",
+        "Sdz 5:20-21",
+        "Pwt 33:2"
+      ],
+      "text": [
+        "Kiedyś wychodził z Seiru, Jahwe, mój Boże,",
+        "gdy kroczyłeś przez pola Edomu,",
+        "ziemia zadrżała, niebo się poruszyło,",
+        "oberwały się chmury, góry skakały przed Tobą,",
+        "przed Tobą, Boże Izraela.",
+        "Gwiazdy walczyły na wysokościach niebios.",
+        "Na wysokościach niebios walczyły przeciw Siserze.",
+        "Potok Kiszon, święty potok Kiszon ich porwał."
+      ]
+    },
+    {
+      "range": "41-44",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławić",
+        "Jahwe",
+        "Pan",
+        "śpiewać"
+      ],
+      "summary": "Wezwanie do błogosławienia Jahwe po opisie teofanii i zwycięstwa nad Siserą.",
+      "bible": [
+        "Sdz 5:2-3"
+      ],
+      "text": [
+        "Błogosławcie Jahwe,",
+        "błogosławcie Jahwe,",
+        "błogosławcie Jahwe,",
+        "memu Panu śpiewać chcę."
+      ]
+    },
+    {
+      "range": "45-50",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Débora",
+        "przebudzić",
+        "śpiew",
+        "pieśń",
+        "Barak",
+        "powstać"
+      ],
+      "summary": "Końcowe wezwanie do Debory i Baraka – pieśń zwycięstwa zamyka cykl refrenowy.",
+      "bible": [
+        "Sdz 5:12"
+      ],
+      "text": [
+        "Przebudź się, Déboro,",
+        "przebudź się, Déboro,",
+        "zaśpiewaj pieśń!",
+        "Przebudź się, Déboro,",
+        "przebudź się, Déboro,",
+        "powstań, Baraku!"
+      ]
+    },
+    {
+      "range": "1-50",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Izrael",
+        "Débora",
+        "Barak",
+        "Jahwe",
+        "Bóg",
+        "Jael",
+        "Sisera",
+        "walka",
+        "zwycięstwo",
+        "błogosławić",
+        "śpiewać",
+        "pieśń",
+        "przebudzić",
+        "powstać",
+        "Seir",
+        "gwiazda",
+        "Kiszon",
+        "potok",
+        "Pan",
+        "wybawiciel",
+        "zgromadzenie",
+        "lud"
+      ],
+      "summary": "Pieśń Debory opiewa Boże zwycięstwo nad Siserą – przez słabych i pokornych Bóg okazuje swą moc, wyzwalając Izrael z ucisku. Débora jest typem Maryi (por. Magnificat), a Jael typem Kościoła miażdżącego głowę węża.",
+      "bible": [
+        "Sdz 5",
+        "Rdz 3:15",
+        "Łk 1:46-55"
+      ]
+    }
+  ]
+}

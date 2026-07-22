@@ -1,0 +1,156 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:c1efb756f90a0c388353d5d04597ee4e2b1910a2f57efd1634930f617c321129",
+  "songs_analysis": [
+    {
+      "range": "1-2",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Bóg",
+        "alleluja"
+      ],
+      "summary": "Aklamacja chwały Bogu – refren uwielbienia Alleluja.",
+      "bible": [
+        "Ef 2,4-10"
+      ],
+      "text": [
+        "Chwała Bogu, alleluja, alleluja.",
+        "Chwała Bogu, alleluja, alleluja."
+      ]
+    },
+    {
+      "range": "3-10",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dobroć",
+        "łaska",
+        "miłość",
+        "umarły",
+        "występek",
+        "Chrystus",
+        "przywrócić",
+        "życie",
+        "łaska",
+        "zbawienie",
+        "zmartwychwstać",
+        "posadzić",
+        "niebiosa"
+      ],
+      "summary": "Bóg pełen miłości ożywia nas z Chrystusem, choć byliśmy umarli w grzechach; zbawieni przez łaskę, z Nim wskrzeszeni i posadzeni w niebie (Ef 2,4-6).",
+      "bible": [
+        "Ef 2,4-6"
+      ],
+      "text": [
+        "Bóg pełen dobroci i łaski,",
+        "przez wielką swą miłość ku nam,",
+        "nas umarłych na skutek występków",
+        "z Chrystusem przywrócił do życia.",
+        "Przez łaskę zbawieni,",
+        "z Nim zmartwychwskrzeszeni.",
+        "Posadził nas razem",
+        "na niebiosach z Nim."
+      ]
+    },
+    {
+      "range": "11-12",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Bóg",
+        "alleluja"
+      ],
+      "summary": "Aklamacja chwały Bogu Alleluja.",
+      "bible": [
+        "Ef 2,4-10"
+      ],
+      "text": [
+        "Chwała Bogu, alleluja, alleluja.",
+        "Chwała Bogu, alleluja, alleluja."
+      ]
+    },
+    {
+      "range": "13-20",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "zbawienie",
+        "wiara",
+        "Bóg",
+        "uczynek",
+        "chlubić się",
+        "dzieło",
+        "Jezus",
+        "stworzyć",
+        "przewidzieć"
+      ],
+      "summary": "Zbawieni przez wiarę, nie z uczynków, by nikt się nie chlubił; jesteśmy dziełem Boga stworzeni w Chrystusie dla dobrych uczynków (Ef 2,8-10).",
+      "bible": [
+        "Ef 2,8-10"
+      ],
+      "text": [
+        "Zbawieni jesteśmy przez wiarę,",
+        "nie pochodzi to z nas, ale z Boga.",
+        "Nie płynie to z naszych uczynków,",
+        "aby nikt nie mógł się chlubić sobą.",
+        "Jego dziełem jesteśmy",
+        "stworzeni w Jezusie",
+        "dla dobrych uczynków",
+        "przewidzianych przez Boga."
+      ]
+    },
+    {
+      "range": "21-22",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "Bóg",
+        "alleluja"
+      ],
+      "summary": "Aklamacja chwały Bogu Alleluja.",
+      "bible": [
+        "Ef 2,4-10"
+      ],
+      "text": [
+        "Chwała Bogu, alleluja, alleluja.",
+        "Chwała Bogu, alleluja, alleluja."
+      ]
+    },
+    {
+      "range": "1-22",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "chwała",
+        "Bóg",
+        "alleluja",
+        "łaska",
+        "dobroć",
+        "miłość",
+        "Chrystus",
+        "wiara",
+        "zbawienie",
+        "zmartwychwstanie",
+        "uczynek",
+        "dzieło Boże",
+        "Jezus",
+        "niebiosa",
+        "życie",
+        "grzech",
+        "występek",
+        "stworzenie",
+        "przeznaczenie",
+        "nawrócenie"
+      ],
+      "summary": "Pieśń oparta na Ef 2,4-10 o zbawieniu przez łaskę w Chrystusie. Teologia Pawłowa: usprawiedliwienie przez wiarę, nie z uczynków, ale stworzeni na nowo w Chrystusie dla dobrych uczynków. Typologia: śmierć w grzechach jako nowy Egipt – nowe stworzenie w Chrystusie jako nowy Exodus. Posadzenie na niebiosach prefiguruje chrzcielne wyniesienie wiernych (Kol 3,1-4).",
+      "bible": [
+        "Ef 2,4-10",
+        "Kol 3,1-4"
+      ]
+    }
+  ]
+}

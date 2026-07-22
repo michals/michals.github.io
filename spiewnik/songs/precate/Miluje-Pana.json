@@ -1,0 +1,161 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:4b25fe1468d3fd6d93818d9921d3c2b687357b924691d77700526b43b998083d",
+  "songs_analysis": [
+    {
+      "range": "1-12",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "miłować",
+        "Pan",
+        "modlitwa",
+        "słuchać",
+        "wezwanie",
+        "więzy śmierci",
+        "okowy piekła",
+        "smutek",
+        "udręka",
+        "ratunek",
+        "Bóg",
+        "wybawienie",
+        "wdzięczność"
+      ],
+      "summary": "Wyznanie miłości do Pana, który wysłuchał modlitwy i wybawił z więzów śmierci i udręki – dziękczynienie za wysłuchanie wołania w chwili zagrożenia.",
+      "bible": [
+        "Ps 116, 1-4",
+        "Ps 18, 5-7",
+        "Ps 6, 4-5"
+      ],
+      "text": [
+        "Miłuję Pana, albowiem słucha",
+        "krzyku mojej modlitwy.",
+        "Nakłonił ku mnie swe ucho",
+        "w dniu, w którym Go wzywałem.",
+        "Ściskały mnie więzy śmierci,",
+        "znajdowałem się w okowach piekła,",
+        "męczyły mnie smutek i udręka,",
+        "wezwałem imienia Pańskiego:",
+        "„Błagam Cię, Panie, ratuj mnie”.",
+        "Powróć, duszo moja, do swego spokoju,",
+        "albowiem Pan wyświadczył ci dobro;",
+        ""
+      ]
+    },
+    {
+      "range": "13-15",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "wybawienie",
+        "śmierć",
+        "upadek",
+        "nogi",
+        "Pan",
+        "Bóg",
+        "ocalenie",
+        "wdzięczność"
+      ],
+      "summary": "Dziękczynienie za wybawienie od śmierci i uchronienie od upadku – uznanie Bożej opieki i ocalenia.",
+      "bible": [
+        "Ps 116, 8-9",
+        "Ps 56, 14",
+        "Ps 121, 3"
+      ],
+      "text": [
+        "On cię wybawił od śmierci,",
+        "uchronił twoje nogi od upadku.",
+        ""
+      ]
+    },
+    {
+      "range": "16-24",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "wiara",
+        "nieszczęście",
+        "gorycz",
+        "fałsz",
+        "człowiek",
+        "Pan",
+        "kielich zbawienia",
+        "wezwanie",
+        "imię Pańskie",
+        "Eucharystia",
+        "dziękczynienie"
+      ],
+      "summary": "Wyznanie wiary pośród cierpienia i goryczy, a następnie dziękczynienie za dobroć Pana – podniesienie kielicha zbawienia jako zapowiedź Eucharystii.",
+      "bible": [
+        "Ps 116, 10-13",
+        "Ps 116, 1-2",
+        "1 Kor 10, 16",
+        "Mt 26, 27-28"
+      ],
+      "text": [
+        "Ja wierzyłem, nawet gdy mówiłem:",
+        "„Jestem nazbyt nieszczęśliwy”;",
+        "powiedziałem z goryczą:",
+        "„Człowiek jest fałszywy”.",
+        "Cóż oddam Panu za wszystko,",
+        "co mi wyświadczył?",
+        "Podniosę kielich zbawienia",
+        "i będę wzywał imienia Pańskiego.",
+        "Powróć, duszo moja, do swego spokoju,"
+      ]
+    },
+    {
+      "range": "25-28",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "wybawienie",
+        "śmierć",
+        "upadek",
+        "nogi",
+        "Pan",
+        "Bóg",
+        "ocalenie",
+        "wdzięczność"
+      ],
+      "summary": "Dziękczynienie za wybawienie od śmierci i uchronienie od upadku – powtórzenie motywu Bożego ocalenia.",
+      "bible": [
+        "Ps 116, 8-9",
+        "Ps 56, 14",
+        "Ps 121, 3"
+      ],
+      "text": [
+        "albowiem Pan wyświadczył ci dobro;",
+        "",
+        "On cię wybawił od śmierci,",
+        "uchronił twoje nogi od upadku."
+      ]
+    },
+    {
+      "range": "1-28",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "miłość",
+        "Pan",
+        "modlitwa",
+        "wybawienie",
+        "śmierć",
+        "kielich zbawienia",
+        "Eucharystia",
+        "dziękczynienie",
+        "wiara",
+        "psalm",
+        "wdzięczność",
+        "ocalenie"
+      ],
+      "summary": "Parafraza Psalmu 116 – dziękczynienie za wysłuchanie modlitwy i wybawienie z więzów śmierci. Pieśń przechodzi od opisu udręki i wołania do Pana, przez wyznanie wiary pośród cierpienia, aż po dziękczynienie wyrażone przez podniesienie kielicha zbawienia (typ eucharystyczny). Kontekst wielkopostny podkreśla motyw wybawienia i ufności w Boże miłosierdzie.",
+      "bible": [
+        "Ps 116, 1-19",
+        "Ps 18, 5-7",
+        "1 Kor 10, 16",
+        "Mt 26, 27-28"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:9017107796e9d1efac2349e0bb39455864bb7c121d25aca1e747829c85c26c25",
+  "songs_analysis": [
+    {
+      "range": "1",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Alleluja",
+        "uwielbienie",
+        "radość",
+        "Pan",
+        "chwała",
+        "Bóg"
+      ],
+      "summary": "Aklamacja Alleluja wyrażająca radość i uwielbienie Boga.",
+      "bible": [
+        "Ap 19, 1-6",
+        "Ps 150"
+      ],
+      "text": [
+        "Alleluja, alleluja, alleluja, alleluja."
+      ]
+    },
+    {
+      "range": "2-4",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "przykazanie",
+        "miłość",
+        "miłość wzajemna",
+        "Jezus Chrystus",
+        "Pan",
+        "nowe przykazanie",
+        "naśladowanie"
+      ],
+      "summary": "Werset biblijny o nowym przykazaniu miłości wzajemnej na wzór miłości Chrystusa.",
+      "bible": [
+        "J 13, 34-35",
+        "J 15, 12-13"
+      ],
+      "text": [
+        "Daję wam przykazanie nowe, mówi Pan:",
+        "abyście się wzajemnie miłowali, jak ja was umiłowałem.",
+        ""
+      ]
+    },
+    {
+      "range": "5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Alleluja",
+        "uwielbienie",
+        "radość",
+        "Pan",
+        "chwała",
+        "Bóg"
+      ],
+      "summary": "Powtórzenie aklamacji Alleluja.",
+      "bible": [
+        "Ap 19, 1-6",
+        "Ps 150"
+      ],
+      "text": [
+        "Alleluja, alleluja, alleluja, alleluja."
+      ]
+    },
+    {
+      "range": "1-5",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Alleluja",
+        "uwielbienie",
+        "radość",
+        "chwała",
+        "miłość",
+        "przykazanie",
+        "miłość wzajemna",
+        "Jezus Chrystus",
+        "Pan",
+        "Ewangelia",
+        "Kościół"
+      ],
+      "summary": "Aklamacja Alleluja przed Ewangelią z wersetem o nowym przykazaniu miłości (J 13, 34-35).",
+      "bible": [
+        "J 13, 34-35",
+        "J 15, 12-13",
+        "Ap 19, 1-6",
+        "Ps 150"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:d586137979e3d919b11daf308274e35c3539ab8c7f4fe7b7be6ac4b66fbfcd7e",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "miłość",
+        "duch",
+        "nastawienie",
+        "pokora",
+        "rywalizacja",
+        "próżna chwała",
+        "jedność",
+        "Chrystus",
+        "Kościół"
+      ],
+      "summary": "Wezwanie do jedności w miłości i pokorze, z odwołaniem do postawy Chrystusa jako wzoru życia wspólnotowego.",
+      "bible": [
+        "Flp 2, 1-4",
+        "Rz 12, 10"
+      ],
+      "text": [
+        "Z tą samą miłością,",
+        "w tym samym duchu,",
+        "z tym samym nastawieniem.",
+        "Niczego z rywalizacji",
+        "ani dla próżnej chwały,",
+        "ale wszystko z pokorą.",
+        "Dostrzegając pragnienia innych,",
+        "poważając ich więcej niż samego siebie,",
+        "z tym samym nastawieniem, co Jezus."
+      ]
+    },
+    {
+      "range": "10-17",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Bóg",
+        "ogołocenie",
+        "kenoza",
+        "sługa",
+        "posłuszeństwo",
+        "śmierć",
+        "krzyż",
+        "człowiek",
+        "Jezus Chrystus",
+        "wcielenie",
+        "ofiara"
+      ],
+      "summary": "Opis kenozis Chrystusa, który ogołocił samego siebie, przyjął postać sługi i był posłuszny aż do śmierci krzyżowej.",
+      "bible": [
+        "Flp 2, 6-8",
+        "Iz 53, 12",
+        "2 Kor 8, 9",
+        "Hbr 5, 8"
+      ],
+      "text": [
+        "On, mimo iż był Bogiem,",
+        "nie miał względu na swoją godność,",
+        "a nawet ogołocił samego siebie,                stając się człowiekiem,",
+        "a stawszy się człowiekiem,",
+        "przyjął postać sługi,",
+        "będąc posłuszny aż do śmierci.",
+        "I jakiej śmierci, śmierci złoczyńcy,",
+        "śmierci grzesznika, śmierci krzyżowej!"
+      ]
+    },
+    {
+      "range": "18-21",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "wywyższenie",
+        "Bóg",
+        "zmartwychwstanie",
+        "imię",
+        "Jezus Chrystus",
+        "Pan",
+        "chwała",
+        "egzaltacja"
+      ],
+      "summary": "Bóg wywyższył Chrystusa, wskrzesił Go z martwych i dał Mu imię ponad wszelkie imię, dopełniając Jego kenozis.",
+      "bible": [
+        "Flp 2, 9-11",
+        "Dz 2, 33",
+        "Iz 45, 23"
+      ],
+      "text": [
+        "Dlatego Bóg Go wywyższył,",
+        "wskrzesił Go z martwych",
+        "i dał Mu imię ponad wszelkie imiona.",
+        ""
+      ]
+    },
+    {
+      "range": "22-31",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Pan",
+        "alleluja",
+        "chwała",
+        "wyznanie wiary",
+        "zmartwychwstanie",
+        "uwielbienie"
+      ],
+      "summary": "Radosna aklamacja 'Jezus Chrystus jest Panem!' z okrzykami alleluja, będąca wyznaniem wiary w Jego boskie panowanie.",
+      "bible": [
+        "Flp 2, 11",
+        "Rz 10, 9",
+        "1 Kor 12, 3",
+        "Ap 19, 1"
+      ],
+      "text": [
+        "Jezus Chrystus jest Panem!",
+        "Alleluja!",
+        "Jezus Chrystus jest Panem!",
+        "Alleluja!",
+        "Jezus Chrystus jest Panem!",
+        "Alleluja! Alleluja!",
+        "Alleluja, alleluja, alleluja.",
+        "Alleluja, alleluja, alleluja.",
+        "Alleluja, alleluja, alleluja!",
+        "Alleluja!"
+      ]
+    },
+    {
+      "range": "32-41",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Pan",
+        "alleluja",
+        "osobiste wyznanie",
+        "wiara",
+        "chwała",
+        "uwielbienie"
+      ],
+      "summary": "Aklamacja przechodząca w osobiste wyznanie 'Jeus Chrystus jest mym/twym Panem', podkreślająca relacyjny charakter panowania Chrystusa.",
+      "bible": [
+        "Flp 2, 11",
+        "Rz 10, 9"
+      ],
+      "text": [
+        "Jezus Chrystus jest mym Panem!",
+        "Alleluja!",
+        "Jezus Chrystus jest twym Panem!",
+        "Alleluja!",
+        "Jezus Chrystus jest Panem!",
+        "Alleluja! Alleluja!",
+        "Alleluja, alleluja, alleluja.",
+        "Alleluja, alleluja, alleluja.",
+        "Alleluja, alleluja, alleluja!",
+        "Alleluja!"
+      ]
+    },
+    {
+      "range": "1-41",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "kenoza",
+        "Chrystus",
+        "Pan",
+        "wywyższenie",
+        "zmartwychwstanie",
+        "pokora",
+        "posłuszeństwo",
+        "krzyż",
+        "wcielenie",
+        "alleluja",
+        "wiara"
+      ],
+      "summary": "Hymn o kenozie Chrystusa i Jego wywyższeniu, oparty na Flp 2, 1-11, ukazujący drogę od ogołocenia do chwały zmartwychwstania.",
+      "bible": [
+        "Flp 2, 1-11"
+      ]
+    }
+  ]
+}

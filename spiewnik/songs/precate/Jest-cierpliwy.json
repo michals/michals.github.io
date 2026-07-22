@@ -1,0 +1,230 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:5511ee7bd9103fe63772846e556c96a5c1199ee9fe0be448e986badd5baf918d",
+  "songs_analysis": [
+    {
+      "range": "1-12",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch Święty",
+        "jarzmo",
+        "słodki",
+        "lekki",
+        "zrozumienie",
+        "miłosierdzie",
+        "łagodność",
+        "współczucie",
+        "miłość",
+        "cierpliwość",
+        "Najwyższe Dobro",
+        "dar",
+        "Bóg",
+        "życie wieczne",
+        "Paraklet",
+        "pocieszyciel",
+        "łaska"
+      ],
+      "summary": "Hymn o Duchu Świętym jako słodkim jarzmie i Paraklecie, pełnym miłosierdzia, łagodności i miłości, będącym darem Boga i gwarancją życia wiecznego.",
+      "bible": [
+        "Mt 11, 28-30",
+        "J 14, 16-17",
+        "J 14, 26",
+        "J 15, 26",
+        "Rz 8, 26-27",
+        "Ga 5, 22-23",
+        "2 Kor 1, 22"
+      ],
+      "text": [
+        "Duch Święty jest jarzmem słodkim,",
+        "jest jarzmem słodkim i lekkim.",
+        "Pełen zrozumienia,",
+        "pełen miłosierdzia wobec naszych grzechów,",
+        "pełen łagodności i współczucia,",
+        "miłości bez granic.",
+        "Jest cierpliwy, jest łagodny,",
+        "jest Najwyższym Dobrem,",
+        "jest darem Boga,",
+        "jest gwarancją Życia Wiecznego,",
+        "On, „Paraklet”.",
+        "Mieszkając w człowieku,"
+      ]
+    },
+    {
+      "range": "13-22",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch Święty",
+        "mieszkać",
+        "człowiek",
+        "przebaczenie",
+        "nadzieja",
+        "zrozumienie",
+        "usprawiedliwienie",
+        "obrona",
+        "cierpliwość",
+        "grzech",
+        "tożsamość",
+        "droga",
+        "cierpienie",
+        "Paraklet"
+      ],
+      "summary": "Duch Święty mieszkający w człowieku zawsze przebacza, ma nadzieję, broni, uczy cierpliwości i objawia człowiekowi jego tożsamość oraz sens drogi życia i cierpienia.",
+      "bible": [
+        "1 Kor 3, 16",
+        "Rz 8, 14-16",
+        "Rz 8, 26-27",
+        "J 16, 7-8",
+        "J 16, 13",
+        "Ga 4, 6"
+      ],
+      "text": [
+        "zawsze nam przebacza,",
+        "mieszkając w człowieku,",
+        "zawsze ma nadzieję.",
+        "Rozumie wszystko, usprawiedliwia wszystko.",
+        "Zawsze nas broni",
+        "i uczy nas cierpliwości wobec naszych grzechów.",
+        "Mówi nam, kim jesteśmy,",
+        "mówi nam, dokąd zmierzamy,",
+        "jaka jest droga i dlaczego cierpimy.",
+        ""
+      ]
+    },
+    {
+      "range": "23-27",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch Święty",
+        "cierpliwość",
+        "łagodność",
+        "Najwyższe Dobro",
+        "dar",
+        "Bóg",
+        "życie wieczne",
+        "Paraklet",
+        "gwarancja",
+        "łaska"
+      ],
+      "summary": "Refreniczna aklamacja Ducha Świętego jako cierpliwego, łagodnego, Najwyższego Dobra, daru Boga i gwarancji życia wiecznego.",
+      "bible": [
+        "Ga 5, 22-23",
+        "2 Kor 1, 22",
+        "Ef 1, 13-14"
+      ],
+      "text": [
+        "Jest cierpliwy, jest łagodny,",
+        "jest Najwyższym Dobrem,",
+        "jest darem Boga,",
+        "jest gwarancją Życia Wiecznego.",
+        "On, „Paraklet”!"
+      ]
+    },
+    {
+      "range": "28-37",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch Święty",
+        "świętość",
+        "życie",
+        "historia",
+        "oddanie",
+        "Chrystus",
+        "Krzyż",
+        "chwała",
+        "prawda",
+        "chrześcijanin",
+        "upodobnienie",
+        "duchowość"
+      ],
+      "summary": "Duch Święty objawia świętość całego życia i prowadzi do całkowitego oddania się Chrystusowi, którego naśladowanie aż po krzyż jest chwałą i tożsamością chrześcijanina.",
+      "bible": [
+        "Rz 8, 28-30",
+        "Flp 3, 10-11",
+        "Flp 2, 5-8",
+        "1 P 2, 21",
+        "1 Kor 6, 19-20"
+      ],
+      "text": [
+        "Mówi nam, że w naszym życiu wszystko jest święte,",
+        "że nasza historia jest święta,",
+        "i prowadzi nas ku całkowitemu oddaniu się Chrystusowi.",
+        "W Nim nie ma się żadnych pretensji,",
+        "akceptuje się wszystko, znosi się wszystko.",
+        "Ponieważ upodobnić się do Pana na Krzyżu",
+        "jest naszą chwałą,",
+        "jest prawdą,",
+        "świętością,",
+        "()jest tym, co znaczy być chrześcijaninem."
+      ]
+    },
+    {
+      "range": "38-42",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch Święty",
+        "cierpliwość",
+        "łagodność",
+        "Najwyższe Dobro",
+        "dar",
+        "Bóg",
+        "życie wieczne",
+        "Paraklet",
+        "gwarancja",
+        "łaska"
+      ],
+      "summary": "Końcowe powtórzenie refrenu, podsumowujące chwałę i działanie Ducha Świętego.",
+      "bible": [
+        "Ga 5, 22-23",
+        "2 Kor 1, 22",
+        "Ef 1, 13-14"
+      ],
+      "text": [
+        "Jest cierpliwy, jest łagodny,",
+        "jest Najwyższym Dobrem,",
+        "jest darem Boga,",
+        "jest gwarancją Życia Wiecznego.",
+        "On, „Paraklet”!"
+      ]
+    },
+    {
+      "range": "1-42",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch Święty",
+        "Paraklet",
+        "dar",
+        "życie wieczne",
+        "łagodność",
+        "cierpliwość",
+        "miłosierdzie",
+        "Najwyższe Dobro",
+        "pocieszyciel",
+        "świętość",
+        "Krzyż",
+        "chrześcijanin",
+        "Zesłanie Ducha Świętego",
+        "Trójca Święta",
+        "łaska",
+        "przebaczenie"
+      ],
+      "summary": "Pieśń o Duchu Świętym jako Paraklecie, Jego przymiotach, działaniu w człowieku oraz prowadzeniu do świętości i upodobnienia do Chrystusa ukrzyżowanego. Ton radosny i uwielbieniowy, odpowiedni na Zesłanie Ducha Świętego i Okres Wielkanocny.",
+      "bible": [
+        "Ga 5, 22-23",
+        "J 14, 16-17",
+        "J 14, 26",
+        "Rz 8, 14-16",
+        "Rz 8, 26-27",
+        "Ef 1, 13-14",
+        "2 Kor 1, 22",
+        "Mt 11, 28-30",
+        "1 Kor 3, 16"
+      ]
+    }
+  ]
+}

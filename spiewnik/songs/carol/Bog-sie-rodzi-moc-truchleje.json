@@ -1,0 +1,214 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:042c436e1a1eb3d258f3e099791b46c67988b6ac94f7a9ce70ec287e6fa8cc5b",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "narodzenie",
+        "moc",
+        "truchlenie",
+        "Pan niebios",
+        "ogołocenie",
+        "Słowo",
+        "Wcielenie",
+        "Jezus Chrystus",
+        "Nieskończony",
+        "Król",
+        "paradoks"
+      ],
+      "summary": "Paradoks Wcielenia: Bóg się rodzi, a moce truchleją; Ogniem krzepnie, Nieskończony przyjmuje granice, Król nad wiekami staje się śmiertelnym.",
+      "bible": [
+        "J 1, 14a",
+        "Flp 2, 6-7",
+        "1 Tm 6, 16",
+        "Kol 1, 17"
+      ],
+      "text": [
+        "Bóg się rodzi, moc truchleje,",
+        "Pan niebiosów obnażony?",
+        "Ogień krzepnie, blask ciemnieje,",
+        "Ma granice Nieskończony:",
+        "Wzgardzony okryty chwałą,",
+        "Śmiertelny Król nad wiekami?",
+        "A Słowo ciałem się stało,",
+        "I mieszkało między nami.",
+        ""
+      ]
+    },
+    {
+      "range": "10-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "niebo",
+        "ziemia",
+        "Bóg",
+        "lud ukochany",
+        "trud",
+        "cierpienie",
+        "wina",
+        "Słowo",
+        "Wcielenie",
+        "Jezus Chrystus",
+        "solidarność"
+      ],
+      "summary": "Bóg opuszcza niebo, by dzielić z człowiekiem trudy i znoje, przyjmując na siebie cierpienie za ludzkie winy.",
+      "bible": [
+        "J 1, 14a",
+        "Flp 2, 7",
+        "Hbr 4, 15",
+        "Iz 53, 4"
+      ],
+      "text": [
+        "Cóż masz, niebo nad ziemiany?",
+        "Bóg porzucił szczęście twoje.",
+        "Wszedł między lud ukochany",
+        "Dzieląc z nim trudy i znoje.",
+        "Niemało cierpiał, niemało,",
+        "Żeśmy byli winni sami",
+        "A Słowo ciałem się stało",
+        "I mieszkało między nami.",
+        ""
+      ]
+    },
+    {
+      "range": "19-27",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "szopa",
+        "żłób",
+        "kolebka",
+        "bydło",
+        "pasterze",
+        "ubodzy",
+        "Wcielenie",
+        "Słowo",
+        "Jezus Chrystus",
+        "pokora"
+      ],
+      "summary": "Scena narodzin w nędznej szopie: żłób służy za kolebkę, a otoczenie stanowią bydło i pasterze — Bóg wybiera ubogich jako pierwszych świadków.",
+      "bible": [
+        "J 1, 14a",
+        "Łk 2, 7.16",
+        "Mt 5, 3",
+        "1 Kor 1, 27-28",
+        "Iz 1, 3"
+      ],
+      "text": [
+        "W nędznej szopie urodzony,",
+        "Żłób Mu za kolebkę dano!",
+        "Cóż jest, czym był otoczony?",
+        "Bydło, pasterze i siano.",
+        "Ubodzy, was to spotkało",
+        "Witać Go przed bogaczami",
+        "A Słowo ciałem się stało",
+        "I mieszkało między nami.",
+        ""
+      ]
+    },
+    {
+      "range": "28-36",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "królowie",
+        "dary",
+        "mirra",
+        "kadzidło",
+        "złoto",
+        "Bóstwo",
+        "ofiary",
+        "Wcielenie",
+        "Jezus Chrystus",
+        "pokłon",
+        "prostota"
+      ],
+      "summary": "Królowie ze Wschodu przynoszą dary: mirrę, kadzidło i złoto, a boskie królestwo miesza się z prostotą wieśniaczych ofiar.",
+      "bible": [
+        "J 1, 14a",
+        "Mt 2, 11",
+        "Iz 60, 6",
+        "Ps 72, 10-11"
+      ],
+      "text": [
+        "Potem i króle widziani",
+        "Cisną się między prostotą",
+        "Niosąc dary Panu w dani:",
+        "Mirrę, kadzidło i złoto.",
+        "Bóstwo to razem zmieszało",
+        "Z wieśniaczymi ofiarami",
+        "A Słowo ciałem się stało",
+        "I mieszkało między nami.",
+        ""
+      ]
+    },
+    {
+      "range": "37-44",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Błogosławieństwo",
+        "Boże Dziecię",
+        "Ojczyzna",
+        "siła",
+        "Wsparcie",
+        "raj",
+        "miasto",
+        "Słowo",
+        "Wcielenie",
+        "Jezus Chrystus"
+      ],
+      "summary": "Modlitwa o błogosławieństwo dla ojczyzny: Boże Dziecię ma wspierać kraj w dobrych radach i bycie, obejmując swą opieką całą ziemię.",
+      "bible": [
+        "J 1, 14a",
+        "Ps 33, 12",
+        "Prz 11, 14",
+        "Jr 29, 7"
+      ],
+      "text": [
+        "Podnieś rękę, Boże Dziecię,",
+        "Błogosław ojczyznę miłą;",
+        "W dobrych radach, dobrym bycie,",
+        "Wspieraj jej siłę swą siłą.",
+        "Dom nasz i majętność całą",
+        "I wszystkie wioski z miastami",
+        "A Słowo ciałem się stało",
+        "I mieszkało między nami."
+      ]
+    },
+    {
+      "range": "1-44",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Wcielenie",
+        "Boże Narodzenie",
+        "Jezus Chrystus",
+        "Słowo",
+        "paradoks",
+        "kenoza",
+        "żłób",
+        "pasterze",
+        "królowie",
+        "błogosławieństwo",
+        "J 1, 14",
+        "chwała",
+        "uniżenie"
+      ],
+      "summary": "Głęboko teologiczna kolęda oparta na Prologu Ewangelii św. Jana (J 1, 14), rozwija paradoks Wcielenia: Bóg nieskończony staje się ograniczonym, śmiertelnym człowiekiem. Każda zwrotka ukazuje inny aspekt tej tajemnicy — od kontrastu boskiej chwały i ludzkiego poniżenia, przez adorację pasterzy i królów, po modlitwę za ojczyznę. Refren 'A Słowo ciałem się stało' jest teologicznym centrum utworu.",
+      "bible": [
+        "J 1, 14a",
+        "Flp 2, 6-7",
+        "Łk 2, 7.16",
+        "Mt 2, 11",
+        "Iz 1, 3",
+        "Kol 1, 17"
+      ]
+    }
+  ]
+}

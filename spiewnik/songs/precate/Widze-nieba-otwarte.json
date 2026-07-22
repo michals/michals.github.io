@@ -1,0 +1,257 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:5fbb0ea356687c3db0f70f8e305314498b8162595b39ea8e500b3e2029adfa8e",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "niebo",
+        "otwarcie",
+        "biały",
+        "rumak",
+        "szata",
+        "krew",
+        "oko",
+        "płomień",
+        "ogień",
+        "miecz",
+        "ranienie",
+        "Słowo Boga"
+      ],
+      "summary": "Wizja nieba otwartego i Chrystusa jako Tryumfatora na białym rumaku, odzianego w szatę we krwi, z oczami jak płomień ognia i mieczem wychodzącym z ust.",
+      "bible": [
+        "Ap 19:11-13",
+        "Ap 1:14-16",
+        "Iz 63:1-3",
+        "Hbr 4:12"
+      ],
+      "text": [
+        "Widzę nieba otwarte:",
+        "a oto biały rumak,",
+        "i Ten, co go dosiada, odziany w szatę,",
+        "całą we krwi, całą we krwi.",
+        "Jego oczy -",
+        "płomienie ognia,",
+        "z Jego ust wychodzi miecz,",
+        "by nim ranić, by nim ranić.",
+        ""
+      ]
+    },
+    {
+      "range": "10-15",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "imię",
+        "Słowo Boga",
+        "objawienie",
+        "tajemnica",
+        "tożsamość",
+        "Chrystus",
+        "Bóg"
+      ],
+      "summary": "Pytanie retoryczne o imię Zwycięzcy i odpowiedź: Jego imię jest Słowo Boga, co odsłania tożsamość Chrystusa jako odwiecznego Logosu.",
+      "bible": [
+        "Ap 19:13",
+        "J 1:1-3.14",
+        "1 J 1:1",
+        "Ap 19:11-13"
+      ],
+      "text": [
+        "Jakie Jego imię?",
+        "Jakie Jego imię?",
+        "Jego imię jest,",
+        "Jego imię jest:",
+        "Słowo Boga.",
+        ""
+      ]
+    },
+    {
+      "range": "16-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "bestia",
+        "prorok",
+        "fałszywy",
+        "bój",
+        "walka",
+        "rumak",
+        "szata",
+        "krew",
+        "Armagedon"
+      ],
+      "summary": "Wizja bestii i fałszywego proroka gromadzących siły do eschatologicznej bitwy przeciwko Chrystusowi na białym rumaku.",
+      "bible": [
+        "Ap 19:19-20",
+        "Ap 16:14-16",
+        "Ap 13:1-18",
+        "Ap 20:10"
+      ],
+      "text": [
+        "Widzę bestię",
+        "i proroka,",
+        "zebranych po to,",
+        "by stoczyć bój,",
+        "by stoczyć bój,",
+        "przeciwko Temu, który siedzi na rumaku,",
+        "odziany w szatę",
+        "we krwi skąpaną, we krwi skąpaną.",
+        ""
+      ]
+    },
+    {
+      "range": "25-27",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "wytłaczanie",
+        "tłocznia",
+        "gniew",
+        "Boży",
+        "sąd",
+        "zagłada"
+      ],
+      "summary": "Obraz Chrystusa wytłaczającego w tłoczni zapalczywego gniewu Bożego jako symbol eschatologicznego sądu nad grzechem i złem.",
+      "bible": [
+        "Ap 19:15",
+        "Iz 63:2-6",
+        "Jl 4:13",
+        "Ap 14:19-20"
+      ],
+      "text": [
+        "On wygniata, sam wygniata w tłoczni",
+        "zapalczywego gniewu Bożego.",
+        ""
+      ]
+    },
+    {
+      "range": "28-32",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "bestia",
+        "pochwycenie",
+        "fałszywy",
+        "prorok",
+        "rumak",
+        "szata",
+        "krew",
+        "zwycięstwo",
+        "sąd"
+      ],
+      "summary": "Bestia i fałszywy prorok zostają pojmani przez Chrystusa zasiadającego na białym rumaku, co oznacza ostateczne zwycięstwo Boga nad siłami zła.",
+      "bible": [
+        "Ap 19:20-21",
+        "Ap 20:10",
+        "Dn 7:11"
+      ],
+      "text": [
+        "Oto bestia jest pochwycona,",
+        "a z nią razem jej fałszywy prorok",
+        "przez Tamtego, który siedzi na rumaku",
+        "odziany w szatę we krwi skąpaną.",
+        ""
+      ]
+    },
+    {
+      "range": "33-36",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Alleluja",
+        "uwielbienie",
+        "chwała",
+        "zwycięstwo",
+        "Bóg"
+      ],
+      "summary": "Liturgiczny okrzyk Alleluja jako radosna akceptacja i uwielbienie Bożego zwycięstwa nad złem.",
+      "bible": [
+        "Ap 19:1.3.4.6",
+        "Ps 150"
+      ],
+      "text": [
+        "Alleluja, alleluja,",
+        "alleluja, alleluja,",
+        "alleluja, alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "37-42",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "imię",
+        "Słowo Boga",
+        "objawienie",
+        "tajemnica",
+        "Chrystus",
+        "Bóg",
+        "Logos"
+      ],
+      "summary": "Powtórzenie refrenu o imieniu Zwycięzcy: Słowo Boga, potwierdzające boską tożsamość Chrystusa jako odwieczne Słowo.",
+      "bible": [
+        "Ap 19:13",
+        "J 1:1-3.14",
+        "Ap 19:11-13"
+      ],
+      "text": [
+        "Jakie Jego imię?",
+        "Jakie Jego imię?",
+        "Jego imię jest,",
+        "Jego imię jest:",
+        "Słowo Boga.",
+        ""
+      ]
+    },
+    {
+      "range": "43-44",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Słowo Boga",
+        "triada",
+        "uwielbienie",
+        "Logos",
+        "Chrystus"
+      ],
+      "summary": "Potrójne powtórzenie tytułu Słowo Boga jako uroczyste zakończenie i wyznanie wiary w bóstwo Chrystusa.",
+      "bible": [
+        "Ap 19:13",
+        "J 1:1"
+      ],
+      "text": [
+        "Słowo Boga,",
+        "Słowo Boga."
+      ]
+    },
+    {
+      "range": "1-44",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Apokalipsa",
+        "Chrystus",
+        "Słowo Boga",
+        "biały rumak",
+        "bestia",
+        "fałszywy prorok",
+        "sąd",
+        "zwycięstwo",
+        "Alleluja",
+        "eschatologia"
+      ],
+      "summary": "Pieśń oparta na Ap 19,11-20 przedstawia wizję powtórnego przyjścia Chrystusa jako Sędziego i Króla na białym rumaku. Jego imię — Słowo Boga — objawia Jego boską tożsamość (Logos). Bestia i fałszywy prorok zostają pokonani w eschatologicznej bitwie, a Alleluja wieńczy tryumf Boga nad złem.",
+      "bible": [
+        "Ap 19:11-21",
+        "Iz 63:1-6",
+        "Dn 7",
+        "J 1:1-3",
+        "Ap 20:10"
+      ]
+    }
+  ]
+}

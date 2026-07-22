@@ -1,0 +1,180 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:62e13c55e799f7f57b657344e39220b31b8ee25831b9f005235ebd65d4b2acb8",
+  "songs_analysis": [
+    {
+      "range": "1-10",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "niebo",
+        "Pan",
+        "śmierć",
+        "przebywanie",
+        "Bóg",
+        "Jezus",
+        "Chrystus",
+        "tęsknota",
+        "wieczność"
+      ],
+      "summary": "Refren wyrażający pragnienie śmierci jako zjednoczenia z Chrystusem – 'umrzeć jest dla mnie o wiele lepiej, przebywać z Tobą'.",
+      "bible": [
+        "Flp 1,21-23"
+      ],
+      "text": [
+        "Weź mnie do nieba,",
+        "weź mnie do nieba,",
+        "o mój Panie!",
+        "Albowiem umrzeć,",
+        "albowiem umrzeć",
+        "jest dla mnie o wiele lepiej!",
+        "Jest dla mnie o wiele lepiej",
+        "przebywać z Tobą,",
+        "przebywać z Tobą!",
+        ""
+      ]
+    },
+    {
+      "range": "11-16",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "prośba",
+        "miłość",
+        "Bóg",
+        "wątpliwość",
+        "przebywanie",
+        "Jezus",
+        "Chrystus",
+        "zaufanie"
+      ],
+      "summary": "Błagalna prośba o wytrwanie w wierze i niedopuszczenie do zwątpienia w Bożą miłość.",
+      "bible": [
+        "Flp 1,21-23",
+        "1 J 4,16"
+      ],
+      "text": [
+        "O to jedno Cię proszę,",
+        "o to tylko Cię błagam:",
+        "nie daj mi wątpić w Twoją miłość,",
+        "nigdy nie wątpić w Twoją miłość,",
+        "przebywać z Tobą,",
+        "przebywać z Tobą!"
+      ]
+    },
+    {
+      "range": "17-25",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "niebo",
+        "Pan",
+        "śmierć",
+        "przebywanie",
+        "Bóg",
+        "Jezus",
+        "Chrystus",
+        "tęsknota"
+      ],
+      "summary": "Powtórzenie refrenu o pragnieniu zjednoczenia z Panem.",
+      "bible": [
+        "Flp 1,21-23"
+      ],
+      "text": [
+        "Weź mnie do nieba,",
+        "weź mnie do nieba,",
+        "o mój Panie!",
+        "Albowiem umrzeć,",
+        "albowiem umrzeć",
+        "jest dla mnie o wiele lepiej!",
+        "Jest dla mnie o wiele lepiej",
+        "przebywać z Tobą,",
+        "przebywać z Tobą!"
+      ]
+    },
+    {
+      "range": "26-32",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "dobroć",
+        "słodycz",
+        "miłość",
+        "Bóg",
+        "wdzięczność",
+        "Jezus",
+        "Chrystus"
+      ],
+      "summary": "Dziękczynne wspomnienie dobroci i słodyczy Bożej miłości.",
+      "bible": [
+        "1 J 4,16"
+      ],
+      "text": [
+        "",
+        "O jakże dobra,",
+        "o jakże słodka",
+        "była dla mnie miłość Twa,",
+        "była dla mnie miłość Twa!",
+        "O jakże dobra,",
+        "o jakże słodka."
+      ]
+    },
+    {
+      "range": "33-41",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "niebo",
+        "Pan",
+        "śmierć",
+        "przebywanie",
+        "Bóg",
+        "Jezus",
+        "Chrystus",
+        "wieczność",
+        "tęsknota"
+      ],
+      "summary": "Końcowe powtórzenie refrenu jako trwające pragnienie nieba i zjednoczenia z Panem.",
+      "bible": [
+        "Flp 1,21-23"
+      ],
+      "text": [
+        "Weź mnie do nieba,",
+        "weź mnie do nieba,",
+        "o mój Panie!",
+        "Albowiem umrzeć,",
+        "albowiem umrzeć",
+        "jest dla mnie o wiele lepiej!",
+        "Jest dla mnie o wiele lepiej",
+        "przebywać z Tobą,",
+        "przebywać z Tobą!"
+      ]
+    },
+    {
+      "range": "1-41",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "niebo",
+        "Pan",
+        "Jezus",
+        "Chrystus",
+        "śmierć",
+        "życie",
+        "miłość",
+        "przebywanie",
+        "Bóg",
+        "tęsknota",
+        "adwent",
+        "pascha",
+        "Duch Święty"
+      ],
+      "summary": "Pieśń oparta na Flp 1,21-23 wyrażająca tęsknotę za niebem i pragnienie śmierci jako zjednoczenia z Chrystusem, z elementami adwentowego oczekiwania i paschalnej nadziei na życie wieczne.",
+      "bible": [
+        "Flp 1,21-23",
+        "1 J 4,16",
+        "Ap 22,20"
+      ]
+    }
+  ]
+}

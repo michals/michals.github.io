@@ -1,0 +1,102 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:77cf318f26042f64611e9512ef7ceccdb5cbe4e6709f9cfeffa0b4e1c4cdab5b",
+  "songs_analysis": [
+    {
+      "range": "1-2",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "cześć",
+        "Jezus",
+        "Pan",
+        "uwielbienie",
+        "adoracja",
+        "Jezus Chrystus"
+      ],
+      "summary": "Aklamacja uwielbienia oddająca chwałę i cześć Panu Jezusowi.",
+      "bible": [
+        "Ap 4, 11",
+        "Ap 5, 12-13"
+      ],
+      "text": [
+        "Chwała i cześć, chwała i cześć,",
+        "chwała Tobie Panie Jezu, Panie Jezu."
+      ]
+    },
+    {
+      "range": "3-5",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "życie",
+        "wiara",
+        "śmierć",
+        "wieczność",
+        "Jezus Chrystus",
+        "zbawienie",
+        "obietnica"
+      ],
+      "summary": "Werset biblijny, w którym Chrystus objawia się jako Zmartwychwstanie i Życie, obiecując życie wieczne wierzącym.",
+      "bible": [
+        "J 11, 25-26"
+      ],
+      "text": [
+        "Ja jestem zmartwychwstanie i życie, kto we Mnie wierzy,",
+        "nie umrze na wieki, kto we Mnie wierzy, nie umrze na wieki.",
+        ""
+      ]
+    },
+    {
+      "range": "6-7",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "cześć",
+        "Jezus",
+        "Pan",
+        "uwielbienie",
+        "adoracja",
+        "Jezus Chrystus"
+      ],
+      "summary": "Powtórzenie aklamacji uwielbienia Pana Jezusa.",
+      "bible": [
+        "Ap 4, 11",
+        "Ap 5, 12-13"
+      ],
+      "text": [
+        "Chwała i cześć, chwała i cześć,",
+        "chwała Tobie Panie Jezu, Panie Jezu."
+      ]
+    },
+    {
+      "range": "1-7",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "cześć",
+        "Jezus",
+        "Pan",
+        "zmartwychwstanie",
+        "życie",
+        "wiara",
+        "śmierć",
+        "wieczność",
+        "zbawienie",
+        "Jezus Chrystus",
+        "Ewangelia",
+        "Wielki Post"
+      ],
+      "summary": "Aklamacja przed Ewangelią w Wielkim Poście łącząca uwielbienie Chrystusa z Jego objawieniem jako Zmartwychwstania i Życia (J 11, 25-26).",
+      "bible": [
+        "J 11, 25-26",
+        "Ap 4, 11",
+        "Ap 5, 12-13"
+      ]
+    }
+  ]
+}

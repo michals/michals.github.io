@@ -1,0 +1,244 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:1cc1963df35be5d7f4e64ecc17e06944fc71fb1a3ad3afa37b2e8d50bb133c74",
+  "songs_analysis": [
+    {
+      "range": "1",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "1",
+      "bible": [],
+      "text": [
+        "Pośrodku wielkiego tłumu"
+      ]
+    },
+    {
+      "range": "1-4",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "tłum",
+        "ludzie",
+        "kobieta",
+        "dotknąć",
+        "Chrystus",
+        "tłum",
+        "zetknięcie"
+      ],
+      "summary": "Wprowadzenie sceny: pośród wielkiego tłumu kobieta dotknęła Jezusa — anonimowość w tłumie kontrastuje z osobistym charakterem spotkania.",
+      "bible": [
+        "Łk 8, 42-43",
+        "Mk 5, 24-27"
+      ],
+      "text": [
+        "Pośrodku wielkiego tłumu",
+        "pomiędzy wszystkimi ludźmi,",
+        "kobieta, kobieta dotknęła Go.",
+        ""
+      ]
+    },
+    {
+      "range": "5-8",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "dotknąć",
+        "Chrystus",
+        "rzec",
+        "zatrzymać",
+        "pytać",
+        "poszukiwanie",
+        "obecność"
+      ],
+      "summary": "Jezus zatrzymuje się i pyta: 'Kto Mnie dotknął?' — w tłoku wielu dotyka, ale tylko jeden dotyka z wiarą; Mistrz wyczuwa moc wychodzącą z Niego.",
+      "bible": [
+        "Łk 8, 45-46",
+        "Mk 5, 30-31"
+      ],
+      "text": [
+        "„Kto Mnie dotknął,",
+        "kto Mnie dotknął?”",
+        "rzekł Chrystus, rzekł Chrystusi zatrzymał się.",
+        ""
+      ]
+    },
+    {
+      "range": "9-19",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "kobieta",
+        "drżeć",
+        "nieczysty",
+        "cierpieć",
+        "upływ krwi",
+        "szata",
+        "dotknąć",
+        "zatrzymać",
+        "uzdrowienie",
+        "słabość",
+        "wstyd"
+      ],
+      "summary": "Wyznanie kobiety: drżąca przyznaje się do nieczystości i cierpienia z powodu upływu krwi — ale dotknięcie szaty Jezusa zatrzymuje chorobę. Wyznanie łączy wstyd z wiarą.",
+      "bible": [
+        "Łk 8, 47",
+        "Mk 5, 33",
+        "Kpł 15, 25-27",
+        "Mt 14, 36"
+      ],
+      "text": [
+        "Kobieta cała drżąca,",
+        "kobieta cała drżąca,",
+        "rzekła Chrystusowi: „To byłam ja,",
+        "bo jestem kobietą nieczystą",
+        "i cierpię na upływ krwi,",
+        "bo jestem kobietą nieczystą",
+        "i cierpię na upływ krwi.",
+        "Lecz gdy dotknęłam Twej szaty,",
+        "lecz gdy dotknęłam Twej szaty,",
+        "upływ krwi zatrzymał się”.",
+        ""
+      ]
+    },
+    {
+      "range": "20-22",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "córka",
+        "wiara",
+        "zbawić",
+        "uzdrowienie",
+        "ocalenie",
+        "miłosierdzie"
+      ],
+      "summary": "Słowa Jezusa: 'Córko, twoja wiara cię zbawiła!' — nie dotknięcie szaty, ale wiara stojąca za nim jest źródłem zbawienia.",
+      "bible": [
+        "Łk 8, 48",
+        "Mk 5, 34",
+        "Mt 9, 22",
+        "Mt 15, 28"
+      ],
+      "text": [
+        "„Córko, twoja wiara,",
+        "twoja wiara cię zbawiła!”",
+        ""
+      ]
+    },
+    {
+      "range": "23-26",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "tłum",
+        "ludzie",
+        "kobieta",
+        "dotknąć",
+        "Chrystus",
+        "wiara",
+        "spotkanie"
+      ],
+      "summary": "Powtórzenie sceny początkowej: pośród tłumu kobieta dotknęła Jezusa — refren przypomina o osobistym spotkaniu z Chrystusem w tłumie codzienności.",
+      "bible": [
+        "Łk 8, 42-43"
+      ],
+      "text": [
+        "Pośrodku wielkiego tłumu",
+        "między tymi wszystkimi ludźmi,",
+        "kobieta, kobieta dotknęła Go.",
+        ""
+      ]
+    },
+    {
+      "range": "27-33",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "chcieć",
+        "dotknąć",
+        "Chrystus",
+        "wiara",
+        "Syn Boży",
+        "przyjść",
+        "zbawić",
+        "sakrament",
+        "Eucharystia",
+        "osobisty"
+      ],
+      "summary": "Aplikacja dla współczesnego wiernego: możesz dotykać Chrystusa wiarą, bo On jest Synem Bożym, który przyszedł, aby ciebie zbawić — zachęta do osobistej relacji z Jezusem przez wiarę i sakramenty.",
+      "bible": [
+        "J 20, 31",
+        "J 6, 69",
+        "J 3, 16-17",
+        "Rz 10, 9",
+        "1 J 5, 5"
+      ],
+      "text": [
+        "Jeżeli chcesz dotknąć Chrystusa,",
+        "jeżeli chcesz dotknąć Chrystusa,",
+        "możesz dotykać Go wiarą:",
+        "bo On jest Synem Bożym,",
+        "bo On jest Synem Bożym,",
+        "który przyszedł, aby ciebie zbawić.",
+        ""
+      ]
+    },
+    {
+      "range": "34-36",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "tłum",
+        "ludzie",
+        "kobieta",
+        "dotknąć",
+        "Chrystus",
+        "wiara"
+      ],
+      "summary": "Końcowe powtórzenie refrenu — pieśń zamyka się obrazem kobiety dotykającej Jezusa pośród tłumu, zapraszając słuchacza do tego samego gestu wiary.",
+      "bible": [
+        "Łk 8, 42-43"
+      ],
+      "text": [
+        "Pośrodku wielkiego tłumu",
+        "między tymi wszystkimi ludźmi,",
+        "kobieta, kobieta dotknęła Go."
+      ]
+    },
+    {
+      "range": "1-36",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "kobieta",
+        "tłum",
+        "dotknąć",
+        "Chrystus",
+        "wiara",
+        "zbawić",
+        "uzdrowienie",
+        "nieczysty",
+        "upływ krwi",
+        "Syn Boży",
+        "miłosierdzie",
+        "Eucharystia",
+        "sakrament",
+        "osobisty",
+        "spotkanie"
+      ],
+      "summary": "Pieśń ewangelizacyjna oparta na scenie uzdrowienia kobiety cierpiącej na krwotok (Łk 8, 42-48). Po narracyjnym wprowadzeniu (tłum, dotknięcie, pytanie Jezusa, wyznanie kobiety, słowa uzdrowienia) następuje refren przypominający scenę początkową i kerygmatyczna aplikacja: każdy może dotknąć Chrystusa wiarą, bo On jest Synem Bożym, który przyszedł zbawić. Typologicznie: nieczystość rytualna kobiety symbolizuje grzech oddzielający od Boga; dotknięcie szaty Jezusa to prefiguracja sakramentów, zwłaszcza Eucharystii, gdzie wierni 'dotykają' Ciała Chrystusa. Słowa 'twoja wiara cię zbawiła' łączą uzdrowienie fizyczne z duchowym zbawieniem.",
+      "bible": [
+        "Łk 8, 42-48",
+        "Mk 5, 25-34",
+        "Mt 9, 20-22",
+        "Kpł 15, 25-27",
+        "J 20, 31",
+        "J 3, 16-17",
+        "Mt 14, 36",
+        "Rz 10, 9",
+        "1 J 5, 5"
+      ]
+    }
+  ]
+}

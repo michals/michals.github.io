@@ -1,0 +1,249 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:06edbe97609bd603d401829d900654aced90ae4479075ccf3d342d6e8f576ea4",
+  "songs_analysis": [
+    {
+      "type": "zwrotka",
+      "range": "1-10",
+      "sentiment": "radosny",
+      "keywords": [
+        "miod",
+        "plaster",
+        "mleko",
+        "kobieta",
+        "dziecko",
+        "zrodlo",
+        "woda",
+        "serce",
+        "chwala",
+        "usta",
+        "uwielbienie",
+        "język",
+        "slodycz",
+        "imię",
+        "czlonki",
+        "piesń",
+        "światło",
+        "zlo",
+        "spojrzenie",
+        "miłość",
+        "uzdrowienie",
+        "życie",
+        "nieśmiertelność",
+        "namiot"
+      ],
+      "bible": [
+        "Ody Salomona 6 i 40",
+        "Pnp 4,11",
+        "J 7,38",
+        "J 1,14"
+      ],
+      "summary": "Dusza porownuje wylewanie chwały Bożej do miodu sączącego się z plastra i mleka płynącego z matki. Światło Boga i Jego miłosne spojrzenie uzdrawiają serce, a życie nieśmiertelne zamieszkało w nas.",
+      "text": [
+        "Jak sączy się miód z pszczelego plastra,",
+        "a mleko płynie z kobiety, kochającej swoje dzieci,",
+        "jak źródło wylewa spokojne wody,",
+        "tak moje serce wylewa Jego chwałę.",
+        "I moje usta wznoszą uwielbienie dla Niego,",
+        "mój język napełniony słodyczą Jego imienia,",
+        "a moje członki rozkoszują się Jego pieśniami.",
+        "Ponieważ Jego światło uspokaja moje zło,",
+        "ponieważ Jego proste spojrzenie miłości uzdrawia moje serce,",
+        "ponieważ życie nieśmiertelne swój namiot postawiło w nas."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "12-13",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja",
+        "uwielbienie"
+      ],
+      "bible": [],
+      "summary": "Alleluja - radosne uwielbienie Boga.",
+      "text": [
+        "Alleluja, alleluja, allelu-, allelu-, alleluja,",
+        ""
+      ]
+    },
+    {
+      "type": "zwrotka",
+      "range": "14-24",
+      "sentiment": "radosny",
+      "keywords": [
+        "miod",
+        "plaster",
+        "mleko",
+        "kobieta",
+        "dziecko",
+        "zrodlo",
+        "serce",
+        "chwala",
+        "oblicze",
+        "radość",
+        "duch",
+        "miłość",
+        "światło",
+        "spojrzenie",
+        "bojaźń",
+        "ufność",
+        "zbawienie",
+        "niezawodność",
+        "życie",
+        "namiot"
+      ],
+      "bible": [
+        "Ody Salomona 6 i 40",
+        "Pnp 4,11",
+        "J 1,14",
+        "1 J 4,18"
+      ],
+      "summary": "Rozszerzona wersja strofy: oblicze weseli się radością Boga, duch raduje się Jego miłością, a serce wypełnia Jego pogodne światło. Bojaźń pokłada ufność w Bogu, a zbawienie w Nim jest niezawodne.",
+      "text": [
+        "Jak sączy się miód z pszczelego plastra,",
+        "a mleko płynie z kobiety, kochającej swoje dzieci,",
+        "jak źródło wylewa spokojne wody,",
+        "tak moje serce wylewa Jego chwałę.",
+        "I moje oblicze weseli się Jego radością,",
+        "i mój duch raduje się Jego miłością,",
+        "i moje serce wypełnia Jego pogodne światło,",
+        "czuje Jego miłosne spojrzenie.",
+        "Ponieważ bojaźń ufność w Nim pokłada.",
+        "Ponieważ zbawienie w Nim jest niezawodne.",
+        "Ponieważ życie nieśmiertelne swój namiot postawiło w nas."
+      ]
+    },
+    {
+      "type": "refren",
+      "range": "26",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja",
+        "uwielbienie"
+      ],
+      "bible": [],
+      "summary": "Alleluja - radosne uwielbienie Boga.",
+      "text": [
+        "Alleluja, alleluja, allelu-, allelu-, alleluja,"
+      ]
+    },
+    {
+      "type": "zakończenie",
+      "range": "28",
+      "sentiment": "radosny",
+      "keywords": [
+        "powtorzenie",
+        "da capo"
+      ],
+      "bible": [
+        "Pnp 4,11"
+      ],
+      "summary": "Wskazanie na powtorzenie całej piesni od początku (da capo).",
+      "text": [
+        "Jak sączy się miód z pszczelego plastra …"
+      ]
+    },
+    {
+      "type": "fragment",
+      "range": "1-28",
+      "sentiment": "radosny",
+      "keywords": [
+        "miod",
+        "mleko",
+        "zrodlo",
+        "chwala",
+        "uwielbienie",
+        "światło",
+        "uzdrowienie",
+        "życie nieśmiertelne",
+        "namiot",
+        "zbawienie",
+        "ufność",
+        "alleluja",
+        "ody salomona"
+      ],
+      "bible": [
+        "Ody Salomona 6 i 40",
+        "Pnp 4,11",
+        "J 7,38",
+        "J 1,14",
+        "1 J 4,18",
+        "Typologia: miod i mleko = słodycz Bożej miłości i Eucharystia; namiot = Wcielenie; światło = Chrystus"
+      ],
+      "summary": "Hymn pochwalny z Ody Salomona o duszy przepełnionej chwałą Bożą, z refrenem alleluja. Obrazy miodu, mleka i wody źrodlanej ilustrują obfitość Bożej miłości, ktora uzdrawia i daje życie nieśmiertelne przez Wcielenie.",
+      "text": [
+        "Jak sączy się miód z pszczelego plastra,",
+        "a mleko płynie z kobiety, kochającej swoje dzieci,",
+        "jak źródło wylewa spokojne wody,",
+        "tak moje serce wylewa Jego chwałę.",
+        "I moje usta wznoszą uwielbienie dla Niego,",
+        "mój język napełniony słodyczą Jego imienia,",
+        "a moje członki rozkoszują się Jego pieśniami.",
+        "Ponieważ Jego światło uspokaja moje zło,",
+        "ponieważ Jego proste spojrzenie miłości uzdrawia moje serce,",
+        "ponieważ życie nieśmiertelne swój namiot postawiło w nas.",
+        "",
+        "Alleluja, alleluja, allelu-, allelu-, alleluja,",
+        "",
+        "Jak sączy się miód z pszczelego plastra,",
+        "a mleko płynie z kobiety, kochającej swoje dzieci,",
+        "jak źródło wylewa spokojne wody,",
+        "tak moje serce wylewa Jego chwałę.",
+        "I moje oblicze weseli się Jego radością,",
+        "i mój duch raduje się Jego miłością,",
+        "i moje serce wypełnia Jego pogodne światło,",
+        "czuje Jego miłosne spojrzenie.",
+        "Ponieważ bojaźń ufność w Nim pokłada.",
+        "Ponieważ zbawienie w Nim jest niezawodne.",
+        "Ponieważ życie nieśmiertelne swój namiot postawiło w nas.",
+        "",
+        "Alleluja, alleluja, allelu-, allelu-, alleluja,",
+        "",
+        "Jak sączy się miód z pszczelego plastra …"
+      ]
+    },
+    {
+      "type": "całość",
+      "range": "1-28",
+      "sentiment": "radosny",
+      "keywords": [
+        "miod",
+        "mleko",
+        "zrodlo",
+        "chwala",
+        "uwielbienie",
+        "alleluja",
+        "światło",
+        "miłość",
+        "uzdrowienie",
+        "życie",
+        "nieśmiertelność",
+        "namiot",
+        "zbawienie",
+        "ufność",
+        "spojrzenie",
+        "slodycz",
+        "imię",
+        "oblicze",
+        "duch",
+        "radość",
+        "bojaźń",
+        "pogodne",
+        "ody salomona",
+        "wcielenie"
+      ],
+      "bible": [
+        "Ody Salomona 6 i 40 (apokryf)",
+        "Pnp 4,11 (miod i mleko pod językiem)",
+        "Pwt 32,13 (miod z opoki)",
+        "J 7,38 (rzeki wody żywej)",
+        "J 1,14 (Słowo ciałem się stało i zamieszkało - namiot postawiło w nas)",
+        "Rz 8,11 (życie nieśmiertelne w nas)",
+        "1 J 4,18 (doskonała miłość usuwa lęk - bojaźń ufność pokłada)",
+        "Typologia: miod i mleko = słodycz Boża i Eucharystia; światło = Chrystus (J 8,12); uzdrawiające spojrzenie = miłosierdzie Boże; namiot = Wcielenie i obecność Boga wśrod ludu"
+      ],
+      "summary": "Hymn z Ody Salomona, w ktorym dusza przepełniona chwałą Bożą porownuje ją do miodu, mleka i wody źrodlanej. Światło i spojrzenie Boga uzdrawiają serce, a życie nieśmiertelne zamieszkuje w nas przez Wcielenie. Refren alleluja podkreśla radosny, uwielbieniowy charakter piesni."
+    }
+  ]
+}

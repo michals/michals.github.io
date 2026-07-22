@@ -1,0 +1,253 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:f6981dfb3236cacf9d6f9df311973b2a2c03d8fa5ee3b13812add764c3a03aef",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "piękno",
+        "radość",
+        "brat",
+        "żyć",
+        "wspólnota",
+        "jedność"
+      ],
+      "summary": "Okrzyk radości z powodu piękna braterskiej jedności i wspólnoty.",
+      "bible": [
+        "Ps 133, 1"
+      ],
+      "text": [
+        "O jak pięknie, ile radości,",
+        "kiedy bracia żyją razem!()",
+        ""
+      ]
+    },
+    {
+      "range": "4-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "olej",
+        "głowa",
+        "spływać",
+        "brodzić",
+        "Aaron",
+        "namaszczenie",
+        "kapłan",
+        "świętość"
+      ],
+      "summary": "Porównanie braterskiej jedności do oleju namaszczenia spływającego z głowy na brodę Aarona.",
+      "bible": [
+        "Ps 133, 2",
+        "Kpł 8, 12",
+        "Wj 29, 7"
+      ],
+      "text": [
+        "Jest to jak olej, który z głowy spływa",
+        "aż na brodę Aarona."
+      ]
+    },
+    {
+      "range": "6-8",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "piękno",
+        "radość",
+        "brat",
+        "żyć",
+        "jedność",
+        "wspólnota"
+      ],
+      "summary": "Refren - powtórzenie okrzyku radości z braterskiej jedności.",
+      "bible": [
+        "Ps 133, 1"
+      ],
+      "text": [
+        "O jak pięknie, ile radości,",
+        "kiedy bracia żyją razem!()",
+        ""
+      ]
+    },
+    {
+      "range": "9-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "olej",
+        "spływać",
+        "skraj",
+        "płaszcz",
+        "Aaron",
+        "namaszczenie",
+        "kapłaństwo"
+      ],
+      "summary": "Dalszy ciąg obrazu oleju namaszczenia spływającego aż na skraj płaszcza Aarona.",
+      "bible": [
+        "Ps 133, 2",
+        "Wj 29, 7"
+      ],
+      "text": [
+        "Jest to jak olej, który z głowy spływa",
+        "aż na skraj jego płaszcza."
+      ]
+    },
+    {
+      "range": "11-13",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "piękno",
+        "radość",
+        "brat",
+        "żyć",
+        "jedność",
+        "wspólnota"
+      ],
+      "summary": "Refren - powtórzenie okrzyku radości z braterskiej jedności.",
+      "bible": [
+        "Ps 133, 1"
+      ],
+      "text": [
+        "O jak pięknie, ile radości,",
+        "kiedy bracia żyją razem!()",
+        ""
+      ]
+    },
+    {
+      "range": "14-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "rosa",
+        "Hermon",
+        "spadać",
+        "góry",
+        "Syjon",
+        "odświeżenie",
+        "obfitość"
+      ],
+      "summary": "Porównanie braterskiej jedności do rosy z Hermonu opadającej na góry Syjonu.",
+      "bible": [
+        "Ps 133, 3",
+        "Oz 14, 6"
+      ],
+      "text": [
+        "Jest to jak rosa, co z Hermonu spada",
+        "aż na góry Syjonu."
+      ]
+    },
+    {
+      "range": "16-18",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "piękno",
+        "radość",
+        "brat",
+        "żyć",
+        "jedność",
+        "wspólnota"
+      ],
+      "summary": "Refren - powtórzenie okrzyku radości z braterskiej jedności.",
+      "bible": [
+        "Ps 133, 1"
+      ],
+      "text": [
+        "O jak pięknie, ile radości,",
+        "kiedy bracia żyją razem!()",
+        ""
+      ]
+    },
+    {
+      "range": "19-20",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "błogosławić",
+        "Pan",
+        "wysokość",
+        "dawać",
+        "życie",
+        "wieczność",
+        "błogosławieństwo",
+        "Syjon"
+      ],
+      "summary": "Bóg z wysokości Syjonu błogosławi wspólnocie braci i daje im życie wieczne.",
+      "bible": [
+        "Ps 133, 3",
+        "Pwt 28, 8",
+        "J 17, 2-3"
+      ],
+      "text": [
+        "Tam błogosławi nam Pan z wysoka,",
+        "daje nam życie na wieki."
+      ]
+    },
+    {
+      "range": "21-22",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "piękno",
+        "radość",
+        "brat",
+        "żyć",
+        "jedność",
+        "wspólnota"
+      ],
+      "summary": "Refren końcowy - radość z braterskiej jedności jako zwieńczenie psalm.",
+      "bible": [
+        "Ps 133, 1"
+      ],
+      "text": [
+        "O jak pięknie, ile radości,",
+        "kiedy bracia żyją razem!"
+      ]
+    },
+    {
+      "range": "1-22",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "jedność",
+        "brat",
+        "wspólnota",
+        "radość",
+        "olej",
+        "namaszczenie",
+        "Aaron",
+        "kapłaństwo",
+        "rosa",
+        "Hermon",
+        "Syjon",
+        "błogosławieństwo",
+        "życie",
+        "wieczność",
+        "Duch Święty",
+        "Kościół",
+        "Chrystus",
+        "Eucharystia"
+      ],
+      "summary": "Psalm 133 - Pieśń stopni o pięknie i dobroci braterskiej jedności, obrazowanej przez olej namaszczenia Aarona spływający z głowy na płaszcz oraz rosę Hermonu na góry Syjonu, której owocem jest błogosławieństwo Pana i życie wieczne. W typologii chrześcijańskiej olej namaszczenia Aarona, spływający z głowy aż na skraj płaszcza, prefiguruje Chrystusa jako Najwyższego Kapłana (Hbr 4, 14-16), z którego - jako Głowy Kościoła - spływa Duch Święty na całe Jego mistyczne Ciało (Ef 1, 22-23; 1 Kor 12, 12-27). Rosa Hermonu na Syjon to symbol Ducha Świętego ożywiającego Kościół (Oz 14, 6; Iz 26, 19). Psalm ten, wykonywany w kontekście Znaku Pokoju i Przygotowania Darów, podkreśla, że Eucharystia jest sakramentem jedności Kościoła, a pojednanie z braćmi jest warunkiem godnego przyjęcia Komunii Świętej (Mt 5, 23-24).",
+      "bible": [
+        "Ps 133",
+        "Kpł 8, 12",
+        "Pwt 28, 8",
+        "Oz 14, 6",
+        "Iz 26, 19",
+        "Mt 5, 23-24",
+        "Łk 4, 18-21",
+        "J 17, 2-3",
+        "J 17, 21-23",
+        "Dz 2, 1-4",
+        "1 Kor 12, 12-27",
+        "Ef 1, 22-23",
+        "Ef 4, 3-6",
+        "Hbr 4, 14-16"
+      ]
+    }
+  ]
+}

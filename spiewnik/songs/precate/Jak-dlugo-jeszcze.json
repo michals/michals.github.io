@@ -1,0 +1,230 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:3498342bca761781af60d861078ada7814e2b1fa32695eeabb6a89cf0c63f106",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Jahwe",
+        "zapomnienie",
+        "oblicze Boże",
+        "ukrycie",
+        "lament",
+        "cierpienie",
+        "opuszczenie"
+      ],
+      "summary": "Lamentacyjne pytanie o to, jak długo Jahwe będzie zapominał i ukrywał swoje oblicze – typowa skarga Psalmu 13.",
+      "bible": [
+        "Ps 13, 1-2",
+        "Ps 44, 25"
+      ],
+      "text": [
+        "Jak długo jeszcze",
+        "będziesz, Jahwe, zapominać mnie",
+        "i twe oblicze",
+        "przede mną będziesz skrywać?!"
+      ]
+    },
+    {
+      "range": "5-9",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "Jahwe",
+        "Bóg",
+        "Odkupiciel",
+        "ufność",
+        "uwielbienie",
+        "zbawienie"
+      ],
+      "summary": "Postanowienie śpiewu Jahwe jako Odkupicielowi – wyznanie ufności pośród lamentu.",
+      "bible": [
+        "Ps 13, 6",
+        "Ps 27, 6",
+        "Iz 44, 6"
+      ],
+      "text": [
+        "Zaśpiewam Jahwe,",
+        "memu Bogu!",
+        "Zaśpiewam Jahwe,",
+        "On mym Odkupicielem!",
+        ""
+      ]
+    },
+    {
+      "range": "10-13",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "spojrzeć",
+        "odpowiedzieć",
+        "Jahwe",
+        "Boże mój",
+        "oświecenie",
+        "oczy",
+        "śmierć",
+        "błaganie",
+        "pomoc"
+      ],
+      "summary": "Błagalne wezwanie do Boga, aby spojrzał, odpowiedział i oświecił oczy, by nie pogrążyć się w śmierci.",
+      "bible": [
+        "Ps 13, 3-4",
+        "Ps 4, 7"
+      ],
+      "text": [
+        "Spojrzyj na mnie,",
+        "odpowiedz Jahwe, Boże mój,",
+        "oświeć me oczy,",
+        "bym się nie pogrążył w śmierci."
+      ]
+    },
+    {
+      "range": "14-18",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "Jahwe",
+        "Bóg",
+        "Odkupiciel",
+        "ufność",
+        "uwielbienie",
+        "zbawienie"
+      ],
+      "summary": "Powtórzenie postanowienia śpiewu Jahwe jako Odkupicielowi.",
+      "bible": [
+        "Ps 13, 6"
+      ],
+      "text": [
+        "Zaśpiewam Jahwe,",
+        "memu Bogu!",
+        "Zaśpiewam Jahwe,",
+        "On mym Odkupicielem!",
+        ""
+      ]
+    },
+    {
+      "range": "19-22",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wróg",
+        "zwycięstwo",
+        "ciemiężca",
+        "tryumf",
+        "upadek",
+        "prześladowanie",
+        "obrona"
+      ],
+      "summary": "Prośba o ochronę przed wrogiem i ciemiężcą, którzy tryumfowaliby nad upadającym.",
+      "bible": [
+        "Ps 13, 4-5",
+        "Ps 35, 19"
+      ],
+      "text": [
+        "By mój wróg",
+        "nie mógł mówić: „zwyciężyłem go!”",
+        "ani ciemiężcy",
+        "nie tryumfowali, gdy upadnę."
+      ]
+    },
+    {
+      "range": "23-27",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "Jahwe",
+        "Bóg",
+        "Odkupiciel",
+        "ufność",
+        "uwielbienie",
+        "zbawienie"
+      ],
+      "summary": "Powtórzenie refrenu ufności po kolejnej skardze.",
+      "bible": [
+        "Ps 13, 6"
+      ],
+      "text": [
+        "Zaśpiewam Jahwe,",
+        "memu Bogu!",
+        "Zaśpiewam Jahwe,",
+        "On mym Odkupicielem!",
+        ""
+      ]
+    },
+    {
+      "range": "28-31",
+      "type": "zakończenie",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "ufność",
+        "miłosierdzie Boże",
+        "zbawienie",
+        "radość",
+        "serce",
+        "ocalenie",
+        "łaska"
+      ],
+      "summary": "Przejście od lamentu do ufności: wyznanie zaufania Bożemu miłosierdziu i radość ze zbawienia.",
+      "bible": [
+        "Ps 13, 6",
+        "Ps 31, 15-16"
+      ],
+      "text": [
+        "Ale ja",
+        "zaufałem Twemu miłosierdziu,",
+        "Twoim zbawieniem",
+        "rozraduje się me serce."
+      ]
+    },
+    {
+      "range": "32-35",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "Jahwe",
+        "Bóg",
+        "Odkupiciel",
+        "ufność",
+        "uwielbienie",
+        "zbawienie"
+      ],
+      "summary": "Finalne powtórzenie refrenu – ostateczne zwycięstwo ufności nad lamentem.",
+      "bible": [
+        "Ps 13, 6"
+      ],
+      "text": [
+        "Zaśpiewam Jahwe,",
+        "memu Bogu!",
+        "Zaśpiewam Jahwe,",
+        "On mym Odkupicielem!"
+      ]
+    },
+    {
+      "range": "1-35",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Psalm 13",
+        "lament",
+        "ufność",
+        "Jahwe",
+        "Odkupiciel",
+        "miłosierdzie",
+        "zbawienie",
+        "radość",
+        "śpiew",
+        "modlitwa"
+      ],
+      "summary": "Adaptacja Psalmu 13 ukazująca drogę od lamentu i błagania do ufności i radości ze zbawienia w Bożym miłosierdziu.",
+      "bible": [
+        "Ps 13, 1-6"
+      ]
+    }
+  ]
+}

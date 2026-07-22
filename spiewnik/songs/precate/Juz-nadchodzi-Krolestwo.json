@@ -1,0 +1,252 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:3a7e20f111674acd36c0da52fa4371a5be1a3bece7d31e0b53cb61560165eb71",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Alleluja",
+        "uwielbienie",
+        "radość",
+        "chwała",
+        "Apokalipsa"
+      ],
+      "summary": "Aklamacja radosnego uwielbienia przez potrójne Alleluja.",
+      "bible": [
+        "Ap 19, 1-6",
+        "Ps 150"
+      ],
+      "text": [
+        "Alleluja, alleluja, alleluja.()",
+        "Alleluja, alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "4-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Królestwo",
+        "Pan",
+        "Chrystus",
+        "Bóg",
+        "nadchodzić",
+        "eschatologia",
+        "paruzja",
+        "Ap 19",
+        "Jezus Chrystus"
+      ],
+      "summary": "Zapowiedź nadchodzącego Królestwa Pana Boga i Jego Chrystusa, centralny motyw eschatologiczny i paschalny.",
+      "bible": [
+        "Ap 19, 6",
+        "Łk 22, 18",
+        "Mt 6, 10"
+      ],
+      "text": [
+        "Już nadchodzi Królestwo",
+        "Pana i Jego Chrystusa.",
+        "Nadchodzi Królestwo",
+        "Pana, naszego Boga.()",
+        ""
+      ]
+    },
+    {
+      "range": "9-11",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Alleluja",
+        "uwielbienie",
+        "radość",
+        "chwała",
+        "Apokalipsa"
+      ],
+      "summary": "Powtórzenie aklamacji Alleluja.",
+      "bible": [
+        "Ap 19, 1-6"
+      ],
+      "text": [
+        "Alleluja, alleluja, alleluja.",
+        "Alleluja, alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "12-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "chwała",
+        "gody",
+        "Bóg",
+        "Barankowy",
+        "uczta",
+        "eschatologia",
+        "Ap 19",
+        "Niebo"
+      ],
+      "summary": "Wezwanie do oddania chwały Bogu, ponieważ nadeszły gody — uczta eschatologiczna.",
+      "bible": [
+        "Ap 19, 7",
+        "Ap 21, 2",
+        "Iz 61, 10",
+        "Mt 22, 2"
+      ],
+      "text": [
+        "Dajmy Mu chwałę,",
+        "bo nadeszły gody;",
+        "dajmy Mu chwałę,",
+        "to gody naszego Boga.()",
+        ""
+      ]
+    },
+    {
+      "range": "17-19",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Alleluja",
+        "uwielbienie",
+        "radość",
+        "chwała"
+      ],
+      "summary": "Aklamacja Alleluja pomiędzy zwrotkami.",
+      "bible": [
+        "Ap 19, 1-6"
+      ],
+      "text": [
+        "Alleluja, alleluja, alleluja.",
+        "Alleluja, alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "20-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławiony",
+        "zaproszenie",
+        "gody",
+        "Barankowy",
+        "uczta",
+        "eschatologia",
+        "Ap 19",
+        "błogosławieństwo",
+        "Niebo"
+      ],
+      "summary": "Ogłoszenie błogosławieństwa dla zaproszonych na gody Baranka, centralna antyfona eschatologiczna z Apokalipsy.",
+      "bible": [
+        "Ap 19, 8-9",
+        "Mt 22, 2-3",
+        "Łk 14, 15"
+      ],
+      "text": [
+        "Błogosławieni",
+        "zaproszeni na gody,",
+        "zaproszeni",
+        "na gody Baranka.()",
+        ""
+      ]
+    },
+    {
+      "range": "25-27",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Alleluja",
+        "uwielbienie",
+        "radość",
+        "chwała"
+      ],
+      "summary": "Aklamacja Alleluja.",
+      "bible": [
+        "Ap 19, 1-6"
+      ],
+      "text": [
+        "Alleluja, alleluja, alleluja.",
+        "Alleluja, alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "28-32",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławiony",
+        "zaproszenie",
+        "gody",
+        "Pan",
+        "eschatologia",
+        "błogosławieństwo",
+        "uczta",
+        "Niebo"
+      ],
+      "summary": "Powtórzenie ogłoszenia błogosławieństwa dla zaproszonych na gody Pana, wariant ostatniej zwrotki.",
+      "bible": [
+        "Ap 19, 8-9"
+      ],
+      "text": [
+        "Błogosławieni",
+        "zaproszeni na gody,",
+        "na gody",
+        "naszego Pana.()",
+        ""
+      ]
+    },
+    {
+      "range": "33-34",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Alleluja",
+        "uwielbienie",
+        "radość",
+        "chwała"
+      ],
+      "summary": "Końcowa aklamacja Alleluja.",
+      "bible": [
+        "Ap 19, 1-6"
+      ],
+      "text": [
+        "Alleluja, alleluja, alleluja.",
+        "Alleluja, alleluja, alleluja."
+      ]
+    },
+    {
+      "range": "1-34",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Alleluja",
+        "Królestwo",
+        "gody",
+        "Barankowy",
+        "chwała",
+        "eschatologia",
+        "Ap 19",
+        "błogosławieństwo",
+        "Pan",
+        "Bóg",
+        "Chrystus",
+        "paruzja",
+        "uczta",
+        "Niebo",
+        "uwielbienie",
+        "Jezus Chrystus"
+      ],
+      "summary": "Pieśń o radosnym oczekiwaniu na eschatologiczne Królestwo Boga i Jego Chrystusa, inspirowana Ap 19, 6-9. Głosi zaproszenie na gody Baranka, przeplatane refrenicznymi aklamacjami Alleluja. Odpowiednia na Adwent i Okres Wielkanocny.",
+      "bible": [
+        "Ap 19, 6-9",
+        "Ap 21, 2",
+        "Iz 61, 10",
+        "Mt 22, 2",
+        "Ps 150"
+      ]
+    }
+  ]
+}

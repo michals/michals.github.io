@@ -1,0 +1,147 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:01e2a1b07ac5f4498a43614f4cdad60991300e528de6261c6125eadf27504617",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja",
+        "chwała",
+        "uwielbienie"
+      ],
+      "summary": "Wstępne radosne wezwanie do wielbienia Boga przez śpiew Alleluja.",
+      "bible": [
+        "Ps 134"
+      ],
+      "text": [
+        "Allelu-, Allelu-, Alleluja,",
+        "Allelu-, Allelu-, Alleluja!",
+        ""
+      ]
+    },
+    {
+      "range": "4-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławić",
+        "Pan",
+        "sługa",
+        "czuwanie",
+        "dom Pański",
+        "chwała"
+      ],
+      "summary": "Wezwanie sług Pańskich do błogosławienia Pana, którzy trwają na czuwaniu w domu Pańskim.",
+      "bible": [
+        "Ps 134:1"
+      ],
+      "text": [
+        "Błogosławcie wszyscy Pana,",
+        "błogosławcie wszyscy Pana,",
+        "błogosławcie słudzy Pańscy.",
+        "Błogosławcie wszyscy Pana,",
+        "błogosławcie wszyscy Pana,",
+        "którzy trwacie na czuwaniu w domu Pańskim.",
+        ""
+      ]
+    },
+    {
+      "range": "11-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ręce",
+        "błogosławić",
+        "Bóg",
+        "czuwanie",
+        "dom Pański",
+        "modlitwa"
+      ],
+      "summary": "Wezwanie do wzniesienia rąk ku Bogu i błogosławienia Pana podczas nocnego czuwania w Jego domu.",
+      "bible": [
+        "Ps 134:2"
+      ],
+      "text": [
+        "Wznieście ku Niemu ręce,",
+        "wznieście ku Niemu ręce",
+        "i błogosławcie Pana,",
+        "którzy trwacie w domu Pana, swego Boga,",
+        "czuwając nocami!",
+        ""
+      ]
+    },
+    {
+      "range": "17-18",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja",
+        "chwała",
+        "uwielbienie"
+      ],
+      "summary": "Radosny śpiew Alleluja jako odpowiedź na wezwanie do błogosławienia Pana.",
+      "bible": [
+        "Ps 134"
+      ],
+      "text": [
+        "Alleluja, Alleluja, Alleluja,",
+        "Alleluja, Alleluja, Alleluja!"
+      ]
+    },
+    {
+      "range": "17-22",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "Wskazanie powtórzenia części Alleluja (KpW – koniec powtórki).",
+      "bible": [],
+      "text": [
+        "Alleluja, Alleluja, Alleluja,",
+        "Alleluja, Alleluja, Alleluja!",
+        "KpW:",
+        "Allelu-, Allelu-, Alleluja,",
+        "Allelu-, Allelu-, Alleluja!",
+        "Alleluja."
+      ]
+    },
+    {
+      "range": "20-22",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja",
+        "chwała",
+        "uwielbienie"
+      ],
+      "summary": "Końcowe Alleluja wieńczące psalm.",
+      "bible": [
+        "Ps 134"
+      ],
+      "text": [
+        "Allelu-, Allelu-, Alleluja,",
+        "Allelu-, Allelu-, Alleluja!",
+        "Alleluja."
+      ]
+    },
+    {
+      "range": "1-22",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławienie",
+        "alleluja",
+        "czuwanie",
+        "chwała",
+        "służba Boża",
+        "dom Pański",
+        "modlitwa"
+      ],
+      "summary": "Psalm 134 jest radosnym wezwaniem sług Pańskich do błogosławienia Pana i wznoszenia rąk ku Niemu podczas czuwania w domu Pańskim, zamkniętym śpiewem Alleluja.",
+      "bible": [
+        "Ps 134"
+      ]
+    }
+  ]
+}

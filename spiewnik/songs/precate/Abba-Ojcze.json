@@ -1,0 +1,181 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:60ee14e7d6da15f09a947a5d7a86091630ef70e7e7f9f7b0c7c76037bda8a61c",
+  "songs_analysis": [
+    {
+      "range": "1-2",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Abba",
+        "Ojciec",
+        "synostwo Boże",
+        "adopcja",
+        "Duch Święty",
+        "wołanie",
+        "zażyłość",
+        "modlitwa",
+        "dziecięctwo Boże",
+        "Trójca Święta"
+      ],
+      "summary": "Radosne wołanie 'Abba, Ojcze' jako wyraz synowskiej zażyłości z Bogiem — dar Ducha Świętego, który pozwala wierzącym zwracać się do Boga z dziecięcą ufnością.",
+      "bible": [
+        "Rz 8,15",
+        "Ga 4,6"
+      ],
+      "text": [
+        "Abba, Ojcze, Ojcze!",
+        ""
+      ]
+    },
+    {
+      "range": "3-7",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "duch niewolnictwa",
+        "bojaźń",
+        "wolność",
+        "wyzwolenie",
+        "adopcja",
+        "synostwo Boże",
+        "łaska",
+        "Duch Święty",
+        "strach",
+        "nowe życie"
+      ],
+      "summary": "Dziękczynienie za uwolnienie od ducha niewolników, który rodził bojaźń — wierzący otrzymali nie ducha strachu, lecz Ducha synostwa.",
+      "bible": [
+        "Rz 8,15",
+        "2 Tm 1,7",
+        "Ga 4,4-5"
+      ],
+      "text": [
+        "Nie otrzymaliśmy",
+        "ducha niewolników,",
+        "by znowu żyć w bojaźni,",
+        "by znowu żyć w bojaźni.",
+        ""
+      ]
+    },
+    {
+      "range": "8-12",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch Chrystusa",
+        "Duch Święty",
+        "świadectwo",
+        "dzieci Boga",
+        "synostwo Boże",
+        "adopcja",
+        "pewność zbawienia",
+        "Trójca Święta",
+        "Jezus Chrystus"
+      ],
+      "summary": "Duch Chrystusa poświadcza wewnętrznie naszemu duchowi, że jesteśmy dziećmi Boga — dar wewnętrznego przekonania o nowej tożsamości w Chrystusie.",
+      "bible": [
+        "Rz 8,16",
+        "Ga 4,6",
+        "J 1,12",
+        "1 J 3,1"
+      ],
+      "text": [
+        "Sam Duch Chrystusa",
+        "wspiera swym świadectwem",
+        "naszego ducha,",
+        "że jesteśmy dziećmi Boga,",
+        ""
+      ]
+    },
+    {
+      "range": "13-17",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dziedzic",
+        "współdziedzic",
+        "Chrystus",
+        "dziedzictwo",
+        "Bóg",
+        "adopcja",
+        "obietnica",
+        "zbawienie",
+        "chwała",
+        "Królestwo Boże"
+      ],
+      "summary": "Radość z duchowego dziedzictwa: jako dzieci Boga jesteśmy dziedzicami i współdziedzicami Chrystusa — uczestnikami Jego chwały i Królestwa.",
+      "bible": [
+        "Rz 8,17",
+        "Ga 4,7",
+        "Ef 1,11",
+        "Tt 3,7"
+      ],
+      "text": [
+        "a jeżeli dziećmi,",
+        "to i dziedzicami,",
+        "współdziedzicami Chrystusa,",
+        "dziedzicami Boga.",
+        ""
+      ]
+    },
+    {
+      "range": "18",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Abba",
+        "Ojciec",
+        "synostwo Boże",
+        "adopcja",
+        "Duch Święty",
+        "wołanie",
+        "dziecięctwo Boże",
+        "zażyłość",
+        "modlitwa"
+      ],
+      "summary": "Powtórzenie wołania 'Abba, Ojcze' jako pieczętujące potwierdzenie synowskiej relacji z Bogiem — radosne zakończenie całej pieśni.",
+      "bible": [
+        "Rz 8,15"
+      ],
+      "text": [
+        "Abba, Ojcze, Ojcze!"
+      ]
+    },
+    {
+      "range": "1-18",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Abba",
+        "Ojciec",
+        "adopcja",
+        "synostwo Boże",
+        "Duch Święty",
+        "Duch Chrystusa",
+        "dzieci Boga",
+        "dziedzic",
+        "współdziedzic Chrystusa",
+        "wolność",
+        "bojaźń",
+        "świadectwo",
+        "Trójca Święta",
+        "łaska",
+        "obietnica",
+        "zbawienie",
+        "Królestwo Boże",
+        "modlitwa",
+        "dziedzictwo",
+        "wyzwolenie"
+      ],
+      "summary": "Pieśń oparta na Rz 8,15-17 głosi prawdę o adopcji wierzących jako dzieci Bożych przez Ducha Chrystusa. Duch Święty uwalnia od bojaźni, poświadcza nasze synostwo i czyni nas współdziedzicami Chrystusa w Jego chwale. Niesie radosne orędzie o pewności zbawienia i synowskiej zażyłości z Bogiem.",
+      "bible": [
+        "Rz 8,15-17",
+        "Ga 4,4-7",
+        "J 1,12",
+        "1 J 3,1",
+        "2 Tm 1,7"
+      ]
+    }
+  ]
+}

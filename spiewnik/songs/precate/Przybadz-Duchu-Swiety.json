@@ -1,0 +1,333 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:c37e6a8fa83fd900ecbc819b2f45ec40d9d8e70a3067e121a45668440848f613",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Duch Święty",
+        "przybądź",
+        "światło",
+        "zesłać"
+      ],
+      "summary": "Inwokacja do Ducha Świętego o przybycie i zesłanie światła.",
+      "bible": [
+        "J 14, 16-17",
+        "Dz 2, 1-4"
+      ],
+      "text": [
+        "Przybądź, (o) Duchu Święty,",
+        "ześlij Twoje światło.",
+        ""
+      ]
+    },
+    {
+      "range": "4-7",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch Święty",
+        "Ojciec",
+        "ubogi",
+        "dar",
+        "światłość",
+        "serc",
+        "Pocieszyciel"
+      ],
+      "summary": "Wezwanie Ducha Świętego pod tytułami: Ojciec ubogich, Dawca darów, Światłość serc, Pocieszyciel.",
+      "bible": [
+        "J 14, 26",
+        "Iz 11, 1-2",
+        "1 Kor 12"
+      ],
+      "text": [
+        "Przybądź, Ojcze ubogich,",
+        "przybądź Dawco darów.",
+        "Przybądź, Światłości serc,",
+        "Pocieszycielu najlepszy."
+      ]
+    },
+    {
+      "range": "8-10",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Duch Święty",
+        "przybądź",
+        "światło",
+        "zesłać"
+      ],
+      "summary": "Powtórzenie inwokacji do Ducha Świętego.",
+      "bible": [
+        "J 14, 16-17"
+      ],
+      "text": [
+        "Przybądź, (o) Duchu Święty,",
+        "ześlij Twoje światło.",
+        ""
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Gość",
+        "dusza",
+        "pokrzepienie",
+        "odpocznienie",
+        "trud",
+        "pocieszenie",
+        "płacz"
+      ],
+      "summary": "Duch Święty jako słodki Gość duszy, Pokrzepienie, Odpocznienie w trudzie i Pocieszenie w płaczu.",
+      "bible": [
+        "Rz 5, 5",
+        "2 Kor 1, 3-4"
+      ],
+      "text": [
+        "Słodki Gościu duszy,",
+        "słodkie Pokrzepienie,",
+        "Odpocznienie w trudzie,",
+        "Pocieszenie w płaczu."
+      ]
+    },
+    {
+      "range": "15-17",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Duch Święty",
+        "przybądź",
+        "światło",
+        "zesłać"
+      ],
+      "summary": "Powtórzenie inwokacji do Ducha Świętego.",
+      "bible": [
+        "J 14, 16-17"
+      ],
+      "text": [
+        "Przybądź, (o) Duchu Święty,",
+        "ześlij Twoje światło.",
+        ""
+      ]
+    },
+    {
+      "range": "18-21",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "światłość",
+        "serc",
+        "napełnić",
+        "tchnienie",
+        "człowiek"
+      ],
+      "summary": "Prośba o napełnienie serc światłością Ducha, bo bez Jego tchnienia człowiek jest niczym.",
+      "bible": [
+        "J 20, 22",
+        "Rdz 2, 7",
+        "Ps 104, 30"
+      ],
+      "text": [
+        "O Światłości błoga",
+        "napełń nasze serce,",
+        "bez Twojego tchnienia",
+        "nie ma nic w człowieku."
+      ]
+    },
+    {
+      "range": "22-24",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Duch Święty",
+        "przybądź",
+        "światło",
+        "zesłać"
+      ],
+      "summary": "Powtórzenie inwokacji do Ducha Świętego.",
+      "bible": [
+        "J 14, 16-17"
+      ],
+      "text": [
+        "Przybądź, (o) Duchu Święty,",
+        "ześlij Twoje światło.",
+        ""
+      ]
+    },
+    {
+      "range": "25-28",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "obmyć",
+        "brudny",
+        "zrosić",
+        "suchy",
+        "uleczyć",
+        "krwawić",
+        "zegnać",
+        "oporny"
+      ],
+      "summary": "Siedem próśb o oczyszczające i uzdrawiające działanie Ducha: obmycie, zroszenie, uleczenie, zgięcie oporności.",
+      "bible": [
+        "Ps 51, 12",
+        "Ez 36, 25-27",
+        "Iz 44, 3"
+      ],
+      "text": [
+        "Obmyj to, co brudne,",
+        "zroś to, co jest suche,",
+        "ulecz to, co krwawi,",
+        "zegnij, co oporne."
+      ]
+    },
+    {
+      "range": "29-31",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Duch Święty",
+        "przybądź",
+        "światło",
+        "zesłać"
+      ],
+      "summary": "Powtórzenie inwokacji do Ducha Świętego.",
+      "bible": [
+        "J 14, 16-17"
+      ],
+      "text": [
+        "Przybądź, (o) Duchu Święty,",
+        "ześlij Twoje światło.",
+        ""
+      ]
+    },
+    {
+      "range": "32-35",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "ogrzać",
+        "zimny",
+        "sprostować",
+        "skrzywiony",
+        "wierni",
+        "dar",
+        "święty"
+      ],
+      "summary": "Prośba o ogrzanie zimnych, sprostowanie skrzywionych i udzielenie świętych darów wiernym.",
+      "bible": [
+        "1 Kor 12, 4-11",
+        "Ga 5, 22-23",
+        "Rz 12, 6-8"
+      ],
+      "text": [
+        "Ogrzej to, co zimne,",
+        "sprostuj, co skrzywione,",
+        "udziel Twoim wiernym",
+        "Twoich świętych darów."
+      ]
+    },
+    {
+      "range": "36-38",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Duch Święty",
+        "przybądź",
+        "światło",
+        "zesłać"
+      ],
+      "summary": "Powtórzenie inwokacji do Ducha Świętego.",
+      "bible": [
+        "J 14, 16-17"
+      ],
+      "text": [
+        "Przybądź, (o) Duchu Święty,",
+        "ześlij Twoje światło.",
+        ""
+      ]
+    },
+    {
+      "range": "39-42",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "męstwo",
+        "nagroda",
+        "śmierć",
+        "święty",
+        "radość",
+        "wieczysta",
+        "Amen",
+        "Alleluja"
+      ],
+      "summary": "Prośba o męstwo, nagrodę, świętą śmierć i wieczystą radość, zakończona aklamacją Amen i Alleluja.",
+      "bible": [
+        "2 Tm 4, 7-8",
+        "Ap 21, 4",
+        "Rz 14, 17"
+      ],
+      "text": [
+        "Daj męstwo i nagrodę,",
+        "daj nam świętą śmierć,",
+        "daj wieczystą radość.",
+        "Amen! Alleluja!"
+      ]
+    },
+    {
+      "range": "43-44",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Duch Święty",
+        "przybądź",
+        "światło",
+        "zesłać"
+      ],
+      "summary": "Końcowe powtórzenie inwokacji do Ducha Świętego.",
+      "bible": [
+        "J 14, 16-17"
+      ],
+      "text": [
+        "Przybądź, (o) Duchu Święty,",
+        "ześlij Twoje światło."
+      ]
+    },
+    {
+      "range": "1-44",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Duch Święty",
+        "Pocieszyciel",
+        "światło",
+        "dar",
+        "obmycie",
+        "uzdrowienie",
+        "męstwo",
+        "radość",
+        "tchnienie",
+        "ogień",
+        "łaska",
+        "uświęcenie"
+      ],
+      "summary": "Sekwencja do Ducha Świętego na Zesłanie Ducha Świętego, zawierająca inwokacje, tytuły Parakleta i siedem próśb o Jego oczyszczające działanie. Duch Święty jest źródłem światła, darów i uświęcenia człowieka.",
+      "bible": [
+        "Dz 2, 1-4",
+        "J 14, 16-17.26",
+        "J 20, 22",
+        "Rz 5, 5",
+        "1 Kor 12",
+        "Ga 5, 22-23",
+        "Iz 11, 1-2",
+        "Ez 36, 25-27",
+        "Ps 51, 12",
+        "Ap 21, 4"
+      ]
+    }
+  ]
+}

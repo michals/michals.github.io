@@ -1,0 +1,262 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:7a3ba50a3f5fc7199e9f3fd1264cfd3d8455e6731521faef784677bebea8d628",
+  "songs_analysis": [
+    {
+      "range": "1-13",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "znak",
+        "niebo",
+        "Niewiasta",
+        "słońce",
+        "księżyc",
+        "korona",
+        "gwiazda",
+        "brzemienna",
+        "ból",
+        "rodzenie",
+        "smok",
+        "czerwony",
+        "głowa",
+        "róg",
+        "porodzić",
+        "syn",
+        "mężczyzna",
+        "rządzić",
+        "naród",
+        "tron",
+        "Bóg",
+        "Maryja",
+        "Mesjasz"
+      ],
+      "summary": "Wizja Niewiasty obleczonej w słońce, brzemiennej i rodzącej w bólach, oraz smoka czekającego, by pożreć jej dziecię. Niewiasta rodzi syna przeznaczonego do rządzenia narodami, który zostaje porwany do Boga. Typ Maryi i Kościoła rodzącego Chrystusa.",
+      "bible": [
+        "Ap 12,1-5",
+        "Rdz 3,15",
+        "Iz 7,14",
+        "Ps 2,9"
+      ],
+      "text": [
+        "Potem wielki znak się ukazał, znak wielki na niebie,",
+        "Niewiasta obleczona w słońce",
+        "i księżyc pod jej stopami,",
+        "a na jej głowie królewska korona z gwiazd dwunastu;",
+        "jest brzemienna i woła, cierpiąc bóle i męki rodzenia.",
+        "I inny znak się ukazał na niebie,",
+        "oto wielki smok czerwony,",
+        "co siedem głów ma i dziesięć rogów.",
+        "I stanął smok przed Niewiastą, która miała porodzić,",
+        "ażeby skoro porodzi, pożreć jej dziecię.",
+        "I Niewiasta porodziła syna - mężczyznę,",
+        "przeznaczonego do rządzenia narodami ziemi;",
+        "i zaraz syn został porwany do Boga i do jego tronu."
+      ]
+    },
+    {
+      "range": "14",
+      "type": "refren",
+      "sentiment": "neutralny",
+      "keywords": [
+        "znak",
+        "niebo",
+        "Niewiasta",
+        "objawienie",
+        "powtórzenie"
+      ],
+      "summary": "Refreniczny incipit 'Potem wielki znak się ukazał …' otwierający kolejne sekcje wizji, wskazujący na cykliczną strukturę objawienia.",
+      "bible": [
+        "Ap 12,1"
+      ],
+      "text": [
+        "Potem wielki znak się ukazał …"
+      ]
+    },
+    {
+      "range": "15-25",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "wojna",
+        "niebo",
+        "Michał",
+        "anioł",
+        "walczyć",
+        "smok",
+        "wąż",
+        "diabeł",
+        "szatan",
+        "zwodziciel",
+        "ziemia",
+        "strącenie",
+        "zło",
+        "zwycięstwo"
+      ],
+      "summary": "Walka na niebie: Michał i aniołowie walczą ze smokiem, który zostaje strącony na ziemię. Smok to wąż starodawny, diabeł i szatan, zwodziciel całej ziemi. Zwycięstwo Boga nad siłami zła.",
+      "bible": [
+        "Ap 12,7-9",
+        "Rdz 3,1",
+        "Łk 10,18",
+        "J 12,31"
+      ],
+      "text": [
+        "I nastąpiła wojna na niebie,",
+        "Michał i jego aniołowie walczyli przeciw smokowi,",
+        "walczyli przeciw smokowi;",
+        "a smok walczył razem ze swymi aniołami,",
+        "ale nie przemógł",
+        "i już się miejsce dla nich w niebie nie znalazło.",
+        "Wielki smok, wąż starodawny,",
+        "którego nazywamy diabłem i szatanem,",
+        "zwodziciel całej ziemi,",
+        "został strącony na ziemię, a z nim jego aniołowie.",
+        ""
+      ]
+    },
+    {
+      "range": "26",
+      "type": "refren",
+      "sentiment": "neutralny",
+      "keywords": [
+        "znak",
+        "niebo",
+        "Niewiasta",
+        "objawienie",
+        "powtórzenie"
+      ],
+      "summary": "Refreniczny incipit 'Potem wielki znak się ukazał …' otwierający trzecią sekcję wizji.",
+      "bible": [
+        "Ap 12,1"
+      ],
+      "text": [
+        "Potem wielki znak się ukazał …"
+      ]
+    },
+    {
+      "range": "27-42",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "smok",
+        "strącenie",
+        "ziemia",
+        "ścigać",
+        "Niewiasta",
+        "mężczyzna",
+        "skrzydło",
+        "orzeł",
+        "pustynia",
+        "żywienie",
+        "czas",
+        "gniew",
+        "wojna",
+        "potomstwo",
+        "przykazanie",
+        "Bóg",
+        "świadectwo",
+        "Jezus",
+        "Kościół",
+        "niebiosa",
+        "radość",
+        "oskarżyciel",
+        "brat",
+        "diabeł",
+        "wściekłość",
+        "eschatologia"
+      ],
+      "summary": "Smok strącony na ziemię ściga Niewiastę, która otrzymuje skrzydła orła i ucieka na pustynię. Smok toczy wojnę z resztą jej potomstwa – tymi, którzy strzegą przykazań Boga i mają świadectwo Jezusa. Niebiosa radują się ze strącenia oskarżyciela, ale biada ziemi, bo diabeł wie, że mało czasu mu zostało.",
+      "bible": [
+        "Ap 12,13-17",
+        "Ap 12,10-12",
+        "Wj 19,4",
+        "Iz 40,31",
+        "Rz 8,33-34"
+      ],
+      "text": [
+        "Teraz, kiedy smok ujrzał,        że został strącony na ziemię,",
+        "począł ścigać Niewiastę,        która porodziła mężczyznę.",
+        "Ale dano Niewieście",
+        "dwa skrzydła orła wielkiego,                    by leciała na pustynię,",
+        "gdzie jest żywiona przez czas,",
+        "dwa czasy i połowę czasu.",
+        "Wówczas smok rozgniewał się na Niewiastę",
+        "i odszedł, by toczyć wojnę     przeciwko reszcie jej potomstwa;",
+        "przeciwko tym, którzy strzegąprzykazań Boga",
+        "i są w posiadaniu świadectwa Jezusa.",
+        "Dlatego radujcie się niebiosa           i ich mieszkańcy,",
+        "bo został strącony",
+        "oskarżyciel naszych braci.",
+        "Lecz biada wam ziemio i morze,",
+        "ponieważ diabeł został strącony na was,",
+        "jest pełen wściekłości, świadom,     że mało czasu mu zostało."
+      ]
+    },
+    {
+      "range": "43",
+      "type": "refren",
+      "sentiment": "neutralny",
+      "keywords": [
+        "znak",
+        "niebo",
+        "Niewiasta",
+        "objawienie",
+        "powtórzenie"
+      ],
+      "summary": "Końcowe powtórzenie refrenu 'Potem wielki znak się ukazał …' wskazujące na cykliczną, liturgiczną strukturę pieśni i otwartość objawienia.",
+      "bible": [
+        "Ap 12,1"
+      ],
+      "text": [
+        "Potem wielki znak się ukazał …"
+      ]
+    },
+    {
+      "range": "1-43",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Niewiasta",
+        "słońce",
+        "księżyc",
+        "korona",
+        "gwiazda",
+        "smok",
+        "wąż",
+        "diabeł",
+        "szatan",
+        "Michał",
+        "anioł",
+        "wojna",
+        "niebo",
+        "strącenie",
+        "porodzić",
+        "syn",
+        "mężczyzna",
+        "rządzić",
+        "naród",
+        "tron",
+        "Bóg",
+        "pustynia",
+        "skrzydło",
+        "orzeł",
+        "potomstwo",
+        "przykazanie",
+        "świadectwo",
+        "Jezus",
+        "Maryja",
+        "Kościół",
+        "Apokalipsa"
+      ],
+      "summary": "Parafraza Apokalipsy 12 – wizja Niewiasty obleczonej w słońce, smoka, walki na niebie i ostatecznego triumfu Boga. Niewiasta (Maryja/Kościół) rodzi Mesjasza, smok zostaje strącony przez Michała, a Kościół chroniony na pustyni oczekuje końca. Pieśń o zwycięstwie Boga nad szatanem i eschatologicznej nadziei.",
+      "bible": [
+        "Ap 12,1-18",
+        "Rdz 3,15",
+        "Iz 7,14",
+        "Wj 19,4",
+        "Łk 10,18",
+        "J 12,31"
+      ]
+    }
+  ]
+}

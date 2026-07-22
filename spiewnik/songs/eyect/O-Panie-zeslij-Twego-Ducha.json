@@ -1,0 +1,241 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:bdf4bcacd2f907ae7ff3f74c4e020c609fc5aa242a2c2f249f62fc8f1058e05b",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Panie",
+        "zesłać",
+        "Duch",
+        "odnowić",
+        "oblicze",
+        "ziemia",
+        "Duch Święty",
+        "odnowa",
+        "stworzenie"
+      ],
+      "summary": "Inwokacja do Boga o zesłanie Ducha Świętego dla odnowienia oblicza ziemi. Refren o charakterze epikletycznym, nawiązujący do Psalmu 104 i sekwencji Zielonych Świąt.",
+      "bible": [
+        "Ps 104,30",
+        "Ps 104,1"
+      ],
+      "text": [
+        "O Panie, ześlij Twego Ducha,",
+        "by odnowił oblicze ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "4-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dusza",
+        "błogosławić",
+        "Boże",
+        "wielki",
+        "wspaniałość",
+        "majestat",
+        "komnata",
+        "woda",
+        "wysokość",
+        "skrzydło",
+        "wiatr",
+        "Bóg",
+        "stworzenie",
+        "chwała"
+      ],
+      "summary": "Błogosławienie Boga za Jego wielkość i majestat: odziany we wspaniałość, komnaty nad wodami, przechadzający się na skrzydłach wiatru. Obraz Boga Stwórcy panującego nad żywiołami.",
+      "bible": [
+        "Ps 104,1-3",
+        "Ps 104,5"
+      ],
+      "text": [
+        "O Panie, niech ma dusza błogosławi Cię, Boże!",
+        "Ty jesteś wielki! Odziany we wspaniałość i majestat,",
+        "Swe komnaty wzniosłeś ponad wodami, Boże!",
+        "Na wysokościach, przechadzasz się na skrzydłach wiatru.",
+        ""
+      ]
+    },
+    {
+      "range": "9-11",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Panie",
+        "zesłać",
+        "Duch",
+        "odnowić",
+        "oblicze",
+        "ziemia",
+        "Duch Święty",
+        "odnowa"
+      ],
+      "summary": "Powtórzenie inwokacji o zesłanie Ducha dla odnowienia ziemi.",
+      "bible": [
+        "Ps 104,30"
+      ],
+      "text": [
+        "O Panie, ześlij Twego Ducha,",
+        "by odnowił oblicze ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "12-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "wiatr",
+        "przesłanie",
+        "świat",
+        "sługa",
+        "ogień",
+        "płomień",
+        "owoc",
+        "ziemia",
+        "chleb",
+        "kiełkować",
+        "Bóg",
+        "Duch Święty",
+        "stworzenie",
+        "Opatrzność"
+      ],
+      "summary": "Wiatr niesie Boże przesłanie, sługami Boga są ogień i płomienie. Bóg karmi nas owocami ziemi i sprawia, że chleb kiełkuje. Duch Święty jako ożywiająca siła stworzenia.",
+      "bible": [
+        "Ps 104,4",
+        "Ps 104,14-15",
+        "Hbr 1,7"
+      ],
+      "text": [
+        "To wiatr niesie Twe przesłanie dla świata. Boże!",
+        "poprzez przestrzenie. Sługami twymi ogień i płomienie.",
+        "Owocami, które wyrastają z ziemi, Boże!",
+        "Ty karmisz nas. Ty sprawiasz, że nasz chleb kiełkuje.",
+        ""
+      ]
+    },
+    {
+      "range": "17-19",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Panie",
+        "zesłać",
+        "Duch",
+        "odnowić",
+        "oblicze",
+        "ziemia",
+        "Duch Święty",
+        "odnowa"
+      ],
+      "summary": "Powtórzenie inwokacji o zesłanie Ducha dla odnowienia ziemi.",
+      "bible": [
+        "Ps 104,30"
+      ],
+      "text": [
+        "O Panie, ześlij Twego Ducha,",
+        "by odnowił oblicze ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "20-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "człowiek",
+        "dłoń",
+        "otworzyć",
+        "sycić",
+        "tchnienie",
+        "życie",
+        "usta",
+        "stworzenie",
+        "odnowić",
+        "oblicze",
+        "ziemia",
+        "Bóg",
+        "Duch Święty",
+        "Opatrzność"
+      ],
+      "summary": "Bóg w miłości otwiera dłoń i syci każdego człowieka. Wysyła tchnienie życia ze swoich ust i odnawia oblicze ziemi. Duch Święty jako tchnienie życia stwarzające i odnawiające wszystko.",
+      "bible": [
+        "Ps 104,27-28",
+        "Ps 104,30",
+        "Rdz 2,7",
+        "Ez 37,9-10"
+      ],
+      "text": [
+        "Na Twą miłość wyczekuje każdy człowiek, Boże!",
+        "który nas kochasz. Otwierasz swoją dłoń i nas sycisz.",
+        "Wysyłasz tchnienie życia z Twoich ust, Boże!",
+        "i są stworzeni. Odnawiasz oblicze tej Ziemi.",
+        ""
+      ]
+    },
+    {
+      "range": "25-26",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Panie",
+        "zesłać",
+        "Duch",
+        "odnowić",
+        "oblicze",
+        "ziemia",
+        "Duch Święty",
+        "odnowa"
+      ],
+      "summary": "Końcowe powtórzenie inwokacji o zesłanie Ducha dla odnowienia ziemi, zamykające pieśń modlitwą o odnowę stworzenia.",
+      "bible": [
+        "Ps 104,30"
+      ],
+      "text": [
+        "O Panie, ześlij Twego Ducha,",
+        "by odnowił oblicze ziemi."
+      ]
+    },
+    {
+      "range": "1-26",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Panie",
+        "Duch Święty",
+        "zesłać",
+        "odnowić",
+        "oblicze",
+        "ziemia",
+        "stworzenie",
+        "majestat",
+        "wiatr",
+        "ogień",
+        "płomień",
+        "chleb",
+        "miłość",
+        "tchnienie",
+        "życie",
+        "Ps 104",
+        "Zielone Świątki",
+        "Pięćdziesiątnica",
+        "odnowa"
+      ],
+      "summary": "Parafraza Psalmu 104 z refrenem 'O Panie, ześlij Twego Ducha, by odnowił oblicze ziemi' – pieśń na Zesłanie Ducha Świętego. Bóg objawia się w majestacie stworzenia, karmi swoje stworzenia, a Duch Święty jako tchnienie życia odnawia oblicze ziemi. Epikleza o odnowę stworzenia przez Ducha.",
+      "bible": [
+        "Ps 104,1-4",
+        "Ps 104,14-15",
+        "Ps 104,27-30",
+        "Rdz 2,7",
+        "Ez 37,9-10",
+        "Dz 2,2-4"
+      ]
+    }
+  ]
+}

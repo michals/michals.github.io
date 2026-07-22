@@ -1,0 +1,155 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:c97dada1991445b31be490bc892d60ed627c53470b05a892311744681fd07c10",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "droga",
+        "skwar",
+        "marsz",
+        "Mojżesz",
+        "Izrael",
+        "wyzwolenie",
+        "lud",
+        "Ojciec",
+        "wołanie",
+        "Zbawiciel"
+      ],
+      "summary": "Opis ciężkiej drogi Izraela pod wodzą Mojżesza i błagalne wołanie do Ojca o zesłanie Zbawiciela.",
+      "bible": [
+        "Wj 3,7-10"
+      ],
+      "text": [
+        "Ciężka droga, straszny skwar,",
+        "bardzo wolny marsz.",
+        "Mojżesz, Izraela wódz,",
+        "on wyzwoli lud.",
+        "Wysłuchaj, Ojcze,",
+        "wołania Twego ludu,",
+        "wysłuchaj, Ojcze,",
+        "Zbawiciela daj.",
+        ""
+      ]
+    },
+    {
+      "range": "10-18",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "życie",
+        "pokój",
+        "zmartwychwstanie",
+        "lud",
+        "Mojżesz",
+        "wyzwolenie",
+        "Ojciec",
+        "Zbawiciel",
+        "wołanie"
+      ],
+      "summary": "Lud pragnie życia, pokoju i zmartwychwstania; powtarza błaganie o Zbawiciela.",
+      "bible": [
+        "Wj 3,7-10"
+      ],
+      "text": [
+        "Lud pragnie życia i pokoju,",
+        "zmartwychwstania chce.",
+        "Mojżesz, Izraela wódz,",
+        "on wyzwoli lud.",
+        "Wysłuchaj, Ojcze,",
+        "wołania Twego ludu,",
+        "wysłuchaj, Ojcze,",
+        "Zbawiciela daj.",
+        ""
+      ]
+    },
+    {
+      "range": "19-27",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "droga",
+        "skwar",
+        "trud",
+        "Mojżesz",
+        "wyzwolenie",
+        "pokój",
+        "życie",
+        "lud"
+      ],
+      "summary": "Kontynuacja opisu trudów drogi; Mojżesz wyzwala lud, który pragnie pokoju i życia.",
+      "bible": [
+        "Wj 3,7-10"
+      ],
+      "text": [
+        "Ciężka droga, straszny skwar,",
+        "marszu wielki trud.",
+        "Mojżesz, Izraela wódz,",
+        "on wyzwala lud.",
+        "Lud chce pokoju, pragnie żyć",
+        "i zaistnieć znów.",
+        "Mojżesz, Izraela wódz,",
+        "on wyzwoli lud.",
+        ""
+      ]
+    },
+    {
+      "range": "28-35",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "naród",
+        "złudzenie",
+        "Mojżesz",
+        "wybawienie",
+        "grzech",
+        "cud",
+        "lud",
+        "ratunek"
+      ],
+      "summary": "Naród brnie przez złudzenia i grzech, potrzebuje cudu; Mojżesz wybawi lud.",
+      "bible": [
+        "Wj 3,7-10"
+      ],
+      "text": [
+        "Podąża naród: razem brną,",
+        "wokół pełno złud.",
+        "Mojżesz, Izraela wódz,",
+        "uratuje lud.",
+        "Tak idą razem poprzez grzech,",
+        "im potrzebny cud.",
+        "Mojżesz, Izraela wódz,",
+        "on wybawi lud."
+      ]
+    },
+    {
+      "range": "1-35",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Mojżesz",
+        "Izrael",
+        "wyzwolenie",
+        "niewola",
+        "lud",
+        "Ojciec",
+        "Zbawiciel",
+        "wołanie",
+        "pokój",
+        "życie",
+        "zmartwychwstanie",
+        "cud",
+        "grzech",
+        "ratunek",
+        "typologia paschalna"
+      ],
+      "summary": "Spiritual 'Go Down Moses' w polskiej parafrazie: typologia Wyjścia Izraela z Egiptu jako zapowiedź odkupienia przez Chrystusa; lud woła do Ojca o wyzwolenie i Zbawiciela.",
+      "bible": [
+        "Wj 3-14",
+        "1 Kor 10,1-4"
+      ]
+    }
+  ]
+}

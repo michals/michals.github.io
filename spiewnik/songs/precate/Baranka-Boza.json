@@ -1,0 +1,293 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:387d715254132a387e6dc467439219a03d45b2c8e1bef4583c5b87e4e46f0154",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "fragment",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Dziewica Maryja",
+        "oblubienica",
+        "Józef",
+        "Duch Święty",
+        "brzemienna",
+        "małżeństwo",
+        "sprawiedliwość",
+        "zwiastowanie",
+        "Wcielenie",
+        "czystość",
+        "zaufanie",
+        "cichość"
+      ],
+      "summary": "Opis zwiastowania Maryi i postanowienia Józefa, by oddalić Ją potajemnie ze względu na Jej brzemienność z Ducha Świętego.",
+      "bible": [
+        "Mt 1, 18-19"
+      ],
+      "text": [
+        "Dziewica Maryja była",
+        "oblubienicą obiecaną Józefowi,",
+        "kiedy wpierw nim zamieszkali razem,stała się brzemienną za sprawą Ducha Świętego.",
+        "A Józef - mąż sprawiedliwy -",
+        "nie chcąc Jej zniesławić,",
+        "postanowił oddalić Ją potajemnie."
+      ]
+    },
+    {
+      "range": "7-12",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "Baranko Boża",
+        "pokora",
+        "Matka Jezusa",
+        "orędownictwo",
+        "łzy",
+        "gorzkie wody",
+        "cierpienie",
+        "wstawiennictwo",
+        "miłość"
+      ],
+      "summary": "Refren błagalny wzywający Maryję jako Baranka Bożego do orędownictwa za nami.",
+      "bible": [
+        "J 1, 29",
+        "Mt 5, 39",
+        "1 P 2, 23"
+      ],
+      "text": [
+        "O, jakże gorzkie są wody, Maryjo!",
+        "Baranko Boża, pokorna Baranko,",
+        "Ty, która nie opierasz się złu,",
+        "Matko Jezusa i Matko nasza,",
+        "módl się za nami, módl się za nami!",
+        ""
+      ]
+    },
+    {
+      "range": "13-15",
+      "type": "fragment",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Maryja",
+        "Syn",
+        "narodzenie",
+        "żłób",
+        "gospoda",
+        "Betlejem",
+        "ubóstwo",
+        "Dziecię",
+        "Wcielenie",
+        "pokora"
+      ],
+      "summary": "Opis narodzenia Jezusa w Betlejem i złożenia Go w żłobie z powodu braku miejsca w gospodzie.",
+      "bible": [
+        "Łk 2, 6-7"
+      ],
+      "text": [
+        "Maryja wydała na świat swego Syna,",
+        "owinęła Go w pieluszki i złożyła w żłobie,",
+        "bo nie było dla nich miejsca w żadnej gospodzie."
+      ]
+    },
+    {
+      "range": "16-22",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "Baranko Boża",
+        "pokora",
+        "Matka Jezusa",
+        "orędownictwo",
+        "łzy",
+        "gorzkie wody",
+        "cierpienie",
+        "wstawiennictwo"
+      ],
+      "summary": "Refren błagalny wzywający Maryję jako Baranka Bożego do orędownictwa za nami.",
+      "bible": [
+        "J 1, 29",
+        "Iz 53, 7"
+      ],
+      "text": [
+        "O, jakże gorzkie są wody, Maryjo!",
+        "Baranko Boża, pokorna Baranko,",
+        "Ty, która nie opierasz się złu,",
+        "Matko Jezusa i Matko nasza,",
+        "módl się za nami,",
+        "módl się za nami!",
+        ""
+      ]
+    },
+    {
+      "range": "23-26",
+      "type": "fragment",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Józef",
+        "Dziecię",
+        "Matka",
+        "ucieczka",
+        "Egipt",
+        "Herod",
+        "prześladowanie",
+        "zagrożenie",
+        "Opatrzność",
+        "ocalenie"
+      ],
+      "summary": "Opis ucieczki Świętej Rodziny do Egiptu przed prześladowaniem Heroda.",
+      "bible": [
+        "Mt 2, 13-14"
+      ],
+      "text": [
+        "A wstawszy, Józef",
+        "wziął ze sobą Dziecię i Jego Matkę,",
+        "i uciekł nocą do Egiptu,               bo Herod chciał zabić Dziecię!",
+        "O, jakże gorzkie są wody, Maryjo!"
+      ]
+    },
+    {
+      "range": "27-28",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "Skrócona, urwana wersja refrenu Baranko Boża.",
+      "bible": [],
+      "text": [
+        "Baranko Boża …",
+        ""
+      ]
+    },
+    {
+      "range": "29-32",
+      "type": "fragment",
+      "sentiment": "neutralny",
+      "keywords": [
+        "płacz",
+        "krzyk",
+        "Rama",
+        "Rachela",
+        "opłakiwanie",
+        "dzieci",
+        "niewiniątka",
+        "Herod",
+        "rzeź",
+        "lament",
+        "proroctwo",
+        "pocieszenie"
+      ],
+      "summary": "Opis rzezi niewiniątek i proroczego lamentu Racheli opłakującej swoje dzieci, które już nie żyją.",
+      "bible": [
+        "Mt 2, 16-18",
+        "Jr 31, 15"
+      ],
+      "text": [
+        "Płacz i krzyk słychać w Rama, aj, aj, aj…",
+        "lament i zawodzenie wielkie,",
+        "to Rachela, która opłakuje swoje dziecii nie chce dać się pocieszyć, bo już ich nie ma.",
+        "O, jakże gorzkie są wody, Maryjo!"
+      ]
+    },
+    {
+      "range": "33-34",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "Skrócona, urwana wersja refrenu Baranko Boża.",
+      "bible": [],
+      "text": [
+        "Baranko Boża …",
+        ""
+      ]
+    },
+    {
+      "range": "35-38",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Anioł Pański",
+        "Józef",
+        "Egipt",
+        "powrót",
+        "Izrael",
+        "Syn Boży",
+        "zapowiedź",
+        "Proroctwo",
+        "Ozeasz",
+        "Wybawienie",
+        "Opatrzność"
+      ],
+      "summary": "Anioł Pański ukazuje się Józefowi w Egipcie i nakazuje powrót do ziemi Izraela, albowiem Bóg wezwał swego Syna z Egiptu.",
+      "bible": [
+        "Mt 2, 19-20",
+        "Oz 11, 1",
+        "Wj 4, 22"
+      ],
+      "text": [
+        "I Anioł Pański ukazał się Józefowi                            w Egipcie, i rzekł mu:",
+        "„Wstań i weź ze sobą Dziecię i Jego Matkę,",
+        "i wróć do ziemi Izraela,",
+        "albowiem z Egiptu wezwałem Mego Syna!”"
+      ]
+    },
+    {
+      "range": "39-42",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Baranko Boża",
+        "pokora",
+        "Matka Jezusa",
+        "Maryja",
+        "orędownictwo",
+        "wstawiennictwo",
+        "modlitwa",
+        "zaufanie",
+        "miłość"
+      ],
+      "summary": "Końcowy refren błagalny wzywający Maryję jako Baranka Bożego do orędownictwa za nami.",
+      "bible": [
+        "J 1, 29",
+        "J 19, 26-27",
+        "Ap 12"
+      ],
+      "text": [
+        "Baranko Boża, pokorna Baranko,",
+        "Ty, która nie opierasz się złu,",
+        "Matko Jezusa i Matko nasza,",
+        "módl się za nami, módl się za nami!"
+      ]
+    },
+    {
+      "range": "1-42",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "Baranko Boża",
+        "Boże Narodzenie",
+        "Jezus Chrystus",
+        "Wcielenie",
+        "orędownictwo",
+        "pokora",
+        "Józef",
+        "ucieczka do Egiptu",
+        "rzeź niewiniątek",
+        "Opatrzność Boża",
+        "zbawienie",
+        "Macierzyństwo",
+        "wiara",
+        "cierpienie",
+        "rodzina"
+      ],
+      "summary": "Pieśń ukazuje sceny z dzieciństwa Jezusa przez pryzmat cichego cierpienia Maryi, wzywanej jako Baranka Bożego do orędownictwa za wiernymi.",
+      "bible": [
+        "Mt 1-2",
+        "Łk 2",
+        "J 1, 29",
+        "Ap 12"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:2cdc370f6ebb1f0774c58a0c0957a1b91180f294efaa88633cbcf856ec55505b",
+  "songs_analysis": [
+    {
+      "range": "1-13",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "język aniołów",
+        "proroctwo",
+        "tajemnica",
+        "wiara",
+        "góry przenosić",
+        "jałmużna",
+        "męczeństwo",
+        "miłość",
+        "nicość",
+        "dary duchowe"
+      ],
+      "summary": "Warunkowe stwierdzenia o bezwartościowości największych charyzmatów i czynów bez miłości, ukazujące jej absolutny prymat w życiu chrześcijańskim.",
+      "bible": [
+        "1 Kor 13, 1-3",
+        "Mt 17, 20"
+      ],
+      "text": [
+        "Gdybym mówił językami aniołów,",
+        "a miłości bym nie miał:",
+        "jestem niczym!",
+        "Gdybym miał dar prorokowania",
+        "i znał wszystkie tajemnice,",
+        "gdybym miał taką wiarę,",
+        "iżbym góry przenosił,",
+        "a miłości bym nie miał:",
+        "jestem niczym!",
+        "Gdybym cały mój majątek rozdał ubogim,",
+        "a ciało wystawił na spalenie,",
+        "lecz miłości bym nie miał:",
+        "jestem niczym!"
+      ]
+    },
+    {
+      "range": "14-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "cierpliwość",
+        "usłużność",
+        "zawiść",
+        "cnota",
+        "doskonałość",
+        "Bóg"
+      ],
+      "summary": "Opis przymiotów miłości: cierpliwość i usłużność jako pierwsze cechy agape, przeciwstawione zawiści.",
+      "bible": [
+        "1 Kor 13, 4"
+      ],
+      "text": [
+        "Albowiem Miłość,",
+        "Miłość,",
+        "Miłość",
+        "jest cierpliwa,",
+        "jest usłużna,",
+        "nie zna zawiści,",
+        ""
+      ]
+    },
+    {
+      "range": "21-30",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "poklask",
+        "pycha",
+        "godność",
+        "korzyść",
+        "gniew",
+        "pamięć złego",
+        "niesprawiedliwość",
+        "prawda",
+        "cnota"
+      ],
+      "summary": "Dalszy opis miłości: wolność od pychy, gniewu i pamiętania złego, radość z prawdy – obraz doskonałej miłości.",
+      "bible": [
+        "1 Kor 13, 4-6"
+      ],
+      "text": [
+        "nie szuka poklasku,",
+        "nie unosi się pychą,",
+        "pełna godności:",
+        "nie szuka własnej korzyści,",
+        "nie unosi się gniewem,",
+        "nie pamięta złego,",
+        "nie pamięta złego,",
+        "nie cieszy się z niesprawiedliwości,",
+        "lecz raduje się prawdą.",
+        ""
+      ]
+    },
+    {
+      "range": "31-36",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "wiara",
+        "ufność",
+        "przebaczenie",
+        "wytrwanie",
+        "nadzieja"
+      ],
+      "summary": "Miłość wierzy, ufa, wybacza i przetrzyma wszystko – jej niezwyciężona siła i wytrwanie.",
+      "bible": [
+        "1 Kor 13, 7",
+        "Rz 8, 38-39"
+      ],
+      "text": [
+        "Wszystkiemu wierzy,",
+        "wszystkiemu ufa,",
+        "wszystko wybacza,",
+        "przetrzyma wszystko,",
+        "przetrzyma wszystko.",
+        ""
+      ]
+    },
+    {
+      "range": "37-42",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "Bóg",
+        "tożsamość",
+        "objawienie",
+        "Bóg jest miłością",
+        "Trójca Święta"
+      ],
+      "summary": "Punkt kulminacyjny: Miłość to Bóg – utożsamienie agape z Osobą Boga, które stanowi teologiczne zwieńczenie całego hymnu.",
+      "bible": [
+        "1 Kor 13, 13",
+        "1 J 4, 8.16"
+      ],
+      "text": [
+        "Albowiem Miłość,",
+        "Miłość,",
+        "albowiem Miłość,",
+        "to Bóg,",
+        "to Bóg,",
+        "to Bóg!"
+      ]
+    },
+    {
+      "range": "1-42",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "Bóg",
+        "agape",
+        "1 Kor 13",
+        "charyzmaty",
+        "cnoty teologalne",
+        "przebaczenie",
+        "cierpliwość",
+        "prawda",
+        "wiara",
+        "nadzieja"
+      ],
+      "summary": "Hymn o miłości oparty na 1 Kor 13, ukazujący prymat agape nad wszelkimi darami duchowymi i utożsamiający miłość z Bogiem.",
+      "bible": [
+        "1 Kor 13, 1-13",
+        "1 J 4, 8.16",
+        "Rz 8, 38-39"
+      ]
+    }
+  ]
+}

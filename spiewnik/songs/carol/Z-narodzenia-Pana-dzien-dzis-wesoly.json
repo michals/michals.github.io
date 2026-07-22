@@ -1,0 +1,221 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:10ff2dad51b0d45367f089e160e51b858ff7cae53960a850eab695bace38a401",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "narodzenie",
+        "Pan",
+        "wesoły",
+        "chwała",
+        "Bóg",
+        "żywioł",
+        "radość",
+        "anioł",
+        "budzić",
+        "pasterz",
+        "Boże Narodzenie",
+        "Jezus Chrystus"
+      ],
+      "summary": "Radosne ogłoszenie dnia narodzenia Pana, któremu chwałę wyśpiewują żywioły, a anioł budzi pasterzy przy dolinie.",
+      "bible": [
+        "Łk 2, 8-14"
+      ],
+      "text": [
+        "Z narodzenia Pana dzień dziś wesoły.",
+        "Wyśpiewują chwałę Bogu żywioły.",
+        "Radość ludzi wszędzie słynie,",
+        "Anioł budzi przy dolinie",
+        "pasterzów, co paśli pod borem woły.",
+        ""
+      ]
+    },
+    {
+      "range": "7-12",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ogień",
+        "obłok",
+        "pasterz",
+        "widok",
+        "świt",
+        "łuna",
+        "cud",
+        "zdumienie"
+      ],
+      "summary": "Nadprzyrodzony ogień spadający z obłoku wśród nocy wprawia pasterzy w zdumienie i rodzi pytania o znaczenie tego niezwykłego zjawiska.",
+      "bible": [
+        "Wj 3, 2",
+        "Łk 2, 9"
+      ],
+      "text": [
+        "Wypada wśród nocy ogień z obłoku,",
+        "dumają pasterze w takim widoku.",
+        "Każdy pyta: Co się dzieje?",
+        "Czy nie świta? Czy nie dnieje?",
+        "Skąd ta łuna bije tak miła oku?!",
+        ""
+      ]
+    },
+    {
+      "range": "13-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "anioł",
+        "głos",
+        "Betlejem",
+        "biec",
+        "witać",
+        "żłób",
+        "Pan",
+        "poklęknąć",
+        "dar",
+        "adoracja",
+        "pokłon"
+      ],
+      "summary": "Pasterze po usłyszeniu anielskich głosów biegną do Betlejem, gdzie witają Pana w żłobie, klękają przed Nim i składają dary.",
+      "bible": [
+        "Łk 2, 15-16"
+      ],
+      "text": [
+        "Ale gdy Anielskie głosy słyszeli,",
+        "zaraz do Betlejem prosto bieżeli.",
+        "Tam witali w żłobie Pana,",
+        "poklękali na kolana",
+        "i oddali dary, co z sobą wzięli.",
+        ""
+      ]
+    },
+    {
+      "range": "19-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "wykrzyknąć",
+        "Jezus",
+        "maleńki",
+        "świat",
+        "wydany",
+        "chwała",
+        "wieczny",
+        "Zbawiciel",
+        "niebo",
+        "zesłać",
+        "adoracja",
+        "uwielbienie"
+      ],
+      "summary": "Okrzyk radości pasterzy na cześć maleńkiego Jezusa, życzenie Mu życia oraz nieustannej chwały jako Zbawiciela zesłanego z nieba.",
+      "bible": [
+        "Łk 2, 14",
+        "Łk 2, 11"
+      ],
+      "text": [
+        "Potem wykrzyknęli w głos, na przemiany,",
+        "żyj, Jezu maleńki, na świat wydany:",
+        "Bądź Ci, Panie, od nas chwała,",
+        "nieustannie wiecznie trwała;",
+        "żyj, żyj, Zbawicielu, z nieba zesłany.",
+        ""
+      ]
+    },
+    {
+      "range": "25-30",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Betlejem",
+        "wesele",
+        "Bóg",
+        "wysłuchać",
+        "prośba",
+        "Izrael",
+        "prorok",
+        "ciało",
+        "Zbawiciel",
+        "Wcielenie",
+        "Mesjasz",
+        "obietnica"
+      ],
+      "summary": "Pasterze odchodzą z Betlejem pełni wesela, ponieważ Bóg wysłuchał próśb Izraela i objawił to, co prorocy pragnęli ujrzeć: Boga i Zbawiciela w ludzkim ciele.",
+      "bible": [
+        "Łk 2, 29-30",
+        "Iz 52, 10",
+        "1 P 1, 10-12"
+      ],
+      "text": [
+        "Odchodząc z Betlejem pełni wesela,",
+        "że już Bóg wysłuchał próśb Izraela,",
+        "gdyż tej nocy to widzieli,",
+        "co Prorocy widzieć chcieli,",
+        "w ciele ludzkim Boga i Zbawiciela.",
+        ""
+      ]
+    },
+    {
+      "range": "31-35",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pastuszek",
+        "radować się",
+        "chwała",
+        "anioł",
+        "wyśpiewywać",
+        "Jezus",
+        "niebo",
+        "niebianin",
+        "serce",
+        "miłować",
+        "zbawienie",
+        "wieczność"
+      ],
+      "summary": "Zaproszenie wiernych do wspólnej radości z pasterzami i aniołami oraz do miłości Jezusa z całego serca, aby dostąpić życia wiecznego w niebie.",
+      "bible": [
+        "Łk 2, 13-14",
+        "Łk 10, 27"
+      ],
+      "text": [
+        "I my z pastuszkami dziś się radujmy,",
+        "chwałę z Aniołami wraz wyśpiewujmy,",
+        "bo ten Jezus z nieba dany,",
+        "weźmie nas między niebiany,",
+        "tylko Go z całego serca miłujmy."
+      ]
+    },
+    {
+      "range": "1-35",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "narodzenie",
+        "Pan",
+        "pasterz",
+        "Betlejem",
+        "radość",
+        "anioł",
+        "chwała",
+        "Jezus Chrystus",
+        "Zbawiciel",
+        "Bóg",
+        "prorok",
+        "Wcielenie",
+        "niebo",
+        "miłość",
+        "Boże Narodzenie",
+        "Mesjasz"
+      ],
+      "summary": "Radosna kolęda opowiadająca historię zwiastowania pasterzom i ich pokłonu nowonarodzonemu Zbawicielowi. Pieśń podkreśla wypełnienie proroctw Starego Testamentu (prorocy pragnęli ujrzeć Boga w ciele) i zaprasza wiernych do radości, uwielbienia i miłości, która prowadzi do nieba.",
+      "bible": [
+        "Łk 2, 8-20",
+        "Łk 2, 29-30",
+        "Iz 52, 10",
+        "1 P 1, 10-12"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:09df8c6d19665584b0342634c13199cd43fef08572395df35324a9e5ef0f3c5e",
+  "songs_analysis": [
+    {
+      "range": "1-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "łaska",
+        "pełny",
+        "Pan",
+        "błogosławiona",
+        "niewiasta",
+        "błogosławiony",
+        "owoc",
+        "łono",
+        "Jezus"
+      ],
+      "summary": "Pozdrowienie anielskie z Łk 1, 28 i Elżbiety z Łk 1, 42: Maryja pełna łaski, błogosławiona między niewiastami, a Jezus jest błogosławionym owocem Jej łona.",
+      "bible": [
+        "Łk 1, 28",
+        "Łk 1, 42",
+        "Rdz 3, 15"
+      ],
+      "text": [
+        "Zdrowaś Maryjo,",
+        "łaski pełna,",
+        "Pan jest z Tobą!",
+        "Błogosławionaś Ty",
+        "między niewiastami",
+        "i błogosławiony owoc",
+        "łona Twego Jezus.",
+        ""
+      ]
+    },
+    {
+      "range": "9-14",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "święta",
+        "Maryja",
+        "Matka",
+        "Bóg",
+        "modlić się",
+        "grzesznik",
+        "teraźniejszość",
+        "godzina",
+        "śmierć",
+        "wstawiennictwo"
+      ],
+      "summary": "Prośba do Maryi, Matki Boga, o wstawiennictwo teraz i w godzinę śmierci.",
+      "bible": [
+        "J 19, 26-27",
+        "Ap 12, 1"
+      ],
+      "text": [
+        "Święta Maryjo,",
+        "Matko Boga,",
+        "módl się za nami,",
+        "bo jesteśmy grzesznikami;",
+        "módl się teraz",
+        "i w godzinę naszej śmierci."
+      ]
+    },
+    {
+      "range": "15-15",
+      "type": "zakończenie",
+      "sentiment": "neutralny",
+      "keywords": [
+        "amen"
+      ],
+      "summary": "Potrójne Amen jako potwierdzenie modlitwy.",
+      "bible": [],
+      "text": [
+        "Amen, amen, amen."
+      ]
+    },
+    {
+      "range": "1-15",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "łaska",
+        "Pan",
+        "błogosławiony",
+        "niewiasta",
+        "Jezus",
+        "owoc",
+        "łono",
+        "święty",
+        "Matka",
+        "Bóg",
+        "modlić się",
+        "grzesznik",
+        "śmierć",
+        "godzina",
+        "wstawiennictwo",
+        "amen",
+        "pozdrowienie"
+      ],
+      "summary": "Pieśń będąca muzyczną formą modlitwy Zdrowaś Maryjo, łącząca pozdrowienie biblijne z prośbą o wstawiennictwo Matki Bożej, Nowej Ewy i Arki Przymierza.",
+      "bible": [
+        "Łk 1, 28-42",
+        "Rdz 3, 15",
+        "J 19, 26-27",
+        "Ap 11, 19-12, 1"
+      ]
+    }
+  ]
+}

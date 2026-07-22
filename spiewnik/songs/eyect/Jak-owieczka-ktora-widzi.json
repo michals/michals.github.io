@@ -1,0 +1,222 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:15a992026bbe1bf6f135b12ed4dcf23bf80f8dc5caa7f0cb8a6a1327fd3cdd7a",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "owieczka",
+        "baranek",
+        "Maryja",
+        "Syn",
+        "ból",
+        "życie",
+        "Jezus",
+        "matka",
+        "ofiara",
+        "prowadzić",
+        "rzeź",
+        "przemijanie"
+      ],
+      "summary": "Maryja jako Mater Dolorosa podąża za Synem prowadzonym na śmierć jak jagnię na rzeź, wyrażając ból i niezrozumienie wobec przedwczesnego kresu Jego życia.",
+      "bible": [
+        "Iz 53,7",
+        "Łk 2,35",
+        "J 19,25-27"
+      ],
+      "text": [
+        "Jak owieczka, która widzi, jak prowadzą jej jagniątko na rzeź,",
+        "Maryja szła za Nim przeszyta bólem.",
+        "I mówiła: „gdzie cię prowadzą Synu mój?",
+        "Dlaczego tak wcześnie kończy się bieg Twojego życia?",
+        "Mów do mnie, nie omijaj mnie, proszę, bez słowa."
+      ]
+    },
+    {
+      "range": "6",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Syn",
+        "Bóg",
+        "Jezus",
+        "Maryja",
+        "wołanie"
+      ],
+      "summary": "Refreniczne wołanie Maryi 'Synu mój i Boże mój' łączące macierzyństwo z wyznaniem boskości Chrystusa, nawiązujące do wyznania Tomasza.",
+      "bible": [
+        "J 20,28"
+      ],
+      "text": [
+        "Synu mój, Synu mój i Boże mój."
+      ]
+    },
+    {
+      "range": "7-12",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "nienawiść",
+        "wściekłość",
+        "niesprawiedliwość",
+        "więzić",
+        "światłość",
+        "krzyż",
+        "Jezus",
+        "cierpienie",
+        "męka",
+        "pojmanie",
+        "zło"
+      ],
+      "summary": "Maryja wyraża niedowierzanie wobec skrajnej nienawiści i niesprawiedliwości, jakiej doświadcza Jej Syn, oraz ból z powodu gaszenia Światłości świata.",
+      "bible": [
+        "Iz 53,3-7",
+        "Mt 27,27-31",
+        "J 1,5",
+        "J 8,12"
+      ],
+      "text": [
+        "Nigdy bym sobie nie wyobraziła, że zobaczę Cię w tym stanie.",
+        "Nigdy bym nie uwierzyła, że dojdą aż do takiej nienawiści i wściekłości,",
+        "by więzić Ciebie wbrew wszelkiej sprawiedliwości.",
+        "Chciałabym zrozumieć, o ja biedna!",
+        "Jak to możliwe, że gaszona jest światłość?",
+        "jak to możliwe, że przybijają Cię do krzyża?"
+      ]
+    },
+    {
+      "range": "13",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Syn",
+        "Bóg",
+        "Jezus",
+        "Maryja",
+        "wołanie"
+      ],
+      "summary": "Powtórzenie refrenu jako kulminacja lamentu Maryi przed odpowiedzią Jezusa.",
+      "bible": [
+        "J 20,28"
+      ],
+      "text": [
+        "Synu mój, Synu mój i Boże mój.”"
+      ]
+    },
+    {
+      "range": "14-19",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "cierpienie",
+        "śmierć",
+        "zbawienie",
+        "Adam",
+        "Ewa",
+        "zmartwychwstanie",
+        "Jezus",
+        "odkupienie",
+        "grzech pierworodny",
+        "krzyż"
+      ],
+      "summary": "Jezus wyjaśnia Matce soteriologiczną konieczność swojej męki: bez krzyża nie ma zbawienia Adama ani zmartwychwstania Ewy; cierpienie odkupieńcze jako remedium na grzech pierworodny.",
+      "bible": [
+        "Rz 5,12-21",
+        "1 Kor 15,21-22",
+        "Rdz 3,15",
+        "Rdz 3,20"
+      ],
+      "text": [
+        "„Czemu płaczesz, czemu płaczesz Matko moja?",
+        "Czemu płaczesz, czemu płaczesz Matko moja?",
+        "Czy nie miałbym cierpieć?",
+        "Czy nie muszę umrzeć?",
+        "Jak zatem mógłbym zbawić Adama?",
+        "Jak mogłabyś ujrzeć Ewę, która powraca do życia?”"
+      ]
+    },
+    {
+      "range": "20",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Syn",
+        "Bóg",
+        "Jezus",
+        "Maryja",
+        "wołanie"
+      ],
+      "summary": "Końcowe powtórzenie refrenu po odpowiedzi Jezusa, wyrażające ciche przyjęcie Jego woli.",
+      "bible": [
+        "J 20,28"
+      ],
+      "text": [
+        "Synu mój, Synu mój i Boże mój."
+      ]
+    },
+    {
+      "range": "21",
+      "type": "zakończenie",
+      "sentiment": "pokutny",
+      "keywords": [
+        "owieczka",
+        "baranek",
+        "ofiara",
+        "Jezus",
+        "niewinność",
+        "krąg"
+      ],
+      "summary": "Niedokończony incipit 'Jak owieczka' kieruje uwagę z powrotem na obraz baranka ofiarnego, zamykając kompozycyjny krąg i zapraszając do ponownej medytacji nad męką.",
+      "bible": [
+        "Iz 53,7",
+        "J 1,29",
+        "1 P 1,19"
+      ],
+      "text": [
+        "Jak owieczka, …"
+      ]
+    },
+    {
+      "range": "1-21",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Maryja",
+        "Jezus Chrystus",
+        "męka",
+        "krzyż",
+        "zbawienie",
+        "cierpienie",
+        "Syn Boży",
+        "Matka Bolesna",
+        "odkupienie",
+        "lament",
+        "ofiara",
+        "Baranek",
+        "Adam",
+        "Ewa",
+        "niesprawiedliwość",
+        "śmierć",
+        "zmartwychwstanie",
+        "grzech",
+        "ból",
+        "niewinność",
+        "dialog"
+      ],
+      "summary": "Dialog Maryi z Jezusem w kontekście drogi krzyżowej. Maryja wyraża macierzyński ból i niezrozumienie, a Jezus wyjaśnia odkupieńczą konieczność swojej śmierci dla zbawienia Adama i Ewy. Pieśń osadzona w tradycji Stabat Mater, łącząca lamentację z teologią odkupienia.",
+      "bible": [
+        "Iz 53,7",
+        "Łk 2,35",
+        "J 19,25-27",
+        "J 20,28",
+        "Rz 5,12-21",
+        "1 Kor 15,21-22",
+        "Rdz 3,15",
+        "J 1,29",
+        "Mt 27,27-31"
+      ]
+    }
+  ]
+}

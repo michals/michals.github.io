@@ -1,0 +1,225 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:0f3ea0b7d07ec1265bc1a4e238f0eb23fe8b6cfcf7d70d0f2400bcfe30fb7676",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "Szlom",
+        "pokój",
+        "Maryja",
+        "łaska",
+        "Pan",
+        "Ave Maryja",
+        "aramejski",
+        "pozdrowienie anielskie"
+      ],
+      "summary": "Aramejskie pozdrowienie 'Pokój tobie Maryjo, pełna łaski, Pan z Tobą' – nawiązanie do Zwiastowania w języku ojczystym Maryi.",
+      "bible": [
+        "Łk 1, 28"
+      ],
+      "text": [
+        "Szlom lech Mariám",
+        "Maliat tai buta",
+        "Marán, Marán améch",
+        "Marán, Marán améch."
+      ]
+    },
+    {
+      "range": "5-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Zdrowaś Maryjo",
+        "łaska",
+        "Pan",
+        "błogosławiona",
+        "niewiasty",
+        "owoc łona",
+        "Jezus",
+        "Zwiastowanie",
+        "błogosławieństwo"
+      ],
+      "summary": "Pozdrowienie anielskie: Maryja pełna łaski, błogosławiona między niewiastami, a Jezus błogosławionym owocem Jej łona.",
+      "bible": [
+        "Łk 1, 28-42"
+      ],
+      "text": [
+        "",
+        "Zdrowaś Maryjo,",
+        "pełna łaski,",
+        "Pan, Pan jest z Tobą.",
+        "Błogosławionaś Ty między niewiastami",
+        "i błogosławiony owoc łona Twego, Jezus."
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "święta Maryja",
+        "Matka Boga",
+        "modlitwa",
+        "wstawiennictwo",
+        "grzesznicy",
+        "miłosierdzie",
+        "orędownictwo"
+      ],
+      "summary": "Wezwanie do Maryi jako Świętej i Matki Boga z prośbą o orędownictwo za grzesznikami.",
+      "bible": [
+        "Łk 1, 43",
+        "J 2, 1-5"
+      ],
+      "text": [
+        "",
+        "Święta, święta Maryjo,",
+        "Matko, Matko Boga,",
+        "módl się, módl się za nami,",
+        "bo jesteśmy, bo jesteśmy grzesznikami."
+      ]
+    },
+    {
+      "range": "16-18",
+      "type": "fragment",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Maryja",
+        "nie płacz",
+        "pocieszenie",
+        "ból",
+        "Męka"
+      ],
+      "summary": "Krótkie, powtarzalne wezwanie 'Maryjo, nie płacz' – echo bólu Maryi pod krzyżem i wezwanie do ufności.",
+      "bible": [
+        "J 19, 26-27"
+      ],
+      "text": [
+        "",
+        "Maryjo, nie płacz,",
+        "Maryjo, Maryjo, Maryjo. "
+      ]
+    },
+    {
+      "range": "19-23",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "święta Maryja",
+        "Matka Boga",
+        "modlitwa",
+        "wstawiennictwo",
+        "grzesznicy",
+        "miłosierdzie"
+      ],
+      "summary": "Powtórne wezwanie do Maryi jako Świętej i Matki Boga z prośbą o modlitwę za grzeszników.",
+      "bible": [
+        "Łk 1, 43",
+        "1 Tm 2, 1"
+      ],
+      "text": [
+        "",
+        "Święta, święta Maryjo,",
+        "Matko, Matko Boga,",
+        "módl się, módl się za nami,",
+        "bo jesteśmy, bo jesteśmy grzesznikami."
+      ]
+    },
+    {
+      "range": "24-29",
+      "type": "zakończenie",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "Dziewica",
+        "dopomóż",
+        "Słowo Boże",
+        "wypełnienie",
+        "wstawiennictwo",
+        "zgoda z wolą Bożą",
+        "fiat"
+      ],
+      "summary": "Błagalna prośba do Dziewicy Maryi o pomoc i wstawiennictwo, aby Słowo Boże wypełniło się w nas – echo Jej fiat.",
+      "bible": [
+        "Łk 1, 38",
+        "J 2, 5",
+        "Łk 1, 28"
+      ],
+      "text": [
+        "",
+        "Maryjo, dopomóż nam,",
+        "Maryjo, dopomóż nam,",
+        "Dziewico Maryjo, dopomóż nam,",
+        "Dziewico Maryjo,",
+        "niech wypełnia się w nas Jego Słowo."
+      ]
+    },
+    {
+      "range": "30-33",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Szlom",
+        "pokój",
+        "Maryja",
+        "łaska",
+        "Pan",
+        "aramejski",
+        "inkluzja",
+        "błogosławieństwo"
+      ],
+      "summary": "Powrót do aramejskiego incipitu jako inkluzja – 'Pokój tobie Maryjo, pełna łaski, Pan z Tobą' zamyka pieśń.",
+      "bible": [
+        "Łk 1, 28"
+      ],
+      "text": [
+        "Szlom lech Mariám",
+        "Maliat tai buta",
+        "Marán, Marán améch",
+        "Marán, Marán améch."
+      ]
+    },
+    {
+      "range": "1-33",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "Matka Boga",
+        "pokój",
+        "Szlom",
+        "łaska",
+        "Pan",
+        "Jezus",
+        "błogosławieństwo",
+        "Zwiastowanie",
+        "wstawiennictwo",
+        "grzesznicy",
+        "modlitwa",
+        "Dziewica",
+        "Słowo Boże",
+        "fiat",
+        "orędownictwo",
+        "miłosierdzie",
+        "Amen",
+        "nadzieja",
+        "Ave Maryja",
+        "aramejski",
+        "pozdrowienie",
+        "owoc łona",
+        "niewiasty",
+        "Matka Kościoła"
+      ],
+      "summary": "Pieśń maryjna przeplatana aramejskim pozdrowieniem anielskim, polskim Zdrowaś Maryjo oraz wezwaniami do Matki Boga o wstawiennictwo. Łączy radość Zwiastowania z pokorną prośbą grzeszników o orędownictwo i wypełnienie się Słowa Bożego w życiu wiernych.",
+      "bible": [
+        "Łk 1, 28-42",
+        "J 2, 1-5",
+        "J 19, 26-27",
+        "Łk 1, 38",
+        "1 Tm 2, 1"
+      ]
+    }
+  ]
+}

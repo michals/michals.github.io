@@ -1,0 +1,232 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:ce880ec3773b821f3cf320d0ee6071a5accbac50fd2bd9ca250e140a21f40777",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "żłób",
+        "Dzieciątko Jezus",
+        "niebo",
+        "ubóstwo",
+        "Wcielenie",
+        "pokora",
+        "Majestat Boży",
+        "adoracja"
+      ],
+      "summary": "Pełne zdumienia i radości spojrzenie na żłób, w którym kryje się Bóg — większy niż niebo, objawiony w maleńkiej osobie Jezusa.",
+      "bible": [
+        "Łk 2, 16",
+        "Flp 2, 6-7",
+        "2 Kor 8, 9"
+      ],
+      "text": [
+        "Ach, ubogi żłobie,",
+        "cóż ja widzę w tobie?",
+        "Droższy widok, niż ma niebo,",
+        "w maleńkiej osobie.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Zbawiciel",
+        "ubóstwo",
+        "niebo",
+        "barłóg",
+        "Wcielenie",
+        "kenoza",
+        "Jezus Chrystus",
+        "ogołocenie"
+      ],
+      "summary": "Refleksja nad kenozą Zbawiciela, który dobrowolnie opuścił niebo i wybrał barłóg, ukazując bezmiar Bożej miłości.",
+      "bible": [
+        "Flp 2, 7",
+        "2 Kor 8, 9",
+        "Łk 2, 7"
+      ],
+      "text": [
+        "Zbawicielu drogi,",
+        "takżeś to ubogi!",
+        "Opuściłeś śliczne niebo,",
+        "obrałeś barłogi.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "pałac",
+        "żłób",
+        "ozdoba",
+        "Wcielenie",
+        "uniżenie",
+        "Jezus Chrystus",
+        "Król",
+        "wybór"
+      ],
+      "summary": "Pytanie retoryczne uwydatniające paradoks Wcielenia: Bóg wszechmocny świadomie wybrał ubóstwo i poniżenie zamiast królewskiego przepychu.",
+      "bible": [
+        "J 18, 36",
+        "Iz 53, 2",
+        "Łk 2, 12"
+      ],
+      "text": [
+        "Czyżeś nie mógł sobie,",
+        "w największej ozdobie",
+        "obrać pałacu drogiego,",
+        "nie w tym leżeć żłobie?",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "świat",
+        "grzech",
+        "odkupienie",
+        "łza",
+        "zbawienie",
+        "pokuta",
+        "Jezus Chrystus",
+        "oczyszczenie"
+      ],
+      "summary": "Zapowiedź odkupieńczej misji Chrystusa, który od narodzenia podejmuje cierpienie, aby zmyć grzechy świata.",
+      "bible": [
+        "J 1, 29",
+        "1 J 2, 2",
+        "Ps 51, 9"
+      ],
+      "text": [
+        "Gdy na świat przybywasz,",
+        "grzechy z niego zmywasz;",
+        "A na zmycie tej sprosności",
+        "gorzkie łzy wylewasz.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "żal",
+        "łza",
+        "współczucie",
+        "grzech",
+        "skrucha",
+        "Jezus Chrystus",
+        "Męka Pańska",
+        "kompuncja"
+      ],
+      "summary": "Wezwanie do głębokiego żalu i współodczuwania z płaczącym Zbawicielem, którego łzy zapowiadają mękę za ludzkie grzechy.",
+      "bible": [
+        "Za 12, 10",
+        "Łk 23, 27-28",
+        "J 11, 35"
+      ],
+      "text": [
+        "Któż tu nie struchleje,",
+        "wszystek nie zdrętwieje?",
+        "Któż Cię widząc płaczącego",
+        "łzą się nie zaleje?",
+        ""
+      ]
+    },
+    {
+      "range": "26-30",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "adoracja",
+        "stajenka",
+        "pokłon",
+        "hołd",
+        "Jezus Chrystus",
+        "Boże Narodzenie",
+        "bydlęta",
+        "uwielbienie"
+      ],
+      "summary": "Wyraz najwyższej adoracji i hołdu oddawanego nowonarodzonemu Królowi w stajence, wypełniający zapowiedź pokłonu wszelkiego stworzenia.",
+      "bible": [
+        "Ps 95, 6",
+        "Mt 2, 11",
+        "Iz 1, 3",
+        "Flp 2, 10"
+      ],
+      "text": [
+        "Na twarz upadamy,",
+        "czołem uderzamy,",
+        "witając Cię w tej stajence",
+        "między bydlętami.",
+        ""
+      ]
+    },
+    {
+      "range": "31-34",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "miłosierdzie",
+        "grzech",
+        "łza",
+        "serce",
+        "skrucha",
+        "ofiara",
+        "prośba",
+        "Jezus Chrystus"
+      ],
+      "summary": "Błagalna prośba o miłosierdzie, odpuszczenie grzechów i łaskawe przyjęcie skruszonych serc jako duchowej ofiary składanej Zbawicielowi.",
+      "bible": [
+        "Ps 51, 3",
+        "Ps 51, 19",
+        "Łk 18, 13"
+      ],
+      "text": [
+        "Zmiłuj się nad nami,",
+        "obmyj z grzechów łzami,",
+        "przyjmij serca te skruszone,",
+        "które Ci składamy."
+      ]
+    },
+    {
+      "range": "1-34",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Wcielenie",
+        "Boże Narodzenie",
+        "Jezus Chrystus",
+        "żłób",
+        "ubóstwo",
+        "zbawienie",
+        "grzech",
+        "odkupienie",
+        "adoracja",
+        "miłosierdzie",
+        "kenoza",
+        "pokora",
+        "Męka Pańska",
+        "skrucha"
+      ],
+      "summary": "Kolęda kontemplująca paradoks Wcielenia: Bóg Wszechmogący rodzi się w ubogim żłobie, by zbawić człowieka. Łączy radość z adoracją, pokutnym żalem i błaganiem o miłosierdzie, ukazując pełną zbawczą misję Chrystusa od żłóba po krzyż.",
+      "bible": [
+        "Łk 2, 7.12.16",
+        "Flp 2, 6-7",
+        "J 1, 29",
+        "Ps 51",
+        "Mt 2, 11",
+        "Iz 1, 3"
+      ]
+    }
+  ]
+}

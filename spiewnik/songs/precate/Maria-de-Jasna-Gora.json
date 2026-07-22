@@ -1,0 +1,266 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:d1205544c7ce6bc8495cac6458654163eca2f8a3f1a4066f2bacf84336b55942",
+  "songs_analysis": [
+    {
+      "range": "1",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "2-6",
+      "bible": [],
+      "text": [
+        "KpW:"
+      ]
+    },
+    {
+      "range": "2-7",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maria",
+        "Jasna Góra",
+        "Matka ukryta",
+        "troskliwość",
+        "Matka Odkupiciela",
+        "modlitwa",
+        "wstawiennictwo",
+        "Maryja"
+      ],
+      "summary": "Refren łaciński: 'Maria z Jasnej Góry, Matko ukryta, a zawsze troskliwa, Ty, Matko Odkupiciela, módl się za nami.' Inwokacja do Maryi jako Matki Odkupiciela i wstawienniczki wiernych.",
+      "bible": [
+        "J 2, 1-5",
+        "J 19, 26-27"
+      ],
+      "text": [
+        "Maria de Jasna Góra,",
+        "Mater abscondita,",
+        "at semper sollicita,",
+        "Tu, Redemptoris Mater,",
+        "ora pro nobis.",
+        ""
+      ]
+    },
+    {
+      "range": "8-13",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "Jasna Góra",
+        "Matka ukryta",
+        "troskliwość",
+        "Matka Odkupiciela",
+        "modlitwa",
+        "wstawiennictwo",
+        "polska",
+        "przekład"
+      ],
+      "summary": "Polskie tłumaczenie refrenu – ta sama inwokacja do Maryi z Jasnej Góry jako Matki ukrytej i troskliwej, wstawiającej się za wiernymi.",
+      "bible": [],
+      "text": [
+        "Maryjo z Jasnej Góry,",
+        "Matko ukryta,",
+        "a zawsze troskliwa,",
+        "Ty, Matko Odkupiciela",
+        "módl się za nami.",
+        ""
+      ]
+    },
+    {
+      "range": "14-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Debora",
+        "Judyta",
+        "Anna",
+        "Estera",
+        "powstanie",
+        "zbawienie",
+        "śpiew",
+        "wstawiennictwo",
+        "Maryja",
+        "niewiasta",
+        "typologia",
+        "Stary Testament"
+      ],
+      "summary": "Wezwanie Maryi, by powstała jak Debora (sędzia), zbawiła jak Judyta, śpiewała jak Anna (matka Samuela) i wstawiała się jak Estera. Typologia biblijnych niewiast Starego Testamentu jako zapowiedź Maryi.",
+      "bible": [
+        "Sdz 4-5",
+        "Jdt 13",
+        "1 Sm 1-2",
+        "Est 7-8"
+      ],
+      "text": [
+        "Powstań,",
+        "tak jak Debora,",
+        "zbaw nas, tak jak Judyta,",
+        "śpiewaj dla nas, tak jak Anna,",
+        "wstaw się za nami jak Estera."
+      ]
+    },
+    {
+      "range": "19-24",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maria",
+        "Jasna Góra",
+        "Matka ukryta",
+        "troskliwość",
+        "Matka Odkupiciela",
+        "modlitwa",
+        "wstawiennictwo"
+      ],
+      "summary": "Powtórzenie refrenu łacińskiego – ponowna prośba o wstawiennictwo Maryi.",
+      "bible": [
+        "J 2, 1-5"
+      ],
+      "text": [
+        "Maria de Jasna Góra,",
+        "Mater abscondita",
+        "at semper sollicita,",
+        "Tu, Redemptoris Mater,",
+        "ora pro nobis.",
+        ""
+      ]
+    },
+    {
+      "range": "25-30",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "Jasna Góra",
+        "Matka ukryta",
+        "troskliwość",
+        "Matka Odkupiciela",
+        "modlitwa",
+        "wstawiennictwo"
+      ],
+      "summary": "Powtórzenie polskiej zwrotki – kolejna inwokacja do Maryi jako Matki Odkupiciela.",
+      "bible": [],
+      "text": [
+        "Maryjo z Jasnej Góry,",
+        "Matko ukryta,",
+        "a zawsze troskliwa,",
+        "Ty, Matko Odkupiciela,",
+        "módl się za nami.",
+        ""
+      ]
+    },
+    {
+      "range": "31-36",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Niewiasta niebieska",
+        "nauka",
+        "chód",
+        "ślad Chrystusa",
+        "Sługa",
+        "pokora",
+        "Syn",
+        "Matka",
+        "Dziewica",
+        "Maryja",
+        "uczestnictwo",
+        "naśladowanie"
+      ],
+      "summary": "Prośba do Maryi jako Niewiasty niebieskiej, by uczyła chodzić śladami Chrystusa – Sługi pokornego. Maryja jako wzór pokornej Matki i Dziewicy oraz przewodniczka na drodze naśladowania Chrystusa.",
+      "bible": [
+        "Flp 2, 5-8",
+        "Łk 1, 38",
+        "J 19, 25-27"
+      ],
+      "text": [
+        "Niewiasto niebieska,",
+        "naucz nas chodzić śladami Chrystusa,",
+        "śladami (świętego) Sługi,",
+        "pokornego Syna,",
+        "pokornej Matki,",
+        "zawsze Dziewicy Maryi."
+      ]
+    },
+    {
+      "range": "37-42",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maria",
+        "Jasna Góra",
+        "Matka ukryta",
+        "troskliwość",
+        "Matka Odkupiciela",
+        "modlitwa",
+        "wstawiennictwo"
+      ],
+      "summary": "Trzecie powtórzenie refrenu łacińskiego – trwała modlitwa wstawiennicza do Matki Bożej.",
+      "bible": [],
+      "text": [
+        "Maria de Jasna Góra,",
+        "Mater abscondita",
+        "at semper sollicita,",
+        "Tu, Redemptoris Mater,",
+        "ora pro nobis.",
+        ""
+      ]
+    },
+    {
+      "range": "43-47",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "Jasna Góra",
+        "Matka ukryta",
+        "troskliwość",
+        "Matka Odkupiciela",
+        "modlitwa",
+        "wstawiennictwo"
+      ],
+      "summary": "Końcowe polskie wezwanie do Maryi z Jasnej Góry – zamknięcie pieśni modlitwą 'módl się za nami'.",
+      "bible": [],
+      "text": [
+        "Maryjo z Jasnej Góry,",
+        "Matko ukryta,",
+        "a zawsze troskliwa,",
+        "Ty, Matko Odkupiciela",
+        "módl się za nami."
+      ]
+    },
+    {
+      "range": "1-47",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Jasna Góra",
+        "Matka Boża",
+        "Matka Odkupiciela",
+        "wstawiennictwo",
+        "Debora",
+        "Judyta",
+        "Anna",
+        "Estera",
+        "typologia",
+        "pokora",
+        "naśladowanie",
+        "niewiasta",
+        "kult maryjny",
+        "ora pro nobis"
+      ],
+      "summary": "Pieśń maryjna ku czci Matki Bożej Jasnogórskiej, łącząca refren łaciński i polski jako inwokację 'Maria de Jasna Góra, Mater abscondita, ora pro nobis'. Centralna typologia czterech biblijnych niewiast (Debora, Judyta, Anna, Estera) wskazuje na Maryję jako ich wypełnienie. Końcowa zwrotka wzywa do naśladowania Chrystusa śladami Sługi pokornego pod przewodnictwem Maryi.",
+      "bible": [
+        "Sdz 4-5",
+        "Jdt 13",
+        "1 Sm 1-2",
+        "Est 7-8",
+        "J 2, 1-5",
+        "J 19, 25-27",
+        "Flp 2, 5-8"
+      ]
+    }
+  ]
+}

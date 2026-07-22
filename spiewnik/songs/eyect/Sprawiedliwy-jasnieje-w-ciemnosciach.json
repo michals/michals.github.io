@@ -1,0 +1,168 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:8b73f7864dc5e4da239c9f6977b91b6c8ba113da2bbb86966d2167b53964668e",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "sprawiedliwy",
+        "światło",
+        "ciemność",
+        "prawy",
+        "łagodność",
+        "miłosierdzie",
+        "Bóg"
+      ],
+      "summary": "Sprawiedliwy jaśnieje w ciemnościach jak światło dla prawych, odzwierciedlając Boże przymioty: łagodność, miłosierdzie i sprawiedliwość.",
+      "bible": [
+        "Ps 112,4",
+        "Mt 5,14-16",
+        "J 8,12"
+      ],
+      "text": [
+        "Sprawiedliwy jaśnieje w ciemnościach",
+        "jak światło dla prawych, jak światło dla prawych.",
+        "",
+        "On wschodzi w ciemnościach",
+        "jak światło dla prawych,",
+        "łagodny, miłosierny i sprawiedliwy.",
+        ""
+      ]
+    },
+    {
+      "range": "8-17",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "człowiek",
+        "litość",
+        "pożyczka",
+        "uczciwość",
+        "sprawiedliwy",
+        "zachwianie",
+        "pamięć",
+        "nowina",
+        "serce",
+        "ufność",
+        "Pan"
+      ],
+      "summary": "Błogosławieństwo człowieka sprawiedliwego, który pożycza z litości, zarządza uczciwie, nie lęka się złej nowiny i ufa Panu – jego sprawiedliwość trwa na wieki.",
+      "bible": [
+        "Ps 112,5-8a",
+        "Prz 19,17",
+        "Mt 5,42"
+      ],
+      "text": [
+        "Dobrze się wiedzie człowiekowi,który z litości pożycza, pożycza pieniądze,",
+        "i swymi sprawami zarządza uczciwie.",
+        "Sprawiedliwy jaśnieje w ciemnościach",
+        "jak światło dla prawych, jak światło dla prawych.",
+        "Sprawiedliwy nigdy się nie zachwieje",
+        "i pozostanie w wiecznej pamięci.",
+        "Nie przelęknie się złej nowiny,",
+        "jego mocne serce zaufało Panu.",
+        "Nie przelęknie się złej nowiny,",
+        "jego mocne serce zaufało Panu."
+      ]
+    },
+    {
+      "range": "18-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "serce",
+        "wierność",
+        "lęk",
+        "rozdawanie",
+        "ubogi",
+        "sprawiedliwość",
+        "chwała",
+        "potęga"
+      ],
+      "summary": "Sprawiedliwy rozdaje ubogim, jego wierne serce się nie lęka, a jego sprawiedliwość i potęga zostaną wywyższone z chwałą.",
+      "bible": [
+        "Ps 112,9",
+        "2 Kor 9,9"
+      ],
+      "text": [
+        "Sprawiedliwy jaśnieje w ciemnościach",
+        "jak światło dla prawych, jak światło dla prawych.",
+        "Jego wierne serce lękać się nie będzie.",
+        "Rozdaje i obdarza ubogich;",
+        "jego sprawiedliwość będzie trwała zawsze,",
+        "wywyższona z chwałą będzie jego potęga.",
+        ""
+      ]
+    },
+    {
+      "range": "25-40",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "sprawiedliwy",
+        "światło",
+        "prawy",
+        "łagodność",
+        "miłosierdzie",
+        "litość",
+        "pamięć",
+        "ufność",
+        "Pan",
+        "chwała"
+      ],
+      "summary": "Kumulacyjne podsumowanie: sprawiedliwy jaśnieje w ciemnościach, trwa w wiecznej pamięci, nie lęka się, ufa Panu, a jego potęga zostanie wywyższona.",
+      "bible": [
+        "Ps 112,4-9",
+        "Prz 10,7",
+        "Mt 25,31-46"
+      ],
+      "text": [
+        "Sprawiedliwy jaśnieje w ciemnościach",
+        "jak światło dla prawych, jak światło dla prawych.",
+        "On wschodzi w ciemnościach                              jak światło dla prawych,",
+        "łagodny, miłosierny i sprawiedliwy.",
+        "Dobrze się wiedzie człowiekowi,                           który z litości pożycza,",
+        "on nigdy, przenigdy się nie zachwieje.",
+        "Dobrze się wiedzie człowiekowi,                           który z litości pożycza,",
+        "on nigdy, przenigdy się nie zachwieje",
+        "Pozostanie w wiecznej pamięci",
+        "i nigdy się nie zachwieje.",
+        "Nie przelęknie się złej nowiny,",
+        "bo mocno zaufał Panu.",
+        "Nie przelęknie się złej nowiny,",
+        "bo mocno zaufał Panu.",
+        "Sprawiedliwy jaśnieje w ciemnościach",
+        "jak światło dla prawych, jak światło dla prawych."
+      ]
+    },
+    {
+      "range": "1-40",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "sprawiedliwy",
+        "światło",
+        "ciemność",
+        "prawy",
+        "ufność",
+        "Pan",
+        "miłosierdzie",
+        "litość",
+        "ubogi",
+        "pamięć",
+        "chwała",
+        "błogosławieństwo"
+      ],
+      "summary": "Parafraza Psalmu 112,4-9 – pochwała człowieka sprawiedliwego, który jak światło jaśnieje w ciemnościach dzięki ufności w Panu, żyje miłosierdziem i litością wobec ubogich, nie lęka się złych nowin i pozostaje w wiecznej pamięci.",
+      "bible": [
+        "Ps 112,4-9",
+        "Mt 5,14-16",
+        "Mt 25,31-46",
+        "2 Kor 9,9",
+        "J 8,12"
+      ]
+    }
+  ]
+}

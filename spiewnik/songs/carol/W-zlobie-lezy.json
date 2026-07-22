@@ -1,0 +1,312 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:7cbc08629ca64ef34dde527931aeca1896bf57102d7d3eece31ef4b0b9f8587d",
+  "songs_analysis": [
+    {
+      "range": "1-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "żłób",
+        "leżeć",
+        "kolędować",
+        "Jezus Chrystus",
+        "narodzić się",
+        "pasterz",
+        "przybywać",
+        "przygrywać",
+        "Pan",
+        "Boże Narodzenie"
+      ],
+      "summary": "Wezwanie pastuszków do przybycia i kolędowania nowonarodzonemu Jezusowi Chrystusowi leżącemu w żłobie.",
+      "bible": [
+        "Łk 2, 15-16"
+      ],
+      "text": [
+        "W żłobie leży, któż pobieży,",
+        "Kolędować Małemu",
+        "Jezusowi Chrystusowi",
+        "Dziś nam narodzonemu?",
+        "Pastuszkowie, przybywajcie,",
+        "Jemu wdzięcznie przygrywajcie",
+        "Jako Panu naszemu.",
+        ""
+      ]
+    },
+    {
+      "range": "9-16",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "piosenka",
+        "pospieszyć",
+        "Maleńki",
+        "zobaczyć",
+        "ubogo",
+        "narodzić się",
+        "płakać",
+        "stajnia",
+        "ucieszyć",
+        "Jezus Chrystus",
+        "Boże Narodzenie"
+      ],
+      "summary": "Podmiot zbiorowy zapowiada pośpieszne przybycie za pasterzami, by ujrzeć ubogo narodzone Dziecię płaczące w stajni i przynieść Mu radość.",
+      "bible": [
+        "Łk 2, 7"
+      ],
+      "text": [
+        "My zaś sami z piosneczkami",
+        "za wami pospieszymy,",
+        "a tak tego Maleńkiego",
+        "niech wszyscy zobaczymy:",
+        "Jak, ubogo narodzony,",
+        "płacze w stajni położony,",
+        "więc Go dziś ucieszymy.",
+        ""
+      ]
+    },
+    {
+      "range": "17-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "świat",
+        "wesołość",
+        "posłany",
+        "dany",
+        "Emanuel",
+        "niskość",
+        "przywitać",
+        "anioł",
+        "śpiewać",
+        "chwała",
+        "wysokość",
+        "Bóg",
+        "Mesjasz"
+      ],
+      "summary": "Wezwanie świata do radości z powodu daru Emanuela posłanego w niskości oraz przyłączenia się do anielskiego śpiewu 'chwała na wysokości'.",
+      "bible": [
+        "Iz 7, 14",
+        "Mt 1, 23",
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Najprzód tedy niechaj wszędy",
+        "zabrzmi świat w wesołości,",
+        "że posłany, nam jest dany",
+        "Emanuel w niskości.",
+        "Jego tedy przywitajmy,",
+        "z Aniołami zaśpiewajmy:",
+        "„chwała na wysokości!”",
+        ""
+      ]
+    },
+    {
+      "range": "25-32",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Panie",
+        "rozkosz",
+        "niebo",
+        "opuścić",
+        "zstąpić",
+        "niskość",
+        "ziemski",
+        "miłość",
+        "sprawić",
+        "człowiek",
+        "wywyższyć",
+        "Empirejski",
+        "kenoza",
+        "Wcielenie",
+        "Bóg"
+      ],
+      "summary": "Refleksja nad kenozą Syna Bożego, który z miłości opuścił niebiańskie rozkosze i zstąpił na ziemskie niskości, aby wywyższyć człowieka do nieba.",
+      "bible": [
+        "Flp 2, 6-7",
+        "J 3, 16"
+      ],
+      "text": [
+        "Witaj, Panie, cóż się stanie,",
+        "że rozkosze niebieskie",
+        "opuściłeś, a zstąpiłeś",
+        "na te niskości ziemskie?",
+        "Miłość Moja to sprawiła,",
+        "by człowieka wywyższyła",
+        "pod nieba Empirejskie.",
+        ""
+      ]
+    },
+    {
+      "range": "33-40",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "żłobek",
+        "sianko",
+        "bydlę",
+        "stajnia",
+        "człowiek",
+        "grzesznik",
+        "zbawić",
+        "Wcielenie",
+        "odkupienie",
+        "uniżenie",
+        "Jezus Chrystus"
+      ],
+      "summary": "Pytania o przyczynę skrajnego uniżenia Chrystusa w żłobie pośród zwierząt, na które odpowiedzią jest zbawienie grzesznego człowieka utożsamionego z sianem i bydlęciem.",
+      "bible": [
+        "Łk 2, 7",
+        "Iz 1, 3",
+        "Rz 3, 23-24"
+      ],
+      "text": [
+        "Czem’ w żłobeczku, nie w łóżeczku",
+        "na siankuś położony?",
+        "Czem’ z bydlęty, nie z panięty,",
+        "w stajni jesteś złożony?",
+        "By człek sianu przyrównany,",
+        "grzesznik bydlęciem nazwany,",
+        "przeze mnie był zbawiony.",
+        ""
+      ]
+    },
+    {
+      "range": "41-48",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "państwo",
+        "świat",
+        "Bóg",
+        "kwiat",
+        "przyjąć",
+        "wolność",
+        "złość",
+        "krzyż",
+        "łoże",
+        "odrzucenie",
+        "Męka Pańska",
+        "grzech"
+      ],
+      "summary": "Lament Chrystusa nad odrzuceniem Go przez świat, który przedkłada doczesną wolność nad Królestwo Boże i w złości przygotowuje krzyż.",
+      "bible": [
+        "J 1, 10-11",
+        "J 19, 15"
+      ],
+      "text": [
+        "Twoje państwo i poddaństwo",
+        "jest świat cały, o Boże!",
+        "Tyś polny kwiat, czemu Cię świat",
+        "przyjąć nie chce, choć może?",
+        "Bo świat doczesne wolności",
+        "zwykł kochać, Mnie zaś w swej złości",
+        "krzyżowe ściele łoże.",
+        ""
+      ]
+    },
+    {
+      "range": "49-56",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Rama",
+        "głos",
+        "Rachela",
+        "syn",
+        "krwawy",
+        "kąpiel",
+        "ocean",
+        "Męka Pańska",
+        "niewiniątka",
+        "ofiara",
+        "zbawienie",
+        "niebo",
+        "Jezus Chrystus"
+      ],
+      "summary": "Typologiczne odniesienie do płaczu Racheli nad pomordowanymi niewiniątkami (Jr 31, 15; Mt 2, 16-18), które prefiguruje krwawą mękę Chrystusa jako większe zanurzenie prowadzące do zbawienia.",
+      "bible": [
+        "Jr 31, 15",
+        "Mt 2, 16-18",
+        "J 19, 34",
+        "Łk 12, 50"
+      ],
+      "text": [
+        "W Ramie głosy pod niebiosy",
+        "wzbijają się Racheli,",
+        "gdy swe syny bez przyczyny",
+        "w krwawej widzi kąpieli.",
+        "Większe Mnie dla nich kąpanie",
+        "w krwawym czeka oceanie",
+        "skąd niebo będą mieli.",
+        ""
+      ]
+    },
+    {
+      "range": "57-63",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "król",
+        "monarcha",
+        "wschód",
+        "dar",
+        "ofiara",
+        "serce",
+        "szacować",
+        "niebo",
+        "adoracja",
+        "hołd",
+        "Jezus Chrystus"
+      ],
+      "summary": "Trzej królowie składają dary Dzieciątku, które bardziej niż materialne ofiary ceni dar serca; modlitwa o niebo dla ofiarodawców.",
+      "bible": [
+        "Mt 2, 11"
+      ],
+      "text": [
+        "Trzej królowie, monarchowie",
+        "wschodni kraj opuszczają,",
+        "serc ofiary z trzema dary",
+        "Tobie Panu oddają.",
+        "Darami się kontentujesz,",
+        "bardziej serca ich szacujesz,",
+        "za co niech niebo mają."
+      ]
+    },
+    {
+      "range": "1-63",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "żłób",
+        "Jezus Chrystus",
+        "narodzenie",
+        "Wcielenie",
+        "kenoza",
+        "miłość",
+        "zbawienie",
+        "krzyż",
+        "odkupienie",
+        "Emanuel",
+        "pasterz",
+        "król",
+        "Maryja",
+        "Boże Narodzenie",
+        "Męka Pańska",
+        "niewiniątko",
+        "niebo"
+      ],
+      "summary": "Bogata teologicznie kolęda łącząca radość narodzenia z refleksją nad kenozą Syna Bożego. Zawiera typologię starotestamentową (Jr 31, 15 - płacz Racheli prefigurujący mękę Chrystusa) oraz głęboką chrystologię: od żłóbka po krzyż, od uniżenia po wywyższenie człowieka do nieba.",
+      "bible": [
+        "Łk 2, 7",
+        "Łk 2, 14-16",
+        "Iz 7, 14",
+        "Mt 2, 11.16-18",
+        "Flp 2, 6-7",
+        "Jr 31, 15",
+        "J 19, 34"
+      ]
+    }
+  ]
+}

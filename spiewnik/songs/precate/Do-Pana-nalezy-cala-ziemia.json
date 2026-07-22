@@ -1,0 +1,224 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:6625ed294b71c192bf2f9a721419b04edc80d2da484fac98e5d4ed91c1d69bf5",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "ziemia",
+        "świat",
+        "mieszkaniec",
+        "stworzenie",
+        "własność",
+        "Bóg"
+      ],
+      "summary": "Pan jest właścicielem całej ziemi, świata i wszystkich jego mieszkańców.",
+      "bible": [
+        "Ps 24:1-2",
+        "Ps 89:12",
+        "1 Kor 10:26",
+        "Kol 1:16"
+      ],
+      "text": [
+        "Do Pana należy cała ziemia.",
+        "I wszystko to, co ją napełnia.",
+        "Świat i jego mieszkańcy."
+      ]
+    },
+    {
+      "range": "4-9",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "brama",
+        "podwoje",
+        "podnieść",
+        "Król",
+        "chwała",
+        "wkroczyć",
+        "wejście",
+        "Pan",
+        "majestat"
+      ],
+      "summary": "Wezwanie do bram i podwoi, aby podniosły się i wpuściły Króla chwały.",
+      "bible": [
+        "Ps 24:7",
+        "Ps 118:19-20",
+        "Ap 3:20",
+        "Mt 21:1-11"
+      ],
+      "text": [
+        "Bramy, podnieście",
+        "wasze podwoje,",
+        "podnieście je wyżej,",
+        "aby wkroczył Król chwały,",
+        "Król chwały.",
+        ""
+      ]
+    },
+    {
+      "range": "10-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "góra",
+        "święty",
+        "miejsce",
+        "ręka",
+        "niewinny",
+        "serce",
+        "skaza",
+        "dusza",
+        "marność",
+        "Kościół",
+        "oblicze",
+        "Bóg",
+        "Jakub",
+        "szukać"
+      ],
+      "summary": "Pytanie o godność wstąpienia na górę Pana; odpowiedzią są niewinne ręce i czyste serce. Współczesny Kościół szuka oblicza Boga Jakubowego.",
+      "bible": [
+        "Ps 24:3-6",
+        "Ps 15",
+        "Mt 5:8",
+        "Hbr 12:22",
+        "J 14:6"
+      ],
+      "text": [
+        "Kto wstąpi na górę świętą Pana?",
+        "Kto wejdzie do Jego świętego miejsca?",
+        "Kto ma ręce niewinne i serce bez skazy,",
+        "kto nie zwraca swej duszy ku marności.",
+        "Ku marności.",
+        "My zaś jesteśmy jego Kościołem,",
+        "który dziś przychodzi przed Twoją obecność,",
+        "który szuka Twego oblicza, Boże Jakubowy.",
+        "Boże Jakubowy."
+      ]
+    },
+    {
+      "range": "19-24",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "brama",
+        "podwoje",
+        "podnieść",
+        "Król",
+        "chwała",
+        "wkroczyć",
+        "wejście",
+        "Pan",
+        "majestat"
+      ],
+      "summary": "Ponowione wezwanie do bram, aby podniosły się dla Króla chwały.",
+      "bible": [
+        "Ps 24:7"
+      ],
+      "text": [
+        "Bramy, podnieście",
+        "wasze podwoje,",
+        "podnieście je wyżej,",
+        "aby wkroczył Król chwały,",
+        "Król chwały.",
+        ""
+      ]
+    },
+    {
+      "range": "25-31",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Król",
+        "chwała",
+        "Pan",
+        "mocarz",
+        "potężny",
+        "niezwyciężony",
+        "bój",
+        "zastępy",
+        "Bóg"
+      ],
+      "summary": "Pytanie o tożsamość Króla chwały i odpowiedź: Pan potężny, niezwyciężony w boju, Pan nad zastępami.",
+      "bible": [
+        "Ps 24:8-10",
+        "Ap 19:16",
+        "Ef 6:10",
+        "Joz 5:14",
+        "1 Sm 17:45"
+      ],
+      "text": [
+        "Kto jest owym Królem chwały?",
+        "To jest Pan potężny mocarz.",
+        "To jest Pan niezwyciężony w boju.",
+        "Niezwyciężony w boju.",
+        "To jest Pan nad zastępami.",
+        "To On jest Królem chwały.",
+        "Królem chwały!"
+      ]
+    },
+    {
+      "range": "32-36",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "brama",
+        "podwoje",
+        "podnieść",
+        "Król",
+        "chwała",
+        "wkroczyć",
+        "wejście",
+        "Pan",
+        "majestat"
+      ],
+      "summary": "Końcowe wezwanie do bram, aby podniosły się dla wkraczającego Króla chwały.",
+      "bible": [
+        "Ps 24:7"
+      ],
+      "text": [
+        "Bramy, podnieście",
+        "wasze podwoje,",
+        "podnieście je wyżej,",
+        "aby wkroczył Król chwały,",
+        "Król chwały."
+      ]
+    },
+    {
+      "range": "1-36",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "ziemia",
+        "świat",
+        "stworzenie",
+        "brama",
+        "Król",
+        "chwała",
+        "góra",
+        "święty",
+        "serce",
+        "niewinny",
+        "Kościół",
+        "mocarz",
+        "bój",
+        "zastępy",
+        "Bóg",
+        "Jakub",
+        "majestat"
+      ],
+      "summary": "Psalm procesyjny na wejście Króla chwały. Głosi powszechne panowanie Boga nad ziemią, stawia warunki wejścia na górę świętą i objawia tożsamość Króla chwały jako Pana zastępów, potężnego mocarza. Typologicznie zapowiada triumfalny wjazd Chrystusa do Jerozolimy oraz ostateczne wejście Kościoła do niebieskiego Jeruzalem.",
+      "bible": [
+        "Ps 24",
+        "Mt 21:1-11",
+        "Ap 21:22-27",
+        "Hbr 12:22-24",
+        "Ef 2:19-22"
+      ]
+    }
+  ]
+}

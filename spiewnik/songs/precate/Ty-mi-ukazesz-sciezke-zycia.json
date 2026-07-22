@@ -1,0 +1,212 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:8fbc909aa2b85d8a3695e00f477f817670fa112edc9c2feb1772200e441f9dbf",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "ścieżka",
+        "życie",
+        "radość",
+        "obecność",
+        "słodycz",
+        "prawica",
+        "Pan"
+      ],
+      "summary": "Otwarte wyznanie ufności, że Bóg ukaże ścieżkę życia i obdarzy pełną radością w swojej obecności.",
+      "bible": [
+        "Ps 16, 11"
+      ],
+      "text": [
+        "Ty mi ukażesz ścieżkę życia,",
+        "Ty mi ukażesz ścieżkę życia:",
+        "pełną radość w Twojej obecności,",
+        "słodycz bez końca po Twej prawicy.",
+        ""
+      ]
+    },
+    {
+      "range": "6-13",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "zachowanie",
+        "ochrona",
+        "Boże",
+        "Pan",
+        "dobro",
+        "ścieżka",
+        "życie",
+        "radość",
+        "obecność",
+        "słodycz",
+        "prawica"
+      ],
+      "summary": "Prośba o zachowanie i wyznanie, że poza Bogiem nie ma żadnego dobra, zamykające się refrenem ufności.",
+      "bible": [
+        "Ps 16, 1-2"
+      ],
+      "text": [
+        "Zachowaj mnie, o Boże: w Tobie się chronię.",
+        "Powiedziałem Bogu: „Ty jesteś moim Panem,",
+        "poza Tobą nie mam żadnego dobra”.",
+        "Ty mi ukażesz ścieżkę życia,",
+        "Ty mi ukażesz ścieżkę życia:",
+        "pełną radość w Twojej obecności,",
+        "słodycz bez końca po Twej prawicy.",
+        ""
+      ]
+    },
+    {
+      "range": "14-22",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dziedzictwo",
+        "kielich",
+        "życie",
+        "ręce",
+        "los",
+        "rozkosz",
+        "błogosławieństwo",
+        "rada",
+        "pouczenie",
+        "noc",
+        "serce",
+        "Pan",
+        "prawica"
+      ],
+      "summary": "Wyznanie, że Pan jest cząstą dziedzictwa i kielicha, a życie spoczywa w Jego rękach – błogosławieństwo za radę i pouczenie.",
+      "bible": [
+        "Ps 16, 5-8"
+      ],
+      "text": [
+        "Pan moją częścią dziedzictwa i moim kielichem:",
+        "w Twoich rękach jest moje życie.",
+        "Los mi wyznaczył miejsca rozkoszne,",
+        "moje dziedzictwo jest wspaniałe.",
+        "Błogosławię Pana, który wsparł mnie radą;",
+        "nawet w nocy poucza moje serce.",
+        "Stawiam zawsze przed sobą Pana,",
+        "jest po mej prawicy, nie mogę się zachwiać.",
+        ""
+      ]
+    },
+    {
+      "range": "23-27",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "ścieżka",
+        "życie",
+        "radość",
+        "obecność",
+        "słodycz",
+        "prawica",
+        "Pan"
+      ],
+      "summary": "Refren o ścieżce życia i pełnej radości w obecności Boga.",
+      "bible": [
+        "Ps 16, 11"
+      ],
+      "text": [
+        "Ty mi ukażesz ścieżkę życia,",
+        "Ty mi ukażesz ścieżkę życia:",
+        "pełną radość w Twojej obecności,",
+        "słodycz bez końca po Twej prawicy.",
+        ""
+      ]
+    },
+    {
+      "range": "28-34",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "serce",
+        "dusza",
+        "radość",
+        "ciało",
+        "spoczynek",
+        "grób",
+        "Święty",
+        "zepsucie",
+        "zmartwychwstanie",
+        "Pan"
+      ],
+      "summary": "Wyznanie radości serca i duszy, ufność, że Bóg nie zostawi życia w grobie – prorocza zapowiedź zmartwychwstania Chrystusa.",
+      "bible": [
+        "Ps 16, 9-10",
+        "Dz 2, 25-31",
+        "Dz 13, 35-37"
+      ],
+      "text": [
+        "Z tego się cieszy moje serce,",
+        "raduje się moja dusza;",
+        "także ciało spoczywa bezpiecznie,",
+        "bo nie zostawisz mojego życia w grobie,",
+        "ani nie pozwolisz, żeby Twój Święty",
+        "widział zepsucie, widział zepsucie.",
+        ""
+      ]
+    },
+    {
+      "range": "35-38",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "ścieżka",
+        "życie",
+        "radość",
+        "obecność",
+        "słodycz",
+        "prawica",
+        "Pan"
+      ],
+      "summary": "Zamknięcie pieśni powtórzeniem refrenu o ścieżce życia i radości w Bogu.",
+      "bible": [
+        "Ps 16, 11"
+      ],
+      "text": [
+        "Ty mi ukażesz ścieżkę życia,",
+        "Ty mi ukażesz ścieżkę życia:",
+        "pełną radość w Twojej obecności,",
+        "słodycz bez końca po Twej prawicy."
+      ]
+    },
+    {
+      "range": "1-38",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "ścieżka",
+        "życie",
+        "radość",
+        "obecność",
+        "słodycz",
+        "prawica",
+        "dziedzictwo",
+        "kielich",
+        "ochrona",
+        "grób",
+        "zmartwychwstanie",
+        "Święty",
+        "zepsucie",
+        "dusza",
+        "ciało",
+        "serce",
+        "ufność",
+        "Pan",
+        "Bóg"
+      ],
+      "summary": "Adaptacja Psalmu 16 – psalm ufności i radości, którego werset o niepozostawieniu Świętego w grobie stanowi proroczą zapowiedź zmartwychwstania Chrystusa (Dz 2, 25-31; 13, 35-37).",
+      "bible": [
+        "Ps 16",
+        "Dz 2, 25-31",
+        "Dz 13, 35-37",
+        "1 Kor 15, 55"
+      ]
+    }
+  ]
+}

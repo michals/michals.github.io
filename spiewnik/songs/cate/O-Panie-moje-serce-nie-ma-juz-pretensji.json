@@ -1,0 +1,176 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:8f511bcc17d075c04cc774ef3f2781e5f96d7fcc9421c3a8577eadf3128256d1",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pokora",
+        "serce",
+        "pretensja",
+        "pycha",
+        "wzrok",
+        "wielkość",
+        "siły",
+        "Pan",
+        "Bóg",
+        "uniżenie",
+        "zawierzenie",
+        "służba",
+        "milczenie",
+        "oddanie",
+        "królestwo"
+      ],
+      "summary": "Podmiot rezygnuje z pychy i wywyższania się, oddając Bogu swoje serce i uznając własne ograniczenia.",
+      "bible": [
+        "Ps 131:1"
+      ],
+      "text": [
+        "O Panie, moje serce nie ma już pretensji",
+        "i nie wznoszę w pysze mego wzroku,",
+        "nie gonię za tym, co jest wielkie,",
+        "ani za tym, co przewyższa moje siły."
+      ]
+    },
+    {
+      "range": "5-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dusza",
+        "wyciszenie",
+        "uspokojenie",
+        "dziecko",
+        "matka",
+        "nasycenie",
+        "duch",
+        "pokój",
+        "zawierzenie",
+        "milczenie",
+        "niemowlę",
+        "łono",
+        "miłość macierzyńska",
+        "ufność",
+        "kontemplacja"
+      ],
+      "summary": "Dusza zostaje ukojona i wyciszona jak dziecko przy matce, symbolizując najgłębsze zaufanie wobec Boga.",
+      "bible": [
+        "Ps 131:2",
+        "Mt 18:3-4",
+        "1 P 2:2"
+      ],
+      "text": [
+        "Uspokoiłem, wyciszyłem moją duszę,",
+        "tak jak dziecko w ramionach swej matki,",
+        "tak jak dziecko nasycone jest mój duch,",
+        "tak jak dziecko we wnętrzu mym."
+      ]
+    },
+    {
+      "range": "9-12",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "serce",
+        "pretensja",
+        "pycha",
+        "wzrok",
+        "wielkość",
+        "siły",
+        "powtórzenie",
+        "refren",
+        "pokora",
+        "uwielbienie",
+        "oddanie",
+        "Pan",
+        "Bóg",
+        "zawierzenie",
+        "ponowienie"
+      ],
+      "summary": "Powtórzenie incipitu jako refrenu umacnia postawę pokornego i całkowitego oddania się Bogu.",
+      "bible": [
+        "Ps 131:1"
+      ],
+      "text": [
+        "O Panie, moje serce nie ma już pretensji",
+        "i nie wznoszę w pysze mego wzroku,",
+        "nie gonię za tym, co jest wielkie,",
+        "ani za tym, co przewyższa moje siły."
+      ]
+    },
+    {
+      "range": "13-14",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Izrael",
+        "ufność",
+        "Pan",
+        "Bóg",
+        "zawsze",
+        "teraz",
+        "wezwanie",
+        "naród",
+        "przymierze",
+        "nadzieja",
+        "wierność",
+        "lud",
+        "wybranie",
+        "stałość",
+        "obietnica"
+      ],
+      "summary": "Wezwanie Izraela do nieustannej ufności Panu jako wspólnotowe przypieczętowanie psalmu.",
+      "bible": [
+        "Ps 131:3",
+        "Iz 40:31",
+        "Pwt 7:9"
+      ],
+      "text": [
+        "Ufaj Izraelu swemu Panu, teraz i zawsze,",
+        "ufaj Izraelu swemu Panu, teraz i zawsze."
+      ]
+    },
+    {
+      "range": "1-14",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "pokora",
+        "ufność",
+        "dziecięctwo",
+        "Izrael",
+        "Pan",
+        "Bóg",
+        "zaufanie",
+        "dusza",
+        "wyciszenie",
+        "spokój",
+        "pycha",
+        "matka",
+        "dziecko",
+        "nasycenie",
+        "nadzieja",
+        "zawierzenie",
+        "psalm",
+        "Syjon",
+        "łagodność",
+        "cichość",
+        "miłosierdzie",
+        "przymierze",
+        "stałość",
+        "łaska",
+        "błogosławieństwo"
+      ],
+      "summary": "Pieśń oparta na Ps 131 wyraża pokorne i ufne zawierzenie Bogu na wzór dziecka spoczywającego w ramionach matki, wzywając Izraela do nieustannej ufności.",
+      "bible": [
+        "Ps 131:1-3",
+        "Mt 18:3-4",
+        "1 P 2:2",
+        "Iz 40:31",
+        "Pwt 7:9"
+      ]
+    }
+  ]
+}

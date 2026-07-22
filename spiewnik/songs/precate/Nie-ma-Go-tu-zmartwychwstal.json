@@ -1,0 +1,191 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:0a92fc04b43732eb6ef26828ffea3d8596a54b68b8c7940b43e1603a5914c9bc",
+  "songs_analysis": [
+    {
+      "range": "1-10",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Maria Magdalena",
+        "Maria",
+        "grób",
+        "niedziela",
+        "anioł",
+        "trzęsienie ziemi",
+        "kamień",
+        "niewiasta",
+        "szabat",
+        "Jezus Ukrzyżowany"
+      ],
+      "summary": "Ewangeliczna narracja o poranku wielkanocnym: niewiasty udają się do grobu, anioł zstępuje z nieba i odsuwa kamień, przemawiając do nich.",
+      "bible": [
+        "Mt 28, 1-3"
+      ],
+      "text": [
+        "Po upływie szabatu,",
+        "o świcie pierwszego dnia tygodnia",
+        "Maria Magdalena i druga Maria",
+        "udały się do grobu.",
+        "A oto powstało wielkie trzęsienie ziemi:",
+        "Anioł Pański zstąpił z nieba,",
+        "odsunął kamień i powiedział niewiastom:",
+        "„Nie bójcie się!",
+        "Wiem, że szukacie Jezusa Ukrzyżowanego.",
+        ""
+      ]
+    },
+    {
+      "range": "11-17",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "pusty grób",
+        "Jezus Chrystus",
+        "Pascha",
+        "zwycięstwo",
+        "życie",
+        "śmierć",
+        "wiara",
+        "radość"
+      ],
+      "summary": "Radosne ogłoszenie pustego grobu: Chrystus zmartwychwstał, co stanowi fundament wiary chrześcijańskiej i zwycięstwo życia nad śmiercią.",
+      "bible": [
+        "Mt 28, 6",
+        "1 Kor 15, 14"
+      ],
+      "text": [
+        "Nie ma Go tu, Zmartwychwstał!",
+        "Nie ma Go tu, Zmartwychwstał!",
+        "Nie ma Go tu, Zmartwychwstał!",
+        "Nie ma Go tu, Zmartwychwstał!",
+        "Nie ma Go tu, Zmartwychwstał!",
+        "Nie ma Go tu, Zmartwychwstał!",
+        ""
+      ]
+    },
+    {
+      "range": "18-22",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "posłanie",
+        "uczeń",
+        "Galilea",
+        "zmartwychwstały",
+        "misja",
+        "głoszenie",
+        "Jezus Chrystus"
+      ],
+      "summary": "Anioł posyła niewiasty z misją głoszenia uczniom, że Chrystus zmartwychwstał i wyprzedza ich do Galilei – pierwsze chrześcijańskie posłanie apostolskie.",
+      "bible": [
+        "Mt 28, 7"
+      ],
+      "text": [
+        "Idźcie szybko powiedzieć Jego uczniom:",
+        "On powstał z martwych!",
+        "On powstał z martwych",
+        "i was wyprzedza do Galilei.”",
+        ""
+      ]
+    },
+    {
+      "range": "23-26",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "pusty grób",
+        "Jezus Chrystus",
+        "Pascha",
+        "zwycięstwo"
+      ],
+      "summary": "Powtórzenie radosnego ogłoszenia pustego grobu – tryumf życia nad śmiercią.",
+      "bible": [
+        "Mt 28, 6"
+      ],
+      "text": [
+        "Nie ma Go tu, Zmartwychwstał!",
+        "Nie ma Go tu, Zmartwychwstał!",
+        "Nie ma Go tu, Zmartwychwstał!",
+        ""
+      ]
+    },
+    {
+      "range": "27-31",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "posłanie",
+        "uczeń",
+        "Galilea",
+        "spotkanie",
+        "zmartwychwstały",
+        "wiara",
+        "Jezus Chrystus"
+      ],
+      "summary": "Rozwinięcie posłania: zmartwychwstały Chrystus wyprzedza uczniów do Galilei, gdzie Go ujrzą – zapowiedź osobistego spotkania ze Zmartwychwstałym.",
+      "bible": [
+        "Mt 28, 7",
+        "Mt 28, 16-20"
+      ],
+      "text": [
+        "„Idźcie szybko powiedzieć Jego uczniom:",
+        "On powstał z martwych!",
+        "a teraz was wyprzedza do Galilei,",
+        "tam Go ujrzycie.”",
+        ""
+      ]
+    },
+    {
+      "range": "32-34",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "pusty grób",
+        "Jezus Chrystus",
+        "Pascha",
+        "zwycięstwo"
+      ],
+      "summary": "Końcowe, tryumfalne ogłoszenie zmartwychwstania jako pieczęć całej narracji wielkanocnej.",
+      "bible": [
+        "Mt 28, 6"
+      ],
+      "text": [
+        "Nie ma Go tu, Zmartwychwstał!",
+        "Nie ma Go tu, Zmartwychwstał!",
+        "Nie ma Go tu, Zmartwychwstał!"
+      ]
+    },
+    {
+      "range": "1-34",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "pusty grób",
+        "Wielkanoc",
+        "Pascha",
+        "Maria Magdalena",
+        "anioł",
+        "głoszenie",
+        "wiara",
+        "Chrystus",
+        "zwycięstwo nad śmiercią",
+        "Galilea",
+        "posłanie apostolskie",
+        "radość"
+      ],
+      "summary": "Pieśń wielkanocna wiernie odtwarzająca narrację Mt 28, 1-7 o pustym grobie i anielskim orędziu zmartwychwstania z radosnym refrenem 'Nie ma Go tu, Zmartwychwstał!'. Podkreśla radość Paschy i misję głoszenia.",
+      "bible": [
+        "Mt 28, 1-7",
+        "Mk 16, 1-7",
+        "Łk 24, 1-10",
+        "J 20, 1-18",
+        "1 Kor 15, 14"
+      ]
+    }
+  ]
+}

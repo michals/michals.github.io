@@ -1,0 +1,183 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:0d94b7f9eb36d139c43c4155805d15ade618c9abda6008592680bf8caf155cb1",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pascha",
+        "przejście",
+        "Pan",
+        "śpiew",
+        "chwała",
+        "Alleluja"
+      ],
+      "summary": "Incipit-refren: ogłoszenie Paschy Pańskiej jako przejścia Boga, wezwanie do uwielbienia z aklamacją alleluja.",
+      "bible": [
+        "Wj 12,11-14",
+        "1 Kor 5,7-8"
+      ],
+      "text": [
+        "To jest Pascha, przejście Pana:",
+        "wysławiajmy Go i śpiewajmy.",
+        "Alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "5-11",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Bóg",
+        "Abraham",
+        "Izaak",
+        "Jakub",
+        "przymierze",
+        "ojcowie",
+        "Pascha",
+        "Alleluja"
+      ],
+      "summary": "Pascha jest dziełem Boga Abrahama, Izaaka i Jakuba – Boga przymierza z ojcami, który działa w historii zbawienia.",
+      "bible": [
+        "Wj 3,6",
+        "Wj 3,15-16",
+        "Mt 22,32"
+      ],
+      "text": [
+        "To Bóg Abrahama, Izaaka,",
+        "to jest Bóg Jakuba.",
+        "",
+        "To jest Pascha, przejście Pana:",
+        "wysławiajmy Go i śpiewajmy.",
+        "Alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "12-18",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Morze Czerwone",
+        "przejście",
+        "lud",
+        "woda",
+        "wyzwolenie",
+        "Pascha",
+        "Alleluja"
+      ],
+      "summary": "Bóg otworzył Morze Czerwone, a lud przeszedł przez nie – typologiczne zapowiedź chrztu i przejścia przez śmierć do życia w Chrystusie.",
+      "bible": [
+        "Wj 14,21-31",
+        "1 Kor 10,1-2",
+        "1 P 3,20-21"
+      ],
+      "text": [
+        "To On otworzył Morze Czerwone",
+        "i myśmy przez nie przeszli.",
+        "",
+        "To jest Pascha, przejście Pana:",
+        "wysławiajmy Go i śpiewajmy.",
+        "Alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "19-25",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "pustynia",
+        "prowadzenie",
+        "droga",
+        "Bóg",
+        "opiek",
+        "Pascha",
+        "Alleluja"
+      ],
+      "summary": "Bóg przeprowadza swój lud przez pustynię i prowadzi go na drodze – opieka Boża w czasie próby i wędrówki do Ziemi Obiecanej.",
+      "bible": [
+        "Wj 13,21-22",
+        "Wj 16,1-36",
+        "Wj 17,1-7",
+        "Pwt 8,2-6"
+      ],
+      "text": [
+        "To On przeprowadza przez pustynię",
+        "i prowadzi nas na drodze.",
+        "",
+        "To jest Pascha, przejście Pana:",
+        "wysławiajmy Go i śpiewajmy.",
+        "Alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "26-31",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Syn",
+        "Jezus",
+        "posłanie",
+        "wskrzeszenie",
+        "martwi",
+        "Pascha",
+        "Alleluja",
+        "zmartwychwstanie"
+      ],
+      "summary": "Bóg posłał swego Syna i wskrzesił Go z martwych – kulminacja paschalna: zmartwychwstanie Jezusa jako wypełnienie Paschy i przejścia.",
+      "bible": [
+        "J 3,16-17",
+        "Rz 8,32",
+        "Dz 2,32-33",
+        "Rz 4,24-25"
+      ],
+      "text": [
+        "To On posłał do nas swego Syna",
+        "i wskrzesił Go z martwych.",
+        "",
+        "To jest Pascha, przejście Pana:",
+        "wysławiajmy Go i śpiewajmy.",
+        "Alleluja, alleluja."
+      ]
+    },
+    {
+      "range": "1-31",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pascha",
+        "przejście",
+        "Pan",
+        "Bóg",
+        "Abraham",
+        "Izaak",
+        "Jakub",
+        "Morze Czerwone",
+        "pustynia",
+        "Syn",
+        "Jezus",
+        "zmartwychwstanie",
+        "Alleluja",
+        "zbawienie",
+        "wykupienie"
+      ],
+      "summary": "Pieśń paschalna ukazująca ciągłość Bożego działania: Bóg Abrahama, Izaaka i Jakuba jest tym samym, który otworzył Morze Czerwone, prowadził przez pustynię i posłał swego Syna, wskrzeszając Go z martwych – Pascha Chrystusa jako wypełnienie wszystkich paschalnych przejść Starego Testamentu.",
+      "bible": [
+        "Wj 3,6",
+        "Wj 12,11-14",
+        "Wj 14,21-31",
+        "Wj 15,1-21",
+        "J 3,16-17",
+        "Dz 2,32-33",
+        "Rz 4,24-25",
+        "1 Kor 5,7-8",
+        "1 Kor 10,1-4"
+      ]
+    }
+  ]
+}

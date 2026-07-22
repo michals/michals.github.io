@@ -1,0 +1,165 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:054590c7b48f61d20bbb39cafcdc1a234402f28b004ad912b3e7778db18a7655",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bóg",
+        "imię",
+        "wybawić",
+        "potęga",
+        "słuszność",
+        "sprawa",
+        "modlitwa",
+        "ucho",
+        "słowo",
+        "wołanie"
+      ],
+      "summary": "Błagalna prośba psalmisty do Boga o wybawienie przez Jego imię i potęgę oraz o wysłuchanie modlitwy.",
+      "bible": [
+        "Ps 54, 3-4"
+      ],
+      "text": [
+        "O Boże, przez imię Twoje wybaw mnie,",
+        "przez Twoją potęgę słuszność daj mej sprawie.",
+        "O Boże, wysłuchaj mej modlitwy,",
+        "nakłoń ucha na słowa ust moich.",
+        ""
+      ]
+    },
+    {
+      "range": "6-9",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "zuchwalcy",
+        "gwałtownicy",
+        "życie",
+        "Bóg",
+        "oko",
+        "nieprzyjaciel",
+        "powstać",
+        "prześladować",
+        "grzech",
+        "bezbożność"
+      ],
+      "summary": "Skarga na zuchwalców i gwałtowników czyhających na życie psalmisty, którzy nie stawiają Boga przed swymi oczami.",
+      "bible": [
+        "Ps 54, 5-6",
+        "Ps 14, 1",
+        "Ps 36, 2"
+      ],
+      "text": [
+        "Albowiem powstali przeciwko mnie zuchwalcy",
+        "i gwałtownicy czyhają na me życie;",
+        "przed swymi oczami nie stawiają Boga,",
+        "przed swymi oczami nie stawiają Boga."
+      ]
+    },
+    {
+      "range": "10-17",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Bóg",
+        "pomoc",
+        "Pan",
+        "podtrzymać",
+        "serce",
+        "ofiara",
+        "wielbić",
+        "imię",
+        "dobry",
+        "udręka",
+        "wyzwolić",
+        "ufność"
+      ],
+      "summary": "Wyznanie ufności w Bożą pomoc i postanowienie złożenia ofiary dziękczynnej oraz wielbienia Bożego imienia za wyzwolenie z każdej udręki.",
+      "bible": [
+        "Ps 54, 6-9",
+        "Ps 50, 14",
+        "Hbr 13, 15"
+      ],
+      "text": [
+        "Lecz oto Bóg jest mą pomocą,",
+        "i Pan, i Pan mnie podtrzymuje.",
+        "Z całego serca złożę Ci ofiarę,",
+        "będę wielbił Twoje imię, bo jest dobre.",
+        "Z każdej udręki Ty mnie wyzwoliłeś,",
+        "z każdej udręki mnie wyzwoliłeś,",
+        "z każdej udręki mnie wyzwoliłeś.",
+        ""
+      ]
+    },
+    {
+      "range": "18-21",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bóg",
+        "imię",
+        "wybawić",
+        "potęga",
+        "słuszność",
+        "sprawa",
+        "modlitwa",
+        "ucho",
+        "słowo"
+      ],
+      "summary": "Powtórzenie błagalnej prośby o wybawienie przez Boże imię i potęgę, stanowiące refren psalm.",
+      "bible": [
+        "Ps 54, 3-4"
+      ],
+      "text": [
+        "O Boże, przez imię Twoje wybaw mnie,",
+        "przez Twoją potęgę słuszność daj mej sprawie.",
+        "O Boże, wysłuchaj mej modlitwy,",
+        "nakłoń ucha na słowa ust moich."
+      ]
+    },
+    {
+      "range": "1-21",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bóg",
+        "imię",
+        "wybawić",
+        "potęga",
+        "modlitwa",
+        "zuchwalcy",
+        "gwałtownicy",
+        "pomoc",
+        "Pan",
+        "ofiara",
+        "wielbić",
+        "udręka",
+        "wyzwolić",
+        "ufność",
+        "ocalenie",
+        "sprawiedliwość",
+        "miłosierdzie",
+        "zdrada",
+        "męka",
+        "zmartwychwstanie"
+      ],
+      "summary": "Psalm 54 Dawida, napisany w kontekście zdrady Zyfeitów wobec Saula, przechodzi od błagalnej prośby o wybawienie od wrogów przez skargę na prześladowców do ufnego wyznania Bożej pomocy i ślubu dziękczynienia za wyzwolenie. W typologii chrześcijańskiej psalm zapowiada Chrystusa w męce - zdradzonego przez Judasza, otoczonego przez nieprzyjaciół jak Dawid przez Zyfeitów, który jednak całkowicie ufa Ojcu (Mk 14, 36), składa doskonałą ofiarę z siebie (Hbr 10, 5-10), a przez zmartwychwstanie zostaje wyzwolony z wszelkiej udręki (Dz 2, 24), a Jego imię staje się mocą zbawienia (Flp 2, 9-11). Potrójne powtórzenie wyzwolenia z udręki (w. 14-16) wskazuje na trynitarny wymiar zbawienia.",
+      "bible": [
+        "Ps 54",
+        "1 Sm 23, 19-29",
+        "Mt 26, 47-56",
+        "Mk 14, 36",
+        "J 17, 6-12",
+        "Dz 2, 24",
+        "Dz 4, 12",
+        "Flp 2, 9-11",
+        "Hbr 5, 7-10",
+        "Hbr 10, 5-10",
+        "Hbr 13, 15"
+      ]
+    }
+  ]
+}

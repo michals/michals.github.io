@@ -1,0 +1,215 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:0f5ecd9f12fb7c8403703b628cd781f2104cc6119988cf3947cbad4939e838f9",
+  "songs_analysis": [
+    {
+      "range": "1-13",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Balaam",
+        "Balak",
+        "Moab",
+        "Aram",
+        "Jakub",
+        "Izrael",
+        "przekleństwo",
+        "błogosławieństwo",
+        "proroctwo",
+        "Bóg",
+        "naród wybrany"
+      ],
+      "summary": "Balaam wezwany przez Balaka do przeklęcia Izraela odmawia, ponieważ Bóg błogosławi Izraelowi i oddziela go od innych narodów jako lud wyjątkowy.",
+      "bible": [
+        "Lb 23, 7-12",
+        "Rdz 12, 3"
+      ],
+      "text": [
+        "Z Aramu sprowadził mnie",
+        "Balak, król Moabu,",
+        "ze wschodnich wzgórz:",
+        "„przyjdź i przeklnij mi Jakuba,",
+        "przyjdź i prorokuj przeciw Izraelowi”.",
+        "Jakże mam przeklinać,",
+        "jeśli Bóg mi nie pozwala?",
+        "Jakże mam prorokować,",
+        "jeśli Bóg tego nie chce?",
+        "Z wysokości tej skały ja go widzę,",
+        "z wysokości tej góry podziwiam go:",
+        "Ten lud jest inny niż wszystkie narody!",
+        ""
+      ]
+    },
+    {
+      "range": "14-18",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "piękno",
+        "Izrael",
+        "namiot",
+        "błogosławieństwo",
+        "lud Boży",
+        "Kościół",
+        "przymierze"
+      ],
+      "summary": "Refren wyrażający zachwyt nad pięknem Izraela jako ludu wybranego, który staje się typem Kościoła.",
+      "bible": [
+        "Lb 24, 5",
+        "Ps 84, 2"
+      ],
+      "text": [
+        "O jakże piękne twe namioty,",
+        "o jakże piękne, Izraelu.",
+        "O jakże piękne twe namioty,",
+        "o jakże piękne, Izraelu.",
+        ""
+      ]
+    },
+    {
+      "range": "19-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jakub",
+        "potomstwo",
+        "rzesza",
+        "obietnica",
+        "błogosławieństwo",
+        "płodność",
+        "Abraham",
+        "patriarcha"
+      ],
+      "summary": "Niezliczone potomstwo Jakuba jest znakiem wierności Boga wobec obietnicy danej Abrahamowi.",
+      "bible": [
+        "Rdz 15, 5",
+        "Rdz 22, 17",
+        "Lb 23, 10"
+      ],
+      "text": [
+        "Któż może zliczyć",
+        "wielką twoją rzeszę,",
+        "Jakubie, Jakubie,",
+        "Jakubie, Jakubie?",
+        "O jakże piękne …",
+        ""
+      ]
+    },
+    {
+      "range": "25-39",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Balaam",
+        "Balak",
+        "błogosławieństwo",
+        "Bóg",
+        "wierność",
+        "gwiazda",
+        "Jakub",
+        "król",
+        "Mesjasz",
+        "lew",
+        "Jezus Chrystus",
+        "królestwo"
+      ],
+      "summary": "Bóg błogosławi Izraelowi nieodwołalnie; proroctwo o gwieździe z Jakuba zapowiada nadejście Mesjasza-Króla i Jego królestwa.",
+      "bible": [
+        "Lb 24, 17",
+        "Ap 22, 16",
+        "Rdz 49, 9-10",
+        "Lb 23, 19"
+      ],
+      "text": [
+        "Co takiego ty wyprawiasz?",
+        "ty go przecież błogosławisz;",
+        "chodź ze mną na inne miejsce,",
+        "może stamtąd Bóg go przeklnie.",
+        "Posłuchaj, synu Sippora,",
+        "nakłoń ucha, królu Balaku;",
+        "Bóg nie jest jak człowiek,",
+        "co mówi, a potem żałuje:",
+        "gwiazda wschodzi z Jakuba,",
+        "słyszę okrzyki dla króla,",
+        "Bóg, [Bóg] jest Jego ojcem:",
+        "kładzie się jak lew,",
+        "przeciąga jak lwica,",
+        "nikt nie zdoła go poruszyć.",
+        "O jakże piękne …"
+      ]
+    },
+    {
+      "range": "40-44",
+      "type": "fragment",
+      "sentiment": "pokutny",
+      "keywords": [
+        "śmierć",
+        "sprawiedliwy",
+        "życie wieczne",
+        "zmartwychwstanie",
+        "Chrystus",
+        "eschatologia",
+        "święty"
+      ],
+      "summary": "Balaam pragnie śmierci prawego — pragnienie to typologicznie wskazuje na uczestnictwo w śmierci i zmartwychwstaniu Chrystusa.",
+      "bible": [
+        "Lb 23, 10",
+        "Mdr 3, 1-3",
+        "Rz 6, 23",
+        "Flp 1, 21"
+      ],
+      "text": [
+        "Niech moja śmierć",
+        "będzie jak śmierć Sprawiedliwego,",
+        "niech me życie będzie tam gdzie On,",
+        "niech me życie będzie tam gdzie On.",
+        "O jakże piękne …"
+      ]
+    },
+    {
+      "range": "45",
+      "type": "zakończenie",
+      "sentiment": "neutralny",
+      "keywords": [
+        "zakończenie",
+        "wokaliza",
+        "melodia"
+      ],
+      "summary": "Wokaliza 'la la la' stanowi niemelodyjne, pozbawione tekstu zamknięcie pieśni.",
+      "bible": [],
+      "text": [
+        "La… la… la… …"
+      ]
+    },
+    {
+      "range": "1-45",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "błogosławieństwo",
+        "Izrael",
+        "naród wybrany",
+        "proroctwo",
+        "Balaam",
+        "Balak",
+        "Jakub",
+        "gwiazda",
+        "Mesjasz",
+        "obietnica",
+        "przymierze",
+        "wierność Boża",
+        "sprawiedliwy",
+        "Chrystus",
+        "Król"
+      ],
+      "summary": "Pieśń oparta na proroctwach Balaama z Księgi Liczb ukazuje nieodwołalne błogosławieństwo Boga nad Izraelem oraz mesjańską zapowiedź gwiazdy z Jakuba, wypełnioną w Jezusie Chrystusie.",
+      "bible": [
+        "Lb 23, 7-24",
+        "Lb 24, 5-17",
+        "Ap 22, 16",
+        "Rdz 12, 3",
+        "Rdz 49, 9-10"
+      ]
+    }
+  ]
+}

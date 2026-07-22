@@ -1,0 +1,422 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:da8352267a78c1cc66ce3c3655d47a01a7e770663a3795b1128d9b02b80d4ac3",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pójść",
+        "stajenka",
+        "Jezus Chrystus",
+        "Maryja",
+        "Panienka",
+        "Maleńki",
+        "Matka",
+        "Narodzenie",
+        "zaproszenie",
+        "adoracja"
+      ],
+      "summary": "Zaproszenie wszystkich do stajenki, by powitać Maleńkiego Jezusa i Maryję, Jego Matkę.",
+      "bible": [
+        "Łk 2, 16"
+      ],
+      "text": [
+        "Pójdźmy wszyscy do stajenki,",
+        "do Jezusa i Panienki;",
+        "powitajmy Maleńkiego",
+        "i Maryję, Matkę Jego.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Patriarcha",
+        "Prorok",
+        "naród",
+        "oczekiwanie",
+        "obietnica",
+        "Mesjasz",
+        "Narodzenie",
+        "spełnienie"
+      ],
+      "summary": "Witaj, Jezu, od Patriarchów czekany, od Proroków ogłoszony, od narodów upragniony.",
+      "bible": [
+        "Rdz 12, 3",
+        "Iz 7, 14",
+        "Mi 5, 2",
+        "Hbr 1, 1"
+      ],
+      "text": [
+        "Witaj Jezu ukochany,",
+        "od Patriarchów czekany,",
+        "od Proroków ogłoszony,",
+        "od narodów upragniony.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "żłób",
+        "Bóg",
+        "Narodzenie",
+        "noc",
+        "czart",
+        "moc",
+        "wyzwolenie",
+        "zbawienie"
+      ],
+      "summary": "Powitanie Dziecineczki w żłobie – wyznanie Boga w Nim, który narodził się, by wyrwać nas z mocy czarta.",
+      "bible": [
+        "Łk 2, 7",
+        "Hbr 2, 14-15"
+      ],
+      "text": [
+        "Witaj Dziecineczko w żłobie;",
+        "Wyznajemy Boga w Tobie,",
+        "coś się narodził tej nocy,",
+        "boś nas wyrwał z czarta mocy.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "podwójne narodzenie",
+        "Ojciec",
+        "Matka",
+        "Bóg",
+        "człowiek",
+        "Wcielenie",
+        "wieczność",
+        "czas"
+      ],
+      "summary": "Jezus dwakroć narodzony – raz z Ojca przed wieków wiekiem, a teraz z Matki jako człowiek.",
+      "bible": [
+        "J 1, 1-14"
+      ],
+      "text": [
+        "Witaj Jezu nam zjawiony;",
+        "witaj dwakroć narodzony,",
+        "raz z Ojca przed wieków wiekiem,",
+        "a teraz z Matki człowiekiem.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "cud",
+        "Jezus Chrystus",
+        "człowiek",
+        "Bóg",
+        "unia hipostatyczna",
+        "natura",
+        "Osba Boska",
+        "Wcielenie",
+        "tajemnica"
+      ],
+      "summary": "Zadziwienie tajemnicą unii hipostatycznej – Jezus jest prawdziwym Bogiem i prawdziwym człowiekiem w jednej Osobie.",
+      "bible": [
+        "J 1, 14",
+        "Flp 2, 6-8",
+        "Kol 2, 9"
+      ],
+      "text": [
+        "Któż to słyszał takie dziwy?",
+        "Tyś człowiek i Bóg prawdziwy,",
+        "Ty łączysz w Boskiej Osobie",
+        "dwie natury różne sobie.",
+        ""
+      ]
+    },
+    {
+      "range": "26-30",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "stworzenie",
+        "świat",
+        "nie poznanie",
+        "Jezus Chrystus",
+        "zbawienie",
+        "odrzucenie",
+        "schronienie",
+        "grzech"
+      ],
+      "summary": "Świat nie poznał swego Stwórcy – Jezus przyszedł dla zbawienia świata, a świat odmówił Mu schronienia.",
+      "bible": [
+        "J 1, 10-11"
+      ],
+      "text": [
+        "Tyś świat stworzył, a świat Ciebie",
+        "nie poznał, mając wśród siebie:",
+        "idziesz dla jego zbawienia,",
+        "on Ci odmawia schronienia.",
+        ""
+      ]
+    },
+    {
+      "range": "31-35",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ubogi",
+        "pasterz",
+        "czuwanie",
+        "Jezus Chrystus",
+        "wezwanie",
+        "Narodzenie",
+        "pokora",
+        "wybranie"
+      ],
+      "summary": "Bóg wzywa ubogich pasterzy, którzy czuwali, by przywitali Jezusa – wybranie małych i pokornych.",
+      "bible": [
+        "Łk 2, 8-20",
+        "1 Kor 1, 27"
+      ],
+      "text": [
+        "Za to u świata ubogich,",
+        "ale w czasach Twoich drogich,",
+        "pastuszków, którzy czuwali,",
+        "wzywasz, by Cię przywitali.",
+        ""
+      ]
+    },
+    {
+      "range": "36-40",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pasterz",
+        "szczęście",
+        "radość",
+        "ojciec",
+        "oczekiwanie",
+        "pierwszy",
+        "zobaczyć",
+        "Jezus Chrystus",
+        "spełnienie"
+      ],
+      "summary": "Szczęśliwi pasterze – czego ojcowie żądali, wy pierwsi oglądali: spełnienie obietnic.",
+      "bible": [
+        "Łk 2, 15-20",
+        "1 P 1, 10-12"
+      ],
+      "text": [
+        "O szczęśliwi pastuszkowie!",
+        "Któż radość waszą wypowie;",
+        "czego ojcowie żądali,",
+        "wyście pierwsi oglądali.",
+        ""
+      ]
+    },
+    {
+      "range": "41-45",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "obietnica",
+        "raj",
+        "Bóg",
+        "miłosierdzie",
+        "dar",
+        "słowo",
+        "wierność",
+        "spełnienie",
+        "przymierze"
+      ],
+      "summary": "Obietnica dana w raju (Protoewangelia) dziś się wypełniła – Bóg miłosierny, hojny w darach, wierny w słowach.",
+      "bible": [
+        "Rdz 3, 15",
+        "Rdz 12, 3"
+      ],
+      "text": [
+        "Obietnica w raju dana,",
+        "dziś została wykonana;",
+        "Boże jakieś miłosierny!",
+        "W darach hojny, w słowach wierny.",
+        ""
+      ]
+    },
+    {
+      "range": "46-50",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "świat",
+        "miłość",
+        "Syn",
+        "ofiara",
+        "cierpienie",
+        "Jezus Chrystus",
+        "Ojciec",
+        "Narodzenie",
+        "zbawienie"
+      ],
+      "summary": "Bóg tak umiłował świat, że nie żałował własnego Syna – zesłał Go na cierpienia od samego narodzenia.",
+      "bible": [
+        "J 3, 16"
+      ],
+      "text": [
+        "Takeś świat ten umiłował,",
+        "iżeś Syna nie żałował;",
+        "zesłałeś Go na cierpienia,",
+        "od samego narodzenia.",
+        ""
+      ]
+    },
+    {
+      "range": "51-55",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "niebo",
+        "nędza",
+        "ubóstwo",
+        "Bóstwo",
+        "wyniszczenie",
+        "miłość",
+        "kenoza",
+        "pokora"
+      ],
+      "summary": "Zdziwienie, że Jezus przekłada nędzę i ubóstwo nad niebo – wyniszcza swe Bóstwo, by być z ludźmi.",
+      "bible": [
+        "Flp 2, 6-8"
+      ],
+      "text": [
+        "O Jezu, nasze Kochanie,",
+        "czemu nad niebios mieszkanie",
+        "przekładasz nędzę, ubóstwo",
+        "i wyniszczasz swoje Bóstwo.",
+        ""
+      ]
+    },
+    {
+      "range": "56-60",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "dzieło",
+        "początek",
+        "równość",
+        "anioł",
+        "poniżenie",
+        "Jezus Chrystus",
+        "zbawienie",
+        "Wcielenie"
+      ],
+      "summary": "Miłość jest źródłem Wcielenia – by nas zrównać z aniołami, Bóg poniża się między nami.",
+      "bible": [
+        "J 3, 16",
+        "Flp 2, 6-8"
+      ],
+      "text": [
+        "Miłości to Twojej dzieło,",
+        "z miłości początek wzięło;",
+        "byś nas zrównał z Aniołami,",
+        "poniżasz się między nami.",
+        ""
+      ]
+    },
+    {
+      "range": "61-65",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Jezus Chrystus",
+        "prośba",
+        "miłość",
+        "życie",
+        "odwdzięczenie",
+        "dziękczynienie",
+        "adoracja",
+        "modlitwa"
+      ],
+      "summary": "Modlitwa do Jezusa, by dał nam siłę kochać Go nad życie i miłością odwdzięczać za Jego miłość.",
+      "bible": [
+        "1 J 4, 19"
+      ],
+      "text": [
+        "Spraw to, Jezu, Boskie Dziecię,",
+        "niech Cię kochamy nad życie;",
+        "niech miłością odwdzięczamy,",
+        "miłość, której doznawamy.",
+        ""
+      ]
+    },
+    {
+      "range": "66-69",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Maryja",
+        "Święta Panno",
+        "orędownictwo",
+        "Syn",
+        "Narodzenie",
+        "zbawienie",
+        "prośba",
+        "wstawiennictwo"
+      ],
+      "summary": "Prośba do Maryi o orędownictwo – niech Jej przyczyna u Syna zapewni nam zbawienie przez Jego Narodzenie.",
+      "bible": [
+        "J 2, 1-5"
+      ],
+      "text": [
+        "Święta Panno, Twa przyczyna,",
+        "niech nam wyjedna u Syna,",
+        "by to Jego narodzenie",
+        "zapewniło nam zbawienie."
+      ]
+    },
+    {
+      "range": "1-69",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Narodzenie",
+        "stajenka",
+        "Maryja",
+        "pasterz",
+        "Wcielenie",
+        "kenoza",
+        "unia hipostatyczna",
+        "obietnica",
+        "zbawienie",
+        "miłość",
+        "pokłon",
+        "adoracja",
+        "orędownictwo"
+      ],
+      "summary": "Bogata teologicznie kolęda przechodząca od zaproszenia do stajenki, przez wyznanie boskości i człowieczeństwa Jezusa, kenozę Boga, spełnienie obietnic Starego Testamentu, aż po modlitwę o miłość i orędownictwo Maryi.",
+      "bible": [
+        "Łk 2, 16",
+        "J 1, 1-14",
+        "J 3, 16",
+        "Flp 2, 6-8",
+        "Rdz 3, 15",
+        "Hbr 1, 1",
+        "J 2, 1-5",
+        "J 1, 10-11"
+      ]
+    }
+  ]
+}

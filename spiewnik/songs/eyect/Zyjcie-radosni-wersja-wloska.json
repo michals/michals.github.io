@@ -1,0 +1,104 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a3c9c39f7b30e122d27d068680bf4c1285a3e2c055e8ebc72706f6dbda32d05c",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "Pan",
+        "blisko",
+        "przyjście",
+        "czas",
+        "zbawienie",
+        "Jezus",
+        "Chrystus",
+        "oczekiwanie"
+      ],
+      "summary": "Refren wzywający do radości z powodu bliskości Pana i nadchodzącego czasu zbawienia.",
+      "bible": [
+        "Flp 4,4-5"
+      ],
+      "text": [
+        "Żyjcie radośni,",
+        "Pan już jest blisko.",
+        "Żyjcie radośni,",
+        "Pan już jest blisko.",
+        "Żyjcie radośni,",
+        "przyjścia Pana nadszedł czas,",
+        "i wybawi nas,",
+        "i wybawi nas,",
+        "i wybawi nas."
+      ]
+    },
+    {
+      "range": "10-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "odwaga",
+        "lęk",
+        "przyjście",
+        "Pan",
+        "zbawienie",
+        "Jezus",
+        "ufność",
+        "nadzieja"
+      ],
+      "summary": "Wezwanie do odwagi i przezwyciężenia lęku, ponieważ przyjście Pana i wybawienie są blisko.",
+      "bible": [
+        "Flp 4,6",
+        "Iz 35,4",
+        "Ap 22,20"
+      ],
+      "text": [
+        "Odwagi,",
+        "nie bójcie się,",
+        "przyjścia Pana nadszedł czas",
+        "i wybawi nas,",
+        "i wybawi nas,",
+        "i wybawi nas."
+      ]
+    },
+    {
+      "range": "16",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "Skrócone oznaczenie powtórzenia refrenu 'Żyjcie radośni…' (da capo).",
+      "bible": [],
+      "text": [
+        "Żyjcie radośni, …"
+      ]
+    },
+    {
+      "range": "1-16",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "radość",
+        "Pan",
+        "bliskość",
+        "przyjście",
+        "czas",
+        "zbawienie",
+        "odwaga",
+        "lęk",
+        "nadzieja",
+        "oczekiwanie",
+        "Jezus",
+        "Chrystus",
+        "Adwent",
+        "Paruzja"
+      ],
+      "summary": "Pieśń oparta na Flp 4,4-6 wzywająca do radości i odwagi w obliczu bliskości Pana i nadchodzącego czasu zbawienia, łącząca adwentowe oczekiwanie z paschalną nadzieją wybawienia.",
+      "bible": [
+        "Flp 4,4-6",
+        "Iz 35,4",
+        "Ap 22,20"
+      ]
+    }
+  ]
+}

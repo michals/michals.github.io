@@ -1,0 +1,229 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:0bdc1e36c227673c2b0204e411e0b9cdbec4c77a0605c735bbbd569fe47e1a5d",
+  "songs_analysis": [
+    {
+      "range": "1-3",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "dzień",
+        "nowy",
+        "przymierze",
+        "zawrzeć",
+        "naród",
+        "Izrael",
+        "Bóg",
+        "obietnica",
+        "odnowa"
+      ],
+      "summary": "Zapowiedź nowego przymierza, które Bóg zawrze z narodem Izraela. Otwarcie pieśni ogłoszeniem nadchodzących dni odnowy przymierza.",
+      "bible": [
+        "Jr 31,31",
+        "Hbr 8,8"
+      ],
+      "text": [
+        "Oto nadchodzą dni, oto nadchodzą dni,",
+        "kiedy nowe przymierze, kiedy nowe przymierze               zawrę z narodem Izraela.",
+        "kiedy nowe przymierze, kiedy nowe przymierzezawrę z narodem Izraela."
+      ]
+    },
+    {
+      "range": "4-9",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "czas",
+        "dzień",
+        "przymierze",
+        "dom",
+        "Izrael",
+        "ręka",
+        "Egipt",
+        "wyprowadzić",
+        "złamać",
+        "władca",
+        "Bóg",
+        "niewierność",
+        "stare przymierze"
+      ],
+      "summary": "Wspomnienie starego przymierza: Bóg ujął Izrael za ręce i wyprowadził z Egiptu, ale lud złamał przymierze mimo że Bóg był ich władcą. Kontrast między wiernością Boga a niewiernością ludu.",
+      "bible": [
+        "Jr 31,32",
+        "Wj 19,5-6",
+        "Wj 24,7-8"
+      ],
+      "text": [
+        "Był taki czas, były takie dni,",
+        "kiedy zawarłem przymierze                                                  z domem Izraela.",
+        "Był taki czas, były takie dni,",
+        "kiedy ująłem ich za ręce,                                         by wyprowadzić z ziemi egipskiej,",
+        "lecz oni, lecz oni                                  moje przymierze złamali,",
+        "mimo, że Ja, mimo, że Ja                                  byłem ich władcą!"
+      ]
+    },
+    {
+      "range": "10-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "czas",
+        "dzień",
+        "odnowić",
+        "przymierze",
+        "dom",
+        "Izrael",
+        "ręka",
+        "Egipt",
+        "wyprowadzić",
+        "Bóg",
+        "naród",
+        "obietnica",
+        "nowe przymierze"
+      ],
+      "summary": "Zapowiedź odnowienia przymierza: Bóg ponownie weźmie Izrael za ręce i wyprowadzi z Egiptu, będzie im Bogiem, a oni będą Mu narodem. Nowe przymierze jako odnowienie relacji oblubieńczej.",
+      "bible": [
+        "Jr 31,33",
+        "Wj 6,7",
+        "Kpł 26,12",
+        "2 Kor 6,16"
+      ],
+      "text": [
+        "Przyjdzie taki czas, przyjdą takie dni,",
+        "kiedy odnowię przymierze                                                  z domem Izraela.",
+        "Przyjdzie taki czas, przyjdą takie dni,",
+        "kiedy wezmę ich za ręce,                                          by wyprowadzić z ziemi egipskiej.",
+        "I Ja, i Ja będę im Bogiem,",
+        "a oni, a oni będą mi narodem!",
+        ""
+      ]
+    },
+    {
+      "range": "17-21",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "prawo",
+        "wypisać",
+        "serce",
+        "umieścić",
+        "głębina",
+        "jestestwo",
+        "Bóg",
+        "przymierze",
+        "wnętrze",
+        "przemiana"
+      ],
+      "summary": "Bóg zapowiada wypisanie swego prawa na dnie serca i w głębinach jestestwa – prawo wewnętrzne, nie na kamiennych tablicach, ale w ludzkim wnętrzu. Zapowiedź przemiany serca.",
+      "bible": [
+        "Jr 31,33",
+        "Ez 36,26-27",
+        "2 Kor 3,3",
+        "Hbr 8,10"
+      ],
+      "text": [
+        "Wypiszę swe prawo, wypiszę swe prawo",
+        "na dnie ich serca.",
+        "Umieszczę swe prawo, umieszczę swe prawo",
+        "w głębinach ich jestestwa!",
+        ""
+      ]
+    },
+    {
+      "range": "22-27",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "czas",
+        "dzień",
+        "pouczanie",
+        "wszyscy",
+        "mały",
+        "wielki",
+        "poznać",
+        "Bóg",
+        "odpuszczenie",
+        "występek",
+        "grzech",
+        "zapomnienie",
+        "przebaczenie",
+        "uniwersalizm"
+      ],
+      "summary": "W czasach nowego przymierza wszyscy – od najmniejszego do największego – będą znać Boga bez wzajemnego pouczania. Bóg odpuści występki i zapomni o grzechach. Uniwersalne poznanie Boga i całkowite przebaczenie.",
+      "bible": [
+        "Jr 31,34",
+        "Hbr 8,11-12",
+        "Iz 43,25",
+        "Hbr 10,17"
+      ],
+      "text": [
+        "Przyjdzie taki czas, przyjdą takie dni,",
+        "kiedy nie będą musieli                                               wzajemnie się pouczać.",
+        "Przyjdzie taki czas, przyjdą takie dni,",
+        "kiedy wszyscy od najmniejszego                                         do największego poznają Mnie!",
+        "Bo Ja, bo Ja                                      odpuszczę im występki,",
+        "bo Ja, bo Ja                                    zapomnę o ich grzechach!"
+      ]
+    },
+    {
+      "range": "28-30",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "dzień",
+        "nowy",
+        "przymierze",
+        "zawrzeć",
+        "naród",
+        "Izrael",
+        "Bóg",
+        "obietnica",
+        "spełnienie"
+      ],
+      "summary": "Powtórzenie incipitu 'Oto nadchodzą dni' jako zamknięcie pieśni, podkreślające pewność spełnienia proroctwa o nowym przymierzu.",
+      "bible": [
+        "Jr 31,31",
+        "Hbr 8,8"
+      ],
+      "text": [
+        "Oto nadchodzą dni, oto nadchodzą dni,",
+        "kiedy nowe przymierze, kiedy nowe przymierze              zawrę z narodem Izraela.",
+        "kiedy nowe przymierze, kiedy nowe przymierzezawrę z narodem Izraela."
+      ]
+    },
+    {
+      "range": "1-30",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "nowe przymierze",
+        "Izrael",
+        "Bóg",
+        "prawo",
+        "serce",
+        "odpuszczenie",
+        "grzech",
+        "przebaczenie",
+        "poznanie",
+        "Boga",
+        "Jeremiasz",
+        "proroctwo",
+        "stare przymierze",
+        "Egipt",
+        "wyprowadzenie",
+        "naród",
+        "obietnica",
+        "odnowa"
+      ],
+      "summary": "Parafraza Jr 31,31-34 – proroctwo o nowym przymierzu. Bóg zapowiada odnowienie relacji z Izraelem: prawo zostanie wypisane na sercach, wszyscy poznają Boga, a grzechy zostaną odpuszczone. Pieśń ma charakter adwentowy i eucharystyczny – nowe przymierze wypełnia się w Chrystusie (Łk 22,20; Hbr 8,8-12).",
+      "bible": [
+        "Jr 31,31-34",
+        "Hbr 8,8-12",
+        "Hbr 10,16-17",
+        "Łk 22,20",
+        "Ez 36,26-27",
+        "2 Kor 3,3"
+      ]
+    }
+  ]
+}

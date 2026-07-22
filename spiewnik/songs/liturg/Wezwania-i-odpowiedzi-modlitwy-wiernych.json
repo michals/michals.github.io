@@ -1,0 +1,183 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:137b6503356d5d589e532a83a8185fb9366aa6b470b77ddb408fc05860779097",
+  "songs_analysis": [
+    {
+      "range": "1-2",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "3-5",
+      "bible": [],
+      "text": [
+        "1.",
+        ""
+      ]
+    },
+    {
+      "range": "3-5",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wysłuchać",
+        "Pan",
+        "modlitwa",
+        "błaganie",
+        "wezwanie",
+        "lud",
+        "miłosierdzie",
+        "wołanie"
+      ],
+      "summary": "Prosta, powtórzona prośba ludu do Pana o wysłuchanie modlitw wiernych.",
+      "bible": [
+        "Ps 102, 2",
+        "Ps 143, 1",
+        "Ne 1, 6"
+      ],
+      "text": [
+        "Wysłuchaj nas Panie",
+        "Wysłuchaj nas   Panie",
+        ""
+      ]
+    },
+    {
+      "range": "6-7",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "8-10",
+      "bible": [],
+      "text": [
+        "2.",
+        ""
+      ]
+    },
+    {
+      "range": "8-10",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wysłuchać",
+        "Pan",
+        "modlitwa",
+        "błaganie",
+        "wezwanie",
+        "lud",
+        "wołanie"
+      ],
+      "summary": "Druga wersja wezwania 'Wysłuchaj nas, o Panie' – skrócona i bardziej intensywna prośba.",
+      "bible": [
+        "Ps 4, 2",
+        "Ps 54, 4",
+        "Ps 86, 6"
+      ],
+      "text": [
+        "Wysłuchaj nas",
+        "O, Panie",
+        ""
+      ]
+    },
+    {
+      "range": "11-12",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "13-15",
+      "bible": [],
+      "text": [
+        "3.",
+        ""
+      ]
+    },
+    {
+      "range": "13-15",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Jezus",
+        "wspomnieć",
+        "Królestwo",
+        "modlitwa",
+        "błaganie",
+        "dobry łotr",
+        "Paruzja",
+        "miłosierdzie",
+        "zbawienie"
+      ],
+      "summary": "Wezwanie do Chrystusa Króla, by pamiętał o swoim ludzie – bezpośrednie nawiązanie do prośby dobrego łotra z Krzyża.",
+      "bible": [
+        "Łk 23, 42",
+        "Ps 106, 4",
+        "Łk 22, 30"
+      ],
+      "text": [
+        "Jezu, wspomnij na nas,",
+        "teraz, gdy jesteś w swoim Królestwie",
+        ""
+      ]
+    },
+    {
+      "range": "16-17",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "18",
+      "bible": [],
+      "text": [
+        "4.",
+        ""
+      ]
+    },
+    {
+      "range": "18",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wysłuchać",
+        "ojciec",
+        "wołanie",
+        "lud",
+        "modlitwa",
+        "błaganie",
+        "Bóg Ojciec",
+        "lud Boży"
+      ],
+      "summary": "Wezwanie skierowane do Boga Ojca, by wysłuchał wołania swojego ludu – podkreślenie relacji ojcostwa Bożego.",
+      "bible": [
+        "Wj 2, 23-24",
+        "Ps 34, 7",
+        "J 17, 9",
+        "Rz 8, 15"
+      ],
+      "text": [
+        "Wysłuchaj, ojcze, wołania twego ludu."
+      ]
+    },
+    {
+      "range": "1-18",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "modlitwa wiernych",
+        "wezwanie",
+        "odpowiedź",
+        "lud",
+        "Pan",
+        "Jezus Chrystus",
+        "Bóg Ojciec",
+        "wysłuchać",
+        "błaganie",
+        "liturgia",
+        "królestwo",
+        "miłosierdzie"
+      ],
+      "summary": "Zbiór melodii wezwań i odpowiedzi Modlitwy Powszechnej (Modlitwy Wiernych). Każde wezwanie jest błaganiem ludu Bożego skierowanym do Boga Ojca lub Chrystusa o wysłuchanie próśb Kościoła.",
+      "bible": [
+        "Łk 23, 42",
+        "Ps 102, 2",
+        "Rz 8, 15",
+        "J 17, 9"
+      ]
+    }
+  ]
+}

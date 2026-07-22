@@ -1,0 +1,217 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a322a7f06d42d06e320a07deab971a74e1ebf2cba705478311710bc5a7955cff",
+  "songs_analysis": [
+    {
+      "range": "1",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "1",
+      "bible": [],
+      "text": [
+        "Pan potężny ogłasza dobrą nowinę,"
+      ]
+    },
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "potężny",
+        "ogłaszać",
+        "dobra nowina",
+        "zwiastun",
+        "zastęp",
+        "król",
+        "nieprzyjaciel",
+        "uciekać",
+        "zdobycz",
+        "zwycięstwo",
+        "tryumf"
+      ],
+      "summary": "Pan potężny ogłasza ewangelię zwycięstwa; królowie wrogów uciekają, a 'piękna pani domu' (symbol Izraela/Kościoła) rozdziela łupy wojenne.",
+      "bible": [
+        "Ps 68, 12-13",
+        "Wj 15, 1-2",
+        "Ef 4, 8",
+        "Kol 2, 15"
+      ],
+      "text": [
+        "Pan potężny ogłasza dobrą nowinę,",
+        "zwiastunów niezmierzone zastępy;",
+        "królowie nieprzyjaciół uciekają, uciekają,",
+        "a piękna pani domu rozdziela zdobycze.",
+        ""
+      ]
+    },
+    {
+      "range": "6-14",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "spać",
+        "zagroda",
+        "owca",
+        "srebro",
+        "skrzydło",
+        "gołębica",
+        "pióro",
+        "złoto",
+        "śnieg",
+        "góra",
+        "piękno",
+        "chwała"
+      ],
+      "summary": "Obraz mistyczny: podczas gdy wierni odpoczywają, skrzydła gołębicy pokrywają się srebrem i złotem, a śnieg spada na górę cienistą — symboliczne bogactwo Bożej łaski i chwały zstępującej na Syjon.",
+      "bible": [
+        "Ps 68, 14-16",
+        "Pnp 5, 11-12",
+        "Iz 1, 18",
+        "Ap 21, 21"
+      ],
+      "text": [
+        "Podczas gdy wy śpicie",
+        "pomiędzy zagrodami owiec,",
+        "pokrywają się srebrem",
+        "skrzydła gołębicy,",
+        "a jej pióra odblaskami złota.",
+        "A wraz z nią spada śnieg",
+        "na górę,",
+        "na górę cienistą.",
+        ""
+      ]
+    },
+    {
+      "range": "15-19",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "potężny",
+        "ogłaszać",
+        "dobra nowina",
+        "zwiastun",
+        "zastęp",
+        "król",
+        "nieprzyjaciel",
+        "uciekać",
+        "zdobycz",
+        "zwycięstwo"
+      ],
+      "summary": "Powtórzenie refrenu: nieustanna proklamacja Bożego triumfu nad wrogami.",
+      "bible": [
+        "Ps 68, 12-13"
+      ],
+      "text": [
+        "Pan potężny ogłasza dobrą nowinę,",
+        "zwiastunów niezmierzone zastępy;",
+        "królowie nieprzyjaciół uciekają, uciekają,",
+        "a piękna pani domu rozdziela zdobycze.",
+        ""
+      ]
+    },
+    {
+      "range": "20-27",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiewać",
+        "hymn",
+        "Pan",
+        "przemierzać",
+        "niebiosa",
+        "odwieczny",
+        "grzmieć",
+        "głos",
+        "potężny",
+        "chwała",
+        "majestat"
+      ],
+      "summary": "Wezwanie do śpiewu hymnu Panu, który przemierza odwieczne niebiosa — Jego głos grzmi potężnie, ukazując majestat Boga Króla nad całym stworzeniem.",
+      "bible": [
+        "Ps 68, 33-34",
+        "Ps 29, 3-4",
+        "Ps 104, 3",
+        "Ap 19, 6"
+      ],
+      "text": [
+        "Śpiewajcie Panu,",
+        "śpiewajcie hymny, śpiewajcie;",
+        "Pan przemierza niebiosa,",
+        "niebiosa odwieczne.",
+        "Oto grzmi Jego głos,",
+        "Jego głos,",
+        "Jego głos potężny!",
+        ""
+      ]
+    },
+    {
+      "range": "28-31",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "potężny",
+        "ogłaszać",
+        "dobra nowina",
+        "zwiastun",
+        "zastęp",
+        "król",
+        "nieprzyjaciel",
+        "uciekać",
+        "zdobycz",
+        "zwycięstwo"
+      ],
+      "summary": "Końcowe powtórzenie refrenu, pieczętujące pieśń tryumfalnym ogłoszeniem Bożego panowania.",
+      "bible": [
+        "Ps 68, 12-13"
+      ],
+      "text": [
+        "Pan potężny ogłasza dobrą nowinę,",
+        "zwiastunów niezmierzone zastępy;",
+        "królowie nieprzyjaciół uciekają, uciekają,",
+        "a piękna pani domu rozdziela zdobycze."
+      ]
+    },
+    {
+      "range": "1-31",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "potężny",
+        "dobra nowina",
+        "zwycięstwo",
+        "zwiastun",
+        "król",
+        "nieprzyjaciel",
+        "gołębica",
+        "srebro",
+        "złoto",
+        "góra",
+        "śpiewać",
+        "hymn",
+        "niebiosa",
+        "głos",
+        "grzmieć",
+        "majestat",
+        "chwała",
+        "zdobycz",
+        "tryumf"
+      ],
+      "summary": "Parafraza Psalmu 68 w formie pieśni refrenowej: Pan potężny ogłasza dobrą nowinę, a wrogowie uciekają. Refren przeplatany jest obrazami mistycznymi — gołębica o srebrzystych skrzydłach i złotych piórach symbolizuje lud Boży w chwale, a wezwanie do śpiewu hymnów oddaje cześć Panu przemierzającemu odwieczne niebiosa. Psalm ten w tradycji patrystycznej interpretowany jest jako zapowiedź wniebowstąpienia Chrystusa (Ef 4, 8), a 'dobra nowina' ogłaszana przez Pana to Ewangelia. 'Piękna pani domu rozdzielająca zdobycze' typologicznie zapowiada Kościół — Oblubienicę Chrystusa, która rozdaje dary łaski.",
+      "bible": [
+        "Ps 68, 12-16",
+        "Ps 68, 33-34",
+        "Ef 4, 8-10",
+        "Kol 2, 15",
+        "Ap 19, 6",
+        "Wj 15, 1-2",
+        "Ps 29, 3-4",
+        "Ap 21, 21"
+      ]
+    }
+  ]
+}

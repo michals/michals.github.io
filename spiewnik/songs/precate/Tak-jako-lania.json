@@ -1,0 +1,230 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:8247d310ab6a1c506f05919c98843b3290e5989e0d0b28c96c29a4d1e33f728f",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "wstęp",
+      "sentiment": "błagalny",
+      "keywords": [
+        "łania",
+        "woda",
+        "pragnienie",
+        "dusza",
+        "Bóg żywy",
+        "oblicze Boga",
+        "tęsknota za Bogiem"
+      ],
+      "summary": "Jak łania pragnie wody źródlanej, tak dusza pragnie Boga żywego – wyraz głębokiej tęsknoty za obecnością Bożą.",
+      "bible": [
+        "Ps 42, 2-3"
+      ],
+      "text": [
+        "Tak jako łania pragnie wody źródlanej,",
+        "tak samo",
+        "dusza moja pragnie Ciebie Boże.",
+        "Dusza moja jest spragniona Boga,",
+        "Boga żywego,",
+        "kiedyż zobaczę oblicze Boga?"
+      ]
+    },
+    {
+      "range": "7-12",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "łzy",
+        "chleb",
+        "wrogowie",
+        "szyderstwo",
+        "smutek",
+        "pytanie",
+        "nieobecność Boga"
+      ],
+      "summary": "Łzy stały się chlebem, a wrogowie szydzą: 'Gdzie jest twój Bóg?' – lament w obliczu cierpienia i drwin.",
+      "bible": [
+        "Ps 42, 4"
+      ],
+      "text": [
+        "Łzy stały się moim chlebem we dnie i w nocy,",
+        "podczas gdy moi wrogowie",
+        "mówią mi dzień cały:",
+        "„Gdzie jest twój Bóg?",
+        "Gdzie jest twój Bóg?",
+        "Gdzie jest twój Bóg?”"
+      ]
+    },
+    {
+      "range": "13-19",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "pamięć",
+        "orszak świąteczny",
+        "świątynia",
+        "smutek duszy",
+        "trwoga",
+        "zaufanie",
+        "Bóg",
+        "chwała",
+        "dialog duszy z Bogiem"
+      ],
+      "summary": "Wspomnienie radosnych procesji świątecznych kontrastuje z obecnym smutkiem. Refren 'Czemu się smucisz, duszo moja? Zaufaj Bogu' – wewnętrzny dialog wiary.",
+      "bible": [
+        "Ps 42, 5-6"
+      ],
+      "text": [
+        "O tym pamiętam i ściska mi się serce i dusza,",
+        "jak kroczyłem wśród pierwszych                          w świątecznym orszaku.",
+        "Czemu się smucisz, (o) duszo moja?",
+        "Czemu się trwożysz i jęczysz we mnie?",
+        "Zaufaj Bogu,",
+        "zaufaj Bogu,",
+        "a jeszcze Go będziesz chwalić."
+      ]
+    },
+    {
+      "range": "20-26",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "zbawienie",
+        "Bóg",
+        "zaufanie",
+        "chwała",
+        "wyznanie wiary",
+        "ufność"
+      ],
+      "summary": "Wyznanie ufności: Bóg jest zbawieniem oblicza mego i moim Bogiem. Wielokrotne wezwanie do zaufania Bogu.",
+      "bible": [
+        "Ps 42, 6",
+        "Ps 43, 5"
+      ],
+      "text": [
+        "",
+        "Bowiem On jest zbawieniem mego oblicza:",
+        "On jest mym Bogiem.",
+        "On jest mym Bogiem.",
+        "Zaufaj Bogu, zaufaj Bogu,",
+        "zaufaj Bogu, zaufaj Bogu,  ",
+        "a jeszcze Go będziesz chwalić."
+      ]
+    },
+    {
+      "range": "27-31",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Skała",
+        "opuszczenie",
+        "smutek",
+        "wrogowie",
+        "kości",
+        "dręczenie",
+        "Ps 22",
+        "Chrystus opuszczony"
+      ],
+      "summary": "Wołanie do Boga-Skały 'Czemuś mnie opuścił?' – cytat z Psalmu 22, typologicznie zapowiadający słowa Chrystusa na krzyżu. Lament w cierpieniu.",
+      "bible": [
+        "Ps 42, 7-8",
+        "Ps 22, 2",
+        "Mt 27, 46"
+      ],
+      "text": [
+        "Ileż razy mówiłem do mojej Skały:                 „Czemuś mnie opuścił?",
+        "Dlaczego",
+        "chodzę smutny, dręczony przez mych wrogów?”",
+        "Kości we mnie się łamią, gdy słyszę dzień cały:",
+        "„Gdzie jest twój Bóg? Gdzie jest twój Bóg?”"
+      ]
+    },
+    {
+      "range": "32-36",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "światłość",
+        "prawda",
+        "świątynia",
+        "pieśń radosna",
+        "gitara",
+        "święto",
+        "prowadzenie Boże",
+        "liturgia"
+      ],
+      "summary": "Modlitwa o zesłanie światłości i prawdy Bożej, które zaprowadzą do świątyni na radosną pieśń uwielbienia.",
+      "bible": [
+        "Ps 43, 3-4"
+      ],
+      "text": [
+        "Panie,",
+        "ześlij Twoją światłość i Twą prawdę,",
+        "niech one mnie zaprowadzą do Twojej świątyni,",
+        "a wtedy będę mógł Ci śpiewać pieśń radosną,",
+        "pieśń świąteczną na mojej gitarze."
+      ]
+    },
+    {
+      "range": "37-40",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "zaufanie",
+        "Bóg",
+        "zbawienie",
+        "chwała",
+        "ufność",
+        "nadzieja"
+      ],
+      "summary": "Skrócony refren końcowy: wezwanie do zaufania Bogu i wyznanie, że On jest zbawieniem – afirmacja ufności.",
+      "bible": [
+        "Ps 42, 6",
+        "Ps 43, 5"
+      ],
+      "text": [
+        "Czemu się smucisz …",
+        "Zaufaj Bogu, …",
+        "Bowiem On …",
+        "Zaufaj Bogu, …"
+      ]
+    },
+    {
+      "range": "1-40",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "łania",
+        "woda",
+        "pragnienie",
+        "dusza",
+        "Bóg żywy",
+        "oblicze Boga",
+        "łzy",
+        "wrogowie",
+        "szyderstwo",
+        "orszak świąteczny",
+        "zaufanie",
+        "zbawienie",
+        "Skała",
+        "opuszczenie",
+        "światłość",
+        "prawda",
+        "świątynia",
+        "pieśń radosna",
+        "Ps 22",
+        "Chrystus",
+        "nadzieja",
+        "smutek",
+        "trwoga",
+        "chwała",
+        "lament"
+      ],
+      "summary": "Psalm 42-43 jako pieśń tęsknoty duszy za Bogiem pośród cierpienia i drwin wrogów. Przechodzi od lamentu przez dialog wewnętrzny do ufności. Zawiera cytat 'Czemuś mnie opuścił?' (Ps 22), który typologicznie zapowiada opuszczenie Chrystusa na krzyżu, a także zapowiedź radosnej liturgii w świątyni.",
+      "bible": [
+        "Ps 42-43",
+        "Ps 22, 2",
+        "Mt 27, 46"
+      ]
+    }
+  ]
+}

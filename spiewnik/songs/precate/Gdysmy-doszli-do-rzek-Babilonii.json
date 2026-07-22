@@ -1,0 +1,206 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:8ed049a92f85bc42408fa0ed1d9d6645b8642f49498aee8651f64e4c33724371",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "rzeki Babilonii",
+        "płacz",
+        "wspomnienie",
+        "Jeruzalem",
+        "wygnanie",
+        "wierzby",
+        "gitara",
+        "łzy",
+        "Ps 137",
+        "tęsknota"
+      ],
+      "summary": "Obraz wygnania nad rzekami Babilonu, gdzie płacz i zawieszenie instrumentów muzycznych wyrażają tęsknotę za utraconym Jeruzalem, typologicznie zapowiadając tęsknotę Kościoła za niebiańską ojczyzną.",
+      "bible": [
+        "Ps 137, 1-2",
+        "Hbr 11, 13-16",
+        "Ap 21, 1-4"
+      ],
+      "text": [
+        "Gdyśmy doszli do rzek Babilonii,",
+        "wspominając ciebie, usiedliśmy, aby płakać;",
+        "na wierzbach zawiesiliśmy nasze gitary,",
+        "wspominając ciebie, usiedliśmy, aby płakać.",
+        ""
+      ]
+    },
+    {
+      "range": "6-9",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "wrogowie",
+        "śpiew",
+        "ciemiężcy",
+        "wygnanie",
+        "pieśń radosna",
+        "obca ziemia",
+        "przymus",
+        "Ps 137"
+      ],
+      "summary": "Wrogowie żądają od wygnańców radosnych pieśni, pogłębiając upokorzenie i ból wygnania; niemożność śpiewania pieśni Pańskiej w obcej ziemi wyraża rozdarcie między wiarą a niewolą.",
+      "bible": [
+        "Ps 137, 3-4",
+        "Iz 52, 5"
+      ],
+      "text": [
+        "„Śpiewajcie”, mówili nam nasi wrogowie.",
+        "„Śpiewajcie”, mówili nam nasi ciemiężcy.",
+        "Prosili, aby śpiewać pieśni radosne.",
+        ""
+      ]
+    },
+    {
+      "range": "10-14",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "zapomnienie",
+        "Jeruzalem",
+        "prawica",
+        "język",
+        "podniebienie",
+        "przekleństwo",
+        "wierność",
+        "największa radość",
+        "Ps 137"
+      ],
+      "summary": "Deklaracja absolutnej wierności Jeruzalem: zapomnienie o nim byłoby samookaleczeniem, a Jerozolima pozostaje źródłem największej radości nawet na wygnaniu, typologicznie wskazując na wierność Kościoła Chrystusowi.",
+      "bible": [
+        "Ps 137, 5-6",
+        "Iz 62, 1",
+        "Ga 4, 26"
+      ],
+      "text": [
+        "Jakże śpiewać pieśń Pana w obcej ziemi?",
+        "Jeśli o tobie zapomnę, niech uschnie moja prawica;",
+        "niech mi język przyschnie do podniebienia,",
+        "jeśli zapomnę cię, Jeruzalem, w mojej największej radości.",
+        ""
+      ]
+    },
+    {
+      "range": "15-18",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "rachunek",
+        "wrogowie",
+        "ciemiężcy",
+        "zemsta",
+        "sprawiedliwość",
+        "zniszczenie",
+        "fundamenty",
+        "Ps 137",
+        "Bóg"
+      ],
+      "summary": "Błagalne wołanie do Boga o wymierzenie sprawiedliwości wrogom, którzy dążyli do całkowitego zburzenia Jerozolimy, oddając sąd w ręce Boga.",
+      "bible": [
+        "Ps 137, 7-8",
+        "Jr 50-51",
+        "Rz 12, 19"
+      ],
+      "text": [
+        "O Panie, zażądaj rachunku od naszych wrogów.",
+        "O Panie, zażądaj rachunku od naszych ciemiężców.",
+        "Albowiem powtarzali: „Zburzymy ją aż do fundamentów”.",
+        ""
+      ]
+    },
+    {
+      "range": "19-22",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Babilonia",
+        "zbrodnia",
+        "odpłata",
+        "zło",
+        "dzieci",
+        "skała",
+        "Ps 137",
+        "sąd"
+      ],
+      "summary": "Gwałtowna zapowiedź odpłaty Babilonii za wyrządzone zło, z trudnym obrazem roztrzaskania dzieci o skałę, który w interpretacji patrystycznej symbolizuje zniszczenie grzechu u podstaw (skałą jest Chrystus).",
+      "bible": [
+        "Ps 137, 8-9",
+        "Iz 13, 16",
+        "Oz 14, 1",
+        "1 Kor 10, 4"
+      ],
+      "text": [
+        "Stolico zbrodniczej Babilonii!",
+        "Kto ci odpłaci za zło nam wyrządzone?",
+        "Kto chwyci i roztrzaska twoje dzieci o skałę?",
+        ""
+      ]
+    },
+    {
+      "range": "23-26",
+      "type": "zakończenie",
+      "sentiment": "pokutny",
+      "keywords": [
+        "rzeki Babilonii",
+        "płacz",
+        "wspomnienie",
+        "Jeruzalem",
+        "wygnanie",
+        "wierzby",
+        "gitara",
+        "łzy",
+        "Ps 137"
+      ],
+      "summary": "Powtórzenie początkowych wersów jako inclusio, zamykające pieśń w kręgu wygnania i tęsknoty, podkreślając trwający stan wygnania i nieustanne wspomnienie Jeruzalem.",
+      "bible": [
+        "Ps 137, 1-2",
+        "Ap 21, 1-4"
+      ],
+      "text": [
+        "Gdyśmy doszli do rzek Babilonii,",
+        "wspominając ciebie, usiedliśmy, aby płakać;",
+        "na wierzbach zawiesiliśmy nasze gitary,",
+        "wspominając ciebie, usiedliśmy, aby płakać."
+      ]
+    },
+    {
+      "range": "1-26",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Ps 137",
+        "wygnanie",
+        "Babilonia",
+        "Jeruzalem",
+        "tęsknota",
+        "płacz",
+        "niewola",
+        "sąd",
+        "sprawiedliwość",
+        "wierność",
+        "przymierze",
+        "eschatologia",
+        "niebiańska ojczyzna",
+        "Kościół",
+        "Wielki Post",
+        "Liturgia Godzin"
+      ],
+      "summary": "Parafraza Psalmu 137, wyrażająca ból wygnania i tęsknotę za Jeruzalem, typologicznie odczytana jako wyraz tęsknoty Kościoła pielgrzymującego za niebiańską ojczyzną (Ga 4, 26; Ap 21). Na Wielki Post jako pieśń pokutna ukazująca konsekwencje grzechu (niewola) i nadzieję odbudowy przymierza.",
+      "bible": [
+        "Ps 137",
+        "Ga 4, 26",
+        "Ap 21, 1-4",
+        "Jr 50-51",
+        "Rz 12, 19",
+        "1 Kor 10, 4"
+      ]
+    }
+  ]
+}

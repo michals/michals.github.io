@@ -1,0 +1,367 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:fed506062c9ea5604a3ce85917a80f9f8c227a23a49ae0d23731818f14f36909",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "Anioł",
+        "niebo",
+        "hymn",
+        "tryumf",
+        "Pan Zmartwychwstały",
+        "ziemia",
+        "światło",
+        "Król",
+        "ciemność",
+        "Kościół",
+        "Matka Kościół",
+        "chwała",
+        "śpiew",
+        "lud",
+        "radość",
+        "święto"
+      ],
+      "summary": "Uroczyste wezwanie do radości skierowane do Aniołów w niebie, ziemi i Kościoła z okazji triumfu Zmartwychwstałego Pana.",
+      "bible": [
+        "Ap 5, 11-12",
+        "Ap 19, 1-7",
+        "Iz 49, 13",
+        "Ps 96, 11-12",
+        "J 1, 5",
+        "Mt 28, 1-10"
+      ],
+      "text": [
+        "Niech się cieszą zastępy Aniołów w niebie.",
+        "Niech się cieszy zgromadzenie niebieskie,",
+        "a hymn pochwalny niech przywita tryumf Pana Zmartwychwstałego!",
+        "Niech się cieszy ziemia zanurzona w nowym świetle.",
+        "Wspaniały blask Króla zwyciężył ciemności, ciemności tego świata!",
+        "Niech się cieszy Matka Kościół,",
+        "jaśniejąca blaskiem niezmiernej chwały swojego Pana.",
+        "W tym zaś miejscu niech zabrzmi jednogłośny śpiew",
+        "ludu radującego się świętem."
+      ]
+    },
+    {
+      "range": "10-15",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Pan",
+        "duch",
+        "serce",
+        "dziękczynienie",
+        "Bóg",
+        "Eucharystia",
+        "liturgia"
+      ],
+      "summary": "Dialog liturgiczny prefacji wigilii paschalnej wzywający do wzniesienia serc i składania dziękczynienia Bogu.",
+      "bible": [
+        "Kol 3, 1-2",
+        "Ps 136",
+        "Flp 4, 4-6"
+      ],
+      "text": [
+        "Pan z wami.",
+        "I z duchem twoim.",
+        "W górę serca.",
+        "Wznosimy je do Pana.",
+        "Dzięki składamy Panu, Bogu naszemu!",
+        "Godne to i sprawiedliwe, Godne to i sprawiedliwe."
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Ojciec Wszechmogący",
+        "Syn",
+        "Jezus Chrystus",
+        "dług",
+        "Adam",
+        "Krew",
+        "miłość",
+        "wina",
+        "odkupienie",
+        "przebaczenie"
+      ],
+      "summary": "Chrystus spłacił dług Adama i swoją Krwią przelaną z miłości zgładził wyrok winy pierworodnej.",
+      "bible": [
+        "Rz 5, 12-21",
+        "1 Kor 15, 22",
+        "1 J 1, 7",
+        "Ap 1, 5",
+        "Hbr 9, 22",
+        "Kol 2, 14"
+      ],
+      "text": [
+        "Zaprawdę godne to i sprawiedliwe wyrażać śpiewem uniesienie ducha",
+        "i wysławiać Ojca Wszechmogącego",
+        "oraz Jego Syna Jezusa Chrystusa, naszego Pana.",
+        "On to spłacił za nas dług Adama Przedwiecznemu Ojcu,",
+        "a Krwią swoją przelaną z miłości zmazał skazujący wyrok starodawnej winy."
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Święto Paschy",
+        "Barankiem",
+        "noc",
+        "niewola egipska",
+        "wyzwolenie",
+        "ciemność",
+        "zło",
+        "grzech"
+      ],
+      "summary": "Ogłoszenie Święta Paschy, gdy zabija się Baranka; typologiczne odniesienie nocy paschalnej do wyzwolenia z niewoli egipskiej i z ciemności grzechu.",
+      "bible": [
+        "Wj 12, 1-14",
+        "1 Kor 5, 7",
+        "J 1, 29",
+        "Ap 5, 6",
+        "Wj 14, 21-31",
+        "J 8, 12"
+      ],
+      "text": [
+        "Oto Święto Paschy, gdy zabija się Baranka.",
+        "Oto właśnie ta noc, gdy uwolniłeś naszych ojców z niewoli egipskiej.",
+        "Oto właśnie ta noc, która nas wyrywa z ciemności zła.",
+        "Oto właśnie ta noc, w której On zwyciężył ciemności grzechu!",
+        ""
+      ]
+    },
+    {
+      "range": "26-28",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "Chrystus",
+        "więzy śmierci",
+        "otchłań",
+        "zwycięstwo",
+        "zmartwychwstanie"
+      ],
+      "summary": "Refren ogłaszający zwycięstwo Chrystusa nad śmiercią i Jego triumfalne wyjście z otchłani.",
+      "bible": [
+        "1 P 3, 19",
+        "Ef 4, 8-9",
+        "Ap 1, 18",
+        "Rz 6, 9",
+        "Mt 27, 52-53"
+      ],
+      "text": [
+        "To jest ta noc, w której Chrystus skruszył więzy śmierci",
+        "i z otchłani powraca zwycięski!",
+        ""
+      ]
+    },
+    {
+      "range": "29-33",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "łaska",
+        "miłość",
+        "niewolnik",
+        "Syn",
+        "ofiara",
+        "grzech",
+        "Adam",
+        "odkupienie",
+        "Bóg Ojciec",
+        "Jezus Chrystus"
+      ],
+      "summary": "Zdumienie nad niepojętą miłością Boga, który dla wyzwolenia niewolnika poświęcił swojego Syna.",
+      "bible": [
+        "J 3, 16",
+        "Rz 5, 20-21",
+        "2 Kor 8, 9",
+        "Flp 2, 6-8"
+      ],
+      "text": [
+        "O jak przedziwna wyrozumiałość Twej darmowej łaski,",
+        "jak niepojęta czułość Twej miłości:",
+        "by wyzwolić niewolnika, poświęciłeś Syna!",
+        "Bez grzechu Adama Chrystus by nas nie odkupił!",
+        ""
+      ]
+    },
+    {
+      "range": "34-36",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "szczęśliwa wina",
+        "grzech",
+        "Odkupiciel",
+        "zbawienie",
+        "felix culpa",
+        "łaska"
+      ],
+      "summary": "Felix culpa – szczęśliwa wina, która została zgładzona przez tak wielkiego Odkupiciela.",
+      "bible": [
+        "Rz 5, 20-21",
+        "Rz 11, 32-33",
+        "1 Kor 15, 56-57"
+      ],
+      "text": [
+        "Szczęśliwa wina, skoro ją zgładził tak wielki Odkupiciel,",
+        "szczęśliwa wina!",
+        ""
+      ]
+    },
+    {
+      "range": "37-43",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc błogosławiona",
+        "zmartwychwstanie Chrystusa",
+        "Egipt",
+        "Izrael",
+        "zło",
+        "wina",
+        "obmycie",
+        "pojednanie",
+        "Bóg",
+        "człowiek"
+      ],
+      "summary": "Uwielbienie nocy paschalnej, która przynosi zmartwychwstanie, bogaci Izraela kosztem Egiptu, zwycięża zło, obmywa winy i łączy człowieka z Bogiem.",
+      "bible": [
+        "Wj 12, 35-36",
+        "Wj 14",
+        "Iz 1, 18",
+        "2 Kor 5, 18-19",
+        "Ef 2, 14-16"
+      ],
+      "text": [
+        "O nocy, zaiste błogosławiona,",
+        "któraś poznała godzinę zmartwychwstania Chrystusa!",
+        "O nocy, zaiste błogosławiona,",
+        "któraś ograbiła Egipcjan, by wzbogacić Izraela!",
+        "O nocy, która zło zwyciężasz, obmywasz winy!",
+        "O nocy, naprawdę chwalebna, która łączysz człowieka z jego Bogiem!",
+        ""
+      ]
+    },
+    {
+      "range": "44-46",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "noc",
+        "Chrystus",
+        "więzy śmierci",
+        "otchłań",
+        "zwycięstwo",
+        "zmartwychwstanie"
+      ],
+      "summary": "Refren ogłaszający zwycięstwo Chrystusa nad śmiercią i Jego triumfalny powrót z otchłani.",
+      "bible": [
+        "1 P 3, 19",
+        "Ef 4, 8-9",
+        "Ap 1, 18",
+        "Rz 6, 9"
+      ],
+      "text": [
+        "To jest ta noc, w której Chrystus skruszył więzy śmierci",
+        "i z otchłani powraca zwycięski!",
+        ""
+      ]
+    },
+    {
+      "range": "47-58",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "ofiara pochwalna",
+        "Kościół",
+        "sługa",
+        "liturgia paschalna",
+        "świeca",
+        "paschał",
+        "światło",
+        "gwiazda poranna",
+        "Chrystus",
+        "zmartwychwstanie",
+        "Bóg Ojciec"
+      ],
+      "summary": "Ofiarowanie paschału – świecy paschalnej jako znaku Chrystusa Zmartwychwstałego, który jest niegasnącą gwiazdą poranną.",
+      "bible": [
+        "Ap 22, 16",
+        "J 8, 12",
+        "J 12, 46",
+        "Ap 21, 23",
+        "2 P 1, 19",
+        "Wj 25, 31-40"
+      ],
+      "text": [
+        "W tę noc pełną łaski przyjmij, Ojcze Święty, ofiarę pochwalną,",
+        "którą Kościół Tobie składa rękami Twoich sług,",
+        "w uroczystej liturgii paschalnej świecy, znaku nowego światła.",
+        "Prosimy Cię, o Panie,",
+        "aby ta świeca ofiarowana na cześć Twojego imienia rozbłysła światłem.",
+        "Niech się wzniesie do Ciebie jako woń przyjemna,",
+        "niechaj się złączy z gwiazdami nieba.",
+        "Niech ją znajdzie zapaloną gwiazda poranna,",
+        "ta gwiazda, która nie zna zachodu.",
+        "Chrystus, Twój Syn, powstały z martwych,",
+        "jaśnieje swoim pogodnym światłem!",
+        ""
+      ]
+    },
+    {
+      "range": "59",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Amen",
+        "zakończenie",
+        "potwierdzenie",
+        "chwała"
+      ],
+      "summary": "Uroczyste potrójne Amen jako zakończenie Orędzia Paschalnego.",
+      "bible": [
+        "Ap 22, 20",
+        "1 Krn 16, 36"
+      ],
+      "text": [
+        "Amen, amen, amen!"
+      ]
+    },
+    {
+      "range": "1-59",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pascha",
+        "zmartwychwstanie",
+        "Chrystus",
+        "światło",
+        "odkupienie",
+        "noc paschalna",
+        "Exsultet",
+        "ofiara",
+        "Kościół",
+        "radość",
+        "felix culpa"
+      ],
+      "summary": "Orędzie Paschalne (Exsultet) śpiewane podczas Wigilii Paschalnej, głoszące radość z zmartwychwstania Chrystusa, odkupienie człowieka przez Krzyż, felix culpa oraz ofiarowanie paschału jako znaku światła.",
+      "bible": [
+        "Wj 12",
+        "Wj 14",
+        "Rz 5, 12-21",
+        "1 Kor 15",
+        "Ap 22, 16"
+      ]
+    }
+  ]
+}

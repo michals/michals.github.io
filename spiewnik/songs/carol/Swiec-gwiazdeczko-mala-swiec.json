@@ -1,0 +1,209 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:02ea4d7f81dc2086d431d4908aeba77d655e33cd2a714d0837db98c71e464321",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Betlejem",
+        "Bóg",
+        "narodzić się",
+        "spóźnić się",
+        "pośpiech",
+        "Jezus Chrystus",
+        "Boże Narodzenie",
+        "Wcielenie"
+      ],
+      "summary": "Podmiot liryczny prosi gwiazdkę betlejemską o prowadzenie do Betlejem, gdzie narodził się Bóg, wyrażając niecierpliwość i pragnienie spotkania.",
+      "bible": [
+        "Mt 2, 1-2",
+        "Łk 2, 15-16"
+      ],
+      "text": [
+        "Zaprowadź mnie, prosto do Betlejem,",
+        "zaprowadź mnie, gdzie Bóg narodził się,",
+        "Zaprowadź mnie, nie mogę spóźnić się,",
+        "nie mogę spóźnić się.",
+        ""
+      ]
+    },
+    {
+      "range": "6-8",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "gwiazda",
+        "świecić",
+        "prowadzić",
+        "Jezus",
+        "Boże Narodzenie",
+        "Betlejem"
+      ],
+      "summary": "Refren będący prośbą do gwiazdki betlejemskiej, by prowadziła do Jezusa, nawiązujący do Gwiazdy Betlejemskiej z Ewangelii Mateusza.",
+      "bible": [
+        "Mt 2, 2"
+      ],
+      "text": [
+        "Świeć, gwiazdeczko, mała świeć,",
+        "do Jezusa prowadź mnie.",
+        ""
+      ]
+    },
+    {
+      "range": "9-13",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "narodzić się",
+        "zstąpić",
+        "Ziemia",
+        "uratować",
+        "zostawić",
+        "Wcielenie",
+        "zbawienie",
+        "Jezus Chrystus",
+        "Odkupiciel"
+      ],
+      "summary": "Wyznanie wiary w Boga, który zstąpił na ziemię przez narodzenie, aby zbawić człowieka i nigdy go nie opuścić.",
+      "bible": [
+        "J 3, 16-17",
+        "Flp 2, 6-7",
+        "Rz 8, 35-39"
+      ],
+      "text": [
+        "Narodził się, Bóg zstąpił na Ziemię,",
+        "narodził się, by uratować mnie,",
+        "Narodził się i nie zostawił mnie,",
+        "i nie zostawił mnie.",
+        ""
+      ]
+    },
+    {
+      "range": "14-16",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "gwiazda",
+        "świecić",
+        "prowadzić",
+        "Jezus",
+        "Boże Narodzenie",
+        "Betlejem"
+      ],
+      "summary": "Refren będący prośbą do gwiazdki betlejemskiej, by prowadziła do Jezusa, nawiązujący do Gwiazdy Betlejemskiej z Ewangelii Mateusza.",
+      "bible": [
+        "Mt 2, 2"
+      ],
+      "text": [
+        "Świeć, gwiazdeczko, mała świeć,",
+        "do Jezusa prowadź mnie.",
+        ""
+      ]
+    },
+    {
+      "range": "17-21",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Józef",
+        "Maryja",
+        "śpiewać",
+        "gloria",
+        "historia",
+        "Święta Rodzina",
+        "chwała",
+        "Boże Narodzenie"
+      ],
+      "summary": "Obraz Świętej Rodziny w Betlejem: Józef i Maryja oczekujący na przybywających, śpiewający Gloria – świętą historię zbawienia.",
+      "bible": [
+        "Łk 2, 16",
+        "Łk 2, 14"
+      ],
+      "text": [
+        "Czekają tam Józef i Maryja.",
+        "Śpiewają nam, śpiewają gloria.",
+        "To gloria, święta historia,",
+        "święta historia.",
+        ""
+      ]
+    },
+    {
+      "range": "22-24",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "gwiazda",
+        "świecić",
+        "prowadzić",
+        "Jezus",
+        "Boże Narodzenie",
+        "Betlejem"
+      ],
+      "summary": "Refren będący prośbą do gwiazdki betlejemskiej, by prowadziła do Jezusa, nawiązujący do Gwiazdy Betlejemskiej z Ewangelii Mateusza.",
+      "bible": [
+        "Mt 2, 2"
+      ],
+      "text": [
+        "Świeć, gwiazdeczko, mała świeć,",
+        "do Jezusa prowadź mnie.",
+        ""
+      ]
+    },
+    {
+      "range": "25-28",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Betlejem",
+        "Bóg",
+        "narodzić się",
+        "spóźnić się",
+        "pośpiech",
+        "Jezus Chrystus",
+        "Boże Narodzenie",
+        "Wcielenie"
+      ],
+      "summary": "Powtórzenie prośby o prowadzenie do Betlejem, podkreślające pragnienie spotkania nowonarodzonego Boga.",
+      "bible": [
+        "Mt 2, 1-2",
+        "Łk 2, 15-16"
+      ],
+      "text": [
+        "Zaprowadź mnie, prosto do Betlejem,",
+        "zaprowadź mnie, gdzie Bóg narodził się,",
+        "Zaprowadź mnie, nie mogę spóźnić się,",
+        "nie mogę spóźnić się."
+      ]
+    },
+    {
+      "range": "1-28",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "gwiazda",
+        "Betlejem",
+        "Jezus",
+        "Bóg",
+        "narodzenie",
+        "Wcielenie",
+        "zbawienie",
+        "Boże Narodzenie",
+        "Józef",
+        "Maryja",
+        "Święta Rodzina",
+        "prowadzić",
+        "świecić"
+      ],
+      "summary": "Dziecięca kolęda o podróży do Betlejem prowadzonej przez gwiazdkę, wyrażająca radość z narodzin Boga i pragnienie spotkania z Jezusem. Łączy motywy ewangeliczne (Mt 2, Łk 2) z prostotą dziecięcej pobożności.",
+      "bible": [
+        "Mt 2, 1-2",
+        "Łk 2, 15-16",
+        "J 3, 16",
+        "Flp 2, 6-7"
+      ]
+    }
+  ]
+}

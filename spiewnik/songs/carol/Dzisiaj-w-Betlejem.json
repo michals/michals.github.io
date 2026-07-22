@@ -1,0 +1,335 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:fe31e919ab105f0654e7355d6078196e84b82750447c82b38314467b7b4e4a1b",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Betlejem",
+        "nowina",
+        "Panna czysta",
+        "Syn",
+        "narodzenie",
+        "radość",
+        "Maryja",
+        "Jezus Chrystus"
+      ],
+      "summary": "Radosna nowina z Betlejem: Panna czysta porodziła Syna — centralne orędzie Bożego Narodzenia.",
+      "bible": [
+        "Łk 2, 16",
+        "Iz 7, 14",
+        "Mt 1, 23"
+      ],
+      "text": [
+        "Dzisiaj w Betlejem, dzisiaj w Betlejem",
+        "wesoła nowina,",
+        "że Panna czysta, że Panna czysta",
+        "porodziła Syna.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "narodzenie",
+        "wyzwolenie",
+        "aniołowie",
+        "królowie",
+        "pasterze",
+        "bydlęta",
+        "cuda",
+        "zbawienie"
+      ],
+      "summary": "Refren ogłaszający zbawcze znaczenie narodzin Chrystusa: rodzi się, by nas oswobodzić; całe stworzenie oddaje Mu cześć.",
+      "bible": [
+        "J 8, 36",
+        "Rz 8, 21",
+        "Ga 5, 1"
+      ],
+      "text": [
+        "Chrystus się rodzi, nas oswobodzi,",
+        "Anieli grają, króle witają,",
+        "pasterze śpiewają, bydlęta klękają,",
+        "cuda, cuda ogłaszają.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maryja",
+        "Panna",
+        "Dzieciątko",
+        "Józef",
+        "piastowanie",
+        "opieka",
+        "Święta Rodzina"
+      ],
+      "summary": "Maryja piastuje Dzieciątko, a Józef starszy otacza je troskliwą opieką — obraz Świętej Rodziny.",
+      "bible": [
+        "Łk 2, 16",
+        "Mt 1, 24-25"
+      ],
+      "text": [
+        "Maryja Panna, Maryja Panna",
+        "Dzieciątko piastuje,",
+        "i Józef stary, i Józef stary",
+        "Ono pielęgnuje.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "narodzenie",
+        "wyzwolenie",
+        "aniołowie",
+        "królowie",
+        "pasterze",
+        "bydlęta",
+        "cuda",
+        "zbawienie"
+      ],
+      "summary": "Powtórzenie refrenu: Chrystus rodzi się, by oswobodzić człowieka z niewoli grzechu.",
+      "bible": [
+        "J 8, 36",
+        "Rz 8, 21"
+      ],
+      "text": [
+        "Chrystus się rodzi, nas oswobodzi,",
+        "Anieli grają, króle witają,",
+        "pasterze śpiewają, bydlęta klękają,",
+        "cuda, cuda ogłaszają.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "stajenka",
+        "Panna",
+        "Syn",
+        "wyzwolenie",
+        "zapowiedź",
+        "Jezus Chrystus",
+        "odkupienie"
+      ],
+      "summary": "Choć rodzi się w ubogiej stajence, On wkrótce oswobodzi ludzi — zapowiedź zbawczego dzieła Chrystusa.",
+      "bible": [
+        "Łk 2, 7",
+        "J 8, 36"
+      ],
+      "text": [
+        "Choć w stajeneczce, choć w stajeneczce",
+        "Panna Syna rodzi;",
+        "Przecież On wkrótce, przecież On wkrótce",
+        "ludzi oswobodzi.",
+        ""
+      ]
+    },
+    {
+      "range": "26-27",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "6-9",
+      "bible": [],
+      "text": [
+        "Chrystus się rodzi …",
+        ""
+      ]
+    },
+    {
+      "range": "28-32",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Trzej Królowie",
+        "Wschód",
+        "dary",
+        "Pan",
+        "złoto",
+        "kadzidło",
+        "mirra",
+        "pokłon"
+      ],
+      "summary": "Trzej Królowie ze Wschodu przynoszą kosztowne dary nowonarodzonemu Panu.",
+      "bible": [
+        "Mt 2, 11"
+      ],
+      "text": [
+        "I Trzej Królowie, i Trzej Królowie",
+        "od wschodu przybyli",
+        "I dary Panu, i dary Panu",
+        "kosztowne złożyli.",
+        ""
+      ]
+    },
+    {
+      "range": "33-34",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "6-9",
+      "bible": [],
+      "text": [
+        "Chrystus się rodzi …",
+        ""
+      ]
+    },
+    {
+      "range": "35-39",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "pójdźmy",
+        "Jezus",
+        "Król",
+        "Chrystus",
+        "adoracja",
+        "uwielbienie",
+        "wspólnota"
+      ],
+      "summary": "Zaproszenie do przywitania Jezusa, Króla nad królami, i uwielbienia Chrystusa.",
+      "bible": [
+        "Ap 17, 14",
+        "Ap 19, 16",
+        "Flp 2, 9-11"
+      ],
+      "text": [
+        "Pójdźmy też i my, pójdźmy też i my",
+        "przywitać Jezusa;",
+        "Króla nad królmi, Króla nad królmi",
+        "uwielbić Chrystusa.",
+        ""
+      ]
+    },
+    {
+      "range": "40-41",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "6-9",
+      "bible": [],
+      "text": [
+        "Chrystus się rodzi …",
+        ""
+      ]
+    },
+    {
+      "range": "42-46",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "pochwała",
+        "wieczny Pan",
+        "żłób",
+        "siano",
+        "adoracja",
+        "dziękczynienie",
+        "Jezus Chrystus"
+      ],
+      "summary": "Błogosławieństwo i dziękczynienie dla wiecznego Pana, który złożony jest na sianie w żłobie.",
+      "bible": [
+        "Łk 2, 7.12",
+        "Ps 103, 1"
+      ],
+      "text": [
+        "Bądźże pochwalon, bądźże pochwalon",
+        "dziś, nasz wieczny Panie,",
+        "Któryś złożony, któryś złożony",
+        "na zielonym sianie.",
+        ""
+      ]
+    },
+    {
+      "range": "47-48",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "6-9",
+      "bible": [],
+      "text": [
+        "Chrystus się rodzi …",
+        ""
+      ]
+    },
+    {
+      "range": "49-53",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "pozdrowienie",
+        "Bóg",
+        "nieskończony",
+        "niezmierzony",
+        "uwielbienie",
+        "chwała",
+        "majestat"
+      ],
+      "summary": "Uwielbienie Boga nieskończonego i niezmierzonego, wyznanie Jego boskiego majestatu.",
+      "bible": [
+        "Ps 145, 3",
+        "Rz 11, 33",
+        "Ef 3, 20-21"
+      ],
+      "text": [
+        "Bądź pozdrowiony, bądź pozdrowiony",
+        "Boże nieskończony.",
+        "Sławimy Ciebie, sławimy Ciebie,",
+        "Boże niezmierzony.",
+        ""
+      ]
+    },
+    {
+      "range": "54",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "6-9",
+      "bible": [],
+      "text": [
+        "Chrystus się rodzi …"
+      ]
+    },
+    {
+      "range": "1-54",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Boże Narodzenie",
+        "Betlejem",
+        "Chrystus",
+        "Maryja",
+        "Józef",
+        "pasterze",
+        "królowie",
+        "adoracja",
+        "zbawienie",
+        "wyzwolenie",
+        "radość",
+        "dziękczynienie"
+      ],
+      "summary": "Radosna kolęda opowiadająca o narodzeniu Chrystusa w Betlejem. Przedstawia Maryję z Dzieciątkiem, pasterzy i Trzech Króli oddających pokłon. Refren 'Chrystus się rodzi, nas oswobodzi' podkreśla zbawczy sens Wcielenia. Kończy się uwielbieniem Boga nieskończonego i niezmierzonego.",
+      "bible": [
+        "Łk 2, 16",
+        "Mt 2, 11",
+        "J 8, 36",
+        "Iz 7, 14",
+        "Ap 17, 14"
+      ]
+    }
+  ]
+}

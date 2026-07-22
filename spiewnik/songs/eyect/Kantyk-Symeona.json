@@ -1,0 +1,132 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:bc66ef438da7324290d31c88a87f57cc2533c662d10312b24147f142f3f18dd8",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Panie",
+        "sługa",
+        "pokój",
+        "oczy",
+        "zbawienie",
+        "światło",
+        "poganin",
+        "chwała",
+        "Izrael",
+        "Symeon",
+        "odejście",
+        "spełnienie"
+      ],
+      "summary": "Symeon dziękuje Bogu za spełnienie obietnicy – jego oczy ujrzały zbawienie, które jest światłem dla pogan i chwałą Izraela. Kantyk wyraża radość z wypełnienia mesjańskich obietnic.",
+      "bible": [
+        "Łk 2,29-32",
+        "Iz 42,6",
+        "Iz 49,6"
+      ],
+      "text": [
+        "O Panie, pozwól, by Twój sługa odszedł w pokoju,",
+        "bowiem moje oczy zobaczyły Twe zbawienie,",
+        "światło dla pogan, chwałę Izraela.",
+        ""
+      ]
+    },
+    {
+      "range": "5-7",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja",
+        "chwała",
+        "radość",
+        "Bóg",
+        "uwielbienie"
+      ],
+      "summary": "Liturgiczny refren allelujatyczny wyrażający radość z wypełnienia obietnicy zbawienia.",
+      "bible": [
+        "Ps 150",
+        "Ap 19,1"
+      ],
+      "text": [
+        "Alleluja, alleluja,",
+        "alleluja, alleluja.",
+        ""
+      ]
+    },
+    {
+      "range": "8-9",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "światło",
+        "poganin",
+        "chwała",
+        "Izrael",
+        "zbawienie",
+        "uniwersalizm"
+      ],
+      "summary": "Repryza kluczowego wersetu kantyku – światło dla pogan i chwała Izraela – podkreślająca uniwersalny charakter zbawienia w Chrystusie.",
+      "bible": [
+        "Łk 2,32",
+        "Iz 42,6",
+        "Iz 49,6"
+      ],
+      "text": [
+        "Światło dla pogan, chwałę Izraela.",
+        ""
+      ]
+    },
+    {
+      "range": "10-11",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "alleluja",
+        "chwała",
+        "radość",
+        "Bóg",
+        "uwielbienie"
+      ],
+      "summary": "Końcowe alleluja zamykające kantyk, wyrażające radość z wypełnienia obietnicy zbawienia.",
+      "bible": [
+        "Ps 150",
+        "Ap 19,1"
+      ],
+      "text": [
+        "Alleluja, alleluja,",
+        "alleluja, alleluja."
+      ]
+    },
+    {
+      "range": "1-11",
+      "type": "całość",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Symeon",
+        "Panie",
+        "sługa",
+        "pokój",
+        "oczy",
+        "zbawienie",
+        "światło",
+        "poganin",
+        "chwała",
+        "Izrael",
+        "alleluja",
+        "spełnienie",
+        "obietnica",
+        "Duch Święty",
+        "Mesjasz"
+      ],
+      "summary": "Parafraza kantyku Symeona (Nunc Dimittis, Łk 2,29-32) z refrenem allelujatycznym. Starzec Symeon dziękuje Bogu za spełnienie obietnicy – ujrzenie Mesjasza, który jest światłem na oświecenie pogan i chwałą Izraela. Pieśń liturgiczna na zakończenie dnia (kompleta).",
+      "bible": [
+        "Łk 2,29-32",
+        "Iz 42,6",
+        "Iz 49,6",
+        "Ps 150"
+      ]
+    }
+  ]
+}

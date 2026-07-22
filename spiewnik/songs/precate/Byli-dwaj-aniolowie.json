@@ -1,0 +1,119 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a87d457caa44b68143b0fb2ad409bdcbfc567a375ca17a4f7532771c61166879",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "aniołowie",
+        "pytanie",
+        "miejsce",
+        "chwała",
+        "Bóg",
+        "Shekinah",
+        "obecność Boża",
+        "niebo",
+        "poszukiwanie"
+      ],
+      "summary": "Dwaj aniołowie pytają się wzajemnie o miejsce chwały Bożej, wyrażając poszukiwanie obecności Boga.",
+      "bible": [
+        "Iz 6,3",
+        "Ps 24,7-10",
+        "Ez 43,2-5"
+      ],
+      "text": [
+        "Byli dwaj aniołowie,",
+        "jeden pyta drugiego:",
+        "„Gdzie, gdzie",
+        "jest miejsce Jego chwały”?",
+        "„Gdzie, gdzie",
+        "jest miejsce Jego chwały”?"
+      ]
+    },
+    {
+      "range": "7-14",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "miejsce",
+        "chwała",
+        "Bóg",
+        "Shekinah",
+        "obecność Boża",
+        "odpowiedź",
+        "objawienie",
+        "radość"
+      ],
+      "summary": "Odpowiedź-refren głosi, że w błogosławieństwie jest miejsce chwały Bożej, wskazując na obecność Boga pośród błogosławiących Go.",
+      "bible": [
+        "Ps 24,7-10",
+        "Iz 6,3",
+        "1 Krl 8,10-11"
+      ],
+      "text": [
+        "Oto w błogosławieństwie,",
+        "oto w błogosławieństwie,",
+        "oto w błogosławieństwie,",
+        "jest miejsce Jego chwały.",
+        "Oto w błogosławieństwie,",
+        "oto w błogosławieństwie,",
+        "oto w błogosławieństwie,",
+        "jest miejsce Jego chwały."
+      ]
+    },
+    {
+      "range": "1-14",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "Wskazówka wykonawcza 'da capo' – powtórzenie całej pieśni (linie 1-14) od początku.",
+      "bible": [],
+      "text": [
+        "Byli dwaj aniołowie,",
+        "jeden pyta drugiego:",
+        "„Gdzie, gdzie",
+        "jest miejsce Jego chwały”?",
+        "„Gdzie, gdzie",
+        "jest miejsce Jego chwały”?",
+        "Oto w błogosławieństwie,",
+        "oto w błogosławieństwie,",
+        "oto w błogosławieństwie,",
+        "jest miejsce Jego chwały.",
+        "Oto w błogosławieństwie,",
+        "oto w błogosławieństwie,",
+        "oto w błogosławieństwie,",
+        "jest miejsce Jego chwały."
+      ]
+    },
+    {
+      "range": "1-16",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "aniołowie",
+        "miejsce",
+        "chwała",
+        "Bóg",
+        "błogosławieństwo",
+        "Shekinah",
+        "obecność Boża",
+        "poszukiwanie",
+        "objawienie",
+        "niebo",
+        "radość",
+        "dzieci",
+        "Melodie Hebrajskie"
+      ],
+      "summary": "Cała pieśń oparta na motywie Shekinah – obecności Boga pośród Jego ludu – w formie dialogu aniołów z odpowiedzią wskazującą na błogosławieństwo jako miejsce chwały Bożej, zakończona wskazówką wykonawczą da capo.",
+      "bible": [
+        "Iz 6,3",
+        "Ps 24,7-10",
+        "1 Krl 8,10-11",
+        "Ez 43,2-5"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:18751b35e9e6f68a592ce855a7a55d65c4219d3347d57c0c3699edab6ddbfbc4",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Oblubienica",
+        "Oblubieniec",
+        "pustynia",
+        "Kościół",
+        "dusza",
+        "Chrystus",
+        "miłość",
+        "wsparcie",
+        "wyjście",
+        "spotkanie",
+        "eschatologia"
+      ],
+      "summary": "Pytanie retoryczne o tożsamość Oblubienicy (Kościoła/duszy) wyłaniającej się z pustyni, wspartej na swoim Oblubieńcu – Chrystusie. Obraz eschatologicznego spełnienia i mistycznej jedności.",
+      "bible": [
+        "Pnp 8, 5"
+      ],
+      "text": [
+        "Kim jest ta, co wyłania się z pustyni?",
+        "Kim jest ta, co wyłania się z pustyni?",
+        "Idzie wsparta na swoim oblubieńcu.",
+        "Idzie wsparta na swym oblubieńcu.",
+        ""
+      ]
+    },
+    {
+      "range": "6-9",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "jabłoń",
+        "obudzenie",
+        "poczęcie",
+        "matka",
+        "narodzenie",
+        "początek",
+        "miłość",
+        "Oblubieniec"
+      ],
+      "summary": "Przywołanie początku miłości pod jabłonią – miejsca poczęcia i narodzin, symbolizującego źródło oblubieńczej więzi między Chrystusem a Kościołem.",
+      "bible": [
+        "Pnp 8, 5"
+      ],
+      "text": [
+        "Pod jabłonią cię obudziłem,",
+        "tam gdzie cię poczęła twoja matka,",
+        "tam gdzie twoja matka cię zrodziła,",
+        "tam gdzie twoja matka cię urodziła."
+      ]
+    },
+    {
+      "range": "10-14",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Oblubienica",
+        "Oblubieniec",
+        "pustynia",
+        "Kościół",
+        "dusza",
+        "Chrystus",
+        "miłość",
+        "wsparcie"
+      ],
+      "summary": "Powtórzenie refrenu – ponowne ukazanie Oblubienicy wspartej na Oblubieńcu, podkreślenie nieustannej obecności Chrystusa przy Kościele.",
+      "bible": [
+        "Pnp 8, 5"
+      ],
+      "text": [
+        "Kim jest ta, co wyłania się z pustyni?",
+        "Kim jest ta, co wyłania się z pustyni?",
+        "Idzie wsparta na swoim oblubieńcu.",
+        "Idzie wsparta na swym oblubieńcu.",
+        ""
+      ]
+    },
+    {
+      "range": "15-22",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "śmierć",
+        "pieczęć",
+        "serce",
+        "tatuaż",
+        "płomień",
+        "Pan",
+        "Bóg",
+        "woda",
+        "bogactwo",
+        "pogarda",
+        "wierność",
+        "przymierze",
+        "niewzruszoność",
+        "wieczność"
+      ],
+      "summary": "Wyznanie o potędze miłości – silniejszej od śmierci, nieugaszalnej, pochodzącej od Boga. Miłość zostaje przypieczętowana na sercu i ręku jako znak wiecznego przymierza.",
+      "bible": [
+        "Pnp 8, 6-7"
+      ],
+      "text": [
+        "Połóż mnie tak jako pieczęć na twym sercu,",
+        "jako tatuaż na twej ręce.",
+        "Bowiem jak śmierć potężna jest miłość,",
+        "jak płomień, co pochodzi od Pana,",
+        "i wody jej nie ugaszą.",
+        "Gdybyś chciał oddać za miłość",
+        "wszystkie bogactwa swego domu,",
+        "znalazłbyś jedynie pogardę."
+      ]
+    },
+    {
+      "range": "23-26",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Oblubienica",
+        "Oblubieniec",
+        "pustynia",
+        "Kościół",
+        "dusza",
+        "Chrystus",
+        "miłość",
+        "wsparcie"
+      ],
+      "summary": "Końcowe powtórzenie refrenu – afirmacja oblubieńczej jedności Chrystusa z Kościołem, trwałej mimo wszelkich przeciwności.",
+      "bible": [
+        "Pnp 8, 5"
+      ],
+      "text": [
+        "Kim jest ta, co wyłania się z pustyni?",
+        "Kim jest ta, co wyłania się z pustyni?",
+        "Idzie wsparta na swoim oblubieńcu.",
+        "Idzie wsparta na swym oblubieńcu."
+      ]
+    },
+    {
+      "range": "1-26",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Oblubienica",
+        "Oblubieniec",
+        "miłość",
+        "Chrystus",
+        "Kościół",
+        "Pieśń nad Pieśniami",
+        "przymierze",
+        "wierność",
+        "Eucharystia",
+        "komunia",
+        "zmartwychwstanie",
+        "mistyka",
+        "eschatologia"
+      ],
+      "summary": "Pieśń inspirowana Pieśnią nad Pieśniami (Pnp 8, 5-7), ukazująca oblubieńczą relację Chrystusa z Kościołem. Miłość Boga do człowieka jest silniejsza od śmierci i nieugasza. Refren o wyłanianiu się Oblubienicy z pustyni symbolizuje Kościół pielgrzymujący, wsparty na Chrystusie, zdążający do eschatologicznego spełnienia. W kontekście wielkanocnym i komunijnym pieśń wskazuje na mistyczną jedność z Chrystusem w Eucharystii.",
+      "bible": [
+        "Pnp 8, 5-7",
+        "Ap 21, 2",
+        "Ef 5, 25-27"
+      ]
+    }
+  ]
+}

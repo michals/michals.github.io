@@ -1,0 +1,174 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:993caf509595597c905d6735dbe719f66bbea99070ed2ed62cd428be750cde31",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "więzy",
+        "dług",
+        "brama",
+        "wolność",
+        "wyzwolenie",
+        "idę",
+        "odkupienie"
+      ],
+      "summary": "Wyzwolenie z więzów i spłacenie długów otwiera bramy — można iść w każdą stronę.",
+      "bible": [
+        "J 8,36"
+      ],
+      "text": [
+        "Są zerwane moje więzy,",
+        "zapłacone moje długi,",
+        "moje bramy pootwierane,",
+        "oto idę w każdą stronę.",
+        ""
+      ]
+    },
+    {
+      "range": "6-17",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "niewola",
+        "kąt",
+        "tkanina",
+        "kurz",
+        "monety",
+        "miecz",
+        "zbroja",
+        "koń",
+        "Królestwo",
+        "wojownik",
+        "wyzwolenie",
+        "powołanie",
+        "walka duchowa"
+      ],
+      "summary": "Inni pozostają w niewoli przyziemności, podczas gdy Oblubieniec uzbraja się i rusza pozyskać Królestwo.",
+      "bible": [
+        "Ef 6,10-17"
+      ],
+      "text": [
+        "Oni skuleni w swoim kącie",
+        "przędą nadal bladą tkaninę swoich godzin;",
+        "lub na powrót zasiadają w kurzu,",
+        "aby przeliczać swoje monety",
+        "i wołają mnie, i wołają mnie,",
+        "abym zawrócił.",
+        "Ale już mój miecz jest wykuty,",
+        "włożyłem już zbroję,",
+        "już mój koń się niecierpliwi,",
+        "a ja pozyskam me Królestwo,",
+        "a ja pozyskam me Królestwo.",
+        ""
+      ]
+    },
+    {
+      "range": "18-22",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Królestwo",
+        "pozyskanie",
+        "idę",
+        "strona",
+        "Królestwo Boże",
+        "dążenie",
+        "cel"
+      ],
+      "summary": "Stanowcza deklaracja pozyskania Królestwa i wyruszenia w każdą stronę.",
+      "bible": [
+        "Mt 6,33"
+      ],
+      "text": [
+        "Pozyskam me Królestwo,",
+        "",
+        "pozyskam me Królestwo,",
+        "oto idę w każdą stronę.",
+        ""
+      ]
+    },
+    {
+      "range": "23-27",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "więzy",
+        "dług",
+        "brama",
+        "wolność",
+        "wyzwolenie",
+        "idę",
+        "odkupienie"
+      ],
+      "summary": "Powtórzenie obrazu wyzwolenia z więzów i spłacenia długów.",
+      "bible": [
+        "J 8,36"
+      ],
+      "text": [
+        "Są zerwane moje więzy,",
+        "zapłacone moje długi,",
+        "moje bramy pootwierane,",
+        "oto idę w każdą stronę.",
+        ""
+      ]
+    },
+    {
+      "range": "28-31",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Królestwo",
+        "pozyskanie",
+        "idę",
+        "strona",
+        "Królestwo Boże",
+        "dążenie",
+        "cel"
+      ],
+      "summary": "Końcowa deklaracja pozyskania Królestwa i wyruszenia.",
+      "bible": [
+        "Mt 6,33"
+      ],
+      "text": [
+        "Pozyskam me Królestwo,",
+        "",
+        "pozyskam me Królestwo,",
+        "oto idę w każdą stronę."
+      ]
+    },
+    {
+      "range": "1-31",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "wyzwolenie",
+        "Królestwo",
+        "więzy",
+        "dług",
+        "brama",
+        "wolność",
+        "miecz",
+        "zbroja",
+        "koń",
+        "Chrystus",
+        "odkupienie",
+        "grzech",
+        "zbawienie",
+        "wojownik",
+        "walka duchowa",
+        "powołanie",
+        "dążenie",
+        "cel"
+      ],
+      "summary": "Pieśń o wyzwoleniu z niewoli grzechu i dążeniu do Królestwa Bożego — Chrystus jako wojownik zrywa więzy i rusza pozyskać Królestwo.",
+      "bible": [
+        "J 8,36",
+        "Ef 6,10-17",
+        "Mt 6,33"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:1a556aa981f9fed007ec8092eac775031b9ce84b2d2741ddc92cc4fda6093a30",
+  "songs_analysis": [
+    {
+      "range": "1-8",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "chwała",
+        "niebo",
+        "wysokość",
+        "anioł",
+        "zastęp",
+        "uwielbiać"
+      ],
+      "summary": "Wezwanie niebios, aniołów i wszystkich zastępów niebieskich do chwalenia Pana.",
+      "bible": [
+        "Ps 148, 1-2"
+      ],
+      "text": [
+        "=Chwalcie Pana z niebios:",
+        "Chwalcie Go!",
+        "Chwalcie Go na wysokości nieba:",
+        "Uwielbiajcie Go!",
+        "Chwalcie Go wszyscy Jego Aniołowie,",
+        "Chwalcie Go!",
+        "chwalcie Go wszystkie Jego zastępy.",
+        "Uwielbiajcie Go!"
+      ]
+    },
+    {
+      "range": "9-12",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "słońce",
+        "księżyc",
+        "gwiazda",
+        "światło",
+        "chwała",
+        "stworzenie"
+      ],
+      "summary": "Wezwanie słońca, księżyca i wszystkich gwiazd do chwalenia Pana.",
+      "bible": [
+        "Ps 148, 3"
+      ],
+      "text": [
+        "Chwalcie Go słońce i księżycu,",
+        "Chwalcie Go!",
+        "chwalcie Go wszystkie gwiazdy błyszczące.",
+        "Uwielbiajcie Go!"
+      ]
+    },
+    {
+      "range": "13-16",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "niebo",
+        "woda",
+        "stworzenie",
+        "chwała",
+        "Pan"
+      ],
+      "summary": "Wezwanie najwyższych niebios i wód nad niebiosami do chwalenia Pana.",
+      "bible": [
+        "Ps 148, 4"
+      ],
+      "text": [
+        "Chwalcie Go nieba najwyższe",
+        "Chwalcie Go!",
+        "i wody ponad niebami.",
+        "Uwielbiajcie Go!"
+      ]
+    },
+    {
+      "range": "17-24",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "imię",
+        "Pan",
+        "stworzenie",
+        "Słowo",
+        "przykazanie",
+        "wieczność",
+        "prawo"
+      ],
+      "summary": "Wezwanie do wychwalania imienia Pana, który stworzył świat przez swoje Słowo i ustanowił wieczne prawa.",
+      "bible": [
+        "Ps 148, 5-6",
+        "Rdz 1",
+        "Mdr 9, 1"
+      ],
+      "text": [
+        "Niech wszyscy imię Pana wychwalają,",
+        "Chwalcie Go!",
+        "On bowiem powiedział i zostały stworzone.",
+        "Uwielbiajcie Go!",
+        "Utwierdził je na zawsze, na wieki,",
+        "Chwalcie Go!",
+        "nadał im prawo, które nie przemija.",
+        "Uwielbiajcie Go!"
+      ]
+    },
+    {
+      "range": "25-28",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "ziemia",
+        "potwór",
+        "morze",
+        "otchłań",
+        "stworzenie",
+        "chwała"
+      ],
+      "summary": "Wezwanie ziemi, potworów morskich i wszystkich otchłani do chwalenia Pana.",
+      "bible": [
+        "Ps 148, 7"
+      ],
+      "text": [
+        "Chwalcie Pana z ziemi,",
+        "Chwalcie Go!",
+        "potwory morskie i wszystkie otchłanie.",
+        "Uwielbiajcie Go!"
+      ]
+    },
+    {
+      "range": "29-33",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "ogień",
+        "grad",
+        "śnieg",
+        "mgła",
+        "huragan",
+        "żywioł",
+        "Słowo",
+        "chwała"
+      ],
+      "summary": "Wezwanie ogniu, gradzie, śniegu, mgle i gwałtownym huraganom, które pełnią Jego Słowo, do chwalenia Pana.",
+      "bible": [
+        "Ps 148, 8"
+      ],
+      "text": [
+        "Ogniu i gradzie, śniegu i mgło,",
+        "Chwalcie Go!",
+        "",
+        "gwałtowny huraganie, co pełnisz Jego Słowo.",
+        "Uwielbiajcie Go!"
+      ]
+    },
+    {
+      "range": "34-37",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "góra",
+        "pagórek",
+        "drzewo",
+        "owoc",
+        "cedr",
+        "stworzenie",
+        "chwała"
+      ],
+      "summary": "Wezwanie gór, pagórków, drzew owocowych i cedrów do chwalenia Pana.",
+      "bible": [
+        "Ps 148, 9"
+      ],
+      "text": [
+        "Góry i wszelkie pagórki,",
+        "Chwalcie Go!",
+        "drzewa rodzące owoce i wszystkie cedry.",
+        "Uwielbiajcie Go!"
+      ]
+    },
+    {
+      "range": "38-41",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "zwierzę",
+        "bydło",
+        "ptactwo",
+        "stworzenie",
+        "chwała"
+      ],
+      "summary": "Wezwanie dzikich zwierząt, bydła, stworzeń pełzających i ptactwa do chwalenia Pana.",
+      "bible": [
+        "Ps 148, 10"
+      ],
+      "text": [
+        "Dzikie zwierzęta i bydło wszelakie,",
+        "Chwalcie Go!",
+        "to, co pełza po ziemi i ptactwo skrzydlate.",
+        "Uwielbiajcie Go!"
+      ]
+    },
+    {
+      "range": "42-45",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "król",
+        "naród",
+        "władca",
+        "sędzia",
+        "ziemia",
+        "chwała"
+      ],
+      "summary": "Wezwanie królów ziemskich, narodów, władców i sędziów do chwalenia Pana.",
+      "bible": [
+        "Ps 148, 11"
+      ],
+      "text": [
+        "Królowie ziemscy i wszystkie narody,",
+        "Chwalcie Go!",
+        "władcy i sędziowie na ziemi.",
+        "Uwielbiajcie Go!"
+      ]
+    },
+    {
+      "range": "46-49",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "młodzieniec",
+        "dziewczę",
+        "starzec",
+        "dziecko",
+        "człowiek",
+        "chwała"
+      ],
+      "summary": "Wezwanie młodzieńców, dziewcząt, starców i dzieci do chwalenia Pana.",
+      "bible": [
+        "Ps 148, 12"
+      ],
+      "text": [
+        "Młodzieńcy i dziewczęta,",
+        "Chwalcie Go!",
+        "starcy razem z dziećmi.",
+        "Uwielbiajcie Go!"
+      ]
+    },
+    {
+      "range": "50-57",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "imię",
+        "Pan",
+        "chwała",
+        "ziemia",
+        "niebo",
+        "moc",
+        "lud",
+        "wzniosły"
+      ],
+      "summary": "Wezwanie do chwalenia imienia Pana, bo tylko Jego imię jest wzniosłe, a Jego chwała jaśnieje na ziemi i w niebie; On pomnaża moc swojego ludu.",
+      "bible": [
+        "Ps 148, 13-14"
+      ],
+      "text": [
+        "Chwalcie imię Pana,",
+        "Chwalcie Go!",
+        "bo tylko Jego imię jest wzniosłe.",
+        "Uwielbiajcie Go!",
+        "Jego chwała jaśnieje na ziemi i w niebie.",
+        "Chwalcie Go!",
+        "On pomnaża moc swojego ludu.",
+        "Uwielbiajcie Go!"
+      ]
+    },
+    {
+      "range": "58-61",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "wierny",
+        "Izrael",
+        "lud",
+        "miłość",
+        "chwała",
+        "pieśń"
+      ],
+      "summary": "Pieśń pochwalna dla wszystkich wiernych Pana, synów Izraela, ludu który On miłuje.",
+      "bible": [
+        "Ps 148, 14"
+      ],
+      "text": [
+        "Jest to pieśń pochwalna dla wszystkich Jego wiernych,",
+        "Chwalcie Go!",
+        "dla synów Izraela, ludu, który On miłuje.",
+        "Uwielbiajcie Go!"
+      ]
+    },
+    {
+      "range": "1-61",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "chwała",
+        "stworzenie",
+        "niebo",
+        "ziemia",
+        "anioł",
+        "człowiek",
+        "zwierzę",
+        "żywioł",
+        "Izrael",
+        "imię",
+        "uwielbiać"
+      ],
+      "summary": "Parafraza Psalmu 148 – hymn kosmiczny wzywający całe stworzenie: niebiosa, aniołów, gwiazdy, żywioły, zwierzęta, ludzi wszystkich stanów i naród wybrany do chwalenia Pana.",
+      "bible": [
+        "Ps 148"
+      ]
+    }
+  ]
+}

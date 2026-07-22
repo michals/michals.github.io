@@ -1,0 +1,277 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:3832a7d85a42c0c3bb0b48aee49372dc28c66c1f75a7138e10648ea706648bc5",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bracia",
+        "upadek",
+        "utrapienie",
+        "niedostatek",
+        "ucisk",
+        "trud",
+        "cierpliwość",
+        "czystość",
+        "dobroć",
+        "Duch Święty",
+        "moc Boga",
+        "wytrwanie",
+        "wezwanie"
+      ],
+      "summary": "Refren wzywa braci, aby nie dawali nikomu powodu do upadku i z cierpliwością, czystością i dobrocią w Duchu Świętym przyjmowali wszelkie utrapienia.",
+      "bible": [
+        "2 Kor 6,3-4",
+        "2 Kor 6,6"
+      ],
+      "text": [
+        "Bracia, nie dajmy nikomu powodu do upadku,",
+        "bracia, akceptujmy zawsze utrapienia,",
+        "niedostatki, uciski i trudy,",
+        "z cierpliwością, czystością i dobrocią,",
+        "w Duchu Świętym i w mocy Boga.",
+        ""
+      ]
+    },
+    {
+      "range": "7-12",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "oręż sprawiedliwości",
+        "chwała",
+        "pohańbienie",
+        "oszczerstwo",
+        "dobra sława",
+        "prawdomówność",
+        "ubóstwo",
+        "posiadanie wszystkiego",
+        "apostoł",
+        "posługa"
+      ],
+      "summary": "Opis apostolskiej posługi wyrażającej się w używaniu oręża sprawiedliwości pośród chwały i pohańbienia, jako prawdomównych i posiadających wszystko w Bogu.",
+      "bible": [
+        "2 Kor 6,7",
+        "2 Kor 6,8",
+        "2 Kor 6,10"
+      ],
+      "text": [
+        "Używając oręża sprawiedliwości,",
+        "tego po prawej, jak i po lewej,",
+        "wśród chwały i pohańbienia,",
+        "w oszczerstwach i dobrej sławie,",
+        "jakby oszuści, a jednak prawdomówni,",
+        "jak ten, co nie ma nic,           a jednak posiada wszystko."
+      ]
+    },
+    {
+      "range": "13-18",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bracia",
+        "upadek",
+        "utrapienie",
+        "niedostatek",
+        "ucisk",
+        "trud",
+        "cierpliwość",
+        "czystość",
+        "dobroć",
+        "Duch Święty",
+        "moc Boga",
+        "wytrwanie"
+      ],
+      "summary": "Powtórzenie refrenu wzywającego do wytrwania w utrapieniach z cnotami i mocą Ducha Świętego.",
+      "bible": [
+        "2 Kor 6,3-4",
+        "2 Kor 6,6"
+      ],
+      "text": [
+        "Bracia, nie dajmy nikomu powodu do upadku,",
+        "bracia, akceptujmy zawsze utrapienia,",
+        "niedostatki, uciski i trudy,",
+        "z cierpliwością, czystością i dobrocią,",
+        "w Duchu Świętym i w mocy Boga.",
+        ""
+      ]
+    },
+    {
+      "range": "19-22",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "szczerość",
+        "prawda",
+        "nierówne jarzmo",
+        "poganie",
+        "wierzący",
+        "niewierny",
+        "przestroga",
+        "jedność",
+        "oddzielenie"
+      ],
+      "summary": "Przestroga przed wprzęganiem się w nierówne jarzmo z poganami, wezwanie do szczerości i prawdy.",
+      "bible": [
+        "2 Kor 6,11",
+        "2 Kor 6,14"
+      ],
+      "text": [
+        "Bracia! Mówimy wam szczerze,",
+        "mówimy wam samą prawdę:",
+        "nie wprzęgajcie się w nierówne jarzmo razem z poganami.",
+        ""
+      ]
+    },
+    {
+      "range": "23-25",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "wierzący",
+        "niewierny",
+        "wspólnota",
+        "świątynia Boga",
+        "świątynia idoli",
+        "związek",
+        "tożsamość",
+        "sakralność"
+      ],
+      "summary": "Pytanie retoryczne o wspólnotę wierzącego z niewiernym oraz stwierdzenie, że wierzący są świątynią Boga.",
+      "bible": [
+        "2 Kor 6,15",
+        "2 Kor 6,16"
+      ],
+      "text": [
+        "Co wspólnego ma wierzący z niewiernym?",
+        "Jaki związek między świątynią Boga i świątynią idoli?",
+        "Bo my jesteśmy świątynią Boga."
+      ]
+    },
+    {
+      "range": "26-31",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bracia",
+        "upadek",
+        "utrapienie",
+        "niedostatek",
+        "ucisk",
+        "trud",
+        "cierpliwość",
+        "czystość",
+        "dobroć",
+        "Duch Święty",
+        "moc Boga",
+        "wytrwanie"
+      ],
+      "summary": "Kolejne powtórzenie refrenu umacniającego w postawie wytrwania i akceptacji utrapień.",
+      "bible": [
+        "2 Kor 6,3-4",
+        "2 Kor 6,6"
+      ],
+      "text": [
+        "Bracia, nie dajmy nikomu powodu do upadku,",
+        "bracia, akceptujmy zawsze utrapienia,",
+        "niedostatki, uciski i trudy,",
+        "z cierpliwością, czystością i dobrocią,",
+        "w Duchu Świętym i w mocy Boga.",
+        ""
+      ]
+    },
+    {
+      "range": "32-36",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "ufność",
+        "duma",
+        "wierzący",
+        "niewierny",
+        "nierówne jarzmo",
+        "świątynia Boga",
+        "świątynia idoli",
+        "poganie",
+        "tożsamość",
+        "oddzielenie"
+      ],
+      "summary": "Powtórzenie przestróg z naciskiem na pełną ufność i dumę z wiernych, podkreślenie tożsamości wierzących jako świątyni Boga.",
+      "bible": [
+        "2 Kor 6,14",
+        "2 Kor 6,15",
+        "2 Kor 6,16"
+      ],
+      "text": [
+        "Bracia! Mówimy wam pełni ufności,",
+        "ponieważ jesteśmy z was dumni.",
+        "Nie wprzęgajcie się w nierówne jarzmo        razem z poganami.",
+        "Jaki związek między świątynią Boga          i świątynią idoli?",
+        "Bo my jesteśmy świątynią Boga."
+      ]
+    },
+    {
+      "range": "37-41",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bracia",
+        "upadek",
+        "utrapienie",
+        "niedostatek",
+        "ucisk",
+        "trud",
+        "cierpliwość",
+        "czystość",
+        "dobroć",
+        "Duch Święty",
+        "moc Boga",
+        "wytrwanie"
+      ],
+      "summary": "Końcowe powtórzenie refrenu podsumowujące wezwanie do wytrwania w wierze i cnotach.",
+      "bible": [
+        "2 Kor 6,3-4",
+        "2 Kor 6,6"
+      ],
+      "text": [
+        "Bracia, nie dajmy nikomu powodu do upadku,",
+        "bracia, akceptujmy zawsze utrapienia,",
+        "niedostatki, uciski i trudy,",
+        "z cierpliwością, czystością i dobrocią,",
+        "w Duchu Świętym i w mocy Boga."
+      ]
+    },
+    {
+      "range": "1-41",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bracia",
+        "upadek",
+        "utrapienie",
+        "cierpliwość",
+        "Duch Święty",
+        "moc Boga",
+        "oręż sprawiedliwości",
+        "nierówne jarzmo",
+        "świątynia Boga",
+        "wierzący",
+        "poganie",
+        "wytrwanie",
+        "czystość",
+        "dobroć",
+        "prawda",
+        "ufność",
+        "tożsamość",
+        "oddzielenie",
+        "posługa"
+      ],
+      "summary": "Całość jest parafrazą 2 Kor 6,3-16, ukazującą apostolską postawę wytrwania w utrapieniach z cierpliwością i czystością, przestrogę przed nierównym jarzmem z poganami oraz tożsamość wierzących jako świątyni Boga.",
+      "bible": [
+        "2 Kor 6,3-16"
+      ]
+    }
+  ]
+}

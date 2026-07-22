@@ -1,0 +1,147 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:697a25a804d063f5451d6c7f336b7acb67f2ae68af258c4bb6acf0f0d4f24d4c",
+  "songs_analysis": [
+    {
+      "range": "1-2",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bóg",
+        "dusza",
+        "pragnienie",
+        "tęsknota"
+      ],
+      "summary": "Refren wyrażający głębokie pragnienie duszy ku Bogu.",
+      "bible": [
+        "Ps 63, 2"
+      ],
+      "text": [
+        "Ciebie, mój Boże, pragnie moja dusza.",
+        ""
+      ]
+    },
+    {
+      "range": "3-7",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "świątynia",
+        "chwała",
+        "potęga",
+        "łaska",
+        "życie",
+        "sławić",
+        "wargi",
+        "kontemplacja"
+      ],
+      "summary": "Psalmista kontempluje Boga w świątyni, uznając Jego łaskę za cenniejszą od życia i oddając Mu chwałę.",
+      "bible": [
+        "Ps 63, 3-4",
+        "Ps 27, 4",
+        "Ps 84, 2-3"
+      ],
+      "text": [
+        "Oto wpatruję się w Ciebie w świątyni,",
+        "by ujrzeć Twą potęgę i chwałę.",
+        "Twoja łaska jest cenniejsza od życia,",
+        "więc sławić Cię będą moje wargi.",
+        ""
+      ]
+    },
+    {
+      "range": "8-9",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bóg",
+        "dusza",
+        "pragnienie",
+        "tęsknota"
+      ],
+      "summary": "Powtórzenie refrenu po pierwszej strofie psalmu.",
+      "bible": [
+        "Ps 63, 2"
+      ],
+      "text": [
+        "Ciebie, mój Boże, pragnie moja dusza.",
+        ""
+      ]
+    },
+    {
+      "range": "10-14",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "wielbić",
+        "Bóg",
+        "ręce",
+        "imię Boże",
+        "dusza",
+        "sytość",
+        "radość",
+        "usta",
+        "wargi",
+        "chwała",
+        "modlitwa"
+      ],
+      "summary": "Psalmista ślubuje wielbić Boga przez całe życie, z radością wznosząc ręce w modlitwie i doświadczając duchowej sytości.",
+      "bible": [
+        "Ps 63, 5-6",
+        "Ps 145, 2",
+        "Ps 134, 2",
+        "1 Tm 2, 8"
+      ],
+      "text": [
+        "Będę Cię wielbił przez całe me życie",
+        "i wzniosę ręce w imię Twoje.",
+        "Moja dusza syci się obficie,",
+        "a usta Cię wielbią radosnymi wargami.",
+        ""
+      ]
+    },
+    {
+      "range": "15",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Bóg",
+        "dusza",
+        "pragnienie",
+        "tęsknota"
+      ],
+      "summary": "Końcowe powtórzenie refrenu psalmu responsoryjnego.",
+      "bible": [
+        "Ps 63, 2"
+      ],
+      "text": [
+        "Ciebie, mój Boże, pragnie moja dusza."
+      ]
+    },
+    {
+      "range": "1-15",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Psalm responsoryjny",
+        "Bóg",
+        "dusza",
+        "pragnienie",
+        "świątynia",
+        "chwała",
+        "łaska",
+        "wielbić",
+        "liturgia",
+        "radość",
+        "sytość duchowa",
+        "kontemplacja"
+      ],
+      "summary": "Psalm responsoryjny (Ps 63) wyrażający pragnienie Boga, kontemplację Jego chwały w świątyni i radosne wielbienie za Jego łaskę, z refrenem jednoczącym wiernych w adoracji.",
+      "bible": [
+        "Ps 63",
+        "J 7, 37-38"
+      ]
+    }
+  ]
+}

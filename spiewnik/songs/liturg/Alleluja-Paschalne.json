@@ -1,0 +1,128 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:9bc38b1ec6b11b35c9b0b0caae1263ad3dead1ca1c82c0236a08e23062f899dc",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "zmartwychwstanie",
+        "Alleluja",
+        "radość",
+        "Pascha",
+        "zwycięstwo",
+        "Pan",
+        "życie",
+        "śmierć",
+        "odkupienie"
+      ],
+      "summary": "Radosne ogłoszenie zmartwychwstania Chrystusa z towarzyszącą aklamacją Alleluja w formie kanonu.",
+      "bible": [
+        "Mt 28, 5-6",
+        "Mk 16, 6",
+        "Łk 24, 34",
+        "1 Kor 15, 3-4",
+        "Ap 1, 17-18"
+      ],
+      "text": [
+        "Jezus Chrystus zmartwychwstał!",
+        "1 Alleluja, alleluja, alleluja!",
+        "2 Alleluja, alleluja, alleluja!",
+        "3    Alleluja, alleluja, alleluja!",
+        "Alleluja, alleluja, alleluja!",
+        ""
+      ]
+    },
+    {
+      "range": "7-12",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "zmartwychwstanie",
+        "Alleluja",
+        "radość",
+        "Pascha",
+        "zwycięstwo",
+        "Pan",
+        "życie"
+      ],
+      "summary": "Powtórzenie radosnego ogłoszenia zmartwychwstania z kanoniczną aklamacją Alleluja.",
+      "bible": [
+        "Mt 28, 5-6",
+        "1 Kor 15, 20-22"
+      ],
+      "text": [
+        "Jezus Chrystus zmartwychwstał!",
+        "2 Alleluja, alleluja, alleluja!",
+        "3    Alleluja, alleluja, alleluja!",
+        "1 Alleluja, alleluja, alleluja!",
+        "Alleluja, alleluja, alleluja!",
+        ""
+      ]
+    },
+    {
+      "range": "13-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Pan",
+        "Alleluja",
+        "zmartwychwstanie",
+        "chwała",
+        "Król",
+        "wywyższenie",
+        "Pascha",
+        "uwielbienie"
+      ],
+      "summary": "Ogłoszenie panowania zmartwychwstałego Chrystusa z aklamacją Alleluja.",
+      "bible": [
+        "Flp 2, 9-11",
+        "Dz 2, 36",
+        "Rz 14, 9",
+        "Ap 17, 14"
+      ],
+      "text": [
+        "Jezus Chrystus jest Panem!",
+        "3    Alleluja, alleluja, alleluja!",
+        "1 Alleluja, alleluja, alleluja!",
+        "2 Alleluja, alleluja, alleluja!",
+        "Alleluja, alleluja, alleluja!",
+        "Alleluja, alleluja, alleluja!"
+      ]
+    },
+    {
+      "range": "1-18",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "zmartwychwstanie",
+        "Pan",
+        "Alleluja",
+        "Pascha",
+        "zwycięstwo",
+        "życie",
+        "śmierć",
+        "chwała",
+        "Król",
+        "wywyższenie",
+        "radość",
+        "odkupienie",
+        "Kościół",
+        "liturgia"
+      ],
+      "summary": "Paschalny kanon wielkanocny ogłaszający zmartwychwstanie Chrystusa i Jego panowanie, przeplatany radosną aklamacją Alleluja.",
+      "bible": [
+        "Mt 28, 5-6",
+        "Flp 2, 9-11",
+        "Dz 2, 36",
+        "1 Kor 15, 3-4",
+        "Ap 1, 17-18"
+      ]
+    }
+  ]
+}

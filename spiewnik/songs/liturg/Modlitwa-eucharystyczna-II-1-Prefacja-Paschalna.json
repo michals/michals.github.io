@@ -1,0 +1,199 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:b3fd5c2d8e1e7894ebe4ba5f1c2bd1f47c6337fc625009bba0ae6505b0a384b5",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "Pan",
+        "duch",
+        "serce",
+        "wznosić",
+        "dziękczynienie",
+        "Bóg",
+        "sprawiedliwość",
+        "uwielbienie"
+      ],
+      "summary": "Liturgiczny dialog prefacji: wezwanie do wzniesienia serc i składania dziękczynienia Bogu, który jest godny uwielbienia.",
+      "bible": [
+        "Kol 3, 1-2",
+        "Ps 86 (85), 12"
+      ],
+      "text": [
+        "Pan z wami.",
+        "i z duchem twoim.",
+        "W górę serca.",
+        "Wznosimy je do Pana.",
+        "Dzięki składajmy Panu, Bogu naszemu.",
+        "Godne to i sprawiedliwe. Godne to i sprawiedliwe."
+      ]
+    },
+    {
+      "range": "7-10",
+      "type": "fragment",
+      "sentiment": "dziękczynny",
+      "keywords": [
+        "chwała",
+        "Pascha",
+        "Chrystus",
+        "ofiara",
+        "Bóg",
+        "Pan",
+        "dziękczynienie",
+        "noc paschalna",
+        "Odkupienie"
+      ],
+      "summary": "Rozpoczęcie prefacji paschalnej: uroczyste głoszenie chwały Bożej tej nocy, gdy Chrystus został ofiarowany jako Pascha.",
+      "bible": [
+        "Wj 12, 1-14",
+        "1 Kor 5, 7",
+        "1 P 1, 19",
+        "J 1, 29"
+      ],
+      "text": [
+        "Zaprawdę godne to i sprawiedliwe, słuszne i zbawienne,",
+        "abyśmy Ciebie, Panie, zawsze sławili,",
+        "a zwłaszcza tej nocy uroczyściej głosili Twoją chwałę,",
+        "gdy Chrystus został ofiarowany jako nasza Pascha."
+      ]
+    },
+    {
+      "range": "11",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "12-17",
+      "text": [
+        "Rytmicznie"
+      ]
+    },
+    {
+      "range": "12-17",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Baranek",
+        "grzech",
+        "świat",
+        "śmierć",
+        "zniweczyć",
+        "zmartwychwstanie",
+        "życie",
+        "Chrystus",
+        "Pascha",
+        "zwycięstwo",
+        "Odkupienie",
+        "Ofiara"
+      ],
+      "summary": "Chrystus prawdziwym Barankiem paschalnym, który zgładził grzechy świata i przez swoją śmierć zniweczył śmierć, a zmartwychwstając przywrócił życie.",
+      "bible": [
+        "Wj 12, 3-11",
+        "Iz 53, 7",
+        "J 1, 29",
+        "J 1, 36",
+        "1 Kor 5, 7",
+        "1 P 1, 18-19",
+        "Ap 5, 6-12",
+        "Rz 6, 9",
+        "2 Tm 1, 10"
+      ],
+      "text": [
+        "On bowiem jest prawdziwym Barankiem,",
+        "który zgładził grzechy świata.",
+        "On przez swoją śmierć zniweczył śmierć naszą",
+        "i zmartwychwstając przywrócił nam życie.",
+        "On przez swoją śmierć zniweczył śmierć naszą",
+        "i zmartwychwstając przywrócił nam życie!"
+      ]
+    },
+    {
+      "range": "18-23",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "łaska",
+        "pascha",
+        "lud",
+        "ziemia",
+        "radość",
+        "Anioł",
+        "święty",
+        "hymn",
+        "chwała",
+        "uwielbienie",
+        "śpiew"
+      ],
+      "summary": "Pełnia łask paschalnych napełnia radością wszystkie ludy, a chóry aniołów i świętych śpiewają hymn na cześć Boga.",
+      "bible": [
+        "Ps 96 (95), 1",
+        "Ap 5, 11-13",
+        "Ap 7, 9-12",
+        "Flp 2, 10-11"
+      ],
+      "text": [
+        "Dlatego pełnią łask paschalnych",
+        "radują się wszystkie ludy na całej ziemi.",
+        "Również chóry Aniołów i zastępy Świętych",
+        "śpiewają, śpiewają, hymn ku Twojej chwale",
+        "nieustannie wołając:",
+        ""
+      ]
+    },
+    {
+      "range": "24",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "bible": [],
+      "summary": "Rubryka wskazująca na następujący po prefacji hymn «Święty».",
+      "text": [
+        "Następuje „Święty”"
+      ]
+    },
+    {
+      "range": "1-24",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pascha",
+        "Chrystus",
+        "Baranek",
+        "śmierć",
+        "zmartwychwstanie",
+        "życie",
+        "dziękczynienie",
+        "Ofiara",
+        "Odkupienie",
+        "grzech",
+        "łaska",
+        "radość",
+        "lud",
+        "Anioł",
+        "święty",
+        "chwała",
+        "uwielbienie",
+        "Eucharystia",
+        "noc paschalna",
+        "zwycięstwo",
+        "prefacja",
+        "Pan"
+      ],
+      "summary": "Prefacja paschalna Modlitwy Eucharystycznej II: Chrystus jako prawdziwy Baranek paschalny zgładził grzechy świata, zniweczył śmierć i zmartwychwstał; z tej łaski radują się wszystkie ludy wraz z aniołami i świętymi.",
+      "bible": [
+        "Wj 12, 1-14",
+        "Iz 53, 7",
+        "1 Kor 5, 7",
+        "J 1, 29",
+        "1 P 1, 18-19",
+        "Ap 5, 6-12",
+        "Rz 6, 9",
+        "2 Tm 1, 10",
+        "Ap 5, 11-13",
+        "Ap 7, 9-12"
+      ]
+    }
+  ]
+}

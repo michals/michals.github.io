@@ -1,0 +1,139 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:a83b8fdde4c641667549ab3f10fe157f733e543eb6f1bad1b1480b9cee16fc8a",
+  "songs_analysis": [
+    {
+      "range": "1-13",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "Bóg",
+        "hymn",
+        "chwała",
+        "imię",
+        "droga",
+        "obłok",
+        "Pan",
+        "Ojciec",
+        "sierota",
+        "wdowa",
+        "opiekun",
+        "najbiedniejszy",
+        "dom",
+        "uwolnienie",
+        "radość",
+        "Ps 68"
+      ],
+      "summary": "Wezwanie do śpiewania Bogu i chwalenia Jego imienia – Bóg cwałuje na obłokach, jest Ojcem sierot i Opiekunem wdów, daje zamieszkanie najbiedniejszym i uwalnia uwięzionych. Objawienie Boga jako obrońcy ubogich i słabych.",
+      "bible": [
+        "Ps 68, 4-7"
+      ],
+      "text": [
+        "Zaśpiewajcie Bogu,",
+        "hymnem chwalcie Jego imię,",
+        "zaśpiewajcie Bogu,",
+        "wyrównajcie drogę",
+        "cwałującemu na obłokach.",
+        "„Pan” jest Jego imię,",
+        "radujcie się przed Jego obliczem:",
+        "Bowiem Ojcem jest dla sierot",
+        "i dla wdów jest Opiekunem",
+        "- Bóg.",
+        "Tym najbiedniejszym",
+        "daje zamieszkać w swoim domu",
+        "i uwięzionych On uwalnia z radością."
+      ]
+    },
+    {
+      "range": "14",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "15-18",
+      "bible": [],
+      "text": [
+        ""
+      ]
+    },
+    {
+      "range": "15-18",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Bóg",
+        "wstanie",
+        "wrogowie",
+        "pierzchanie",
+        "sprawiedliwy",
+        "weselenie",
+        "radość",
+        "śpiew",
+        "zwycięstwo",
+        "sąd"
+      ],
+      "summary": "Refren – 'Niech wstanie Bóg, Jego wrogowie niech pierzchają, sprawiedliwi niech weselą się i śpiewają z radości.' Obraz tryumfu Boga nad wrogami i radości sprawiedliwych.",
+      "bible": [
+        "Ps 68, 2-3"
+      ],
+      "text": [
+        "Niech wstanie Bóg,",
+        "Jego wrogowie niech pierzchają,",
+        "sprawiedliwi niech weselą się",
+        "i śpiewają z radości!"
+      ]
+    },
+    {
+      "range": "19-23",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiew",
+        "Bóg",
+        "hymn",
+        "chwała",
+        "imię",
+        "droga",
+        "obłok",
+        "Pan"
+      ],
+      "summary": "Powtórzenie początkowego wezwania do śpiewania Bogu i wyrównania drogi – inkluzja z pierwszą zwrotką.",
+      "bible": [
+        "Ps 68, 4-5"
+      ],
+      "text": [
+        "Zaśpiewajcie Bogu,",
+        "hymnem chwalcie Jego imię,",
+        "zaśpiewajcie Bogu,",
+        "wyrównajcie drogę",
+        "cwałującemu na obłokach."
+      ]
+    },
+    {
+      "range": "1-23",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Ps 68",
+        "Bóg",
+        "zwycięstwo",
+        "sprawiedliwość",
+        "ubogi",
+        "sierota",
+        "wdowa",
+        "uwolnienie",
+        "radość",
+        "śpiew",
+        "hymn",
+        "chwała",
+        "Liturgia Godzin",
+        "sąd Boży",
+        "Miłosierdzie"
+      ],
+      "summary": "Pieśń oparta na Psalmie 68, 2.4-7 – hymn radości i uwielbienia dla Boga, który wstaje, aby rozproszyć wrogów i bronić słabych. Bóg objawia się jako Ojciec sierot, Opiekun wdów i wyzwoliciel uwięzionych. Refren 'Niech wstanie Bóg' wyraża ufność w Bożą sprawiedliwość i zwycięstwo nad złem. Pieśń przeznaczona do Liturgii Godzin, ma charakter liturgicznego hymnu uwielbienia.",
+      "bible": [
+        "Ps 68, 2.4-7"
+      ]
+    }
+  ]
+}

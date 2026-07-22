@@ -1,0 +1,243 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:82869e93159073eddd46c5b38d47ee7af113f210cdb38596f06e488b54f85902",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "uczeń",
+        "Rabbi",
+        "jeść",
+        "Jezus",
+        "odpowiedzieć",
+        "pokarm",
+        "wola",
+        "posłać",
+        "wypełnić",
+        "dzieło"
+      ],
+      "summary": "Jezus wyjaśnia uczniom, że Jego pokarmem jest pełnienie woli Ojca, który Go posłał.",
+      "bible": [
+        "J 4, 31-34",
+        "Pwt 8, 3",
+        "Mt 4, 4"
+      ],
+      "text": [
+        "Przybyli uczniowie i rzekli Mu:",
+        "„Rabbi jedz, Rabbi jedz!”",
+        "A On odpowiedział:",
+        "„Mam do jedzenia pokarm,                             którego wy nie znacie.",
+        "Moim pokarmem jest czynić wolę                  Tego, który Mnie posłał,",
+        "by wypełnić Jego dzieło”."
+      ]
+    },
+    {
+      "range": "7-11",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "mówić",
+        "cztery",
+        "miesiąc",
+        "pora",
+        "żniwo",
+        "czekanie",
+        "nadchodzić"
+      ],
+      "summary": "Refren cytujący ludzkie powiedzenie o czterech miesiącach oczekiwania na żniwa.",
+      "bible": [
+        "J 4, 35"
+      ],
+      "text": [
+        "Czyż nie mówicie:",
+        "„Jeszcze cztery miesiące, a nadejdzie pora żniwa”?",
+        "Czyż nie mówicie:",
+        "„Jeszcze cztery miesiące, a nadejdzie pora żniwa”?",
+        ""
+      ]
+    },
+    {
+      "range": "12-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "powiadać",
+        "podnieść",
+        "oko",
+        "pole",
+        "bieleć",
+        "gotowy",
+        "żniwo"
+      ],
+      "summary": "Jezus wzywa, by podnieść oczy i zobaczyć pola już dojrzałe do żniwa.",
+      "bible": [
+        "J 4, 35",
+        "Jl 4, 13",
+        "Mt 9, 37"
+      ],
+      "text": [
+        "Oto powiadam wam:",
+        "„Podnieście wasze oczy i popatrzcie na pola,",
+        "jak już bieleją gotowe na żniwo!",
+        "Gotowe na żniwo!”"
+      ]
+    },
+    {
+      "range": "16-19",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "mówić",
+        "cztery",
+        "miesiąc",
+        "pora",
+        "żniwo",
+        "nadchodzić"
+      ],
+      "summary": "Refren cytujący ludzkie powiedzenie o czterech miesiącach oczekiwania na żniwa.",
+      "bible": [
+        "J 4, 35"
+      ],
+      "text": [
+        "Czyż nie mówicie:",
+        "„Jeszcze cztery miesiące, a nadejdzie pora żniwa”?",
+        "Czyż nie mówicie:",
+        "„Jeszcze cztery miesiące, a nadejdzie pora żniwa”?"
+      ]
+    },
+    {
+      "range": "20-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "gromadzić się",
+        "żniwiarz",
+        "zapłata",
+        "owoce",
+        "życie wieczne",
+        "zbierać"
+      ],
+      "summary": "Żniwiarze gromadzą się, zbierając owoce na życie wieczne.",
+      "bible": [
+        "J 4, 36",
+        "Mt 9, 38"
+      ],
+      "text": [
+        "",
+        "Już się gromadzą żniwiarze",
+        "i odbierają zapłatę, i zbierają owoce",
+        "na życie wieczne.",
+        "Na życie wieczne!"
+      ]
+    },
+    {
+      "range": "25-28",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "mówić",
+        "cztery",
+        "miesiąc",
+        "pora",
+        "żniwo",
+        "nadchodzić"
+      ],
+      "summary": "Refren cytujący ludzkie powiedzenie o czterech miesiącach oczekiwania na żniwa.",
+      "bible": [
+        "J 4, 35"
+      ],
+      "text": [
+        "Czyż nie mówicie:",
+        "„Jeszcze cztery miesiące,                         a nadejdzie pora żniwa”?",
+        "Czyż nie mówicie:",
+        "„Jeszcze cztery miesiące,                         a nadejdzie pora żniwa”?"
+      ]
+    },
+    {
+      "range": "29-33",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "posłać",
+        "zbierać",
+        "napracować się",
+        "trud",
+        "radować się",
+        "siać",
+        "żniwo"
+      ],
+      "summary": "Jezus posyła uczniów, by zbierali plon z trudu innych, a siewca i żniwiarz radowali się razem.",
+      "bible": [
+        "J 4, 37-38",
+        "1 Kor 3, 6-9"
+      ],
+      "text": [
+        "",
+        "Ja was posłałem zbierać to,nad czym wyście się nie napracowali,",
+        "inni natrudzili się,              a wy korzystacie z ich trudu,",
+        "żeby się radowali razem,                 kto sieje i kto zbiera.",
+        "Czyż nie mówicie:"
+      ]
+    },
+    {
+      "range": "34-36",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "mówić",
+        "cztery",
+        "miesiąc",
+        "pora",
+        "żniwo",
+        "nadchodzić"
+      ],
+      "summary": "Końcowe powtórzenie refrenu o żniwach, które już nadeszły.",
+      "bible": [
+        "J 4, 35"
+      ],
+      "text": [
+        "„Jeszcze cztery miesiące,                     a nadejdzie pora żniwa”?",
+        "Czyż nie mówicie:",
+        "„Jeszcze cztery miesiące,                     a nadejdzie pora żniwa”?"
+      ]
+    },
+    {
+      "range": "1-36",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "żniwo",
+        "naród",
+        "Jezus",
+        "uczeń",
+        "wola",
+        "Ojciec",
+        "posłać",
+        "pole",
+        "bieleć",
+        "gotowy",
+        "żniwiarz",
+        "życie wieczne",
+        "owoc",
+        "siewca",
+        "trud",
+        "radość",
+        "misja",
+        "pokarm",
+        "wypełnić",
+        "zbierać"
+      ],
+      "summary": "Pieśń misyjna oparta na J 4, 31-38, w której Jezus wzywa uczniów do spojrzenia na dojrzałe duchowe żniwa narodów i do udziału w zbieraniu owoców na życie wieczne.",
+      "bible": [
+        "J 4, 31-38",
+        "Jl 4, 13",
+        "Mt 9, 37-38",
+        "Ap 14, 15",
+        "1 Kor 3, 6-9",
+        "Pwt 8, 3"
+      ]
+    }
+  ]
+}

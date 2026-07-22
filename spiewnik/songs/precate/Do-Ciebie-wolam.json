@@ -1,0 +1,214 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:7d288c013ac4c1b89de01a482f4f16211c23a0b51b4d2eddf287ddf326d13af0",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wołać",
+        "Pan",
+        "modlitwa",
+        "kadzidło",
+        "ofiara",
+        "wieczorny",
+        "wzniesienie",
+        "ręce",
+        "głos",
+        "Bóg",
+        "wysłuchanie"
+      ],
+      "summary": "Błagalne wołanie do Pana o przyjście i wysłuchanie modlitwy, która wznosi się jak kadzidło, a wzniesienie rąk jak ofiara wieczorna.",
+      "bible": [
+        "Ps 141:1-2",
+        "Ap 5:8",
+        "Ps 51:19",
+        "Hbr 13:15"
+      ],
+      "text": [
+        "Do Ciebie wołam, do Ciebie wołam, o Panie,",
+        "przybądź, pospiesz się,",
+        "posłuchaj mego głosu - do Ciebie wołam.",
+        "Niech moja modlitwa będzie jak kadzidło,",
+        "wzniesienie rąk moich - jak ofiara wieczorna.",
+        ""
+      ]
+    },
+    {
+      "range": "7-15",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "usta",
+        "wartownik",
+        "straż",
+        "brama",
+        "wargi",
+        "serce",
+        "zło",
+        "przestępstwo",
+        "grzech",
+        "sprawiedliwy",
+        "kara",
+        "korekta",
+        "olejek",
+        "niegodziwy",
+        "miłość"
+      ],
+      "summary": "Prośba o postawienie straży przy ustach i ochronę serca przed skłonieniem do zła; przyjęcie karcenia od sprawiedliwego jako wyrazu miłości.",
+      "bible": [
+        "Ps 141:3-5",
+        "Syr 22:27",
+        "Prz 27:6",
+        "Mt 18:15",
+        "Hbr 12:6",
+        "Ps 51:12"
+      ],
+      "text": [
+        "Postaw, Panie, przy moich ustach wartownika,",
+        "straże przy bramie warg moich;",
+        "niech moje serce nie skłania się do złego,",
+        "do popełniania czynów przestępczych.",
+        "Sprawiedliwy niech uderza mnie, bo kocha i koryguje,",
+        "aby olejek niegodziwego nie perfumował mojej głowy,",
+        "bo ja zepsułbym się jego grzechami,",
+        "bo ja zepsułbym się jego grzechami.",
+        ""
+      ]
+    },
+    {
+      "range": "16-21",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wołać",
+        "Pan",
+        "modlitwa",
+        "kadzidło",
+        "ofiara",
+        "wieczorny",
+        "wzniesienie",
+        "ręce",
+        "głos",
+        "Bóg",
+        "wysłuchanie"
+      ],
+      "summary": "Powtórzenie błagalnego wołania do Pana o wysłuchanie modlitwy jako ofiary kadzenia.",
+      "bible": [
+        "Ps 141:1-2"
+      ],
+      "text": [
+        "Do Ciebie wołam, do Ciebie wołam, o Panie,",
+        "przybądź, pospiesz się,",
+        "posłuchaj mego głosu - do Ciebie wołam.",
+        "Niech moja modlitwa będzie jak kadzidło,",
+        "wzniesienie rąk moich - jak ofiara wieczorna.",
+        ""
+      ]
+    },
+    {
+      "range": "22-29",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "oczy",
+        "Pan",
+        "chronić",
+        "sidło",
+        "pułapka",
+        "wróg",
+        "sieć",
+        "jedność",
+        "dusza",
+        "schronienie",
+        "zbawienie",
+        "Bóg"
+      ],
+      "summary": "Wzrok zwrócony ku Panu z prośbą o ochronę przed sidłami i pułapkami wrogów oraz o przejście bez szkody w jedności z Bogiem.",
+      "bible": [
+        "Ps 141:8-10",
+        "Ps 25:15",
+        "Ps 124:7",
+        "2 Tm 4:18",
+        "J 17:21"
+      ],
+      "text": [
+        "Na Ciebie, Panie, patrzą moje oczy,",
+        "w Tobie się chronię,             nie zostawiaj samej mojej duszy!",
+        "Ustrzeż mnie Ty od sidła, które na mnie zastawili,",
+        "od pułapek licznych wrogów.",
+        "Niech wpadną oni, każdy do swojej sieci,",
+        "a ja zjednoczony z Tobą przejdę bez szkody,",
+        "a ja zjednoczony z Tobą przejdę bez szkody.",
+        ""
+      ]
+    },
+    {
+      "range": "30-34",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wołać",
+        "Pan",
+        "modlitwa",
+        "kadzidło",
+        "ofiara",
+        "wieczorny",
+        "wzniesienie",
+        "ręce",
+        "głos",
+        "Bóg",
+        "wysłuchanie"
+      ],
+      "summary": "Końcowe błagalne wołanie do Pana o przyjęcie modlitwy jako kadzidła i wzniesienia rąk jako ofiary wieczornej.",
+      "bible": [
+        "Ps 141:1-2"
+      ],
+      "text": [
+        "Do Ciebie wołam, do Ciebie wołam, o Panie,",
+        "przybądź, pospiesz się,",
+        "posłuchaj mego głosu - do Ciebie wołam.",
+        "Niech moja modlitwa będzie jak kadzidło,",
+        "wzniesienie rąk moich - jak ofiara wieczorna."
+      ]
+    },
+    {
+      "range": "1-34",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "wołać",
+        "Pan",
+        "modlitwa",
+        "kadzidło",
+        "ofiara",
+        "straż",
+        "usta",
+        "serce",
+        "grzech",
+        "sprawiedliwy",
+        "kara",
+        "oczy",
+        "sidło",
+        "wróg",
+        "jedność",
+        "dusza",
+        "schronienie",
+        "zbawienie",
+        "Bóg",
+        "korekta",
+        "miłość"
+      ],
+      "summary": "Psalm błagalny będący wołaniem do Boga o ochronę przed uwiedzeniem przez grzech, przyjęcie modlitwy jako wonnej ofiary oraz wytrwanie w jedności z Panem. Typologicznie zapowiada Chrystusową modlitwę w Ogrójcu i Jego ofiarę krzyża.",
+      "bible": [
+        "Ps 141",
+        "Hbr 13:15",
+        "Ap 5:8",
+        "Mt 26:39",
+        "J 17:21",
+        "1 P 2:5"
+      ]
+    }
+  ]
+}

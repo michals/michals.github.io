@@ -1,0 +1,260 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:6faeeda85579cca15dafe9c529f139b8b8b9775c4dc6a9ad54664ae4f20a2769",
+  "songs_analysis": [
+    {
+      "range": "1-15",
+      "type": "fragment",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Abraham",
+        "Mamre",
+        "namiot",
+        "dąb",
+        "gościnność",
+        "trzej mężowie",
+        "patriarcha",
+        "spotkanie",
+        "wiara",
+        "posłuszeństwo",
+        "Rdz 18",
+        "obietnica",
+        "Trójca Święta",
+        "prefiguracja"
+      ],
+      "summary": "Narracja opisująca scenę spotkania Abrahama z trzema gośćmi pod dębami Mamre — prefiguracja objawienia Trójcy Świętej. Patriarcha, ujrzawszy Trzech Mężów, pochyla się do ziemi i zaprasza ich na gościnę.",
+      "bible": [
+        "Rdz 18,1-5",
+        "Hbr 13,2",
+        "Mt 25,35"
+      ],
+      "text": [
+        "Było upalnie owego dnia,",
+        "kiedy Abraham",
+        "siedział przed swoim namiotem.",
+        "Było upalnie owego dnia,",
+        "kiedy Abraham",
+        "siedział pod dębem Mamre.",
+        "Podniósłszy oczy, popatrzył,",
+        "a oto trzej mężowie",
+        "stali przed nim.",
+        "Zaledwie ich ujrzał,",
+        "pochylił się do ziemi i powiedział:",
+        "„O Panie mój,",
+        "nie omijaj mnie, proszę,",
+        "chciej się zatrzymać!”",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "błaganie",
+        "zatrzymanie",
+        "obecność",
+        "prośba",
+        "Pan",
+        "spotkanie",
+        "gościnność",
+        "serce",
+        "przyjęcie",
+        "Abraham"
+      ],
+      "summary": "Refren błagalny — wołanie Abrahama, by Pan się zatrzymał i nie omijał go. Wyraża pragnienie Bożej obecności i głęboką potrzebę wejścia Boga w ludzkie życie.",
+      "bible": [
+        "Rdz 18,3",
+        "Ap 3,20",
+        "J 14,23"
+      ],
+      "text": [
+        "Chciej się zatrzymać!",
+        "Nie omijaj mnie, proszę,",
+        "chciej się zatrzymać!",
+        "Chciej się zatrzymać!",
+        ""
+      ]
+    },
+    {
+      "range": "21-24",
+      "type": "fragment",
+      "sentiment": "neutralny",
+      "keywords": [
+        "gościnność",
+        "woda",
+        "obmycie",
+        "odpoczynek",
+        "cień",
+        "posługa",
+        "służba",
+        "pokora",
+        "przyjęcie"
+      ],
+      "summary": "Abraham oferuje gościom wodę do obmycia nóg i odpoczynek w cieniu — gest starożytnej gościnności będący wyrazem czci wobec przybyszów. Zapowiada Chrystusowe obmycie nóg apostołom.",
+      "bible": [
+        "Rdz 18,4",
+        "J 13,5-14",
+        "Hbr 13,2"
+      ],
+      "text": [
+        "Przyniosę trochę wody,",
+        "wy zaś obmyjecie sobie nogi,",
+        "a potem odpoczniecie w cieniu.",
+        ""
+      ]
+    },
+    {
+      "range": "25-28",
+      "type": "fragment",
+      "sentiment": "neutralny",
+      "keywords": [
+        "chleb",
+        "pokrzepienie",
+        "gościnność",
+        "posiłek",
+        "droga",
+        "wspólnota",
+        "służba",
+        "dar"
+      ],
+      "summary": "Abraham oferuje gościom chleb na pokrzepienie przed dalszą drogą. Gest ten zapowiada biblijny motyw chleba jako pokarmu dającego życie oraz Eucharystię.",
+      "bible": [
+        "Rdz 18,5",
+        "J 6,35",
+        "Łk 24,28-31"
+      ],
+      "text": [
+        "Przyniosę kęs chleba,",
+        "abyście się pokrzepili,",
+        "zanim pójdziecie dalej.",
+        ""
+      ]
+    },
+    {
+      "range": "29-32",
+      "type": "fragment",
+      "sentiment": "neutralny",
+      "keywords": [
+        "rozpoznanie",
+        "Opatrzność",
+        "spotkanie",
+        "wiara",
+        "Bóg",
+        "Abraham",
+        "powołanie",
+        "natchnienie",
+        "Trójca Święta"
+      ],
+      "summary": "Abraham rozpoznaje, że spotkanie z gośćmi nie jest przypadkowe, lecz wynika z Opatrzności Bożej. Wyraz wiary w Boże kierownictwo historią.",
+      "bible": [
+        "Rdz 18",
+        "Hbr 11,8-10",
+        "Rz 8,28"
+      ],
+      "text": [
+        "Nie przez przypadek",
+        "przechodziliście dzisiaj",
+        "obok mnie.",
+        ""
+      ]
+    },
+    {
+      "range": "33-37",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "modlitwa",
+        "błaganie",
+        "Pan",
+        "obecność",
+        "zatrzymanie",
+        "prośba",
+        "Abraham",
+        "wiara",
+        "zawierzenie",
+        "Trójca Święta",
+        "Jezus Chrystus",
+        "Bóg Ojciec"
+      ],
+      "summary": "Modlitwa Abrahama skierowana bezpośrednio do Pana — błaganie o Jego obecność. Ma wymiar trynitarny: skierowana do Trzech Mężów jako prefiguracji Trójcy Świętej.",
+      "bible": [
+        "Rdz 18,3",
+        "Ps 27,8",
+        "Ap 3,20",
+        "Łk 24,29"
+      ],
+      "text": [
+        "O Panie mój,",
+        "nie omijaj mnie, proszę,",
+        "chciej się zatrzymać,",
+        "chciej się zatrzymać!",
+        ""
+      ]
+    },
+    {
+      "range": "38-41",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "błaganie",
+        "zatrzymanie",
+        "Pan",
+        "obecność",
+        "Abraham",
+        "prośba",
+        "modlitwa",
+        "wiara",
+        "zawierzenie"
+      ],
+      "summary": "Końcowy refren — ponowne błaganie o zatrzymanie się Pana. Powtórzenie podkreśla intensywność pragnienia Bożej obecności i stanowi odpowiedź na objawienie się Trzech Gości.",
+      "bible": [
+        "Rdz 18,3",
+        "Iz 55,6",
+        "Ap 3,20"
+      ],
+      "text": [
+        "Chciej się zatrzymać,",
+        "nie omijaj mnie, proszę,",
+        "chciej się zatrzymać!",
+        "Chciej się zatrzymać!"
+      ]
+    },
+    {
+      "range": "1-41",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Abraham",
+        "gościnność",
+        "Trójca Święta",
+        "prefiguracja",
+        "Mamre",
+        "Rdz 18",
+        "patriarcha",
+        "wiara",
+        "spotkanie z Bogiem",
+        "objawienie",
+        "obietnica",
+        "błaganie",
+        "modlitwa",
+        "obecność Boża",
+        "Opatrzność",
+        "chleb",
+        "woda",
+        "służba",
+        "pokora",
+        "Przymierze"
+      ],
+      "summary": "Pieśń oparta na scenie gościnności Abrahama pod dębami Mamre (Rdz 18,1-5), w której Trzej Goście stanowią prefigurację Trójcy Świętej. Abraham, patriarcha wiary, rozpoznaje w przybyszach szczególną obecność Boga i błaga, by się zatrzymali — wyrażając pragnienie każdego człowieka, by Bóg wszedł w jego życie i pozostał.",
+      "bible": [
+        "Rdz 18,1-5",
+        "Hbr 13,2",
+        "Mt 25,35",
+        "Ap 3,20",
+        "J 14,23",
+        "Łk 24,28-31"
+      ]
+    }
+  ]
+}

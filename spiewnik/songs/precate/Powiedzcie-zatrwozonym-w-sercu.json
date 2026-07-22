@@ -1,0 +1,206 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:baa49435f0af2c08e0546836d250f9fa0e43cdbddee7b44a7a3a4b9700ee2ce7",
+  "songs_analysis": [
+    {
+      "range": "1",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "1",
+      "bible": [],
+      "text": [
+        "Powiedzcie zatrwożonym w sercu,"
+      ]
+    },
+    {
+      "range": "1-4",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "zatrwożony",
+        "serce",
+        "ubogi",
+        "odwaga",
+        "bać się",
+        "Bóg",
+        "przychodzić",
+        "zbawić",
+        "pocieszenie"
+      ],
+      "summary": "Wezwanie do zatrwożonych i ubogich: 'Odwagi, nie bójcie się, wasz Bóg przychodzi, by was zbawić' — radosne orędzie Bożego przyjścia na miarę Iz 35, 4.",
+      "bible": [
+        "Iz 35, 4",
+        "Iz 40, 9",
+        "Iz 41, 10",
+        "So 3, 16-17",
+        "Łk 2, 10"
+      ],
+      "text": [
+        "Powiedzcie zatrwożonym w sercu,",
+        "powiedzcie to, powiedzcie to ubogim:",
+        "„odwagi, nie bójcie się,",
+        "wasz Bóg przychodzi, by was zbawić”."
+      ]
+    },
+    {
+      "range": "5-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ślepy",
+        "głuchy",
+        "chromy",
+        "skakać",
+        "jeleń",
+        "niemy",
+        "radość",
+        "uzdrowienie",
+        "cud",
+        "Mesjasz"
+      ],
+      "summary": "Opis znaków mesjańskich: otworzą się oczy ślepych, uszy głuchych usłyszą, chromy skakać będzie jak jeleń, niemi zakrzykną z radości — wypełnienie proroctw o epoce mesjańskiej.",
+      "bible": [
+        "Iz 35, 5-6",
+        "Mt 11, 5",
+        "Łk 7, 22",
+        "Iz 32, 3-4",
+        "Mk 7, 37"
+      ],
+      "text": [
+        "I wtedy otworzą się oczy ślepych,",
+        "będą słyszeć uszy głuchych,",
+        "i wtedy chromy skakać będzie jak jeleń,",
+        "zakrzyczą z radości języki niemych."
+      ]
+    },
+    {
+      "range": "9-13",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "droga",
+        "zbawienie",
+        "ubogi",
+        "iść",
+        "powracać",
+        "wyzwolony",
+        "Pan",
+        "odkupienie",
+        "świętość"
+      ],
+      "summary": "Będzie droga zbawienia dla ubogich, którą pójdą wyzwoleni przez Pana — obraz Drogi Świętej (Iz 35, 8) jako drogi powrotu do Boga.",
+      "bible": [
+        "Iz 35, 8-9",
+        "J 14, 6",
+        "Iz 40, 3",
+        "Iz 43, 19",
+        "Ps 84, 6"
+      ],
+      "text": [
+        "Albowiem będzie tam droga,",
+        "droga zbawienia,",
+        "droga zbawienia dla ubogich",
+        "i po niej idąc powracać będą wyzwoleni przez Pana,",
+        "i po niej idąc powracać będą wyzwoleni przez Pana."
+      ]
+    },
+    {
+      "range": "14-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "biedny",
+        "ślepy",
+        "chromy",
+        "oddalony",
+        "Pan",
+        "grzesznik",
+        "ubogi",
+        "miłosierdzie",
+        "słabość"
+      ],
+      "summary": "Katalog tych, którzy zbawienie otrzymują: biedni, ślepi, chromi, oddaleni od Pana i grzesznicy — ewangelia skierowana do wykluczonych i najsłabszych.",
+      "bible": [
+        "Iz 35, 8",
+        "Łk 14, 21-23",
+        "1 Kor 1, 27-29",
+        "Mt 21, 31",
+        "Łk 19, 10"
+      ],
+      "text": [
+        "Wszyscy biedni, ślepi, chromi, oddaleni od Pana,",
+        "wszyscy biedni, ślepi, chromi, oddaleni od Pana,",
+        "i grzesznicy."
+      ]
+    },
+    {
+      "range": "17-20",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "śpiewać",
+        "szczęście",
+        "Alleluja",
+        "radość",
+        "uwielbienie",
+        "tryumf",
+        "dziękczynienie"
+      ],
+      "summary": "Uwielbienie z wielkiego szczęścia: podwójne Alleluja wieńczy pieśń radosnym wybuchem dziękczynienia — zapowiedź eschatologicznej radości odkupionych.",
+      "bible": [
+        "Iz 35, 10",
+        "Ap 19, 1-6",
+        "Ps 150, 6",
+        "Iz 51, 11"
+      ],
+      "text": [
+        "I śpiewać będą z wielkiego szczęścia!",
+        "I śpiewać będą z wielkiego szczęścia!",
+        "Alleluja, alleluja!",
+        "Alleluja, alleluja!"
+      ]
+    },
+    {
+      "range": "1-20",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "zatrwożony",
+        "pocieszenie",
+        "Bóg",
+        "przychodzić",
+        "zbawić",
+        "ślepy",
+        "głuchy",
+        "chromy",
+        "niemy",
+        "uzdrowienie",
+        "droga",
+        "zbawienie",
+        "wyzwolony",
+        "grzesznik",
+        "śpiewać",
+        "szczęście",
+        "Alleluja",
+        "Adwent",
+        "Mesjasz"
+      ],
+      "summary": "Radosna parafraza Iz 35 — proroctwa o mesjańskim zbawieniu. Pieśń przechodzi od pocieszenia zatrwożonych ('Odwagi, nie bójcie się, wasz Bóg przychodzi') przez katalog znaków mesjańskich (ślepi widzą, głusi słyszą, chromi skaczą, niemi śpiewają) do obrazu 'drogi zbawienia', którą kroczą wyzwoleni: biedni, chromi, oddaleni i grzesznicy. Kończy się wybuchem Alleluja — radością eschatologiczną. Typologicznie: Izajaszowe uzdrowienia cielesne są znakami uzdrowienia duchowego dokonanego przez Chrystusa (Mt 11, 5). 'Droga zbawienia' (Iz 35, 8) to typ Chrystusa — Drogi, Prawdy i Życia (J 14, 6). Powrót wyzwolonych do Syjonu to zapowiedź odkupienia wszystkich narodów w Kościele.",
+      "bible": [
+        "Iz 35, 3-10",
+        "Mt 11, 5",
+        "Łk 7, 22",
+        "J 14, 6",
+        "Ap 19, 1-6",
+        "Iz 40, 3",
+        "Iz 41, 10",
+        "So 3, 16-17",
+        "Łk 14, 21-23",
+        "1 Kor 1, 27-29",
+        "Iz 51, 11",
+        "Ps 150, 6"
+      ]
+    }
+  ]
+}

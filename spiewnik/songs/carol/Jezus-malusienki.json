@@ -1,0 +1,287 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:dfa8c0b46bd03268f92421cf8e10291cf8e3a6c9625b5b8afd20b6bdfd067c5f",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Dziecię",
+        "stajnia",
+        "żłób",
+        "zimno",
+        "ubóstwo",
+        "Matka",
+        "Narodzenie",
+        "Wcielenie",
+        "cierpienie"
+      ],
+      "summary": "Jezus maleńki leży w stajni i płacze z zimna, nie mając sukienki – obraz skrajnego ubóstwa Wcielonego Boga.",
+      "bible": [
+        "Łk 2, 7",
+        "2 Kor 8, 9"
+      ],
+      "text": [
+        "Jezus malusieńki,",
+        "leży wśród stajenki,",
+        "Płacze z zimna, nie dała mu",
+        "Matula sukienki.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Maryja",
+        "ubóstwo",
+        "Matka",
+        "Jezus Chrystus",
+        "Dziecię",
+        "pieluszka",
+        "siano",
+        "Narodzenie",
+        "opieką"
+      ],
+      "summary": "Uboga Maryja zdjęła rąbek z głowy, by owinąć Dziecię, i okryła Je siankiem.",
+      "bible": [
+        "Łk 2, 7"
+      ],
+      "text": [
+        "Bo uboga była,",
+        "rąbek z głowy zdjęła,",
+        "W który Dziecię uwinąwszy,",
+        "siankiem Go okryła.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Jezus Chrystus",
+        "kolebka",
+        "poduszka",
+        "żłób",
+        "siano",
+        "ubóstwo",
+        "Narodzenie",
+        "Dziecię"
+      ],
+      "summary": "Jezus nie ma kolebeczki ani poduszeczki – złożono Go w żłobie na sianie.",
+      "bible": [
+        "Łk 2, 7"
+      ],
+      "text": [
+        "Nie ma kolebeczki,",
+        "ani poduszeczki,",
+        "We żłobie Mu położyła",
+        "siana pod główeczki.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Dziecię",
+        "płacz",
+        "zimno",
+        "żłób",
+        "stajnia",
+        "ubóstwo",
+        "cierpienie",
+        "bezradność"
+      ],
+      "summary": "Dziecina kwili z zimna w twardym żłobie w pochylonej stajence.",
+      "bible": [
+        "Łk 2, 7"
+      ],
+      "text": [
+        "Dziecina się kwili,",
+        "Malusieńka lili,",
+        "W nóżki zimno, żłóbek twardy,",
+        "stajenka się chyli.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Maryja",
+        "troska",
+        "ból",
+        "Syn",
+        "wola Boża",
+        "Matka",
+        "Jezus Chrystus",
+        "cierpienie",
+        "Ogrójec",
+        "ofiarowanie"
+      ],
+      "summary": "Maryja truchleje i płacze, przyjmując wolę Bożą: 'Wola Twoja, nie moja się dzieje' – echo modlitwy Jezusa w Ogrójcu.",
+      "bible": [
+        "Łk 2, 35",
+        "Mt 26, 39"
+      ],
+      "text": [
+        "Matusia truchleje,",
+        "serdeczne łzy leje,",
+        "O mój Synu! Wola Twoja,",
+        "nie moja się dzieje.",
+        ""
+      ]
+    },
+    {
+      "range": "26-30",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Maryja",
+        "płacz",
+        "Jezus Chrystus",
+        "cierpienie",
+        "Męka",
+        "serce",
+        "przeczucie",
+        "ból",
+        "Matka",
+        "współcierpienie"
+      ],
+      "summary": "Prośba Maryi do Jezusa, by przestał płakać, bo nosi w sercu zapowiedź Jego przyszłej Męki.",
+      "bible": [
+        "Łk 2, 35",
+        "Iz 53, 3"
+      ],
+      "text": [
+        "Przestań płakać, proszę,",
+        "bo żalu nie zniosę,",
+        "Dosyć go mam z męki Twojej,",
+        "którą w sercu noszę.",
+        ""
+      ]
+    },
+    {
+      "range": "31-35",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Pan",
+        "Hetman",
+        "zwycięstwo",
+        "miłość",
+        "zwyciężony miłością",
+        "Król",
+        "Bóg",
+        "kontrast"
+      ],
+      "summary": "Jezus jest najwyższym Panem i walecznym Hetmanem, zwyciężonym przez miłość – paradoks mocy w słabości.",
+      "bible": [
+        "Flp 2, 6-8",
+        "Ef 6, 10-11"
+      ],
+      "text": [
+        "O najwyższy Panie!",
+        "Waleczny Hetmanie!",
+        "Zwyciężonyś, mając rączki",
+        "miłością związane.",
+        ""
+      ]
+    },
+    {
+      "range": "36-40",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "serce",
+        "Jezus Chrystus",
+        "otwarty",
+        "mieszkanie",
+        "prośba",
+        "gościna",
+        "modlitwa",
+        "jednostka",
+        "oddanie"
+      ],
+      "summary": "Modlitwa o przyjęcie Jezusa do otwartego serca, by uczynił je swoim mieszkaniem.",
+      "bible": [
+        "Ap 3, 20",
+        "J 14, 23"
+      ],
+      "text": [
+        "Pójdź do serca mego,",
+        "Tobie otwartego,",
+        "Przysposób je do mieszkania",
+        "i wczasu swojego.",
+        ""
+      ]
+    },
+    {
+      "range": "41-44",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "serce",
+        "Jezus Chrystus",
+        "pałac",
+        "nawrócenie",
+        "zamiana",
+        "mieszkanie",
+        "oddanie",
+        "przemiana"
+      ],
+      "summary": "Prośba o zamianę serc – by Jezusa serce zastąpiło ludzkie i stało się pięknym pałacem dla Niego.",
+      "bible": [
+        "Ez 36, 26",
+        "2 Kor 5, 17"
+      ],
+      "text": [
+        "Albo mi daj swoje,",
+        "wyrzuciwszy moje,",
+        "Tak będziesz miał piękny pałac,",
+        "na mieszkanie Twoje."
+      ]
+    },
+    {
+      "range": "1-44",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Jezus Chrystus",
+        "Narodzenie",
+        "ubóstwo",
+        "Maryja",
+        "cierpienie",
+        "Męka",
+        "krzyż",
+        "Wcielenie",
+        "miłość",
+        "zbawienie",
+        "serce",
+        "nawrócenie",
+        "służba",
+        "ofiara",
+        "pokora"
+      ],
+      "summary": "Kolęda kontrastująca ubóstwo narodzin Jezusa z zapowiedzią Jego Męki – Maryja współcierpi, przeczuwając przyszłe cierpienie Syna, a wierny prosi Jezusa o zamieszkanie w swoim sercu.",
+      "bible": [
+        "Łk 2, 7",
+        "Łk 2, 35",
+        "Mt 26, 39",
+        "Flp 2, 6-8",
+        "Ap 3, 20",
+        "Ez 36, 26",
+        "Iz 53, 3"
+      ]
+    }
+  ]
+}

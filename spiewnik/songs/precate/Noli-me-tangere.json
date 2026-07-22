@@ -1,0 +1,155 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:3d7cde2b71c7b0233dbe1c38eced2bcce8af297d2e6c2d3c0a7847352e6066b8",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "fragment",
+      "sentiment": "błagalny",
+      "keywords": [
+        "niewiasta",
+        "płacz",
+        "Maria Magdalena",
+        "szukanie",
+        "Pan",
+        "Jezus",
+        "złożenie",
+        "zabranie",
+        "grób",
+        "zmartwychwstanie",
+        "żałoba"
+      ],
+      "summary": "Dialog przy grobie: aniołowie pytają Marię Magdalenę o powód płaczu, a ona szuka ciała Jezusa, sądząc że ktoś je przeniósł. Scena żałoby i poszukiwania zmarłego, które niebawem zamieni się w radość spotkania ze Zmartwychwstałym.",
+      "bible": [
+        "J 20, 13-15"
+      ],
+      "text": [
+        "Niewiasto, powiedz czemu płaczesz?",
+        "Niewiasto, powiedz czemu płaczesz?",
+        "Kogo szukasz? Kogo szukasz? Kogo szukasz?",
+        "Panie, jeżeli Go przeniosłeś ty,",
+        "Panie, jeżeli Go przeniosłeś ty,",
+        "powiedz mi, gdzie Go złożyłeś,",
+        "a ja zabiorę Go, a ja zabiorę Go."
+      ]
+    },
+    {
+      "range": "8-11",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Mario",
+        "Rabbuni",
+        "Nauczycielu",
+        "Jezus",
+        "Maria Magdalena",
+        "rozpoznanie",
+        "zmartwychwstanie",
+        "spotkanie",
+        "wiara"
+      ],
+      "summary": "Moment rozpoznania: Jezus woła 'Mario!', a Maria odpowiada 'Rabbuni' (Nauczycielu!). Punkt zwrotny od żałoby do radości – osobiste spotkanie ze Zmartwychwstałym przynosi wiarę i orędzie.",
+      "bible": [
+        "J 20, 16"
+      ],
+      "text": [
+        "Mario!",
+        "Rabbuni!",
+        "Mario!",
+        "Rabbuni!"
+      ]
+    },
+    {
+      "range": "12-13",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "14-20",
+      "bible": [],
+      "text": [
+        "Noli me tangere, nie dotykaj mnie,",
+        "bo jeszcze nie wstąpiłem do Ojca."
+      ]
+    },
+    {
+      "range": "14-20",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Noli me tangere",
+        "nie dotykaj",
+        "wniebowstąpienie",
+        "Ojciec",
+        "posłanie",
+        "ogłoszenie",
+        "braciom",
+        "Jezus",
+        "zmartwychwstanie",
+        "misja",
+        "Maria Magdalena",
+        "apostołka"
+      ],
+      "summary": "Jezus mówi 'Nie dotykaj Mnie, bo jeszcze nie wstąpiłem do Ojca' (Noli me tangere) i posyła Marię z misją ogłoszenia braciom Jego wniebowstąpienia. Maria Magdalena staje się 'apostołką apostołów' – pierwszą zwiastunką zmartwychwstania.",
+      "bible": [
+        "J 20, 17"
+      ],
+      "text": [
+        "Idź i ogłoś moim braciom,",
+        "że wstępuję do Ojca mego i Ojca waszego,",
+        "Boga mego i Boga waszego,",
+        "że wstępuję do Ojca mego i Ojca waszego,",
+        "Boga mego i Boga waszego;",
+        "że wstępuję do Ojca mego i Ojca waszego,",
+        "Boga mego i Boga waszego."
+      ]
+    },
+    {
+      "range": "21-22",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "Maria Magdalena",
+        "Pan",
+        "Jezus",
+        "szukanie",
+        "złożenie",
+        "zabranie",
+        "powtórzenie",
+        "refren"
+      ],
+      "summary": "Końcowe echo dialogu z początku pieśni – powrót do nuty 'Panie, jeżeli Go przeniosłeś ty...' i 'Mario' jako inkluzja zamykająca scenę.",
+      "bible": [
+        "J 20, 15-16"
+      ],
+      "text": [
+        "Panie, jeżeli Go przeniosłeś ty …",
+        "Mario …"
+      ]
+    },
+    {
+      "range": "1-22",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Noli me tangere",
+        "J 20",
+        "zmartwychwstanie",
+        "Maria Magdalena",
+        "Rabbuni",
+        "Jezus",
+        "Ojciec",
+        "posłanie",
+        "apostołka apostołów",
+        "wniebowstąpienie",
+        "Wiara",
+        "spotkanie",
+        "radosny",
+        "Okres Wielkanocny"
+      ],
+      "summary": "Pieśń oparta na J 20, 15-17 – scenie spotkania Marii Magdaleny ze Zmartwychwstałym w ogrodzie. Kluczowe elementy: płacz i poszukiwanie (żałoba), rozpoznanie (Rabbuni!), 'Noli me tangere' (Jezus nie może być zatrzymany przy ziemskim życiu – zmierza do Ojca) oraz misja ogłoszenia zmartwychwstania braciom. Maria Magdalena jako pierwsza zwiastunka paschalnego orędzia. Pieśń przeznaczona na Okres Wielkanocny.",
+      "bible": [
+        "J 20, 15-17"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:2b16c2e47e24587040174fb59d98c2def4e5339faa2d20d640fba86fbffaee9a",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wstąpienie",
+        "Dobry Pasterz",
+        "prawica",
+        "Ojciec",
+        "trzódka",
+        "czuwanie",
+        "Maryja",
+        "wieczernik",
+        "wniebowstąpienie"
+      ],
+      "summary": "Chrystus jako Dobry Pasterz wstępuje na prawicę Ojca, podczas gdy mała trzódka (Kościół) czuwa z Maryją w wieczerniku w oczekiwaniu na Ducha Świętego.",
+      "bible": [
+        "J 10:11-14",
+        "Dz 1:9-11",
+        "Mk 16:19",
+        "Dz 1:13-14",
+        "J 14:18"
+      ],
+      "text": [
+        "Wstąpił Dobry Pasterz",
+        "na prawicę Ojca,",
+        "czuwa mała trzódka",
+        "z Maryją w wieczerniku.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "blask",
+        "wiekuisty",
+        "krzyżmo",
+        "proroczy",
+        "namaszczenie",
+        "apostoł",
+        "herold",
+        "Ewangelia",
+        "Duch Święty"
+      ],
+      "summary": "Z blasków wiekuistych spływa krzyżmo prorocze, namaszczając apostołów na heroldów Ewangelii — zapowiedź zesłania Ducha Świętego i misji apostolskiej.",
+      "bible": [
+        "Dz 1:8",
+        "Dz 2:1-4",
+        "J 20:22",
+        "1 J 2:20-27",
+        "Iz 61:1-2"
+      ],
+      "text": [
+        "Z blasków wiekuistych",
+        "spływa krzyżmo prorocze,",
+        "namaszczając apostołów",
+        "na heroldów Ewangelii.",
+        ""
+      ]
+    },
+    {
+      "range": "11-15",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wstąpienie",
+        "Dobry Pasterz",
+        "prawica",
+        "Ojciec",
+        "trzódka",
+        "Maryja",
+        "wieczernik"
+      ],
+      "summary": "Powtórzenie refrenu o wniebowstąpieniu Dobrego Pasterza i czuwaniu Kościoła z Maryją.",
+      "bible": [
+        "Dz 1:9-14",
+        "J 10:11"
+      ],
+      "text": [
+        "Wstąpił Dobry Pasterz",
+        "na prawicę Ojca,",
+        "czuwa mała trzódka",
+        "z Maryją w wieczerniku.",
+        ""
+      ]
+    },
+    {
+      "range": "16-20",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Duch",
+        "Boski",
+        "dar",
+        "święty",
+        "serce",
+        "świątynia",
+        "chwała",
+        "uświęcenie"
+      ],
+      "summary": "Inwokacja do Ducha Świętego, aby przyszedł ze świętymi darami i uczynił serca wiernych świątynią swojej chwały.",
+      "bible": [
+        "Dz 2:1-4",
+        "1 Kor 3:16",
+        "1 Kor 6:19",
+        "Ga 5:22-23",
+        "Iz 11:2"
+      ],
+      "text": [
+        "Przyjdź, o Boski Duchu",
+        "ze świętymi darami",
+        "i uczyń nasze serca",
+        "świątynią Twojej chwały.",
+        ""
+      ]
+    },
+    {
+      "range": "21-25",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "wstąpienie",
+        "Dobry Pasterz",
+        "prawica",
+        "Ojciec",
+        "trzódka",
+        "Maryja",
+        "wieczernik"
+      ],
+      "summary": "Powtórzenie refrenu o wniebowstąpieniu Dobrego Pasterza i czuwaniu Kościoła z Maryją.",
+      "bible": [
+        "Dz 1:9-14",
+        "J 10:11"
+      ],
+      "text": [
+        "Wstąpił Dobry Pasterz",
+        "na prawicę Ojca,",
+        "czuwa mała trzódka",
+        "z Maryją w wieczerniku.",
+        ""
+      ]
+    },
+    {
+      "range": "26-30",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Światło",
+        "mądrość",
+        "wiekuisty",
+        "tajemnica",
+        "Trójca",
+        "jedyny",
+        "źródło",
+        "miłość",
+        "odbicie"
+      ],
+      "summary": "Prośba do Światła wiekuistej mądrości (Ducha Świętego lub Chrystusa-Mądrości) o odsłonięcie tajemnicy Boga w Trójcy Jedynego, źródła wiecznej miłości.",
+      "bible": [
+        "J 16:13-15",
+        "1 Kor 2:10",
+        "Rz 11:33",
+        "Ef 3:9-10",
+        "1 J 4:8-16"
+      ],
+      "text": [
+        "O Światło wiekuistej mądrości",
+        "odsłoń nam tajemnicę",
+        "Boga w Trójcy jedynego,",
+        "źródło wiecznej miłości.",
+        ""
+      ]
+    },
+    {
+      "range": "31",
+      "type": "zakończenie",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Amen",
+        "potwierdzenie",
+        "zgoda"
+      ],
+      "summary": "Liturgiczne Amen jako uroczyste potwierdzenie i zakończenie hymnu.",
+      "bible": [],
+      "text": [
+        "Amen."
+      ]
+    },
+    {
+      "range": "1-31",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "wniebowstąpienie",
+        "Dobry Pasterz",
+        "Duch Święty",
+        "Maryja",
+        "wieczernik",
+        "apostoł",
+        "misja",
+        "Ewangelia",
+        "Trójca",
+        "świątynia",
+        "chwała"
+      ],
+      "summary": "Hymn na Wniebowstąpienie Pańskie łączący trzy tajemnice: wniebowstąpienie Chrystusa jako Dobrego Pasterza na prawicę Ojca, oczekiwanie Kościoła z Maryją w wieczerniku oraz zesłanie Ducha Świętego, który namaszcza na heroldów Ewangelii i uświęca serca wiernych jako świątynię Bożej chwały.",
+      "bible": [
+        "Dz 1:1-14",
+        "Mk 16:19",
+        "J 10:11-14",
+        "Dz 2:1-4",
+        "1 Kor 3:16",
+        "1 Kor 6:19",
+        "Ef 4:8-13"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:34c89b3465b8b2b910b5f213963d3dd275b8bd2b36fb84b4acac7b5cc20098d1",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "śmierć",
+        "wstyd",
+        "piekło",
+        "żałoba",
+        "niegodziwość",
+        "niesprawiedliwość",
+        "Mojżesz",
+        "faraon",
+        "zwycięstwo"
+      ],
+      "summary": "Tryumfalne ogłoszenie, że Chrystus okrył śmierć wstydem i pokonał piekło, nawiązując do Mojżeszowego zwycięstwa nad faraonem.",
+      "bible": [
+        "Wj 14-15",
+        "1 Kor 15, 55",
+        "Oz 13, 14"
+      ],
+      "text": [
+        "Ty okryłeś śmierć wstydem,",
+        "Ty wtrąciłeś piekło w żałobę,",
+        "uderzyłeś niegodziwość,",
+        "niesprawiedliwość pozbawiłeś potomstwa,",
+        "jak Mojżesz faraona,",
+        "jak Mojżesz faraona.",
+        ""
+      ]
+    },
+    {
+      "range": "8-15",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "niewola",
+        "wolność",
+        "ciemność",
+        "światło",
+        "śmierć",
+        "życie",
+        "tyran",
+        "królestwo",
+        "pascha",
+        "zbawienie",
+        "Baranek",
+        "Maryja",
+        "zmaza"
+      ],
+      "summary": "Wyznanie, że Chrystus wyprowadził z niewoli do wolności – sam jest Paschą zbawienia i Barankiem zrodzonym z Maryi Dziewicy.",
+      "bible": [
+        "Wj 12",
+        "Iz 53, 7",
+        "J 1, 29",
+        "1 P 1, 18-19"
+      ],
+      "text": [
+        "Ty wyprowadziłeś nas z niewoli na wolność,",
+        "z ciemności na światło, ze śmierci do życia,",
+        "spod władzy tyrana do wiecznego królestwa.",
+        "Ty jesteś paschą naszego zbawienia,",
+        "Tyś jest Barankiem zrodzonym z Maryi.",
+        "Maryja, Baranka bez zmazy,",
+        "Maryja, niewinna Baranka.",
+        ""
+      ]
+    },
+    {
+      "range": "16-27",
+      "type": "zwrotka",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Abel",
+        "Izaak",
+        "Józef",
+        "Mojżesz",
+        "Dawid",
+        "prorocy",
+        "Baranek",
+        "Maryja",
+        "zmaza",
+        "typy",
+        "zapowiedź"
+      ],
+      "summary": "Typologiczna recapitulatio – Chrystus obecny i cierpiący w postaciach ST: Ablu, Izaaku, Józefie, Mojżeszu, Dawidzie i prorokach, jako Baranek Boży zrodzony z Maryi.",
+      "bible": [
+        "Rdz 4, 8-10",
+        "Rdz 22",
+        "Rdz 37",
+        "Wj 2",
+        "Iz 53, 7",
+        "1 Sm 18-31"
+      ],
+      "text": [
+        "Ty byłeś w Ablu zabity,",
+        "Ty byłeś związany w Izaaku,",
+        "sprzedany w Józefie,",
+        "w Mojżeszu porzucony na wodach,",
+        "",
+        "prześladowany w Dawidzie,",
+        "wyśmiany we wszystkich prorokach.",
+        "Tyś jest Barankiem, co ust nie otwiera,",
+        "Tyś jest Barankiem zrodzonym z Maryi.",
+        "Maryja, Baranka bez zmazy,",
+        "Maryja, niewinna Baranka.",
+        ""
+      ]
+    },
+    {
+      "range": "28-37",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "ofiara",
+        "stado",
+        "wieczór",
+        "noc",
+        "pogrzeb",
+        "ciało",
+        "zepsucie",
+        "zmartwychwstanie",
+        "ludzkość",
+        "otchłań",
+        "grób",
+        "Baranek",
+        "Maryja"
+      ],
+      "summary": "Opis ofiary paschalnej Chrystusa – wzięty od stada, ofiarowany wieczorem, pogrzebany, ale nie doznał zepsucia i powstał z martwych, dając ludzkości życie.",
+      "bible": [
+        "Wj 12, 3-6",
+        "Iz 53, 7-8",
+        "Dz 13, 35-37",
+        "1 Kor 15, 20-22"
+      ],
+      "text": [
+        "Ty byłeś wzięty od stada,",
+        "prowadzony na ofiarę, ofiarowany wieczorem;",
+        "pogrzebany nocą,",
+        "Twoje ciało błogosławione nie doznało zepsucia.",
+        "Ty z martwych powstałeś,",
+        "Ty dałeś zmartwychwstanie ludzkości        z otchłani grobu.",
+        "Tyś jest Barankiem, co ust nie otwiera,",
+        "Tyś jest Barankiem zrodzonym z Maryi.",
+        "Maryja, Baranka bez zmazy,",
+        "Maryja, niewinna Baranka."
+      ]
+    },
+    {
+      "range": "1-37",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "śmierć",
+        "piekło",
+        "zwycięstwo",
+        "pascha",
+        "zbawienie",
+        "Baranek",
+        "Maryja",
+        "typologia",
+        "Abel",
+        "Izaak",
+        "Józef",
+        "Mojżesz",
+        "Dawid",
+        "prorocy",
+        "ofiara",
+        "zmartwychwstanie",
+        "niewola",
+        "wolność",
+        "światło",
+        "życie"
+      ],
+      "summary": "Homilia paschalna Melitona z Sardes – poemat o Chrystusie, który przez śmierć pokonał śmierć i wypełnił wszystkie starotestamentalne typy (Abel, Izaak, Józef, Mojżesz, Dawid, Baranek paschalny), jako Baranek Boży zrodzony z Maryi Dziewicy.",
+      "bible": [
+        "Meliton z Sardes, Homilia paschalna 60-71",
+        "Wj 12",
+        "Rdz 22",
+        "Rdz 37",
+        "Iz 53",
+        "J 1, 29",
+        "1 P 1, 18-19",
+        "Dz 2, 24-31",
+        "1 Kor 15, 55"
+      ]
+    }
+  ]
+}

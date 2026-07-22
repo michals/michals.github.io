@@ -1,0 +1,186 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:b9790d06d916d6d530493f6472e8616ffa8d8c5d421b5591beba7ec5aa423e8a",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "Bóg",
+        "wielki",
+        "imię",
+        "ziemia",
+        "niebiosa",
+        "miłość",
+        "chwała"
+      ],
+      "summary": "Refren uwielbienia wielkości Bożego imienia na całej ziemi i Jego miłości przewyższającej niebiosa.",
+      "bible": [
+        "Ps 8, 2"
+      ],
+      "text": [
+        "O nasz Panie, o nasz Boże,",
+        "jakże wielkie jest Twe imię,",
+        "na całej ziemi, Twoje imię,",
+        "ponad niebiosa wznosi się twa miłość.",
+        ""
+      ]
+    },
+    {
+      "range": "6-8",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "usta",
+        "dzieci",
+        "niemowlę",
+        "potęga",
+        "Pan",
+        "milczenie",
+        "wróg",
+        "buntownik",
+        "chwała"
+      ],
+      "summary": "Przez usta najmniejszych Bóg objawia swoją potęgę i zawstydza wrogów oraz buntowników.",
+      "bible": [
+        "Ps 8, 3",
+        "Mt 21, 15-16",
+        "Mdr 10, 21"
+      ],
+      "text": [
+        "Ustami dzieci i niemowląt",
+        "potwierdzasz swą potęgę, o Panie,",
+        "by zmusić do milczenia wrogów i buntowników."
+      ]
+    },
+    {
+      "range": "9-13",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "Bóg",
+        "wielki",
+        "imię",
+        "ziemia",
+        "niebiosa",
+        "miłość",
+        "chwała"
+      ],
+      "summary": "Refren - powtórzenie uwielbienia wielkości Bożego imienia.",
+      "bible": [
+        "Ps 8, 2"
+      ],
+      "text": [
+        "O nasz Panie, o nasz Boże,",
+        "jakże wielkie jest Twe imię,",
+        "na całej ziemi, Twoje imię,",
+        "ponad niebiosa wznosi się twa miłość.",
+        ""
+      ]
+    },
+    {
+      "range": "14-21",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "niebo",
+        "dzieło",
+        "palce",
+        "księżyc",
+        "gwiazda",
+        "człowiek",
+        "pamiętać",
+        "troska",
+        "aniołowie",
+        "chwała",
+        "cześć",
+        "stopy",
+        "godność",
+        "stworzenie"
+      ],
+      "summary": "Zadziwienie psalmisty, że Bóg troszczy się o człowieka mimo ogromu wszechświata, i wyznanie godności człowieka uczynionego nieco mniejszym od aniołów, ukoronowanego chwałą i panującego nad stworzeniem.",
+      "bible": [
+        "Ps 8, 4-7",
+        "Rdz 1, 26-28",
+        "Hbr 2, 6-9",
+        "1 Kor 15, 27",
+        "Ef 1, 22"
+      ],
+      "text": [
+        "Gdy patrzę na Twe niebo, dzieło palców Twoich,",
+        "na księżyc i na gwiazdy, które utwierdziłeś;",
+        "czymże jest człowiek, że o nim pamiętasz,",
+        "czym syn człowieczy, że o niego się troszczysz?",
+        "A jednak, a jednak",
+        "uczyniłeś go niewiele mniejszym od aniołów,",
+        "chwałą i czcią go uwieńczyłeś,",
+        "poddałeś wszystko pod jego stopy."
+      ]
+    },
+    {
+      "range": "22-25",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "Bóg",
+        "wielki",
+        "imię",
+        "ziemia",
+        "niebiosa",
+        "miłość",
+        "chwała"
+      ],
+      "summary": "Refren końcowy - uwielbienie Bożego imienia jako podsumowanie psalm.",
+      "bible": [
+        "Ps 8, 2"
+      ],
+      "text": [
+        "O nasz Panie, o nasz Boże,",
+        "jakże wielkie jest Twe imię,",
+        "na całej ziemi, Twoje imię,",
+        "ponad niebiosa wznosi się twa miłość."
+      ]
+    },
+    {
+      "range": "1-25",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Pan",
+        "Bóg",
+        "imię",
+        "chwała",
+        "miłość",
+        "niebiosa",
+        "ziemia",
+        "dzieci",
+        "niemowlę",
+        "potęga",
+        "człowiek",
+        "godność",
+        "aniołowie",
+        "stworzenie",
+        "panowanie",
+        "Jezus Chrystus",
+        "wcielenie",
+        "odkupienie"
+      ],
+      "summary": "Psalm 8 - hymn pochwalny o chwale Bożego imienia objawionej w stworzeniu i o zadziwiającej godności człowieka, który jako korona stworzenia panuje nad ziemią, choć jest tak mały wobec ogromu wszechświata. W typologii chrześcijańskiej psalm ten ma fundamentalne znaczenie chrystologiczne: cytowany w Hbr 2, 6-9 wskazuje na Jezusa Chrystusa jako prawdziwego Człowieka, który przez wcielenie stał się 'nieco mniejszym od aniołów', a przez mękę i zmartwychwstanie został uwielbiony i otrzymał władzę nad wszystkim (1 Kor 15, 27; Ef 1, 22). Jezus sam cytuje w. 3 w Mt 21, 16, odnosząc okrzyki dzieci w świątyni do mesjańskiego wypełnienia psalm. Refren o miłości Bożej przewyższającej niebiosa zapowiada nieskończoną miłość Boga objawioną w Chrystusie (Rz 8, 38-39).",
+      "bible": [
+        "Ps 8",
+        "Rdz 1, 26-28",
+        "Mt 21, 15-16",
+        "J 1, 3",
+        "J 1, 14",
+        "1 Kor 15, 27-28",
+        "Ef 1, 22-23",
+        "Kol 1, 16",
+        "Hbr 2, 6-9"
+      ]
+    }
+  ]
+}

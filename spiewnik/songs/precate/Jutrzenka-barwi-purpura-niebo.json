@@ -1,0 +1,168 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:59ef0a459ed29c57558e8caa3a1be4ea523bd9f3ec55dd858a7b0b92bff33bac",
+  "songs_analysis": [
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "jutrzenka",
+        "purpura",
+        "niebo",
+        "pieśń",
+        "chwała",
+        "tryumf",
+        "świat",
+        "radość",
+        "piekło",
+        "lęk",
+        "drżeć",
+        "Pascha",
+        "zmartwychwstanie",
+        "Aurora lucis rutilat"
+      ],
+      "summary": "Obraz jutrzenki barwiącej niebo na purpurowo i pieśni chwały — radość świata i lęk piekła wobec zwycięstwa Chrystusa.",
+      "bible": [
+        "J 1, 5",
+        "1 Kor 15, 55-56",
+        "Ap 1, 18"
+      ],
+      "text": [
+        "Jutrzenka barwi purpurą niebo,",
+        "rozbrzmiewa w przestworzachecho pieśni chwały.",
+        "Tryumfując świat się raduje,",
+        "struchlałe z lęku piekło drży:",
+        ""
+      ]
+    },
+    {
+      "range": "6-11",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Król",
+        "Chrystus",
+        "uwolnić",
+        "śmierć",
+        "wieczność",
+        "celi",
+        "prowadzić",
+        "życie",
+        "Pascha",
+        "zmartwychwstanie",
+        "zbawienie",
+        "Jezus Chrystus"
+      ],
+      "summary": "Chrystus Król uwalnia wszystkich z więzienia śmierci wiecznej, prowadząc ich do życia.",
+      "bible": [
+        "1 P 3, 18-19",
+        "Ef 4, 8-10",
+        "Iz 61, 1",
+        "Hbr 2, 14-15",
+        "Ap 1, 18"
+      ],
+      "text": [
+        "Podczas gdy Król,",
+        "Chrystus uwalnia wszystkich",
+        "z przepastnej celi",
+        "śmierci wiecznej,",
+        "by nas prowadzić do życia.",
+        ""
+      ]
+    },
+    {
+      "range": "12-16",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "kamień",
+        "grobowiec",
+        "straż",
+        "Chrystus",
+        "tryumf",
+        "chwała",
+        "śmierć",
+        "budzić",
+        "zmartwychwstanie",
+        "Pascha",
+        "Jezus Chrystus"
+      ],
+      "summary": "Mimo kamienia i straży Chrystus tryumfuje chwalebnie i budzi się ze śmierci.",
+      "bible": [
+        "Mt 28, 2-4",
+        "Mk 16, 3-4",
+        "J 20, 1-2",
+        "Dz 2, 24"
+      ],
+      "text": [
+        "Ciężki kamień zamykał           Jego grobowiec,",
+        "liczne straże Go pilnowały,",
+        "lecz Chrystus tryumfuje Chwalebny",
+        "i ze śmierci, ze śmierci budzi się:",
+        ""
+      ]
+    },
+    {
+      "range": "17-20",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "koniec",
+        "żal",
+        "boleść",
+        "płacz",
+        "zmartwychwstanie",
+        "Pan",
+        "Pascha",
+        "radość",
+        "zwycięstwo",
+        "Jezus Chrystus"
+      ],
+      "summary": "Zapowiedź końca żalu i boleści: Pan zmartwychwstał, co jest źródłem radości paschalnej.",
+      "bible": [
+        "Iz 25, 8",
+        "Ap 21, 4",
+        "Mt 28, 6",
+        "Iz 35, 10"
+      ],
+      "text": [
+        "Koniec żalu, boleści,",
+        "koniec płaczu.",
+        "Zmartwychwstał Pan,",
+        "zmartwychwstał Pan!"
+      ]
+    },
+    {
+      "range": "1-20",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "zmartwychwstanie",
+        "Pascha",
+        "Chrystus",
+        "śmierć",
+        "życie",
+        "tryumf",
+        "jutrzenka",
+        "radość",
+        "świat",
+        "piekło",
+        "Król",
+        "uwolnienie",
+        "żal",
+        "Aurora lucis rutilat",
+        "Jezus Chrystus"
+      ],
+      "summary": "Pieśń paschalna — hymn poranny (Aurora lucis rutilat) o zmartwychwstaniu Chrystusa, Jego triumfie nad śmiercią i piekłem oraz radości świata z odkupienia. Charakter radosny, przeznaczony na Okres Wielkanocny i Liturgię Godzin.",
+      "bible": [
+        "Mt 28, 1-6",
+        "1 Kor 15, 55-56",
+        "1 P 3, 18-19",
+        "Ef 4, 8-10",
+        "Ap 21, 4",
+        "Iz 25, 8"
+      ]
+    }
+  ]
+}

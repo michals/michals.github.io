@@ -1,0 +1,287 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:5f383bf81dd85793533237f14413873d5f239d16717e4ddfc24a1d62d6cbc249",
+  "songs_analysis": [
+    {
+      "range": "1-4",
+      "type": "wstęp",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Amen",
+        "świadek",
+        "prawdomówność",
+        "wierność",
+        "początek stworzenia",
+        "Chrystus",
+        "objawienie"
+      ],
+      "summary": "Chrystus przedstawia się jako Amen, świadek wierny i prawdomówny, początek stworzenia Bożego – słowa z Apokalipsy do Kościoła w Laodycei.",
+      "bible": [
+        "Ap 3, 14"
+      ],
+      "text": [
+        "Tak mówi Amen,",
+        "świadek prawdomówny i wierny,",
+        "początek",
+        "stworzenia Bożego."
+      ]
+    },
+    {
+      "range": "5-10",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "postępowanie",
+        "zimny",
+        "gorący",
+        "letni",
+        "obojętność",
+        "wyrok",
+        "ostrzeżenie",
+        "sąd",
+        "wiara"
+      ],
+      "summary": "Gorzkie oskarżenie letniości duchowej: lepiej być zimnym lub gorącym niż letnim – groźba odrzucenia.",
+      "bible": [
+        "Ap 3, 15-16"
+      ],
+      "text": [
+        "",
+        "Znam twoje postępowanie,",
+        "nie jesteś zimny ani gorący.",
+        "Obyś był zimny albo gorący,",
+        "nie zaś letni,",
+        "gdyż chcę cię zwymiotować z ust moich."
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "refren",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Amen",
+        "świadek",
+        "prawdomówność",
+        "wierność",
+        "początek stworzenia",
+        "Chrystus"
+      ],
+      "summary": "Refren: Chrystus jako Amen, świadek wierny, początek stworzenia.",
+      "bible": [
+        "Ap 3, 14"
+      ],
+      "text": [
+        "Tak mówi Amen,",
+        "świadek prawdomówny i wierny,",
+        "początek",
+        "stworzenia Bożego."
+      ]
+    },
+    {
+      "range": "15-20",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "bogaty",
+        "samowystarczalność",
+        "nieszczęśnik",
+        "współczucie",
+        "ubogi",
+        "ślepy",
+        "nagi",
+        "złudzenie",
+        "grzech pychy"
+      ],
+      "summary": "Iluzja bogactwa duchowego: wspólnota uważa się za bogatą, a jest naprawdę nieszczęśliwa, uboga, ślepa i naga.",
+      "bible": [
+        "Ap 3, 17"
+      ],
+      "text": [
+        "",
+        "Mówisz: jestem bogaty, niczego mi nie brak,",
+        "a nie zdajesz sobie sprawy,",
+        "że jesteś nieszczęśnikiem,",
+        "godny współczucia,",
+        "ubogi, ślepy i nagi."
+      ]
+    },
+    {
+      "range": "21-27",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "złoto",
+        "ogień",
+        "szaty białe",
+        "balsam",
+        "wzrok",
+        "oczyszczenie",
+        "uzdrowienie",
+        "sprawiedliwość Chrystusa"
+      ],
+      "summary": "Rada Chrystusa: zakupić złoto wypróbowane w ogniu, białe szaty i balsam do oczu – symbol duchowego ubogacenia i uzdrowienia.",
+      "bible": [
+        "Ap 3, 18",
+        "Iz 55, 1",
+        "Za 3, 3-5"
+      ],
+      "text": [
+        "",
+        "Radzę ci u Mnie zakupić",
+        "złota wypróbowanego w ogniu,",
+        "",
+        "białe szaty,",
+        "balsam na oczy",
+        "abyś mógł przejrzeć."
+      ]
+    },
+    {
+      "range": "28-31",
+      "type": "refren",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Amen",
+        "świadek",
+        "prawdomówność",
+        "wierność",
+        "początek stworzenia",
+        "Chrystus"
+      ],
+      "summary": "Refren: Chrystus jako Amen, świadek wierny, początek stworzenia.",
+      "bible": [
+        "Ap 3, 14"
+      ],
+      "text": [
+        "Tak mówi Amen,",
+        "świadek prawdomówny i wierny,",
+        "początek",
+        "stworzenia Bożego."
+      ]
+    },
+    {
+      "range": "32-36",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "miłość Boża",
+        "doświadczenie",
+        "gorliwość",
+        "nawrócenie",
+        "kara miłości",
+        "wezwanie do pokuty"
+      ],
+      "summary": "Tych, których kocham, doświadczam – wezwanie do gorliwości i nawrócenia jako wyraz Bożej miłości.",
+      "bible": [
+        "Ap 3, 19",
+        "Prz 3, 12",
+        "Hbr 12, 6"
+      ],
+      "text": [
+        "",
+        "Tych, których kocham, doświadczam,",
+        "bądź więc gorliwy",
+        "i nawróć się,",
+        "słuchaj mojego głosu."
+      ]
+    },
+    {
+      "range": "37-42",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "drzwi",
+        "pukanie",
+        "głos",
+        "wieczerza",
+        "komunia",
+        "spotkanie z Chrystusem",
+        "Eucharystia",
+        "gościnność",
+        "otwarcie serca"
+      ],
+      "summary": "Chrystus stoi u drzwi i puka – jeśli ktoś otworzy, wejdzie i będzie z nim wieczerzał. Obraz komunii eucharystycznej i osobistego spotkania z Panem.",
+      "bible": [
+        "Ap 3, 20",
+        "Pnp 5, 2",
+        "Łk 12, 37",
+        "J 14, 23"
+      ],
+      "text": [
+        "",
+        "Oto stoję przed drzwiami i pukam,",
+        "jeśli ktoś usłyszy mój głos",
+        "i drzwi otworzy,",
+        "wejdę do jego domu,",
+        "będę z nim wieczerzał, a on ze Mną."
+      ]
+    },
+    {
+      "range": "43-46",
+      "type": "zakończenie",
+      "sentiment": "neutralny",
+      "keywords": [
+        "Amen",
+        "świadek",
+        "prawdomówność",
+        "wierność",
+        "początek stworzenia",
+        "Chrystus"
+      ],
+      "summary": "Refren końcowy: Chrystus jako Amen, świadek wierny, początek stworzenia – inkluzja zamykająca orędzie.",
+      "bible": [
+        "Ap 3, 14"
+      ],
+      "text": [
+        "Tak mówi Amen,",
+        "świadek prawdomówny i wierny,",
+        "początek",
+        "stworzenia Bożego."
+      ]
+    },
+    {
+      "range": "1-46",
+      "type": "całość",
+      "sentiment": "pokutny",
+      "keywords": [
+        "Amen",
+        "Chrystus",
+        "świadek wierny",
+        "początek stworzenia",
+        "Laodycea",
+        "letni",
+        "gorący",
+        "zimny",
+        "nawrócenie",
+        "bogactwo duchowe",
+        "ubogi",
+        "ślepy",
+        "nagi",
+        "złoto",
+        "ogień",
+        "szaty białe",
+        "balsam",
+        "drzwi",
+        "pukanie",
+        "wieczerza",
+        "komunia",
+        "pokuta",
+        "gorliwość",
+        "miłość Boża",
+        "sąd",
+        "Kościół",
+        "Apokalipsa"
+      ],
+      "summary": "Orędzie Chrystusa do Kościoła w Laodycei z Ap 3, 14-22. Potępienie letniości duchowej i wezwanie do nawrócenia, ubogacenia się u Chrystusa oraz otwarcia drzwi na Jego zbawczą obecność. Centralny obraz: Chrystus stojący u drzwi i pukający – typologiczne wypełnienie zapowiedzi gościny mesjańskiej w komunii eucharystycznej.",
+      "bible": [
+        "Ap 3, 14-22",
+        "Iz 55, 1",
+        "Za 3, 3-5",
+        "Prz 3, 12",
+        "Hbr 12, 6",
+        "Pnp 5, 2",
+        "Łk 12, 37",
+        "J 14, 23"
+      ]
+    }
+  ]
+}

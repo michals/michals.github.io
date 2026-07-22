@@ -1,0 +1,99 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:e058c09e9de96df13148218cbf917216aa5db9f313da22c93430ce2eeefba4a7",
+  "songs_analysis": [
+    {
+      "range": "1-13",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "modlitwa",
+        "Pan",
+        "Jezus",
+        "pieśń",
+        "Słowo",
+        "dusza",
+        "ręka",
+        "pomoc",
+        "wyzwolenie",
+        "chwała",
+        "zgubienie",
+        "adwent",
+        "przyjście",
+        "błaganie",
+        "sługa",
+        "psalm"
+      ],
+      "summary": "Błagalna modlitwa do Pana Jezusa – niech dotrze do Niego modlitwa, niech popłynie nowa pieśń. Prośba o pomocną rękę, wyzwolenie i wejrzenie na zgubionego sługę. Powtarzane 'Przyjdź, o Panie Jezu!' (Maranatha) ma charakter adwentowy.",
+      "bible": [
+        "Ps 119, 169-176",
+        "Ap 22, 20",
+        "1 Kor 16, 22"
+      ],
+      "text": [
+        "Panie, Panie, Jezu!",
+        "Niech dotrze moja modlitwa do Ciebie,",
+        "niech z ust mych popłynie nowa pieśń;",
+        "niech język mój śpiewa Twe Słowo,",
+        "Duszo moja, Jezu!",
+        "Niech ze mną będzie Twa ręka ku mojej pomocy,",
+        "oczekuję od Ciebie wyzwolenia;",
+        "niech język mój śpiewa Twą chwałę:",
+        "wejrzyj na mnie, jestem zgubiony.",
+        "Przyjdź i szukaj Twego sługi,",
+        "przyjdź, o Panie Jezu!",
+        "Przyjdź, gdyż gubię się bez Ciebie,",
+        "przyjdź, o Panie Jezu!"
+      ]
+    },
+    {
+      "range": "14",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "1-13",
+      "bible": [],
+      "text": [
+        "Niech dotrze moja modlitwa do Ciebie, …"
+      ]
+    },
+    {
+      "range": "15",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "1-13",
+      "bible": [],
+      "text": [
+        "Przyjdź i szukaj Twego sługi, …"
+      ]
+    },
+    {
+      "range": "1-15",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "modlitwa",
+        "Psalm 119",
+        "Słowo Boże",
+        "Jezus",
+        "przyjście",
+        "Maranatha",
+        "adwent",
+        "Wielki Post",
+        "błaganie",
+        "sługa",
+        "zgubiony",
+        "szukanie",
+        "wyzwolenie",
+        "łaska",
+        "Panie Jezu"
+      ],
+      "summary": "Pieśń oparta na Ps 119, 169-176 z adwentowym wołaniem 'Przyjdź, o Panie Jezu!'. Jest błaganiem o dotarcie modlitwy do Boga, o pomocną rękę i wyzwolenie. Powtarzane 'gubię się bez Ciebie' wyraża całkowitą zależność od Chrystusa. Pieśń łączy motywy psalmiczne (miłość do Słowa Bożego) z adwentowym oczekiwaniem na przyjście Pana.",
+      "bible": [
+        "Ps 119, 169-176",
+        "Ap 22, 20"
+      ]
+    }
+  ]
+}

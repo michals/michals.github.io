@@ -1,0 +1,304 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:f85b4b98d835b2576b24f046c45e5eaaceda882d2563bf35338a4b76f14a97a5",
+  "songs_analysis": [
+    {
+      "range": "1-7",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Izrael",
+        "dziecię",
+        "miłość",
+        "Egipt",
+        "Syn",
+        "wezwanie",
+        "oddalenie",
+        "Bóg",
+        "Ojciec",
+        "niewdzięczność"
+      ],
+      "summary": "Bóg wspomina swoją miłość do Izraela od dzieciństwa – wezwał go z Egiptu jako syna, ale Izrael oddalał się od Niego, nie pojmując Jego troski.",
+      "bible": [
+        "Oz 11,1-3",
+        "Wj 4,22",
+        "Mt 2,15"
+      ],
+      "text": [
+        "Kiedy Izrael był dziecięciem, ja go kochałem",
+        "i z Egiptu jako Syna go wezwałem,",
+        "lecz im bardziej go wołałem,",
+        "tym bardziej oddalał się ode mnie.",
+        "I nie pojmował,",
+        "że troszczyłem się o niego.",
+        ""
+      ]
+    },
+    {
+      "range": "8-9",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Izrael",
+        "wołanie",
+        "Bóg",
+        "lud",
+        "nawrócenie"
+      ],
+      "summary": "Refreniczne wołanie 'Izraelu, Izraelu' wyrażające tęsknotę Boga za swoim ludem i wezwanie do nawrócenia.",
+      "bible": [
+        "Oz 11,8",
+        "Rz 10,21"
+      ],
+      "text": [
+        "Izraelu, Izraelu.",
+        ""
+      ]
+    },
+    {
+      "range": "10-16",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Efraim",
+        "uczyć",
+        "chodzić",
+        "więzy",
+        "dobroć",
+        "niemowlę",
+        "policzek",
+        "Bóg",
+        "Ojciec",
+        "troskliwość",
+        "niewdzięczność"
+      ],
+      "summary": "Bóg wspomina czułe wychowanie Efraima – uczył go chodzić, przyciągał więzami dobroci, podnosił do policzka jak matka niemowlę. Obraz ojcowsko-macierzyńskiej miłości Boga.",
+      "bible": [
+        "Oz 11,3-4",
+        "Pwt 1,31",
+        "Pwt 32,11"
+      ],
+      "text": [
+        "Efraima ja uczyłem chodzić,",
+        "przyciągałem go więzami dobroci",
+        "byłem dla nich jak ten,",
+        "co podnosi niemowlę do policzka.",
+        "I nie pojmował,",
+        "że troszczyłem się o niego.",
+        ""
+      ]
+    },
+    {
+      "range": "17-18",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Izrael",
+        "wołanie",
+        "Bóg",
+        "lud",
+        "nawrócenie"
+      ],
+      "summary": "Refreniczne wołanie 'Izraelu, Izraelu' wyrażające tęsknotę Boga za swoim ludem.",
+      "bible": [
+        "Oz 11,8",
+        "Rz 10,21"
+      ],
+      "text": [
+        "Izraelu, Izraelu.",
+        ""
+      ]
+    },
+    {
+      "range": "19-25",
+      "type": "zwrotka",
+      "sentiment": "pokutny",
+      "keywords": [
+        "powrót",
+        "Egipt",
+        "Asyria",
+        "król",
+        "wytępić",
+        "syn",
+        "lud",
+        "nawrócenie",
+        "Bóg",
+        "kara",
+        "nieposłuszeństwo"
+      ],
+      "summary": "Zapowiedź kary za brak nawrócenia – powrót do Egiptu i zniszczenie przez Asyrię. Bóg zapowiada konsekwencje nieposłuszeństwa swego ludu.",
+      "bible": [
+        "Oz 11,5-7",
+        "Pwt 28,68",
+        "2 Krl 17,6"
+      ],
+      "text": [
+        "Dlatego powrócisz do ziemi egipskiej.",
+        "Król Asyrii wytępi twoich synów,",
+        "albowiem mój lud",
+        "nie chce się nawrócić.",
+        "I nie pojmował,",
+        "że troszczyłem się o niego.",
+        ""
+      ]
+    },
+    {
+      "range": "26-27",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Izrael",
+        "wołanie",
+        "Bóg",
+        "lud",
+        "nawrócenie"
+      ],
+      "summary": "Refreniczne wołanie 'Izraelu, Izraelu' po zapowiedzi kary, wyrażające ból Boga nad losem Jego ludu.",
+      "bible": [
+        "Oz 11,8",
+        "Rz 10,21"
+      ],
+      "text": [
+        "Izraelu, Izraelu.",
+        ""
+      ]
+    },
+    {
+      "range": "28-34",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "opuścić",
+        "Efraim",
+        "serce",
+        "wzruszenie",
+        "Bóg",
+        "człowiek",
+        "miłosierdzie",
+        "litość",
+        "nawrócenie"
+      ],
+      "summary": "Bóg wyraża wewnętrzne wzruszenie i niemożność opuszczenia Efraima. Deklaracja miłosierdzia: 'Nie zniszczę cię, bo jestem Bogiem, a nie człowiekiem' – Bóg przewyższa ludzką sprawiedliwość miłosierdziem.",
+      "bible": [
+        "Oz 11,8-9",
+        "Pwt 32,36",
+        "Iz 54,8"
+      ],
+      "text": [
+        "Ale jakże mógłbym Cię opuścić, o Efraimie?",
+        "Moje serce wzrusza się we mnie.",
+        "Nie zniszczę cię, bo jestem Bogiem,",
+        "a nie człowiekiem.",
+        "I nie pojmował,",
+        "że troszczyłem się o niego.",
+        ""
+      ]
+    },
+    {
+      "range": "35-36",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Izrael",
+        "wołanie",
+        "Bóg",
+        "lud",
+        "nawrócenie"
+      ],
+      "summary": "Refreniczne wołanie po deklaracji miłosierdzia, wyrażające nadzieję na nawrócenie.",
+      "bible": [
+        "Oz 11,8",
+        "Rz 10,21"
+      ],
+      "text": [
+        "Izraelu, Izraelu.",
+        ""
+      ]
+    },
+    {
+      "range": "37-43",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "lew",
+        "ryk",
+        "powrót",
+        "syn",
+        "morze",
+        "Egipt",
+        "ptak",
+        "Asyria",
+        "gołąb",
+        "Bóg",
+        "odnowa",
+        "zgromadzenie"
+      ],
+      "summary": "Bóg zapowiada odnowę Izraela: jak lew zaryczy, a Jego synowie powrócą z wygnania (Egipt, Asyria) jak ptaki i gołębie. Obraz eschatologicznego zgromadzenia rozproszonego ludu.",
+      "bible": [
+        "Oz 11,10-11",
+        "Iz 11,11-12",
+        "Jr 16,15"
+      ],
+      "text": [
+        "Jak lew zaryczę i powrócą jego synowie zza morza,",
+        "przylecą z Egiptu jak ptaki,",
+        "powrócą z Asyrii",
+        "jak gołębie.",
+        "I nie pojmował,",
+        "że troszczyłem się o niego.",
+        ""
+      ]
+    },
+    {
+      "range": "44",
+      "type": "refren",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Izrael",
+        "wołanie",
+        "Bóg",
+        "lud",
+        "nawrócenie"
+      ],
+      "summary": "Końcowe wołanie 'Izraelu, Izraelu' zamykające pieśń nadzieją na zgromadzenie rozproszonego ludu.",
+      "bible": [
+        "Oz 11,8",
+        "Rz 10,21"
+      ],
+      "text": [
+        "Izraelu, Izraelu."
+      ]
+    },
+    {
+      "range": "1-44",
+      "type": "całość",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Izrael",
+        "Bóg",
+        "Ojciec",
+        "miłość",
+        "niewdzięczność",
+        "nawrócenie",
+        "miłosierdzie",
+        "Efraim",
+        "przymierze",
+        "kara",
+        "odnowa",
+        "zgromadzenie",
+        "prorok",
+        "Ozeasz",
+        "dziecię"
+      ],
+      "summary": "Parafraza Oz 11,1-11 ukazująca dramat Bożej miłości do niewiernego Izraela. Bóg kocha Izrael jak ojciec dziecko, ale lud odrzuca Jego miłość. Mimo grzechu i kary, Bóg nie może opuścić swojego ludu – Jego serce wzrusza się, a miłosierdzie zwycięża nad sprawiedliwością. Pieśń kończy się obietnicą eschatologicznego zgromadzenia.",
+      "bible": [
+        "Oz 11,1-11",
+        "Wj 4,22",
+        "Pwt 1,31",
+        "Iz 11,11-12",
+        "Mt 2,15",
+        "Rz 10,21"
+      ]
+    }
+  ]
+}

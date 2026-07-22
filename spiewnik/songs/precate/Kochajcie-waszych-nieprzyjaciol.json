@@ -1,0 +1,178 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:4ed412fe98b5171d7b8af6d0c11fd7533f7b36121233fb9a9adcab74219916eb",
+  "songs_analysis": [
+    {
+      "range": "1-12",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "ubodzy",
+        "Królestwo Boże",
+        "głodujący",
+        "nasycenie",
+        "płaczący",
+        "śmiech",
+        "prześladowanie",
+        "Syn Człowieczy",
+        "nagroda",
+        "niebo",
+        "Jezus Chrystus"
+      ],
+      "summary": "Błogosławieństwa Jezusa z Kazania na Równinie – obietnica Królestwa Bożego dla ubogich, głodnych, płaczących i prześladowanych. Zapowiedź eschatologicznego wynagrodzenia i odwrócenia ludzkich hierarchii.",
+      "bible": [
+        "Łk 6, 20-23",
+        "Mt 5, 3-12"
+      ],
+      "text": [
+        "Podniósłszy oczy na swoich uczniów,",
+        "Jezus powiedział:",
+        "Błogosławieni (wy), ubodzy,",
+        "bo wasze jest Królestwo Boże.",
+        "Błogosławieni, którzy teraz głodujecie,",
+        "bo będziecie nasyceni.",
+        "Błogosławieni, którzy teraz płaczecie,",
+        "albowiem śmiać się będziecie.",
+        "Błogosławieni jesteście, gdy was znienawidzą i zelżą",
+        "z powodu Syna Człowieczego.",
+        "Radujcie się w tym dniu:",
+        "wasza nagroda wielka jest w niebie!"
+      ]
+    },
+    {
+      "range": "13-21",
+      "type": "fragment",
+      "sentiment": "pokutny",
+      "keywords": [
+        "biada",
+        "bogacz",
+        "pociecha",
+        "sytość",
+        "głód",
+        "śmiech",
+        "smutek",
+        "płacz",
+        "pochwała",
+        "fałszywy prorok",
+        "sąd",
+        "ostrzeżenie"
+      ],
+      "summary": "Cztery 'biada' skierowane do bogatych, sytych, śmiejących się i chwalonych przez wszystkich. Ostrzeżenie przed przywiązaniem do dóbr doczesnych i odwrócenie losów w eschatologicznej perspektywie.",
+      "bible": [
+        "Łk 6, 24-26"
+      ],
+      "text": [
+        "Lecz biada wam, bogacze,",
+        "bo już macie swoją pociechę.",
+        "Biada wam, którzy teraz jesteście syci,",
+        "albowiem głodować będziecie.",
+        "Biada wam, którzy się teraz śmiejecie,",
+        "bo smucić się i płakać będziecie.",
+        "Biada wam, gdy wszyscy ludziebędą dobrze mówić o was,",
+        "tak czynili fałszywym prorokom.",
+        ""
+      ]
+    },
+    {
+      "range": "22-36",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "nieprzyjaciel",
+        "dobroczynność",
+        "błogosławieństwo",
+        "modlitwa",
+        "prześladowanie",
+        "policzek",
+        "nadstawienie",
+        "płaszcz",
+        "szata",
+        "jałmużna",
+        "osąd",
+        "potępienie",
+        "przebaczenie",
+        "miłosierdzie",
+        "Jezus Chrystus"
+      ],
+      "summary": "Zasadnicze wezwanie Jezusa do miłości nieprzyjaciół i radykalnego miłosierdzia: nadstawianie drugiego policzka, oddawanie płaszcza, dawanie każdemu proszącemu. To serce chrześcijańskiej etyki – przezwyciężenie zła dobrem.",
+      "bible": [
+        "Łk 6, 27-30",
+        "Mt 5, 38-48",
+        "Rz 12, 20-21"
+      ],
+      "text": [
+        "Lecz wam, którzy słuchacie, mówię:",
+        "Kochajcie waszych nieprzyjaciół,",
+        "czyńcie dobrze tym, co was nienawidzą.",
+        "Błogosławcie tych, co wam złorzeczą,",
+        "módlcie się za tych, co was prześladują.",
+        "Temu, kto uderzy cię w policzek,",
+        "nadstaw także i drugi.",
+        "Temu, kto zabiera ci płaszcz,",
+        "nie odmawiaj i szaty.",
+        "Daj każdemu, kto cię prosi,",
+        "a gdy bierze twoje, nie żądaj zwrotu.",
+        "Nie osądzajcie,",
+        "nie potępiajcie,",
+        "przebaczajcie,",
+        "a będzie wam przebaczone"
+      ]
+    },
+    {
+      "range": "37-42",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "miłość",
+        "nieprzyjaciel",
+        "dobroczynność",
+        "osąd",
+        "potępienie",
+        "przebaczenie",
+        "miłosierdzie",
+        "Królestwo Boże"
+      ],
+      "summary": "Refren streszczający naukę Jezusa: kochajcie nieprzyjaciół, czyńcie dobrze, nie osądzajcie, przebaczajcie – a będzie wam przebaczone. Złota reguła i wzór Bożego miłosierdzia.",
+      "bible": [
+        "Łk 6, 37",
+        "Mt 7, 1-2"
+      ],
+      "text": [
+        "Kochajcie waszych nieprzyjaciół,",
+        "czyńcie dobrze tym, co was nienawidzą.",
+        "Nie osądzajcie,",
+        "nie potępiajcie,",
+        "przebaczajcie,",
+        "a będzie wam przebaczone."
+      ]
+    },
+    {
+      "range": "1-42",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "błogosławieństwo",
+        "biada",
+        "miłość",
+        "nieprzyjaciel",
+        "miłosierdzie",
+        "przebaczenie",
+        "Królestwo Boże",
+        "Jezus Chrystus",
+        "Kazanie na Górze",
+        "etyka",
+        "nawrócenie",
+        "sąd",
+        "nagroda",
+        "odwrócenie"
+      ],
+      "summary": "Pieśń będąca wierną parafrazą Łk 6, 20-30.37 – błogosławieństwa i biada oraz radykalne wezwanie do miłości nieprzyjaciół i miłosierdzia bez granic. Pieśń ma charakter katechetyczny, ukazując rewolucyjną etykę Królestwa Bożego opartą na odwróceniu ludzkich wartości i bezwarunkowej miłości.",
+      "bible": [
+        "Łk 6, 20-30.37",
+        "Mt 5-7"
+      ]
+    }
+  ]
+}

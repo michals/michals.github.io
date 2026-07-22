@@ -1,0 +1,327 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:944c6c9a0ea54cf71a57985a455075ce54a3fc38af72cf6651b23c4b05c535f5",
+  "songs_analysis": [
+    {
+      "range": "1",
+      "type": "info",
+      "sentiment": "neutralny",
+      "keywords": [],
+      "summary": "1",
+      "bible": [],
+      "text": [
+        "Posłuchajcie, wyspy dalekie, narody wszystkie,"
+      ]
+    },
+    {
+      "range": "1-5",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "wyspa",
+        "daleki",
+        "naród",
+        "Pan",
+        "Święty",
+        "Izrael",
+        "życie",
+        "sponiewierany",
+        "wzgarda",
+        "sługa",
+        "panujący",
+        "uniżenie",
+        "wybranie"
+      ],
+      "summary": "Wezwanie do odległych wysp i narodów, by słuchały Pana — mówi On o Swym Słudze, człowieku wzgardzonym i sponiewieranym, słudze panujących.",
+      "bible": [
+        "Iz 49, 1",
+        "Iz 49, 7",
+        "Iz 42, 1-4",
+        "Iz 53, 3",
+        "Flp 2, 7"
+      ],
+      "text": [
+        "Posłuchajcie, wyspy dalekie, narody wszystkie,",
+        "tak mówi Pan, Święty Izraela:",
+        "„Do tego, kto ma życie sponiewierane",
+        "i jest wzgardą ludów, do sługi panujących”.",
+        ""
+      ]
+    },
+    {
+      "range": "6-10",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "król",
+        "ujrzeć",
+        "zdumienie",
+        "książę",
+        "ziemia",
+        "twarz",
+        "upaść",
+        "wybrać",
+        "hołd",
+        "adoracja",
+        "majestat"
+      ],
+      "summary": "Królowie i książęta zdumieni ujrzą Sługę i oddadzą Mu pokłon, bo Bóg Go wybrał — uniwersalne panowanie Mesjasza nad wszystkimi władcami ziemi.",
+      "bible": [
+        "Iz 49, 7",
+        "Iz 52, 15",
+        "Ps 72, 10-11",
+        "Flp 2, 9-11",
+        "Ap 4, 10"
+      ],
+      "text": [
+        "Królowie Cię ujrzą, staną zdumieni,",
+        "książęta całej ziemi",
+        "na twarz upadną,",
+        "bo Ja Cię wybrałem, Ja Cię wybrałem.",
+        ""
+      ]
+    },
+    {
+      "range": "11-14",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "dzień",
+        "łaska",
+        "wysłuchać",
+        "śmierć",
+        "wesprzeć",
+        "uczynić",
+        "przymierze",
+        "naród",
+        "zbawienie",
+        "przymierze"
+      ],
+      "summary": "W dzień łaski Bóg wysłuchuje, w dniu śmierci wspomaga — Sługa staje się przymierzem dla narodów, zapowiedź Nowego Przymierza w Chrystusie.",
+      "bible": [
+        "Iz 49, 8",
+        "2 Kor 6, 2",
+        "Iz 42, 6",
+        "Hbr 8, 6-13",
+        "Łk 4, 18-19"
+      ],
+      "text": [
+        "W dzień łaski wysłucham Ciebie,",
+        "w dzień śmierci wspomogę Ciebie,",
+        "bo uczyniłem Cię przymierzem dla narodów.",
+        ""
+      ]
+    },
+    {
+      "range": "15-19",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "król",
+        "ujrzeć",
+        "zdumienie",
+        "książę",
+        "ziemia",
+        "twarz",
+        "upaść",
+        "wybrać",
+        "hołd"
+      ],
+      "summary": "Powtórzenie refrenu o pokłonie królów przed wybranym Sługa Bożym.",
+      "bible": [
+        "Iz 49, 7"
+      ],
+      "text": [
+        "Królowie Cię ujrzą, staną zdumieni,",
+        "książęta całej ziemi",
+        "na twarz upadną,",
+        "bo Ja Cię wybrałem, Ja Cię wybrałem.",
+        ""
+      ]
+    },
+    {
+      "range": "20-23",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "uwięziony",
+        "wychodzić",
+        "niewidomy",
+        "przejrzeć",
+        "prowadzić",
+        "lud",
+        "źródło",
+        "życie",
+        "wyzwolenie",
+        "uzdrowienie"
+      ],
+      "summary": "Sługa ogłasza wyzwolenie więźniom i przejrzenie niewidomym oraz prowadzi ludy do źródeł życia — misja mesjańska wypełniona przez Chrystusa.",
+      "bible": [
+        "Iz 49, 9-10",
+        "Iz 61, 1-2",
+        "Mt 11, 5",
+        "Łk 4, 18",
+        "J 4, 14",
+        "Ap 7, 17"
+      ],
+      "text": [
+        "Powiesz uwięzionym: Wychodźcie!",
+        "powiesz niewidomym: Przejrzyjcie!",
+        "Poprowadzisz ludy do źródeł życia.",
+        ""
+      ]
+    },
+    {
+      "range": "24-28",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "król",
+        "ujrzeć",
+        "zdumienie",
+        "książę",
+        "ziemia",
+        "twarz",
+        "upaść",
+        "wybrać"
+      ],
+      "summary": "Powtórzenie refrenu — konsekwentne podkreślenie triumfu wybranego Sługi.",
+      "bible": [
+        "Iz 49, 7"
+      ],
+      "text": [
+        "Królowie Cię ujrzą, staną zdumieni,",
+        "książęta całej ziemi",
+        "na twarz upadną,",
+        "bo Ja Cię wybrałem, Ja Cię wybrałem.",
+        ""
+      ]
+    },
+    {
+      "range": "29-35",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Syjon",
+        "opuścić",
+        "zapomnieć",
+        "matka",
+        "niemowlę",
+        "kochać",
+        "dziecko",
+        "pocieszenie",
+        "wierność",
+        "przymierze",
+        "miłość"
+      ],
+      "summary": "Syjon lamentuje, że Jahwe go opuścił, ale Bóg odpowiada obrazem matczynej miłości: choćby matka zapomniała, Ja nie zapomnę Ciebie — najwznioślejsza obietnica Bożej wierności w ST.",
+      "bible": [
+        "Iz 49, 14-15",
+        "Ps 27, 10",
+        "Iz 54, 10",
+        "Rz 11, 29",
+        "Mt 7, 11"
+      ],
+      "text": [
+        "Lecz Syjon mówi: „Jahwe mnie opuścił,",
+        "Jahwe zapomniał o mnie”.",
+        "Czyż zapomni matka o swym niemowlęciu?",
+        "Czyż matka przestanie kochać rodzone dziecko?",
+        "„Choćby jakaś m()atka zapomniała o swym dziecku,",
+        "Ja nie zapomnę Ciebie.",
+        ""
+      ]
+    },
+    {
+      "range": "36-37",
+      "type": "fragment",
+      "sentiment": "radosny",
+      "keywords": [
+        "dłoń",
+        "wypisać",
+        "pamięć",
+        "miłość",
+        "wierność",
+        "rany",
+        "odkupienie"
+      ],
+      "summary": "Bóg ma Syjon wypisany na dłoniach — obraz pełen czułości i bliskości; typologicznie zapowiada rany Chrystusa na dłoniach, w których wypisane jest imię każdego wierzącego.",
+      "bible": [
+        "Iz 49, 16",
+        "J 20, 27-28",
+        "Za 13, 6",
+        "Iz 44, 21"
+      ],
+      "text": [
+        "Popatrz, na moich dłoniach mam cię wypisaną.",
+        ""
+      ]
+    },
+    {
+      "range": "38-41",
+      "type": "refren",
+      "sentiment": "radosny",
+      "keywords": [
+        "król",
+        "ujrzeć",
+        "zdumienie",
+        "książę",
+        "ziemia",
+        "twarz",
+        "upaść",
+        "wybrać"
+      ],
+      "summary": "Końcowe powtórzenie refrenu — triumfalne zamknięcie pieśni potwierdzeniem wybrania Sługi.",
+      "bible": [
+        "Iz 49, 7"
+      ],
+      "text": [
+        "Królowie Cię ujrzą, staną zdumieni,",
+        "książęta całej ziemi",
+        "na twarz upadną,",
+        "bo Ja Cię wybrałem, Ja Cię wybrałem."
+      ]
+    },
+    {
+      "range": "1-41",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Sługa",
+        "Jahwe",
+        "Izajasz",
+        "wybrany",
+        "król",
+        "hołd",
+        "przymierze",
+        "naród",
+        "światłość",
+        "wyzwolenie",
+        "matka",
+        "dłoń",
+        "pamięć",
+        "miłość",
+        "Mesjasz",
+        "odkupienie",
+        "źródło",
+        "życie"
+      ],
+      "summary": "Druga Pieśń Sługi Jahwe (Iz 49, 1-16) o uniwersalnym posłannictwie Sługi — światłości dla narodów i przymierzu dla wszystkich ludów. Sługa wyzwala więźniów i uzdrawia ślepych (zapowiedź mesjańskich znaków). Refren o królach padających na twarz przed wybranym zapowiada powszechną adorację Chrystusa. Pointą pieśni jest Boża deklaracja miłości silniejszej niż matczyna: 'Choćby matka zapomniała, Ja nie zapomnę Ciebie' — a obraz 'wypisania na dłoniach' typologicznie prefiguruje rany Zmartwychwstałego. Pieśń adwentowo-bonarodzeniowa łączy uniżenie Sługi z Jego ostatecznym wywyższeniem.",
+      "bible": [
+        "Iz 49, 1-16",
+        "Iz 42, 6",
+        "Łk 2, 32",
+        "Dz 13, 47",
+        "2 Kor 6, 2",
+        "Mt 11, 5",
+        "Łk 4, 18-19",
+        "Iz 61, 1-2",
+        "J 4, 14",
+        "Ap 7, 17",
+        "J 20, 27-28",
+        "Flp 2, 9-11",
+        "Rz 11, 29"
+      ]
+    }
+  ]
+}

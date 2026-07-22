@@ -1,0 +1,153 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:656ed0aca3a69360253db1df8437a510b16a6a1548fe428a9a70d83747dc2a56",
+  "songs_analysis": [
+    {
+      "range": "1-6",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "Światłość",
+        "Zbawienie",
+        "Pan",
+        "Jezus Chrystus",
+        "światło",
+        "droga",
+        "prawda",
+        "życie"
+      ],
+      "summary": "Czterokrotne wyznanie, że Chrystus jest Światłością, zakończone aklamacją 'Zbawieniem jest Pan'.",
+      "bible": [
+        "J 8, 12",
+        "J 14, 6"
+      ],
+      "text": [
+        "Chrystus jest Światłością.",
+        "Chrystus jest Światłością.",
+        "Chrystus jest Światłością.",
+        "Chrystus jest Światłością.",
+        "Zbawieniem jest Pan.",
+        ""
+      ]
+    },
+    {
+      "range": "7-12",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "Droga",
+        "Zbawienie",
+        "Pan",
+        "Jezus Chrystus"
+      ],
+      "summary": "Czterokrotne wyznanie, że Chrystus jest Drogą, zakończone aklamacją 'Zbawieniem jest Pan'.",
+      "bible": [
+        "J 14, 6"
+      ],
+      "text": [
+        "Chrystus jest Drogą.",
+        "Chrystus jest Drogą.",
+        "Chrystus jest Drogą.",
+        "Chrystus jest Drogą.",
+        "Zbawieniem jest Pan.",
+        ""
+      ]
+    },
+    {
+      "range": "13-18",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "Prawda",
+        "Zbawienie",
+        "Pan",
+        "Jezus Chrystus"
+      ],
+      "summary": "Czterokrotne wyznanie, że Chrystus jest Prawdą, zakończone aklamacją 'Zbawieniem jest Pan'.",
+      "bible": [
+        "J 14, 6"
+      ],
+      "text": [
+        "Chrystus jest Prawdą.",
+        "Chrystus jest Prawdą.",
+        "Chrystus jest Prawdą.",
+        "Chrystus jest Prawdą.",
+        "Zbawieniem jest Pan.",
+        ""
+      ]
+    },
+    {
+      "range": "19-24",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "Życie",
+        "Zbawienie",
+        "Pan",
+        "Jezus Chrystus"
+      ],
+      "summary": "Czterokrotne wyznanie, że Chrystus jest Życiem, zakończone aklamacją 'Zbawieniem jest Pan'.",
+      "bible": [
+        "J 14, 6"
+      ],
+      "text": [
+        "Chrystus jest Życiem.",
+        "Chrystus jest Życiem.",
+        "Chrystus jest Życiem.",
+        "Chrystus jest Życiem.",
+        "Zbawieniem jest Pan.",
+        ""
+      ]
+    },
+    {
+      "range": "25-29",
+      "type": "zakończenie",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "Światłość",
+        "Droga",
+        "Prawda",
+        "Życie",
+        "Zbawienie",
+        "Pan"
+      ],
+      "summary": "Zebranie wszystkich tytułów Chrystusa – Światłość, Droga, Prawda, Życie – z finalną aklamacją 'Zbawieniem jest Pan'.",
+      "bible": [
+        "J 14, 6",
+        "J 8, 12"
+      ],
+      "text": [
+        "Chrystus jest Światłością.",
+        "Chrystus jest Drogą.",
+        "Chrystus jest Prawdą.",
+        "Chrystus jest Życiem.",
+        "Zbawieniem jest Pan."
+      ]
+    },
+    {
+      "range": "1-29",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Chrystus",
+        "Światłość",
+        "Droga",
+        "Prawda",
+        "Życie",
+        "Zbawienie",
+        "Pan",
+        "Jezus Chrystus"
+      ],
+      "summary": "Pieśń wielkanocna głosząca Chrystusa jako Światłość, Drogę, Prawdę i Życie na podstawie J 14,6 i J 8,12, z radosną aklamacją 'Zbawieniem jest Pan'.",
+      "bible": [
+        "J 14, 6",
+        "J 8, 12"
+      ]
+    }
+  ]
+}

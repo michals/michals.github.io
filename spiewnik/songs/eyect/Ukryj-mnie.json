@@ -1,0 +1,203 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "source_hash": "sha256:207bc88642070ce5221f483eb0a6d0b6cd0980fa40694e4e6ad6ca6f14f73b4b",
+  "songs_analysis": [
+    {
+      "range": "1-9",
+      "type": "wstęp",
+      "sentiment": "radosny",
+      "keywords": [
+        "ukrycie",
+        "namiot",
+        "skała",
+        "Jahwe",
+        "światło",
+        "zbawienie",
+        "schronienie",
+        "ufność",
+        "lęk"
+      ],
+      "summary": "Inwokacja: Ukryj mnie w namiocie Bożym, na skale zbawienia – Jahwe jest światłem i schronieniem życia, które usuwa wszelki lęk.",
+      "bible": [
+        "Ps 27,1",
+        "Ps 27,5"
+      ],
+      "text": [
+        "Ukryj mnie w głębi Twego namiotu,",
+        "na Twoją skałę wydźwignij mnie.",
+        "Jahwe jest moim światłem i zbawieniem,",
+        "kogoż mam się lękać?",
+        "Jahwe jest schronieniem mego życia,",
+        "czyż przed nim mam się trwożyć?",
+        "Ukryj mnie w głębi Twego namiotu,",
+        "na Twoją skałę wydźwignij mnie.",
+        ""
+      ]
+    },
+    {
+      "range": "10-16",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "niegodziwcy",
+        "ciało",
+        "wróg",
+        "przeciwnik",
+        "upadek",
+        "Jahwe",
+        "namiot",
+        "skała",
+        "ufność"
+      ],
+      "summary": "Prośba o ochronę przed niegodziwcami i wrogami, którzy nastają na życie – oni padają, a sprawiedliwy ufa Jahwe.",
+      "bible": [
+        "Ps 27,2-3"
+      ],
+      "text": [
+        "Gdy nastają na mnie niegodziwcy,",
+        "by pożreć moje ciało,",
+        "to oni, moi wrogowie i przeciwnicy",
+        "są tymi, którzy chwieją się i padają.",
+        "Ukryj mnie w głębi Twego namiotu,",
+        "na Twoją skałę wydźwignij mnie.",
+        ""
+      ]
+    },
+    {
+      "range": "17-23",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "wojsko",
+        "serce",
+        "lęk",
+        "wojna",
+        "ufność",
+        "Jahwe",
+        "namiot",
+        "skała"
+      ],
+      "summary": "Wyznanie niezachwianej ufności: choćby wojsko powstało, serce się nie lęka – zawierzenie Bogu w obliczu wszelkiego zagrożenia.",
+      "bible": [
+        "Ps 27,3"
+      ],
+      "text": [
+        "Choćby powstało przeciwko mnie wojsko",
+        "moje serce się nie lęka.",
+        "Choćby wybuchła wojna przeciw mnie,",
+        "nawet wtedy będę ufał.",
+        "Ukryj mnie w głębi Twego namiotu,",
+        "na Twoją skałę wydźwignij mnie.",
+        ""
+      ]
+    },
+    {
+      "range": "24-30",
+      "type": "zwrotka",
+      "sentiment": "błagalny",
+      "keywords": [
+        "Jahwe",
+        "błaganie",
+        "poszukiwanie",
+        "dom",
+        "namiot",
+        "przebywanie",
+        "dni",
+        "życie"
+      ],
+      "summary": "Jedyna prośba: mieszkać w domu Jahwe po wszystkie dni życia – tęsknota za stałą obecnością w Bożym przybytku.",
+      "bible": [
+        "Ps 27,4"
+      ],
+      "text": [
+        "O jedno tylko błagam Jahwe,",
+        "jednego tylko poszukuję.",
+        "Przebywać pragnę w domu Jahwe",
+        "po wszystkie moje dni.",
+        "Ukryj mnie w głębi Twego namiotu,",
+        "na Twoją skałę wydźwignij mnie.",
+        ""
+      ]
+    },
+    {
+      "range": "31-37",
+      "type": "zwrotka",
+      "sentiment": "radosny",
+      "keywords": [
+        "ukrycie",
+        "namiot",
+        "przybytek",
+        "skała",
+        "nieszczęście",
+        "Bóg",
+        "ochrona"
+      ],
+      "summary": "Wyznanie ufności w trzeciej osobie: Bóg ukryje w swoim namiocie w dniu nieszczęścia i wyniesie na skałę – pewność Bożej opieki.",
+      "bible": [
+        "Ps 27,5"
+      ],
+      "text": [
+        "On mnie ukryje w swoim namiocie",
+        "w dniu mego nieszczęścia.",
+        "Ukryje mnie w głębi swego przybytku,",
+        "na swoją skałę wyniesie mnie.",
+        "Ukryj mnie w głębi Twego namiotu,",
+        "na Twoją skałę wydźwignij mnie.",
+        ""
+      ]
+    },
+    {
+      "range": "38-43",
+      "type": "zakończenie",
+      "sentiment": "błagalny",
+      "keywords": [
+        "głos",
+        "wołanie",
+        "zmiłowanie",
+        "wysłuchanie",
+        "oblicze",
+        "Jahwe",
+        "szukanie",
+        "namiot",
+        "skała"
+      ],
+      "summary": "Błaganie o wysłuchanie: Jahwe, usłysz mój głos, zmiłuj się, nie zakrywaj swego oblicza – wołanie o obecność Bożą i prośba o ukrycie.",
+      "bible": [
+        "Ps 27,7-9"
+      ],
+      "text": [
+        "Usłysz, Jahwe, głos mój - wołam:",
+        "zmiłuj się nade mną i wysłuchaj mnie!",
+        "Szukam, o Jahwe, Twojego oblicza;",
+        "swego oblicza nie zakrywaj przede mną.",
+        "Ukryj mnie w głębi Twego namiotu,",
+        "na Twoją skałę wydźwignij mnie."
+      ]
+    },
+    {
+      "range": "1-43",
+      "type": "całość",
+      "sentiment": "radosny",
+      "keywords": [
+        "Jahwe",
+        "światło",
+        "zbawienie",
+        "schronienie",
+        "ukrycie",
+        "namiot",
+        "skała",
+        "ufność",
+        "wróg",
+        "wojsko",
+        "dom",
+        "oblicze",
+        "wołanie",
+        "zmiłowanie"
+      ],
+      "summary": "Parafraza Psalmu 27 – psalm ufności i tęsknoty za Bożą obecnością. Jahwe jest światłem i schronieniem, które usuwa lęk przed wrogami. Jedynym pragnieniem psalmisty jest mieszkać w domu Pańskim, a w dniu nieszczęścia być ukrytym w Bożym namiocie i wyniesionym na skałę.",
+      "bible": [
+        "Ps 27,1-14"
+      ]
+    }
+  ]
+}
