@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Plansza Niedzielnych Laudesów Rodzinnych</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700;800&family=Inter:wght@500;600;700;800&display=swap" rel="stylesheet">
+  
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #f6f3eb;
+      margin: 0;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+    }
+    .board-container {
+      background: white;
+      border-radius: 24px;
+      padding: 10px;
+      width: 100%;
+      max-width: 1300px; /* Dopasowane do nowych proporcji */
+    }
+    svg text {
+      cursor: default;
+      user-select: none;
+    }
+
+    /* REGUŁA DRUKOWANIA: Idealna czarno-biała kolorowanka */
+    @media print {
+      @page {
+        size: A4 portrait;
+        margin: 5mm;
+      }
+      body {
+        background: white !important;
+        padding: 0 !important;
+      }
+      .board-container {
+        box-shadow: none !important;
+        border: none !important;
+        max-width: 100% !important;
+        width: 100% !important;
+        padding: 0 !important;
+      }
+      svg {
+        max-height: 98vh !important;
+        width: 100% !important;
+      }
+      /* Czyste białe tła dla ramek, kółek i planszy -> Dzieci mogą kolorować! */
+      .step-box rect, .agapa-circle, #bgPlate {
+        fill: #ffffff !important;
+        filter: none !important; 
+      }
+      /* Wzmocnienie czerni linii i tekstów na wydruku */
+      #connectors {
+        stroke: #000000 !important;
+      }
+      marker#arrow path {
+        fill: #000000 !important;
+      }
+      text {
+        fill: #000000 !important;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <main class="board-container">
+    <!-- ViewBox idealnie symetryczny: 120px lewego marginesu, 960px szerokości gridu, 120px prawego marginesu -->
+    <svg id="liturgyBoard" class="w-full h-auto" viewBox="-50 0 1300 1950" xmlns="http://www.w3.org/2000/svg">
+      
+      <defs>
+        <!-- Ostry, wyraźny grot strzałki -->
+        <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="9" markerHeight="9" orient="auto-start-reverse">
+          <path d="M 1 1 L 11 6 L 1 11 z" fill="#334155" />
+        </marker>
+
+        <!-- Delikatny cień dla bloków na ekranie -->
+        <filter id="shadow" x="-5%" y="-5%" width="115%" height="120%" filterUnits="userSpaceOnUse">
+          <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#0f172a" flood-opacity="0.1"/>
+        </filter>
+
+        <!-- Złoty gradient dla Agapy -->
+        <linearGradient id="goldAgapa" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#fef08a" />
+          <stop offset="50%" stop-color="#facc15" />
+          <stop offset="100%" stop-color="#eab308" />
+        </linearGradient>
+
+        <!-- Tło planszy -->
+        <linearGradient id="bgSoft" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stop-color="#ffffff" />
+          <stop offset="100%" stop-color="#faf8f5" />
+        </linearGradient>
+      </defs>
+
+      <!-- Tło -->
+      <rect id="bgPlate" x="-50" y="0" width="1300" height="1950" rx="28" fill="url(#bgSoft)" />
+      
+      <!-- Nagłówek -->
+      <g transform="translate(600, 50)" text-anchor="middle">
+        <text font-family="'Cinzel', serif" font-weight="800" font-size="34" fill="#1e293b" letter-spacing="2">NIEDZIELNE LAUDESY RODZINNE</text>
+        <line x1="-350" y1="20" x2="350" y2="20" stroke="#cbd5e1" stroke-width="1.5" stroke-linecap="round" />
+        <circle cx="0" cy="20" r="4" fill="#d97706" />
+      </g>
+
+
+      <!-- ================= POZYCJE BOKSÓW - GRID 12 KOLUMN ================= -->
+
+      <!-- ROW 1: ROZPOCZĘCIE (L -> R, cy: 180, y: 100) -->
+      <g class="step-box" text-anchor="middle">
+        <rect x="120" y="100" width="240" height="160" rx="24" fill="#fef3c7" stroke="#d97706" stroke-width="3" filter="url(#shadow)"/>
+        <text x="240" y="168" font-size="44">🕊️</text>
+        <text x="240" y="210" font-weight="800" font-size="22" fill="#78350f">Modlitwa</text>
+      </g>
+
+      <g class="step-box" text-anchor="middle">
+        <rect x="440" y="100" width="320" height="160" rx="24" fill="#fef9c3" stroke="#ca8a04" stroke-width="3" filter="url(#shadow)"/>
+        <text x="600" y="168" font-size="44">🎵</text>
+        <text x="600" y="210" font-weight="800" font-size="22" fill="#713f12">Psalm 95</text>
+      </g>
+
+      <g class="step-box" text-anchor="middle">
+        <rect x="840" y="100" width="240" height="160" rx="24" fill="#fef3c7" stroke="#d97706" stroke-width="3" filter="url(#shadow)"/>
+        <text x="960" y="168" font-size="44">📖</text>
+        <text x="960" y="210" font-weight="800" font-size="22" fill="#78350f">Hymn</text>
+      </g>
+
+      <!-- ROW 2: PSALM I (R -> L, cy: 440, y: 360) -->
+      <g class="step-box" text-anchor="middle">
+        <rect x="920" y="360" width="160" height="160" rx="80" fill="#e0f2fe" stroke="#0284c7" stroke-width="3" filter="url(#shadow)"/>
+        <text x="1000" y="462" font-size="64">🗣️</text>
+      </g>
+
+      <g class="step-box" text-anchor="middle">
+        <rect x="360" y="360" width="480" height="160" rx="24" fill="#bae6fd" stroke="#0284c7" stroke-width="3.5" filter="url(#shadow)"/>
+        <text x="600" y="428" font-size="44">📜</text>
+        <text x="600" y="470" font-weight="800" font-size="22" fill="#075985">Psalm I</text>
+      </g>
+
+      <g class="step-box" text-anchor="middle">
+        <rect x="120" y="360" width="160" height="160" rx="80" fill="#e0f2fe" stroke="#0284c7" stroke-width="3" filter="url(#shadow)"/>
+        <text x="200" y="462" font-size="64">🗣️</text>
+      </g>
+
+      <!-- ROW 3: PSALM II (L -> R, cy: 700, y: 620) -->
+      <g class="step-box" text-anchor="middle">
+        <rect x="120" y="620" width="160" height="160" rx="80" fill="#ccfbf1" stroke="#0d9488" stroke-width="3" filter="url(#shadow)"/>
+        <text x="200" y="722" font-size="64">🗣️</text>
+      </g>
+
+      <g class="step-box" text-anchor="middle">
+        <rect x="360" y="620" width="480" height="160" rx="24" fill="#99f6e4" stroke="#0d9488" stroke-width="3.5" filter="url(#shadow)"/>
+        <text x="600" y="688" font-size="44">📜</text>
+        <text x="600" y="730" font-weight="800" font-size="22" fill="#115e59">Psalm II</text>
+      </g>
+
+      <g class="step-box" text-anchor="middle">
+        <rect x="920" y="620" width="160" height="160" rx="80" fill="#ccfbf1" stroke="#0d9488" stroke-width="3" filter="url(#shadow)"/>
+        <text x="1000" y="722" font-size="64">🗣️</text>
+      </g>
+
+      <!-- ROW 4: PSALM III (R -> L, cy: 960, y: 880) -->
+      <g class="step-box" text-anchor="middle">
+        <rect x="920" y="880" width="160" height="160" rx="80" fill="#ede9fe" stroke="#7c3aed" stroke-width="3" filter="url(#shadow)"/>
+        <text x="1000" y="982" font-size="64">🗣️</text>
+      </g>
+
+      <g class="step-box" text-anchor="middle">
+        <rect x="360" y="880" width="480" height="160" rx="24" fill="#ddd6fe" stroke="#7c3aed" stroke-width="3.5" filter="url(#shadow)"/>
+        <text x="600" y="948" font-size="44">📜</text>
+        <text x="600" y="990" font-weight="800" font-size="22" fill="#5b21b6">Psalm III</text>
+      </g>
+
+      <g class="step-box" text-anchor="middle">
+        <rect x="120" y="880" width="160" height="160" rx="80" fill="#ede9fe" stroke="#7c3aed" stroke-width="3" filter="url(#shadow)"/>
+        <text x="200" y="982" font-size="64">🗣️</text>
+      </g>
+
+      <!-- ROW 5: EWANGELIA, ECHO, RESPONSORIUM (L -> R, cy: 1220, y: 1140) -->
+      <g class="step-box" text-anchor="middle">
+        <rect x="120" y="1140" width="240" height="160" rx="24" fill="#ffedd5" stroke="#ea580c" stroke-width="3" filter="url(#shadow)"/>
+        <text x="240" y="1208" font-size="44">📖</text>
+        <text x="240" y="1250" font-weight="800" font-size="22" fill="#9a3412">Ewangelia</text>
+      </g>
+
+      <g class="step-box" text-anchor="middle">
+        <rect x="440" y="1140" width="320" height="160" rx="24" fill="#fed7aa" stroke="#ea580c" stroke-width="3.5" filter="url(#shadow)"/>
+        <text x="600" y="1208" font-size="44">💬</text>
+        <text x="600" y="1250" font-weight="800" font-size="22" fill="#7c2d12">Echo Słowa</text>
+      </g>
+
+      <g class="step-box" text-anchor="middle">
+        <rect x="840" y="1140" width="240" height="160" rx="24" fill="#ffe4e6" stroke="#e11d48" stroke-width="3" filter="url(#shadow)"/>
+        <text x="960" y="1208" font-size="44">🕯️</text>
+        <text x="960" y="1250" font-weight="800" font-size="22" fill="#9f1239">Responsorium</text>
+      </g>
+
+      <!-- ROW 6: KANTYK ZACHARIASZA (R -> L, cy: 1480, y: 1400) -->
+      <g class="step-box" text-anchor="middle">
+        <rect x="920" y="1400" width="160" height="160" rx="80" fill="#ffe4e6" stroke="#e11d48" stroke-width="3" filter="url(#shadow)"/>
+        <text x="1000" y="1502" font-size="64">🗣️</text>
+      </g>
+
+      <g class="step-box" text-anchor="middle">
+        <rect x="360" y="1400" width="480" height="160" rx="24" fill="#fecdd3" stroke="#e11d48" stroke-width="3.5" filter="url(#shadow)"/>
+        <text x="600" y="1468" font-size="44">🎵</text>
+        <text x="600" y="1510" font-weight="800" font-size="22" fill="#881337">Kantyk Zachariasza</text>
+      </g>
+
+      <g class="step-box" text-anchor="middle">
+        <rect x="120" y="1400" width="160" height="160" rx="80" fill="#ffe4e6" stroke="#e11d48" stroke-width="3" filter="url(#shadow)"/>
+        <text x="200" y="1502" font-size="64">🗣️</text>
+      </g>
+
+      <!-- ROW 7: ZAKOŃCZENIE I AGAPA (L -> R, cy: 1740, y: 1660) -->
+      <g class="step-box" text-anchor="middle">
+        <rect x="120" y="1660" width="160" height="160" rx="24" fill="#f3e8ff" stroke="#9333ea" stroke-width="3" filter="url(#shadow)"/>
+        <text x="200" y="1728" font-size="44">🙏</text>
+        <text x="200" y="1770" font-weight="800" font-size="22" fill="#6b21a8">Prośby</text>
+      </g>
+
+      <g class="step-box" text-anchor="middle">
+        <rect x="360" y="1660" width="160" height="160" rx="24" fill="#fae8ff" stroke="#c026d3" stroke-width="3" filter="url(#shadow)"/>
+        <text x="440" y="1728" font-size="44">✨</text>
+        <text x="440" y="1770" font-weight="800" font-size="22" fill="#86198f">Ojcze Nasz</text>
+      </g>
+
+      <g class="step-box" text-anchor="middle">
+        <rect x="600" y="1660" width="160" height="160" rx="24" fill="#fef3c7" stroke="#d97706" stroke-width="3" filter="url(#shadow)"/>
+        <text x="680" y="1728" font-size="44">✝️</text>
+        <text x="680" y="1770" font-weight="800" font-size="22" fill="#78350f">Modlitwa</text>
+      </g>
+
+      <g class="step-box" text-anchor="middle">
+        <circle class="agapa-circle" cx="960" cy="1740" r="120" fill="url(#goldAgapa)" stroke="#ca8a04" stroke-width="4" filter="url(#shadow)"/>
+        <circle cx="960" cy="1740" r="110" fill="none" stroke="#ffffff" stroke-width="2" stroke-dasharray="8,6" opacity="0.85"/>
+        <text x="960" y="1720" font-size="64">🎂</text>
+        <text x="960" y="1780" font-family="'Cinzel', serif" font-weight="800" font-size="32" fill="#713f12" letter-spacing="2">AGAPA</text>
+      </g>
+
+
+      <!-- ================= LINIE ŁĄCZĄCE (Rysowane nad polami, idealnie styczne) ================= -->
+      <g id="connectors" fill="none" stroke="#334155" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)">
+        
+        <!-- ROW 1 (L -> R) -->
+        <path d="M 360 180 L 430 180" />
+        <path d="M 760 180 L 830 180" />
+
+        <!-- Turn 1 -->
+        <path d="M 1080 180 A 130 130 0 0 1 1080 440" />
+
+        <!-- ROW 2 (R -> L) -->
+        <path d="M 920 440 L 850 440" />
+        <path d="M 360 440 L 290 440" />
+
+        <!-- Turn 2 -->
+        <path d="M 120 440 A 130 130 0 0 0 120 700" />
+
+        <!-- ROW 3 (L -> R) -->
+        <path d="M 280 700 L 350 700" />
+        <path d="M 840 700 L 910 700" />
+
+        <!-- Turn 3 -->
+        <path d="M 1080 700 A 130 130 0 0 1 1080 960" />
+
+        <!-- ROW 4 (R -> L) -->
+        <path d="M 920 960 L 850 960" />
+        <path d="M 360 960 L 290 960" />
+
+        <!-- Turn 4 -->
+        <path d="M 120 960 A 130 130 0 0 0 120 1220" />
+
+        <!-- ROW 5 (L -> R) -->
+        <path d="M 360 1220 L 430 1220" />
+        <path d="M 760 1220 L 830 1220" />
+
+        <!-- Turn 5 -->
+        <path d="M 1080 1220 A 130 130 0 0 1 1080 1480" />
+
+        <!-- ROW 6 (R -> L) -->
+        <path d="M 920 1480 L 850 1480" />
+        <path d="M 360 1480 L 290 1480" />
+
+        <!-- Turn 6 -->
+        <path d="M 120 1480 A 130 130 0 0 0 120 1740" />
+
+        <!-- ROW 7 (L -> R) równomierne strzałki do Agapy -->
+        <path d="M 280 1740 L 350 1740" />
+        <path d="M 520 1740 L 590 1740" />
+        <path d="M 760 1740 L 830 1740" />
+      </g>
+    </svg>
+  </main>
+</body>
+</html>
