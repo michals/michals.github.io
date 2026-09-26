@@ -2,45 +2,84 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try{var s=localStorage.getItem('btv-font-size');if(s)document.documentElement.style.fontSize=s+'px';}catch(e){}
+</script>
 <title>1 Ks. Samuela — Biblia Tysiąclecia (BT-V)</title>
 <style>
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
 body {
   font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   line-height: 1.6;
-  max-width: 42em;
+  max-width: 42rem;
   margin: 0 auto;
-  padding: 1em 1.5em 3em;
+  padding: 1rem 1.5rem 3rem;
   color: #222;
   background: #fff;
 }
+.font-switcher {
+  margin-left: auto;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  border: 1px solid #808080;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.font-switcher button {
+  margin-left: 0.25rem;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+  font-family: inherit;
+}
 nav.toc {
   font-family: -apple-system, 'Segoe UI', sans-serif;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   color: #555;
 }
 nav.toc a {
-  margin-right: 0.45em;
+  margin-right: 0.45rem;
   text-decoration: none;
 }
-h1 { font-size: 1.8em; }
-h2 {
-  font-size: 1.4em;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
+header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
-h1 a, h2 a {
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+h1 { font-size: 1.8rem; }
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+h1 a, h2 a, .site-title a {
   color: inherit;
   text-decoration: none;
 }
-h1 a:hover, h2 a:hover {
+h1 a:hover, h2 a:hover, .site-title a:hover {
   text-decoration: underline;
 }
 sup.vn {
   color: #0000aa;
-  font-size: 0.7em;
-  margin-right: 0.2em;
+  font-size: 0.7rem;
+  margin-right: 0.2rem;
   position: relative;
-  top: -0.2em;
+  top: -0.2rem;
   user-select: none;
 }
 span.verse sup.vn a {
@@ -54,9 +93,9 @@ div.verses {
 span.speaker { font-style: italic; }
 ul.footnotes {
   list-style: none;
-  font-size: 0.85em;
+  font-size: 0.85rem;
   color: #444;
-  padding: 2em 2em 2em 2em;
+  padding: 2rem;
 }
 a.fnref, a.backref { text-decoration: none; }
 ul.footnotes li:target, span.verse:target, span.verse.sel {
@@ -66,26 +105,33 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   padding: 2px;
   transition: background-color 0.5s ease;
 }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  ul.footnotes li:target, span.verse:target, span.verse.sel {
+    transition: none;
+  }
+}
 span.verse, ul.footnotes>li {
-  scroll-margin-top: 1em;
+  scroll-margin-top: 1rem;
 }
 article.introduction {
   background: #fafafa;
   border-left: 3px solid #ddd;
-  padding: 0.5em 1em;
-  margin: 1em 0;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
 }
 </style>
 </head>
 <body>
-<h1><a href="index.html">1 Ks. Samuela</a></h1>
+<header class="site"><p class="site-title"><a href="index.html">Biblia Tysiąclecia</a></p><div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div></header>
+<h1><a href="1Sm.html">1 Ks. Samuela</a></h1>
 <nav class="toc">Rozdziały: <a href="#v1">1</a> <a href="#v2">2</a> <a href="#v3">3</a> <a href="#v4">4</a> <a href="#v5">5</a> <a href="#v6">6</a> <a href="#v7">7</a> <a href="#v8">8</a> <a href="#v9">9</a> <a href="#v10">10</a> <a href="#v11">11</a> <a href="#v12">12</a> <a href="#v13">13</a> <a href="#v14">14</a> <a href="#v15">15</a> <a href="#v16">16</a> <a href="#v17">17</a> <a href="#v18">18</a> <a href="#v19">19</a> <a href="#v20">20</a> <a href="#v21">21</a> <a href="#v22">22</a> <a href="#v23">23</a> <a href="#v24">24</a> <a href="#v25">25</a> <a href="#v26">26</a> <a href="#v27">27</a> <a href="#v28">28</a> <a href="#v29">29</a> <a href="#v30">30</a> <a href="#v31">31</a></nav>
-<article class="introduction">
-<h2><a href="1Sm.html">Wstęp do Księgi Samuela</a></h2>
+<article class="introduction" id="i1">
+<h2><a href="1Sm.html#i1">Wstęp do Księgi Samuela</a></h2>
 <p>1-2 Sm stanowiły w tekście oryginalnym pierwotnie jedną księgę; podziału jej na dwie części dokonała Septuaginta łącząc je wraz z 1-2 Krl w jedną całość (1-4 Krl). W ślad za tradycją grecką przyjęła dwuczęściowy podział na 1-2 Sm najpierw Biblia łacińska, a wreszcie mniej więcej w XV w. po Chr. tradycja żydowska. Nazwa pochodzi od domniemanego jej autora. Późnożydowska (talmudyczna) tradycja wymienia prócz Samuela także Gada &quot;Widzącego&quot; i Natana jako współautorów (por. zestawienie tych trzech osób już w 1 Krn 29,29). Samuel, ostatni z Sędziów, nie jest jednak jedyną główną postacią obu ksiąg. Jest nią jedynie w pierwszej części opisu (1 Sm rozdz. 1-12); następnie przedstawia 1 Sm wybór na króla i panowanie Saula, na tle którego pojawia się Dawid (1 Sm 13-31). Monarchii Dawidowej, jej rozwojowi, prężności administracyjnej i wojskowej poświęcona jest 2 Sm. Przedstawia ona postać Dawida na tle jego zwycięskich walk wewnętrznych i zewnętrznych, jako prawdziwego monarchę teokratycznego, nie pozbawionego jednak słabości i upadków. <br>    Struktura literacka 1-2 Sm zdradza długi okres rozwoju. Choćby autor nie stwierdził tego wyraźnie (por. 2 Sm 1,18), istnienie szeregu starszych dokumentów (por. np. 1 Krn 27,24), z których korzystał (np. 2 Sm 23,1-7), nie ulega wątpliwości. Wskazują na to dublety (2 Sm 8,16-18 - por. 1 Sm 20,23-26; 1 Sm 10,11 - por. 1 Sm 19,24), rozbieżności w opisach tych samych zdarzeń (1 Sm rozdz. 8; 1 Sm 10,17-25; rozdz. 12 w porównaniu z 1 Sm 9,1-10,16; 1 Sm 10,26-11,15) oraz niekonsekwencje chronologiczne w układzie materiału. Najprawdopodobniej chodzi o szereg opisów i tradycji różnego pochodzenia, które nieznany autor opracował w dość zwartą całość. Jego wkład teologiczny i literacki (wielka umiejętność narracyjna) nadał księgom jednolity, oryginalny charakter. Za datę dzisiejszej redakcji należy przyjąć okres między podziałem monarchii izraelskiej na dwa państwa (autor używa technicznych określeń państwa Izrael i Juda) a upadkiem państwa judzkiego i dynastii Dawidowej (586). <br>    Biorąc pod uwagę starożytność opracowanych źródeł, sięgających może częściowo opisywanego okresu, księgi odtwarzają wiernie dzieje swej epoki. Chodzi jednak nie o historię samego biegu zdarzeń, ale o typowo biblijne spojrzenie na przeszłość, o wpływ, jaki wywarły dzieje okresu wczesnej monarchii na strukturę teokratyczną społeczności, na jej religijność i głębokie przemiany. Często więc autor przedstawia zdarzenia w sposób, w jaki utrwaliły się one nie w kronikarskim zapisie, lecz w świadomości narodu. Mimo to charakterystyka osób jest wierna i wnikliwa. Samuel ukazany jest jako typowa postać przełomowa między tradycyjną, charyzmatyczną formą władzy w Izraelu (okres Sędziów) a rodzącą się monarchią. Saul - to postać tragiczna, początkowo wielce obiecująca, później jednak na skutek poważnych niewierności stanowi niejako negatywne tło dla Dawida, właściwego bohatera księgi. <br>    Główną myślą religijną księgi jest urzeczywistnienie dawnego wyboru Izraela przez Boga w nowej formie władzy teokratycznej. Dokonuje się ono przez trzy zasadnicze instytucje: profetyzm, kapłaństwo skupione przy świątyni w Jerozolimie oraz przez dynastię Dawida. Profetyzm reprezentuje Samuel, będąc jednocześnie kapłanem i &quot;widzącym&quot;, oraz Natan, prorok dworu królewskiego Dawida. Jego proroctwo dla króla i jego dynastii (2 Sm 7,1-17) stanowi punkt kulminacyjny księgi: Bóg zawarł bezwarunkowe przymierze z potomstwem Dawida, powierzając mu panowanie nad swoim narodem. W tym sensie historia Dawida nabiera cech prorockich; rozpoczyna ona długą drogę ku wypełnieniu zbawczego planu Bożego w wielkim Potomku Dawida, Jezusie Chrystusie. <br>    Lud Boży w okresie wypełnienia planu Bożego powita Jezusa z Nazaretu jako &quot;syna Dawida&quot; (Mk 11,10; Mt 12,23; Mt 15,22; Mt 20,30), jakkolwiek będzie On jego Panem (Mk 12,35-37 i par.). Podobnie cały NT zrozumie mesjańską działalność Chrystusa jako wypełnienie obietnic danych Dawidowi (Dz 2,30; Rz 1,3; Hbr 1,5). W ten sposób historia Dawida pozostaje dla chrześcijan nie tylko epizodem historii zbawienia, ale pierwszym bezpośrednim ogniwem oczekiwania i wiary w przyjście Chrystusa.</p>
 </article>
 <section class="chapter" id="v1">
-<h2><a href="1Sm.html">Rozdział 1</a></h2>
+<h2><a href="1Sm.html#v1">Rozdział 1</a></h2>
 <div class="verses">
 <h4>HELI I SAMUEL</h4>
 <h5>Dziecko uproszone u Boga</h5>
@@ -121,7 +167,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v2">
-<h2><a href="1Sm.html">Rozdział 2</a></h2>
+<h2><a href="1Sm.html#v2">Rozdział 2</a></h2>
 <div class="verses">
 <span class="verse" id="v2_1"><sup class="vn"><a href="#v2_1">1</a></sup>Anna modliła się, mówiąc:<br>«Raduje się me serce w Panu,<br>podnoszę czoło dzięki Panu,<br>rozwarły się me usta na wrogów moich,<br>gdyż cieszyć się mogę Twoją pomocą.<br></span>
 <span class="verse" id="v2_2"><sup class="vn"><a href="#v2_2">2</a></sup>Nikt tak święty jak Pan,<br>prócz Ciebie nie ma nikogo,<br>nikt poza Tobą, nikt taką Opoką jak Bóg nasz.<br></span>
@@ -163,7 +209,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v3">
-<h2><a href="1Sm.html">Rozdział 3</a></h2>
+<h2><a href="1Sm.html#v3">Rozdział 3</a></h2>
 <div class="verses">
 <h5>Widzenie Samuela</h5>
 <span class="verse" id="v3_1"><sup class="vn"><a href="#v3_1">1</a></sup>Młody Samuel usługiwał Panu pod okiem Helego. W owym czasie rzadko odzywał się Pan, a widzenia nie były częste.</span>
@@ -190,7 +236,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v4">
-<h2><a href="1Sm.html">Rozdział 4</a></h2>
+<h2><a href="1Sm.html#v4">Rozdział 4</a></h2>
 <div class="verses">
 <h4>DZIEJE ARKI PRZYMIERZA</h4>
 <h5>Arka w niewoli</h5>
@@ -219,7 +265,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v5">
-<h2><a href="1Sm.html">Rozdział 5</a></h2>
+<h2><a href="1Sm.html#v5">Rozdział 5</a></h2>
 <div class="verses">
 <span class="verse" id="v5_1"><sup class="vn"><a href="#v5_1">1</a></sup>Tymczasem Filistyni, zabrawszy Arkę Bożą, zanieśli ją z Eben-Haezer do Aszdodu<sup>s</sup>.</span>
 <span class="verse" id="v5_2"><sup class="vn"><a href="#v5_2">2</a></sup>Wzięli następnie Filistyni Arkę Bożą i wnieśli do świątyni Dagona, i ustawili przed Dagonem.</span>
@@ -236,7 +282,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v6">
-<h2><a href="1Sm.html">Rozdział 6</a></h2>
+<h2><a href="1Sm.html#v6">Rozdział 6</a></h2>
 <div class="verses">
 <h5>Zwrot Arki Przymierza</h5>
 <span class="verse" id="v6_1"><sup class="vn"><a href="#v6_1">1</a></sup>Przez siedem miesięcy Arka Pańska znajdowała się na ziemi filistyńskiej.</span>
@@ -263,7 +309,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v7">
-<h2><a href="1Sm.html">Rozdział 7</a></h2>
+<h2><a href="1Sm.html#v7">Rozdział 7</a></h2>
 <div class="verses">
 <span class="verse" id="v7_1"><sup class="vn"><a href="#v7_1">1</a></sup>Przybyli mieszkańcy Kiriat-Jearim, zabrali Arkę Pańską i wprowadzili ją do domu Abinadaba na wzgórzu, Eleazara zaś, syna jego, wyświęcili, aby strzegł Arki Pańskiej.<br></span>
 <h4>SAMUEL I SAUL</h4>
@@ -287,7 +333,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v8">
-<h2><a href="1Sm.html">Rozdział 8</a></h2>
+<h2><a href="1Sm.html#v8">Rozdział 8</a></h2>
 <div class="verses">
 <h5>Król-człowiek zamiast Boga</h5>
 <span class="verse" id="v8_1"><sup class="vn"><a href="#v8_1">1</a></sup>Kiedy jednak Samuel się postarzał, sędziami nad Izraelem ustanowił swoich synów.</span>
@@ -315,7 +361,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v9">
-<h2><a href="1Sm.html">Rozdział 9</a></h2>
+<h2><a href="1Sm.html#v9">Rozdział 9</a></h2>
 <div class="verses">
 <h5>Namaszczenie Saula na króla</h5>
 <span class="verse" id="v9_1"><sup class="vn"><a href="#v9_1">1</a></sup>Był pewien dzielny wojownik z rodu Beniamina - a na imię mu było Kisz, syn Abiela, syna Serora, syna Bekorata, syna Afijacha, syna Beniamina.</span>
@@ -348,7 +394,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v10">
-<h2><a href="1Sm.html">Rozdział 10</a></h2>
+<h2><a href="1Sm.html#v10">Rozdział 10</a></h2>
 <div class="verses">
 <span class="verse" id="v10_1"><sup class="vn"><a href="#v10_1">1</a></sup>Samuel wziął wtedy naczyńko z olejem i wylał na jego głowę, ucałował go i rzekł: «Czyż nie namaścił cię Pan na wodza nad swoim dziedzictwem?</span>
 <span class="verse" id="v10_2"><sup class="vn"><a href="#v10_2">2</a></sup>Gdy dziś ode mnie odejdziesz, napotkasz w Selsach, przy grobie Racheli, niedaleko od granicy Beniamina, dwóch mężczyzn. Powiedzą oni tobie: Znalazły się oślice, których poszedłeś szukać. Tymczasem ojciec twój nie myśli o oślicach, lecz trapi się o was, mówiąc: Co mam uczynić dla mego syna?</span>
@@ -381,7 +427,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v11">
-<h2><a href="1Sm.html">Rozdział 11</a></h2>
+<h2><a href="1Sm.html#v11">Rozdział 11</a></h2>
 <div class="verses">
 <h5>Walka z Ammonitami wzmacnia Saula</h5>
 <span class="verse" id="v11_1"><sup class="vn"><a href="#v11_1">1</a></sup>Nadciągnął Nachasz Ammonita i oblegał miasto Jabesz w Gileadzie<sup>s</sup>. Oznajmili Nachaszowi wszyscy mieszkańcy Jabesz: «Zawrzyj z nami przymierze, a będziemy ci służyć».</span>
@@ -402,7 +448,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v12">
-<h2><a href="1Sm.html">Rozdział 12</a></h2>
+<h2><a href="1Sm.html#v12">Rozdział 12</a></h2>
 <div class="verses">
 <h5>Pożegnalne przemówienie Samuela</h5>
 <span class="verse" id="v12_1"><sup class="vn"><a href="#v12_1">1</a></sup>Przemówił Samuel do wszystkich Izraelitów: «Oto posłuchałem waszego głosu we wszystkim, co do mnie mówiliście, i ustanowiłem króla nad wami.</span>
@@ -433,7 +479,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v13">
-<h2><a href="1Sm.html">Rozdział 13</a></h2>
+<h2><a href="1Sm.html#v13">Rozdział 13</a></h2>
 <div class="verses">
 <h5>Początek wojen z Filistynami</h5>
 <span class="verse" id="v13_1"><sup class="vn"><a href="#v13_1">1</a></sup>Saul miał.. lat, gdy został królem, a dwa lata panował nad Izraelem.</span>
@@ -462,7 +508,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v14">
-<h2><a href="1Sm.html">Rozdział 14</a></h2>
+<h2><a href="1Sm.html#v14">Rozdział 14</a></h2>
 <div class="verses">
 <h5>Klęska Filistynów</h5>
 <span class="verse" id="v14_1"><sup class="vn"><a href="#v14_1">1</a></sup>Pewnego dnia odezwał się syn Saula, Jonatan, do swego giermka: «Chodź, podejdziemy do straży filistyńskiej znajdującej się po przeciwległej stronie». Ojcu swemu nic o tym nie wspomniał.</span>
@@ -521,7 +567,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v15">
-<h2><a href="1Sm.html">Rozdział 15</a></h2>
+<h2><a href="1Sm.html#v15">Rozdział 15</a></h2>
 <div class="verses">
 <h5>Święta wojna z Amalekitami i odrzucenie Saula</h5>
 <span class="verse" id="v15_1"><sup class="vn"><a href="#v15_1">1</a></sup>Potem rzekł Samuel do Saula: «To mnie posłał Pan, aby cię namaścić na króla nad swoim ludem, nad Izraelem. Posłuchaj więc teraz słów Pana.</span>
@@ -562,7 +608,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v16">
-<h2><a href="1Sm.html">Rozdział 16</a></h2>
+<h2><a href="1Sm.html#v16">Rozdział 16</a></h2>
 <div class="verses">
 <h4>SAUL I DAWID</h4>
 <h5>Namaszczenie Dawida</h5>
@@ -593,7 +639,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v17">
-<h2><a href="1Sm.html">Rozdział 17</a></h2>
+<h2><a href="1Sm.html#v17">Rozdział 17</a></h2>
 <div class="verses">
 <h5>Walka Dawida z Goliatem</h5>
 <span class="verse" id="v17_1"><sup class="vn"><a href="#v17_1">1</a></sup>Filistyni zgromadzili swe wojska na wojnę: zebrali się w Soko leżącym w ziemi Judy, a obóz rozbili między Soko i Azeka, niedaleko od Efes-Dammim.</span>
@@ -657,7 +703,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v18">
-<h2><a href="1Sm.html">Rozdział 18</a></h2>
+<h2><a href="1Sm.html#v18">Rozdział 18</a></h2>
 <div class="verses">
 <span class="verse" id="v18_1"><sup class="vn"><a href="#v18_1">1</a></sup>Kiedy właśnie przestał przemawiać do Saula, dusza Jonatana przylgnęła całkowicie do duszy Dawida. Pokochał go Jonatan tak jak samego siebie.</span>
 <span class="verse" id="v18_2"><sup class="vn"><a href="#v18_2">2</a></sup>Od tego również dnia Saul zabrał go do siebie i nie pozwolił mu już wrócić do domu ojcowskiego.</span>
@@ -694,7 +740,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v19">
-<h2><a href="1Sm.html">Rozdział 19</a></h2>
+<h2><a href="1Sm.html#v19">Rozdział 19</a></h2>
 <div class="verses">
 <h5>Jonatan - pośrednik</h5>
 <span class="verse" id="v19_1"><sup class="vn"><a href="#v19_1">1</a></sup>Saul namawiał syna swego, Jonatana, i wszystkie sługi swoje, by zabili Dawida. Jonatan jednak bardzo upodobał sobie Dawida.</span>
@@ -726,7 +772,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v20">
-<h2><a href="1Sm.html">Rozdział 20</a></h2>
+<h2><a href="1Sm.html#v20">Rozdział 20</a></h2>
 <div class="verses">
 <h5>Jonatan po przyjacielsku ostrzega Dawida</h5>
 <span class="verse" id="v20_1"><sup class="vn"><a href="#v20_1">1</a></sup>Tymczasem Dawid uciekł z Najot koło Rama i udał się do Jonatana, mówiąc: «Cóż ja zrobiłem, czym zawiniłem, czym zgrzeszyłem wobec twojego ojca, że czyha na moje życie?»</span>
@@ -774,7 +820,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v21">
-<h2><a href="1Sm.html">Rozdział 21</a></h2>
+<h2><a href="1Sm.html#v21">Rozdział 21</a></h2>
 <div class="verses">
 <span class="verse" id="v21_1"><sup class="vn"><a href="#v21_1">1</a></sup>Dawid, podniósłszy się, odszedł, a Jonatan powrócił do miasta.<br></span>
 <h5>Dawid w Nob</h5>
@@ -796,7 +842,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v22">
-<h2><a href="1Sm.html">Rozdział 22</a></h2>
+<h2><a href="1Sm.html#v22">Rozdział 22</a></h2>
 <div class="verses">
 <h5>Dawid w Adullam i Mispe</h5>
 <span class="verse" id="v22_1"><sup class="vn"><a href="#v22_1">1</a></sup>Dawid uciekł stamtąd i schronił się w jaskini Adullam. Kiedy dowiedzieli się o tym jego bracia i cała rodzina jego ojca, udali się do niego.</span>
@@ -826,7 +872,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v23">
-<h2><a href="1Sm.html">Rozdział 23</a></h2>
+<h2><a href="1Sm.html#v23">Rozdział 23</a></h2>
 <div class="verses">
 <h5>Dawid w Keili</h5>
 <span class="verse" id="v23_1"><sup class="vn"><a href="#v23_1">1</a></sup>Tymczasem zawiadomiono Dawida: «Oto Filistyni oblegają Keilę i grabią [zboże na] klepiskach».</span>
@@ -861,7 +907,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v24">
-<h2><a href="1Sm.html">Rozdział 24</a></h2>
+<h2><a href="1Sm.html#v24">Rozdział 24</a></h2>
 <div class="verses">
 <h5>Spotkanie w jaskini Engaddi</h5>
 <span class="verse" id="v24_1"><sup class="vn"><a href="#v24_1">1</a></sup>Dawid odszedł stamtąd i zamieszkał w miejscach niedostępnych Engaddi<sup>s</sup>.</span>
@@ -890,7 +936,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v25">
-<h2><a href="1Sm.html">Rozdział 25</a></h2>
+<h2><a href="1Sm.html#v25">Rozdział 25</a></h2>
 <div class="verses">
 <h5>Śmierć Samuela</h5>
 <h5>Abigail</h5>
@@ -941,7 +987,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v26">
-<h2><a href="1Sm.html">Rozdział 26</a></h2>
+<h2><a href="1Sm.html#v26">Rozdział 26</a></h2>
 <div class="verses">
 <h5>Dawid na pustyni</h5>
 <span class="verse" id="v26_1"><sup class="vn"><a href="#v26_1">1</a></sup>Zifejczycy przybyli do Saula w Gibea, mówiąc: «Dawid ukrywa się na wzgórzu Chakila, leżącym na krańcu stepu».</span>
@@ -972,7 +1018,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v27">
-<h2><a href="1Sm.html">Rozdział 27</a></h2>
+<h2><a href="1Sm.html#v27">Rozdział 27</a></h2>
 <div class="verses">
 <h5>Współpraca z Akiszem</h5>
 <span class="verse" id="v27_1"><sup class="vn"><a href="#v27_1">1</a></sup>Dawid rozważał w swym sercu: mogę wpaść któregoś dnia w ręce Saula. Lepiej będzie dla mnie, gdy się schronię do ziemi Filistynów. Wtedy Saul zaprzestanie ścigania mnie po całym kraju izraelskim, i w ten sposób ujdę z jego rąk.</span>
@@ -990,7 +1036,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v28">
-<h2><a href="1Sm.html">Rozdział 28</a></h2>
+<h2><a href="1Sm.html#v28">Rozdział 28</a></h2>
 <div class="verses">
 <span class="verse" id="v28_1"><sup class="vn"><a href="#v28_1">1</a></sup>W tym czasie Filistyni zgromadzili swe wojska do walki, chcąc uderzyć na Izraelitów. Rzekł więc Akisz do Dawida: «Wiesz dobrze, że razem ze mną udasz się do obozu wraz z twymi ludźmi».</span>
 <span class="verse" id="v28_2"><sup class="vn"><a href="#v28_2">2</a></sup>Dawid odrzekł Akiszowi: «Oczywiście, sam się przekonasz, co uczyni twój sługa». Akisz odpowiedział Dawidowi: «Ustanawiam więc ciebie na stałe strażnikiem mojej osoby».<br></span>
@@ -1021,7 +1067,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v29">
-<h2><a href="1Sm.html">Rozdział 29</a></h2>
+<h2><a href="1Sm.html#v29">Rozdział 29</a></h2>
 <div class="verses">
 <h5>Dawid osobą podejrzaną</h5>
 <span class="verse" id="v29_1"><sup class="vn"><a href="#v29_1">1</a></sup>Filistyni zgromadzili swe oddziały koło Afek, Izraelici zaś rozłożyli obóz u źródła, które jest na [nizinie] Jizreel.</span>
@@ -1038,7 +1084,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v30">
-<h2><a href="1Sm.html">Rozdział 30</a></h2>
+<h2><a href="1Sm.html#v30">Rozdział 30</a></h2>
 <div class="verses">
 <h5>Wyprawa przeciw Amalekitom</h5>
 <span class="verse" id="v30_1"><sup class="vn"><a href="#v30_1">1</a></sup>Kiedy Dawid przybył razem ze swymi ludźmi do Siklag, trzeciego dnia, [okazało się, że] Amalekici najechali na Negeb<sup>s</sup> i na Siklag. Siklag zdobyli i strawili ogniem.</span>
@@ -1075,7 +1121,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v31">
-<h2><a href="1Sm.html">Rozdział 31</a></h2>
+<h2><a href="1Sm.html#v31">Rozdział 31</a></h2>
 <div class="verses">
 <h5>Śmierć Saula i Jonatana</h5>
 <span class="verse" id="v31_1"><sup class="vn"><a href="#v31_1">1</a></sup>Filistyni tymczasem walczyli z Izraelem; a mężowie izraelscy uciekli przed Filistynami i padli pobici na wzgórzu Gilboa.</span>
@@ -1096,6 +1142,20 @@ article.introduction {
 <script>
 (function () {
   'use strict';
+  function fontSize(size) {
+    document.documentElement.style.fontSize = size + 'px';
+    try { localStorage.setItem('btv-font-size', size); } catch (e) {}
+  }
+  var switcher = document.querySelector('.font-switcher');
+  [14, 16, 18, 20, 22].forEach(function (size) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = 'A';
+    b.style.fontSize = size + 'px';
+    b.setAttribute('aria-label', 'Rozmiar czcionki ' + size + ' pikseli');
+    b.addEventListener('click', function () { fontSize(size); });
+    switcher.appendChild(b);
+  });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {

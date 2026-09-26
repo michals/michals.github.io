@@ -2,45 +2,84 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try{var s=localStorage.getItem('btv-font-size');if(s)document.documentElement.style.fontSize=s+'px';}catch(e){}
+</script>
 <title>Ks. Tobiasza — Biblia Tysiąclecia (BT-V)</title>
 <style>
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
 body {
   font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   line-height: 1.6;
-  max-width: 42em;
+  max-width: 42rem;
   margin: 0 auto;
-  padding: 1em 1.5em 3em;
+  padding: 1rem 1.5rem 3rem;
   color: #222;
   background: #fff;
 }
+.font-switcher {
+  margin-left: auto;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  border: 1px solid #808080;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.font-switcher button {
+  margin-left: 0.25rem;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+  font-family: inherit;
+}
 nav.toc {
   font-family: -apple-system, 'Segoe UI', sans-serif;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   color: #555;
 }
 nav.toc a {
-  margin-right: 0.45em;
+  margin-right: 0.45rem;
   text-decoration: none;
 }
-h1 { font-size: 1.8em; }
-h2 {
-  font-size: 1.4em;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
+header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
-h1 a, h2 a {
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+h1 { font-size: 1.8rem; }
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+h1 a, h2 a, .site-title a {
   color: inherit;
   text-decoration: none;
 }
-h1 a:hover, h2 a:hover {
+h1 a:hover, h2 a:hover, .site-title a:hover {
   text-decoration: underline;
 }
 sup.vn {
   color: #0000aa;
-  font-size: 0.7em;
-  margin-right: 0.2em;
+  font-size: 0.7rem;
+  margin-right: 0.2rem;
   position: relative;
-  top: -0.2em;
+  top: -0.2rem;
   user-select: none;
 }
 span.verse sup.vn a {
@@ -54,9 +93,9 @@ div.verses {
 span.speaker { font-style: italic; }
 ul.footnotes {
   list-style: none;
-  font-size: 0.85em;
+  font-size: 0.85rem;
   color: #444;
-  padding: 2em 2em 2em 2em;
+  padding: 2rem;
 }
 a.fnref, a.backref { text-decoration: none; }
 ul.footnotes li:target, span.verse:target, span.verse.sel {
@@ -66,26 +105,33 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   padding: 2px;
   transition: background-color 0.5s ease;
 }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  ul.footnotes li:target, span.verse:target, span.verse.sel {
+    transition: none;
+  }
+}
 span.verse, ul.footnotes>li {
-  scroll-margin-top: 1em;
+  scroll-margin-top: 1rem;
 }
 article.introduction {
   background: #fafafa;
   border-left: 3px solid #ddd;
-  padding: 0.5em 1em;
-  margin: 1em 0;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
 }
 </style>
 </head>
 <body>
-<h1><a href="index.html">Ks. Tobiasza</a></h1>
+<header class="site"><p class="site-title"><a href="index.html">Biblia Tysiąclecia</a></p><div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div></header>
+<h1><a href="Tb.html">Ks. Tobiasza</a></h1>
 <nav class="toc">Rozdziały: <a href="#v1">1</a> <a href="#v2">2</a> <a href="#v3">3</a> <a href="#v4">4</a> <a href="#v5">5</a> <a href="#v6">6</a> <a href="#v7">7</a> <a href="#v8">8</a> <a href="#v9">9</a> <a href="#v10">10</a> <a href="#v11">11</a> <a href="#v12">12</a> <a href="#v13">13</a> <a href="#v14">14</a></nav>
-<article class="introduction">
-<h2><a href="Tb.html">Wstęp do Księgi Tobiasza</a></h2>
+<article class="introduction" id="i1">
+<h2><a href="Tb.html#i1">Wstęp do Księgi Tobiasza</a></h2>
 <p>Księga ta zawiera opowiadanie o pewnej rodzinie izraelskiej z pokolenia Neftalego, uprowadzonej do niewoli do Niniwy, stolicy Asyrii. Głowa tej rodziny Tobiasz (aram.-hebr. Tobi, gr. Tobit), był człowiekiem równie zamożnym i poważanym, jak i pobożnym. W czasie prześladowań Żydów grzebał on porzucone zwłoki pomordowanych, czym naraził się królowi asyryjskiemu. Nadto spotkało go nieszczęście: utracił nie tylko majątek ale i wzrok, a jego żona, obarczona troską o utrzymanie rodziny, odnosiła się do niego z niechęcią. Chory Tobiasz posyła więc swego syna, także Tobiasza (aram.-hebr. Tobijah, gr. Tobias) do Rages, do swego przyjaciela Gabaela, celem podjęcia zdeponowanej u niego sumy pieniędzy. Drugi wątek akcji prowadzi do Ekbatany do domu Raguela, którego córka Sara utraciła kolejno siedmiu mężów wskutek złowrogiego działania demona Asmodeusza. Bóg wysłuchuje modlitwy Tobiasza-ojca i Sary, posyłając swego anioła Rafała (Rafael), który towarzyszy młodemu Tobiaszowi w drodze do Rages. Po długiej podróży, w czasie której Tobiasz zabiera wnętrzności schwytanej w Tygrysie ryby, przybywają podróżni do Ekbatany do domu Raguela. Tutaj okazuje się, że młody Tobiasz ma prawo do małżeństwa z Sarą jako najbliższy krewny i poślubia ją, odpędzając demona za pomocą spalonych wnętrzności ryby. Młody Tobiasz szczęśliwie powraca i cudownym lekarstwem z ryby przywraca ojcu wzrok za radą Rafała, który daje się wreszcie poznać jako anioł. <br>    Pełne folkloru opowiadanie obejmuje także pouczenia moralne, modlitwy i hymny; można je zaliczyć do rodzaju literackiego zbliżonego do noweli. Łączność z wielką literaturą dydaktyczną Bliskiego Wschodu zapewnia postać Achikara, bohatera międzynarodowej powieści pochodzenia mezopotamskiego, który w księdze występuje jako siostrzeniec Tobiasza-ojca. <br>    Księga Tobiasza została napisana w języku hebrajskim lub raczej aramejskim; w dzisiejszym zbiorze istnieje jedynie w opracowaniu greckim, i to w trzech dość różnych recenzjach. Wśród fragmentów piśmiennictwa qumrańskiego (czwartej groty) znajdują się jej urywki aramejskie i jeden hebrajski. <br>    Czas powstania księgi należy umieścić między III a II w. przed Chr. Wskazują na to specyficzne, mądrościowe tendencje księgi i wzmianka o prawie lewiratu, praktykowanym do końca II w. Z drugiej strony autorowi obca jest jeszcze problematyka polityczna i religijna okresu machabejskiego. Księga Tobiasza należy do pism wtórnokanonicznych zbioru chrześcijańskiego; cytowana jest już w II w. po Chr. <br>    Teologicznym motywem naczelnym opowiadania jest Opatrzność Boża, czuwająca nad Izraelitami, wiernymi Prawu. Cierpienie jest przemijającą próbą zesłaną przez Boga, który wynagradza je tym większą pomyślnością. Rozwijająca się nauka o aniołach (Rafał) i demonach (Asmodeusz) wskazuje na znajomość pierwszych prądów apokaliptycznych (por. także związanie demona i przeniesienie do Egiptu oraz cudowne lekarstwo pochodzące z wnętrzności ryby). Innym wskaźnikiem zaawansowanej teologii judaizmu jest wielka rola uczynków miłosierdzia (grzebanie zmarłych) i ideał harmonijnego, szczęśliwego życia rodzinnego.</p>
 </article>
 <section class="chapter" id="v1">
-<h2><a href="Tb.html">Rozdział 1</a></h2>
+<h2><a href="Tb.html#v1">Rozdział 1</a></h2>
 <div class="verses">
 <h5>Prolog</h5>
 <span class="verse" id="v1_1"><sup class="vn"><a href="#v1_1">1</a></sup>Księga historii Tobiasza<a class="fnref" href="#f-1-1"><sup class="r">※</sup></a>, syna Tobiela, syna Ananiela, syna Aduela, syna Gabaela z rodu Asjela, z pokolenia Neftalego,</span>
@@ -123,7 +169,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v2">
-<h2><a href="Tb.html">Rozdział 2</a></h2>
+<h2><a href="Tb.html#v2">Rozdział 2</a></h2>
 <div class="verses">
 <h5>Ślepota Tobiasza</h5>
 <span class="verse" id="v2_1"><sup class="vn"><a href="#v2_1">1</a></sup>Tak więc za panowania Asarhaddona wróciłem do swego domu i żona moja, Anna, i syn mój, Tobiasz, zostali mi przywróceni. Na naszą Pięćdziesiątnicę, to jest na Święto Tygodni<sup>s</sup>, przygotowano mi wspaniałą ucztę, a ja zająłem miejsce przy stole.</span>
@@ -149,7 +195,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v3">
-<h2><a href="Tb.html">Rozdział 3</a></h2>
+<h2><a href="Tb.html#v3">Rozdział 3</a></h2>
 <div class="verses">
 <h5>Modlitwa Tobiasza o śmierć</h5>
 <span class="verse" id="v3_1"><sup class="vn"><a href="#v3_1">1</a></sup>Wtedy bardzo się zasmuciłem, wzdychałem i płakałem, i zacząłem wśród westchnień tak się modlić:<br></span>
@@ -181,7 +227,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v4">
-<h2><a href="Tb.html">Rozdział 4</a></h2>
+<h2><a href="Tb.html#v4">Rozdział 4</a></h2>
 <div class="verses">
 <h5>Tobiasz młodszy i anioł Rafał</h5>
 <span class="verse" id="v4_1"><sup class="vn"><a href="#v4_1">1</a></sup>Tego dnia Tobiasz przypomniał sobie o pieniądzach, które złożył u Gabaela w Raga w Medii<a class="fnref" href="#f-4-1"><sup class="r">※</sup></a>.</span>
@@ -214,7 +260,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v5">
-<h2><a href="Tb.html">Rozdział 5</a></h2>
+<h2><a href="Tb.html#v5">Rozdział 5</a></h2>
 <div class="verses">
 <span class="verse" id="v5_1"><sup class="vn"><a href="#v5_1">1</a></sup>Wtedy w odpowiedzi Tobiasz rzekł swemu ojcu, Tobiaszowi: «Wszystko, co mi poleciłeś, ojcze, uczynię.</span>
 <span class="verse" id="v5_2"><sup class="vn"><a href="#v5_2">2</a></sup>Ale jak ja będę mógł od niego odebrać pieniądze? Przecież ani on mnie nie zna, ani ja jego nie znam. Jaki dam mu znak, aby mnie rozpoznał i uwierzył mi, i dał mi te pieniądze? Zresztą nie znam dróg wiodących do Medii, aby się tam dostać».</span>
@@ -249,7 +295,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v6">
-<h2><a href="Tb.html">Rozdział 6</a></h2>
+<h2><a href="Tb.html#v6">Rozdział 6</a></h2>
 <div class="verses">
 <h5>W drodze do Medii</h5>
 <span class="verse" id="v6_1"><sup class="vn"><a href="#v6_1">1</a></sup>I poszedł chłopiec, i razem z nim anioł, a także i pies wyszedł z nim i wędrował razem z nimi. Tak podróżowali obaj i zastała ich pierwsza noc, i przenocowali nad rzeką Tygrys.</span>
@@ -283,7 +329,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v7">
-<h2><a href="Tb.html">Rozdział 7</a></h2>
+<h2><a href="Tb.html#v7">Rozdział 7</a></h2>
 <div class="verses">
 <h5>Sara, córka Raguela, żoną Tobiasza</h5>
 <span class="verse" id="v7_1"><sup class="vn"><a href="#v7_1">1</a></sup>Gdy [Tobiasz] wszedł do Ekbatany, rzekł do niego: «Bracie Azariaszu, zaprowadź mnie prosto do naszego brata, Raguela». I przyprowadził go do domu Raguela, i zastali go, jak siedział w bramie dziedzińca, i pierwsi go pozdrowili. A on im odpowiedział: «Serdecznie was pozdrawiam, bracia, i mile witam zdrowych<a class="fnref" href="#f-7-1"><sup class="r">※</sup></a>». I wprowadził ich do swego domu.</span>
@@ -310,7 +356,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v8">
-<h2><a href="Tb.html">Rozdział 8</a></h2>
+<h2><a href="Tb.html#v8">Rozdział 8</a></h2>
 <div class="verses">
 <span class="verse" id="v8_1"><sup class="vn"><a href="#v8_1">1</a></sup>A kiedy skończyli jeść i pić, zapragnęli udać się na nocny spoczynek. Odprowadzono młodzieńca i przyprowadzono go do sypialni.</span>
 <span class="verse" id="v8_2"><sup class="vn"><a href="#v8_2">2</a></sup>Wtedy Tobiasz przypomniał sobie słowa Rafała, wyjął wątrobę i serce ryby z torby, w której je przechowywał, i położył na rozżarzonych węglach do kadzenia.</span>
@@ -340,7 +386,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v9">
-<h2><a href="Tb.html">Rozdział 9</a></h2>
+<h2><a href="Tb.html#v9">Rozdział 9</a></h2>
 <div class="verses">
 <h5>Rafał odbiera dług od Gabaela</h5>
 <span class="verse" id="v9_1"><sup class="vn"><a href="#v9_1">1</a></sup>Potem Tobiasz zawołał Rafała i rzekł do niego:</span>
@@ -355,7 +401,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v10">
-<h2><a href="Tb.html">Rozdział 10</a></h2>
+<h2><a href="Tb.html#v10">Rozdział 10</a></h2>
 <div class="verses">
 <h5>Powrót Tobiasza do domu</h5>
 <span class="verse" id="v10_1"><sup class="vn"><a href="#v10_1">1</a></sup>Tymczasem Tobiasz z dnia na dzień liczył, w ile dni syn jego tam zajdzie i za ile powróci. A kiedy dni te przeminęły, a syn jego nie wracał,</span>
@@ -378,7 +424,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v11">
-<h2><a href="Tb.html">Rozdział 11</a></h2>
+<h2><a href="Tb.html#v11">Rozdział 11</a></h2>
 <div class="verses">
 <h5>Syn uzdrawia ślepotę ojca</h5>
 <span class="verse" id="v11_1"><sup class="vn"><a href="#v11_1">1</a></sup>Kiedy przybliżyli się do Kaserin naprzeciwko Niniwy, Rafał powiedział:</span>
@@ -407,7 +453,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v12">
-<h2><a href="Tb.html">Rozdział 12</a></h2>
+<h2><a href="Tb.html#v12">Rozdział 12</a></h2>
 <div class="verses">
 <h5>Anioł Rafał ujawnia, kim jest</h5>
 <span class="verse" id="v12_1"><sup class="vn"><a href="#v12_1">1</a></sup>A kiedy skończyło się wesele, Tobiasz zawołał swego syna, Tobiasza, i powiedział do niego: «Dziecko, bacz, aby uiścić zapłatę człowiekowi, który wybrał się z tobą w drogę, i dołożyć mu coś jeszcze do zapłaty».</span>
@@ -441,7 +487,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v13">
-<h2><a href="Tb.html">Rozdział 13</a></h2>
+<h2><a href="Tb.html#v13">Rozdział 13</a></h2>
 <div class="verses">
 <h5>Hymn dziękczynny Tobiasza<a class="fnref" href="#f-13-1"><sup class="r">※</sup></a></h5>
 <span class="verse" id="v13_1"><sup class="vn"><a href="#v13_1">1</a></sup>I rzekł [Tobiasz starszy]:<br></span>
@@ -475,7 +521,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v14">
-<h2><a href="Tb.html">Rozdział 14</a></h2>
+<h2><a href="Tb.html#v14">Rozdział 14</a></h2>
 <div class="verses">
 <h5>Dalsze dzieje rodziny Tobiaszów</h5>
 <span class="verse" id="v14_1"><sup class="vn"><a href="#v14_1">1</a></sup>Koniec słów hymnu pochwalnego Tobiasza.</span>
@@ -504,6 +550,20 @@ article.introduction {
 <script>
 (function () {
   'use strict';
+  function fontSize(size) {
+    document.documentElement.style.fontSize = size + 'px';
+    try { localStorage.setItem('btv-font-size', size); } catch (e) {}
+  }
+  var switcher = document.querySelector('.font-switcher');
+  [14, 16, 18, 20, 22].forEach(function (size) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = 'A';
+    b.style.fontSize = size + 'px';
+    b.setAttribute('aria-label', 'Rozmiar czcionki ' + size + ' pikseli');
+    b.addEventListener('click', function () { fontSize(size); });
+    switcher.appendChild(b);
+  });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {

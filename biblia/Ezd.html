@@ -2,45 +2,84 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try{var s=localStorage.getItem('btv-font-size');if(s)document.documentElement.style.fontSize=s+'px';}catch(e){}
+</script>
 <title>Ks. Ezdrasza — Biblia Tysiąclecia (BT-V)</title>
 <style>
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
 body {
   font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   line-height: 1.6;
-  max-width: 42em;
+  max-width: 42rem;
   margin: 0 auto;
-  padding: 1em 1.5em 3em;
+  padding: 1rem 1.5rem 3rem;
   color: #222;
   background: #fff;
 }
+.font-switcher {
+  margin-left: auto;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  border: 1px solid #808080;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.font-switcher button {
+  margin-left: 0.25rem;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+  font-family: inherit;
+}
 nav.toc {
   font-family: -apple-system, 'Segoe UI', sans-serif;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   color: #555;
 }
 nav.toc a {
-  margin-right: 0.45em;
+  margin-right: 0.45rem;
   text-decoration: none;
 }
-h1 { font-size: 1.8em; }
-h2 {
-  font-size: 1.4em;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
+header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
-h1 a, h2 a {
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+h1 { font-size: 1.8rem; }
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+h1 a, h2 a, .site-title a {
   color: inherit;
   text-decoration: none;
 }
-h1 a:hover, h2 a:hover {
+h1 a:hover, h2 a:hover, .site-title a:hover {
   text-decoration: underline;
 }
 sup.vn {
   color: #0000aa;
-  font-size: 0.7em;
-  margin-right: 0.2em;
+  font-size: 0.7rem;
+  margin-right: 0.2rem;
   position: relative;
-  top: -0.2em;
+  top: -0.2rem;
   user-select: none;
 }
 span.verse sup.vn a {
@@ -54,9 +93,9 @@ div.verses {
 span.speaker { font-style: italic; }
 ul.footnotes {
   list-style: none;
-  font-size: 0.85em;
+  font-size: 0.85rem;
   color: #444;
-  padding: 2em 2em 2em 2em;
+  padding: 2rem;
 }
 a.fnref, a.backref { text-decoration: none; }
 ul.footnotes li:target, span.verse:target, span.verse.sel {
@@ -66,26 +105,33 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   padding: 2px;
   transition: background-color 0.5s ease;
 }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  ul.footnotes li:target, span.verse:target, span.verse.sel {
+    transition: none;
+  }
+}
 span.verse, ul.footnotes>li {
-  scroll-margin-top: 1em;
+  scroll-margin-top: 1rem;
 }
 article.introduction {
   background: #fafafa;
   border-left: 3px solid #ddd;
-  padding: 0.5em 1em;
-  margin: 1em 0;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
 }
 </style>
 </head>
 <body>
-<h1><a href="index.html">Ks. Ezdrasza</a></h1>
+<header class="site"><p class="site-title"><a href="index.html">Biblia Tysiąclecia</a></p><div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div></header>
+<h1><a href="Ezd.html">Ks. Ezdrasza</a></h1>
 <nav class="toc">Rozdziały: <a href="#v1">1</a> <a href="#v2">2</a> <a href="#v3">3</a> <a href="#v4">4</a> <a href="#v5">5</a> <a href="#v6">6</a> <a href="#v7">7</a> <a href="#v8">8</a> <a href="#v9">9</a> <a href="#v10">10</a></nav>
-<article class="introduction">
-<h2><a href="Ezd.html">Wstęp do Księgi Ezdrasza i Księgi Nehemiasza</a></h2>
+<article class="introduction" id="i1">
+<h2><a href="Ezd.html#i1">Wstęp do Księgi Ezdrasza i Księgi Nehemiasza</a></h2>
 <p>Księgi te noszą imiona nie autorów, lecz głównych osób w nich działających. Obie należą do protokanonicznych ksiąg historycznych ST, lecz w Biblii hebrajskiej figurują w zbiorze &quot;Pism&quot; (Ketubim) i to przed Księgami Kronik, mimo że ostatnie zdanie z 2 Krn 36,22n stanowi początek Księgi Ezdrasza. Powodem zakłócenia tego porządku chronologicznego był zapewne wzgląd na charakter syntezy dziejowej, jaki mają Księgi Kronik, godnej umieszczenia na końcu. Tymczasem Ezd i Ne - to tylko odcinek dziejów Izraela. <br>    Obie te księgi, stanowiące jedną całość, mieściły się pierwotnie w jednym tomie. Stan ten jest widoczny jeszcze w LXX. Ma ona wprawdzie dwie Księgi Ezdrasza, lecz grecka 1 Ezd jest apokryfem, który Wlg umieszcza w dodatkach na końcu jako 3 Ezd. Natomiast grecka 2 Ezd obejmuje obie te kanoniczne księgi - Ezd i Ne - razem połączone, jak miał pierwotny tekst hebrajski. Wlg Księgę Nehemiasza nazywa też Drugą Ezdrasza. <br>    Tematem obu ksiąg jest odbudowa gminy żydowskiej w Jerozolimie i w Judzie po przybyciu repatriantów z niewoli babilońskiej. Nie mamy tu jednak ciągłej historii, lecz opis szeregu wydarzeń od czasów dekretu Cyrusa z r. 538 przed Chr., zezwalającego uprowadzonym do niewoli Żydom na powrót do Judy, aż do powtórnej działalności Nehemiasza w kraju przodków - w r. 432 przed Chr. Ziemia judzka była wtedy pod panowaniem królów perskich, z których wymienia się w naszych obu księgach: Cyrusa, Dariusza I, Kserksesa I, Artakserksesa I oraz (tylko w rodowodach) ostatniego z królów perskich, Dariusza III. Opowiadanie autora skupia się głównie dokoła trzech najważniejszych spraw: odbudowy świątyni jerozolimskiej, przywrócenia Jerozolimie charakteru miasta zdolnego do obrony, wreszcie ustalenia podstaw prawnych życia repatriantów, czyli narodzin judaizmu. <br>    Księgi omawiane opierają się na następujących źródłach historycznych, potwierdzonych w wielu punktach przez źródła pozabiblijne: na pamiętnikach Ezdrasza i na pamiętnikach Nehemiasza, na oryginalnych dokumentach aramejskich przytoczonych in extenso w tym języku oraz na dużej ilości oryginalnych dokumentów hebrajskich. Dzieło powstało pod koniec IV w. lub w III w. przed Chr. Jeśli zaś urywek z notatką o Dariuszu III nie należy do pierwotnej redakcji, lecz jest późniejszym dodatkiem, to samo dzieło mogło powstać jeszcze wcześniej. Autor jego jest nieznany. Duchem przypomina on autora Kronik. Stąd wielu egzegetów jest zdania, że Księgi Kronik i Księgi Ezdrasza i Nehemiasza pochodzą od tego samego autora. Należy jednak zauważyć mimo podobieństwa ducha również zupełnie odmienne metody redakcyjne w obu grupach ksiąg. Być może uczeń autora Kronik zredagował Ezd i Ne. <br>    Wciąż dyskutowanym zagadnieniem tych ksiąg jest sprawa porządku chronologicznego opisanych wydarzeń, czy mianowicie działalność Nehemiasza zakłada uprzednią działalność Ezdrasza, czy też odwrotnie. <br>    Tekst hebrajski szeregu miejsc przedstawia duże trudności, które próbuje się rozwiązać w rozmaity sposób. <br>    Doniosłość zdarzeń opisanych w Ezd i Ne polega na ukazaniu ważnego etapu dziejów zbawienia: odnowa po karze, jaką była niewola, otwiera nowy etap, który już prowadzi poprzez judaizm do Chrystusa.</p>
 </article>
 <section class="chapter" id="v1">
-<h2><a href="Ezd.html">Rozdział 1</a></h2>
+<h2><a href="Ezd.html#v1">Rozdział 1</a></h2>
 <div class="verses">
 <h4>WYDARZENIA POPRZEDZAJĄCE DZIAŁALNOŚĆ EZDRASZA I NEHEMIASZA</h4>
 <h5>Dekret Cyrusa. Szeszbassar</h5>
@@ -112,7 +158,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v2">
-<h2><a href="Ezd.html">Rozdział 2</a></h2>
+<h2><a href="Ezd.html#v2">Rozdział 2</a></h2>
 <div class="verses">
 <h4>ZOROBABEL</h4>
 <h5>Lista repatriantów</h5>
@@ -205,7 +251,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v3">
-<h2><a href="Ezd.html">Rozdział 3</a></h2>
+<h2><a href="Ezd.html#v3">Rozdział 3</a></h2>
 <div class="verses">
 <h4>DZIAŁALNOŚĆ ZOROBABELA</h4>
 <h5>Odbudowa ołtarza</h5>
@@ -235,7 +281,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v4">
-<h2><a href="Ezd.html">Rozdział 4</a></h2>
+<h2><a href="Ezd.html#v4">Rozdział 4</a></h2>
 <div class="verses">
 <span class="verse" id="v4_1"><sup class="vn"><a href="#v4_1">1</a></sup>Gdy wrogowie Judy i Beniamina usłyszeli, że wygnańcy budują świątynię dla Pana, Boga Izraela,</span>
 <span class="verse" id="v4_2"><sup class="vn"><a href="#v4_2">2</a></sup>przystąpili do Zorobabela, do Jozuego<a class="fnref" href="#f-4-1"><sup class="r">※</sup></a> oraz przedstawicieli rodów i rzekli do nich: «Chcemy budować z wami, albowiem czcimy Boga waszego jak wy i Jemu składamy ofiary od czasów Asarhaddona, króla asyryjskiego, który nas tu sprowadził».</span>
@@ -286,7 +332,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v5">
-<h2><a href="Ezd.html">Rozdział 5</a></h2>
+<h2><a href="Ezd.html#v5">Rozdział 5</a></h2>
 <div class="verses">
 <span class="verse" id="v5_1"><sup class="vn"><a href="#v5_1">1</a></sup>Wtedy Aggeusz i Zachariasz, syn Iddo, prorocy, ogłosili Żydom w Judzie i w Jerozolimie proroctwo<a class="fnref" href="#f-5-1"><sup class="r">※</sup></a> w imieniu Boga Izraela, który nad nimi czuwał.</span>
 <span class="verse" id="v5_2"><sup class="vn"><a href="#v5_2">2</a></sup>Zatem Zorobabel, syn Szealtiela, i Jozue, syn Josadaka, zabrali się do budowy domu Bożego w Jerozolimie, a z nimi byli prorocy Boga, którzy ich zachęcali.<br></span>
@@ -315,7 +361,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v6">
-<h2><a href="Ezd.html">Rozdział 6</a></h2>
+<h2><a href="Ezd.html#v6">Rozdział 6</a></h2>
 <div class="verses">
 <h5>Odszukanie dokumentu z czasów Cyrusa</h5>
 <span class="verse" id="v6_1"><sup class="vn"><a href="#v6_1">1</a></sup>Wtedy król Dariusz kazał szukać w babilońskiej bibliotece, w której przechowuje się też skarby<a class="fnref" href="#f-6-1"><sup class="r">※</sup></a>.</span>
@@ -358,7 +404,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v7">
-<h2><a href="Ezd.html">Rozdział 7</a></h2>
+<h2><a href="Ezd.html#v7">Rozdział 7</a></h2>
 <div class="verses">
 <h4>DZIAŁALNOŚĆ EZDRASZA I NEHEMIASZA</h4>
 <h4>DZIAŁALNOŚĆ EZDRASZA</h4>
@@ -407,7 +453,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v8">
-<h2><a href="Ezd.html">Rozdział 8</a></h2>
+<h2><a href="Ezd.html#v8">Rozdział 8</a></h2>
 <div class="verses">
 <h5>Organizowanie podróży</h5>
 <span class="verse" id="v8_1"><sup class="vn"><a href="#v8_1">1</a></sup>Oto głowy rodów oraz wpisani do rodowodów, którzy za panowania króla Artakserksesa wyszli ze mną z Babilonu:</span>
@@ -462,7 +508,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v9">
-<h2><a href="Ezd.html">Rozdział 9</a></h2>
+<h2><a href="Ezd.html#v9">Rozdział 9</a></h2>
 <div class="verses">
 <h4>SPRAWA MAŁŻEŃSTW MIESZANYCH</h4>
 <h5>Wiadomość o tym i bezpośredni skutek</h5>
@@ -489,7 +535,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v10">
-<h2><a href="Ezd.html">Rozdział 10</a></h2>
+<h2><a href="Ezd.html#v10">Rozdział 10</a></h2>
 <div class="verses">
 <h5>Stanowcze przeciwdziałanie</h5>
 <span class="verse" id="v10_1"><sup class="vn"><a href="#v10_1">1</a></sup>Gdy Ezdrasz, płacząc i klęcząc przed domem Bożym, modlił się i wyznawał grzechy, zebrał się dokoła niego bardzo wielki tłum z Izraela: mężczyzn, kobiet i dzieci, przy czym lud płakał rzewnymi łzami.</span>
@@ -558,6 +604,20 @@ article.introduction {
 <script>
 (function () {
   'use strict';
+  function fontSize(size) {
+    document.documentElement.style.fontSize = size + 'px';
+    try { localStorage.setItem('btv-font-size', size); } catch (e) {}
+  }
+  var switcher = document.querySelector('.font-switcher');
+  [14, 16, 18, 20, 22].forEach(function (size) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = 'A';
+    b.style.fontSize = size + 'px';
+    b.setAttribute('aria-label', 'Rozmiar czcionki ' + size + ' pikseli');
+    b.addEventListener('click', function () { fontSize(size); });
+    switcher.appendChild(b);
+  });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {

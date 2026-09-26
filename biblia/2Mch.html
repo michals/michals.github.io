@@ -2,45 +2,84 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try{var s=localStorage.getItem('btv-font-size');if(s)document.documentElement.style.fontSize=s+'px';}catch(e){}
+</script>
 <title>2 Ks. Machabejska — Biblia Tysiąclecia (BT-V)</title>
 <style>
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
 body {
   font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   line-height: 1.6;
-  max-width: 42em;
+  max-width: 42rem;
   margin: 0 auto;
-  padding: 1em 1.5em 3em;
+  padding: 1rem 1.5rem 3rem;
   color: #222;
   background: #fff;
 }
+.font-switcher {
+  margin-left: auto;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  border: 1px solid #808080;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.font-switcher button {
+  margin-left: 0.25rem;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+  font-family: inherit;
+}
 nav.toc {
   font-family: -apple-system, 'Segoe UI', sans-serif;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   color: #555;
 }
 nav.toc a {
-  margin-right: 0.45em;
+  margin-right: 0.45rem;
   text-decoration: none;
 }
-h1 { font-size: 1.8em; }
-h2 {
-  font-size: 1.4em;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
+header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
-h1 a, h2 a {
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+h1 { font-size: 1.8rem; }
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+h1 a, h2 a, .site-title a {
   color: inherit;
   text-decoration: none;
 }
-h1 a:hover, h2 a:hover {
+h1 a:hover, h2 a:hover, .site-title a:hover {
   text-decoration: underline;
 }
 sup.vn {
   color: #0000aa;
-  font-size: 0.7em;
-  margin-right: 0.2em;
+  font-size: 0.7rem;
+  margin-right: 0.2rem;
   position: relative;
-  top: -0.2em;
+  top: -0.2rem;
   user-select: none;
 }
 span.verse sup.vn a {
@@ -54,9 +93,9 @@ div.verses {
 span.speaker { font-style: italic; }
 ul.footnotes {
   list-style: none;
-  font-size: 0.85em;
+  font-size: 0.85rem;
   color: #444;
-  padding: 2em 2em 2em 2em;
+  padding: 2rem;
 }
 a.fnref, a.backref { text-decoration: none; }
 ul.footnotes li:target, span.verse:target, span.verse.sel {
@@ -66,26 +105,33 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   padding: 2px;
   transition: background-color 0.5s ease;
 }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  ul.footnotes li:target, span.verse:target, span.verse.sel {
+    transition: none;
+  }
+}
 span.verse, ul.footnotes>li {
-  scroll-margin-top: 1em;
+  scroll-margin-top: 1rem;
 }
 article.introduction {
   background: #fafafa;
   border-left: 3px solid #ddd;
-  padding: 0.5em 1em;
-  margin: 1em 0;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
 }
 </style>
 </head>
 <body>
-<h1><a href="index.html">2 Ks. Machabejska</a></h1>
+<header class="site"><p class="site-title"><a href="index.html">Biblia Tysiąclecia</a></p><div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div></header>
+<h1><a href="2Mch.html">2 Ks. Machabejska</a></h1>
 <nav class="toc">Rozdziały: <a href="#v1">1</a> <a href="#v2">2</a> <a href="#v3">3</a> <a href="#v4">4</a> <a href="#v5">5</a> <a href="#v6">6</a> <a href="#v7">7</a> <a href="#v8">8</a> <a href="#v9">9</a> <a href="#v10">10</a> <a href="#v11">11</a> <a href="#v12">12</a> <a href="#v13">13</a> <a href="#v14">14</a> <a href="#v15">15</a></nav>
-<article class="introduction">
-<h2><a href="2Mch.html">Wstęp do Drugiej Księgi Machabejskiej</a></h2>
+<article class="introduction" id="i1">
+<h2><a href="2Mch.html#i1">Wstęp do Drugiej Księgi Machabejskiej</a></h2>
 <p>Druga Księga Machabejska nie jest dalszym ciągiem Pierwszej, lecz niezależnie od niej mówi o tych wypadkach, które były opowiedziane w pierwszych siedmiu rozdziałach 1 Mch. Dzieje w niej zawarte obejmują tylko okres piętnastu lat. 2 Mch pomija szereg tych wydarzeń, o których wiemy z 1 Mch, te jednak, które opisuje, zostały tak zgrupowane, a nawet poprzestawiane, że uwydatnione zostało znaczenie świątyni jerozolimskiej. Mianowicie po profanacji, jakiej dokonał król Antioch IV Epifanes, nastąpiła śmierć króla, a potem - dzięki działalności Judy - oczyszczenie świątyni i ustanowienie święta, które miało je upamiętnić. Drugi zaś raz po bluźnierczej groźbie Nikanora, zapowiadającej zburzenie świątyni, znów dzięki działalności Judy, nastąpiła śmierć bluźniercy, uroczystość i doroczne święto, które również miały głosić chwałę świątyni. <br>    Te dwa święta jerozolimskiej świątyni skupiają wokół siebie materiał wybrany z pięciotomowego dzieła Jazona z Cyreny; do tego dochodzi myśl autora, uwidoczniona w listach umieszczonych na początku Księgi, aby te święta obchodzono również w Egipcie. Myśl ta i nastawienie całego dzieła, obok sankcji Bożej, uwydatnionej w dziejach zarówno przestępców jak i bohaterów, oraz obok wzmianek o życiu przyszłym, stanowią to, co świadczy o religijnym charakterze patetycznej historii opowiedzianej w 2 Mch. Pierwiastki religijne, a mianowicie uwagi i upomnienia autora skierowane bezpośrednio do czytelnika, są tylko rzeczą uboczną. Zajmują one jednak tyle miejsca, że wydaje się, jakoby celem autora było właśnie pouczenie ilustrowane przykładami. <br>    Autor 2 Mch stara się o to, aby czytelnika uczuciowo związać z opisywanymi przez siebie wypadkami. W tym celu jaskrawo oświetla wszystko, o czym opowiada, szuka tragicznych efektów oraz cudownych rozwiązań trudnych sytuacji. Opisując prześladowania tak uwydatnia ich okrucieństwa i bohaterstwo prześladowanych, że czytelnik jest zdumiony wielkością tych postaci, o których czyta. Autor potrafi przy tym przez pomysłowe zestawienie antytez tak zaciekawić czytelnika, że nie zauważa on stylu przesadnego, wyrażającego się w sztucznym nagromadzeniu przymiotników. Do rodzaju literackiego patetycznej historii, którym się posługiwał autor 2 Mch, należało również uwydatnienie mocy niebieskich i cudownego wspomagania bohaterów przez Boga. <br>    2 Mch została napisana w Jerozolimie pomiędzy r. 130 a 125 przed Chr., w języku greckim. Weszła ona tylko do aleksandryjskiego kanonu ksiąg świętych, a stamtąd do ksiąg świętych w Kościele. W egzegezie katolickiej 2 Mch cieszy się dużym szacunkiem ze względu na to, że świadczy lepiej niż inne księgi o religijnych przekonaniach, jakie współcześnie panowały w Palestynie. Niektóre z nich tu po raz pierwszy występują w księgach ST, np. wstawiennictwo zmarłych za żyjącymi i modlitwa żywych za zmarłych.</p>
 </article>
 <section class="chapter" id="v1">
-<h2><a href="2Mch.html">Rozdział 1</a></h2>
+<h2><a href="2Mch.html#v1">Rozdział 1</a></h2>
 <div class="verses">
 <h4>LISTY</h4>
 <h5>Pierwszy list</h5>
@@ -129,7 +175,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v2">
-<h2><a href="2Mch.html">Rozdział 2</a></h2>
+<h2><a href="2Mch.html#v2">Rozdział 2</a></h2>
 <div class="verses">
 <span class="verse" id="v2_1"><sup class="vn"><a href="#v2_1">1</a></sup>W dokumentach można to znaleźć, że prorok Jeremiasz rozkazał, aby ci, którzy byli uprowadzeni do niewoli, wzięli ze sobą ogień. Tak było powiedziane</span>
 <span class="verse" id="v2_2"><sup class="vn"><a href="#v2_2">2</a></sup>i tak prorok przykazał tym, których uprowadzono do niewoli. Dał im Prawo<sup>s</sup>, aby nie zapomnieli przykazań Pana i aby nie zamąciły się ich myśli, kiedy będą widzieli wizerunki [bóstw] złote i srebrne, a wokoło nich ozdoby.</span>
@@ -167,7 +213,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v3">
-<h2><a href="2Mch.html">Rozdział 3</a></h2>
+<h2><a href="2Mch.html#v3">Rozdział 3</a></h2>
 <div class="verses">
 <h4>WYDARZENIA AŻ DO OCZYSZCZENIA ŚWIĄTYNI</h4>
 <h5>Szymon i Oniasz</h5>
@@ -215,7 +261,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v4">
-<h2><a href="2Mch.html">Rozdział 4</a></h2>
+<h2><a href="2Mch.html#v4">Rozdział 4</a></h2>
 <div class="verses">
 <h5>Oniasz u króla Seleukosa</h5>
 <span class="verse" id="v4_1"><sup class="vn"><a href="#v4_1">1</a></sup>Wspomniany już Szymon, który był zdrajcą skarbów i ojczyzny, oskarżył Oniasza, jakoby on działał przeciwko Heliodorowi i był sprawcą tych nieszczęść.</span>
@@ -277,7 +323,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v5">
-<h2><a href="2Mch.html">Rozdział 5</a></h2>
+<h2><a href="2Mch.html#v5">Rozdział 5</a></h2>
 <div class="verses">
 <h5>Jazon i Menelaos</h5>
 <span class="verse" id="v5_1"><sup class="vn"><a href="#v5_1">1</a></sup>W tym czasie Antioch przygotowywał drugą wyprawę przeciwko Egiptowi.</span>
@@ -313,7 +359,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v6">
-<h2><a href="2Mch.html">Rozdział 6</a></h2>
+<h2><a href="2Mch.html#v6">Rozdział 6</a></h2>
 <div class="verses">
 <span class="verse" id="v6_1"><sup class="vn"><a href="#v6_1">1</a></sup>Niedługo potem król posłał pewnego starca z Aten, aby zmuszał Żydów do odstępowania od praw ojczystych i do tego, aby nie postępowali według praw Bożych,</span>
 <span class="verse" id="v6_2"><sup class="vn"><a href="#v6_2">2</a></sup>ale żeby zbezcześcili zarówno świątynię w Jerozolimie, którą mieli przemianować na [świątynię] Zeusa Olimpijskiego, jak i tę na Garizim<sup>s</sup>, którą - jak życzyli sobie mieszkańcy tego miejsca - mieli przemianować na [świątynię] Zeusa Kseniosa.</span>
@@ -351,7 +397,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v7">
-<h2><a href="2Mch.html">Rozdział 7</a></h2>
+<h2><a href="2Mch.html#v7">Rozdział 7</a></h2>
 <div class="verses">
 <h5>Męczeństwo siedmiu braci i ich matki</h5>
 <span class="verse" id="v7_1"><sup class="vn"><a href="#v7_1">1</a></sup>Siedmiu braci razem z matką również zostało schwytanych. Bito ich biczami i rzemieniami, gdyż król chciał ich zmusić, aby skosztowali wieprzowiny zakazanej przez Prawo<sup>s</sup>.</span>
@@ -399,7 +445,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v8">
-<h2><a href="2Mch.html">Rozdział 8</a></h2>
+<h2><a href="2Mch.html#v8">Rozdział 8</a></h2>
 <div class="verses">
 <h5>Działalność Judy Machabeusza</h5>
 <span class="verse" id="v8_1"><sup class="vn"><a href="#v8_1">1</a></sup>Juda, zwany też Machabeuszem, i jego ludzie potajemnie przychodzili do wiosek, przywoływali do siebie i zabierali ze sobą krewnych oraz tych, którzy trwali w judaizmie. Zebrali blisko sześć tysięcy ludzi.</span>
@@ -444,7 +490,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v9">
-<h2><a href="2Mch.html">Rozdział 9</a></h2>
+<h2><a href="2Mch.html#v9">Rozdział 9</a></h2>
 <div class="verses">
 <h5>Ostatnie dni Antiocha IV Epifanesa</h5>
 <span class="verse" id="v9_1"><sup class="vn"><a href="#v9_1">1</a></sup>W tym czasie Antioch wracał niesławnie z miast położonych w Persji.</span>
@@ -479,7 +525,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v10">
-<h2><a href="2Mch.html">Rozdział 10</a></h2>
+<h2><a href="2Mch.html#v10">Rozdział 10</a></h2>
 <div class="verses">
 <h5>Oczyszczenie świątyni</h5>
 <span class="verse" id="v10_1"><sup class="vn"><a href="#v10_1">1</a></sup>Machabeusz, a z nim jego ludzie, za przewodem Pana, odzyskali świątynię i miasto,</span>
@@ -526,7 +572,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v11">
-<h2><a href="2Mch.html">Rozdział 11</a></h2>
+<h2><a href="2Mch.html#v11">Rozdział 11</a></h2>
 <div class="verses">
 <h5>Wyprawa Lizjasza</h5>
 <span class="verse" id="v11_1"><sup class="vn"><a href="#v11_1">1</a></sup>W krótki czas potem Lizjasz, opiekun króla, krewny i wielkorządca, głęboko dotknięty tym, co się stało,</span>
@@ -570,7 +616,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v12">
-<h2><a href="2Mch.html">Rozdział 12</a></h2>
+<h2><a href="2Mch.html#v12">Rozdział 12</a></h2>
 <div class="verses">
 <h5>Jafa i Jamnia</h5>
 <span class="verse" id="v12_1"><sup class="vn"><a href="#v12_1">1</a></sup>Kiedy układy zostały zawarte, Lizjasz udał się do króla. Żydzi zaś zajęli się pracą na roli.</span>
@@ -624,7 +670,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v13">
-<h2><a href="2Mch.html">Rozdział 13</a></h2>
+<h2><a href="2Mch.html#v13">Rozdział 13</a></h2>
 <div class="verses">
 <h5>Wyprawa Lizjasza i śmierć Menelaosa</h5>
 <span class="verse" id="v13_1"><sup class="vn"><a href="#v13_1">1</a></sup>W sto czterdziestym dziewiątym roku doszło do żołnierzy Judy, że Antioch Eupator wyruszył z wojskiem przeciwko Judei</span>
@@ -657,7 +703,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v14">
-<h2><a href="2Mch.html">Rozdział 14</a></h2>
+<h2><a href="2Mch.html#v14">Rozdział 14</a></h2>
 <div class="verses">
 <h5>Alkimos</h5>
 <span class="verse" id="v14_1"><sup class="vn"><a href="#v14_1">1</a></sup>Po upływie trzech lat doszła do otoczenia Judy wiadomość, że Demetriusz, syn Seleukosa, wylądował z silnym wojskiem i flotą w porcie Trypolis,</span>
@@ -713,7 +759,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v15">
-<h2><a href="2Mch.html">Rozdział 15</a></h2>
+<h2><a href="2Mch.html#v15">Rozdział 15</a></h2>
 <div class="verses">
 <h5>Przygotowanie do bitwy</h5>
 <span class="verse" id="v15_1"><sup class="vn"><a href="#v15_1">1</a></sup>Nikanor dowiedział się, że żołnierze Judy znajdują się w okolicy Samarii. Rozkazał więc, aby w dniu odpoczynku, spokojni o swoje bezpieczeństwo, na nich napadli.</span>
@@ -762,6 +808,20 @@ article.introduction {
 <script>
 (function () {
   'use strict';
+  function fontSize(size) {
+    document.documentElement.style.fontSize = size + 'px';
+    try { localStorage.setItem('btv-font-size', size); } catch (e) {}
+  }
+  var switcher = document.querySelector('.font-switcher');
+  [14, 16, 18, 20, 22].forEach(function (size) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = 'A';
+    b.style.fontSize = size + 'px';
+    b.setAttribute('aria-label', 'Rozmiar czcionki ' + size + ' pikseli');
+    b.addEventListener('click', function () { fontSize(size); });
+    switcher.appendChild(b);
+  });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {

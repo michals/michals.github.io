@@ -2,45 +2,84 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try{var s=localStorage.getItem('btv-font-size');if(s)document.documentElement.style.fontSize=s+'px';}catch(e){}
+</script>
 <title>2 Ks. Kronik — Biblia Tysiąclecia (BT-V)</title>
 <style>
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
 body {
   font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   line-height: 1.6;
-  max-width: 42em;
+  max-width: 42rem;
   margin: 0 auto;
-  padding: 1em 1.5em 3em;
+  padding: 1rem 1.5rem 3rem;
   color: #222;
   background: #fff;
 }
+.font-switcher {
+  margin-left: auto;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  border: 1px solid #808080;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.font-switcher button {
+  margin-left: 0.25rem;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+  font-family: inherit;
+}
 nav.toc {
   font-family: -apple-system, 'Segoe UI', sans-serif;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   color: #555;
 }
 nav.toc a {
-  margin-right: 0.45em;
+  margin-right: 0.45rem;
   text-decoration: none;
 }
-h1 { font-size: 1.8em; }
-h2 {
-  font-size: 1.4em;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
+header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
-h1 a, h2 a {
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+h1 { font-size: 1.8rem; }
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+h1 a, h2 a, .site-title a {
   color: inherit;
   text-decoration: none;
 }
-h1 a:hover, h2 a:hover {
+h1 a:hover, h2 a:hover, .site-title a:hover {
   text-decoration: underline;
 }
 sup.vn {
   color: #0000aa;
-  font-size: 0.7em;
-  margin-right: 0.2em;
+  font-size: 0.7rem;
+  margin-right: 0.2rem;
   position: relative;
-  top: -0.2em;
+  top: -0.2rem;
   user-select: none;
 }
 span.verse sup.vn a {
@@ -54,9 +93,9 @@ div.verses {
 span.speaker { font-style: italic; }
 ul.footnotes {
   list-style: none;
-  font-size: 0.85em;
+  font-size: 0.85rem;
   color: #444;
-  padding: 2em 2em 2em 2em;
+  padding: 2rem;
 }
 a.fnref, a.backref { text-decoration: none; }
 ul.footnotes li:target, span.verse:target, span.verse.sel {
@@ -66,26 +105,33 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   padding: 2px;
   transition: background-color 0.5s ease;
 }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  ul.footnotes li:target, span.verse:target, span.verse.sel {
+    transition: none;
+  }
+}
 span.verse, ul.footnotes>li {
-  scroll-margin-top: 1em;
+  scroll-margin-top: 1rem;
 }
 article.introduction {
   background: #fafafa;
   border-left: 3px solid #ddd;
-  padding: 0.5em 1em;
-  margin: 1em 0;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
 }
 </style>
 </head>
 <body>
-<h1><a href="index.html">2 Ks. Kronik</a></h1>
+<header class="site"><p class="site-title"><a href="index.html">Biblia Tysiąclecia</a></p><div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div></header>
+<h1><a href="2Krn.html">2 Ks. Kronik</a></h1>
 <nav class="toc">Rozdziały: <a href="#v1">1</a> <a href="#v2">2</a> <a href="#v3">3</a> <a href="#v4">4</a> <a href="#v5">5</a> <a href="#v6">6</a> <a href="#v7">7</a> <a href="#v8">8</a> <a href="#v9">9</a> <a href="#v10">10</a> <a href="#v11">11</a> <a href="#v12">12</a> <a href="#v13">13</a> <a href="#v14">14</a> <a href="#v15">15</a> <a href="#v16">16</a> <a href="#v17">17</a> <a href="#v18">18</a> <a href="#v19">19</a> <a href="#v20">20</a> <a href="#v21">21</a> <a href="#v22">22</a> <a href="#v23">23</a> <a href="#v24">24</a> <a href="#v25">25</a> <a href="#v26">26</a> <a href="#v27">27</a> <a href="#v28">28</a> <a href="#v29">29</a> <a href="#v30">30</a> <a href="#v31">31</a> <a href="#v32">32</a> <a href="#v33">33</a> <a href="#v34">34</a> <a href="#v35">35</a> <a href="#v36">36</a></nav>
-<article class="introduction">
-<h2><a href="2Krn.html">Wstęp do Ksiąg Kronik</a></h2>
+<article class="introduction" id="i1">
+<h2><a href="2Krn.html#i1">Wstęp do Ksiąg Kronik</a></h2>
 <p>Te dwie księgi, które tekst hebrajski nazywa Dibre Hajjamim (wydarzenia dni), a Wlg za LXX - Paralipomena (rzeczy opuszczone), stanowiły w oryginale jedną księgę. Obecnie uważa się nawet, że obie Księgi Kronik stanowiły tylko część jeszcze większego dzieła, obejmującego również Księgę Ezdrasza i Nehemiasza. Nazwa &quot;Kroniki&quot;, przyjęta w większości nowożytnych języków, pochodzi od św. Hieronima, który nazwał je &quot;Kroniką całej historii świętej&quot;. Księgi bowiem opisują dzieje całej ludzkości od Adama i początków Narodu Wybranego aż do zakończenia niewoli babilońskiej w r. 538 przed Chr., podając wiele szczegółów, które w innych księgach ST zostały opuszczone. <br>    Zaznaczyć jednak należy, że Kroniki nie są dziełem historyka, lecz teologa, który w przeszłości swego narodu szukał światła i wzorów dla religijnego życia swoich współwyznawców, opuszczając, modyfikując lub dodając to, co odpowiadało jego koncepcji idealnej społeczności teokratycznej. Takie doskonałe wzory widział Autor w postaciach Dawida i Salomona, im też poświęcił większą część swego dzieła. <br>    Od Adama do Dawida są to prawie same rodowody, zaczerpnięte z kodeksu kapłańskiego Pięcioksięgu i ksiąg Jozuego, Samuela i Królewskich, przedstawione w świetle korzystnym dla pokolenia Judy, przodków Dawida, Lewitów i mieszkańców Jerozolimy i pomyślane jako odpowiedni wstęp do dziejów Dawida (1 Krn rozdz. 1-9 [-&gt;1 Krn 1,1]). Szczegółowo zaś opisane jest panowanie Dawida (1 Krn rozdz. 10-20 [-&gt;1 Krn 10,1]) i panowanie Salomona (2 Krn rozdz. 1-9 [-&gt;2 Krn 1,1]) z pominięciem wszystkich wydarzeń kompromitujących tych królów, jak cudzołóstwo Dawida z Batszebą i zamordowanie jej męża Uriasza (2 Sm 2,2-17), niewierność Salomona wobec Pana (1 Krl 11,4-8), a po podziale królestwa - tylko królów judzkich z dynastii Dawidowej, ze szczególnym uwzględnieniem królów wiernych przymierzu z Panem, pobożnych i religijnych na wzór Dawida, jak np. Ezechiasz i Jozjasz, którzy dbali o świątynię, kapłanów i lewitów (2 Krn rozdz. 10-36 [-&gt;2 Krn 10,1]). <br>    -1-2 Krn zostały napisane po niewoli babilońskiej (2 Krn 36,22n). Według tradycji izraelskiej autorem ich był Ezdrasz po jego powrocie z grupą wygnańców babilońskich w r. 458 przed Chr. Najprawdopodobniej jednak autorem był nieznany lewita z późniejszego okresu: 350-250 przed Chr., skoro pierwsza księga zna jedenaście pokoleń po Zorobabelu (1 Krn 3,19-24) i pozwala sobie na anachronizm w związku z monetą perską, darejkiem (1 Krn 29,7). 1-2 Krn powstały jednak nie później niż w III w., ponieważ Syracydes (200-180 przed Chr.) wykazuje już zależność od nich (por. Syr 47,11 z 1 Krn 16,4; 1 Krn 23,30-32; 1 Krn 25,1-7). <br>    Historyczna wiarygodność, potwierdzona w wielu punktach przez najnowsze badania, nie może być podawana w wątpliwość. Materiały, które Autor zebrał, są w istocie te same, co w innych księgach historycznych Pisma św., tylko przedstawione z punktu widzenia teologa-deuteronomisty. Oprócz tradycji ustnej kronikarz używał różnych źródeł pisanych, zarówno biblijnych (zob. wyżej), jak i pozabiblijnych. Z pozabiblijnych znał przynajmniej czternaście źródeł, które wprawdzie nie zachowały się do naszych czasów, ale Autor je wymienia: w 1 Krn 4,22; 1 Krn 9,1; 1 Krn 27,24; 1 Krn 29,29; 2 Krn 9,29; 2 Krn 12,15; 2 Krn 13,22; 2 Krn 16,11; 2 Krn 20,34; 2 Krn 24,27; 2 Krn 25,26; 2 Krn 26,22; 2 Krn 27,7; 2 Krn 28,26; 2 Krn 32,32; 2 Krn 33,18n; 2 Krn 35,25nn; 2 Krn 36,8. Były to dzieje królów judzkich czy izraelskich oraz pisma niekanoniczne ośmiu proroków. <br>    Autorowi przyświecał podwójny cel: religijny i polityczny. Chciał on nawrócić swoich religijnie obojętnych współwyznawców, wykazując, że pomyślność i szczęście Izraelitów zależało od ich lojalności względem Boga, od wierności narodu wobec przymierza z Panem, od posłuszeństwa Prawu Mojżeszowemu i wiernego przestrzegania przepisów obrzędowych, obowiązujących w świątyni jerozolimskiej. Wskazując zaś na świetną przeszłość królestwa Dawidowego i podkreślając znaczenie dynastii Dawida i obietnic z nią związanych, pragnął Autor podnieść na duchu swych rodaków. Choć po powrocie z niewoli babilońskiej nie uzyskali oni narodowej niepodległości, to przecież Bóg może wskrzesić nowego Dawida, byleby Izraelici pozostali wierni Bogu. <br>    W LXX i Wlg Księgi Kronik następują bezpośrednio po Księgach Królewskich, w Biblii hebrajskiej zaś na samym końcu jako ostatnie z tzw. Ketubim, czyli &quot;Pism&quot;, stanowiąc ostatnie księgi święte ST. <br>    W odtworzeniu tekstu oryginalnego Kronik, który ma dużo niedokładności i skażeń w zachowanym tekście masoreckim, znaczne usługi oddają starożytne tłumaczenia LXX i Wlg, ponieważ zostały one dokonane z tekstu hebrajskiego spółgłoskowego.</p>
 </article>
 <section class="chapter" id="v1">
-<h2><a href="2Krn.html">Rozdział 1</a></h2>
+<h2><a href="2Krn.html#v1">Rozdział 1</a></h2>
 <div class="verses">
 <h4>SALOMON</h4>
 <h5>Salomon składa Bogu ofiary i modli się o mądrość</h5>
@@ -110,7 +156,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v2">
-<h2><a href="2Krn.html">Rozdział 2</a></h2>
+<h2><a href="2Krn.html#v2">Rozdział 2</a></h2>
 <div class="verses">
 <h5>Ostatnie przygotowania do budowy świątyni</h5>
 <span class="verse" id="v2_1"><sup class="vn"><a href="#v2_1">1</a></sup>Odliczył potem Salomon siedemdziesiąt tysięcy mężczyzn do dźwigania i osiemdziesiąt tysięcy do wydobywania kamienia w górach, a nadzorców nad nimi - trzy tysiące sześciuset.</span>
@@ -133,7 +179,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v3">
-<h2><a href="2Krn.html">Rozdział 3</a></h2>
+<h2><a href="2Krn.html#v3">Rozdział 3</a></h2>
 <div class="verses">
 <h5>Budowa świątyni i jej wystrój</h5>
 <span class="verse" id="v3_1"><sup class="vn"><a href="#v3_1">1</a></sup>Wreszcie Salomon zaczął budować dom Pański w Jerozolimie na górze Moria, która została wskazana jego ojcu, Dawidowi, w miejscu, jakie przygotował Dawid na klepisku Ornana Jebusyty.</span>
@@ -156,7 +202,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v4">
-<h2><a href="2Krn.html">Rozdział 4</a></h2>
+<h2><a href="2Krn.html#v4">Rozdział 4</a></h2>
 <div class="verses">
 <h5>Sprzęty świątynne</h5>
 <span class="verse" id="v4_1"><sup class="vn"><a href="#v4_1">1</a></sup>Uczynił też ołtarz z brązu, długi na dwadzieścia łokci<sup>s</sup>, szeroki na dwadzieścia łokci, a na dziesięć łokci wysoki.</span>
@@ -184,7 +230,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v5">
-<h2><a href="2Krn.html">Rozdział 5</a></h2>
+<h2><a href="2Krn.html#v5">Rozdział 5</a></h2>
 <div class="verses">
 <h5>Przeniesienie Arki Przymierza</h5>
 <span class="verse" id="v5_1"><sup class="vn"><a href="#v5_1">1</a></sup>Tak ukończono całą robotę, której dokonał Salomon w domu Pańskim. Potem Salomon przyniósł i umieścił w skarbcu domu Bożego święte dary swego ojca, Dawida: srebro, złoto i wszystkie sprzęty.</span>
@@ -205,7 +251,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v6">
-<h2><a href="2Krn.html">Rozdział 6</a></h2>
+<h2><a href="2Krn.html#v6">Rozdział 6</a></h2>
 <div class="verses">
 <h5>Przemówienie Salomona do ludu</h5>
 <span class="verse" id="v6_1"><sup class="vn"><a href="#v6_1">1</a></sup>Wtedy przemówił Salomon:<br>«Pan powiedział, że będzie mieszkać w czarnej chmurze.<br></span>
@@ -254,7 +300,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v7">
-<h2><a href="2Krn.html">Rozdział 7</a></h2>
+<h2><a href="2Krn.html#v7">Rozdział 7</a></h2>
 <div class="verses">
 <h5>Poświęcenie świątyni</h5>
 <span class="verse" id="v7_1"><sup class="vn"><a href="#v7_1">1</a></sup>Skoro Salomon zakończył modlitwę, spadł ogień z nieba i strawił całopalenie oraz żertwy, a chwała Pańska wypełniła dom.</span>
@@ -283,7 +329,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v8">
-<h2><a href="2Krn.html">Rozdział 8</a></h2>
+<h2><a href="2Krn.html#v8">Rozdział 8</a></h2>
 <div class="verses">
 <h5>Odbudowa wielu miast</h5>
 <span class="verse" id="v8_1"><sup class="vn"><a href="#v8_1">1</a></sup>Po upływie dwudziestu lat, w ciągu których Salomon zbudował dom Pański i pałac dla siebie,</span>
@@ -309,7 +355,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v9">
-<h2><a href="2Krn.html">Rozdział 9</a></h2>
+<h2><a href="2Krn.html#v9">Rozdział 9</a></h2>
 <div class="verses">
 <h5>Odwiedziny królowej Saby</h5>
 <span class="verse" id="v9_1"><sup class="vn"><a href="#v9_1">1</a></sup>Również i królowa Saby, usłyszawszy o sławie Salomona, przybyła, aby przez roztrząsanie trudnych zagadnień wypróbować Salomona w Jerozolimie. [Przybyła] ze świetnym orszakiem, z wielbłądami dźwigającymi wonności i bardzo dużo złota oraz drogocennych kamieni. Następnie przyszła do Salomona i odbyła z nim rozmowę o wszystkim, co postanowiła.</span>
@@ -348,7 +394,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v10">
-<h2><a href="2Krn.html">Rozdział 10</a></h2>
+<h2><a href="2Krn.html#v10">Rozdział 10</a></h2>
 <div class="verses">
 <h4>HISTORIA NASTĘPCÓW SALOMONA</h4>
 <h5>Rozłam królestwa za Roboama</h5>
@@ -374,7 +420,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v11">
-<h2><a href="2Krn.html">Rozdział 11</a></h2>
+<h2><a href="2Krn.html#v11">Rozdział 11</a></h2>
 <div class="verses">
 <h5>Rządy Roboama</h5>
 <span class="verse" id="v11_1"><sup class="vn"><a href="#v11_1">1</a></sup>Roboam, przybywszy do Jerozolimy, zebrał potomków Judy i Beniamina, to jest sto osiemdziesiąt tysięcy wyborowych wojowników, aby wszcząć wojnę z Izraelem o przywrócenie władzy królewskiej Roboamowi.</span>
@@ -403,7 +449,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v12">
-<h2><a href="2Krn.html">Rozdział 12</a></h2>
+<h2><a href="2Krn.html#v12">Rozdział 12</a></h2>
 <div class="verses">
 <h5>Niewierność Roboama</h5>
 <span class="verse" id="v12_1"><sup class="vn"><a href="#v12_1">1</a></sup>Gdy się utwierdziło i umocniło panowanie Roboama, porzucił on Prawo Pańskie, a z nim cały Izrael.</span>
@@ -425,7 +471,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v13">
-<h2><a href="2Krn.html">Rozdział 13</a></h2>
+<h2><a href="2Krn.html#v13">Rozdział 13</a></h2>
 <div class="verses">
 <h5>Abiasz wojuje z Jeroboamem</h5>
 <span class="verse" id="v13_1"><sup class="vn"><a href="#v13_1">1</a></sup>Abiasz objął rządy w Judzie w osiemnastym roku [panowania] króla Jeroboama.</span>
@@ -454,7 +500,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v14">
-<h2><a href="2Krn.html">Rozdział 14</a></h2>
+<h2><a href="2Krn.html#v14">Rozdział 14</a></h2>
 <div class="verses">
 <h5>Asa tępi bałwochwalstwo</h5>
 <span class="verse" id="v14_1"><sup class="vn"><a href="#v14_1">1</a></sup>Asa czynił to, co jest dobre i słuszne w oczach Pana, Boga jego.</span>
@@ -474,7 +520,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v15">
-<h2><a href="2Krn.html">Rozdział 15</a></h2>
+<h2><a href="2Krn.html#v15">Rozdział 15</a></h2>
 <div class="verses">
 <h5>Przestrogi proroka Azariasza</h5>
 <span class="verse" id="v15_1"><sup class="vn"><a href="#v15_1">1</a></sup>A duch Boży spoczął na Azariaszu, synu Odeda.</span>
@@ -499,7 +545,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v16">
-<h2><a href="2Krn.html">Rozdział 16</a></h2>
+<h2><a href="2Krn.html#v16">Rozdział 16</a></h2>
 <div class="verses">
 <h5>Asa przeciw Baszy</h5>
 <span class="verse" id="v16_1"><sup class="vn"><a href="#v16_1">1</a></sup>W trzydziestym szóstym roku panowania Asy powstał przeciw Judzie Basza, król Izraela. Zaczął umacniać on Rama, aby zamknąć królowi judzkiemu, Asie, drogę wyjścia i wejścia.</span>
@@ -519,7 +565,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v17">
-<h2><a href="2Krn.html">Rozdział 17</a></h2>
+<h2><a href="2Krn.html#v17">Rozdział 17</a></h2>
 <div class="verses">
 <h5>Rządy Jozafata judzkiego</h5>
 <span class="verse" id="v17_1"><sup class="vn"><a href="#v17_1">1</a></sup>Jego syn, Jozafat, został w jego miejsce królem i umocnił się przeciwko Izraelowi.</span>
@@ -544,7 +590,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v18">
-<h2><a href="2Krn.html">Rozdział 18</a></h2>
+<h2><a href="2Krn.html#v18">Rozdział 18</a></h2>
 <div class="verses">
 <h5>Sojusz Jozafata z Achabem</h5>
 <span class="verse" id="v18_1"><sup class="vn"><a href="#v18_1">1</a></sup>Jozafat stał się bardzo bogaty i sławny, a spowinowacił się z Achabem.</span>
@@ -584,7 +630,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v19">
-<h2><a href="2Krn.html">Rozdział 19</a></h2>
+<h2><a href="2Krn.html#v19">Rozdział 19</a></h2>
 <div class="verses">
 <h5>Prorok Jehu upomina króla Jozafata</h5>
 <span class="verse" id="v19_1"><sup class="vn"><a href="#v19_1">1</a></sup>Król judzki, Jozafat, zdrów i cały wracał do Jerozolimy, do domu.</span>
@@ -601,7 +647,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v20">
-<h2><a href="2Krn.html">Rozdział 20</a></h2>
+<h2><a href="2Krn.html#v20">Rozdział 20</a></h2>
 <div class="verses">
 <h5>Skuteczność modlitwy Jozafata</h5>
 <span class="verse" id="v20_1"><sup class="vn"><a href="#v20_1">1</a></sup>Potem Moabici i Ammonici, a z nimi część spośród Meunitów, wtargnęli, aby walczyć przeciw Jozafatowi.</span>
@@ -644,7 +690,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v21">
-<h2><a href="2Krn.html">Rozdział 21</a></h2>
+<h2><a href="2Krn.html#v21">Rozdział 21</a></h2>
 <div class="verses">
 <h5>Zbrodnie Jorama i kara za nie</h5>
 <span class="verse" id="v21_1"><sup class="vn"><a href="#v21_1">1</a></sup>Jozafat spoczął ze swoimi przodkami i został pochowany przy swoich przodkach w Mieście Dawidowym, a jego syn, Joram, został w jego miejsce królem.</span>
@@ -670,7 +716,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v22">
-<h2><a href="2Krn.html">Rozdział 22</a></h2>
+<h2><a href="2Krn.html#v22">Rozdział 22</a></h2>
 <div class="verses">
 <h5>Rządy Ochozjasza</h5>
 <span class="verse" id="v22_1"><sup class="vn"><a href="#v22_1">1</a></sup>Na jego miejsce mieszkańcy Jerozolimy obrali królem najmłodszego jego syna, Ochozjasza, wszystkich bowiem starszych braci wymordowała zgraja, która z Arabami weszła do obozu. Został więc królem Ochozjasz, syn Jorama, króla judzkiego.</span>
@@ -689,7 +735,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v23">
-<h2><a href="2Krn.html">Rozdział 23</a></h2>
+<h2><a href="2Krn.html#v23">Rozdział 23</a></h2>
 <div class="verses">
 <h5>Zamach stanu przeciw Atalii - Joasz królem</h5>
 <span class="verse" id="v23_1"><sup class="vn"><a href="#v23_1">1</a></sup>W siódmym roku Jojada nabrał otuchy i wciągnął do spisku setników: Azariasza, syna Jerochama; Izmaela, syna Jochanana; Azariasza, syna Obeda; Maasejasza, syna Adajasza, i Elisafata, syna Zikriego.</span>
@@ -716,7 +762,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v24">
-<h2><a href="2Krn.html">Rozdział 24</a></h2>
+<h2><a href="2Krn.html#v24">Rozdział 24</a></h2>
 <div class="verses">
 <h5>Joasz odnawia świątynię</h5>
 <span class="verse" id="v24_1"><sup class="vn"><a href="#v24_1">1</a></sup>W chwili objęcia rządów Joasz miał siedem lat i panował czterdzieści lat w Jerozolimie. Matka jego miała na imię Sibia z Beer-Szeby.</span>
@@ -750,7 +796,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v25">
-<h2><a href="2Krn.html">Rozdział 25</a></h2>
+<h2><a href="2Krn.html#v25">Rozdział 25</a></h2>
 <div class="verses">
 <h5>Połowiczna pobożność Amazjasza</h5>
 <span class="verse" id="v25_1"><sup class="vn"><a href="#v25_1">1</a></sup>Dwadzieścia pięć lat miał Amazjasz w chwili objęcia rządów, a panował w Jerozolimie dwadzieścia dziewięć lat. Matka jego miała na imię Joaddan i była z Jerozolimy.</span>
@@ -784,7 +830,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v26">
-<h2><a href="2Krn.html">Rozdział 26</a></h2>
+<h2><a href="2Krn.html#v26">Rozdział 26</a></h2>
 <div class="verses">
 <h5>Gospodarność i potęga wojskowa Ozjasza</h5>
 <span class="verse" id="v26_1"><sup class="vn"><a href="#v26_1">1</a></sup>Cały naród Judy wziął Ozjasza, który miał wtedy szesnaście lat, i uczynił go królem w miejsce jego ojca, Amazjasza.</span>
@@ -814,7 +860,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v27">
-<h2><a href="2Krn.html">Rozdział 27</a></h2>
+<h2><a href="2Krn.html#v27">Rozdział 27</a></h2>
 <div class="verses">
 <h5>Rządy Jotama</h5>
 <span class="verse" id="v27_1"><sup class="vn"><a href="#v27_1">1</a></sup>Jotam w chwili objęcia rządów miał dwadzieścia pięć lat, a szesnaście lat panował w Jerozolimie. Matka jego, córka Sadoka, miała na imię Jerusza.</span>
@@ -829,7 +875,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v28">
-<h2><a href="2Krn.html">Rozdział 28</a></h2>
+<h2><a href="2Krn.html#v28">Rozdział 28</a></h2>
 <div class="verses">
 <h5>Odstępstwo Achaza</h5>
 <span class="verse" id="v28_1"><sup class="vn"><a href="#v28_1">1</a></sup>Achaz w chwili objęcia rządów miał dwadzieścia lat, a szesnaście lat panował w Jerozolimie. Nie czynił on tego, co jest słuszne w oczach Pańskich, tak jak czynił jego praojciec, Dawid,</span>
@@ -865,7 +911,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v29">
-<h2><a href="2Krn.html">Rozdział 29</a></h2>
+<h2><a href="2Krn.html#v29">Rozdział 29</a></h2>
 <div class="verses">
 <h5>Oczyszczenie świątyni za Ezechiasza</h5>
 <span class="verse" id="v29_1"><sup class="vn"><a href="#v29_1">1</a></sup>Ezechiasz objął rządy, mając dwadzieścia pięć lat, a panował dwadzieścia dziewięć lat w Jerozolimie. Jego matka, córka Zachariasza, miała na imię Abbijja.</span>
@@ -907,7 +953,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v30">
-<h2><a href="2Krn.html">Rozdział 30</a></h2>
+<h2><a href="2Krn.html#v30">Rozdział 30</a></h2>
 <div class="verses">
 <h5>Zaproszenie na Paschę</h5>
 <span class="verse" id="v30_1"><sup class="vn"><a href="#v30_1">1</a></sup>Ezechiasz wysłał posłów do całego Izraela i Judy, a do Efraima i Manassesa napisał także listy, żeby przybyli do domu Pańskiego w Jerozolimie, aby odprawić Paschę<sup>s</sup> ku czci Pana, Boga Izraela.</span>
@@ -941,7 +987,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v31">
-<h2><a href="2Krn.html">Rozdział 31</a></h2>
+<h2><a href="2Krn.html#v31">Rozdział 31</a></h2>
 <div class="verses">
 <h5>Reorganizacja służby Bożej</h5>
 <span class="verse" id="v31_1"><sup class="vn"><a href="#v31_1">1</a></sup>Kiedy to wszystko się zakończyło, wszyscy Izraelici, którzy tam byli, udali się do miast Judy i zniszczyli stele<sup>s</sup>, połamali aszery<sup>s</sup>, znieśli całkowicie wyżyny<sup>s</sup> i ołtarze w całej ziemi Judy i Beniamina, Efraima i Manassesa. Potem powrócili wszyscy Izraelici do swych miast, każdy do swej posiadłości.</span>
@@ -968,7 +1014,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v32">
-<h2><a href="2Krn.html">Rozdział 32</a></h2>
+<h2><a href="2Krn.html#v32">Rozdział 32</a></h2>
 <div class="verses">
 <h5>Najazd i klęska Sennacheryba</h5>
 <span class="verse" id="v32_1"><sup class="vn"><a href="#v32_1">1</a></sup>Po tych wydarzeniach i po tych dowodach wierności nadciągnął Sennacheryb, król asyryjski. Przybył do Judy, oblegał warowne miasta i rozkazał je zdobyć.</span>
@@ -1009,7 +1055,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v33">
-<h2><a href="2Krn.html">Rozdział 33</a></h2>
+<h2><a href="2Krn.html#v33">Rozdział 33</a></h2>
 <div class="verses">
 <h5>Odstępstwo Manassesa</h5>
 <span class="verse" id="v33_1"><sup class="vn"><a href="#v33_1">1</a></sup>W chwili objęcia rządów Manasses miał dwanaście lat, a panował pięćdziesiąt pięć lat w Jerozolimie.</span>
@@ -1042,7 +1088,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v34">
-<h2><a href="2Krn.html">Rozdział 34</a></h2>
+<h2><a href="2Krn.html#v34">Rozdział 34</a></h2>
 <div class="verses">
 <h5>Odrodzenie religijne za Jozjasza</h5>
 <span class="verse" id="v34_1"><sup class="vn"><a href="#v34_1">1</a></sup>W chwili objęcia rządów Jozjasz miał osiem lat, a panował trzydzieści jeden lat w Jerozolimie.</span>
@@ -1084,7 +1130,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v35">
-<h2><a href="2Krn.html">Rozdział 35</a></h2>
+<h2><a href="2Krn.html#v35">Rozdział 35</a></h2>
 <div class="verses">
 <h5>Uroczysta Pascha za Jozjasza</h5>
 <span class="verse" id="v35_1"><sup class="vn"><a href="#v35_1">1</a></sup>Jozjasz obchodził w Jerozolimie Paschę<sup>s</sup> na cześć Pana; dnia czternastego miesiąca pierwszego ofiarowano baranka paschalnego.</span>
@@ -1118,7 +1164,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v36">
-<h2><a href="2Krn.html">Rozdział 36</a></h2>
+<h2><a href="2Krn.html#v36">Rozdział 36</a></h2>
 <div class="verses">
 <h5>Joachaz i Jojakim</h5>
 <span class="verse" id="v36_1"><sup class="vn"><a href="#v36_1">1</a></sup>Ludność kraju wzięła Joachaza, syna Jozjasza, i ustanowiła go królem, w miejsce jego ojca, w Jerozolimie.</span>
@@ -1153,6 +1199,20 @@ article.introduction {
 <script>
 (function () {
   'use strict';
+  function fontSize(size) {
+    document.documentElement.style.fontSize = size + 'px';
+    try { localStorage.setItem('btv-font-size', size); } catch (e) {}
+  }
+  var switcher = document.querySelector('.font-switcher');
+  [14, 16, 18, 20, 22].forEach(function (size) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = 'A';
+    b.style.fontSize = size + 'px';
+    b.setAttribute('aria-label', 'Rozmiar czcionki ' + size + ' pikseli');
+    b.addEventListener('click', function () { fontSize(size); });
+    switcher.appendChild(b);
+  });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {

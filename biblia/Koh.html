@@ -2,45 +2,84 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try{var s=localStorage.getItem('btv-font-size');if(s)document.documentElement.style.fontSize=s+'px';}catch(e){}
+</script>
 <title>Ks. Koheleta — Biblia Tysiąclecia (BT-V)</title>
 <style>
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
 body {
   font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   line-height: 1.6;
-  max-width: 42em;
+  max-width: 42rem;
   margin: 0 auto;
-  padding: 1em 1.5em 3em;
+  padding: 1rem 1.5rem 3rem;
   color: #222;
   background: #fff;
 }
+.font-switcher {
+  margin-left: auto;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  border: 1px solid #808080;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.font-switcher button {
+  margin-left: 0.25rem;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+  font-family: inherit;
+}
 nav.toc {
   font-family: -apple-system, 'Segoe UI', sans-serif;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   color: #555;
 }
 nav.toc a {
-  margin-right: 0.45em;
+  margin-right: 0.45rem;
   text-decoration: none;
 }
-h1 { font-size: 1.8em; }
-h2 {
-  font-size: 1.4em;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
+header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
-h1 a, h2 a {
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+h1 { font-size: 1.8rem; }
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+h1 a, h2 a, .site-title a {
   color: inherit;
   text-decoration: none;
 }
-h1 a:hover, h2 a:hover {
+h1 a:hover, h2 a:hover, .site-title a:hover {
   text-decoration: underline;
 }
 sup.vn {
   color: #0000aa;
-  font-size: 0.7em;
-  margin-right: 0.2em;
+  font-size: 0.7rem;
+  margin-right: 0.2rem;
   position: relative;
-  top: -0.2em;
+  top: -0.2rem;
   user-select: none;
 }
 span.verse sup.vn a {
@@ -54,9 +93,9 @@ div.verses {
 span.speaker { font-style: italic; }
 ul.footnotes {
   list-style: none;
-  font-size: 0.85em;
+  font-size: 0.85rem;
   color: #444;
-  padding: 2em 2em 2em 2em;
+  padding: 2rem;
 }
 a.fnref, a.backref { text-decoration: none; }
 ul.footnotes li:target, span.verse:target, span.verse.sel {
@@ -66,30 +105,37 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   padding: 2px;
   transition: background-color 0.5s ease;
 }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  ul.footnotes li:target, span.verse:target, span.verse.sel {
+    transition: none;
+  }
+}
 span.verse, ul.footnotes>li {
-  scroll-margin-top: 1em;
+  scroll-margin-top: 1rem;
 }
 article.introduction {
   background: #fafafa;
   border-left: 3px solid #ddd;
-  padding: 0.5em 1em;
-  margin: 1em 0;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
 }
 </style>
 </head>
 <body>
-<h1><a href="index.html">Ks. Koheleta</a></h1>
+<header class="site"><p class="site-title"><a href="index.html">Biblia Tysiąclecia</a></p><div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div></header>
+<h1><a href="Koh.html">Ks. Koheleta</a></h1>
 <nav class="toc">Rozdziały: <a href="#v1">1</a> <a href="#v2">2</a> <a href="#v3">3</a> <a href="#v4">4</a> <a href="#v5">5</a> <a href="#v6">6</a> <a href="#v7">7</a> <a href="#v8">8</a> <a href="#v9">9</a> <a href="#v10">10</a> <a href="#v11">11</a> <a href="#v12">12</a></nav>
-<article class="introduction">
-<h2><a href="Koh.html">Wstęp do Ksiąg Dydaktycznych</a></h2>
+<article class="introduction" id="i1">
+<h2><a href="Koh.html#i1">Wstęp do Ksiąg Dydaktycznych</a></h2>
 <p>Księgi dydaktyczne, czyli mądrościowe stanowią w chrześcijańskim zbiorze Ksiąg świętych najmniejszą z trzech jego części. Obejmują siedem pism o charakterze poetyckim. Biblia hebrajska zna ich tylko pięć (Hi, Ps, Prz, Koh, Pnp), zaliczając je wszystkie do najmłodszej części kanonu, do tzw. Pism. Dwie pozostałe (Mdr, Syr) należą do ksiąg wtórnokanonicznych, przekazanych przez tradycję jedynie w języku greckim i reprezentujących bardziej dojrzały etap myśli objawionej. <br>    Środowisko, w którym powstały Księgi dydaktyczne, różni się znacznie od jahwistycznego czy kapłańskiego w Pięcioksięgu oraz od prorockiego, mimo że wykazuje wielokrotne powiązanie z nimi. Tak np. Psalmy noszą ślady niemal wszystkich tendencji i prądów teologicznych, liturgicznych i etycznych, znanych w księgach historycznych i prorockich. Nadto jednak pozostają księgi dydaktyczne w ścisłym kontakcie ze środowiskami mądrościowymi starożytnego Wschodu (edomickim, egipskim, babilońskim, arabskim itp.). Religijna refleksja izraelska dostosowała tę &quot;międzynarodową&quot; mądrość do swojej monoteistycznej wiary i norm etyczno-prawnych, uzupełniając rodzimą refleksją. O ile popularna mądrość i jej nakazy były zawsze znane w Izraelu, pierwsze kontakty z wielkimi ośrodkami mądrościowymi można stwierdzić za czasów Salomona (1 Krl 5,9-14); władca ten pozostanie w mentalności izraelskiej na zawsze synonimem największego z mędrców. <br>    Rodzimą formą literacką ksiąg mądrościowych jest maszal, czyli sentencja wyrażająca za pomocą rytmu prawdy natury ogólnej, wskazania, napomnienia stanowe lub popularne normy postępowania. Paralelizmy, ostre przeciwstawienia lub paradoksalne formuły mają utrwalać w pamięci aforyzmy, często przechodzące w przysłowia. Księga Przysłów stanowi zbiór tego rodzaju sentencji; występują one nie tylko we wszystkich pozostałych księgach dydaktycznych, ale także sporadycznie w pismach historycznych i prorockich. Dalszy rozwój tej formy literackiej doprowadził do powstania przypowieści, alegorii lub zwartego układu mądrościowego, jaki występuje często w późniejszych księgach (Hi, Koh, Mdr, Syr). Bardziej uroczysty, a zarazem religijny ton reprezentują Psalmy, najbardziej może izraelski pomnik literatury mądrościowej w Biblii (zob. Wstęp do Księgi Psalmów). Nie brak tu także popularnych pieśni weselnych i miłosnych, rozumianych alegorycznie (Pnp), ani wątków dramatycznych (Hi). <br>    Zainteresowania doktrynalne biblijnych ksiąg mądrościowych koncentrują się - podobnie jak w literaturze pozabiblijnej - wokół zagadnień człowieka i jego życia. Zasadnicze tematy teologiczne, jak wybór Izraela przez Boga, Przymierze, zbawienie eschatologiczne, rozważane są (poza Psalmami i może antologią Syracha) marginesowo. Mimo to utwory te nie reprezentują czystego humanizmu o charakterze doczesnym i stanowym (jak np. w mądrości egipskiej). Człowiek rozważany jest nie tylko jako stworzenie Boże, ale pozostaje w wielokrotnej zależności od Niego, jest Jego dłużnikiem, potrzebuje Jego opieki. Jeżeli Księgi dydaktyczne nie ustają w zalecaniu mądrości - od roztropności czysto ludzkiej aż do hipostazy mądrości Bożej - towarzyszy im często powracające motto, że początkiem mądrości jest bojaźń Boża, zakładająca pobożność i wysoki poziom życia moralnego. <br>    Stosownie do charakteru ksiąg mądrościowych postać autora lub redaktora zbioru jest drugorzędna. Chodzi przeważnie o pisma anonimowe, przypisywane niekiedy sławnym mędrcom biblijnym, głównie Salomonowi, lub pozabiblijnym (Prz, Pnp, Mdr). Nawet w księgach wymieniających autora (niektóre Ps, Syr) należy się liczyć często z wtórnymi opracowaniami starszego materiału przekazywanego ustnie. Chociaż NT przytacza (poza Psalmami) znacznie rzadziej księgi mądrościowe, przygotowały one w znacznej mierze lud Boży na przyjęcie słowa życia z ust Mądrości Wcielonej, Jezusa Chrystusa.</p>
 </article>
-<article class="introduction">
-<h2><a href="Koh.html">Wstęp do Księgi Koheleta</a></h2>
+<article class="introduction" id="i2">
+<h2><a href="Koh.html#i2">Wstęp do Księgi Koheleta</a></h2>
 <p>Księga nosi nazwę swego autora, który sam przedstawia się jako Kohelet (Koh 1,12). Nie jest to imię własne, lecz oznaczenie funkcji lub urzędu mędrca &quot;przemawiającego na zebraniu&quot;. W języku greckim odpowiada temu określeniu nazwa Ekklesiastes, którą otrzymała księga w LXX i Wlg. <br>    Treścią księgi są rozważania nad sensem życia ludzkiego. Autor zadaje sobie przede wszystkim pytanie, jaka jest droga do prawdziwego szczęścia, ale nie znajduje na nie odpowiedzi. Stwierdza raczej, że wszystko jest marnością. Jak refren powtarzają się te słowa aż dwadzieścia razy w jego księdze. Podobnie jak powracające w rytmie cyklicznym zjawiska przyrody wydają się bezcelowe - bo zasady, według których Bóg rządzi światem, nie są człowiekowi znane - tak za bezcelowe trzeba uważać wszelkie wysiłki zmierzające do osiągnięcia trwałego szczęścia. Nie przynoszą go ani bogactwa i słowa, ani nieograniczone używanie rozkoszy, ani też tak bardzo wysławiana mądrość. Życie jest bowiem pełne daremnych trudów i utrapień, a panująca na świecie niesprawiedliwość czyni je wprost nieznośnym. Ostatecznie zaś spotyka wszystkich ten sam los, tj. śmierć, po której czeka człowieka już tylko smutny pobyt w Szeolu. <br>    Kohelet nie wpada jednak w pesymizm. Dostrzega on również jasne strony życia przynoszące człowiekowi radość. Widząc w dobrach stworzonych dar Boży, radzi korzystać z nich roztropnie, przy tym jednak pamiętać, że ze wszystkiego trzeba będzie kiedyś zdać sprawę przed Bogiem. <br>    Czasu przyszłego Bożego sądu Kohelet dokładnie nie określa. Wskazując jednak na niedoskonałość tradycyjnego pojmowania sprawiedliwej odpłaty za czyny człowieka, ograniczonej do życia ziemskiego, oraz stawiając liczne dręczące go pytania, na które wobec niejasnych wyobrażeń o życiu pozagrobowym sam nie znajduje właściwej odpowiedzi - otwiera drogę do przyjęcia objawienia NT. <br>    W tytule księgi (Koh 1,1) autor nazywany jest synem Dawida, króla w Jeruzalem, a to, co mówi o sobie w pierwszych dwóch rozdziałach, odpowiada w znacznej mierze życiu Salomona. Nie znaczy to jednak, że chce, by księga jego uchodziła za dzieło tego wielkiego króla, sławnego z mądrości, lecz posługuje się tylko stosowaną podówczas fikcją literacką, by zaznaczyć, że słowa jego mają taką wagę, jak gdyby pochodziły od samego Salomona. W rzeczywistości należał on do grona mędrców, którzy zajmowali się zagadnieniami filozoficzno-religijnymi i nauczali sztuki życia. <br>    Dokładna data napisania księgi nie jest znana. Treść jej i cechy językowe wskazują na to, że pochodzi ona z końca III lub początku II w. przed Chr., to jest z okresu, w którym filozoficzna myśl grecka zajmowała również Żydów, stawiając ich przed nowymi zagadnieniami, których rozwiązanie nie zawsze znajdowali w księgach świętych ST. Epilog (Koh 12,9-14) napisał jakiś uczeń Koheleta. Trudno osądzić, czy przyłożył on także rękę do niektórych innych miejsc księgi. <br>    Autor nadał swemu dziełu formę poetycką. Przy pobieżnym czytaniu niełatwo dopatrzyć się w nim jakiegoś porządku, a zdawać się nawet może, że są w nim pewne sprzeczności. Nie jest to bowiem traktat religijno-filozoficzny, zbudowany według określonych zasad logicznych, ale zbiór rozważań kojarzących się z sobą raczej według praw psychologicznych. Kohelet przedstawia po prostu czytelnikowi cały bieg swych myśli i wysiłek rozumu zmagającego się z trudnościami. Posługuje się przy tym często formą sentencji mądrościowej, a niekiedy także i przysłowiem którego sam może nie jest autorem. <br>    Mimo wszystkich swych wątpliwości Kohelet stoi mocno na gruncie wiary w Boga, od którego wszystko pochodzi i który wszystkim rządzi, a kiedyś będzie sędzią człowieka. Celem księgi jest ugruntowanie tej wiary także w sercach czytelników, co najtrafniej wyraził autor w epilogu: Boga się bój i przykazań Jego przestrzegaj, bo cały w tym człowiek! (Koh 12,13). <br>Księga nie jest cytowana w Nowym Testamencie.</p>
 </article>
 <section class="chapter" id="v1">
-<h2><a href="Koh.html">Rozdział 1</a></h2>
+<h2><a href="Koh.html#v1">Rozdział 1</a></h2>
 <div class="verses">
 <h5>Tytuł</h5>
 <span class="verse" id="v1_1"><sup class="vn"><a href="#v1_1">1</a></sup>Słowa Koheleta<a class="fnref" href="#f-1-1"><sup class="r">※</sup></a>, syna Dawida, króla w Jeruzalem.<br></span>
@@ -125,7 +171,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v2">
-<h2><a href="Koh.html">Rozdział 2</a></h2>
+<h2><a href="Koh.html#v2">Rozdział 2</a></h2>
 <div class="verses">
 <h5>Marność bogactw i rozkoszy</h5>
 <span class="verse" id="v2_1"><sup class="vn"><a href="#v2_1">1</a></sup>Powiedziałem sobie:<br>«Niechże doświadczę radości<br>i zażyję szczęścia!»<br>Lecz i to jest marność.<br></span>
@@ -166,7 +212,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v3">
-<h2><a href="Koh.html">Rozdział 3</a></h2>
+<h2><a href="Koh.html#v3">Rozdział 3</a></h2>
 <div class="verses">
 <h5>Wszystko zależne jest od czasu, a ostatecznie od Boga</h5>
 <span class="verse" id="v3_1"><sup class="vn"><a href="#v3_1">1</a></sup>Wszystko ma swój czas,<br>i jest wyznaczona godzina<br>na wszystkie sprawy pod niebem<a class="fnref" href="#f-3-1"><sup class="r">※</sup></a>:<br></span>
@@ -205,7 +251,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v4">
-<h2><a href="Koh.html">Rozdział 4</a></h2>
+<h2><a href="Koh.html#v4">Rozdział 4</a></h2>
 <div class="verses">
 <h5>Ucisk i zazdrość powiększają marność życia</h5>
 <span class="verse" id="v4_1"><sup class="vn"><a href="#v4_1">1</a></sup>A dalej widziałem wszystkie uciski,<br>jakie pod słońcem się zdarzają.<br>I oto: łzy uciśnionych,<br>a nie ma kto ich pocieszyć;<br>ręka ciemięzców twarda,<br>a nie ma pocieszyciela.<br></span>
@@ -239,7 +285,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v5">
-<h2><a href="Koh.html">Rozdział 5</a></h2>
+<h2><a href="Koh.html#v5">Rozdział 5</a></h2>
 <div class="verses">
 <span class="verse" id="v5_1"><sup class="vn"><a href="#v5_1">1</a></sup>Nie bądź pochopny w słowach,<br>a serce twe niech nie będzie zbyt skore,<br>by wypowiedzieć słowo przed obliczem Boga,<br>bo Bóg jest w niebie,<br>a ty na ziemi!<br>Przeto niech słów twoich będzie niewiele<a class="fnref" href="#f-5-1"><sup class="r">※</sup></a>.<br></span>
 <span class="verse" id="v5_2"><sup class="vn"><a href="#v5_2">2</a></sup>Bo z wielości zajęć przychodzą sny,<br>a mowa głupia z wielości słów.<br></span>
@@ -274,7 +320,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v6">
-<h2><a href="Koh.html">Rozdział 6</a></h2>
+<h2><a href="Koh.html#v6">Rozdział 6</a></h2>
 <div class="verses">
 <h5>Zależność człowieka od Boga w używaniu dóbr doczesnych</h5>
 <span class="verse" id="v6_1"><sup class="vn"><a href="#v6_1">1</a></sup>Istnieje niedola, którą widziałem pod słońcem,<br>a która bardzo ciąży człowiekowi:<br></span>
@@ -296,7 +342,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v7">
-<h2><a href="Koh.html">Rozdział 7</a></h2>
+<h2><a href="Koh.html#v7">Rozdział 7</a></h2>
 <div class="verses">
 <h4>PRAKTYCZNE ZASTOSOWANIE MĄDROŚCI</h4>
 <h5>Człowiek mądry patrzy na życie poważnie</h5>
@@ -344,7 +390,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v8">
-<h2><a href="Koh.html">Rozdział 8</a></h2>
+<h2><a href="Koh.html#v8">Rozdział 8</a></h2>
 <div class="verses">
 <h5>Władzy trzeba się podporządkować</h5>
 <span class="verse" id="v8_1"><sup class="vn"><a href="#v8_1">1</a></sup>Któż jest jak mędrzec<br>i któż poznał znaczenie rzeczy<a class="fnref" href="#f-8-1"><sup class="r">※</sup></a>?<br>Mądrość człowieka rozjaśnia jego oblicze,<br>tak iż surowy wyraz jego twarzy się zmienia.<br></span>
@@ -378,7 +424,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v9">
-<h2><a href="Koh.html">Rozdział 9</a></h2>
+<h2><a href="Koh.html#v9">Rozdział 9</a></h2>
 <div class="verses">
 <span class="verse" id="v9_1"><sup class="vn"><a href="#v9_1">1</a></sup>Bo wszystko to rozważyłem<br>i wszystko to zbadałem.<br>Dlatego że sprawiedliwi i mędrcy oraz ich czyny<br>są w ręku Boga -<br>zarówno miłość, jak i nienawiść<a class="fnref" href="#f-9-1"><sup class="r">※</sup></a> -<br>nie rozpozna człowiek tego wszystkiego,<br>co przed oczyma jego się dzieje.<br></span>
 <span class="verse" id="v9_2"><sup class="vn"><a href="#v9_2">2</a></sup>Wszystko jednakie dla wszystkich:<br>Ten sam los spotyka<br>tak sprawiedliwego, jak i złoczyńcę<a class="fnref" href="#f-9-2"><sup class="r">※</sup></a>,<br>tak czystego, jak i nieczystego,<br>zarówno składającego ofiary, jak i tego,<br>który nie składa ofiar;<br>tak samo jest z dobrym, jak i z grzesznikiem,<br>z przysięgającym, jak i z takim,<br>który przysięgi się boi.<br></span>
@@ -415,7 +461,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v10">
-<h2><a href="Koh.html">Rozdział 10</a></h2>
+<h2><a href="Koh.html#v10">Rozdział 10</a></h2>
 <div class="verses">
 <span class="verse" id="v10_1"><sup class="vn"><a href="#v10_1">1</a></sup>Martwa mucha zepsuje naczynie wonnego olejku.<br>Bardziej niż mądrość, niż sława zaważy trochę głupoty.<br></span>
 <span class="verse" id="v10_2"><sup class="vn"><a href="#v10_2">2</a></sup>Serce mędrca [zwraca się] ku prawej stronie,<br>a serce głupca ku lewej<a class="fnref" href="#f-10-1"><sup class="r">※</sup></a>.<br></span>
@@ -449,7 +495,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v11">
-<h2><a href="Koh.html">Rozdział 11</a></h2>
+<h2><a href="Koh.html#v11">Rozdział 11</a></h2>
 <div class="verses">
 <h5>Korzyści, jakie przynosi mądrość w życiu prywatnym</h5>
 <span class="verse" id="v11_1"><sup class="vn"><a href="#v11_1">1</a></sup>Wyrzuć swój chleb na powierzchnię wód,<br>po wielu bowiem dniach go odnajdziesz<a class="fnref" href="#f-11-1"><sup class="r">※</sup></a>.<br></span>
@@ -473,7 +519,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v12">
-<h2><a href="Koh.html">Rozdział 12</a></h2>
+<h2><a href="Koh.html#v12">Rozdział 12</a></h2>
 <div class="verses">
 <span class="verse" id="v12_1"><sup class="vn"><a href="#v12_1">1</a></sup>Pomnij jednak na Stwórcę swego <br>w dniach swej młodości,<br>zanim jeszcze nadejdą dni niedoli<br>i przyjdą lata, o których powiesz:<br>«Nie mam w nich upodobania»;<br></span>
 <span class="verse" id="v12_2"><sup class="vn"><a href="#v12_2">2</a></sup>zanim zaćmi się słońce i światło,<br>i księżyc, i gwiazdy,<br>i chmury powrócą po deszczu<a class="fnref" href="#f-12-1"><sup class="r">※</sup></a>;<br></span>
@@ -505,6 +551,20 @@ article.introduction {
 <script>
 (function () {
   'use strict';
+  function fontSize(size) {
+    document.documentElement.style.fontSize = size + 'px';
+    try { localStorage.setItem('btv-font-size', size); } catch (e) {}
+  }
+  var switcher = document.querySelector('.font-switcher');
+  [14, 16, 18, 20, 22].forEach(function (size) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = 'A';
+    b.style.fontSize = size + 'px';
+    b.setAttribute('aria-label', 'Rozmiar czcionki ' + size + ' pikseli');
+    b.addEventListener('click', function () { fontSize(size); });
+    switcher.appendChild(b);
+  });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {

@@ -2,45 +2,84 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try{var s=localStorage.getItem('btv-font-size');if(s)document.documentElement.style.fontSize=s+'px';}catch(e){}
+</script>
 <title>Mądrość Syracha — Biblia Tysiąclecia (BT-V)</title>
 <style>
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
 body {
   font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   line-height: 1.6;
-  max-width: 42em;
+  max-width: 42rem;
   margin: 0 auto;
-  padding: 1em 1.5em 3em;
+  padding: 1rem 1.5rem 3rem;
   color: #222;
   background: #fff;
 }
+.font-switcher {
+  margin-left: auto;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  border: 1px solid #808080;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.font-switcher button {
+  margin-left: 0.25rem;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+  font-family: inherit;
+}
 nav.toc {
   font-family: -apple-system, 'Segoe UI', sans-serif;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   color: #555;
 }
 nav.toc a {
-  margin-right: 0.45em;
+  margin-right: 0.45rem;
   text-decoration: none;
 }
-h1 { font-size: 1.8em; }
-h2 {
-  font-size: 1.4em;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
+header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
-h1 a, h2 a {
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+h1 { font-size: 1.8rem; }
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+h1 a, h2 a, .site-title a {
   color: inherit;
   text-decoration: none;
 }
-h1 a:hover, h2 a:hover {
+h1 a:hover, h2 a:hover, .site-title a:hover {
   text-decoration: underline;
 }
 sup.vn {
   color: #0000aa;
-  font-size: 0.7em;
-  margin-right: 0.2em;
+  font-size: 0.7rem;
+  margin-right: 0.2rem;
   position: relative;
-  top: -0.2em;
+  top: -0.2rem;
   user-select: none;
 }
 span.verse sup.vn a {
@@ -54,9 +93,9 @@ div.verses {
 span.speaker { font-style: italic; }
 ul.footnotes {
   list-style: none;
-  font-size: 0.85em;
+  font-size: 0.85rem;
   color: #444;
-  padding: 2em 2em 2em 2em;
+  padding: 2rem;
 }
 a.fnref, a.backref { text-decoration: none; }
 ul.footnotes li:target, span.verse:target, span.verse.sel {
@@ -66,31 +105,38 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   padding: 2px;
   transition: background-color 0.5s ease;
 }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  ul.footnotes li:target, span.verse:target, span.verse.sel {
+    transition: none;
+  }
+}
 span.verse, ul.footnotes>li {
-  scroll-margin-top: 1em;
+  scroll-margin-top: 1rem;
 }
 article.introduction {
   background: #fafafa;
   border-left: 3px solid #ddd;
-  padding: 0.5em 1em;
-  margin: 1em 0;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
 }
 </style>
 </head>
 <body>
-<h1><a href="index.html">Mądrość Syracha</a></h1>
+<header class="site"><p class="site-title"><a href="index.html">Biblia Tysiąclecia</a></p><div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div></header>
+<h1><a href="Syr.html">Mądrość Syracha</a></h1>
 <nav class="toc">Rozdziały: <a href="#v1">1</a> <a href="#v2">2</a> <a href="#v3">3</a> <a href="#v4">4</a> <a href="#v5">5</a> <a href="#v6">6</a> <a href="#v7">7</a> <a href="#v8">8</a> <a href="#v9">9</a> <a href="#v10">10</a> <a href="#v11">11</a> <a href="#v12">12</a> <a href="#v13">13</a> <a href="#v14">14</a> <a href="#v15">15</a> <a href="#v16">16</a> <a href="#v17">17</a> <a href="#v18">18</a> <a href="#v19">19</a> <a href="#v20">20</a> <a href="#v21">21</a> <a href="#v22">22</a> <a href="#v23">23</a> <a href="#v24">24</a> <a href="#v25">25</a> <a href="#v26">26</a> <a href="#v27">27</a> <a href="#v28">28</a> <a href="#v29">29</a> <a href="#v30">30</a> <a href="#v31">31</a> <a href="#v32">32</a> <a href="#v33">33</a> <a href="#v34">34</a> <a href="#v35">35</a> <a href="#v36">36</a> <a href="#v37">37</a> <a href="#v38">38</a> <a href="#v39">39</a> <a href="#v40">40</a> <a href="#v41">41</a> <a href="#v42">42</a> <a href="#v43">43</a> <a href="#v44">44</a> <a href="#v45">45</a> <a href="#v46">46</a> <a href="#v47">47</a> <a href="#v48">48</a> <a href="#v49">49</a> <a href="#v50">50</a> <a href="#v51">51</a></nav>
-<article class="introduction">
-<h2><a href="Syr.html">Wstęp do Ksiąg Dydaktycznych</a></h2>
+<article class="introduction" id="i1">
+<h2><a href="Syr.html#i1">Wstęp do Ksiąg Dydaktycznych</a></h2>
 <p>Księgi dydaktyczne, czyli mądrościowe stanowią w chrześcijańskim zbiorze Ksiąg świętych najmniejszą z trzech jego części. Obejmują siedem pism o charakterze poetyckim. Biblia hebrajska zna ich tylko pięć (Hi, Ps, Prz, Koh, Pnp), zaliczając je wszystkie do najmłodszej części kanonu, do tzw. Pism. Dwie pozostałe (Mdr, Syr) należą do ksiąg wtórnokanonicznych, przekazanych przez tradycję jedynie w języku greckim i reprezentujących bardziej dojrzały etap myśli objawionej. <br>    Środowisko, w którym powstały Księgi dydaktyczne, różni się znacznie od jahwistycznego czy kapłańskiego w Pięcioksięgu oraz od prorockiego, mimo że wykazuje wielokrotne powiązanie z nimi. Tak np. Psalmy noszą ślady niemal wszystkich tendencji i prądów teologicznych, liturgicznych i etycznych, znanych w księgach historycznych i prorockich. Nadto jednak pozostają księgi dydaktyczne w ścisłym kontakcie ze środowiskami mądrościowymi starożytnego Wschodu (edomickim, egipskim, babilońskim, arabskim itp.). Religijna refleksja izraelska dostosowała tę &quot;międzynarodową&quot; mądrość do swojej monoteistycznej wiary i norm etyczno-prawnych, uzupełniając rodzimą refleksją. O ile popularna mądrość i jej nakazy były zawsze znane w Izraelu, pierwsze kontakty z wielkimi ośrodkami mądrościowymi można stwierdzić za czasów Salomona (1 Krl 5,9-14); władca ten pozostanie w mentalności izraelskiej na zawsze synonimem największego z mędrców. <br>    Rodzimą formą literacką ksiąg mądrościowych jest maszal, czyli sentencja wyrażająca za pomocą rytmu prawdy natury ogólnej, wskazania, napomnienia stanowe lub popularne normy postępowania. Paralelizmy, ostre przeciwstawienia lub paradoksalne formuły mają utrwalać w pamięci aforyzmy, często przechodzące w przysłowia. Księga Przysłów stanowi zbiór tego rodzaju sentencji; występują one nie tylko we wszystkich pozostałych księgach dydaktycznych, ale także sporadycznie w pismach historycznych i prorockich. Dalszy rozwój tej formy literackiej doprowadził do powstania przypowieści, alegorii lub zwartego układu mądrościowego, jaki występuje często w późniejszych księgach (Hi, Koh, Mdr, Syr). Bardziej uroczysty, a zarazem religijny ton reprezentują Psalmy, najbardziej może izraelski pomnik literatury mądrościowej w Biblii (zob. Wstęp do Księgi Psalmów). Nie brak tu także popularnych pieśni weselnych i miłosnych, rozumianych alegorycznie (Pnp), ani wątków dramatycznych (Hi). <br>    Zainteresowania doktrynalne biblijnych ksiąg mądrościowych koncentrują się - podobnie jak w literaturze pozabiblijnej - wokół zagadnień człowieka i jego życia. Zasadnicze tematy teologiczne, jak wybór Izraela przez Boga, Przymierze, zbawienie eschatologiczne, rozważane są (poza Psalmami i może antologią Syracha) marginesowo. Mimo to utwory te nie reprezentują czystego humanizmu o charakterze doczesnym i stanowym (jak np. w mądrości egipskiej). Człowiek rozważany jest nie tylko jako stworzenie Boże, ale pozostaje w wielokrotnej zależności od Niego, jest Jego dłużnikiem, potrzebuje Jego opieki. Jeżeli Księgi dydaktyczne nie ustają w zalecaniu mądrości - od roztropności czysto ludzkiej aż do hipostazy mądrości Bożej - towarzyszy im często powracające motto, że początkiem mądrości jest bojaźń Boża, zakładająca pobożność i wysoki poziom życia moralnego. <br>    Stosownie do charakteru ksiąg mądrościowych postać autora lub redaktora zbioru jest drugorzędna. Chodzi przeważnie o pisma anonimowe, przypisywane niekiedy sławnym mędrcom biblijnym, głównie Salomonowi, lub pozabiblijnym (Prz, Pnp, Mdr). Nawet w księgach wymieniających autora (niektóre Ps, Syr) należy się liczyć często z wtórnymi opracowaniami starszego materiału przekazywanego ustnie. Chociaż NT przytacza (poza Psalmami) znacznie rzadziej księgi mądrościowe, przygotowały one w znacznej mierze lud Boży na przyjęcie słowa życia z ust Mądrości Wcielonej, Jezusa Chrystusa.</p>
 </article>
-<article class="introduction">
-<h2><a href="Syr.html">Wstęp do Księgi Syracha</a></h2>
+<article class="introduction" id="i2">
+<h2><a href="Syr.html#i2">Wstęp do Księgi Syracha</a></h2>
 <p>Księga ta w różnych tradycjach posiada różne tytuły; przekład polski opiera się na jednym z rękopisów greckich, także niejednolitych. W oryginale hebrajskim, dość wcześnie zaginionym, pismo określano prawdopodobnie jako Księgę (słowa) Jezusa, syna Syracha; wynika to z Syr 50,27 i Syr 51,30 oraz wzmianek w Talmudzie. Tradycja łacińska, posługując się tą księgą w przygotowaniu katechumenów, nazwała ją (już od św. Cypriana) księgą &quot;kościelną&quot;, łac. Ecclesiasticus (&quot;Eklezjastyk&quot;). Być może pewną rolę odegrało tu podobieństwo (lub równy autorytet) z Eklezjastesem (Koheletem). W praktyce nomenklatura łacińska powodowała liczne nieporozumienia co do obu ksiąg, stąd też obecnie jest coraz mniej używana. <br>    W odróżnieniu od pozostałych Ksiąg dydaktycznych autor księgi i jej język pierwotny, a także dalsze dzieje są dobrze znane. Autorem tego obszernego pisma mądrościowego jest doświadczony i wykształcony nauczyciel Prawa, obeznany z wszelkimi tradycjami mądrościowymi. Przedmowa napisana przez tłumacza księgi na język grecki, tzw. Prolog - nie należący do jej zasadniczej treści, podaje imię autora: Jezus, uzupełnione w Syr 50,27 wskazówkami rodowodowymi: syn Syracha, syna Eleazara z Jerozolimy. Jezus, syn Syracha napisał w języku hebr. księgę w początkach w. II przed Chr. (por. Syr 50,1-24 aluzje do pontyfikatu Szymona, syna Oniasza, a więc Szymona II). Wnuk jego po przybyciu do Egiptu w r. 132 (38 rok panowania Ptolemeusza Euergetesa) przełożył słowa swego dziadka na język grecki dla tamtejszej diaspory, posługującej się niemal wyłącznie tym językiem. Już Prolog (w. 20-22) wskazuje na to, że tłumaczenie to nie było dosłowne; chodziło w wielu wypadkach o adaptację tekstu hebrajskiego do mentalności greckiej, niekiedy o przystosowanie do aktualnych potrzeb gminy żydowskiej ok. r. 130 przed Chrystusem. <br>    Księga Syracha, mimo że napisana w oryginale po hebrajsku, nie należała do zbioru żydowskiego (kanonu) Ksiąg świętych, chociaż pisma talmudyczne przytaczają ją w podobny sposób jak księgi kanoniczne. Weszła natomiast w wersji greckiej do Septuaginty i stąd przyjęli ją chrześcijanie. Należy ona do grupy ksiąg wtórnokanonicznych; jej natchnienie i kanoniczność potwierdził Sobór Trydencki, wbrew wahaniom niektórych ugrupowań chrześcijańskich. W NT znał księgę przynajmniej autor Listu Jakuba (Jk 1,19 - por. Syr 5,11), zapewne także i inni (por. np. Mt 6,14 z Syr 28,2; Łk 1,17 z Syr 48,10 itd.). Do r. 1896 jedynym znanym tekstem był przekład grecki, choć jeszcze św. Hieronim wspomina o oryginale hebrajskim. Kolejno znalezione urywki hebrajskie (z genizy w Kairze, z Qumran oraz z Masady) pozwoliły odtworzyć znaczą część tekstu hebrajskiego, wykazały jednak dość zasadnicze różnice między oryginałem a przekładem, a właściwie przekładami (i kolejnymi adaptacjami). Przekład niniejszy opiera się w zasadzie na tradycyjnych rękopisach greckich, znalezione fragmenty hebrajskie służą jedynie do usuwania niejasności. Wydaje się, że przekład grecki pochodzi z nieco innej (niekiedy lepszej) postaci tekstu, niż go reprezentują znalezione urywki hebrajskie, także niejednolite. <br>    Autor zamierzał dać czytelnikom rodzaj praktycznej filozofii, łatwo stosowalnej w życiu, a opartej na tradycyjnej religijności dawniejszych pism ST i historii Ludu Bożego. W księdze można wyróżnić dwie większe części: Syr 1,1-Syr 42,14; oraz Syr 42,15-Syr 51,30. Pierwsza ma charakter antologiczny, zawiera szereg luźno powiązanych wskazówek mądrościowych i napomnień, niekiedy zestawionych w relacji do stanu lub wieku człowieka. Występuje tu nie tylko szereg hymnów, modlitw i refleksji, ale i spekulacji na temat pochodzenia mądrości, która zaczyna przybierać pewne cechy osobowe. Bardzo ważnym źródłem religijności tamtego okresu jest idealny obraz uczonego w Pismach w Syr 38,24-Syr 39,11. Ta część księgi przypomina dość żywo Księgę Przysłów tak w starszej jej części, jak i w Prz rozdz. 1-9 [-&gt;Prz 1,1]. Druga część ma charakter bardziej hymniczny: wysławia mądrość przejawiającą się w stworzeniu, a w Syr 44,1-Syr 50,26 przechodzi w &quot;Pochwałę Ojców&quot;, tj. w antologiczne zestawienie mądrości przejawiającej się w wybitnych mężach historii wybranego narodu. Zakończenie stanowi modlitwa Syracha oraz alfabetycznie zbudowane wezwanie do mądrości. Pod względem doktrynalnym księga zawiera ideały mądrościowe i etyczne judaizmu (umiarkowanie, dobroczynność, ofiara, czystość i religijna postawa praktyczna), z których wiele podjął i dowartościował Nowy Testament.</p>
 <p>Prawo, Prorocy i ci, którzy po nich przyszli,<br>zostawili nam liczne i wielkie [dzieła] w dziedzinie nauki i mądrości,<br>za co Izraelowi należy się chwała.<br>Potrzeba przeto, by nie tylko ci, co umieją czytać, byli o nich dobrze pouczeni,<br>ale też żeby miłośnicy mądrości dla będących na zewnątrz stali się pożyteczni<br>przez mowy i pisma.<br>Dziadek mój, Jezus, kiedy oddał się pełniejszemu poznaniu<br>Prawa, Proroków oraz innych ksiąg ojczystych<br>i nabrał w nich doskonałej biegłości,<br>sam też zapragnął napisać coś z dziedziny nauki i mądrości,<br>aby ludzie żądni wiedzy sami przez to wszystko się wzbogacili,<br>a jeszcze bardziej, aby coś dodali do niej przez życie zgodne z Prawem.<br>Proszę więc, abyście<br>z życzliwością i uwagą<br>zabierali się do czytania,<br>a wybaczali w tych miejscach,<br>gdzie by się komuś wydawać mogło,<br>że mimo naszej usilnej pracy nad tłumaczeniem nie mogliśmy dobrać odpowiedniego wyrażenia,<br>albowiem nie mają tej samej mocy<br>słowa czytane w języku hebrajskim, co przełożone na inną mowę.<br>Nie tylko ta księga,<br>ale nawet samo Prawo i Proroctwa,<br>i inne księgi<br>czytane w ich własnym języku wykazują niemałą różnicę.<br>Gdy w trzydziestym ósmym roku [panowania] króla Euergetesa przybyłem do Egiptu<br>i tam zamieszkałem,<br>znalazłem odpis księgi,<br>zawierający nieprzeciętną naukę.<br>Uznałem za bardzo pożyteczne przystąpienie do rzetelnej pracy, aby tę księgę przetłumaczyć.<br>Poświęciłem wiele bezsennych nocy i nauki,<br>aby w takim czasie,<br>jaki był potrzebny, wydać ukończoną księgę<br>dla tych, wśród których przebywam i którzy chcieliby się czegoś nauczyć,<br>a są przygotowani do życia<br>według Prawa w dziedzinie obyczajów.</p>
 </article>
 <section class="chapter" id="v1">
-<h2><a href="Syr.html">Rozdział 1</a></h2>
+<h2><a href="Syr.html#v1">Rozdział 1</a></h2>
 <div class="verses">
 <h5>Tajemnica mądrości</h5>
 <span class="verse" id="v1_1"><sup class="vn"><a href="#v1_1">1</a></sup>Cała mądrość od Pana [pochodzi]<br>i z Nim jest na wieki.<br></span>
@@ -140,7 +186,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v2">
-<h2><a href="Syr.html">Rozdział 2</a></h2>
+<h2><a href="Syr.html#v2">Rozdział 2</a></h2>
 <div class="verses">
 <h5>Bojaźń Boża w pouczających doświadczeniach</h5>
 <span class="verse" id="v2_1"><sup class="vn"><a href="#v2_1">1</a></sup>Dziecko, jeśli masz zamiar służyć Panu,<br>przygotuj swą duszę na doświadczenia!<br></span>
@@ -169,7 +215,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v3">
-<h2><a href="Syr.html">Rozdział 3</a></h2>
+<h2><a href="Syr.html#v3">Rozdział 3</a></h2>
 <div class="verses">
 <h5>Obowiązki względem rodziców</h5>
 <span class="verse" id="v3_1"><sup class="vn"><a href="#v3_1">1</a></sup>Mnie, ojca, posłuchajcie, dzieci,<br>i tak postępujcie, abyście były zbawione.<br></span>
@@ -218,7 +264,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v4">
-<h2><a href="Syr.html">Rozdział 4</a></h2>
+<h2><a href="Syr.html#v4">Rozdział 4</a></h2>
 <div class="verses">
 <span class="verse" id="v4_1"><sup class="vn"><a href="#v4_1">1</a></sup>Dziecko, nie pozbawiaj biedaka [możliwości] życia<br>i oczu potrzebujących nie męcz zwlekaniem!<br></span>
 <span class="verse" id="v4_2"><sup class="vn"><a href="#v4_2">2</a></sup>Nie zasmucaj duszy głodnego<br>i nie pobudzaj do gniewu człowieka w jego niedostatku!<br></span>
@@ -263,7 +309,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v5">
-<h2><a href="Syr.html">Rozdział 5</a></h2>
+<h2><a href="Syr.html#v5">Rozdział 5</a></h2>
 <div class="verses">
 <h5>Bogactwa i zuchwałość</h5>
 <span class="verse" id="v5_1"><sup class="vn"><a href="#v5_1">1</a></sup>Nie polegaj na swych bogactwach<br>i nie mów: «One mi wystarczą».<br></span>
@@ -291,7 +337,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v6">
-<h2><a href="Syr.html">Rozdział 6</a></h2>
+<h2><a href="Syr.html#v6">Rozdział 6</a></h2>
 <div class="verses">
 <h5>Panowanie nad sobą</h5>
 <span class="verse" id="v6_2"><sup class="vn"><a href="#v6_2">2</a></sup>Nie wywyższaj samego siebie w zamiarach swej duszy,<br>by twoja dusza nie została porwana jak bawół.<br></span>
@@ -342,7 +388,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v7">
-<h2><a href="Syr.html">Rozdział 7</a></h2>
+<h2><a href="Syr.html#v7">Rozdział 7</a></h2>
 <div class="verses">
 <h5>Różne przestrogi i rady</h5>
 <span class="verse" id="v7_1"><sup class="vn"><a href="#v7_1">1</a></sup>Nie czyń zła, aby cię zło nie pochłonęło.<br></span>
@@ -401,7 +447,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v8">
-<h2><a href="Syr.html">Rozdział 8</a></h2>
+<h2><a href="Syr.html#v8">Rozdział 8</a></h2>
 <div class="verses">
 <span class="verse" id="v8_1"><sup class="vn"><a href="#v8_1">1</a></sup>Nie sprzeczaj się z człowiekiem potężnym,<br>abyś przypadkiem nie wpadł w jego ręce.<br></span>
 <span class="verse" id="v8_2"><sup class="vn"><a href="#v8_2">2</a></sup>Nie prowadź sporu z człowiekiem bogatym,<br>by nie przeważył cię [złotem].<br>Złoto bowiem zgubiło wielu<br>i serca królów uwiodło.<br></span>
@@ -430,7 +476,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v9">
-<h2><a href="Syr.html">Rozdział 9</a></h2>
+<h2><a href="Syr.html#v9">Rozdział 9</a></h2>
 <div class="verses">
 <h5>Kobiety</h5>
 <span class="verse" id="v9_1"><sup class="vn"><a href="#v9_1">1</a></sup>Nie podejrzewaj swej żony,<br>byś nie nauczył jej złego postępowania przeciw tobie.<br></span>
@@ -463,7 +509,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v10">
-<h2><a href="Syr.html">Rozdział 10</a></h2>
+<h2><a href="Syr.html#v10">Rozdział 10</a></h2>
 <div class="verses">
 <h5>Rządzenie</h5>
 <span class="verse" id="v10_1"><sup class="vn"><a href="#v10_1">1</a></sup>Mądry władca swój lud wychowa,<br>a rządy rozumnego będą odznaczały się ładem.<br></span>
@@ -510,7 +556,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v11">
-<h2><a href="Syr.html">Rozdział 11</a></h2>
+<h2><a href="Syr.html#v11">Rozdział 11</a></h2>
 <div class="verses">
 <h5>Nie kieruj się pozorami</h5>
 <span class="verse" id="v11_1"><sup class="vn"><a href="#v11_1">1</a></sup>Mądrość biednego podniesie mu głowę<br>i posadzi go między możnymi.<br></span>
@@ -562,7 +608,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v12">
-<h2><a href="Syr.html">Rozdział 12</a></h2>
+<h2><a href="Syr.html#v12">Rozdział 12</a></h2>
 <div class="verses">
 <h5>Właściwa dobroczynność</h5>
 <span class="verse" id="v12_1"><sup class="vn"><a href="#v12_1">1</a></sup>Jeśli masz dobrze czynić, zważ, komu czynisz,<br>a będziesz miał wdzięczność za twe dobre [czyny].<br></span>
@@ -595,7 +641,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v13">
-<h2><a href="Syr.html">Rozdział 13</a></h2>
+<h2><a href="Syr.html#v13">Rozdział 13</a></h2>
 <div class="verses">
 <h5>Przestawaj z równymi sobie</h5>
 <span class="verse" id="v13_1"><sup class="vn"><a href="#v13_1">1</a></sup>Kto dotyka smoły, ten się pobrudzi,<br>a kto z pyszałkiem przestaje - do niego się upodobni.<br></span>
@@ -634,7 +680,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v14">
-<h2><a href="Syr.html">Rozdział 14</a></h2>
+<h2><a href="Syr.html#v14">Rozdział 14</a></h2>
 <div class="verses">
 <span class="verse" id="v14_1"><sup class="vn"><a href="#v14_1">1</a></sup>Szczęśliwy mąż, który nie potknął się w mowie<br>i nie jest przybity smutkiem z powodu grzechów.<br></span>
 <span class="verse" id="v14_2"><sup class="vn"><a href="#v14_2">2</a></sup>Szczęśliwy, którego własna dusza nie potępia,<br>i ten, kto nie stracił nadziei.<br></span>
@@ -677,7 +723,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v15">
-<h2><a href="Syr.html">Rozdział 15</a></h2>
+<h2><a href="Syr.html#v15">Rozdział 15</a></h2>
 <div class="verses">
 <span class="verse" id="v15_1"><sup class="vn"><a href="#v15_1">1</a></sup>Ten, który Pana się boi, będzie tak czynił,<br>a kto trzyma się Prawa<sup>s</sup>, posiądzie mądrość.<br></span>
 <span class="verse" id="v15_2"><sup class="vn"><a href="#v15_2">2</a></sup>Jak matka wyjdzie mu naprzeciw<br>i jak dziewicza małżonka go przyjmie.<br></span>
@@ -709,7 +755,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v16">
-<h2><a href="Syr.html">Rozdział 16</a></h2>
+<h2><a href="Syr.html#v16">Rozdział 16</a></h2>
 <div class="verses">
 <h5>Przekleństwo bezbożnych</h5>
 <span class="verse" id="v16_1"><sup class="vn"><a href="#v16_1">1</a></sup>Nie pragnij wielkiej liczby dzieci, jeśliby miały być przewrotne,<br>ani nie chwal się synami bezbożnymi!<br></span>
@@ -757,7 +803,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v17">
-<h2><a href="Syr.html">Rozdział 17</a></h2>
+<h2><a href="Syr.html#v17">Rozdział 17</a></h2>
 <div class="verses">
 <span class="verse" id="v17_1"><sup class="vn"><a href="#v17_1">1</a></sup>Pan stworzył człowieka z ziemi<br>i znów kazał mu do niej wrócić.<br></span>
 <span class="verse" id="v17_2"><sup class="vn"><a href="#v17_2">2</a></sup>Dał ludziom dni pod liczbą i czas odpowiedni,<br>dał im też władzę nad wszystkim, co jest na niej.<br></span>
@@ -806,7 +852,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v18">
-<h2><a href="Syr.html">Rozdział 18</a></h2>
+<h2><a href="Syr.html#v18">Rozdział 18</a></h2>
 <div class="verses">
 <h5>Wielkość Boga</h5>
 <span class="verse" id="v18_1"><sup class="vn"><a href="#v18_1">1</a></sup>Ten, który żyje na wieki, stworzył wszystko bez wyjątku.<br></span>
@@ -858,7 +904,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v19">
-<h2><a href="Syr.html">Rozdział 19</a></h2>
+<h2><a href="Syr.html#v19">Rozdział 19</a></h2>
 <div class="verses">
 <span class="verse" id="v19_1"><sup class="vn"><a href="#v19_1">1</a></sup>Robotnik pijak nie wzbogaci się,<br>a kto ma za nic małe rzeczy, niebawem upadnie.<br></span>
 <span class="verse" id="v19_2"><sup class="vn"><a href="#v19_2">2</a></sup>Wino i kobiety wykoleją mądrych,<br>a kto lgnie do nierządnic, stanie się bardziej bezwstydny;<br></span>
@@ -904,7 +950,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v20">
-<h2><a href="Syr.html">Rozdział 20</a></h2>
+<h2><a href="Syr.html#v20">Rozdział 20</a></h2>
 <div class="verses">
 <h5>Roztropne mówienie i milczenie</h5>
 <span class="verse" id="v20_1"><sup class="vn"><a href="#v20_1">1</a></sup>Bywa upomnienie, ale nie w porę,<br>niejeden bywa też milczący, a jest on mądry.<br></span>
@@ -947,7 +993,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v21">
-<h2><a href="Syr.html">Rozdział 21</a></h2>
+<h2><a href="Syr.html#v21">Rozdział 21</a></h2>
 <div class="verses">
 <h5>Strzeż się grzechu</h5>
 <span class="verse" id="v21_1"><sup class="vn"><a href="#v21_1">1</a></sup>Dziecko, zgrzeszyłeś? Nie czyń tego więcej<br>i za poprzednie swe [grzechy] proś o przebaczenie!<br></span>
@@ -990,7 +1036,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v22">
-<h2><a href="Syr.html">Rozdział 22</a></h2>
+<h2><a href="Syr.html#v22">Rozdział 22</a></h2>
 <div class="verses">
 <span class="verse" id="v22_1"><sup class="vn"><a href="#v22_1">1</a></sup>Leniwca porównuje się do obłoconego kamienia,<br>każdy zagwiżdże nad jego hańbą.<br></span>
 <span class="verse" id="v22_2"><sup class="vn"><a href="#v22_2">2</a></sup>Leniwca porównuje się do garści nawozu,<br>każdy, kto to podniesie, otrząśnie rękę.<br></span>
@@ -1029,7 +1075,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v23">
-<h2><a href="Syr.html">Rozdział 23</a></h2>
+<h2><a href="Syr.html#v23">Rozdział 23</a></h2>
 <div class="verses">
 <span class="verse" id="v23_1"><sup class="vn"><a href="#v23_1">1</a></sup>Panie, Ojcze i Władco życia mojego,<br>nie zdawaj mnie na ich zachcianki<br>i nie dozwól, bym przez nie upadł.<br></span>
 <span class="verse" id="v23_2"><sup class="vn"><a href="#v23_2">2</a></sup>Któż zastosuje rózgi wobec mojego myślenia,<br>a wobec serca mego - karność mądrości,<br>by nie oszczędzały mnie w moich błędach,<br>i nie zostały pominięte ich grzechy,<br></span>
@@ -1069,7 +1115,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v24">
-<h2><a href="Syr.html">Rozdział 24</a></h2>
+<h2><a href="Syr.html#v24">Rozdział 24</a></h2>
 <div class="verses">
 <h5>Przemowa mądrości</h5>
 <span class="verse" id="v24_1"><sup class="vn"><a href="#v24_1">1</a></sup>Mądrość wychwala sama siebie,<br>chlubi się pośród swego ludu.<br></span>
@@ -1123,7 +1169,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v25">
-<h2><a href="Syr.html">Rozdział 25</a></h2>
+<h2><a href="Syr.html#v25">Rozdział 25</a></h2>
 <div class="verses">
 <h5>Mądrość naucza o dobrym i złym człowieku</h5>
 <span class="verse" id="v25_1"><sup class="vn"><a href="#v25_1">1</a></sup>Trzema rzeczami się przyozdobiłam i okazałam się piękna<br>wobec Pana i ludzi:<br>zgodą wśród braci, przyjaźnią między sąsiadami<br>oraz zgodnie ze sobą żyjącymi żoną i mężem.<br></span>
@@ -1163,7 +1209,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v26">
-<h2><a href="Syr.html">Rozdział 26</a></h2>
+<h2><a href="Syr.html#v26">Rozdział 26</a></h2>
 <div class="verses">
 <span class="verse" id="v26_1"><sup class="vn"><a href="#v26_1">1</a></sup>Szczęśliwy mąż, który ma dobrą żonę,<br>liczba dni jego będzie podwojona.<br></span>
 <span class="verse" id="v26_2"><sup class="vn"><a href="#v26_2">2</a></sup>Dzielna żona radować będzie męża,<br>który osiągnie pełnię lat w pokoju.<br></span>
@@ -1198,7 +1244,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v27">
-<h2><a href="Syr.html">Rozdział 27</a></h2>
+<h2><a href="Syr.html#v27">Rozdział 27</a></h2>
 <div class="verses">
 <span class="verse" id="v27_1"><sup class="vn"><a href="#v27_1">1</a></sup>Wielu grzeszy z chęci zysku,<br>a ten, kto stara się wzbogacić, wzrok odwraca.<br></span>
 <span class="verse" id="v27_2"><sup class="vn"><a href="#v27_2">2</a></sup>Jak kołek wbija się między kamienie ze sobą spojone,<br>tak grzech się wdziera między sprzedaż a kupno.<br></span>
@@ -1246,7 +1292,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v28">
-<h2><a href="Syr.html">Rozdział 28</a></h2>
+<h2><a href="Syr.html#v28">Rozdział 28</a></h2>
 <div class="verses">
 <span class="verse" id="v28_1"><sup class="vn"><a href="#v28_1">1</a></sup>Tego, kto się mści, spotka pomsta od Pana,<br>On grzechy jego dokładnie zachowa w pamięci.<br></span>
 <span class="verse" id="v28_2"><sup class="vn"><a href="#v28_2">2</a></sup>Odpuść przewinę bliźniemu,<br>a wówczas, gdy błagać będziesz, zostaną ci odpuszczone grzechy.<br></span>
@@ -1285,7 +1331,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v29">
-<h2><a href="Syr.html">Rozdział 29</a></h2>
+<h2><a href="Syr.html#v29">Rozdział 29</a></h2>
 <div class="verses">
 <h5>Pożyczka</h5>
 <span class="verse" id="v29_1"><sup class="vn"><a href="#v29_1">1</a></sup>Kto jest miłosierny, pożycza bliźniemu,<br>a kto wspomaga go swą ręką, wypełnia przykazania.<br></span>
@@ -1330,7 +1376,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v30">
-<h2><a href="Syr.html">Rozdział 30</a></h2>
+<h2><a href="Syr.html#v30">Rozdział 30</a></h2>
 <div class="verses">
 <h5>Wychowanie</h5>
 <span class="verse" id="v30_1"><sup class="vn"><a href="#v30_1">1</a></sup>Kto miłuje swego syna, często używa na niego rózgi,<br>aby na końcu mógł się nim cieszyć.<br></span>
@@ -1370,7 +1416,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v31">
-<h2><a href="Syr.html">Rozdział 31</a></h2>
+<h2><a href="Syr.html#v31">Rozdział 31</a></h2>
 <div class="verses">
 <h5>Bogactwo</h5>
 <span class="verse" id="v31_1"><sup class="vn"><a href="#v31_1">1</a></sup>Bezsenność z powodu bogactwa wyczerpuje ciało,<br>a troska o nie oddala sen.<br></span>
@@ -1416,7 +1462,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v32">
-<h2><a href="Syr.html">Rozdział 32</a></h2>
+<h2><a href="Syr.html#v32">Rozdział 32</a></h2>
 <div class="verses">
 <span class="verse" id="v32_1"><sup class="vn"><a href="#v32_1">1</a></sup>Jeśli posadzono cię na pierwszym miejscu, nie wbijaj się w pychę,<br>bądź pośród innych jak jeden z nich,<br>miej o nich staranie; dopiero wtedy usiądź!<br></span>
 <span class="verse" id="v32_2"><sup class="vn"><a href="#v32_2">2</a></sup>Gdy wykonasz całe zadanie, zajmij swoje miejsce,<br>abyś się nimi radował<br>i byś otrzymał wieniec za sprawność.<br></span>
@@ -1458,7 +1504,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v33">
-<h2><a href="Syr.html">Rozdział 33</a></h2>
+<h2><a href="Syr.html#v33">Rozdział 33</a></h2>
 <div class="verses">
 <span class="verse" id="v33_1"><sup class="vn"><a href="#v33_1">1</a></sup>Nie spadnie zło na bojącego się Pana,<br>ale nawet w doświadczeniu będzie wybawiony.<br></span>
 <span class="verse" id="v33_2"><sup class="vn"><a href="#v33_2">2</a></sup>Mąż mądry nie będzie nienawidził Prawa<sup>s</sup>,<br>ale kto obłudnie do niego się odnosi, jest jak łódź w czasie burzy.<br></span>
@@ -1511,7 +1557,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v34">
-<h2><a href="Syr.html">Rozdział 34</a></h2>
+<h2><a href="Syr.html#v34">Rozdział 34</a></h2>
 <div class="verses">
 <h5>Sny</h5>
 <span class="verse" id="v34_1"><sup class="vn"><a href="#v34_1">1</a></sup>Mąż nierozsądny miewa czcze i zwodnicze nadzieje,<br>a marzenia senne uskrzydlają bezrozumnych.<br></span>
@@ -1553,7 +1599,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v35">
-<h2><a href="Syr.html">Rozdział 35</a></h2>
+<h2><a href="Syr.html#v35">Rozdział 35</a></h2>
 <div class="verses">
 <h5>Prawo i ofiary</h5>
 <span class="verse" id="v35_1"><sup class="vn"><a href="#v35_1">1</a></sup>Kto zachowuje Prawo<sup>s</sup>, mnoży ofiary,<br>a kto zważa na przykazania, składa ofiary biesiadne.<br></span>
@@ -1593,7 +1639,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v36">
-<h2><a href="Syr.html">Rozdział 36</a></h2>
+<h2><a href="Syr.html#v36">Rozdział 36</a></h2>
 <div class="verses">
 <h5>Modlitwa o wybawienie Izraela</h5>
 <span class="verse" id="v36_1"><sup class="vn"><a href="#v36_1">1</a></sup>Zmiłuj się nad nami, Władco, Boże wszechrzeczy, i spojrzyj,<br>ześlij bojaźń przed Tobą na wszystkie narody,<br></span>
@@ -1635,7 +1681,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v37">
-<h2><a href="Syr.html">Rozdział 37</a></h2>
+<h2><a href="Syr.html#v37">Rozdział 37</a></h2>
 <div class="verses">
 <h5>Przyjaciel</h5>
 <span class="verse" id="v37_1"><sup class="vn"><a href="#v37_1">1</a></sup>Każdy przyjaciel mówi: «I ja zostałem twoim przyjacielem»,<br>ale bywa przyjaciel tylko z imienia.<br></span>
@@ -1685,7 +1731,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v38">
-<h2><a href="Syr.html">Rozdział 38</a></h2>
+<h2><a href="Syr.html#v38">Rozdział 38</a></h2>
 <div class="verses">
 <h5>Lekarz i leki</h5>
 <span class="verse" id="v38_1"><sup class="vn"><a href="#v38_1">1</a></sup>Oddaj lekarzowi cześć należną jego posłudze,<br>albowiem i jego stworzył Pan.<br></span>
@@ -1745,7 +1791,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v39">
-<h2><a href="Syr.html">Rozdział 39</a></h2>
+<h2><a href="Syr.html#v39">Rozdział 39</a></h2>
 <div class="verses">
 <span class="verse" id="v39_1"><sup class="vn"><a href="#v39_1">1</a></sup>Inaczej jest z tym, który duszę wkłada<br>w rozważania nad Prawem<sup>s</sup> Najwyższego.<br>Badać on będzie mądrość wszystkich starożytnych,<br>a czas wolny poświęci proroctwom.<br></span>
 <span class="verse" id="v39_2"><sup class="vn"><a href="#v39_2">2</a></sup>Zachowa opowiadania ludzi znakomitych<br>i wnikać będzie w tajniki przypowieści;<br></span>
@@ -1797,7 +1843,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v40">
-<h2><a href="Syr.html">Rozdział 40</a></h2>
+<h2><a href="Syr.html#v40">Rozdział 40</a></h2>
 <div class="verses">
 <h5>Wielka troska człowieka</h5>
 <span class="verse" id="v40_1"><sup class="vn"><a href="#v40_1">1</a></sup>Wielka udręka stała się udziałem każdego człowieka<br>i ciężkie jarzmo [spoczęło] na synach Adama,<br>od dnia wyjścia z łona matki,<br>aż do dnia powrotu do matki wszystkich.<br></span>
@@ -1847,7 +1893,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v41">
-<h2><a href="Syr.html">Rozdział 41</a></h2>
+<h2><a href="Syr.html#v41">Rozdział 41</a></h2>
 <div class="verses">
 <h5>Śmierć</h5>
 <span class="verse" id="v41_1"><sup class="vn"><a href="#v41_1">1</a></sup>O śmierci, jakże przykra jest pamięć o tobie<br>dla człowieka żyjącego spokojnie wśród swego dobytku;<br>dla męża, który jest beztroski i we wszystkim odnosi sukcesy,<br>a który może jeszcze smakować przyjemności.<br></span>
@@ -1890,7 +1936,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v42">
-<h2><a href="Syr.html">Rozdział 42</a></h2>
+<h2><a href="Syr.html#v42">Rozdział 42</a></h2>
 <div class="verses">
 <span class="verse" id="v42_1"><sup class="vn"><a href="#v42_1">1</a></sup>Nie wstydź się następujących rzeczy<br>i nie grzesz przez wzgląd na osobę:<br></span>
 <span class="verse" id="v42_2"><sup class="vn"><a href="#v42_2">2</a></sup>Prawa Najwyższego i przymierza<sup>s</sup>,<br>i wyroku, który usprawiedliwia nawet bezbożnego,<br></span>
@@ -1933,7 +1979,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v43">
-<h2><a href="Syr.html">Rozdział 43</a></h2>
+<h2><a href="Syr.html#v43">Rozdział 43</a></h2>
 <div class="verses">
 <h5>Niebo</h5>
 <span class="verse" id="v43_1"><sup class="vn"><a href="#v43_1">1</a></sup>Wspaniałość na wysokości, sklepienie [jaśniejące] przejrzystością,<br>takie jest niebo - widok pełen chwały.<br></span>
@@ -1986,7 +2032,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v44">
-<h2><a href="Syr.html">Rozdział 44</a></h2>
+<h2><a href="Syr.html#v44">Rozdział 44</a></h2>
 <div class="verses">
 <h5>Chwała Boża w historii Izraela</h5>
 <span class="verse" id="v44_1"><sup class="vn"><a href="#v44_1">1</a></sup>Wychwalajmy mężów sławnych<br>i ojców naszych w kolejności ich pochodzenia.<br></span>
@@ -2030,7 +2076,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v45">
-<h2><a href="Syr.html">Rozdział 45</a></h2>
+<h2><a href="Syr.html#v45">Rozdział 45</a></h2>
 <div class="verses">
 <h6>Mojżesz</h6>
 <span class="verse" id="v45_1"><sup class="vn"><a href="#v45_1">1</a></sup>Wywiódł z niego człowieka miłosiernego,<br>który w oczach wszystkich znalazł łaskę,<br>umiłowanego przez Boga i ludzi,<br>Mojżesza, którego pamięć niech będzie błogosławiona!<br></span>
@@ -2080,7 +2126,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v46">
-<h2><a href="Syr.html">Rozdział 46</a></h2>
+<h2><a href="Syr.html#v46">Rozdział 46</a></h2>
 <div class="verses">
 <h6>Jozue i Kaleb</h6>
 <span class="verse" id="v46_1"><sup class="vn"><a href="#v46_1">1</a></sup>Dzielny na wojnie Jozue, syn Nuna,<br>następca Mojżesza na urzędzie prorockim,<br>stał się, stosownie do swego imienia<sup>s</sup>,<br>wielki przez to, że ocalił Jego wybranych,<br>że wywarł pomstę na opornych wrogach,<br>by wprowadzić Izraela w jego dziedzictwo.<br></span>
@@ -2121,7 +2167,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v47">
-<h2><a href="Syr.html">Rozdział 47</a></h2>
+<h2><a href="Syr.html#v47">Rozdział 47</a></h2>
 <div class="verses">
 <h6>Natan i Dawid</h6>
 <span class="verse" id="v47_1"><sup class="vn"><a href="#v47_1">1</a></sup>Po nim powstał Natan,<br>aby być prorokiem za dni Dawida.<br></span>
@@ -2174,7 +2220,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v48">
-<h2><a href="Syr.html">Rozdział 48</a></h2>
+<h2><a href="Syr.html#v48">Rozdział 48</a></h2>
 <div class="verses">
 <h6>Eliasz</h6>
 <span class="verse" id="v48_1"><sup class="vn"><a href="#v48_1">1</a></sup>Następnie powstał Eliasz, prorok jak ogień,<br>a słowo jego płonęło jak pochodnia.<br></span>
@@ -2226,7 +2272,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v49">
-<h2><a href="Syr.html">Rozdział 49</a></h2>
+<h2><a href="Syr.html#v49">Rozdział 49</a></h2>
 <div class="verses">
 <h6>Jozjasz</h6>
 <span class="verse" id="v49_1"><sup class="vn"><a href="#v49_1">1</a></sup>Pamięć o Jozjaszu - to zmieszane kadzidło,<br>przygotowane pracą tego, kto robi wonności;<br>w ustach każdego jest słodka jak miód<br>i jak muzyka na uczcie przy winie.<br></span>
@@ -2265,7 +2311,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v50">
-<h2><a href="Syr.html">Rozdział 50</a></h2>
+<h2><a href="Syr.html#v50">Rozdział 50</a></h2>
 <div class="verses">
 <h6>Arcykapłan Szymon</h6>
 <span class="verse" id="v50_1"><sup class="vn"><a href="#v50_1">1</a></sup>Szymon, syn Oniasza, arcykapłan,<br>za życia swego naprawił dom [Pański],<br>za dni swoich wzmocnił świątynię.<br></span>
@@ -2313,7 +2359,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v51">
-<h2><a href="Syr.html">Rozdział 51</a></h2>
+<h2><a href="Syr.html#v51">Rozdział 51</a></h2>
 <div class="verses">
 <h4>DODATKI</h4>
 <h5>Hymn pochwalny ocalonego</h5>
@@ -2362,6 +2408,20 @@ article.introduction {
 <script>
 (function () {
   'use strict';
+  function fontSize(size) {
+    document.documentElement.style.fontSize = size + 'px';
+    try { localStorage.setItem('btv-font-size', size); } catch (e) {}
+  }
+  var switcher = document.querySelector('.font-switcher');
+  [14, 16, 18, 20, 22].forEach(function (size) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = 'A';
+    b.style.fontSize = size + 'px';
+    b.setAttribute('aria-label', 'Rozmiar czcionki ' + size + ' pikseli');
+    b.addEventListener('click', function () { fontSize(size); });
+    switcher.appendChild(b);
+  });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {

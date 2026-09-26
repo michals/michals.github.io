@@ -2,45 +2,84 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try{var s=localStorage.getItem('btv-font-size');if(s)document.documentElement.style.fontSize=s+'px';}catch(e){}
+</script>
 <title>Pieśń nad Pieśniami — Biblia Tysiąclecia (BT-V)</title>
 <style>
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
 body {
   font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   line-height: 1.6;
-  max-width: 42em;
+  max-width: 42rem;
   margin: 0 auto;
-  padding: 1em 1.5em 3em;
+  padding: 1rem 1.5rem 3rem;
   color: #222;
   background: #fff;
 }
+.font-switcher {
+  margin-left: auto;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  border: 1px solid #808080;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.font-switcher button {
+  margin-left: 0.25rem;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+  font-family: inherit;
+}
 nav.toc {
   font-family: -apple-system, 'Segoe UI', sans-serif;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   color: #555;
 }
 nav.toc a {
-  margin-right: 0.45em;
+  margin-right: 0.45rem;
   text-decoration: none;
 }
-h1 { font-size: 1.8em; }
-h2 {
-  font-size: 1.4em;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
+header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
-h1 a, h2 a {
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+h1 { font-size: 1.8rem; }
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+h1 a, h2 a, .site-title a {
   color: inherit;
   text-decoration: none;
 }
-h1 a:hover, h2 a:hover {
+h1 a:hover, h2 a:hover, .site-title a:hover {
   text-decoration: underline;
 }
 sup.vn {
   color: #0000aa;
-  font-size: 0.7em;
-  margin-right: 0.2em;
+  font-size: 0.7rem;
+  margin-right: 0.2rem;
   position: relative;
-  top: -0.2em;
+  top: -0.2rem;
   user-select: none;
 }
 span.verse sup.vn a {
@@ -54,9 +93,9 @@ div.verses {
 span.speaker { font-style: italic; }
 ul.footnotes {
   list-style: none;
-  font-size: 0.85em;
+  font-size: 0.85rem;
   color: #444;
-  padding: 2em 2em 2em 2em;
+  padding: 2rem;
 }
 a.fnref, a.backref { text-decoration: none; }
 ul.footnotes li:target, span.verse:target, span.verse.sel {
@@ -66,30 +105,37 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   padding: 2px;
   transition: background-color 0.5s ease;
 }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  ul.footnotes li:target, span.verse:target, span.verse.sel {
+    transition: none;
+  }
+}
 span.verse, ul.footnotes>li {
-  scroll-margin-top: 1em;
+  scroll-margin-top: 1rem;
 }
 article.introduction {
   background: #fafafa;
   border-left: 3px solid #ddd;
-  padding: 0.5em 1em;
-  margin: 1em 0;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
 }
 </style>
 </head>
 <body>
-<h1><a href="index.html">Pieśń nad Pieśniami</a></h1>
+<header class="site"><p class="site-title"><a href="index.html">Biblia Tysiąclecia</a></p><div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div></header>
+<h1><a href="PnP.html">Pieśń nad Pieśniami</a></h1>
 <nav class="toc">Rozdziały: <a href="#v1">1</a> <a href="#v2">2</a> <a href="#v3">3</a> <a href="#v4">4</a> <a href="#v5">5</a> <a href="#v6">6</a> <a href="#v7">7</a> <a href="#v8">8</a></nav>
-<article class="introduction">
-<h2><a href="PnP.html">Wstęp do Ksiąg Dydaktycznych</a></h2>
+<article class="introduction" id="i1">
+<h2><a href="PnP.html#i1">Wstęp do Ksiąg Dydaktycznych</a></h2>
 <p>Księgi dydaktyczne, czyli mądrościowe stanowią w chrześcijańskim zbiorze Ksiąg świętych najmniejszą z trzech jego części. Obejmują siedem pism o charakterze poetyckim. Biblia hebrajska zna ich tylko pięć (Hi, Ps, Prz, Koh, Pnp), zaliczając je wszystkie do najmłodszej części kanonu, do tzw. Pism. Dwie pozostałe (Mdr, Syr) należą do ksiąg wtórnokanonicznych, przekazanych przez tradycję jedynie w języku greckim i reprezentujących bardziej dojrzały etap myśli objawionej. <br>    Środowisko, w którym powstały Księgi dydaktyczne, różni się znacznie od jahwistycznego czy kapłańskiego w Pięcioksięgu oraz od prorockiego, mimo że wykazuje wielokrotne powiązanie z nimi. Tak np. Psalmy noszą ślady niemal wszystkich tendencji i prądów teologicznych, liturgicznych i etycznych, znanych w księgach historycznych i prorockich. Nadto jednak pozostają księgi dydaktyczne w ścisłym kontakcie ze środowiskami mądrościowymi starożytnego Wschodu (edomickim, egipskim, babilońskim, arabskim itp.). Religijna refleksja izraelska dostosowała tę &quot;międzynarodową&quot; mądrość do swojej monoteistycznej wiary i norm etyczno-prawnych, uzupełniając rodzimą refleksją. O ile popularna mądrość i jej nakazy były zawsze znane w Izraelu, pierwsze kontakty z wielkimi ośrodkami mądrościowymi można stwierdzić za czasów Salomona (1 Krl 5,9-14); władca ten pozostanie w mentalności izraelskiej na zawsze synonimem największego z mędrców. <br>    Rodzimą formą literacką ksiąg mądrościowych jest maszal, czyli sentencja wyrażająca za pomocą rytmu prawdy natury ogólnej, wskazania, napomnienia stanowe lub popularne normy postępowania. Paralelizmy, ostre przeciwstawienia lub paradoksalne formuły mają utrwalać w pamięci aforyzmy, często przechodzące w przysłowia. Księga Przysłów stanowi zbiór tego rodzaju sentencji; występują one nie tylko we wszystkich pozostałych księgach dydaktycznych, ale także sporadycznie w pismach historycznych i prorockich. Dalszy rozwój tej formy literackiej doprowadził do powstania przypowieści, alegorii lub zwartego układu mądrościowego, jaki występuje często w późniejszych księgach (Hi, Koh, Mdr, Syr). Bardziej uroczysty, a zarazem religijny ton reprezentują Psalmy, najbardziej może izraelski pomnik literatury mądrościowej w Biblii (zob. Wstęp do Księgi Psalmów). Nie brak tu także popularnych pieśni weselnych i miłosnych, rozumianych alegorycznie (Pnp), ani wątków dramatycznych (Hi). <br>    Zainteresowania doktrynalne biblijnych ksiąg mądrościowych koncentrują się - podobnie jak w literaturze pozabiblijnej - wokół zagadnień człowieka i jego życia. Zasadnicze tematy teologiczne, jak wybór Izraela przez Boga, Przymierze, zbawienie eschatologiczne, rozważane są (poza Psalmami i może antologią Syracha) marginesowo. Mimo to utwory te nie reprezentują czystego humanizmu o charakterze doczesnym i stanowym (jak np. w mądrości egipskiej). Człowiek rozważany jest nie tylko jako stworzenie Boże, ale pozostaje w wielokrotnej zależności od Niego, jest Jego dłużnikiem, potrzebuje Jego opieki. Jeżeli Księgi dydaktyczne nie ustają w zalecaniu mądrości - od roztropności czysto ludzkiej aż do hipostazy mądrości Bożej - towarzyszy im często powracające motto, że początkiem mądrości jest bojaźń Boża, zakładająca pobożność i wysoki poziom życia moralnego. <br>    Stosownie do charakteru ksiąg mądrościowych postać autora lub redaktora zbioru jest drugorzędna. Chodzi przeważnie o pisma anonimowe, przypisywane niekiedy sławnym mędrcom biblijnym, głównie Salomonowi, lub pozabiblijnym (Prz, Pnp, Mdr). Nawet w księgach wymieniających autora (niektóre Ps, Syr) należy się liczyć często z wtórnymi opracowaniami starszego materiału przekazywanego ustnie. Chociaż NT przytacza (poza Psalmami) znacznie rzadziej księgi mądrościowe, przygotowały one w znacznej mierze lud Boży na przyjęcie słowa życia z ust Mądrości Wcielonej, Jezusa Chrystusa.</p>
 </article>
-<article class="introduction">
-<h2><a href="PnP.html">Wstęp do Pieśni nad Pieśniami</a></h2>
+<article class="introduction" id="i2">
+<h2><a href="PnP.html#i2">Wstęp do Pieśni nad Pieśniami</a></h2>
 <p>Tytuł &quot;Pieśń nad Pieśniami&quot; znaczy tyle, co pieśń najdoskonalsza, pieśń w najpełniejszym znaczeniu słowa. Ze względu na swoisty gatunek literacki tej księgi interpretacja jej stanowi niełatwe zadanie. Jest to bowiem jedyna w całym Piśmie świętym księga, w której nie ma mowy ani o Bogu, ani o narodzie wybranym i która nie zawiera żadnej myśli religijnej. Rozumiana w znaczeniu dosłownym, jest ona po prostu poematem lirycznym o tematyce miłosnej. Z tego powodu historia egzegezy Pnp wykazuje rozbieżność interpretacji niespotykaną gdzie indziej. Już Teodor z Mopswestii (350-428) wyraził opinię, że Pnp to tylko poemat miłosny w rodzaju Uczty Platona. W ostatnich czasach wielu autorów wznowiło w najrozmaitszych formach tę naturalistyczną interpretację, do której odrodzenia przyczyniła się nieumiarkowana tendencja doszukiwania się źródeł pozabiblijnych Pnp, w pierwszym rzędzie wpływów asyro-babilońskich i egipskich. Niektóre niewątpliwe podobieństwa, zwłaszcza z egipską poezją miłosną, skłoniły wielu autorów do przyjęcia wniosku, że Pnp jest tylko wyjątkowo pięknym okazem tego typu literatury, a więc jest utworem miłosnym, a może nawet zbiorem pieśni miłosnych lub weselnych. <br>    Dziś, dzięki rozwojowi nauk biblijnych, coraz bardziej jasnym się staje, że Pnp, mimo pewnego podobieństwa do utworów pozabiblijnych, korzeniami swymi tkwi w Biblii i jest dojrzałym owocem myśli teologicznej proroków: Ozeasza, Jeremiasza, Ezechiela oraz Deutero-Izajasza (rozdz. 40-66 [-&gt;Iz 40,1]) o oblubieńczym stosunku Boga do narodu wybranego, a także o nawróceniu i powrocie narodu-oblubienicy po wielu niewiernościach do łaski. Powrót ten, dzięki bezgranicznemu miłosierdziu Obrażonego, ma w sobie całą świeżość pierwszej miłości (por. Iz 54,4-10) i całą radość zaślubin. <br>    Ta zależność Pnp od tradycji prorockiej czyniła księgę zrozumiałą dla pierwszych czytelników, którzy znając naukę proroków, mogli bez trudności rozumieć ją alegorycznie, a nie naturalistycznie. Obrazy bowiem, jakimi autor Pnp określał Oblubieńca i Oblubienicę (pasterz, król, winnica...), przypominały Boga i naród wybrany w ujęciu ksiąg prorockich. <br>    Wszystkie te starotestamentowe obrazy, na których zbudowana jest Pnp, mają swe przedłużenie w NT: Oblubieniec i Oblubienica: por. Mt 9,15; Mt 22,2; Mt 25,1; J 3,29; 2 Kor 11,2; Ef 5,31n; Ap 19,7nn; Ap 21,2.9 Chrystus-Król: por. Łk 1,32n; Łk 19,38; J 18,33-37; Dz 2,34nn; 1 Kor 15,25-28; Flp 2,9nn; Hbr 1,8; Ap 19,11-16. Chrystus-Pasterz: por. Mt 25,32; Mt 26,31; J 10,11-16; J 21,16n; Hbr 13,20; 1 P 2,25; Ap 7,17. Kościół-winnica: por. Mt 20,1; Mt 21,33-46. Tu leży klucz do właściwego rozumienia naszej księgi. <br>    Idąc za głównym nurtem katolickiej interpretacji tradycyjnej, trzeba powiedzieć, że oblubieńczy ten stosunek realizuje się w różnych płaszczyznach znaczeniowych: a) W relacji Bóg - Izrael albo Mesjasz-Izrael. b) W sensie pełniejszym: Chrystus-Kościół NT. c) W sensie najogólniejszym: Bóg (Chrystus) - ludzkość odkupiona i powołana do zjednoczenia z Nim w miłości. d) Ta sama oblubieńcza miłość ma się zrealizować także w relacji Chrystus - człowiek indywidualny, bo w każdym członku Kościoła ma się przejawiać w pewien sposób całe misterium zaślubin Chrystusa z Kościołem. e) Pnp ma również sens maryjny, a nawet treść księgi realizuje się najdoskonalej w relacji Bóg - Maryja, o tyle że w Maryi idea Kościoła, jako dziewiczej oblubienicy Boga, znajduje swój najpełniejszy wyraz. <br>    Niektórzy współcześni autorzy dostrzegają w Pnp aluzje do konkretnych wydarzeń z historii narodu izraelskiego, a zwłaszcza do powrotu z niewoli babilońskiej (np. Pnp 3,6nn; Pnp 4,8; Pnp 8,5). Ten Izrael historyczny nie może być jednak ostateczną treścią alegorii, bo sam jest typem Kościoła. <br>    Wydaje się jednak, że wyidealizowana postać Oblubienicy z Pnp jest bliższa Izraela według mesjańskich i eschatologicznych wizji proroków - a więc ostatecznie Izraela NT - niż konkretnego Izraela historycznego. Byłaby więc Pnp szczytem objawienia ST i jakby złotą klamrą, która spina obydwa Testamenty w jedno misterium miłości. <br>    Przedmiotem Pieśni nad Pieśniami nie jest ludzkie małżeństwo ani historyczne, ani idealne. Suponuje ona jednak rdzenną czystość miłości oblubieńczej i małżeńskiej, bo inaczej nie mogłaby ona być symbolem wzajemnej miłości Chrystusa i Kościoła. <br>    Oblubieniec z Pnp, jako symbol Boga, nie wykazuje niedoskonałości ani rozwoju, w przeciwieństwie do Oblubienicy, która nie jest bez pewnych słabości i która dojrzewa. W porównaniu z teologią nawrócenia podawaną przez proroków, w Pnp silniej zaznaczony jest czynnik osobistego wysiłku człowieka i współpracy woli z łaską. <br>    O autorze Pnp nic nie wiemy. Autorstwo Salomona dziś już nie ma zwolenników. Imię jego w tytule uważa się za fikcję literacką. Zarówno język jak i zapożyczona od proroków teologia wskazują na dość późną datę powstania utworu. Najprawdopodobniej szukać jej należy nie wcześniej niż w ostatnich latach niewoli babilońskiej, a nie później niż w IV wieku przed Chrystusem. <br>    Pieśń nad Pieśniami jest jedną z Ksiąg świętych najbardziej używanych w liturgii i najczęściej komentowanych. Wpływ jej na mistykę chrześcijańską jest ogromny. Utworem biblijnym najbardziej zbliżonym do Pnp pod względem treści i rodzaju literackiego jest Ps 45[44] [-&gt;Ps 45,1].</p>
 </article>
 <section class="chapter" id="v1">
-<h2><a href="PnP.html">Rozdział 1</a></h2>
+<h2><a href="PnP.html#v1">Rozdział 1</a></h2>
 <div class="verses">
 <h4>TYTUŁ</h4>
 <h3></h3>
@@ -124,7 +170,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v2">
-<h2><a href="PnP.html">Rozdział 2</a></h2>
+<h2><a href="PnP.html#v2">Rozdział 2</a></h2>
 <div class="verses">
 <h3></h3>
 <span class="verse" id="v2_1"><sup class="vn"><a href="#v2_1">1</a></sup><span class="speaker">Oblubienica:</span>Jam narcyz Szaronu<sup>s</sup>,<br>lilia dolin.<br></span>
@@ -155,7 +201,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v3">
-<h2><a href="PnP.html">Rozdział 3</a></h2>
+<h2><a href="PnP.html#v3">Rozdział 3</a></h2>
 <div class="verses">
 <h3></h3>
 <span class="verse" id="v3_1"><sup class="vn"><a href="#v3_1">1</a></sup>Na łożu mym nocą szukałam<br>umiłowanego mej duszy,<br>szukałam go, lecz nie znalazłam.<br></span>
@@ -181,7 +227,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v4">
-<h2><a href="PnP.html">Rozdział 4</a></h2>
+<h2><a href="PnP.html#v4">Rozdział 4</a></h2>
 <div class="verses">
 <h3></h3>
 <span class="verse" id="v4_1"><sup class="vn"><a href="#v4_1">1</a></sup><span class="speaker">Oblubieniec:</span>O jak piękna jesteś, przyjaciółko moja,<br>jakże piękna!<br>Oczy twe jak gołębice<br>za twoją zasłoną.<br>Włosy twe jak stado kóz<br>falujące na górach Gileadu<sup>s</sup>.<br></span>
@@ -216,7 +262,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v5">
-<h2><a href="PnP.html">Rozdział 5</a></h2>
+<h2><a href="PnP.html#v5">Rozdział 5</a></h2>
 <div class="verses">
 <h3></h3>
 <span class="verse" id="v5_1"><sup class="vn"><a href="#v5_1">1</a></sup><span class="speaker">Oblubieniec:</span>Wchodzę do mego ogrodu, siostro ma, oblubienico;<br>zbieram mirrę mą z moim balsamem;<br>spożywam plaster z miodem moim;<br>piję wino moje wraz z mlekiem moim.<br>Jedzcie, przyjaciele, pijcie,<br>upajajcie się, najdrożsi!<br></span>
@@ -252,7 +298,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v6">
-<h2><a href="PnP.html">Rozdział 6</a></h2>
+<h2><a href="PnP.html#v6">Rozdział 6</a></h2>
 <div class="verses">
 <h3></h3>
 <span class="verse" id="v6_1"><sup class="vn"><a href="#v6_1">1</a></sup><span class="speaker">Chór:</span>Dokąd odszedł twój umiłowany,<br>o najpiękniejsza z niewiast?<br>W którą zwrócił się stronę miły twój,<br>byśmy go wraz z tobą szukały?<br></span>
@@ -280,7 +326,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v7">
-<h2><a href="PnP.html">Rozdział 7</a></h2>
+<h2><a href="PnP.html#v7">Rozdział 7</a></h2>
 <div class="verses">
 <h3></h3>
 <span class="verse" id="v7_1"><sup class="vn"><a href="#v7_1">1</a></sup><span class="speaker">Chór I:</span>Wróć się, wróć, Szulamitko,<br>wróć się, wróć się, niech się twym widokiem nacieszymy!<br></span>
@@ -309,7 +355,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v8">
-<h2><a href="PnP.html">Rozdział 8</a></h2>
+<h2><a href="PnP.html#v8">Rozdział 8</a></h2>
 <div class="verses">
 <h3></h3>
 <span class="verse" id="v8_1"><sup class="vn"><a href="#v8_1">1</a></sup>O gdybyś był moim bratem,<br>który ssał pierś mojej matki,<br>ucałowałabym cię, spotkawszy na ulicy,<br>i nikt by mną nie mógł pogardzić.<br></span>
@@ -344,6 +390,20 @@ article.introduction {
 <script>
 (function () {
   'use strict';
+  function fontSize(size) {
+    document.documentElement.style.fontSize = size + 'px';
+    try { localStorage.setItem('btv-font-size', size); } catch (e) {}
+  }
+  var switcher = document.querySelector('.font-switcher');
+  [14, 16, 18, 20, 22].forEach(function (size) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = 'A';
+    b.style.fontSize = size + 'px';
+    b.setAttribute('aria-label', 'Rozmiar czcionki ' + size + ' pikseli');
+    b.addEventListener('click', function () { fontSize(size); });
+    switcher.appendChild(b);
+  });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {

@@ -2,45 +2,84 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try{var s=localStorage.getItem('btv-font-size');if(s)document.documentElement.style.fontSize=s+'px';}catch(e){}
+</script>
 <title>Ks. Powtórzonego Prawa — Biblia Tysiąclecia (BT-V)</title>
 <style>
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
 body {
   font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   line-height: 1.6;
-  max-width: 42em;
+  max-width: 42rem;
   margin: 0 auto;
-  padding: 1em 1.5em 3em;
+  padding: 1rem 1.5rem 3rem;
   color: #222;
   background: #fff;
 }
+.font-switcher {
+  margin-left: auto;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  border: 1px solid #808080;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.font-switcher button {
+  margin-left: 0.25rem;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+  font-family: inherit;
+}
 nav.toc {
   font-family: -apple-system, 'Segoe UI', sans-serif;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   color: #555;
 }
 nav.toc a {
-  margin-right: 0.45em;
+  margin-right: 0.45rem;
   text-decoration: none;
 }
-h1 { font-size: 1.8em; }
-h2 {
-  font-size: 1.4em;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
+header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
-h1 a, h2 a {
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+h1 { font-size: 1.8rem; }
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+h1 a, h2 a, .site-title a {
   color: inherit;
   text-decoration: none;
 }
-h1 a:hover, h2 a:hover {
+h1 a:hover, h2 a:hover, .site-title a:hover {
   text-decoration: underline;
 }
 sup.vn {
   color: #0000aa;
-  font-size: 0.7em;
-  margin-right: 0.2em;
+  font-size: 0.7rem;
+  margin-right: 0.2rem;
   position: relative;
-  top: -0.2em;
+  top: -0.2rem;
   user-select: none;
 }
 span.verse sup.vn a {
@@ -54,9 +93,9 @@ div.verses {
 span.speaker { font-style: italic; }
 ul.footnotes {
   list-style: none;
-  font-size: 0.85em;
+  font-size: 0.85rem;
   color: #444;
-  padding: 2em 2em 2em 2em;
+  padding: 2rem;
 }
 a.fnref, a.backref { text-decoration: none; }
 ul.footnotes li:target, span.verse:target, span.verse.sel {
@@ -66,31 +105,38 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   padding: 2px;
   transition: background-color 0.5s ease;
 }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  ul.footnotes li:target, span.verse:target, span.verse.sel {
+    transition: none;
+  }
+}
 span.verse, ul.footnotes>li {
-  scroll-margin-top: 1em;
+  scroll-margin-top: 1rem;
 }
 article.introduction {
   background: #fafafa;
   border-left: 3px solid #ddd;
-  padding: 0.5em 1em;
-  margin: 1em 0;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
 }
 </style>
 </head>
 <body>
-<h1><a href="index.html">Ks. Powtórzonego Prawa</a></h1>
+<header class="site"><p class="site-title"><a href="index.html">Biblia Tysiąclecia</a></p><div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div></header>
+<h1><a href="Pwt.html">Ks. Powtórzonego Prawa</a></h1>
 <nav class="toc">Rozdziały: <a href="#v1">1</a> <a href="#v2">2</a> <a href="#v3">3</a> <a href="#v4">4</a> <a href="#v5">5</a> <a href="#v6">6</a> <a href="#v7">7</a> <a href="#v8">8</a> <a href="#v9">9</a> <a href="#v10">10</a> <a href="#v11">11</a> <a href="#v12">12</a> <a href="#v13">13</a> <a href="#v14">14</a> <a href="#v15">15</a> <a href="#v16">16</a> <a href="#v17">17</a> <a href="#v18">18</a> <a href="#v19">19</a> <a href="#v20">20</a> <a href="#v21">21</a> <a href="#v22">22</a> <a href="#v23">23</a> <a href="#v24">24</a> <a href="#v25">25</a> <a href="#v26">26</a> <a href="#v27">27</a> <a href="#v28">28</a> <a href="#v29">29</a> <a href="#v30">30</a> <a href="#v31">31</a> <a href="#v32">32</a> <a href="#v33">33</a> <a href="#v34">34</a></nav>
-<article class="introduction">
-<h2><a href="Pwt.html">Wstęp do Pięcioksięgu</a></h2>
+<article class="introduction" id="i1">
+<h2><a href="Pwt.html#i1">Wstęp do Pięcioksięgu</a></h2>
 <p>Wstęp do Pięcioksięgu</p>
 <p>Pierwszą część Starego Testamentu tworzy zbiór, zwany w tradycji grecko-łacińskiej Pięcioksięgiem, czyli Pentateuchem, w Biblii zaś hebrajskiej Prawem (Tora) lub Prawem Mojżesza. Pięć kolejnych ksiąg tego zbioru (Rdz, Wj, Kpł, Lb, Pwt) przedstawia tu najdawniejszy etap historii Izraela oraz jego prawodawstwo. Podział całości na pięć części podyktowały obok treści zapewne także względy praktyczne, związane ze sposobem pisania na zwojach. Nie przesądzając zagadnienia, czy podział ten sięga najpierwotniejszych form Pięcioksięgu, jest on z pewnością bardzo dawny, znany całej tradycji żydowskiej i chrześcijańskiej. O ile Biblia hebrajska nazywa poszczególne części od pierwszych ich słów, o tyle grecko-łacińskie tłumaczenia nadały im specjalne nazwy, nawiązujące do treści ksiąg lub ich właściwości. <br>    Pięcioksiąg rozwija jeden zasadniczy temat: opisuje genezę i teokratyczny charakter społeczności Bożej w trzech kolejnych etapach: od początku świata do Abrahama, dalej poprzez dzieje patriarchów do pobytu w Egipcie i wreszcie od wyjścia z niewoli egipskiej do śmierci Mojżesza. Czyni to nie tylko przez bezpośredni opis historyczny, ale o wiele bardziej w obszernych zbiorach praw, gwarantujących bezpośredni wgląd w strukturę Izraela. <br>    Punktem wyjścia Pięcioksięgu jest akt stwórczy Boga wraz ze swym kulminacyjnym punktem - stworzeniem człowieka i zapewnieniem mu idealnych warunków bytowania. Historia ludzkości staje się w Biblii jednocześnie historią zbawienia, ponieważ człowiek przedstawiony jest jako istota upadła i grzeszna, potrzebująca zbawczej działalności Bożej. Inicjatywę podejmuje sam Bóg, wybierając kolejno protoplastów, pokolenia, rody i rodziny z powszechnego zalewu grzechu i przewrotności. Okres prehistoryczny dziejów narodu zamyka postać Abrahama, herosa wiary; jego potomstwo, Izrael, będzie dziedziczyć zbawcze obietnice Boże aż do chwili definitywnego odkupienia spod jarzma grzechu. Wraz z patriarchami dzieje narodu Bożego stają u progu okresu historycznego, znaczonego niby milowymi kamieniami przejawami opieki Bożej. Tak rozumie Pięcioksiąg dzieje rodziny Abrahama, jej wędrówki, przeniesienie się i pobyt w Egipcie, wystąpienie Mojżesza i wreszcie długą drogę ku Ziemi Obietnic. Powołanie Mojżesza stało się punktem zwrotnym w realizacji zbawczych planów Jahwe, Boga Izraela. Tradycja Biblijna czyni więc Mojżesza nie tylko rzecznikiem i pośrednikiem przymierza synajskiego, najważniejszego aktu religijnego dziejów, ale przypisuje mu autorstwo pewnych przynajmniej części prawodawstwa sakralnego i cywilnego zawartego w Pięcioksięgu. Najbardziej wymowny jest zresztą fakt, że aż cztery spośród pięciu ksiąg zajmują się dziejami narodu w ramach cyklu życia Mojżesza. <br>    Już w starożytności przedchrześcijańskiej istniało mocne przeświadczenie o bardzo dawnym pochodzeniu Pięcioksięgu. Niepamiętna tradycja wskazywała na Mojżesza jako autora niemal całego Pięcioksięgu (z wyjątkiem opisu jego śmierci w zakończeniu Pwt, przypisywanemu Jozuemu). Śladem tej powszechnej tradycji jest jedna z nazw zbioru. Sam Pięcioksiąg nie świadczy nigdzie wyraźnie o autorstwie Mojżesza, a powszechne przeświadczenie o nim było nie tyle owocem literacko-naukowej analizy ksiąg, ile słusznego uwydatnienia roli Mojżesza w opisach i ustaleniu prawodawstwa. Niemniej pewne wypowiedzi pięciu ksiąg każą przypuszczać, iż działalność literacka nie była zupełnie obca Mojżeszowi. Wiele anachronizmów, powtórzeń i oczywistych uzupełnień wskazuje na to, że Pięcioksiąg w swej obecnej postaci ma za sobą długą historię; dane te nie pozwalają przypisywać go jednemu autorowi. Początki tej historii giną w mrokach przekazywanych ustnie z pokolenia na pokolenie rodowych tradycji, przekraczających swą starożytnością czasy Mojżesza. Takie urywki zawierają niewątpliwie poszczególne księgi zbioru - np. Rdz 4,23-24; Rdz 6,1-4; Rdz 9,25-27; Rdz 14,1nn (?); Wj 4,24-26; Lb 21,18.27-30 i in.; w późniejszych opracowaniach zostały one wzbogacone refleksjami popularnymi lub nawet teologicznymi. Dla historii Pięcioksięgu znacznie ważniejsze jest jednak ustalenie możliwie najpierwotniejszego rdzenia literackiego. Za taki przyjmuje się dziś powszechnie zbiór apodyktycznych przepisów (Wj 20,2-17; Pwt 5,6-17), Księgę Przymierza (Wj 20,22-23,14), obok szeregu opisów historycznych (np. Rdz 29-33 [-&gt;Rdz 29,1]; Wj 3-15 [-&gt;Wj 3,1] i in.). Starożytny koloryt prawodawstwa i wierny obraz stosunków panujących w XIII wieku przed Chr. w Palestynie pozwalają się tu dopatrywać śladów kompilacyjnej i literackiej działalności Mojżesza. Równolegle powstawała nadal znacznie bardziej rozbudowana tradycja ustna, wywodząca się ze środowiska Mojżesza i gromadząca pod jego imieniem także późniejsze prawa, opisy, a nawet urywki poetyckie. Nie znaczy to, by tradycja biblijna całą najstarszą działalność przypisywała Mojżeszowi, skoro wymienia także inne zbiory (Lb 21,14; Joz 10,13). Niemniej Mojżesz pozostał w świadomości Izraela pierwszym uchwytnym i najważniejszym ogniwem długiej tradycji pięciu ksiąg Tory, a Nowy Testament podjął tę tradycję i przekazał pokoleniom chrześcijańskim. <br>    Od tych niełatwo uchwytnych początków Pięcioksięgu do dzisiejszej jego postaci prowadzi długa droga. Społeczność izraelska nie przekazywała biernie tych tradycji religijnych, podobnie jak nie pozostawała bierną wobec swej historii i jej głównych postaci. Szukała w nich gwarancji swojej egzystencji, szukała także coraz to nowych, aktualnych wartości. Czynnikiem pobudzającym myśl religijną było przede wszystkim natchnienie Boże, udzielane wszystkim tym, którzy przyczyniali się do wzbogacenia skarbnicy słowa Bożego. Poszczególne etapy kształtujące Pięcioksiąg można jedynie odtworzyć w ogólnych ramach, kierując się żmudną analizą dzisiejszej jego treści oraz zachowaną spuścizną literacką ludów starożytnego Wschodu. <br>    Wraz z ukonstytuowaniem się i utwierdzeniem teokratycznej monarchii w Izraelu nasuwała się refleksja nad przeszłością narodu. W atmosferze pokoju końcowych lat panowania Dawida i złotego okresu Salomona w środowisku, zwanym przez współczesną krytykę &quot;jahwistycznym&quot;, zebrano starannie najdawniejsze - literackie i pozaliterackie - tradycje w jedną historię Izraela, pokazaną na tle dziejów świata i ludzkości. Historia jednak stanowi tylko tło zbawczej działalności Bożej związanej z instytucją teokratycznej społeczności Bożej. Działalność ta rozwija się w myśl obietnic danych Abrahamowi, a potwierdzonych wielokrotnie przez Boga, zwłaszcza w dziele uwolnienia z Egiptu i w wędrówce po pustyni pod przewodnictwem Mojżesza. W tym świetle odczytano dawne tradycje o Mojżeszu, nadając im bardziej jednolitą formę, ale i aktualną treść. Wyjątkowe stanowisko Izraela wśród innych narodów tak pod względem politycznym, jak i religijnym, rozumiano więc jako konsekwencję dawniejszych etapów dziejów narodu. Jednocześnie aktualizacji uległa dawna Księga Przymierza, odnawiana systematycznie w ramach kultowych obrzędów Paschy. Dawne prawodawstwo Boże, potwierdzone w swym Boskim pochodzeniu przez bieg wypadków, zostało jeszcze ściślej związane nie tylko z dziejami Izraela, ale z życiem publicznym i prywatnym narodu. Ze środowiska &quot;jahwistycznego&quot; pochodzą niemal wszystkie ważniejsze zapowiedzi mesjańskie Pięcioksięgu (Protoewangelia: Rdz 3,15; proroctwa: Rdz 49,10; Lb 24,17). Nie bez znaczenia był też fakt, że tradycja &quot;jahwistyczna&quot; była ściśle związana z dynastią Dawidową i Judą, i to w okresie, kiedy państwo Izraela stanowiło jeszcze polityczną jedność. <br>    Nieco inne założenia zdradzają teksty pochodzenia &quot;elohistycznego&quot; (E), opierając swe refleksje teologiczne w ślad za prorokami na przymierzach zawartych między Bogiem a Izraelem od Abrahama aż do przymierza synajskiego (por. Dekalog, błogosławieństwa Mojżesza). Te właśnie przymierza stanowią gwarancję zbawczej opieki Bożej nad Izraelem. Tradycja ta prowadzi na teren państwa północnego i rozwija się w czasach proroka Elizeusza. Tam także należy doszukiwać się początków &quot;deuteronomicznych&quot; (D), fragmentów Pięcioksięgu akcentujących pewne inne momenty historii zbawienia i związanego z nią prawodawstwa. Posługując się stylem kaznodziejskim domaga się tradycja deuteronomiczna dokładnego zachowywania Prawa Bożego, jedności kultowej (jedna świątynia) i odrzucenia wszelkiego synkretyzmu. Jako podstawa i gwarancja wszystkich sakralnych instytucji izraelskich występuje Tora (Prawo). Po upadku państwa północnego tradycja deuteronomiczna rozpowszechniła się na terenie królestwa judzkiego, a nawet stała się w okresie reformy Jozjasza i niewoli babilońskiej dominującym prądem teologicznym, a zarazem stylem literackim. Toteż charakter deuteronomiczny zdradzają nie tylko Pwt i urywki innych ksiąg, ale także niektóre księgi historyczne (szczególnie 1-2 Krl) i prorockie (Jr, Ez), powstałe w tym czasie. <br>    Tradycja kapłańska (P) wreszcie łączy zbawcze funkcje nie tyle z teokratyczną monarchią reprezentowaną przez dynastię Dawida (jak tradycja J), ale z instytucją kapłanów i lewitów. Za najstarsze ujęcie literackie P uważa się powszechnie tzw. Kodeks świętości (Kpł 17-26 [-&gt;Kpł 17,1]), domagający się od Izraela doskonałego życia religijnego (kult, ofiary, święta) i moralnego. Spojrzenie kapłańskie na historię własnego narodu jest nieco inne od poprzednich; ma ono na uwadze naród przebywający w niewoli w Babilonie, z dala od kraju, zachowujący jako teokratyczna społeczność kultową wiarę w Boga i w jego zbawcze plany. Tradycja kapłańska rozwijała się także jeszcze po powrocie z niewoli i odegrała w procesie kształtowania się Pięcioksięgu szczególnie doniosłą rolę. <br>    Te cztery tradycje teologiczne (zwane także mniej słusznie &quot;źródłami&quot;) nie wyczerpują bynajmniej długiej i niezmiernie skomplikowanej historii Pięcioksięgu. Wpływały nań liczne inne tradycje ustne, oddziaływały prądy i tendencje teologiczne dziś bardzo trudno uchwytne. Toteż bez większej przesady można powiedzieć, że Pięcioksiąg nosi ślady wszystkich ważniejszych etapów teologii Izraela od zarania jego dziejów aż do okresu judaizmu. Poszczególne tradycje oddziaływały wzajemnie na siebie, wchłaniały lub tworzyły nowe prądy albo stanowiły punkt wyjścia nowych tradycji. Pięcioksiąg jest nie tylko echem tradycji ustnych lub spisanych, ale jest także ich współtwórcą. Stąd właśnie płynie jego wyjątkowy charakter w Izraelu. <br>    Kiedy Pięcioksiąg przybrał dzisiejszą swą formę, tworząc z szeregu zbiorów i tradycji jedno monumentalne dzieło historyczno-prawne, niepodobna dziś określić. Było to zapewne owocem wielu kolejnych prób i wysiłków teologicznych i literackich. Nastąpiło to być może w okresie perskim, za czasów Ezdrasza i Nehemiasza, w każdym zaś razie po niewoli babilońskiej. Przez cały okres formowania się ksiąg spełniał Pięcioksiąg doniosłą rolę w narodzie izraelskim: był przewodnikiem pokoleń i drogowskazem, księgą, która dawała odpowiedź na wszystkie pytania religijne; był księgą spełnionych obietnic i zapowiedzią nowych. Dla judaizmu po powrocie z niewoli był Pięcioksiąg nadto programem odnowy życia narodowego oraz niedościgłym wzorem &quot;drogi Bożej&quot;. Był jednocześnie prawodawstwem religijnym i cywilnym dla Żydów rozproszonych po całym ówczesnym świecie cywilizowanym, niejako gwarancją ich odrębności narodowej i religijnej. <br>    Spojrzenie chrześcijańskie na Pięcioksiąg jest nieco inne. Poszczególne księgi opisują wczesną historię zbawienia i pierwszy etap długiej drogi ludu Bożego z Bogiem. Tak ich prawodawstwo, jak opisy historyczne zdążają mniej lub bardziej świadomie ku Chrystusowi. Używając słów św. Pawła, Prawo było strażnikiem aż do objawienia się wiary, było wychowawcą ku Chrystusowi (Ga 3,23-24). Sam Boski Mistrz nie odrzuca Prawa, lecz wypełnia je, tak że ani jedna jota, ani jedna kreska nie zmieni się w nim (Mt 5,18). Chrześcijanie są wolni od przepisów dawnego Prawa, niemniej wypełniają jego postulaty religijne i moralne w duchu miłości Chrystusowej. NT przytacza też cały szereg zdarzeń i obrzędów Pięcioksięgu bądź to zapowiadających, bądź też wyjaśniających zdarzenia Nowego Przymierza. Słowem, nowa ekonomia zbawienia uważa Pięcioksiąg za prawdziwe słowo Boże, zachowujące stałą i trwałą wartość (Konst. Dei Verbum IV, 14) dla naszego pouczenia i zbawienia (por. Rz 15,4).</p>
 </article>
-<article class="introduction">
-<h2><a href="Pwt.html">Wstęp do Księgi Powtórzonego Prawa</a></h2>
+<article class="introduction" id="i2">
+<h2><a href="Pwt.html#i2">Wstęp do Księgi Powtórzonego Prawa</a></h2>
 <p>Nazwa &quot;Powtórzone Prawo&quot; (Deuteronomium) zachodzi dopiero w LXX i Wulgacie, w Biblii hebrajskiej stanowi ją pierwszy rzeczownik początkowego zdania księgi: Haddebarim. Księga ta różni się od poprzednich tym, że jest jednolita, podobnie jak Kapłańska, choć różna od niej odmiennym sposobem podawania praw. Góruje tu ton pouczający, kaznodziejski, widoczny nawet w sposobie ujęcia przepisów prawnych. Z Mojżeszem łączy ją tradycja ustna, podawana poprzez pokolenia, przechowywana przez kapłanów lewickich w północnym państwie Izraela. <br>    Krytyka literacka odróżnia tutaj rozdziały środkowe 12-26 [-&gt;Pwt 12,1] od reszty księgi. Z nimi łączy się organicznie wprowadzenie do nich podane w rozdz. 5-11 [-&gt;Pwt 5,1] oraz błogosławieństwa i przekleństwa w rozdz. 27-28 [-&gt;Pwt 27,1]. Ostatnie rozdziały zostały wprawdzie później dodane, pochodzą jednak z dawniejszych czasów, jak np. poematy w Pwt rozdz. 32 [-&gt;Pwt 32,1] i 33 [-&gt;Pwt 33,1], na co wskazuje język i styl. Podobnie dawno powtarzane w kulcie musiały być rozdz. 29-30 [-&gt;Pwt 29,1]. Pwt rozdz. 31 [-&gt;Pwt 31,1] i 34 [-&gt;Pwt 34,1] są także pochodzenia późniejszego jako wynik redakcji księgi. Trudniejsza sprawa jest z pierwszymi rozdziałami księgi. Ogólnie się przyjmuje, że rozdz. 1-3 [-&gt;Pwt 1,1] pochodzą z czasów ostatnich królów judzkich, z VII wieku, a rozdz. 4 [-&gt;Pwt 4,1] powstał w czasie niewoli babilońskiej, w VI w. przed Chr. Ostatnio zauważono w tej księdze schemat odnowienia przymierza, jaki znamy jeszcze ze źródeł chetyckich: rozdz. 5-11 [-&gt;Pwt 5,1] - wstęp historyczny i pouczenie, rozdz. 12-26 [-&gt;Pwt 12,1] - nakazy prawne; przy tym 26 [-&gt;Pwt 26,1], 16-19 [-&gt;Pwt 16,1] - sformułowanie zawarcia przymierza; rozdz. 27n [-&gt;Pwt 27,1] - błogosławieństwa i przekleństwa. To stanowi pierwotny trzon księgi. Jak widać, sytuacja, w której powstała księga, wskazuje wyraźnie na odnowienie przymierza w miejscu świętym, w tym przypadku w Sychem (por. Joz 23-24 [-&gt;Joz 23,1]). Lewici przygotowywali naród do tego aktu religijnego i wyjaśniali prawo ludowi. W VIII w. przed Chr., za czasów króla Jeroboama II mógł powstać prototyp dzisiejszej księgi mającej na celu zmodernizowanie dawnego prawa, zanotowanego w Wj 19-24 [-&gt;Wj 19,1]. Styl i porównanie poszczególnych przepisów wyraźnie na to wskazują. Po upadku północnego państwa w roku 722 przed Chr. wierni przenieśli tę księgę do Jerozolimy, gdzie została umieszczona w świątyni. Pierwsze swoje zredagowanie zawdzięcza królowi Ezechiaszowi, troszczącemu się o moralne odnowienie Izraela. Ta jednak pierwsza redakcja zawierała tylko rozdz. 5-28 [-&gt;Pwt 5,1]. W tym stanie też znaleźli ją kapłani za czasów króla Jozjasza. Ostatecznej redakcji dokonano dopiero w czasie niewoli babilońskiej. Stąd nic dziwnego, że niektóre dawne wyrażenia zostały zmodernizowane jeszcze w późniejszych kołach prorockich, których ślad łatwo zauważyć na kartach naszej księgi. Zachowanie jednolitego, odrębnego stylu nie pozwala dokładniej odróżnić części pierwotnych od późniejszych. <br>    Nauka teologiczna Pwt odnosi się do przymierza zawartego przez Boga z ludem izraelskim, wybranym przez Boga. Wybór ten jest dowodem miłości ze strony Boga, który chce mieć Izraela na szczególną własność (segulla[h]: Pwt 7,6; Pwt 14,2; Pwt 26,18) w odróżnieniu od wszystkich innych narodów świata, które przecież też należą do Niego, jako Stwórcy nieba i ziemi (Pwt 4,19; Pwt 32,8). Podobne słowo w tym samym znaczeniu spotyka się w tekstach z Mari nad Eufratem. Wybierając Izraela Bóg był suwerennie wolny: nie skłaniały Go do wyboru żadne przymioty rozumu czy woli ludu wybranego (Pwt 9,5n; Pwt 7,7n). Wyprowadzenie z Egiptu jest nadto wykupem niewolnika od jego dotychczasowego pana, przy czym nie ma tu mowy o zapłacie, co jest podstawą późniejszego pojęcia &quot;wykup&quot; i &quot;odkupienie&quot; użytego przez Iz i świętego Pawła. Posłuszeństwo, które lud wybrany winien był swojemu dotychczasowemu władcy ziemskiemu, należy się obecnie nowemu Panu - Bogu. Zawarcie przymierza na górze Horeb (= Synaj) jest następstwem poprzednich czynów Boga, który obecnie wyraża swoją wolę w Dekalogu. Tak przekazana wola Boża zostaje później jeszcze wyjaśniona na polach Moabu (rozdz. 5 [-&gt;Pwt 5,1]), w prawach apodyktycznych, kazuistycznych, warunkowych i rozporządzeniach kultowych, zawartych w części centralnej księgi. Rozdz. 5-11 zawierają nakaz miłowania Boga ponad wszystko (zwłaszcza Pwt 6,5.13-15). To przykazanie przeszło do NT, gdzie stało się kamieniem węgielnym całej moralności. Nie chodzi tu o miłość uczuciową, wprost przeciwnie, wszystko przemawia za miłością efektywną, przejawiającą się w wiernym służeniu Bogu, zachowaniu przykazań, jednym słowem w tym, co mędrcy nazywali &quot;bojaźnią Bożą&quot;. To pojęcie miłości posiada swoje źródło też w Mezopotamii, gdzie wyraża cały stosunek wasala do swego seniora. Izraelita jednak miał się odnosić do Boga jak syn do ojca. <br>    Stosunek do wyznawców tej samej religii ujmowany jest jako stosunek brata do brata, z czego wywodzi się pojęcie miłości braterskiej. Nawet król uznany był za współbrata (Pwt 17,15.20), aby się nie wynosił ponad innych członków ludu wybranego. Specjalnej troski wymagał brat zubożały (Pwt 15,7). Dowodem miłości bratniej była też wspólna ofiara, w której miał prawo uczestniczyć każdy członek ludu wybranego. Po niej odbywała się wspólna uczta ofiarna. Tak pojęta miłość braterska przeszła do NT i była mocno podkreślana w pierwotnym Kościele w Jerozolimie. Wielkim darem Bożym jest &quot;ziemia&quot;. Człowiek ma na niej zażywać spokoju i bezpieczeństwa, a przede wszystkim odznaczać się szczególną łącznością z Bogiem, co miało być przygotowaniem do życia z Bogiem w królestwie Bożym. <br>    Aktualizowanie nakazów Mojżeszowych dokonało się w czasie kilkakrotnego odnawiania przymierza. Można je uważać za uobecnienie dawnych wypadków na skutek bliskości tego samego Boga, który zawierał przymierze z ludem wybranym. Spotykamy tu częste określenie &quot;dzisiaj&quot;, powtarzające się, ilekroć ktoś łączy się z Bogiem i do Niego się zwraca. <br>    W historii zbawienia Pwt zajmuje doniosłe miejsce. Ujmuje bowiem całość obowiązków człowieka w stosunku do Boga i bliźniego, jasno wykłada terminy: przymierza, ludu Bożego, miłości Boga i brata, służenia Bogu i chodzenia Jego drogami. Pojęcie sprawiedliwości Bożej karzącej za grzechy, ale litującej się wyraża rozdz. 32 [-&gt;Pwt 32,1], co było podstawą nauki proroków i NT. <br>    Sformułowane w Pwt przykazania i prawa odezwą się echem w NT: przykazanie miłości (Pwt 6,5) jest przedmiotem mów polemicznych (Mt 22,37; Mk 12,29n; Łk 10,27); słowa Boże z Pwt 8,3; Pwt 6,16 zachodzą w dialogu kuszenia (Mt 4,4.7; Łk 4,4.12), nadto inne prawa w Mt 5,31; Mt 18,16. Na klasyczny tekst o proroku (Pwt 18,15.19) powoła się kerygmat apostolski (Dz 3,22n; Dz 7,37). Św. Paweł cytuje poszczególne przepisy w 2 Kor 13,1; Ga 3,13; zaś Hbr 12,21.29 nawiązuje do opowiadania zdarzeń pod Synajem.</p>
 </article>
 <section class="chapter" id="v1">
-<h2><a href="Pwt.html">Rozdział 1</a></h2>
+<h2><a href="Pwt.html#v1">Rozdział 1</a></h2>
 <div class="verses">
 <h4>WSTĘPNE MOWY MOJŻESZA</h4>
 <h5>Pierwsza mowa Mojżesza<a class="fnref" href="#f-1-1"><sup class="r">※</sup></a></h5>
@@ -163,7 +209,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v2">
-<h2><a href="Pwt.html">Rozdział 2</a></h2>
+<h2><a href="Pwt.html#v2">Rozdział 2</a></h2>
 <div class="verses">
 <h5>Nie grozić Edomitom</h5>
 <span class="verse" id="v2_1"><sup class="vn"><a href="#v2_1">1</a></sup>Wtedy zawracając, ruszyliśmy przez pustynię w kierunku Morza Czerwonego, jak mi powiedział Pan. Przez długi czas okrążaliśmy góry Seir.</span>
@@ -220,7 +266,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v3">
-<h2><a href="Pwt.html">Rozdział 3</a></h2>
+<h2><a href="Pwt.html#v3">Rozdział 3</a></h2>
 <div class="verses">
 <h5>Wojna z Ogiem, królem Baszanu<a class="fnref" href="#f-3-1"><sup class="r">※</sup></a></h5>
 <span class="verse" id="v3_1"><sup class="vn"><a href="#v3_1">1</a></sup>Następnie zawróciliśmy i poszliśmy w kierunku Baszanu<sup>s</sup>, którego król, Og, wyszedł nam naprzeciw z całym swym ludem, by wydać nam bitwę w Edrei.</span>
@@ -267,7 +313,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v4">
-<h2><a href="Pwt.html">Rozdział 4</a></h2>
+<h2><a href="Pwt.html#v4">Rozdział 4</a></h2>
 <div class="verses">
 <h5>Zachowanie przykazań - mądrością</h5>
 <span class="verse" id="v4_1"><sup class="vn"><a href="#v4_1">1</a></sup>A teraz, Izraelu, słuchaj praw i nakazów, które uczę was wypełniać, abyście żyli i doszli do posiadania ziemi, którą wam daje Pan, Bóg waszych ojców.</span>
@@ -345,7 +391,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v5">
-<h2><a href="Pwt.html">Rozdział 5</a></h2>
+<h2><a href="Pwt.html#v5">Rozdział 5</a></h2>
 <div class="verses">
 <h5>Dziesięcioro Przykazań<a class="fnref" href="#f-5-1"><sup class="r">※</sup></a></h5>
 <span class="verse" id="v5_1"><sup class="vn"><a href="#v5_1">1</a></sup>Mojżesz zwołał całego Izraela i rzekł do niego: «Słuchaj, Izraelu, praw i przykazań, które ja dziś mówię do twych uszu, ucz się ich i dbaj o to, aby je wypełniać.</span>
@@ -390,7 +436,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v6">
-<h2><a href="Pwt.html">Rozdział 6</a></h2>
+<h2><a href="Pwt.html#v6">Rozdział 6</a></h2>
 <div class="verses">
 <h5>Miłość Boga</h5>
 <span class="verse" id="v6_1"><sup class="vn"><a href="#v6_1">1</a></sup>Takie są polecenia, prawa i nakazy, których nauczyć was polecił mi Pan, Bóg wasz, abyście je wypełniali na ziemi, do której idziecie, by ją posiąść.</span>
@@ -429,7 +475,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v7">
-<h2><a href="Pwt.html">Rozdział 7</a></h2>
+<h2><a href="Pwt.html#v7">Rozdział 7</a></h2>
 <div class="verses">
 <h5>Izrael narodem wybranym</h5>
 <span class="verse" id="v7_1"><sup class="vn"><a href="#v7_1">1</a></sup>Gdy Pan, Bóg twój, wprowadzi cię do ziemi, do której idziesz, aby ją posiąść, usunie liczne narody przed tobą: Chittytów, Girgaszytów, Amorytów, Kananejczyków, Peryzzytów, Chiwwitów i Jebusytów: siedem narodów liczniejszych i potężniejszych od ciebie.</span>
@@ -468,7 +514,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v8">
-<h2><a href="Pwt.html">Rozdział 8</a></h2>
+<h2><a href="Pwt.html#v8">Rozdział 8</a></h2>
 <div class="verses">
 <h5>Próba na pustyni</h5>
 <span class="verse" id="v8_1"><sup class="vn"><a href="#v8_1">1</a></sup>Pilnie przestrzegajcie wykonania każdego polecenia, które ja wydaję dzisiaj, abyście żyli, rozmnażali się i weszli w posiadanie ziemi, którą Pan poprzysiągł waszym przodkom.<br></span>
@@ -497,7 +543,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v9">
-<h2><a href="Pwt.html">Rozdział 9</a></h2>
+<h2><a href="Pwt.html#v9">Rozdział 9</a></h2>
 <div class="verses">
 <h5>Zwycięstwo darem Boga</h5>
 <span class="verse" id="v9_1"><sup class="vn"><a href="#v9_1">1</a></sup>Słuchaj, Izraelu, ty dzisiaj masz przejść przez Jordan, aby wydziedziczyć narody większe i mocniejsze od ciebie, miasta ogromne i umocnione pod niebo,</span>
@@ -541,7 +587,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v10">
-<h2><a href="Pwt.html">Rozdział 10</a></h2>
+<h2><a href="Pwt.html#v10">Rozdział 10</a></h2>
 <div class="verses">
 <h5>Arka Przymierza, wybór Lewiego</h5>
 <span class="verse" id="v10_1"><sup class="vn"><a href="#v10_1">1</a></sup>W tym czasie powiedział mi Pan: Wyciosaj sobie dwie kamienne tablice, podobne do pierwszych, i wejdź do Mnie na górę. Uczyń też arkę z drewna.</span>
@@ -577,7 +623,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v11">
-<h2><a href="Pwt.html">Rozdział 11</a></h2>
+<h2><a href="Pwt.html#v11">Rozdział 11</a></h2>
 <div class="verses">
 <h5>Boże miłosierdzie</h5>
 <span class="verse" id="v11_1"><sup class="vn"><a href="#v11_1">1</a></sup>Miłujcie przeto Pana, Boga swojego, i wiernie przestrzegajcie Jego praw, poleceń i nakazów po wszystkie dni.</span>
@@ -624,7 +670,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v12">
-<h2><a href="Pwt.html">Rozdział 12</a></h2>
+<h2><a href="Pwt.html#v12">Rozdział 12</a></h2>
 <div class="verses">
 <h4>KODEKS DEUTERONOMICZNY</h4>
 <span class="verse" id="v12_1"><sup class="vn"><a href="#v12_1">1</a></sup>«Takie są prawa i nakazy, których będziecie przestrzegać w kraju, który wam dał Pan, Bóg przodków waszych, w posiadanie po wszystkie dni waszego życia na ziemi.<br></span>
@@ -672,7 +718,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v13">
-<h2><a href="Pwt.html">Rozdział 13</a></h2>
+<h2><a href="Pwt.html#v13">Rozdział 13</a></h2>
 <div class="verses">
 <span class="verse" id="v13_1"><sup class="vn"><a href="#v13_1">1</a></sup>Tych wszystkich rzeczy, przeze mnie nakazanych, pilnie będziecie przestrzegać, by je wykonać: niczego nie dodasz i niczego nie ujmiesz.<br></span>
 <h5>Bałwochwalstwo</h5>
@@ -700,7 +746,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v14">
-<h2><a href="Pwt.html">Rozdział 14</a></h2>
+<h2><a href="Pwt.html#v14">Rozdział 14</a></h2>
 <div class="verses">
 <h5>Inne praktyki zabobonne</h5>
 <span class="verse" id="v14_1"><sup class="vn"><a href="#v14_1">1</a></sup>Wy jesteście dziećmi<a class="fnref" href="#f-14-1"><sup class="r">※</sup></a> Pana, Boga waszego. Po zmarłym nie będziecie nacinać sobie skóry ani strzyc krótko włosów nad czołem,</span>
@@ -748,7 +794,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v15">
-<h2><a href="Pwt.html">Rozdział 15</a></h2>
+<h2><a href="Pwt.html#v15">Rozdział 15</a></h2>
 <div class="verses">
 <h5>Rok szabatowy</h5>
 <span class="verse" id="v15_1"><sup class="vn"><a href="#v15_1">1</a></sup>Pod koniec siódmego roku przeprowadzisz darowanie długów.</span>
@@ -784,7 +830,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v16">
-<h2><a href="Pwt.html">Rozdział 16</a></h2>
+<h2><a href="Pwt.html#v16">Rozdział 16</a></h2>
 <div class="verses">
 <h5>Święto Paschy</h5>
 <span class="verse" id="v16_1"><sup class="vn"><a href="#v16_1">1</a></sup>Przestrzegaj miesiąca Abib i święcenia Paschy<sup>s</sup> ku czci Pana, Boga swego, gdyż w miesiącu Abib, nocą, Pan, Bóg twój, wyprowadził cię z Egiptu.</span>
@@ -820,7 +866,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v17">
-<h2><a href="Pwt.html">Rozdział 17</a></h2>
+<h2><a href="Pwt.html#v17">Rozdział 17</a></h2>
 <div class="verses">
 <span class="verse" id="v17_1"><sup class="vn"><a href="#v17_1">1</a></sup>Nie złożysz na ofiarę Panu, Bogu swemu, cielca lub czegoś z drobnego bydła, jeśliby miały skazę lub jakikolwiek brak, gdyż brzydzi się tym Pan, Bóg twój.<br></span>
 <span class="verse" id="v17_2"><sup class="vn"><a href="#v17_2">2</a></sup>Jeśli się znajdzie u ciebie, w jednym z miast twoich danych ci przez Pana, Boga twego, mężczyzna lub kobieta, ktoś, kto czynić będzie to, co jest złe w oczach Pana, Boga twego, łamiąc Jego przymierze,</span>
@@ -854,7 +900,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v18">
-<h2><a href="Pwt.html">Rozdział 18</a></h2>
+<h2><a href="Pwt.html#v18">Rozdział 18</a></h2>
 <div class="verses">
 <h5>Kapłani-lewici</h5>
 <span class="verse" id="v18_1"><sup class="vn"><a href="#v18_1">1</a></sup>Kapłani-lewici<sup>s</sup>, całe pokolenie Lewiego, nie będzie miało działu ani dziedzictwa w Izraelu. Żywić się będą z ofiar spalanych ku czci Pana i z Jego dziedzictwa.</span>
@@ -893,7 +939,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v19">
-<h2><a href="Pwt.html">Rozdział 19</a></h2>
+<h2><a href="Pwt.html#v19">Rozdział 19</a></h2>
 <div class="verses">
 <h5>Prawo zemsty - miasta ucieczki</h5>
 <span class="verse" id="v19_1"><sup class="vn"><a href="#v19_1">1</a></sup>Gdy Pan, Bóg twój, wytępi narody, których ziemię ci daje, abyś je z niej wypędził i zamieszkał w ich miastach i domach,</span>
@@ -927,7 +973,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v20">
-<h2><a href="Pwt.html">Rozdział 20</a></h2>
+<h2><a href="Pwt.html#v20">Rozdział 20</a></h2>
 <div class="verses">
 <h5>Wojna</h5>
 <span class="verse" id="v20_1"><sup class="vn"><a href="#v20_1">1</a></sup>Jeśli się udasz na wojnę przeciw twemu wrogowi, a zauważysz, że koni, rydwanów i ludzi jest tam więcej niż u ciebie, nie lękaj się ich, gdyż z tobą jest Pan, Bóg twój, który cię wyprowadził z ziemi egipskiej<a class="fnref" href="#f-20-1"><sup class="r">※</sup></a>.</span>
@@ -959,7 +1005,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v21">
-<h2><a href="Pwt.html">Rozdział 21</a></h2>
+<h2><a href="Pwt.html#v21">Rozdział 21</a></h2>
 <div class="verses">
 <h5>Przypadek nieznanego mordercy</h5>
 <span class="verse" id="v21_1"><sup class="vn"><a href="#v21_1">1</a></sup>Gdy w kraju, który ci daje w posiadanie Pan, Bóg twój, znajdzie się na polu leżący trup człowieka zabitego, a nie wiadomo, kto go uderzył,</span>
@@ -996,7 +1042,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v22">
-<h2><a href="Pwt.html">Rozdział 22</a></h2>
+<h2><a href="Pwt.html#v22">Rozdział 22</a></h2>
 <div class="verses">
 <h5>Zguba znaleziona</h5>
 <span class="verse" id="v22_1"><sup class="vn"><a href="#v22_1">1</a></sup>Jeśli zobaczysz zbłąkanego wołu swego brata albo sztukę drobnego bydła, nie odwrócisz się od nich, lecz zaprowadzisz je z powrotem do swego brata.</span>
@@ -1040,7 +1086,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v23">
-<h2><a href="Pwt.html">Rozdział 23</a></h2>
+<h2><a href="Pwt.html#v23">Rozdział 23</a></h2>
 <div class="verses">
 <h5>Wyłączenie ze społeczności Izraela</h5>
 <span class="verse" id="v23_1"><sup class="vn"><a href="#v23_1">1</a></sup>Nikt nie poślubi żony swego ojca i nie odkryje brzegu płaszcza<a class="fnref" href="#f-23-1"><sup class="r">※</sup></a> ojca swego.</span>
@@ -1085,7 +1131,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v24">
-<h2><a href="Pwt.html">Rozdział 24</a></h2>
+<h2><a href="Pwt.html#v24">Rozdział 24</a></h2>
 <div class="verses">
 <h5>Rozwód</h5>
 <span class="verse" id="v24_1"><sup class="vn"><a href="#v24_1">1</a></sup>Jeśli mężczyzna poślubi kobietę i zostanie jej mężem, lecz nie będzie jej darzył życzliwością, gdyż znalazł u niej coś odrażającego, napisze jej list rozwodowy<a class="fnref" href="#f-24-1"><sup class="r">※</sup></a>, wręczy go jej, potem odeśle ją od siebie.</span>
@@ -1123,7 +1169,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v25">
-<h2><a href="Pwt.html">Rozdział 25</a></h2>
+<h2><a href="Pwt.html#v25">Rozdział 25</a></h2>
 <div class="verses">
 <h5>Chłosta. Dobroć dla zwierząt</h5>
 <span class="verse" id="v25_1"><sup class="vn"><a href="#v25_1">1</a></sup>Jeśli wyniknie spór między ludźmi, staną przed sądem, tam ich osądzą i za sprawiedliwego uznają niewinnego, a skażą winowajcę.</span>
@@ -1158,7 +1204,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v26">
-<h2><a href="Pwt.html">Rozdział 26</a></h2>
+<h2><a href="Pwt.html#v26">Rozdział 26</a></h2>
 <div class="verses">
 <h5>Postanowienia obrzędowe. Pierwociny</h5>
 <span class="verse" id="v26_1"><sup class="vn"><a href="#v26_1">1</a></sup>Gdy wejdziesz do kraju, który ci daje Pan, Bóg twój, w posiadanie, zajmiesz go i osiądziesz w nim;</span>
@@ -1190,7 +1236,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v27">
-<h2><a href="Pwt.html">Rozdział 27</a></h2>
+<h2><a href="Pwt.html#v27">Rozdział 27</a></h2>
 <div class="verses">
 <h4>MOWY KOŃCOWE</h4>
 <h5>Spisanie Prawa</h5>
@@ -1229,7 +1275,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v28">
-<h2><a href="Pwt.html">Rozdział 28</a></h2>
+<h2><a href="Pwt.html#v28">Rozdział 28</a></h2>
 <div class="verses">
 <h5>Trzecia mowa Mojżesza<a class="fnref" href="#f-28-1"><sup class="r">※</sup></a></h5>
 <span class="verse" id="v28_1"><sup class="vn"><a href="#v28_1">1</a></sup>«Jeśli więc pilnie będziesz słuchał głosu Pana, Boga swego, wiernie wypełniając wszystkie Jego polecenia, które ja ci dziś daję, wywyższy cię Pan, Bóg twój, ponad wszystkie narody ziemi.</span>
@@ -1314,7 +1360,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v29">
-<h2><a href="Pwt.html">Rozdział 29</a></h2>
+<h2><a href="Pwt.html#v29">Rozdział 29</a></h2>
 <div class="verses">
 <h5>Pomoc Boga a niewdzięczność ludu</h5>
 <span class="verse" id="v29_1"><sup class="vn"><a href="#v29_1">1</a></sup>Mojżesz zwołał wszystkich Izraelitów i rzekł: «Widzieliście wszystko, co w ziemi egipskiej Pan na waszych oczach uczynił faraonowi, wszystkim jego sługom i całej ziemi:</span>
@@ -1357,7 +1403,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v30">
-<h2><a href="Pwt.html">Rozdział 30</a></h2>
+<h2><a href="Pwt.html#v30">Rozdział 30</a></h2>
 <div class="verses">
 <h5>Powrót z niewoli</h5>
 <span class="verse" id="v30_1"><sup class="vn"><a href="#v30_1">1</a></sup>Kiedy się spełnią dla ciebie wszystkie te słowa: błogosławieństwo i przekleństwo, które ci obwieściłem; jeśli rozważysz je w swym sercu, będąc między wszystkimi narodami, do których Pan, Bóg twój, cię wypędzi -</span>
@@ -1390,7 +1436,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v31">
-<h2><a href="Pwt.html">Rozdział 31</a></h2>
+<h2><a href="Pwt.html#v31">Rozdział 31</a></h2>
 <div class="verses">
 <h4>OSTATNIE POLECENIA MOJŻESZA</h4>
 <h5>Jozue następcą Mojżesza</h5>
@@ -1435,7 +1481,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v32">
-<h2><a href="Pwt.html">Rozdział 32</a></h2>
+<h2><a href="Pwt.html#v32">Rozdział 32</a></h2>
 <div class="verses">
 <h5>Hymn Mojżesza<a class="fnref" href="#f-32-1"><sup class="r">※</sup></a></h5>
 <h6>Wstęp</h6>
@@ -1522,7 +1568,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v33">
-<h2><a href="Pwt.html">Rozdział 33</a></h2>
+<h2><a href="Pwt.html#v33">Rozdział 33</a></h2>
 <div class="verses">
 <h5>Błogosławieństwa Mojżesza</h5>
 <span class="verse" id="v33_1"><sup class="vn"><a href="#v33_1">1</a></sup>Oto błogosławieństwo, które wypowiedział Mojżesz, mąż Boży, nad Izraelitami przed swoją śmiercią:<br></span>
@@ -1573,7 +1619,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v34">
-<h2><a href="Pwt.html">Rozdział 34</a></h2>
+<h2><a href="Pwt.html#v34">Rozdział 34</a></h2>
 <div class="verses">
 <h5>Śmierć Mojżesza</h5>
 <span class="verse" id="v34_1"><sup class="vn"><a href="#v34_1">1</a></sup>Ze stepów Moabu Mojżesz wszedł na górę Nebo, na szczyt Pisga, naprzeciw Jerycha. Pan zaś pokazał mu całą ziemię Gilead aż po Dan,</span>
@@ -1596,6 +1642,20 @@ article.introduction {
 <script>
 (function () {
   'use strict';
+  function fontSize(size) {
+    document.documentElement.style.fontSize = size + 'px';
+    try { localStorage.setItem('btv-font-size', size); } catch (e) {}
+  }
+  var switcher = document.querySelector('.font-switcher');
+  [14, 16, 18, 20, 22].forEach(function (size) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = 'A';
+    b.style.fontSize = size + 'px';
+    b.setAttribute('aria-label', 'Rozmiar czcionki ' + size + ' pikseli');
+    b.addEventListener('click', function () { fontSize(size); });
+    switcher.appendChild(b);
+  });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {

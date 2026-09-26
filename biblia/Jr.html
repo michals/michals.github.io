@@ -2,45 +2,84 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try{var s=localStorage.getItem('btv-font-size');if(s)document.documentElement.style.fontSize=s+'px';}catch(e){}
+</script>
 <title>Ks. Jeremiasza — Biblia Tysiąclecia (BT-V)</title>
 <style>
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
 body {
   font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   line-height: 1.6;
-  max-width: 42em;
+  max-width: 42rem;
   margin: 0 auto;
-  padding: 1em 1.5em 3em;
+  padding: 1rem 1.5rem 3rem;
   color: #222;
   background: #fff;
 }
+.font-switcher {
+  margin-left: auto;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  border: 1px solid #808080;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.font-switcher button {
+  margin-left: 0.25rem;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+  font-family: inherit;
+}
 nav.toc {
   font-family: -apple-system, 'Segoe UI', sans-serif;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   color: #555;
 }
 nav.toc a {
-  margin-right: 0.45em;
+  margin-right: 0.45rem;
   text-decoration: none;
 }
-h1 { font-size: 1.8em; }
-h2 {
-  font-size: 1.4em;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
+header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
-h1 a, h2 a {
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+h1 { font-size: 1.8rem; }
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+h1 a, h2 a, .site-title a {
   color: inherit;
   text-decoration: none;
 }
-h1 a:hover, h2 a:hover {
+h1 a:hover, h2 a:hover, .site-title a:hover {
   text-decoration: underline;
 }
 sup.vn {
   color: #0000aa;
-  font-size: 0.7em;
-  margin-right: 0.2em;
+  font-size: 0.7rem;
+  margin-right: 0.2rem;
   position: relative;
-  top: -0.2em;
+  top: -0.2rem;
   user-select: none;
 }
 span.verse sup.vn a {
@@ -54,9 +93,9 @@ div.verses {
 span.speaker { font-style: italic; }
 ul.footnotes {
   list-style: none;
-  font-size: 0.85em;
+  font-size: 0.85rem;
   color: #444;
-  padding: 2em 2em 2em 2em;
+  padding: 2rem;
 }
 a.fnref, a.backref { text-decoration: none; }
 ul.footnotes li:target, span.verse:target, span.verse.sel {
@@ -66,30 +105,37 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   padding: 2px;
   transition: background-color 0.5s ease;
 }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  ul.footnotes li:target, span.verse:target, span.verse.sel {
+    transition: none;
+  }
+}
 span.verse, ul.footnotes>li {
-  scroll-margin-top: 1em;
+  scroll-margin-top: 1rem;
 }
 article.introduction {
   background: #fafafa;
   border-left: 3px solid #ddd;
-  padding: 0.5em 1em;
-  margin: 1em 0;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
 }
 </style>
 </head>
 <body>
-<h1><a href="index.html">Ks. Jeremiasza</a></h1>
+<header class="site"><p class="site-title"><a href="index.html">Biblia Tysiąclecia</a></p><div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div></header>
+<h1><a href="Jr.html">Ks. Jeremiasza</a></h1>
 <nav class="toc">Rozdziały: <a href="#v1">1</a> <a href="#v2">2</a> <a href="#v3">3</a> <a href="#v4">4</a> <a href="#v5">5</a> <a href="#v6">6</a> <a href="#v7">7</a> <a href="#v8">8</a> <a href="#v9">9</a> <a href="#v10">10</a> <a href="#v11">11</a> <a href="#v12">12</a> <a href="#v13">13</a> <a href="#v14">14</a> <a href="#v15">15</a> <a href="#v16">16</a> <a href="#v17">17</a> <a href="#v18">18</a> <a href="#v19">19</a> <a href="#v20">20</a> <a href="#v21">21</a> <a href="#v22">22</a> <a href="#v23">23</a> <a href="#v24">24</a> <a href="#v25">25</a> <a href="#v26">26</a> <a href="#v27">27</a> <a href="#v28">28</a> <a href="#v29">29</a> <a href="#v30">30</a> <a href="#v31">31</a> <a href="#v32">32</a> <a href="#v33">33</a> <a href="#v34">34</a> <a href="#v35">35</a> <a href="#v36">36</a> <a href="#v37">37</a> <a href="#v38">38</a> <a href="#v39">39</a> <a href="#v40">40</a> <a href="#v41">41</a> <a href="#v42">42</a> <a href="#v43">43</a> <a href="#v44">44</a> <a href="#v45">45</a> <a href="#v46">46</a> <a href="#v47">47</a> <a href="#v48">48</a> <a href="#v49">49</a> <a href="#v50">50</a> <a href="#v51">51</a> <a href="#v52">52</a></nav>
-<article class="introduction">
-<h2><a href="Jr.html">Wstęp do Ksiąg Prorockich</a></h2>
+<article class="introduction" id="i1">
+<h2><a href="Jr.html#i1">Wstęp do Ksiąg Prorockich</a></h2>
 <p>Chrześcijański zbiór Ksiąg prorockich, zajmujący w kanonie katolickim zgodnie z tradycją grecko-łacińską trzecie miejsce, obejmuje pisma szesnastu proroków; cztery obszerniejsze księgi noszą nazwę Proroków &quot;większych&quot;, pozostałych zaś dwunastu zalicza się do &quot;mniejszych&quot;. Katolicki zbiór Pisma św. zalicza do tej grupy jeszcze dwie inne księgi, związane tematyką lub osobą domniemanego autora, z Jeremiaszem: Księgę Lamentacji i Barucha oraz List Jeremiasza. Kanon żydowski ST ma szersze pojęcie &quot;proroków&quot; dołączając jako &quot;proroków starszych&quot; księgi Jozuego, Sędziów, 1-2 Samuela i 1-2 Królewską, wyłączając natomiast spośród &quot;proroków późniejszych&quot; Księgę Daniela i Lamentacje, należące w zbiorze hebrajskim do &quot;Pism&quot;. Powody interpretacji starszych ksiąg historycznych jako pism prorockich były różne. Z jednej strony księgi te piszą (szczególnie 1-2 Sm i 1-2 Krl) dość szeroko o działalności proroków, z drugiej zaś strony komentują przeszłość narodową na wzór i w stylu proroków, wysnuwając z niej przestrogi dla teraźniejszości, a nawet pozwalają niekiedy przewidywać przyszłość ludu wybranego. <br>    Zjawisko profetyzmu należy do najdawniejszych doświadczeń religijnych Izraela, choć nie jest wyłączną jego własnością. Pierwotnie związane z bardziej ogólną instytucją &quot;widzącego&quot; (por. 1 Sm 9,9), staje się później wielopostaciowym, ale niewątpliwie najbardziej wpływowym czynnikiem religijnym w Izraelu. Zdecydowanie charyzmatyczny charakter daru proroctwa, pełna świadomość powołania przez Boga oraz pewność występowania w imię Boga odróżniają zdecydowanie wypowiedzi proroków izraelskich od znanych dziś (sięgających XVII w. przed Chr.) głosów pozaizraelskich przedstawicieli paralelnych instytucji &quot;prorockich&quot;. Prorocy pogańscy stosowali szeroko środki mantyczne, wypowiadając pouczenia przeważnie w stanie podniecenia lub oszołomienia; u proroków izraelskich występują one rzadko (muzyka, rytmika) i mają znaczenie raczej drugorzędne. Znane są natomiast wypadki ekstazy prorockiej, wynikające z intensywnego działania &quot;ducha Pana&quot; na całe jestestwo proroka. <br>    Swoje główne zadanie widzieli prorocy izraelscy w przemawianiu zamiast lub w imieniu Pana, czyli w przekazywaniu określonemu kręgowi ludzi słowa otrzymanego w natchnieniu prorockim od Boga (Wj 7,1-2 - por. Wj 4,16; Jr 15,19). Głoszenie słowa prorockiego odbywało się zasadniczo ustnie; tylko w wyjątkowych wypadkach prorocy dawali polecenie czytania swoich słów lub pisali listy (por. np. Jr 29,1nn; Jr 36,2nn; Jr 51,60nn[?]). Z wielu proroków wymienianych w ST jedynie niektórzy przejawiali pewną działalność literacką (wyraźnie Jeremiasz: Jr 36,4.18.32), której owoce dają pewien pogląd na głoszenie słowa przez proroków. Najczęściej spisywali słowa swoich mistrzów uczniowie proroków, słuchacze lub czynniki oficjalne zainteresowane głoszonym posłannictwem. Często między głoszeniem żywego słowa Bożego a spisaniem upływały całe lata, w czasie których przekazywano je ustnie. Znane są też wypadki wzajemnego wpływu tradycji różnych proroków, aż do formalnych dubletów. Częstokroć prorok odczytywał w dawnych swych słowach nową treść pod wpływem nowych oświeceń Bożych i zmieniających się warunków politycznych. To samo czynili później autorzy zbiorów i redaktorzy, działający jako przedstawiciele oficjalnych czynników religijnych Izraela. Od słów proroka, wypowiedzianych do słuchaczy, aż do dzisiejszej formy ksiąg prowadzi nieraz dość długa droga: jej etapów można się raczej domyślać niż je dokładnie odtworzyć. Jeszcze w II w. przed Chr. znano niektóre księgi prorockie w podwójnej - dość różnej - formie, jak np. Jr - w tekście hebrajskim (masoreckim) i w najstarszym tłumaczeniu greckim. <br>    Trudno określić, kiedy zestawiono Księgi prorockie w jeden zbiór. Mogło to nastąpić najwcześniej w końcowym okresie niewoli babilońskiej lub po powrocie z niej. Prawdopodobnie Ezdrasz (początek V wieku przed Chr., por. Ne rozdz. 8 [-&gt;Ne 8,1]) znał zbiór Ksiąg prorockich. W każdym razie w czasach Syracydesa (II wiek przed Chr.) &quot;Prorocy&quot; stanowili już grupę ksiąg dobrze znaną (Prolog). <br>    Biorąc pod uwagę genezę Ksiąg prorockich, staje się jasne, że skupiają one, oprócz form wyrażania myśli typowych dla ustnego głoszenia nauki, także gatunki czysto literackie. Obok opisów czynności symbolicznych, niekiedy danych autobiograficznych, będą to krótkie rytmiczne wypowiedzi, wprowadzane charakterystycznymi formułami (&quot;wyrocznia Pana&quot;, &quot;to mówi Pan&quot;, &quot;słuchajcie słowa Pana&quot; itp.). Wypowiedzi te przybierają postać bądź to groźby, napomnienia czy karcącej mowy, bądź też sięgają po ogólnie znane formy poetyckie i prozaiczne, np. lamentacji, pamfletu, hymnu, pieśni pokutnej, wyznania grzechów, rozprawy sądowej, wezwania do ucieczki, a nawet przypowieści ludowej. Chociaż słowo prorockie związane jest z miejscem i okolicznościami swego wygłoszenia, tak że nie można go w pełni zrozumieć bez ich znajomości, nie wyczerpują one jednak całej jego treści, ponieważ perspektywa prorocka jest często ponadczasowa i przenosi się łatwo od zdarzeń przeszłych lub współczesnych do przyszłości bliższej lub dalszej, nierzadko eschatologicznej. W wizjach prorockich granice między rzeczywistością a symbolem lub obrazem zacierają się nader łatwo; prorocy szukają przede wszystkim najodpowiedniejszych środków przekazu słowa Bożego, otrzymanego w wizji lub śnie, nie zaś efektów literackich. <br>    Jako rzecznicy Pana stają prorocy w obronie Jego Prawa i Przymierza. Domagają się oni nienagannego życia religijnego (krytyka bałwochwalstwa i synkretyzmu pod wszelkimi postaciami) i moralnego. Piętnując grzechy narodowe i indywidualne, zapowiadają sąd Pański nad narodem w postaci najazdów nieprzyjacielskich lub też klęsk żywiołowych. Odwrócić je może jedynie zmiana postępowania Izraelitów (Iz 1,19-20; Jr 7,5-7), co w oczach proroków jest rzeczą nader trudną (Jr 13,23). Mimo to prorocy nie popadają w pesymizm. Zapowiedzi całkowitego wyniszczenia narodu w wyniku sądu Pańskiego są wyjątkowe i niemal zawsze warunkowe. Zwykle bowiem sąd i kara prowadzą do zbawienia i odnowy (Iz 1,27). Spojrzenie proroków w przyszłość dotyczy nie tylko pomyślności doczesnej narodu. Łączy się ona coraz wyraźniej z odnową duchową, której dokona zbawcza interwencja Boża. Poczynania ludzkie schodzą na dalszy plan, a inicjatywę obejmuje Pomazaniec Pański, Mesjasz. Wystąpieniu Jego nadają ostatnie Księgi prorockie tło eschatologiczne, a nawet apokaliptyczne (sąd). <br>    Nowy Testament przytacza często wypowiedzi prorockie jako świadectwo lub zapowiedź wypełnienia zbawczych obietnic Bożych w Jezusie Chrystusie. &quot;Prorocy&quot; opisują też obok &quot;Prawa&quot; całość objawienia Bożego, zawartego w Piśmie świętym (np. Mt 5,17; Mk 7,12; Łk 24,27.44; Rz 1,1-2). Interpretacja poszczególnych wypowiedzi prorockich odbywa się w świetle zbawczego dzieła Chrystusa, a więc pod wpływem pełnego spojrzenia na historię zbawienia, objawioną i dokonaną przez Boga. Z biografii proroków przytacza NT często prześladowanie proroków oraz opory przeciw ich działalności jako paralelę do działalności Chrystusa Pana i Apostołów, będącej następną fazą zbawczego planu Boga.</p>
 </article>
-<article class="introduction">
-<h2><a href="Jr.html">Wstęp do Księgi Jeremiasza</a></h2>
+<article class="introduction" id="i2">
+<h2><a href="Jr.html#i2">Wstęp do Księgi Jeremiasza</a></h2>
 <p>Jeremiasz (hebr. Jirmejahu) pochodził z kapłańskiej rodziny w Anatot, leżącego w ziemi Beniamina, około 9 km od Jerozolimy. Misję prorocką pełnił za Jozjasza i jego następców aż do upadku Jerozolimy; niektóre urywki jego księgi świadczą o pewnej działalności także po zburzeniu Jerozolimy i później - w Egipcie. Trzy okresy jego życia prorockiego odpowiadają problematyką i tonem seriom mów zachowanych w Księdze. Najważniejsze mowy, zdradzające jeszcze wyraźny wpływ poprzedników, skierowane są przeciw bałwochwalstwu i synkretyzmowi, jaki panował przed reformą Jozjasza w państwie judzkim. Groźby i zapowiedzi kary nabierają cech konkretnych wobec zbliżającego się niebezpieczeństwa babilońskiego, określonego poprzednio jedynie ogólnikowo jako &quot;nieprzyjaciel z północy&quot;. Upadek Jerozolimy był urzeczywistnieniem zapowiedzi Jeremiasza, ale nie przyniósł poprawy narodu; toteż trzeci okres działalności Proroka podobny jest do pierwszego, z tym, że opór Judejczyków jest jeszcze większy. <br>    Proces formowania się Księgi Jeremiasza należy do nader skomplikowanych. W odróżnieniu od pozostałych proroków, o pierwszej fazie powstawania księgi opowiada sam Jeremiasz. Chodzi o zbiór gróźb wypowiedzianych do roku 605, spisany pod dyktando Proroka przez jego sekretarza, Barucha. Zwój ten po odczytaniu publicznym w świątyni (Jr rozdz. 36 [-&gt;Jr 36,1]) został spalony przez króla judzkiego Jojakima, następnie zaś odtworzony przez Jeremiasza wraz z dalszymi uzupełnieniami. Z opisu Jr 36,2-20 wynika niedwuznacznie, że w zwoju tym Prorok zaktualizował swoje poprzednie groźby, odczytując w nich nową, pełniejszą i aktualniejszą treść w świetle wypadków politycznych lat 605/604. Późniejsze swe mowy Prorok dołączył do Księgi najprawdopodobniej w spokojniejszym czasie po upadku Jerozolimy, gdy przebywał w Mispa u zarządcy Godoliasza. W skład zbioru weszły nadto mowy pocieszające, pierwotnie wygłoszone do uprowadzonych do niewoli Izraelitów, następnie rozszerzone również na wygnańców judzkich. Ostatni, najważniejszy etap kształtowania się Księgi nastąpił w niewoli babilońskiej. Tutaj nie tylko uznano prawdziwość proroctw Jeremiasza, stwierdzoną zresztą faktami, ale otoczono jego słowa troskliwą opieką. Toteż zbierano starannie wszystkie urywki jego mów, a jednocześnie odczytywano w nich treść aktualną dla wygnańców, w świetle teologii deuteronomicznej, znanej dobrze również z innych opracowanych równocześnie ksiąg (Pwt; 1-2 Krl i in.). Nie wydaje się jednak, by już w tym czasie Księga przybrała ostateczną postać. Najstarsze tłumaczenie greckie znało Księgę w innej, znacznie krótszej (o 1/8!) postaci literackiej i innym układzie niż dzisiejszy tekst hebrajski. Przyczyną ustawicznych refleksji nad słowami Proroka była niewątpliwie stale rosnąca jego popularność. Świadczą o niej nie tylko wzmianki w 2 Krn 36,12.21; Dn 9,2; Syr 49,6n; 2 Mch 2,1-8; 2 Mch 15,12-16, ale i dobrze rozwinięta literatura apokryficzna (Paralipomena Jeremiae oraz inne pisma qumrańskie z IV groty). <br>    Dzisiejszy układ tekstu hebrajskiego obejmuje, obok historii powołania (rozdz. 1), księgę gróźb (Jr 2,1-25,14), zapowiedzi pocieszające dla Izraela (Jr 26,1-35,19), biografię Jeremiasza pióra Barucha (Jr 36,1-45,5) oraz obszerną sekcję mów przeciw narodom obcym (Jr 46,1-51,64); znacznie później dodano historyczny urywek końcowy (rozdział 52). <br>    Księga zawiera niemal wszystkie prorockie rodzaje literackie. Poza proklamacją w imię Pana, groźbami i karcącymi mowami, najbardziej charakterystyczne dla Jr są mowy polemiczne typu rozprawy sądowej oraz &quot;wyznania&quot; - jedyne w swoim rodzaju źródło zrozumienia osobistych przeżyć autora. Nadto należy wymienić literackie rodzaje kultowe, wyznania grzechów, hymny, modlitwy i liturgie żałobne. <br>    Teologia Jeremiaszowa nawiązuje do ściśle jahwistycznych tradycji prorockich, nadaje im jednak własne, osobiste piętno. Punktem wyjścia jego rozważań jest nie tylko Pan jako Bóg Izraela, ale każdego Izraelity. Jego miłość, nie znająca granic, opiera się na Przymierzu z narodem. Przejście od kolektywizmu do indywidualizmu można stwierdzić zwłaszcza w nakazach i pouczeniach moralnych. Grzech, czyli oddalenie się od Boga, polega głównie na bałwochwalstwie i synkretyzmie religijnym; towarzyszy mu nieodłącznie upadek etyczny i lekceważenie Prawa Bożego (Jr 5,26nn; Jr 6,5n; Jr 7,5n). W życiu publicznym i politycznym należą tu brak ufności do Pana i lekkomyślne wiązanie się przymierzami z narodami pogańskimi. Następstwem grzechu jest gniew Pański i kara w postaci klęsk żywiołowych i pustoszącego najazdu nieprzyjaciela z północy, który zamieni miasta i świątynię w gruzy. Spośród ogólnej zagłady - w chwili głoszenia słowa przez Proroka jeszcze warunkowej - Pan ocali pewną Resztę, z której odbuduje sobie naród święty. Powrót z niewoli będzie pierwszym krokiem na drodze ku nowemu etapowi historii zbawienia i Nowemu Przymierzu (Jr 31,31-34) wraz z powszechnym nawróceniem do Boga. W perspektywie prorockiej łączy Jeremiasz ten okres z pojawieniem się Odrośli Dawidowej, Mesjasza Króla (Jr 23,5-8; Jr 30,9; Jr 33,15). Chrystus na Ostatniej Wieczerzy nawiązał do tego proroctwa, wykazując jego najgłębszy sens (Jr 31,31nn w Mk 14,24 i par.). <br>    Księga odznacza się nie tylko wielkimi walorami poetyckimi, ale przedstawia również bogaty obraz życia prorockiego. Ukazuje światła i cienie losów rzecznika Bożego; nie waha się nawet przedstawić jego wewnętrznych zmagań, wątpliwości aż do chwilowego buntu. Mówi nade wszystko o przemożnej sile słowa Bożego, któremu Prorok musi się podporządkować nawet za cenę największych cierpień i wyrzeczeń. Misja prorocka Jeremiasza, pozornie bezskuteczna, nadała w rzeczywistości właściwy kierunek religijności Judejczyków w niewoli: umożliwiła im przetrwanie w ciężkich latach niewoli i odnowę życia religijnego po powrocie do kraju.</p>
 </article>
 <section class="chapter" id="v1">
-<h2><a href="Jr.html">Rozdział 1</a></h2>
+<h2><a href="Jr.html#v1">Rozdział 1</a></h2>
 <div class="verses">
 <h5>Wstęp do księgi</h5>
 <span class="verse" id="v1_1"><sup class="vn"><a href="#v1_1">1</a></sup>Słowa Jeremiasza, syna Chilkiasza, z rodu kapłańskiego, który był w Anatot, w ziemi Beniamina.</span>
@@ -124,7 +170,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v2">
-<h2><a href="Jr.html">Rozdział 2</a></h2>
+<h2><a href="Jr.html#v2">Rozdział 2</a></h2>
 <div class="verses">
 <h4>GROŹBY PRZECIW IZRAELOWI I JUDZIE</h4>
 <h5>Apostazja Izraela i jej skutki</h5>
@@ -189,7 +235,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v3">
-<h2><a href="Jr.html">Rozdział 3</a></h2>
+<h2><a href="Jr.html#v3">Rozdział 3</a></h2>
 <div class="verses">
 <h5>Czy Izrael-Odstępca może powrócić?</h5>
 <span class="verse" id="v3_1"><sup class="vn"><a href="#v3_1">1</a></sup>Jeżeli mąż porzuci swą żonę,<br>a ona odejdzie od niego<br>i poślubi innego męża,<br>czy może on jeszcze do niej wrócić<a class="fnref" href="#f-3-1"><sup class="r">※</sup></a>?<br>Czy ta ziemia<br>nie została całkowicie zbezczeszczona?<br>A ty, co z wielu przyjaciółmi cudzołożyłaś<sup>s</sup>,<br>masz wrócić do Mnie? - wyrocznia<sup>s</sup> Pana.<br></span>
@@ -237,7 +283,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v4">
-<h2><a href="Jr.html">Rozdział 4</a></h2>
+<h2><a href="Jr.html#v4">Rozdział 4</a></h2>
 <div class="verses">
 <h5>Poprawa warunkiem przebaczenia</h5>
 <span class="verse" id="v4_1"><sup class="vn"><a href="#v4_1">1</a></sup>«Jeżeli chcesz powrócić, Izraelu,<br>- wyrocznia<sup>s</sup> Pana -<br>możesz do Mnie powrócić;<br>a jeżeli oddalisz swe bóstwa,<br>nie potrzebujesz się błąkać z dala ode Mnie.<br></span>
@@ -292,7 +338,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v5">
-<h2><a href="Jr.html">Rozdział 5</a></h2>
+<h2><a href="Jr.html#v5">Rozdział 5</a></h2>
 <div class="verses">
 <h5>Powszechne zepsucie</h5>
 <span class="verse" id="v5_1"><sup class="vn"><a href="#v5_1">1</a></sup>Przebiegnijcie ulice Jeruzalem,<br>zobaczcie, zbadajcie<br>i przeszukajcie jej place,<br>czy znajdziecie kogoś,<br>czy będzie tam ktokolwiek, kto postępowałby sprawiedliwie,<br>szukał prawdy,<br>a przebaczę jej<a class="fnref" href="#f-5-1"><sup class="r">※</sup></a>.<br></span>
@@ -343,7 +389,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v6">
-<h2><a href="Jr.html">Rozdział 6</a></h2>
+<h2><a href="Jr.html#v6">Rozdział 6</a></h2>
 <div class="verses">
 <h5>Wezwanie do ucieczki</h5>
 <span class="verse" id="v6_1"><sup class="vn"><a href="#v6_1">1</a></sup>Uciekajcie z Jerozolimy, synowie Beniamina!<br>W Tekoa<a class="fnref" href="#f-6-1"><sup class="r">※</sup></a> dmijcie w trąby!<br>Na Bet-ha-Kerem wywieście znak!<br>Albowiem od północy zagraża nieszczęście<br>i wielka katastrofa.<br></span>
@@ -399,7 +445,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v7">
-<h2><a href="Jr.html">Rozdział 7</a></h2>
+<h2><a href="Jr.html#v7">Rozdział 7</a></h2>
 <div class="verses">
 <h5>Przeciw formalizmowi religijnemu Prawdziwy i fałszywy kult w świątyni</h5>
 <span class="verse" id="v7_1"><sup class="vn"><a href="#v7_1">1</a></sup><a class="fnref" href="#f-7-1"><sup class="r">※</sup></a>Słowo, które Pan skierował do Jeremiasza:</span>
@@ -457,7 +503,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v8">
-<h2><a href="Jr.html">Rozdział 8</a></h2>
+<h2><a href="Jr.html#v8">Rozdział 8</a></h2>
 <div class="verses">
 <h5>Dalsze upomnienia i groźby</h5>
 <span class="verse" id="v8_1"><sup class="vn"><a href="#v8_1">1</a></sup><a class="fnref" href="#f-8-1"><sup class="r">※</sup></a>W owym czasie - wyrocznia<sup>s</sup> Pana - wydobędą z ich grobów kości królów judzkich, kości ich przywódców, kości proroków, kości mieszkańców Jerozolimy.</span>
@@ -500,7 +546,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v9">
-<h2><a href="Jr.html">Rozdział 9</a></h2>
+<h2><a href="Jr.html#v9">Rozdział 9</a></h2>
 <div class="verses">
 <h5>Upadek moralny narodu</h5>
 <span class="verse" id="v9_1"><sup class="vn"><a href="#v9_1">1</a></sup>Któż da mi schronienie dla podróżnych na pustyni,<br>bym mógł opuścić swój naród i oddalić się od niego?<br>Wszyscy oni są bowiem cudzołożnikami, gromadą buntowników.<br></span>
@@ -545,7 +591,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v10">
-<h2><a href="Jr.html">Rozdział 10</a></h2>
+<h2><a href="Jr.html#v10">Rozdział 10</a></h2>
 <div class="verses">
 <h5>Satyra na cudze bóstwa i bałwochwalców</h5>
 <span class="verse" id="v10_1"><sup class="vn"><a href="#v10_1">1</a></sup>Słuchajcie słowa, które Pan mówi do was, domu Izraela!<br></span>
@@ -594,7 +640,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v11">
-<h2><a href="Jr.html">Rozdział 11</a></h2>
+<h2><a href="Jr.html#v11">Rozdział 11</a></h2>
 <div class="verses">
 <h4>PAN WOBEC PRZENIEWIERCZEGO NARODU</h4>
 <h5>Złamanie przymierza</h5>
@@ -634,7 +680,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v12">
-<h2><a href="Jr.html">Rozdział 12</a></h2>
+<h2><a href="Jr.html#v12">Rozdział 12</a></h2>
 <div class="verses">
 <h5>Sprawiedliwość a nagroda</h5>
 <span class="verse" id="v12_1"><sup class="vn"><a href="#v12_1">1</a></sup>Sprawiedliwość jest przy Tobie, Panie, jeśli zacznę prowadzić spór z Tobą. Chciałbym jednak mówić z Tobą o słuszności:<br>Dlaczego życie przewrotnych upływa pomyślnie<a class="fnref" href="#f-12-1"><sup class="r">※</sup></a>?<br>Dlaczego wszyscy przewrotni zażywają pokoju?<br></span>
@@ -672,7 +718,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v13">
-<h2><a href="Jr.html">Rozdział 13</a></h2>
+<h2><a href="Jr.html#v13">Rozdział 13</a></h2>
 <div class="verses">
 <h5>Zbutwiały pas<a class="fnref" href="#f-13-1"><sup class="r">※</sup></a></h5>
 <span class="verse" id="v13_1"><sup class="vn"><a href="#v13_1">1</a></sup>Tak powiedział mi Pan: «Idź i kup sobie lniany pas i włóż go sobie na biodra, ale nie kładź go do wody!»</span>
@@ -720,7 +766,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v14">
-<h2><a href="Jr.html">Rozdział 14</a></h2>
+<h2><a href="Jr.html#v14">Rozdział 14</a></h2>
 <div class="verses">
 <h5>Plaga suszy<a class="fnref" href="#f-14-1"><sup class="r">※</sup></a></h5>
 <span class="verse" id="v14_1"><sup class="vn"><a href="#v14_1">1</a></sup>Słowo, które Pan oznajmił Jeremiaszowi w związku z suszą:<br></span>
@@ -758,7 +804,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v15">
-<h2><a href="Jr.html">Rozdział 15</a></h2>
+<h2><a href="Jr.html#v15">Rozdział 15</a></h2>
 <div class="verses">
 <h5>Nieodwołalny sąd Pański</h5>
 <span class="verse" id="v15_1"><sup class="vn"><a href="#v15_1">1</a></sup>Pan jednak powiedział mi: «Nawet gdyby Mojżesz i Samuel<a class="fnref" href="#f-15-1"><sup class="r">※</sup></a> stanęli przede Mną, serce moje nie skłoniłoby się ku temu ludowi. Wypędź ich sprzed mojego oblicza i niech odejdą!</span>
@@ -801,7 +847,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v16">
-<h2><a href="Jr.html">Rozdział 16</a></h2>
+<h2><a href="Jr.html#v16">Rozdział 16</a></h2>
 <div class="verses">
 <h5>Życie Jeremiasza symbolem prorockim</h5>
 <span class="verse" id="v16_1"><sup class="vn"><a href="#v16_1">1</a></sup>Pan skierował do mnie następujące słowo:</span>
@@ -839,7 +885,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v17">
-<h2><a href="Jr.html">Rozdział 17</a></h2>
+<h2><a href="Jr.html#v17">Rozdział 17</a></h2>
 <div class="verses">
 <h5>Grzech Judy</h5>
 <span class="verse" id="v17_1"><sup class="vn"><a href="#v17_1">1</a></sup>«Grzech Judy jest zapisany <br>żelaznym rylcem,<br>wyryty diamentowym ostrzem<br>na tablicach<a class="fnref" href="#f-17-1"><sup class="r">※</sup></a> ich serc<br>i na rogach waszych ołtarzy,<br></span>
@@ -887,7 +933,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v18">
-<h2><a href="Jr.html">Rozdział 18</a></h2>
+<h2><a href="Jr.html#v18">Rozdział 18</a></h2>
 <div class="verses">
 <h5>Jeremiasz u garncarza</h5>
 <span class="verse" id="v18_1"><sup class="vn"><a href="#v18_1">1</a></sup>Słowo, które Pan oznajmił Jeremiaszowi:</span>
@@ -926,7 +972,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v19">
-<h2><a href="Jr.html">Rozdział 19</a></h2>
+<h2><a href="Jr.html#v19">Rozdział 19</a></h2>
 <div class="verses">
 <h5>Stłuczone naczynie</h5>
 <span class="verse" id="v19_1"><sup class="vn"><a href="#v19_1">1</a></sup>Tak powiedział Pan do mnie: «Idź i kup flakon gliniany<a class="fnref" href="#f-19-1"><sup class="r">※</sup></a>, następnie weź ze sobą kilku spośród starszych ludu i spośród starszych kapłanów.</span>
@@ -956,7 +1002,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v20">
-<h2><a href="Jr.html">Rozdział 20</a></h2>
+<h2><a href="Jr.html#v20">Rozdział 20</a></h2>
 <div class="verses">
 <span class="verse" id="v20_1"><sup class="vn"><a href="#v20_1">1</a></sup>Usłyszał Jeremiasza, głoszącego te słowa, Paszchur, syn Imera, kapłan, który był głównym zwierzchnikiem<a class="fnref" href="#f-20-1"><sup class="r">※</sup></a> w domu Pańskim.</span>
 <span class="verse" id="v20_2"><sup class="vn"><a href="#v20_2">2</a></sup>I kazał Paszchur poddać chłoście proroka Jeremiasza i zakuć go w kłodę<a class="fnref" href="#f-20-2"><sup class="r">※</sup></a>, która się znajdowała w Górnej Bramie Beniamina, w domu Pańskim.</span>
@@ -991,7 +1037,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v21">
-<h2><a href="Jr.html">Rozdział 21</a></h2>
+<h2><a href="Jr.html#v21">Rozdział 21</a></h2>
 <div class="verses">
 <h4>PROROCTWA PRZECIW KRÓLOM I ZAPOWIEDŹ „SPRAWIEDLIWEJ ODROŚLI DAWIDOWEJ”</h4>
 <h5>Zapowiedź upadku Sedecjasza i Jerozolimy</h5>
@@ -1019,7 +1065,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v22">
-<h2><a href="Jr.html">Rozdział 22</a></h2>
+<h2><a href="Jr.html#v22">Rozdział 22</a></h2>
 <div class="verses">
 <span class="verse" id="v22_1"><sup class="vn"><a href="#v22_1">1</a></sup>Tak mówi Pan: «Zejdź do domu króla judzkiego i powiedz tam te słowa!</span>
 <span class="verse" id="v22_2"><sup class="vn"><a href="#v22_2">2</a></sup>Powiesz: Słuchaj słowa Bożego, królu judzki, który zasiadasz na tronie Dawida, ty, twoi słudzy i twój lud, który wchodzi przez te bramy.</span>
@@ -1072,7 +1118,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v23">
-<h2><a href="Jr.html">Rozdział 23</a></h2>
+<h2><a href="Jr.html#v23">Rozdział 23</a></h2>
 <div class="verses">
 <h5>Zapowiedź zbawienia w czasach mesjańskich</h5>
 <span class="verse" id="v23_1"><sup class="vn"><a href="#v23_1">1</a></sup>«Biada pasterzom, którzy prowadzą do zguby i rozpraszają<br>owce z mojego pastwiska - wyrocznia<sup>s</sup> Pana.<br></span>
@@ -1140,7 +1186,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v24">
-<h2><a href="Jr.html">Rozdział 24</a></h2>
+<h2><a href="Jr.html#v24">Rozdział 24</a></h2>
 <div class="verses">
 <h5>Symbolika dobrych i złych fig</h5>
 <span class="verse" id="v24_1"><sup class="vn"><a href="#v24_1">1</a></sup>Pan pokazał mi w widzeniu: Oto dwa kosze fig ustawione przed świątynią, gdy już Nabuchodonozor, król babiloński, uprowadził z Jerozolimy na wygnanie do Babilonu Jechoniasza, syna Jojakima, króla judzkiego, oraz przywódców judzkich, także kowali i ślusarzy<a class="fnref" href="#f-24-1"><sup class="r">※</sup></a>.</span>
@@ -1162,7 +1208,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v25">
-<h2><a href="Jr.html">Rozdział 25</a></h2>
+<h2><a href="Jr.html#v25">Rozdział 25</a></h2>
 <div class="verses">
 <h5>Babilończycy - narzędziem kary</h5>
 <span class="verse" id="v25_1"><sup class="vn"><a href="#v25_1">1</a></sup>Słowo skierowane do Jeremiasza o całym narodzie judzkim w czwartym roku [panowania] Jojakima, syna Jozjasza, króla judzkiego to jest w pierwszym roku Nabuchodonozora, króla babilońskiego<a class="fnref" href="#f-25-1"><sup class="r">※</sup></a>.</span>
@@ -1227,7 +1273,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v26">
-<h2><a href="Jr.html">Rozdział 26</a></h2>
+<h2><a href="Jr.html#v26">Rozdział 26</a></h2>
 <div class="verses">
 <h4>ZAPOWIEDŹ ZBAWIENIA DLA IZRAELA I JUDY</h4>
 <h5>Mowa w świątyni i jej następstwa</h5>
@@ -1271,7 +1317,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v27">
-<h2><a href="Jr.html">Rozdział 27</a></h2>
+<h2><a href="Jr.html#v27">Rozdział 27</a></h2>
 <div class="verses">
 <h5>Jeremiasz obnosi jarzmo po Jerozolimie</h5>
 <span class="verse" id="v27_1"><sup class="vn"><a href="#v27_1">1</a></sup>Na początku<a class="fnref" href="#f-27-1"><sup class="r">※</sup></a> panowania Sedecjasza, syna Jozjasza, króla judzkiego, skierował Pan do Jeremiasza następujące słowa:</span>
@@ -1310,7 +1356,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v28">
-<h2><a href="Jr.html">Rozdział 28</a></h2>
+<h2><a href="Jr.html#v28">Rozdział 28</a></h2>
 <div class="verses">
 <h5>Spór Jeremiasza z Chananiaszem</h5>
 <span class="verse" id="v28_1"><sup class="vn"><a href="#v28_1">1</a></sup>W czwartym roku [panowania] Sedecjasza, króla judzkiego, w piątym miesiącu rzekł do mnie Chananiasz<a class="fnref" href="#f-28-1"><sup class="r">※</sup></a>, syn Azzura, prorok z Gibeonu, w domu Pańskim wobec kapłanów i całego ludu:</span>
@@ -1339,7 +1385,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v29">
-<h2><a href="Jr.html">Rozdział 29</a></h2>
+<h2><a href="Jr.html#v29">Rozdział 29</a></h2>
 <div class="verses">
 <h5>List Jeremiasza do wygnańców</h5>
 <span class="verse" id="v29_1"><sup class="vn"><a href="#v29_1">1</a></sup>Taka jest treść listu, który prorok Jeremiasz posłał z Jerozolimy do pozostałych starszych<a class="fnref" href="#f-29-1"><sup class="r">※</sup></a> na wygnaniu, do kapłanów, do proroków i do całego ludu, który Nabuchodonozor uprowadził z Jerozolimy na wygnanie do Babilonii</span>
@@ -1390,7 +1436,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v30">
-<h2><a href="Jr.html">Rozdział 30</a></h2>
+<h2><a href="Jr.html#v30">Rozdział 30</a></h2>
 <div class="verses">
 <h4>KSIĘGA POCIESZENIA</h4>
 <h5>Wprowadzenie</h5>
@@ -1433,7 +1479,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v31">
-<h2><a href="Jr.html">Rozdział 31</a></h2>
+<h2><a href="Jr.html#v31">Rozdział 31</a></h2>
 <div class="verses">
 <span class="verse" id="v31_1"><sup class="vn"><a href="#v31_1">1</a></sup>W owych czasach - wyrocznia<sup>s</sup> Pana - <br>będę Bogiem dla wszystkich pokoleń Izraela,<br>one zaś będą moim narodem».<br></span>
 <h5>Odnowienie dziełem miłości Bożej</h5>
@@ -1513,7 +1559,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v32">
-<h2><a href="Jr.html">Rozdział 32</a></h2>
+<h2><a href="Jr.html#v32">Rozdział 32</a></h2>
 <div class="verses">
 <h5>Symboliczne kupno pola</h5>
 <span class="verse" id="v32_1"><sup class="vn"><a href="#v32_1">1</a></sup>Słowo, które Pan oznajmił Jeremiaszowi w dziesiątym roku [panowania] Sedecjasza, króla judzkiego, to jest w osiemnastym roku Nabuchodonozora<a class="fnref" href="#f-32-1"><sup class="r">※</sup></a>.</span>
@@ -1582,7 +1628,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v33">
-<h2><a href="Jr.html">Rozdział 33</a></h2>
+<h2><a href="Jr.html#v33">Rozdział 33</a></h2>
 <div class="verses">
 <h5>Dalsze zapowiedzi odnowienia</h5>
 <span class="verse" id="v33_1"><sup class="vn"><a href="#v33_1">1</a></sup>Powtórnie skierował Pan słowo do Jeremiasza, gdy ten był jeszcze uwięziony w wartowni.</span>
@@ -1624,7 +1670,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v34">
-<h2><a href="Jr.html">Rozdział 34</a></h2>
+<h2><a href="Jr.html#v34">Rozdział 34</a></h2>
 <div class="verses">
 <h5>Przepowiednia o losach Sedecjasza</h5>
 <span class="verse" id="v34_1"><sup class="vn"><a href="#v34_1">1</a></sup>Słowo, jakie skierował Pan do Jeremiasza, gdy Nabuchodonozor, król babiloński, z całym swym wojskiem, wszystkie królestwa ziemi mu poddane oraz wszystkie narody toczyli walkę z Jerozolimą i wszystkimi jej miastami.</span>
@@ -1660,7 +1706,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v35">
-<h2><a href="Jr.html">Rozdział 35</a></h2>
+<h2><a href="Jr.html#v35">Rozdział 35</a></h2>
 <div class="verses">
 <h5>Przykład Rekabitów</h5>
 <span class="verse" id="v35_1"><sup class="vn"><a href="#v35_1">1</a></sup>Słowo, jakie Pan skierował do Jeremiasza w czasach Jojakima, syna Jozjasza, króla judzkiego:</span>
@@ -1692,7 +1738,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v36">
-<h2><a href="Jr.html">Rozdział 36</a></h2>
+<h2><a href="Jr.html#v36">Rozdział 36</a></h2>
 <div class="verses">
 <h4>ŻYCIE JEREMIASZA I JEGO MĘCZEŃSTWO</h4>
 <h5>Historia pierwszego i drugiego zwoju Jeremiasza</h5>
@@ -1743,7 +1789,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v37">
-<h2><a href="Jr.html">Rozdział 37</a></h2>
+<h2><a href="Jr.html#v37">Rozdział 37</a></h2>
 <div class="verses">
 <h5>Wysłannicy Sedecjasza u Jeremiasza</h5>
 <span class="verse" id="v37_1"><sup class="vn"><a href="#v37_1">1</a></sup>W miejsce Jechoniasza, syna Jojakima, władzę objął Sedecjasz. Królem nad ziemią judzką ustanowił go król babiloński, Nabuchodonozor<a class="fnref" href="#f-37-1"><sup class="r">※</sup></a>.</span>
@@ -1778,7 +1824,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v38">
-<h2><a href="Jr.html">Rozdział 38</a></h2>
+<h2><a href="Jr.html#v38">Rozdział 38</a></h2>
 <div class="verses">
 <h5>Jeremiasz w cysternie</h5>
 <span class="verse" id="v38_1"><sup class="vn"><a href="#v38_1">1</a></sup>Szefatiasz, syn Matana, Godoliasz, syn Paszchura, Jukal, syn Szelemiasza<a class="fnref" href="#f-38-1"><sup class="r">※</sup></a>, i Paszchur, syn Malkiasza, usłyszeli słowa, które Jeremiasz mówił do całego ludu:</span>
@@ -1821,7 +1867,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v39">
-<h2><a href="Jr.html">Rozdział 39</a></h2>
+<h2><a href="Jr.html#v39">Rozdział 39</a></h2>
 <div class="verses">
 <h5>Zdobycie Jerozolimy i uwolnienie Jeremiasza</h5>
 <span class="verse" id="v39_1"><sup class="vn"><a href="#v39_1">1</a></sup><a class="fnref" href="#f-39-1"><sup class="r">※</sup></a>W dziewiątym roku [panowania] Sedecjasza, króla judzkiego, dziesiątego miesiąca wyruszył Nabuchodonozor, król babiloński, z całym swoim wojskiem pod Jerozolimę; i oblegali ją.</span>
@@ -1855,7 +1901,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v40">
-<h2><a href="Jr.html">Rozdział 40</a></h2>
+<h2><a href="Jr.html#v40">Rozdział 40</a></h2>
 <div class="verses">
 <span class="verse" id="v40_1"><sup class="vn"><a href="#v40_1">1</a></sup>Słowo, które Pan skierował do Jeremiasza<a class="fnref" href="#f-40-1"><sup class="r">※</sup></a> po uwolnieniu go z Rama przez Nebuzaradana, dowódcę straży przybocznej. On to wydobył go, gdy był skuty łańcuchami wśród wszystkich zesłanych z Jerozolimy i Judy, którzy mieli być uprowadzeni na wygnanie do Babilonu.</span>
 <span class="verse" id="v40_2"><sup class="vn"><a href="#v40_2">2</a></sup>Naczelnik straży zabrał Jeremiasza i rzekł do niego: «Pan, Bóg twój, przepowiedział nieszczęście temu miejscu;</span>
@@ -1887,7 +1933,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v41">
-<h2><a href="Jr.html">Rozdział 41</a></h2>
+<h2><a href="Jr.html#v41">Rozdział 41</a></h2>
 <div class="verses">
 <span class="verse" id="v41_1"><sup class="vn"><a href="#v41_1">1</a></sup>W siódmym miesiącu przybył Izmael, syn Netaniasza, syna Eliszamy, z królewskiego rodu, wraz z dziesięciu ludźmi do Godoliasza, syna Achikama, do Mispa.</span>
 <span class="verse" id="v41_2"><sup class="vn"><a href="#v41_2">2</a></sup>Podczas gdy tam ucztowali wspólnie w Mispa, powstał Izmael, syn Netaniasza, oraz dziesięciu ludzi, których miał ze sobą, i zamordowali mieczem Godoliasza, syna Achikama, syna Szafana<a class="fnref" href="#f-41-1"><sup class="r">※</sup></a>. Zabił więc tego, którego król babiloński ustanowił zarządcą kraju.</span>
@@ -1915,7 +1961,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v42">
-<h2><a href="Jr.html">Rozdział 42</a></h2>
+<h2><a href="Jr.html#v42">Rozdział 42</a></h2>
 <div class="verses">
 <h5>Ucieczka niedobitków judzkich do Egiptu</h5>
 <span class="verse" id="v42_1"><sup class="vn"><a href="#v42_1">1</a></sup>Wszyscy dowódcy wojskowi wraz z Jochananem, synem Kareacha, i Jezaniaszem, synem Hoszajasza, oraz cały lud, od małego do wielkiego, przyszli</span>
@@ -1947,7 +1993,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v43">
-<h2><a href="Jr.html">Rozdział 43</a></h2>
+<h2><a href="Jr.html#v43">Rozdział 43</a></h2>
 <div class="verses">
 <span class="verse" id="v43_1"><sup class="vn"><a href="#v43_1">1</a></sup>Gdy Jeremiasz skończył głosić całemu ludowi wszystkie słowa Pana, ich Boga, mianowicie wszystkie te słowa, które Pan do nich skierował,</span>
 <span class="verse" id="v43_2"><sup class="vn"><a href="#v43_2">2</a></sup>rzekli Azariasz, syn Hoszajasza, i Jochanan, syn Kareacha, oraz wszyscy ludzie zuchwali do Jeremiasza: «Kłamstwo głosisz<a class="fnref" href="#f-43-1"><sup class="r">※</sup></a>! Nie posłał cię Pan, nasz Bóg, byś mówił: Nie chodźcie do Egiptu, by się tam osiedlić!</span>
@@ -1972,7 +2018,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v44">
-<h2><a href="Jr.html">Rozdział 44</a></h2>
+<h2><a href="Jr.html#v44">Rozdział 44</a></h2>
 <div class="verses">
 <span class="verse" id="v44_1"><sup class="vn"><a href="#v44_1">1</a></sup>Słowo, jakie zostało skierowane do Jeremiasza - dla wszystkich ludzi z Judy mieszkających w kraju egipskim, dla mieszkających w Migdol, w Tachpanches, w Nof<sup>s</sup> oraz w kraju Patros<a class="fnref" href="#f-44-1"><sup class="r">※</sup></a>:</span>
 <span class="verse" id="v44_2"><sup class="vn"><a href="#v44_2">2</a></sup>«Tak mówi Pan Zastępów<sup>s</sup>, Bóg Izraela: Widzieliście całe nieszczęście, jakie sprowadziłem na Jerozolimę i na wszystkie miasta judzkie. Są one dzisiaj ruiną i nie ma w nich mieszkańców</span>
@@ -2015,7 +2061,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v45">
-<h2><a href="Jr.html">Rozdział 45</a></h2>
+<h2><a href="Jr.html#v45">Rozdział 45</a></h2>
 <div class="verses">
 <h5>Proroctwo dla Barucha</h5>
 <span class="verse" id="v45_1"><sup class="vn"><a href="#v45_1">1</a></sup>Słowo, które prorok Jeremiasz oznajmił Baruchowi, synowi Neriasza, gdy spisał on w księdze tamte słowa pod dyktando Jeremiasza w czwartym roku [panowania] króla judzkiego, Jojakima, syna Jozjasza<a class="fnref" href="#f-45-1"><sup class="r">※</sup></a>:</span>
@@ -2030,7 +2076,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v46">
-<h2><a href="Jr.html">Rozdział 46</a></h2>
+<h2><a href="Jr.html#v46">Rozdział 46</a></h2>
 <div class="verses">
 <h4>MOWY PRZECIW OBCYM NARODOM</h4>
 <h5>Proroctwa przeciw Egiptowi</h5>
@@ -2079,7 +2125,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v47">
-<h2><a href="Jr.html">Rozdział 47</a></h2>
+<h2><a href="Jr.html#v47">Rozdział 47</a></h2>
 <div class="verses">
 <h5>Proroctwo przeciw Filistynom</h5>
 <span class="verse" id="v47_1"><sup class="vn"><a href="#v47_1">1</a></sup>Słowo Pana, które zostało skierowane do proroka Jeremiasza przeciw Filistynom, nim faraon zdobył Gazę<a class="fnref" href="#f-47-1"><sup class="r">※</sup></a>:<br></span>
@@ -2097,7 +2143,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v48">
-<h2><a href="Jr.html">Rozdział 48</a></h2>
+<h2><a href="Jr.html#v48">Rozdział 48</a></h2>
 <div class="verses">
 <h5>Proroctwo przeciw Moabowi</h5>
 <span class="verse" id="v48_1"><sup class="vn"><a href="#v48_1">1</a></sup>O Moabie. «Tak mówi Pan Zastępów<sup>s</sup>, Bóg Izraela:<br>Biada, albowiem Nebo<a class="fnref" href="#f-48-1"><sup class="r">※</sup></a> jest spustoszone,<br>zdobyte jest Kiriataim,<br>pohańbiona została Cytadela<br>i napełniona przerażeniem.<br></span>
@@ -2168,7 +2214,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v49">
-<h2><a href="Jr.html">Rozdział 49</a></h2>
+<h2><a href="Jr.html#v49">Rozdział 49</a></h2>
 <div class="verses">
 <h5>Proroctwo przeciw Ammonitom</h5>
 <span class="verse" id="v49_1"><sup class="vn"><a href="#v49_1">1</a></sup>O Ammonitach. Tak mówi Pan: <br>«Czy nie ma Izrael synów,<br>czy nie ma spadkobierców?<br>Dlaczego więc Milkom<a class="fnref" href="#f-49-1"><sup class="r">※</sup></a> dziedziczy po Gadzie,<br>a jego naród mieszka w ich miastach?<br></span>
@@ -2240,7 +2286,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v50">
-<h2><a href="Jr.html">Rozdział 50</a></h2>
+<h2><a href="Jr.html#v50">Rozdział 50</a></h2>
 <div class="verses">
 <h4>PROROCTWO PRZECIW BABILONOWI</h4>
 <h5>Upadek Babilonu</h5>
@@ -2319,7 +2365,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v51">
-<h2><a href="Jr.html">Rozdział 51</a></h2>
+<h2><a href="Jr.html#v51">Rozdział 51</a></h2>
 <div class="verses">
 <h5>Zagłada Babilonu</h5>
 <span class="verse" id="v51_1"><sup class="vn"><a href="#v51_1">1</a></sup>Tak mówi Pan: <br>Oto sprowadzę na Babilon<br>i na mieszkańców Chaldei<a class="fnref" href="#f-51-1"><sup class="r">※</sup></a><br>niszczący wiatr.<br></span>
@@ -2423,7 +2469,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v52">
-<h2><a href="Jr.html">Rozdział 52</a></h2>
+<h2><a href="Jr.html#v52">Rozdział 52</a></h2>
 <div class="verses">
 <h4>DODATEK HISTORYCZNY<a class="fnref" href="#f-52-1"><sup class="r">※</sup></a></h4>
 <span class="verse" id="v52_1"><sup class="vn"><a href="#v52_1">1</a></sup>W chwili objęcia rządów Sedecjasz miał dwadzieścia jeden lat i panował jedenaście lat w Jerozolimie. Matce jego, córce Jeremiasza z Libny, było na imię Chamutal.</span>
@@ -2471,6 +2517,20 @@ article.introduction {
 <script>
 (function () {
   'use strict';
+  function fontSize(size) {
+    document.documentElement.style.fontSize = size + 'px';
+    try { localStorage.setItem('btv-font-size', size); } catch (e) {}
+  }
+  var switcher = document.querySelector('.font-switcher');
+  [14, 16, 18, 20, 22].forEach(function (size) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = 'A';
+    b.style.fontSize = size + 'px';
+    b.setAttribute('aria-label', 'Rozmiar czcionki ' + size + ' pikseli');
+    b.addEventListener('click', function () { fontSize(size); });
+    switcher.appendChild(b);
+  });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {

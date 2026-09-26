@@ -2,45 +2,84 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try{var s=localStorage.getItem('btv-font-size');if(s)document.documentElement.style.fontSize=s+'px';}catch(e){}
+</script>
 <title>2 List św. Piotra — Biblia Tysiąclecia (BT-V)</title>
 <style>
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
 body {
   font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   line-height: 1.6;
-  max-width: 42em;
+  max-width: 42rem;
   margin: 0 auto;
-  padding: 1em 1.5em 3em;
+  padding: 1rem 1.5rem 3rem;
   color: #222;
   background: #fff;
 }
+.font-switcher {
+  margin-left: auto;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  border: 1px solid #808080;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.font-switcher button {
+  margin-left: 0.25rem;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+  font-family: inherit;
+}
 nav.toc {
   font-family: -apple-system, 'Segoe UI', sans-serif;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   color: #555;
 }
 nav.toc a {
-  margin-right: 0.45em;
+  margin-right: 0.45rem;
   text-decoration: none;
 }
-h1 { font-size: 1.8em; }
-h2 {
-  font-size: 1.4em;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
+header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
-h1 a, h2 a {
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+h1 { font-size: 1.8rem; }
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+h1 a, h2 a, .site-title a {
   color: inherit;
   text-decoration: none;
 }
-h1 a:hover, h2 a:hover {
+h1 a:hover, h2 a:hover, .site-title a:hover {
   text-decoration: underline;
 }
 sup.vn {
   color: #0000aa;
-  font-size: 0.7em;
-  margin-right: 0.2em;
+  font-size: 0.7rem;
+  margin-right: 0.2rem;
   position: relative;
-  top: -0.2em;
+  top: -0.2rem;
   user-select: none;
 }
 span.verse sup.vn a {
@@ -54,9 +93,9 @@ div.verses {
 span.speaker { font-style: italic; }
 ul.footnotes {
   list-style: none;
-  font-size: 0.85em;
+  font-size: 0.85rem;
   color: #444;
-  padding: 2em 2em 2em 2em;
+  padding: 2rem;
 }
 a.fnref, a.backref { text-decoration: none; }
 ul.footnotes li:target, span.verse:target, span.verse.sel {
@@ -66,26 +105,33 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   padding: 2px;
   transition: background-color 0.5s ease;
 }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  ul.footnotes li:target, span.verse:target, span.verse.sel {
+    transition: none;
+  }
+}
 span.verse, ul.footnotes>li {
-  scroll-margin-top: 1em;
+  scroll-margin-top: 1rem;
 }
 article.introduction {
   background: #fafafa;
   border-left: 3px solid #ddd;
-  padding: 0.5em 1em;
-  margin: 1em 0;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
 }
 </style>
 </head>
 <body>
-<h1><a href="index.html">2 List św. Piotra</a></h1>
+<header class="site"><p class="site-title"><a href="index.html">Biblia Tysiąclecia</a></p><div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div></header>
+<h1><a href="2P.html">2 List św. Piotra</a></h1>
 <nav class="toc">Rozdziały: <a href="#v1">1</a> <a href="#v2">2</a> <a href="#v3">3</a></nav>
-<article class="introduction">
-<h2><a href="2P.html">Wstęp do Drugiego Listu św. Piotra apostoła</a></h2>
+<article class="introduction" id="i1">
+<h2><a href="2P.html#i1">Wstęp do Drugiego Listu św. Piotra apostoła</a></h2>
 <p>Św. Piotr napisał swój drugi list krótko przed śmiercią, a więc w r. 64 lub 67, prawdopodobnie do tych samych wiernych, do których pisał swój list pierwszy. Przeczuwał on zbliżającą się swoją śmierć, sytuacja zaś w małoazjatyckich gminach kościelnych znacznie się pogorszyła. Trzeba było ostrzec przed heretykami i wyjaśnić, dlaczego opóźnia się spodziewane powtórne przyjście Chrystusa Pana. Pierwszej kwestii św. Piotr poświęcił drugi rozdział, w którym prawie dosłownie przytoczył cały List św. Judy Apostoła. Po ujemnej charakterystyce heretyków, św. Piotr uwydatnia, że koniec ich jest gorszy od początków (2 P 2,20). Opóźniającą się paruzją św. Piotr zajął się w 1 i 3 rozdziale. Ona nastąpi na pewno. Bóg jest cierpliwy, nie chce zguby grzesznika, ale pragnie każdego do pokuty doprowadzić. Ponadto inna jest Jego rachuba czasu. Trzeba więc skorzystać z tego i do doskonałości doprowadzić swoje chrześcijańskie życie. Przy wierze należy trwać jak przy lampie, która świeci w ciemnym miejscu, aż dzień zaświta (2 P 1,19). Dzień Pański przyjdzie jak złodziej (2 P 3,10). Ubocznie św. Piotr wspominał o przemienieniu Pańskim (2 P 1,17), podał sformułowanie charakteru natchnienia Pisma św. (2 P 1,20n) oraz naukę o końcu świata (2 P 3,7-13). <br>    Ślady znajomości 2 P są w II w. bardzo wątpliwe, przed IV w. brak znajomości tego listu w Italii i w Afryce, w IV w. jednak sama tylko Syria nie uznawała tego listu za natchniony. Wątpliwości co do kanoniczności 2 P ostatecznie przecięła decyzja Soboru Trydenckiego. <br>    Autentyczność 2 P napotyka poważne trudności jeszcze dzisiaj, a podstawą ich są różnice języka i stylu pomiędzy 1 P a 2 P. Katoliccy egzegeci wskazują na podobieństwa pomiędzy tymi listami; faktem jest jednak, że nawet niektórzy z nich mówią o pseudoanonimowym charakterze 2 P. Twierdzenie takie nie sprzeciwia się uznaniu tego pisma za natchnione. <br>    Redaktorem 2 P mógł być ktoś bliżej nie znany, piszący pod nadzorem i w imieniu św. Piotra, a wiele osobistych szczegółów wspomnianych w liście, podobieństwa do 1 P, a przede wszystkim cała kościelna tradycja, wystarczają do tego, aby św. Piotra uznać za autora tego listu.</p>
 </article>
 <section class="chapter" id="v1">
-<h2><a href="2P.html">Rozdział 1</a></h2>
+<h2><a href="2P.html#v1">Rozdział 1</a></h2>
 <div class="verses">
 <h5>Adres</h5>
 <span class="verse" id="v1_1"><sup class="vn"><a href="#v1_1">1</a></sup>Szymon Piotr, sługa<sup>s</sup> i apostoł Jezusa Chrystusa, do tych, którzy dzięki sprawiedliwości Boga naszego i Zbawiciela, Jezusa Chrystusa, otrzymali wiarę równie godną czci jak i nasza:</span>
@@ -114,7 +160,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v2">
-<h2><a href="2P.html">Rozdział 2</a></h2>
+<h2><a href="2P.html#v2">Rozdział 2</a></h2>
 <div class="verses">
 <h5>Szydercy</h5>
 <span class="verse" id="v2_1"><sup class="vn"><a href="#v2_1">1</a></sup>Znaleźli się jednak fałszywi prorocy wśród ludu, tak samo jak pośród was będą fałszywi nauczyciele, którzy wprowadzą wśród was zgubne herezje. Wyprą się oni Władcy, który ich nabył, sprowadzając na siebie rychłą zgubę.</span>
@@ -142,7 +188,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v3">
-<h2><a href="2P.html">Rozdział 3</a></h2>
+<h2><a href="2P.html#v3">Rozdział 3</a></h2>
 <div class="verses">
 <h5>Paruzja - dzień Pański</h5>
 <span class="verse" id="v3_1"><sup class="vn"><a href="#v3_1">1</a></sup>Umiłowani, piszę do was ten już drugi list; w nich pobudzam wasz zdrowy rozsądek i pamięć,</span>
@@ -170,6 +216,20 @@ article.introduction {
 <script>
 (function () {
   'use strict';
+  function fontSize(size) {
+    document.documentElement.style.fontSize = size + 'px';
+    try { localStorage.setItem('btv-font-size', size); } catch (e) {}
+  }
+  var switcher = document.querySelector('.font-switcher');
+  [14, 16, 18, 20, 22].forEach(function (size) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = 'A';
+    b.style.fontSize = size + 'px';
+    b.setAttribute('aria-label', 'Rozmiar czcionki ' + size + ' pikseli');
+    b.addEventListener('click', function () { fontSize(size); });
+    switcher.appendChild(b);
+  });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {

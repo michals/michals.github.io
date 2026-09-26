@@ -2,45 +2,84 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try{var s=localStorage.getItem('btv-font-size');if(s)document.documentElement.style.fontSize=s+'px';}catch(e){}
+</script>
 <title>2 Ks. Królewska — Biblia Tysiąclecia (BT-V)</title>
 <style>
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
 body {
   font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   line-height: 1.6;
-  max-width: 42em;
+  max-width: 42rem;
   margin: 0 auto;
-  padding: 1em 1.5em 3em;
+  padding: 1rem 1.5rem 3rem;
   color: #222;
   background: #fff;
 }
+.font-switcher {
+  margin-left: auto;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  border: 1px solid #808080;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.font-switcher button {
+  margin-left: 0.25rem;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+  font-family: inherit;
+}
 nav.toc {
   font-family: -apple-system, 'Segoe UI', sans-serif;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   color: #555;
 }
 nav.toc a {
-  margin-right: 0.45em;
+  margin-right: 0.45rem;
   text-decoration: none;
 }
-h1 { font-size: 1.8em; }
-h2 {
-  font-size: 1.4em;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
+header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
-h1 a, h2 a {
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+h1 { font-size: 1.8rem; }
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+h1 a, h2 a, .site-title a {
   color: inherit;
   text-decoration: none;
 }
-h1 a:hover, h2 a:hover {
+h1 a:hover, h2 a:hover, .site-title a:hover {
   text-decoration: underline;
 }
 sup.vn {
   color: #0000aa;
-  font-size: 0.7em;
-  margin-right: 0.2em;
+  font-size: 0.7rem;
+  margin-right: 0.2rem;
   position: relative;
-  top: -0.2em;
+  top: -0.2rem;
   user-select: none;
 }
 span.verse sup.vn a {
@@ -54,9 +93,9 @@ div.verses {
 span.speaker { font-style: italic; }
 ul.footnotes {
   list-style: none;
-  font-size: 0.85em;
+  font-size: 0.85rem;
   color: #444;
-  padding: 2em 2em 2em 2em;
+  padding: 2rem;
 }
 a.fnref, a.backref { text-decoration: none; }
 ul.footnotes li:target, span.verse:target, span.verse.sel {
@@ -66,26 +105,33 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   padding: 2px;
   transition: background-color 0.5s ease;
 }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  ul.footnotes li:target, span.verse:target, span.verse.sel {
+    transition: none;
+  }
+}
 span.verse, ul.footnotes>li {
-  scroll-margin-top: 1em;
+  scroll-margin-top: 1rem;
 }
 article.introduction {
   background: #fafafa;
   border-left: 3px solid #ddd;
-  padding: 0.5em 1em;
-  margin: 1em 0;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
 }
 </style>
 </head>
 <body>
-<h1><a href="index.html">2 Ks. Królewska</a></h1>
+<header class="site"><p class="site-title"><a href="index.html">Biblia Tysiąclecia</a></p><div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div></header>
+<h1><a href="2Krl.html">2 Ks. Królewska</a></h1>
 <nav class="toc">Rozdziały: <a href="#v1">1</a> <a href="#v2">2</a> <a href="#v3">3</a> <a href="#v4">4</a> <a href="#v5">5</a> <a href="#v6">6</a> <a href="#v7">7</a> <a href="#v8">8</a> <a href="#v9">9</a> <a href="#v10">10</a> <a href="#v11">11</a> <a href="#v12">12</a> <a href="#v13">13</a> <a href="#v14">14</a> <a href="#v15">15</a> <a href="#v16">16</a> <a href="#v17">17</a> <a href="#v18">18</a> <a href="#v19">19</a> <a href="#v20">20</a> <a href="#v21">21</a> <a href="#v22">22</a> <a href="#v23">23</a> <a href="#v24">24</a> <a href="#v25">25</a></nav>
-<article class="introduction">
-<h2><a href="2Krl.html">Wstęp do Ksiąg Królewskich</a></h2>
+<article class="introduction" id="i1">
+<h2><a href="2Krl.html#i1">Wstęp do Ksiąg Królewskich</a></h2>
 <p>Księgi Królewskie obejmują dzieje królów i królestw. Biorąc to pod uwagę, Biblia Hebrajska nazwała je &quot;Księgą Królów&quot;, Septuaginta zaś - dzieląc pierwotnie jednolite dzieło na dwie księgi - nazwała je &quot;3 i 4 Księgą Królestw&quot;. Powodem tej numeracji jest to, że LXX złączyła te księgi z księgami Samuela, które także nazwała &quot;1 i 2 Księgą Królestw&quot;. <br>    1 i 2 Krl opisują dzieje Izraela od ostatnich lat Dawida do niewoli babilońskiej (r. 586). Ostatnie rozporządzenia Dawida wprowadzają na tron Salomona. Rządy jego to najwspanialszy moment historii Izraela. Autor wysławia mądrość króla, administrację kraju, opisuje szczegółowo budowę świątyni. Nie pomija jednak ujemnych stron jego charakteru: nieobyczajności, słabości wobec wrogów zewnętrznych i trudności wewnętrznych. Po jego śmierci państwo rozpada się na dwie części: północną, która z powodu większej liczby szczepów tu zamieszkałych nazywa się królestwem izraelskim, i południową, nazwaną królestwem judzkim. Autor przedstawia rządy królów obydwóch części, włączając w to opis działalności proroków, zwłaszcza Eliasza i Elizeusza. Następuje opis upadku oraz przyczyn upadku obydwóch królestw. <br>    Dzieje wszystkich niemal królów (poza Salomonem, Jeroboamem I i Jehu) ujęte są w stereotypowe ramy, w których autor przedstawia ważniejsze zdarzenia. Formuła wprowadzająca obejmuje datę wstąpienia na tron, podaje zwykle synchronizm z państwem sąsiednim, wskazówki co do długości panowania, rezydencji królewskiej oraz ocenę religijno-moralną władcy (stosunek do kultu). U królów państwa judzkiego Autor dodaje wiek monarchy w chwili wstąpienia na tron i imię matki. W konkluzji księga informuje o dalszych źródłach wiadomości o okresie i postaci danego króla, o jego śmierci, pogrzebie i następcy na tronie. <br>    1 i 2 Krl przedstawiają losy Izraela pod rządami królów. To okres, w którym dokonało się wielkie oczyszczenie religijne. Rozwiały się ostatecznie złudzenia Izraela tyczące się pogańskich kultów oraz idei politycznych. Izrael zrozumiał, że królestwo Boże nie utożsamia się z ziemskimi ambicjami władców. Oczyściło się jego pojęcie o warunkach Przymierza. Ciągle zaś podkreślana jedność Boga, kultu, świątyni już przygotowuje religijną wspólnotę Izraela po niewoli babilońskiej jako typ Kościoła ostatnich czasów. Na tym polega doniosłość tej księgi w dziejach zbawczego planu Boga. <br>    Pierwsze wydanie księgi ukazało się prawdopodobnie jeszcze przed zburzeniem Jerozolimy, w czasie reformy Jozjasza (621-609). To on uznał autorytet Prawa Mojżeszowego - i jest to fakt znamienny wobec tezy Autora, iż niezachowanie tego Prawa spowodowało wszelkie nieszczęścia Izraela. Zresztą trudno przypuścić, by po zburzeniu Jerozolimy można by pisać, że Arka Przymierza była jeszcze w świątyni albo że Edom wyzwolił się spod władzy Judy aż do dnia dzisiejszego (1 Krl 8,8; 2 Krl 8,22). Po dalszych uzupełnieniach ostatnie spisanie dzieła nastąpiło w latach 561-538. Redaktor bowiem doprowadził swe opowiadanie do uwolnienia Jojakina (Jechoniasza) w r. 560, nie wspominając o dekrecie Cyrusa (r. 538). Autor 1 i 2 Krl jest nieznany. <br>    Autor biblijny czerpał z różnych źródeł. Sam cytuje następujące: &quot;Księga Dziejów Salomona&quot; (1 Krl 11,41), &quot;Księga Kronik Królów Izraela&quot;, &quot;Księga Kronik Królów Judy&quot; (1 Krl 14,19; 2 Krl 24,5). Te dzieła o charakterze sprawozdawczym, kronikarskim powstały w oparciu o urzędowe dokumenty kancelarii królewskich, ale były z pewnością powszechnie znane. Obok nich należy wyróżnić: a) Kronikę Dawida, która dostarczyła materiału do 1 Krl 1-2. Jej autor, żyjący za czasów Salomona, znał dokładnie przebieg życia Dawida; b) opowiadania o prorokach Eliaszu i Elizeuszu, zredagowane przez uczniów prorockich. Początkowo istniały osobno, a potem złączone zostały w jedno dzieło; c) Kronikę świątynną, redagowaną przez kapłanów świątyni jerozolimskiej, z której Autor czerpał dzieje Joasza (2 Krl rozdz. 12 [-&gt;2 Krl 12,1]) i Achaza (2 Krl rozdz. 16 [-&gt;2 Krl 16,1]); d) opowiadanie o Izajaszu, który spełnia ważną rolę w dziejach Ezechiasza (2 Krl 18,17-20,19), spisane przez jego uczniów (por. Iz rozdz. 36-39 [-&gt;Iz 36,1]). <br>    Praca Autora miała więc charakter kompilacyjny. Działalność jego łączy się na pewno ze środowiskiem judzkim, a chronologicznie przypada prawdopodobnie na okres po upadku Jerozolimy w r. 586. Trudno rozstrzygnąć, czy Autor napisał księgę w stylu deuteronomicznym, czy też styl ten jest wynikiem wtórnej redakcji okresu niewoli. Współczesna egzegeza skłania się raczej ku drugiemu przypuszczeniu; przy tej okazji dodano być może urywek o ułaskawieniu Jechoniasza (2 Krl 25,27-30). <br>    Wykorzystanie tych oraz innych źródeł przez Autora świadczy o znajomości epoki oraz o chęci obiektywnego przedstawienia wydarzeń. Ten obiektywizm potwierdzają liczne świadectwa pozabiblijne: teksty i pomniki egipskie, asyryjskie, nowobabilońskie, palestyńskie oraz wykopaliska dokonane w różnych miejscowościach Palestyny i poza nią. <br>    Dzieje Izraela w tej epoce rozgrywają się wobec trzech sąsiadujących mocarstw: Egiptu, Asyrii i Babilonii. Dawid utworzył wielkie królestwo, bo sprzyjały temu okoliczności: Egipt i Asyria, potencjalni wrogowie, przeżywały wówczas swój kryzys polityczny. Asyria odtwarza swą potęgę w IX w., aby w VII w. osiągnąć jej zenit i zniknąć z widowni dziejowej. Jej miejsce zajmuje imperium nowobabilońskie. Izrael podzielony, osłabiony nie oparł się tym potęgom. <br>    1 i 2 Krl określają dość dokładnie daty panowania królów judzkich i izraelskich i porównują je z sobą. Niełatwo jest zharmonizować te daty. Trudność ta jednak częściowo maleje, jeśli się uwzględni częściowo inne sposoby obliczania lat w obu królestwach (predatacja i postdatacja). Wielką pomocą w ustalaniu dat chronologii biblijnej jest porównanie jej z chronologią Starożytnego Wschodu. <br>    Autorowi 1-2 Krl chodziło o historię o charakterze religijnym. Celem odczytania teologicznego sensu dziejów, Autor zaczerpnął normy ocen z innych ksiąg lub od środowisk, które wyraziły swą myśl w tych księgach. Najpierw występuje tu teologia Pwt, która podkreśla następujące tezy: jeden Bóg, jedna świątynia, jeden kult. W tym świetle Autor ocenia postępowanie królów, analizuje przyczyny upadku i zarazem chce, aby jego dzieło było apelem do współczesnych: mają się oni nawrócić do Boga (1 Krl 8,47; 2 Krl 17,13; por. Pwt 30,1-10). Księga żąda pogłębienia idei Przymierza, i to zgodnie z nauczaniem współczesnych proroków: Ozeasza, Amosa, Jeremiasza, Ezechiela. Później Syr (rozdz. 47n) podkreśli niezmienność planu zbawczego, Bóg bowiem mimo niewierności ludu zachował sobie Resztę, utrzymał dynastię Dawidową. Do tego należy dołączyć interpretację kultową, występującą w psalmach. Chodzi tu głównie o Ps 68[67],23; Ps 44[43],1; Ps 78[77],1; Ps 79[78],1; Ps 89[88],1; Ps 137[136],1: dzieje Izraela są wielką lekcją poglądową, która wskazuje na potrzebę religijności pełnej nadziei, bo Bóg nie cofa raz zawartego Przymierza. Te różne, a niesprzeczne, reinterpretacje potwierdzają, iż Autorowi przyświecał zamiar przedstawienia dziejów swego narodu wraz z ich oceną w świetle prawd religijnych. Ukazał on rękę Bożą kierującą dziejami, zwłaszcza w obliczu klęski narodowej. Pisał, być może, celem zapobieżenia pogłębianiu się kryzysu religijnego w narodzie. <br>    NT wylicza różne postacie i epizody opisane w 1-2 Krl: Dawid (Mt 1,1; Mt 9,27; Mt 15,22n), królestwo Dawidowe (Mk 11,10; Dz 15,16), Salomon (Mt 6,29; Łk 12,27), królowa Saby (Mt 12,42), świątynia Salomona (Dz 7,47); Mt wylicza prawie wszystkich królów dynastii Dawidowej (Mt 1,6-11). Nadto występują: Eliasz, Elizeusz, wdowa z Sarepty, Naaman (Łk 4,26; Rz 11,2; Jk 5,17). NT zakłada rzeczywistość wydarzeń 1-2 Krl, widzi ich mesjańską realizację w osobie i dziele Chrystusa: ...a oto tu jest coś więcej niż Salomon (Mt 12,42).</p>
 </article>
 <section class="chapter" id="v1">
-<h2><a href="2Krl.html">Rozdział 1</a></h2>
+<h2><a href="2Krl.html#v1">Rozdział 1</a></h2>
 <div class="verses">
 <h4>DOKOŃCZENIE RZĄDÓW OCHOZJASZA</h4>
 <h5>Pan Bóg broni swojej czci</h5>
@@ -110,7 +156,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v2">
-<h2><a href="2Krl.html">Rozdział 2</a></h2>
+<h2><a href="2Krl.html#v2">Rozdział 2</a></h2>
 <div class="verses">
 <h4>DZIEJE ELIZEUSZA</h4>
 <h5>Eliasz tajemniczo odchodzi. Elizeusz jego następcą</h5>
@@ -143,7 +189,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v3">
-<h2><a href="2Krl.html">Rozdział 3</a></h2>
+<h2><a href="2Krl.html#v3">Rozdział 3</a></h2>
 <div class="verses">
 <h4>WOJNA MOABSKA</h4>
 <h5>Joram króluje w Izraelu (852 - 841)</h5>
@@ -178,7 +224,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v4">
-<h2><a href="2Krl.html">Rozdział 4</a></h2>
+<h2><a href="2Krl.html#v4">Rozdział 4</a></h2>
 <div class="verses">
 <h4>CUDA ELIZEUSZA</h4>
 <h5>Oliwa wdowy</h5>
@@ -232,7 +278,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v5">
-<h2><a href="2Krl.html">Rozdział 5</a></h2>
+<h2><a href="2Krl.html#v5">Rozdział 5</a></h2>
 <div class="verses">
 <h5>Uzdrowienie Naamana</h5>
 <span class="verse" id="v5_1"><sup class="vn"><a href="#v5_1">1</a></sup>Naaman, wódz wojska króla Aramu, miał wielkie znaczenie u swego pana i doznawał względów, ponieważ przez niego Pan spowodował ocalenie Aramejczyków. Lecz ten człowiek - dzielny wojownik - był trędowaty.</span>
@@ -265,7 +311,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v6">
-<h2><a href="2Krl.html">Rozdział 6</a></h2>
+<h2><a href="2Krl.html#v6">Rozdział 6</a></h2>
 <div class="verses">
 <h5>Odnaleziona siekiera</h5>
 <span class="verse" id="v6_1"><sup class="vn"><a href="#v6_1">1</a></sup>Synowie proroccy powiedzieli do Elizeusza: «Oto miejsce, w którym z tobą mieszkamy, jest za ciasne dla nas.</span>
@@ -308,7 +354,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v7">
-<h2><a href="2Krl.html">Rozdział 7</a></h2>
+<h2><a href="2Krl.html#v7">Rozdział 7</a></h2>
 <div class="verses">
 <span class="verse" id="v7_1"><sup class="vn"><a href="#v7_1">1</a></sup>Elizeusz zaś odpowiedział: «Posłuchajcie słowa Pańskiego! Tak mówi Pan: Jutro o tej samej porze jedna sea<sup>s</sup> najczystszej mąki będzie za jednego sykla<sup>s</sup>, dwie sea jęczmienia też za jednego sykla - w bramie Samarii».</span>
 <span class="verse" id="v7_2"><sup class="vn"><a href="#v7_2">2</a></sup>W odpowiedzi na to tarczownik, na którego ramieniu król się wspierał, rzekł do męża Bożego: «Chociażby nawet Pan zrobił okna w niebiosach, czy mogłoby się spełnić to słowo?» Odpowiedział [Elizeusz]: «Ty ujrzysz to na własne oczy, lecz jeść z tego nie będziesz!»<br></span>
@@ -334,7 +380,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v8">
-<h2><a href="2Krl.html">Rozdział 8</a></h2>
+<h2><a href="2Krl.html#v8">Rozdział 8</a></h2>
 <div class="verses">
 <h5>Epilog dziejów Szunemitki</h5>
 <span class="verse" id="v8_1"><sup class="vn"><a href="#v8_1">1</a></sup>Elizeusz powiedział do kobiety, której syna wskrzesił: «Wstań, idź razem z twoją rodziną, zamieszkaj na obczyźnie - tam, gdzie będziesz mogła - ponieważ Pan sprowadził głód. Idzie on już na kraj na okres siedmiu lat».</span>
@@ -372,7 +418,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v9">
-<h2><a href="2Krl.html">Rozdział 9</a></h2>
+<h2><a href="2Krl.html#v9">Rozdział 9</a></h2>
 <div class="verses">
 <h4>DZIEJE JEHU</h4>
 <h5>Posłaniec Elizeusza namaszcza Jehu na króla</h5>
@@ -420,7 +466,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v10">
-<h2><a href="2Krl.html">Rozdział 10</a></h2>
+<h2><a href="2Krl.html#v10">Rozdział 10</a></h2>
 <div class="verses">
 <h5>Zagłada rodziny królewskiej Izraela</h5>
 <span class="verse" id="v10_1"><sup class="vn"><a href="#v10_1">1</a></sup>W Samarii było siedemdziesięciu synów Achaba. Jehu napisał list i wysłał go do Samarii, do przywódców miasta, do starszyzny i do opiekunów dzieci Achaba - list następującej treści:</span>
@@ -466,7 +512,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v11">
-<h2><a href="2Krl.html">Rozdział 11</a></h2>
+<h2><a href="2Krl.html#v11">Rozdział 11</a></h2>
 <div class="verses">
 <h4>OD PANOWANIA ATALII DO ŚMIERCI ELIZEUSZA</h4>
 <h5>Dzieje Atalii (841 - 835)</h5>
@@ -493,7 +539,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v12">
-<h2><a href="2Krl.html">Rozdział 12</a></h2>
+<h2><a href="2Krl.html#v12">Rozdział 12</a></h2>
 <div class="verses">
 <h5>Joasz króluje w Judzie (835 - 796)</h5>
 <span class="verse" id="v12_1"><sup class="vn"><a href="#v12_1">1</a></sup>W chwili objęcia rządów Joasz miał siedem lat.</span>
@@ -521,7 +567,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v13">
-<h2><a href="2Krl.html">Rozdział 13</a></h2>
+<h2><a href="2Krl.html#v13">Rozdział 13</a></h2>
 <div class="verses">
 <h5>Joachaz króluje w Izraelu (813 - 797)</h5>
 <span class="verse" id="v13_1"><sup class="vn"><a href="#v13_1">1</a></sup>W dwudziestym trzecim roku [panowania] Joasza, syna Ochozjasza, króla judzkiego, Joachaz, syn Jehu, został królem izraelskim w Samarii, na siedemnaście lat.</span>
@@ -555,7 +601,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v14">
-<h2><a href="2Krl.html">Rozdział 14</a></h2>
+<h2><a href="2Krl.html#v14">Rozdział 14</a></h2>
 <div class="verses">
 <h4>DZIEJE OBYDWU KRÓLESTW AŻ DO ZDOBYCIA SAMARII</h4>
 <h5>Amazjasz króluje w Judzie (796 - 767?)</h5>
@@ -592,7 +638,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v15">
-<h2><a href="2Krl.html">Rozdział 15</a></h2>
+<h2><a href="2Krl.html#v15">Rozdział 15</a></h2>
 <div class="verses">
 <h5>Azariasz króluje w Judzie (767 - 739)</h5>
 <span class="verse" id="v15_1"><sup class="vn"><a href="#v15_1">1</a></sup>W dwudziestym siódmym roku [panowania] Jeroboama, króla izraelskiego, Azariasz, syn Amazjasza, został królem judzkim.</span>
@@ -642,7 +688,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v16">
-<h2><a href="2Krl.html">Rozdział 16</a></h2>
+<h2><a href="2Krl.html#v16">Rozdział 16</a></h2>
 <div class="verses">
 <h5>Achaz króluje w Judzie (734 - 728)</h5>
 <span class="verse" id="v16_1"><sup class="vn"><a href="#v16_1">1</a></sup>W siedemnastym roku [panowania] Pekacha, syna Remaliasza, Achaz, syn Jotama, został królem judzkim.</span>
@@ -668,7 +714,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v17">
-<h2><a href="2Krl.html">Rozdział 17</a></h2>
+<h2><a href="2Krl.html#v17">Rozdział 17</a></h2>
 <div class="verses">
 <h5>Ozeasz króluje w Izraelu (732 - 724)</h5>
 <span class="verse" id="v17_1"><sup class="vn"><a href="#v17_1">1</a></sup>W dwunastym roku [panowania] Achaza, króla judzkiego, Ozeasz, syn Eli, został królem izraelskim w Samarii na dziewięć lat.</span>
@@ -718,7 +764,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v18">
-<h2><a href="2Krl.html">Rozdział 18</a></h2>
+<h2><a href="2Krl.html#v18">Rozdział 18</a></h2>
 <div class="verses">
 <h4>SCHYŁEK KRÓLESTWA JUDY: EZECHIASZ, PROROK IZAJASZ I ASYRIA</h4>
 <h5>Ezechiasz króluje w Judzie (728 - 699)</h5>
@@ -765,7 +811,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v19">
-<h2><a href="2Krl.html">Rozdział 19</a></h2>
+<h2><a href="2Krl.html#v19">Rozdział 19</a></h2>
 <div class="verses">
 <h5>Szukanie rady u proroka Izajasza</h5>
 <span class="verse" id="v19_1"><sup class="vn"><a href="#v19_1">1</a></sup>Gdy to usłyszał król Ezechiasz, rozdarł swe szaty, okrył się worem<sup>s</sup> i udał się do świątyni Pańskiej.</span>
@@ -814,7 +860,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v20">
-<h2><a href="2Krl.html">Rozdział 20</a></h2>
+<h2><a href="2Krl.html#v20">Rozdział 20</a></h2>
 <div class="verses">
 <h5>Uzdrowienie Ezechiasza</h5>
 <span class="verse" id="v20_1"><sup class="vn"><a href="#v20_1">1</a></sup>W owych dniach Ezechiasz śmiertelnie zachorował. Prorok Izajasz, syn Amosa, przyszedł do niego i rzekł mu: «Tak mówi Pan: Rozporządź domem swoim, bo umrzesz - nie będziesz żył».</span>
@@ -843,7 +889,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v21">
-<h2><a href="2Krl.html">Rozdział 21</a></h2>
+<h2><a href="2Krl.html#v21">Rozdział 21</a></h2>
 <div class="verses">
 <h4>DWAJ KRÓLOWIE BEZBOŻNI</h4>
 <h5>Manasses króluje w Judzie (699 - 643)</h5>
@@ -877,7 +923,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v22">
-<h2><a href="2Krl.html">Rozdział 22</a></h2>
+<h2><a href="2Krl.html#v22">Rozdział 22</a></h2>
 <div class="verses">
 <h4>REFORMA RELIGIJNA JOZJASZA</h4>
 <h5>Jozjasz króluje w Judzie (641 - 609)</h5>
@@ -906,7 +952,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v23">
-<h2><a href="2Krl.html">Rozdział 23</a></h2>
+<h2><a href="2Krl.html#v23">Rozdział 23</a></h2>
 <div class="verses">
 <h5>Odnowienie przymierza</h5>
 <span class="verse" id="v23_1"><sup class="vn"><a href="#v23_1">1</a></sup>Wtedy król polecił przez posłów, by zebrała się przy nim cała starszyzna Judy i Jerozolimy.</span>
@@ -953,7 +999,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v24">
-<h2><a href="2Krl.html">Rozdział 24</a></h2>
+<h2><a href="2Krl.html#v24">Rozdział 24</a></h2>
 <div class="verses">
 <span class="verse" id="v24_1"><sup class="vn"><a href="#v24_1">1</a></sup>Za jego dni Nabuchodonozor, król babiloński, ruszył na wojnę. Jojakim był mu poddany przez trzy lata, potem na nowo zbuntował się przeciwko niemu.</span>
 <span class="verse" id="v24_2"><sup class="vn"><a href="#v24_2">2</a></sup>Wtedy Pan wysłał przeciw niemu oddziały Chaldejczyków, oddziały Aramejczyków, oddziały Moabitów, oddziały Ammonitów - wysłał ich przeciw Judzie, aby go zniszczyć zgodnie ze słowem, które Pan wypowiedział przez sługi swoje, proroków.</span>
@@ -980,7 +1026,7 @@ article.introduction {
 </div>
 </section>
 <section class="chapter" id="v25">
-<h2><a href="2Krl.html">Rozdział 25</a></h2>
+<h2><a href="2Krl.html#v25">Rozdział 25</a></h2>
 <div class="verses">
 <h5>Oblężenie i zburzenie Jerozolimy (586)</h5>
 <span class="verse" id="v25_1"><sup class="vn"><a href="#v25_1">1</a></sup>W dziewiątym roku jego panowania, dziesiątego miesiąca i dziesiątego dnia miesiąca wyruszył król babiloński, Nabuchodonozor, z całym swym wojskiem przeciw Jerozolimie, oblegał ją, budując dokoła niej wały oblężnicze.</span>
@@ -1021,6 +1067,20 @@ article.introduction {
 <script>
 (function () {
   'use strict';
+  function fontSize(size) {
+    document.documentElement.style.fontSize = size + 'px';
+    try { localStorage.setItem('btv-font-size', size); } catch (e) {}
+  }
+  var switcher = document.querySelector('.font-switcher');
+  [14, 16, 18, 20, 22].forEach(function (size) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = 'A';
+    b.style.fontSize = size + 'px';
+    b.setAttribute('aria-label', 'Rozmiar czcionki ' + size + ' pikseli');
+    b.addEventListener('click', function () { fontSize(size); });
+    switcher.appendChild(b);
+  });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {

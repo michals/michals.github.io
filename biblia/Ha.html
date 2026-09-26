@@ -2,45 +2,84 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try{var s=localStorage.getItem('btv-font-size');if(s)document.documentElement.style.fontSize=s+'px';}catch(e){}
+</script>
 <title>Ks. Habakuka — Biblia Tysiąclecia (BT-V)</title>
 <style>
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
 body {
   font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   line-height: 1.6;
-  max-width: 42em;
+  max-width: 42rem;
   margin: 0 auto;
-  padding: 1em 1.5em 3em;
+  padding: 1rem 1.5rem 3rem;
   color: #222;
   background: #fff;
 }
+.font-switcher {
+  margin-left: auto;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  border: 1px solid #808080;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.font-switcher button {
+  margin-left: 0.25rem;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+  font-family: inherit;
+}
 nav.toc {
   font-family: -apple-system, 'Segoe UI', sans-serif;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   color: #555;
 }
 nav.toc a {
-  margin-right: 0.45em;
+  margin-right: 0.45rem;
   text-decoration: none;
 }
-h1 { font-size: 1.8em; }
-h2 {
-  font-size: 1.4em;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
+header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
-h1 a, h2 a {
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+h1 { font-size: 1.8rem; }
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+h1 a, h2 a, .site-title a {
   color: inherit;
   text-decoration: none;
 }
-h1 a:hover, h2 a:hover {
+h1 a:hover, h2 a:hover, .site-title a:hover {
   text-decoration: underline;
 }
 sup.vn {
   color: #0000aa;
-  font-size: 0.7em;
-  margin-right: 0.2em;
+  font-size: 0.7rem;
+  margin-right: 0.2rem;
   position: relative;
-  top: -0.2em;
+  top: -0.2rem;
   user-select: none;
 }
 span.verse sup.vn a {
@@ -54,9 +93,9 @@ div.verses {
 span.speaker { font-style: italic; }
 ul.footnotes {
   list-style: none;
-  font-size: 0.85em;
+  font-size: 0.85rem;
   color: #444;
-  padding: 2em 2em 2em 2em;
+  padding: 2rem;
 }
 a.fnref, a.backref { text-decoration: none; }
 ul.footnotes li:target, span.verse:target, span.verse.sel {
@@ -66,30 +105,37 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   padding: 2px;
   transition: background-color 0.5s ease;
 }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  ul.footnotes li:target, span.verse:target, span.verse.sel {
+    transition: none;
+  }
+}
 span.verse, ul.footnotes>li {
-  scroll-margin-top: 1em;
+  scroll-margin-top: 1rem;
 }
 article.introduction {
   background: #fafafa;
   border-left: 3px solid #ddd;
-  padding: 0.5em 1em;
-  margin: 1em 0;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
 }
 </style>
 </head>
 <body>
-<h1><a href="index.html">Ks. Habakuka</a></h1>
+<header class="site"><p class="site-title"><a href="index.html">Biblia Tysiąclecia</a></p><div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div></header>
+<h1><a href="Ha.html">Ks. Habakuka</a></h1>
 <nav class="toc">Rozdziały: <a href="#v1">1</a> <a href="#v2">2</a> <a href="#v3">3</a></nav>
-<article class="introduction">
-<h2><a href="Ha.html">Wstęp do Proroków Mniejszych</a></h2>
+<article class="introduction" id="i1">
+<h2><a href="Ha.html#i1">Wstęp do Proroków Mniejszych</a></h2>
 <p>Działalność proroków izraelskich nie należała w okresie monarchii ani też bezpośrednio po powrocie z niewoli do zjawisk rzadkich lub wyjątkowych. Byłoby też niewłaściwe oceniać ją miarą pozostawionej spuścizny literackiej. Nie wszyscy prorocy spisali swe mowy albo nie zawsze uczynili to ich uczniowie. Także ci, którzy pisali lub polecili pisać i w ten sposób dali początek długiej tradycji literackiej, czynili to w bardzo różny sposób; niektóre mowy prorockie spisywano dopiero wiele lat po śmierci proroka, poddawano kolejnym redakcjom, zanim przybrały dzisiejszą postać. Poza księgami &quot;wielkich&quot; proroków (Iz, Jr, Ez, Dn) przekazała tradycja szereg krótszych zbiorów mów prorockich, pochodzących z bardzo różnych okresów. Biblia hebrajska zebrała te mowy najpierw w jedną księgę, zachowując jednak odrębność dwunastu autorów; dziś stanowią one oddzielne księgi. <br>    W zbiorach (kanonach) ksiąg świętych umieszczano dwunastu proroków dość rozmaicie: tradycja żydowska, a za nią dzisiejsza BH po prorokach &quot;większych&quot;, Biblia grecka przed nimi. Także kolejność wyliczania pierwszych sześciu proroków waha się w obu tradycjach (Biblia grecka: Oz, Am, Mi, Jl, Ab, Jon, Na...). Być może odgrywały tu pewną rolę założenia chronologiczne, zresztą w obu układach niezupełnie ścisłe. Niniejsze wydanie Biblii opiera się na tradycji BH (którą podjęła także Wulgata zarówno co do miejsca w kanonie, jak i układu). Rozpowszechnione dziś określenie kolekcji jako &quot;proroków mniejszych&quot; pochodzi od łacińskich Ojców Kościoła (św. Augustyn). Chcieli oni w ten sposób odróżnić ją od poprzedzających ją obszerniejszych ksiąg prorockich (zwanych stąd &quot;prorokami większymi&quot;). <br>    Trudno dziś ustalić, w jaki sposób powstawał zbiór &quot;proroków mniejszych&quot;. Pierwszą wzmiankę biblijną o istnieniu takiej kolekcji przekazuje Syr 49,10 (ok. r. 200): A kości dwunastu proroków niech wypuszczą pędy ze swego grobu, pocieszyli bowiem Jakuba i wybawili go niezawodną nadzieją. Zrzeszenie qumrańskie znało dobrze zwój proroków mniejszych począwszy od II w. przed Chr., jak wynika z zachowanych rękopisów i kilku komentarzy do ksiąg poszczególnych proroków. <br>    Zachowane w zbiorze dwunastu ksiąg pisma prorockie powstały w ciągu ok. 500 lat (od VIII do III w. [?]), toteż reprezentują niemal wszystkie znane prorockie gatunki literackie. Oprócz &quot;wyroczni Pana&quot; zawierają one napomnienia, groźby, karcące mowy, hymny, modlitwy, wizje a nawet &quot;wyznania&quot;; nie brak w nich popularnych opowiadań zbliżonych do midrasza (Jon). Stosunkowo znaczną rolę odgrywają tu proroctwa pocieszające; niektóre z nich zawierają wyraźne akcenty mesjańskie i eschatologiczne. Ponadto ich założenia teologiczne różnią się znacznie, zależnie od epoki, pochodzenia, osobowości i założeń autora (zob. wstępy szczegółowe). <br>    Znaczenie księgi dwunastu &quot;proroków mniejszych&quot; polega przede wszystkim na autentycznym świadectwie o prądach teologicznych, etycznych i socjalnych nurtujących Izraela na tak znacznej przestrzeni czasu jego historii. O wkładzie tych proroków do skarbnicy objawionej myśli świadczy najlepiej wpływ, jaki wywarli na proroków &quot;większych&quot; i późniejsze księgi biblijne: symbolika małżeńska Ozeasza staje się w Jr i Ez jednym z zasadniczych sposobów wyrażania myśli prorockiej, podobnie jak idea &quot;reszty&quot; Amosa (którą najpierw podjął Iz). Także groźby prorockie Micheasza żyły jeszcze w 100 lat po jego śmierci, skoro przytacza je Jr 26,18 jako proroctwo o wysokim autorytecie (jedyny formalny cytat z ST w Jr!). <br>    Autentyczność zbioru nie nastręczała większych trudności, mimo że wielu spośród dwunastu proroków było skądinąd nieznanych. Poza drugorzędnymi elementami redakcyjnymi a aktualizacjami późniejszych okresów poważniejsze wątpliwości nasuwa jedynie oprócz Księgi Jonasza druga część Księgi Zachariasza (zob. wstępy do tych ksiąg), uważana dziś za zbiór proroctw anonimowych. NT nawiązuje bardzo często do &quot;proroków mniejszych&quot; w swej symbolice (por. &quot;znak Jonasza&quot; - Mt 12,41; Łk 11,32), argumentacji teologicznej (Am, Jon, Ha, So, Ml) i mesjańskiej (Mi, Za).</p>
 </article>
-<article class="introduction">
-<h2><a href="Ha.html">Wstęp do Księgi Habakuka</a></h2>
+<article class="introduction" id="i2">
+<h2><a href="Ha.html#i2">Wstęp do Księgi Habakuka</a></h2>
 <p>Habakuk (słowo hambakuku pochodzi z jęz. asyryjskiego i oznacza roślinę jadalną) znany jest w Biblii hebrajskiej jedynie z księgi noszącej jego imię. Biblia grecka zna wprawdzie proroka o takim imieniu (Dn 14,32), chodzi jednak o osobę zupełnie inną. O jego pochodzeniu i życiu nic bliższego nie wiadomo. <br>    Księga zawiera dwie indywidualne lamentacje prorockie (Ha 1,2-4.12-17) i paralelne do nich dwie odpowiedzi Boże (Ha 1,5-11; Ha 2,1-5); druga z nich przechodzi w pięciokrotne &quot;biada&quot; pod adresem nieprawych (Ha 2,6-20). Ostatni rozdział zawiera modlitwę prorocką za naród, utrzymaną w formie psalmu (Ha 3,1-19). Rubryki muzyczne świadczą o zastosowaniu tej części księgi w liturgii. <br>    Mimo rodzajów literackich lamentacji i pięciokrotnego &quot;biada&quot;, proroctwo Habakuka posiada dla Izraela charakter pocieszający. Karcące słowa Proroka i groźby nie dotyczą jego własnego narodu; wszelki ucisk pochodzi z zewnątrz. Habakuk użala się, że Bóg pozwala bezkarnie działać nieprzyjacielowi. Bóg jednak, podejmując dialog, powołuje się na swoją sprawiedliwość, ochraniającą ludzi prawych. Węzłowym zagadnieniem księgi jest problem odpłaty Bożej, rozważanej w odniesieniu do Izraela i narodów obcych. Bóg, rządca świata i stróż sprawiedliwości, nie może pozwolić na triumf najeźdźcy oddanego bałwochwalstwu (Ha 2,18nn), a nawet bezbożnego (Ha 1,4.13). Jakkolwiek jest on w ręku Boga narzędziem kary na Izraela i narody obce (Ha 1,12), tym niemniej Izrael jest przecież narodem sprawiedliwym (Ha 1,4), Jego &quot;pomazańcem&quot; (Ha 3,13). Punktem kulminacyjnym teologii sprawiedliwości u Habakuka jest stwierdzenie, że zginie ten, co jest ducha nieprawego, a sprawiedliwy żyć będzie dzięki swej wierności (Ha 2,4). Zdanie to stało się jedną z najważniejszych podstaw starotestamentalnych nauki św. Pawła o usprawiedliwieniu (Rz 1,17; Ga 3,11; Hbr 10,38), podkreślając zbawczą rolę wiary (hebr. mówi o &quot;wierności&quot;, tłum. greckie natomiast, a za nim NT, o &quot;wierze&quot;). Godną uwagi jest aktualizacja proroctw Habakuka w społeczności eschatologicznej w Qumran (por. Komentarz do Habakuka - 1 QpHab). <br>    Księga zawiera niewiele danych pozwalających na dokładniejsze ustalenie daty jej napisania. Wzmianka o Chaldejczykach (Ha 1,6) wskazuje na okres, kiedy naród ten był dobrze znany i miał znaczenie na arenie politycznej. Wprawdzie rewolty babilońskie były w okresie imperium neoasyryjskiego dość częste, o inwazji chaldejskiej można jednak mówić dopiero pod koniec panowania Nabopolassara lub raczej za Nabuchondonozora. Z drugiej strony brak jakiejkolwiek wzmianki o zdobycie Jerozolimy w r. 597 nie pozwala umieścić księgi w okresie późniejszym niż ostatnie lata VII w. Najprawdopodobniej więc proroctwa zostały wypowiedziane w latach 605-597. Taką datę potwierdzają liczne podobieństwa słownictwa i stylu między Ha a wczesnymi mowami prorockimi Jeremiasza (por. Ha 1,2nn - Jr 4,5; Jr 6,7; Jr 15,10; Jr 20,8.18). <br>    Autentyczność dwu pierwszych rozdziałów księgi nie nastręcza obecnie poważniejszych trudności poza kilku śladami późniejszych refleksji teologicznych. Dyskusje toczą się jedynie co do psalmu Ha rozdz. 3 [-&gt;Ha 3,1], uważanego przez wielu krytyków za utwór znacznie późniejszy, być może pochodzenia liturgicznego. Jednolite słownictwo oraz formy dowodzenia teologicznego w Ha rozdz. 1-2 i 3 wskazują raczej na tego samego autora całej księgi. Brak rozdz. 3 w komentarzu qumrańskim nie przesądza jego późniejszego powstania.</p>
 </article>
 <section class="chapter" id="v1">
-<h2><a href="Ha.html">Rozdział 1</a></h2>
+<h2><a href="Ha.html#v1">Rozdział 1</a></h2>
 <div class="verses">
 <h5>Tytuł</h5>
 <span class="verse" id="v1_1"><sup class="vn"><a href="#v1_1">1</a></sup>Wyrok<sup>s</sup>, który usłyszał w widzeniu<a class="fnref" href="#f-1-1"><sup class="r">※</sup></a> prorok Habakuk.<br></span>
@@ -128,7 +174,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v2">
-<h2><a href="Ha.html">Rozdział 2</a></h2>
+<h2><a href="Ha.html#v2">Rozdział 2</a></h2>
 <div class="verses">
 <h6>Druga odpowiedź Pana</h6>
 <span class="verse" id="v2_1"><sup class="vn"><a href="#v2_1">1</a></sup>Na moich czatach stać będę,<br>udam się na miejsce czuwania,<br>śledząc pilnie, by poznać, co On powie do mnie,<br>jaką odpowiedź da na moją skargę.<br></span>
@@ -174,7 +220,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v3">
-<h2><a href="Ha.html">Rozdział 3</a></h2>
+<h2><a href="Ha.html#v3">Rozdział 3</a></h2>
 <div class="verses">
 <h5>Modlitwa Habakuka</h5>
 <span class="verse" id="v3_1"><sup class="vn"><a href="#v3_1">1</a></sup>Modlitwa błagalna proroka Habakuka, na wzór lamentacji.<br></span>
@@ -213,6 +259,20 @@ article.introduction {
 <script>
 (function () {
   'use strict';
+  function fontSize(size) {
+    document.documentElement.style.fontSize = size + 'px';
+    try { localStorage.setItem('btv-font-size', size); } catch (e) {}
+  }
+  var switcher = document.querySelector('.font-switcher');
+  [14, 16, 18, 20, 22].forEach(function (size) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = 'A';
+    b.style.fontSize = size + 'px';
+    b.setAttribute('aria-label', 'Rozmiar czcionki ' + size + ' pikseli');
+    b.addEventListener('click', function () { fontSize(size); });
+    switcher.appendChild(b);
+  });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {

@@ -2,45 +2,84 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try{var s=localStorage.getItem('btv-font-size');if(s)document.documentElement.style.fontSize=s+'px';}catch(e){}
+</script>
 <title>2 List św. Jana — Biblia Tysiąclecia (BT-V)</title>
 <style>
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
 body {
   font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   line-height: 1.6;
-  max-width: 42em;
+  max-width: 42rem;
   margin: 0 auto;
-  padding: 1em 1.5em 3em;
+  padding: 1rem 1.5rem 3rem;
   color: #222;
   background: #fff;
 }
+.font-switcher {
+  margin-left: auto;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  border: 1px solid #808080;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.font-switcher button {
+  margin-left: 0.25rem;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+  font-family: inherit;
+}
 nav.toc {
   font-family: -apple-system, 'Segoe UI', sans-serif;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   color: #555;
 }
 nav.toc a {
-  margin-right: 0.45em;
+  margin-right: 0.45rem;
   text-decoration: none;
 }
-h1 { font-size: 1.8em; }
-h2 {
-  font-size: 1.4em;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
+header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
-h1 a, h2 a {
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+h1 { font-size: 1.8rem; }
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+h1 a, h2 a, .site-title a {
   color: inherit;
   text-decoration: none;
 }
-h1 a:hover, h2 a:hover {
+h1 a:hover, h2 a:hover, .site-title a:hover {
   text-decoration: underline;
 }
 sup.vn {
   color: #0000aa;
-  font-size: 0.7em;
-  margin-right: 0.2em;
+  font-size: 0.7rem;
+  margin-right: 0.2rem;
   position: relative;
-  top: -0.2em;
+  top: -0.2rem;
   user-select: none;
 }
 span.verse sup.vn a {
@@ -54,9 +93,9 @@ div.verses {
 span.speaker { font-style: italic; }
 ul.footnotes {
   list-style: none;
-  font-size: 0.85em;
+  font-size: 0.85rem;
   color: #444;
-  padding: 2em 2em 2em 2em;
+  padding: 2rem;
 }
 a.fnref, a.backref { text-decoration: none; }
 ul.footnotes li:target, span.verse:target, span.verse.sel {
@@ -66,26 +105,33 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   padding: 2px;
   transition: background-color 0.5s ease;
 }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  ul.footnotes li:target, span.verse:target, span.verse.sel {
+    transition: none;
+  }
+}
 span.verse, ul.footnotes>li {
-  scroll-margin-top: 1em;
+  scroll-margin-top: 1rem;
 }
 article.introduction {
   background: #fafafa;
   border-left: 3px solid #ddd;
-  padding: 0.5em 1em;
-  margin: 1em 0;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
 }
 </style>
 </head>
 <body>
-<h1><a href="index.html">2 List św. Jana</a></h1>
+<header class="site"><p class="site-title"><a href="index.html">Biblia Tysiąclecia</a></p><div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div></header>
+<h1><a href="2J.html">2 List św. Jana</a></h1>
 <nav class="toc">Rozdziały: <a href="#v1">1</a></nav>
-<article class="introduction">
-<h2><a href="2J.html">Wstęp do Listów św. Jana apostoła</a></h2>
+<article class="introduction" id="i1">
+<h2><a href="2J.html#i1">Wstęp do Listów św. Jana apostoła</a></h2>
 <p>Nazwę listów św. Jana Ewangelisty noszą trzy pisma. <br>    Pierwsze, najdłuższe, nie ma formy właściwego listu: brak w nim adresu, pozdrowień na początku i na końcu oraz imienia autora. Dwa następne pisma mają formę prywatnych listów, analogiczną do papirusów częstych w świecie grecko-rzymskim. Przypominają one listy św. Pawła, z tą tylko różnicą, że Drugi List św. Jana skierowany jest do nieznanych czytelników z Kościoła, ukrytego pod alegoryczną nazwą &quot;Wybrana Pani&quot;. <br>    Pierwsze pismo, mimo braku wspomnianych cech listu, jest nim faktycznie, jak na to wskazują takie zwroty, jak: piszę wam to i nazywanie czytelników dziećmi. Stosunek autora do czytelników jest bardzo serdeczny i bliski. <br>    Rodzajem literackim list ten zbliża się do utworów prorockich ST. Jest listem okólnym, w którym autor pragnie swoich wiernych w Azji Mniejszej pouczyć i przestrzec przed fałszywą nauką pseudoapostołów. <br>    Tematyka pierwszego listu jest bardzo podobna do czwartej Ewangelii. Jak ona, tak i to pismo jest utworem poetyckim. Obydwa dzieła posiadają koloryt semicki - wyrażający się układem rytmicznym paralel i antytez. <br>    Z analizy stylu i treści Ewangelii i pierwszego listu widać wyraźnie, że autorem obydwu pism jest ktoś - ten sam, kto zna dobrze ST, myśli po semicku, choć pisze po grecku. Mimo że nie podaje on swego nazwiska, widać, iż był naocznym świadkiem życia i nauki Jezusa Chrystusa, co sam zaznacza w Prologu (1 J 1,1-4). Zgodność zarówno listu, jak i czwartej Ewangelii w treści, języku i tematyce świadczy o tym, że autorem listu jest św. Jan Ewangelista. Podobne wspólne właściwości stylistyczne i treściowe posiadały list drugi i trzeci. <br>    Za autorstwem św. Jana przemawiają także dokumenty historyczne pierwszych wieków - świadectwa św. Ireneusza, Klemensa Aleksandryjskiego, Orygenesa, Euzebiusza i innych. <br>    Co prawda, niektóre Kościoły miały wątpliwości co do kanoniczności drugiego i trzeciego listu, uważając je za prywatną korespondencję św. Jana. Z powodu ich lakoniczności i braku problemów teologicznych nie przechowywano ich w pierwszych gminach chrześcijańskich tak pieczołowicie, jak Ewangelię i pierwszy list. Nie przeprowadzono też, tak jak dzisiaj, analizy tekstu i treści. Tam jednak, gdzie listy były dobrze znane, przyjmowano je za natchnione i kanoniczne pisma św. Jana. <br>    Podobieństwa stylu i doktryny wszystkich pism św. Jana wskazują pośrednio na miejsce i czas powstania listów. Wiemy z tradycji, że ostatnie dziesiątki lat swego życia Apostoł spędził w Efezie. Do niego się udawali przedstawiciele gmin Azji Mniejszej, aby zasięgnąć rady w sprawach różnych sporów religijnych. Już wtedy bowiem powstawało wiele błędnych nauk co do Bóstwa Chrystusa i doskonalszego poznania Boga. I tak współczesny św. Janowi Kerynt nauczał, że Jezus był tylko człowiekiem o wielkiej inteligencji, na którego w czasie chrztu zstąpił z nieba duchowy Chrystus w postaci gołębicy i pozostał w Nim do czasu męki. Różni nauczyciele powstałej wówczas gnozy szerzyli obok błędów chrystologicznych błędy moralne, antynomistyczne (1 J 1,8nn; 1 J 2,3; 1 J 4,8 i in.). Sędziwy uczeń Chrystusa, nie polemizując z błędną nauką heretyków, przestrzega, poucza i napomina wiernych w swoich listach, pisanych pod koniec I w. z Efezu. Trudno jednak orzec, czy wcześniej powstały listy torujące drogę Ewangelii, czy też było odwrotnie. <br>    Pierwszy list nie wykazuje jednolicie przeprowadzonej myśli teologicznej. Takie tematy, jak: Bóg jest światłością (1 J 1,5 i in.), sprawiedliwością (np. 1 J 1,9; 1 J 2,2.9), życiem (1 J 4,7; 1 J 2,9 i 1 J 5,11) i prawdą (1 J 5,6), a przede wszystkim miłością (1 J 4,7-17 i in.), przewijają się z wielokrotnymi nawrotami przez cały list, następując po sobie równolegle. Podstawowe zagadnienie pierwszego listu jak i czwartej Ewangelii brzmi: Kto wierzy w Jezusa jako Syna Bożego i Chrystusa, ten żyje w trwałej i żywej łączności z Bogiem oraz w braterskiej miłości (1 J 1,3; 1 J 4,2; 1 J 5,1.5 i inne). <br>    Miłość Boga jest fundamentem i źródłem miłości bliźniego. Miłość ta nie tylko łączy nas z Ojcem i Synem tu na ziemi, jest również rękojmią późniejszego życia, które swą pełnię osiągnie w wieczności. To doskonałe życie wieczne wyjednał nam Chrystus Pan, umierając na krzyżu jako ofiara przebłagalna za nasze grzechy (1 J 2,2) i dając nam przykład, jak mamy w bratniej miłości codziennie składać ofiarę (1 J 3,16). Dzięki tej miłości, poucza św. Jan, staliśmy się dziećmi Bożymi (1 J 3,1). Ten zarodek życia Bożego otrzymujemy na chrzcie świętym, a doskonalimy go przez bierzmowanie. W starożytnym chrześcijaństwie nie sam chrzest był dowodem przynależności do Chrystusa, lecz posiadanie Ducha Świętego. I tę myśl podkreślali w swym nauczaniu Apostołowie (Dz 19,2-7). Św. Jan w pierwszym liście również porusza ten temat (1 J 2,20-28).</p>
 </article>
 <section class="chapter" id="v1">
-<h2><a href="2J.html">Rozdział 1</a></h2>
+<h2><a href="2J.html#v1">Rozdział 1</a></h2>
 <div class="verses">
 <h5>Adres i pozdrowienie</h5>
 <span class="verse" id="v1_1"><sup class="vn"><a href="#v1_1">1</a></sup>[Ja] prezbiter -<br>do Wybranej Pani i do jej dzieci,<br>które miłuję w prawdzie,<br>i nie tylko ja sam,<br>ale także wszyscy, którzy znają prawdę,<br></span>
@@ -108,6 +154,20 @@ article.introduction {
 <script>
 (function () {
   'use strict';
+  function fontSize(size) {
+    document.documentElement.style.fontSize = size + 'px';
+    try { localStorage.setItem('btv-font-size', size); } catch (e) {}
+  }
+  var switcher = document.querySelector('.font-switcher');
+  [14, 16, 18, 20, 22].forEach(function (size) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = 'A';
+    b.style.fontSize = size + 'px';
+    b.setAttribute('aria-label', 'Rozmiar czcionki ' + size + ' pikseli');
+    b.addEventListener('click', function () { fontSize(size); });
+    switcher.appendChild(b);
+  });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {

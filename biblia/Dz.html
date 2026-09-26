@@ -2,45 +2,84 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try{var s=localStorage.getItem('btv-font-size');if(s)document.documentElement.style.fontSize=s+'px';}catch(e){}
+</script>
 <title>Dzieje Apostolskie — Biblia Tysiąclecia (BT-V)</title>
 <style>
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
 body {
   font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   line-height: 1.6;
-  max-width: 42em;
+  max-width: 42rem;
   margin: 0 auto;
-  padding: 1em 1.5em 3em;
+  padding: 1rem 1.5rem 3rem;
   color: #222;
   background: #fff;
 }
+.font-switcher {
+  margin-left: auto;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  border: 1px solid #808080;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.font-switcher button {
+  margin-left: 0.25rem;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+  font-family: inherit;
+}
 nav.toc {
   font-family: -apple-system, 'Segoe UI', sans-serif;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   color: #555;
 }
 nav.toc a {
-  margin-right: 0.45em;
+  margin-right: 0.45rem;
   text-decoration: none;
 }
-h1 { font-size: 1.8em; }
-h2 {
-  font-size: 1.4em;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
+header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
-h1 a, h2 a {
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+h1 { font-size: 1.8rem; }
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+h1 a, h2 a, .site-title a {
   color: inherit;
   text-decoration: none;
 }
-h1 a:hover, h2 a:hover {
+h1 a:hover, h2 a:hover, .site-title a:hover {
   text-decoration: underline;
 }
 sup.vn {
   color: #0000aa;
-  font-size: 0.7em;
-  margin-right: 0.2em;
+  font-size: 0.7rem;
+  margin-right: 0.2rem;
   position: relative;
-  top: -0.2em;
+  top: -0.2rem;
   user-select: none;
 }
 span.verse sup.vn a {
@@ -54,9 +93,9 @@ div.verses {
 span.speaker { font-style: italic; }
 ul.footnotes {
   list-style: none;
-  font-size: 0.85em;
+  font-size: 0.85rem;
   color: #444;
-  padding: 2em 2em 2em 2em;
+  padding: 2rem;
 }
 a.fnref, a.backref { text-decoration: none; }
 ul.footnotes li:target, span.verse:target, span.verse.sel {
@@ -66,26 +105,33 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   padding: 2px;
   transition: background-color 0.5s ease;
 }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  ul.footnotes li:target, span.verse:target, span.verse.sel {
+    transition: none;
+  }
+}
 span.verse, ul.footnotes>li {
-  scroll-margin-top: 1em;
+  scroll-margin-top: 1rem;
 }
 article.introduction {
   background: #fafafa;
   border-left: 3px solid #ddd;
-  padding: 0.5em 1em;
-  margin: 1em 0;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
 }
 </style>
 </head>
 <body>
-<h1><a href="index.html">Dzieje Apostolskie</a></h1>
+<header class="site"><p class="site-title"><a href="index.html">Biblia Tysiąclecia</a></p><div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div></header>
+<h1><a href="Dz.html">Dzieje Apostolskie</a></h1>
 <nav class="toc">Rozdziały: <a href="#v1">1</a> <a href="#v2">2</a> <a href="#v3">3</a> <a href="#v4">4</a> <a href="#v5">5</a> <a href="#v6">6</a> <a href="#v7">7</a> <a href="#v8">8</a> <a href="#v9">9</a> <a href="#v10">10</a> <a href="#v11">11</a> <a href="#v12">12</a> <a href="#v13">13</a> <a href="#v14">14</a> <a href="#v15">15</a> <a href="#v16">16</a> <a href="#v17">17</a> <a href="#v18">18</a> <a href="#v19">19</a> <a href="#v20">20</a> <a href="#v21">21</a> <a href="#v22">22</a> <a href="#v23">23</a> <a href="#v24">24</a> <a href="#v25">25</a> <a href="#v26">26</a> <a href="#v27">27</a> <a href="#v28">28</a></nav>
-<article class="introduction">
-<h2><a href="Dz.html">Wstęp do Dziejów Apostolskich</a></h2>
+<article class="introduction" id="i1">
+<h2><a href="Dz.html#i1">Wstęp do Dziejów Apostolskich</a></h2>
 <p>Dzieje Apostolskie stanowią w NT przejście od Ewangelii do Listów. Tytuł może sprawić pewien zawód czytelnikowi. Księga bowiem opisuje w rzeczywistości &quot;dzieje&quot; tylko dwóch apostołów - Piotra i Pawła; inni są zaledwie wspomniani. Toteż w niektórych rękopisach nosi ona krótki tytuł: Dzieje. <br>    Księgę napisał św. Łukasz, autor trzeciej Ewangelii kanonicznej. Jednomyślne świadectwo tradycji stwierdza jego autorstwo. Styl i język wskazują na to samo pióro, spod którego wyszła Ewangelia Łukasza. Drobiazgowe badania filologiczne nad całością dzieła wykazały jednolitość wszystkich części pod względem językowym. <br>    Autor czerpie materiał do opisywanych wydarzeń od naocznych świadków, których znał osobiście. Niektóre wydarzenia przedstawia na podstawie własnych obserwacji. Dotyczy to zwłaszcza dziejów św. Pawła, którego był uczniem i towarzyszem. Dyskretnie zaznacza swój udział w jego pracach i podróżach, posługując się w opowiadaniu pierwszą osobą liczby mnogiej (my). Korzystał też z dokumentów pisanych (np. dekret soboru jerozolimskiego) i własnego dziennika podróży. <br>    Przechowały się dwie odmiany tekstu Dziejów Apostolskich. Tekst wschodni, który znajduje się w kanonie (kanoniczny), zawierają kodeksy A B C S. Tekst zachodni znajduje się w kodeksie D. Jest on obszerniejszy i niekiedy wzbogaca tekst kanoniczny w interesujące szczegóły. W rzeczach zasadniczych nie ma różnic między obu odmianami. <br>    Datę napisania Dziejów można ustalić w następujący sposób: Księga powstała na pewno przed rokiem 70, skoro Autor o niektórych budowlach w Jerozolimie, które zostały zburzone bez śladu w roku 70, mówi jako o istniejących. Ale można jeszcze posunąć się wstecz: z końcowych zdań wynika, że dzieło zostało ukończone, a raczej nagle przerwane, w czasie pierwszego uwięzienia św. Pawła w Rzymie (61-63), a więc przed rokiem 63. Miejscem jego powstania był najprawdopodobniej Rzym. <br>    Autor zamierzał dać czytelnikowi najpierwotniejsze dzieje Kościoła, urzeczywistnienie słów pożegnalnych Chrystusa: Będziecie moimi świadkami... po krańce ziemi (Dz 1,8). W toku opowiadania ciągle rozszerza się horyzont działalności apostolskiej: z Jerozolimy na cały świat ówczesny. Nauka o zbawieniu (Dz 13,26) stopniowo przechodzi od Żydów do pogan. Ten rozwój dokonuje się pod wpływem Ducha Świętego. Stąd Dzieje można nazwać &quot;Ewangelią Ducha Świętego&quot;. <br>    Charakterystyczną cechą Dziejów, właściwą również Ewangelii według Łukasza, są tzw. summaria (streszczenia). Zazwyczaj zamykają one poszczególne fragmenty księgi twierdzeniem, że liczba wierzących wzrastała, że Kościół rozwijał się pomyślnie; ale w Dz 4,32-35 streszczenie przygotowuje opis postępku Ananiasza i Safiry, a w Dz 2,42-47 charakteryzuje życie jerozolimskiej gminy, niewątpliwie na podstawie źródeł, z których Łukasz korzystał. <br>    W Dziejach, podobnie jak w Ewangelii Łukasza i Mateusza, znajduje się wiele mów. Są to przemówienia Piotra, Jakuba, Pawła, Szczepana i innych. Nie są to oczywiście stenogramy, ale swobodne opracowania, w których Łukasz streszcza rzeczywiste przemówienia. Forma literacka pochodzi od Łukasza, treść z jego własnych wspomnień lub źródeł, z których korzystał. Łukasz uszanował przy tym nie tylko zasadniczą treść, ale także w niektórych wypadkach słownictwo. Dotyczy to zarówno przemówień, których Łukasz sam słuchał, jak mów Szczepana czy Piotra. Te ostanie wykazują wyraźną zależność językową i stylistyczną od semickiego źródła i, jak ono, nawiązują do tekstów ST, które przytaczają na dowód prawdziwości głoszonej nauki. Stąd też wolno i należy szukać w nich najstarszych warstw wczesnochrześcijańskiej katechezy, wcześniejszej od Ewangelii, a częściowo także od listów Pawła. <br>    Święty Łukasz, nawrócony lekarz antiocheński, Grek z pochodzenia, potrafi w żywym opisie oddać pełną radości zdobywczość pierwotnego Kościoła. Entuzjazm ten z łatwością udziela się dzisiejszemu czytelnikowi Dziejów.</p>
 </article>
 <section class="chapter" id="v1">
-<h2><a href="Dz.html">Rozdział 1</a></h2>
+<h2><a href="Dz.html#v1">Rozdział 1</a></h2>
 <div class="verses">
 <h4>PROLOG</h4>
 <h5>Dzień Wniebowstąpienia<a class="fnref" href="#f-1-1"><sup class="r">※</sup></a></h5>
@@ -133,7 +179,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v2">
-<h2><a href="Dz.html">Rozdział 2</a></h2>
+<h2><a href="Dz.html#v2">Rozdział 2</a></h2>
 <div class="verses">
 <h5>Zesłanie Ducha Świętego</h5>
 <span class="verse" id="v2_1"><sup class="vn"><a href="#v2_1">1</a></sup>Kiedy nadszedł wreszcie dzień Pięćdziesiątnicy<sup>s</sup>, znajdowali się wszyscy razem na tym samym miejscu.</span>
@@ -203,7 +249,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v3">
-<h2><a href="Dz.html">Rozdział 3</a></h2>
+<h2><a href="Dz.html#v3">Rozdział 3</a></h2>
 <div class="verses">
 <h5>Uzdrowienie chromego</h5>
 <span class="verse" id="v3_1"><sup class="vn"><a href="#v3_1">1</a></sup>Gdy Piotr i Jan wchodzili do świątyni na modlitwę o godzinie dziewiątej<a class="fnref" href="#f-3-1"><sup class="r">※</sup></a>,</span>
@@ -244,7 +290,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v4">
-<h2><a href="Dz.html">Rozdział 4</a></h2>
+<h2><a href="Dz.html#v4">Rozdział 4</a></h2>
 <div class="verses">
 <h5>Apostołowie Piotr i Jan przed Sanhedrynem</h5>
 <span class="verse" id="v4_1"><sup class="vn"><a href="#v4_1">1</a></sup>Kiedy przemawiali do ludu, podeszli do nich kapłani i dowódca straży świątynnej<a class="fnref" href="#f-4-1"><sup class="r">※</sup></a> oraz saduceusze<sup>s</sup></span>
@@ -303,7 +349,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v5">
-<h2><a href="Dz.html">Rozdział 5</a></h2>
+<h2><a href="Dz.html#v5">Rozdział 5</a></h2>
 <div class="verses">
 <h5>Ananiasz i Safira</h5>
 <span class="verse" id="v5_1"><sup class="vn"><a href="#v5_1">1</a></sup>Ale pewien człowiek, imieniem Ananiasz, z żoną swoją, Safirą, sprzedał posiadłość</span>
@@ -366,7 +412,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v6">
-<h2><a href="Dz.html">Rozdział 6</a></h2>
+<h2><a href="Dz.html#v6">Rozdział 6</a></h2>
 <div class="verses">
 <h4>POCZĄTKI DZIAŁALNOŚCI MISYJNEJ KOŚCIOŁA</h4>
 <h5>Ustanowienie Siedmiu</h5>
@@ -394,7 +440,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v7">
-<h2><a href="Dz.html">Rozdział 7</a></h2>
+<h2><a href="Dz.html#v7">Rozdział 7</a></h2>
 <div class="verses">
 <h5>Mowa przed Sanhedrynem: Od Abrahama do Mojżesza</h5>
 <span class="verse" id="v7_1"><sup class="vn"><a href="#v7_1">1</a></sup>«Czy to prawda?» - zapytał arcykapłan.</span>
@@ -489,7 +535,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v8">
-<h2><a href="Dz.html">Rozdział 8</a></h2>
+<h2><a href="Dz.html#v8">Rozdział 8</a></h2>
 <div class="verses">
 <h5>Prześladowanie Kościoła jerozolimskiego</h5>
 <span class="verse" id="v8_1"><sup class="vn"><a href="#v8_1">1</a></sup>Szaweł zaś zgadzał się na zabicie go.<br>W tym dniu wybuchło wielkie prześladowanie w Kościele jerozolimskim. Wszyscy, z wyjątkiem Apostołów, rozproszyli się po okolicach Judei i Samarii.</span>
@@ -551,7 +597,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v9">
-<h2><a href="Dz.html">Rozdział 9</a></h2>
+<h2><a href="Dz.html#v9">Rozdział 9</a></h2>
 <div class="verses">
 <h5>Nawrócenie Szawła<a class="fnref" href="#f-9-1"><sup class="r">※</sup></a></h5>
 <span class="verse" id="v9_1"><sup class="vn"><a href="#v9_1">1</a></sup>Szaweł ciągle jeszcze siał grozę i dyszał żądzą zabijania uczniów Pańskich. Udał się do arcykapłana<a class="fnref" href="#f-9-2"><sup class="r">※</sup></a></span>
@@ -613,7 +659,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v10">
-<h2><a href="Dz.html">Rozdział 10</a></h2>
+<h2><a href="Dz.html#v10">Rozdział 10</a></h2>
 <div class="verses">
 <h5>Powołanie setnika Korneliusza</h5>
 <span class="verse" id="v10_1"><sup class="vn"><a href="#v10_1">1</a></sup>W Cezarei mieszkał pewien człowiek, imieniem Korneliusz, setnik z kohorty<sup>s</sup> zwanej Italską,</span>
@@ -676,7 +722,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v11">
-<h2><a href="Dz.html">Rozdział 11</a></h2>
+<h2><a href="Dz.html#v11">Rozdział 11</a></h2>
 <div class="verses">
 <h5>Święty Piotr wyjaśnia sprawę Korneliusza</h5>
 <span class="verse" id="v11_1"><sup class="vn"><a href="#v11_1">1</a></sup>Apostołowie i bracia<sup>s</sup>, przebywający w Judei, dowiedzieli się, że również poganie przyjęli słowo Boże.</span>
@@ -723,7 +769,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v12">
-<h2><a href="Dz.html">Rozdział 12</a></h2>
+<h2><a href="Dz.html#v12">Rozdział 12</a></h2>
 <div class="verses">
 <h4>PRZEŚLADOWANIE WSZCZĘTEPRZEZ HERODA AGRYPPĘ</h4>
 <h5>Pojmanie św. Piotra</h5>
@@ -766,7 +812,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v13">
-<h2><a href="Dz.html">Rozdział 13</a></h2>
+<h2><a href="Dz.html#v13">Rozdział 13</a></h2>
 <div class="verses">
 <h4>DZIAŁALNOŚĆ ŚW. BARNABY I ŚW. PAWŁA</h4>
 <h5>Apostołowie ruszają w pierwszą podróż misyjną. Cypr</h5>
@@ -854,7 +900,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v14">
-<h2><a href="Dz.html">Rozdział 14</a></h2>
+<h2><a href="Dz.html#v14">Rozdział 14</a></h2>
 <div class="verses">
 <h5>Działalność w Ikonium</h5>
 <span class="verse" id="v14_1"><sup class="vn"><a href="#v14_1">1</a></sup>W Ikonium weszli tak samo do synagogi żydowskiej i przemawiali, tak że wielka liczba Żydów i pogan uwierzyła.</span>
@@ -895,7 +941,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v15">
-<h2><a href="Dz.html">Rozdział 15</a></h2>
+<h2><a href="Dz.html#v15">Rozdział 15</a></h2>
 <div class="verses">
 <h4>TAK ZWANY SOBÓR JEROZOLIMSKI</h4>
 <h5>Spory o zachowanie Prawa</h5>
@@ -960,7 +1006,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v16">
-<h2><a href="Dz.html">Rozdział 16</a></h2>
+<h2><a href="Dz.html#v16">Rozdział 16</a></h2>
 <div class="verses">
 <h5>Przyłączenie się Tymoteusza</h5>
 <span class="verse" id="v16_1"><sup class="vn"><a href="#v16_1">1</a></sup>Przybył także do Derbe i Listry. Był tam pewien uczeń, imieniem Tymoteusz, syn Żydówki, która przyjęła wiarę, i ojca Greka.</span>
@@ -1024,7 +1070,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v17">
-<h2><a href="Dz.html">Rozdział 17</a></h2>
+<h2><a href="Dz.html#v17">Rozdział 17</a></h2>
 <div class="verses">
 <h5>W Tesalonice</h5>
 <span class="verse" id="v17_1"><sup class="vn"><a href="#v17_1">1</a></sup>Przeszli przez Amfipolis<a class="fnref" href="#f-17-1"><sup class="r">※</sup></a> i Apolonię i przybyli do Tesaloniki, gdzie Żydzi mieli synagogę.</span>
@@ -1083,7 +1129,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v18">
-<h2><a href="Dz.html">Rozdział 18</a></h2>
+<h2><a href="Dz.html#v18">Rozdział 18</a></h2>
 <div class="verses">
 <h5>Początki Kościoła w Koryncie</h5>
 <span class="verse" id="v18_1"><sup class="vn"><a href="#v18_1">1</a></sup>Potem opuścił Ateny i przybył do Koryntu<a class="fnref" href="#f-18-1"><sup class="r">※</sup></a>.</span>
@@ -1134,7 +1180,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v19">
-<h2><a href="Dz.html">Rozdział 19</a></h2>
+<h2><a href="Dz.html#v19">Rozdział 19</a></h2>
 <div class="verses">
 <h5>Działalność św. Pawła w Efezie</h5>
 <span class="verse" id="v19_1"><sup class="vn"><a href="#v19_1">1</a></sup>Kiedy Apollos znajdował się w Koryncie, Paweł przeszedł okolice wyżej położone, przybył do Efezu i znalazł jakichś uczniów<a class="fnref" href="#f-19-1"><sup class="r">※</sup></a>.</span>
@@ -1197,7 +1243,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v20">
-<h2><a href="Dz.html">Rozdział 20</a></h2>
+<h2><a href="Dz.html#v20">Rozdział 20</a></h2>
 <div class="verses">
 <h5>Wyprawa do Macedonii, Grecji i powrót do Azji Mniejszej</h5>
 <span class="verse" id="v20_1"><sup class="vn"><a href="#v20_1">1</a></sup>Gdy ustały rozruchy, Paweł przywołał uczniów, dodał im ducha, pożegnał się i wyruszył w drogę do Macedonii.</span>
@@ -1257,7 +1303,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v21">
-<h2><a href="Dz.html">Rozdział 21</a></h2>
+<h2><a href="Dz.html#v21">Rozdział 21</a></h2>
 <div class="verses">
 <h4>KONIEC DZIAŁALNOŚCI - UWIĘZIENIE</h4>
 <h5>Ku Jerozolimie</h5>
@@ -1319,7 +1365,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v22">
-<h2><a href="Dz.html">Rozdział 22</a></h2>
+<h2><a href="Dz.html#v22">Rozdział 22</a></h2>
 <div class="verses">
 <h5>Przemówienie do Żydów</h5>
 <span class="verse" id="v22_1"><sup class="vn"><a href="#v22_1">1</a></sup>«Bracia i ojcowie, słuchajcie, co teraz wam powiem na swoją obronę».<br></span>
@@ -1363,7 +1409,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v23">
-<h2><a href="Dz.html">Rozdział 23</a></h2>
+<h2><a href="Dz.html#v23">Rozdział 23</a></h2>
 <div class="verses">
 <span class="verse" id="v23_1"><sup class="vn"><a href="#v23_1">1</a></sup>Paweł zaś, spojrzawszy śmiało na Sanhedryn<sup>s</sup>, przemówił: «Bracia<sup>s</sup>, aż do dnia dzisiejszego służyłem Bogu z zupełnie spokojnym sumieniem».</span>
 <span class="verse" id="v23_2"><sup class="vn"><a href="#v23_2">2</a></sup>Arcykapłan Ananiasz<a class="fnref" href="#f-23-1"><sup class="r">※</sup></a> kazał tym, co przy nim stali, uderzyć go w twarz.</span>
@@ -1415,7 +1461,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v24">
-<h2><a href="Dz.html">Rozdział 24</a></h2>
+<h2><a href="Dz.html#v24">Rozdział 24</a></h2>
 <div class="verses">
 <h5>Przed sądem prokuratora Feliksa</h5>
 <span class="verse" id="v24_1"><sup class="vn"><a href="#v24_1">1</a></sup>Po pięciu dniach przybył arcykapłan Ananiasz<a class="fnref" href="#f-24-1"><sup class="r">※</sup></a> z kilkoma starszymi i retorem, niejakim Tertullosem. Oni to wnieśli przed namiestnika oskarżenie przeciwko Pawłowi.</span>
@@ -1456,7 +1502,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v25">
-<h2><a href="Dz.html">Rozdział 25</a></h2>
+<h2><a href="Dz.html#v25">Rozdział 25</a></h2>
 <div class="verses">
 <h5>Przed trybunałem Festusa Paweł odwołuje się do cezara</h5>
 <span class="verse" id="v25_1"><sup class="vn"><a href="#v25_1">1</a></sup>Po trzech dniach od objęcia urzędowania w prowincji udał się Festus z Cezarei do Jerozolimy.</span>
@@ -1494,7 +1540,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v26">
-<h2><a href="Dz.html">Rozdział 26</a></h2>
+<h2><a href="Dz.html#v26">Rozdział 26</a></h2>
 <div class="verses">
 <h5>Mowa Apostoła przed królem</h5>
 <span class="verse" id="v26_1"><sup class="vn"><a href="#v26_1">1</a></sup>«Wolno ci mówić w swojej obronie» - powiedział Agryppa do Pawła. Wtedy Paweł, wyciągnąwszy rękę, rozpoczął mowę obronną:</span>
@@ -1539,7 +1585,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v27">
-<h2><a href="Dz.html">Rozdział 27</a></h2>
+<h2><a href="Dz.html#v27">Rozdział 27</a></h2>
 <div class="verses">
 <h5>Więzień wyrusza do Rzymu</h5>
 <span class="verse" id="v27_1"><sup class="vn"><a href="#v27_1">1</a></sup>Kiedy nasz<a class="fnref" href="#f-27-1"><sup class="r">※</sup></a> odjazd do Italii został postanowiony, oddano Pawła razem z innymi więźniami setnikowi cesarskiej kohorty<sup>s</sup>, imieniem Juliusz.</span>
@@ -1604,7 +1650,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v28">
-<h2><a href="Dz.html">Rozdział 28</a></h2>
+<h2><a href="Dz.html#v28">Rozdział 28</a></h2>
 <div class="verses">
 <h5>Pobyt Apostoła na Malcie</h5>
 <span class="verse" id="v28_1"><sup class="vn"><a href="#v28_1">1</a></sup>Po ocaleniu dowiedzieliśmy się, że wyspa nazywa się Malta<a class="fnref" href="#f-28-1"><sup class="r">※</sup></a>.</span>
@@ -1658,6 +1704,20 @@ article.introduction {
 <script>
 (function () {
   'use strict';
+  function fontSize(size) {
+    document.documentElement.style.fontSize = size + 'px';
+    try { localStorage.setItem('btv-font-size', size); } catch (e) {}
+  }
+  var switcher = document.querySelector('.font-switcher');
+  [14, 16, 18, 20, 22].forEach(function (size) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = 'A';
+    b.style.fontSize = size + 'px';
+    b.setAttribute('aria-label', 'Rozmiar czcionki ' + size + ' pikseli');
+    b.addEventListener('click', function () { fontSize(size); });
+    switcher.appendChild(b);
+  });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {

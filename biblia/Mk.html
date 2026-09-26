@@ -2,45 +2,84 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try{var s=localStorage.getItem('btv-font-size');if(s)document.documentElement.style.fontSize=s+'px';}catch(e){}
+</script>
 <title>Ew. wg św. Marka — Biblia Tysiąclecia (BT-V)</title>
 <style>
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
 body {
   font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   line-height: 1.6;
-  max-width: 42em;
+  max-width: 42rem;
   margin: 0 auto;
-  padding: 1em 1.5em 3em;
+  padding: 1rem 1.5rem 3rem;
   color: #222;
   background: #fff;
 }
+.font-switcher {
+  margin-left: auto;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  border: 1px solid #808080;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.font-switcher button {
+  margin-left: 0.25rem;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+  font-family: inherit;
+}
 nav.toc {
   font-family: -apple-system, 'Segoe UI', sans-serif;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   color: #555;
 }
 nav.toc a {
-  margin-right: 0.45em;
+  margin-right: 0.45rem;
   text-decoration: none;
 }
-h1 { font-size: 1.8em; }
-h2 {
-  font-size: 1.4em;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
+header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
-h1 a, h2 a {
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+h1 { font-size: 1.8rem; }
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+h1 a, h2 a, .site-title a {
   color: inherit;
   text-decoration: none;
 }
-h1 a:hover, h2 a:hover {
+h1 a:hover, h2 a:hover, .site-title a:hover {
   text-decoration: underline;
 }
 sup.vn {
   color: #0000aa;
-  font-size: 0.7em;
-  margin-right: 0.2em;
+  font-size: 0.7rem;
+  margin-right: 0.2rem;
   position: relative;
-  top: -0.2em;
+  top: -0.2rem;
   user-select: none;
 }
 span.verse sup.vn a {
@@ -54,9 +93,9 @@ div.verses {
 span.speaker { font-style: italic; }
 ul.footnotes {
   list-style: none;
-  font-size: 0.85em;
+  font-size: 0.85rem;
   color: #444;
-  padding: 2em 2em 2em 2em;
+  padding: 2rem;
 }
 a.fnref, a.backref { text-decoration: none; }
 ul.footnotes li:target, span.verse:target, span.verse.sel {
@@ -66,30 +105,37 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   padding: 2px;
   transition: background-color 0.5s ease;
 }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  ul.footnotes li:target, span.verse:target, span.verse.sel {
+    transition: none;
+  }
+}
 span.verse, ul.footnotes>li {
-  scroll-margin-top: 1em;
+  scroll-margin-top: 1rem;
 }
 article.introduction {
   background: #fafafa;
   border-left: 3px solid #ddd;
-  padding: 0.5em 1em;
-  margin: 1em 0;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
 }
 </style>
 </head>
 <body>
-<h1><a href="index.html">Ew. wg św. Marka</a></h1>
+<header class="site"><p class="site-title"><a href="index.html">Biblia Tysiąclecia</a></p><div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div></header>
+<h1><a href="Mk.html">Ew. wg św. Marka</a></h1>
 <nav class="toc">Rozdziały: <a href="#v1">1</a> <a href="#v2">2</a> <a href="#v3">3</a> <a href="#v4">4</a> <a href="#v5">5</a> <a href="#v6">6</a> <a href="#v7">7</a> <a href="#v8">8</a> <a href="#v9">9</a> <a href="#v10">10</a> <a href="#v11">11</a> <a href="#v12">12</a> <a href="#v13">13</a> <a href="#v14">14</a> <a href="#v15">15</a> <a href="#v16">16</a></nav>
-<article class="introduction">
-<h2><a href="Mk.html">Wstęp ogólny do Ewangelii</a></h2>
+<article class="introduction" id="i1">
+<h2><a href="Mk.html#i1">Wstęp ogólny do Ewangelii</a></h2>
 <p>Pismo święte - to w pewnym sensie dzieje dialogu Boga z człowiekiem. Pan Bóg przemawia nie tylko słowem, lecz także swymi czynami, które niekiedy dosadniej nawet niż słowa wyrażają odwieczną dobroć Boga względem człowieka. Człowiek zaś, z wytrwałością aż zastanawiającą, złem odpowiada na niezmordowaną dobroć Boga. <br>    I tak np. na dobroć Boga, ukazaną po raz pierwszy w akcie stworzenia i ubogacenia człowieka wszystkimi darami przyrodzonymi i nadprzyrodzonymi, człowiek odpowiedział czynem, który się dziś określa mianem grzechu pierworodnego. A Pan Bóg, nim wydał wyrok na człowieka, powiedział do szatana: Wprowadzam nieprzyjaźń... pomiędzy potomstwo twoje a potomstwo jej: ono zmiażdży ci głowę... (Rdz 3,15). Słowa te są nazywane &quot;pierwszą ewangelią&quot;, czyli &quot;pierwszą dobrą nowiną&quot;, w nich bowiem została zapowiedziana po raz pierwszy lepsza przyszłość dla upadłej ludzkości. W nadziei lepszego jutra utrzymywały Izraelitów wszystkie obietnice dawane przez Boga patriarchom, a prorocy, gdy wizjami czasów mesjańskich podnosili na duchu zgnębiony naród, to również nic innego nie czynili, jak tylko głosili &quot;dobrą nowinę&quot;, dając tym świadectwo odwiecznej dobroci Boga. <br>    Nowy Testament jest kontynuacją tego ewangelijnego wątku, z tym, że chodzi już o Dobrą Nowinę spełnioną w jej treści: Czas się wypełnił (Mk 1,15), spełniły się słowa Pisma (Łk 4,21). Podobnie jak większość tekstów mesjańskich Starego Testamentu, tak też cała nowotestamentalna Dobra Nowina dotyczy osoby, czynów i nauki Jezusa Zbawiciela. <br>    Słowa wypowiadane przez samego Jezusa oraz Jego cudowne czyny (znaki) stanowią pierwszy etap w tworzeniu się ustnej tradycji ewangelijnej. Posłuszni poleceniu Jezusa Apostołowie przez dłuższy czas ustnie przekazywali ludowi Dobrą Nowinę. Towarzyszyła temu jednak ich wiara, oparta na osobistych doświadczeniach, szczególnie silna od chwili zmartwychwstania Chrystusa. Słuchali przecież na własne uszy Jego pouczeń, oglądali własnymi oczami cudowne Jego czyny. Dzięki owej wierze Jezus, będąc do niedawna nauczycielem, sam stał się przedmiotem nauczania. Lecz tym, którzy się zajmowali głoszeniem Dobrej Nowiny o Jezusie, wcale nie chodziło o to, żeby ukazać ludziom pełny obraz całego życia, wszystkich czynów i słów Jezusa. Wydaje się, że na pierwotną tradycję ewangelijną składały się odizolowane - najczęściej w formie przypowieściowej - pouczenia Jezusa oraz nie powiązane w większe całości relacje o Jego cudownych czynach. Być może, że tak nawet zostały już utrwalone na piśmie i zebrane z czasem co najwyżej w dwie większe całości: jedna z nich zawierała pouczenia Jezusa, druga była swoistym zbiorem opowiadań o Jego czynach. <br>    Ustnie przekazywaną Dobrą Nowinę utrwalano na piśmie wtedy, gdy poczęły się tego domagać misyjne potrzeby Kościoła. Znów jednak nie chodziło o spisanie wszystkich słów i utrwalenie na piśmie wszystkich relacji o czynach Jezusa według ich chronologicznego następstwa z dokładnym uwzględnieniem topografii poszczególnych wydarzeń. Zarówno ci, którzy przekazywali ustnie Dobrą Nowinę, jak i ci, którzy ją utrwalali na piśmie, dokonywali specyficznej selekcji czynów i słów Jezusa, zmieniali niekiedy chronologiczno-topograficzne ramy tych słów i czynów mając ciągle na uwadze potrzeby i możliwości poznawcze pierwszych chrześcijan. Nauczającym towarzyszyła ciągle ta sama troska: aby nauczani uwierzyli i przylgnęli do prawdy Ewangelii. <br>    Próby spisania Dobrej Nowiny były podejmowane nie jeden raz i nie przez jednego tylko autora. Cztery spośród spisanych Ewangelii Kościół uznał za natchnione i wprowadził do zbioru ksiąg Pisma świętego. Trzy pierwsze, tzn. Ewangelia według Mateusza, Marka i Łukasza, obok pewnych różnic, wykazują bardzo wiele uderzających podobieństw, czwarta, Ewangelia według św. Jana, odbiega dość często stylem, terminologią, a niekiedy i treścią od trzech pozostałych Ewangelii. Zjawisko podobieństw i różnic pomiędzy Mt, Mk i Łk - zwane inaczej faktem synoptycznym - tłumaczy się tym, że dwaj chronologicznie późniejsi Ewangeliści, tzn. Mateusz (lub dokładniej: redaktor greckiej Ewangelii Mateusza) oraz Łukasz korzystali z wcześniej zredagowanej Ewangelii Marka. Stąd podobieństwa między trzema redakcjami Ewangelii. Drugim źródłem był zbiór mów Jezusa. Korzystanie z niego sprawiło, że Ewangelie Mt i Łk były do siebie podobne. Równocześnie różniły się od Marka, który, jak się wydaje, nie znał lub celowo nie zamierzał uwzględniać prawie wcale mów Jezusa. U podstaw pewnych rozbieżności między wszystkimi Ewangeliami znajdują się jednak nade wszystko pewne myśli przewodnie, inne u każdego Ewangelisty i stanowiące zarazem źródło teologii nieco odmiennej u każdego Autora.</p>
 </article>
-<article class="introduction">
-<h2><a href="Mk.html">Wstęp do Ewangelii według św. Marka</a></h2>
+<article class="introduction" id="i2">
+<h2><a href="Mk.html#i2">Wstęp do Ewangelii według św. Marka</a></h2>
 <p>Marka, któremu już najstarsza tradycja chrześcijańska przypisuje autorstwo drugiej Ewangelii, zwykło się utożsamiać z Janem Markiem, synem Marii (Dz 12,12) i krewnym Barnaby (Kol 4,10). Razem z Barnabą Marek towarzyszył Pawłowi w czasie jego pierwszej podróży misyjnej, lecz tylko do Perge w Pamfilii (Dz 13,5.13), podczas zaś drugiej podróży Pawła, po nieudanej próbie dołączenia się do Apostoła, osiadł Marek z Barnabą na Cyprze (Dz 15,39). Potem jednak znów jest przy boku Pawła jako wierny jego pomocnik (Kol 4,10; Flm 0,24). Z 1 P 5,13 wynika, że w Rzymie również zetknął się Jan Marek z Piotrem. To właśnie Marek, jak utrzymuje najstarsza tradycja (Papiasz, Euzebiusz), spisał Ewangelię głoszoną przez Piotra, za czym przemawia zresztą wiele danych zaczerpniętych z treści samej Ewangelii. Katechezę apostolską przedstawia ona w ramach czasowych, nakreślonych przez Piotra (Dz 1,21n). W sposób wyjątkowo szczegółowy zostały w niej opisane zdarzenia, w których bierze udział Piotr (Mk 1,29-38; Mk 5,37-43; Mk 9,2-8; Mk 11,20nn). Marek opuszcza - prawdopodobnie na życzenie pragnącego się upokorzyć Piotra - te wszystkie epizody, które przedstawiają Księcia Apostołów w pozytywnym świetle (zapowiedź udzielenia Piotrowi władzy prymatu, chodzenie po wodzie, stater znaleziony w rybie), opisuje natomiast dokładnie potrójne zaparcie się Piotra i upomnienia udzielane Apostołowi przez Chrystusa. <br>    Druga Ewangelia była przeznaczona dla ludzi nie obeznanych z Palestyną jako krajem ani z językiem żydowskim. Inaczej trudno byłoby zrozumieć, dlaczego wspomniane w tej Ewangelii miejscowości są określone dokładnie pod względem ich położenia geograficznego (np. Mk 1,5.9; Mk 11,1) i dlaczego wszystkie przejęte z tradycji ustnej wyrażenia aramejskie są tłumaczone na język grecki (np. Mk 5,41; Mk 7,34; Mk 14,36), przy czym zdarzają się dość często terminy pochodzenia łacińskiego (Mk 6,27; Mk 12,42; Mk 15,39.44n), co pozwala przypuszczać, że adresatami Ewangelii Marka byli chrześcijanie nawróceni z pogaństwa i zamieszkujący w Rzymie. <br>    W przeciwieństwie do pierwszej Ewangelii, Ewangelia Marka zawiera bardzo mało mów Jezusa, natomiast dość szczegółowe są w niej relacje o czynach Jezusa. Marek nie uprawia teologii w takim stopniu jak Mateusz: nie podaje własnej interpretacji przytoczonych faktów, nie wyjaśnia, nie uzasadnia. Jest typowym świadkiem, który opowiada zwięźle, realistycznie, językiem niewyszukanym, to co sam widział i słyszał. Tym niemniej i jego Ewangelia nie jest pozbawiona teologii, w której dominuje myśl następująca: Jezus jest prawdziwym Synem Bożym. Dlatego z takim upodobaniem mówi Marek o nadludzkiej mądrości Jezusa, o Jego cudotwórczej mocy i o Jego władzy nad szatanem. Jezus zaś sam najchętniej nazywa się Synem Bożym. Dość znamienne są dla Ewangelii Marka nakazy Jezusa, by nie wyjawiano Jego Boskiej mądrości i cudotwórczej mocy. Zjawisko to, zwane inaczej sekretem mesjańskim, tłumaczy się swoistą taktyką Jezusa, który chce, by ludzie dopiero z Jego triumfu nad śmiercią wywnioskowali, kim On jest rzeczywiście. Zredagowana chyba między 60 a 70 rokiem, jako druga - po aramejskiej Ewangelii Mateusza - Ewangelia Marka uchodzi z najstarszą, przynajmniej w większości podawanego przez nią materiału, i dlatego stanowi jedno z dwu zasadniczych źródeł (M, czyli Marek, oraz Q od niemieckiego Qelle - źródło, czyli materiał znajdujący się w Mt i Łk, a nie istniejący w Mk) dla Ewangelii chronologicznie późniejszych.</p>
 </article>
 <section class="chapter" id="v1">
-<h2><a href="Mk.html">Rozdział 1</a></h2>
+<h2><a href="Mk.html#v1">Rozdział 1</a></h2>
 <div class="verses">
 <h4>PRZYGOTOWANIEDO DZIAŁALNOŚCI JEZUSA</h4>
 <h5>Jan Chrzciciel<a class="fnref" href="#f-1-1"><sup class="r">※</sup></a></h5>
@@ -173,7 +219,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v2">
-<h2><a href="Mk.html">Rozdział 2</a></h2>
+<h2><a href="Mk.html#v2">Rozdział 2</a></h2>
 <div class="verses">
 <h4>PIERWSZE SPORY Z PRZYWÓDCAMI LUDU</h4>
 <h5>Uzdrowienie paralityka<a class="fnref" href="#f-2-1"><sup class="r">※</sup></a></h5>
@@ -219,7 +265,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v3">
-<h2><a href="Mk.html">Rozdział 3</a></h2>
+<h2><a href="Mk.html#v3">Rozdział 3</a></h2>
 <div class="verses">
 <h5>Uzdrowienie w szabat<a class="fnref" href="#f-3-1"><sup class="r">※</sup></a></h5>
 <span class="verse" id="v3_1"><sup class="vn"><a href="#v3_1">1</a></sup>Wszedł znowu do synagogi. Był tam człowiek, który miał uschniętą rękę.</span>
@@ -278,7 +324,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v4">
-<h2><a href="Mk.html">Rozdział 4</a></h2>
+<h2><a href="Mk.html#v4">Rozdział 4</a></h2>
 <div class="verses">
 <h4>NAUCZANIE W PRZYPOWIEŚCIACH</h4>
 <h5>Przypowieść o siewcy<a class="fnref" href="#f-4-1"><sup class="r">※</sup></a></h5>
@@ -348,7 +394,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v5">
-<h2><a href="Mk.html">Rozdział 5</a></h2>
+<h2><a href="Mk.html#v5">Rozdział 5</a></h2>
 <div class="verses">
 <h5>Uzdrowienie opętanego<a class="fnref" href="#f-5-1"><sup class="r">※</sup></a></h5>
 <span class="verse" id="v5_1"><sup class="vn"><a href="#v5_1">1</a></sup>Przybyli na drugą stronę jeziora do kraju Gerazeńczyków<a class="fnref" href="#f-5-2"><sup class="r">※</sup></a>.</span>
@@ -407,7 +453,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v6">
-<h2><a href="Mk.html">Rozdział 6</a></h2>
+<h2><a href="Mk.html#v6">Rozdział 6</a></h2>
 <div class="verses">
 <h5>Jezus w Nazarecie<a class="fnref" href="#f-6-1"><sup class="r">※</sup></a></h5>
 <span class="verse" id="v6_1"><sup class="vn"><a href="#v6_1">1</a></sup>Wyszedł stamtąd i przyszedł do swego rodzinnego miasta. A towarzyszyli Mu Jego uczniowie.</span>
@@ -487,7 +533,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v7">
-<h2><a href="Mk.html">Rozdział 7</a></h2>
+<h2><a href="Mk.html#v7">Rozdział 7</a></h2>
 <div class="verses">
 <h5>Spór o tradycję<a class="fnref" href="#f-7-1"><sup class="r">※</sup></a></h5>
 <span class="verse" id="v7_1"><sup class="vn"><a href="#v7_1">1</a></sup>Zebrali się u Niego faryzeusze<sup>s</sup> i kilku uczonych w Piśmie, którzy przybyli z Jerozolimy.</span>
@@ -546,7 +592,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v8">
-<h2><a href="Mk.html">Rozdział 8</a></h2>
+<h2><a href="Mk.html#v8">Rozdział 8</a></h2>
 <div class="verses">
 <h5>Drugie rozmnożenie chleba<a class="fnref" href="#f-8-1"><sup class="r">※</sup></a></h5>
 <span class="verse" id="v8_1"><sup class="vn"><a href="#v8_1">1</a></sup>W owym czasie, gdy znowu wielki tłum był [z Nim] i nie mieli co jeść, przywołał do siebie uczniów i rzekł im:</span>
@@ -609,7 +655,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v9">
-<h2><a href="Mk.html">Rozdział 9</a></h2>
+<h2><a href="Mk.html#v9">Rozdział 9</a></h2>
 <div class="verses">
 <span class="verse" id="v9_1"><sup class="vn"><a href="#v9_1">1</a></sup>Mówił im także: «Zaprawdę, powiadam wam: Niektórzy z tych, co tu stoją, nie zaznają śmierci, aż ujrzą królestwo Boże przychodzące w mocy<a class="fnref" href="#f-9-1"><sup class="r">※</sup></a>».<br></span>
 <h5>Przemienienie Jezusa<a class="fnref" href="#f-9-2"><sup class="r">※</sup></a></h5>
@@ -687,7 +733,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v10">
-<h2><a href="Mk.html">Rozdział 10</a></h2>
+<h2><a href="Mk.html#v10">Rozdział 10</a></h2>
 <div class="verses">
 <h4>PODRÓŻ DO JEROZOLIMY</h4>
 <h5>Nierozerwalność małżeństwa<a class="fnref" href="#f-10-1"><sup class="r">※</sup></a></h5>
@@ -773,7 +819,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v11">
-<h2><a href="Mk.html">Rozdział 11</a></h2>
+<h2><a href="Mk.html#v11">Rozdział 11</a></h2>
 <div class="verses">
 <h4>DZIAŁALNOŚĆ JEZUSA W JEROZOLIMIE</h4>
 <h4>NAUCZANIE I SPORY Z PRZECIWNIKAMI</h4>
@@ -827,7 +873,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v12">
-<h2><a href="Mk.html">Rozdział 12</a></h2>
+<h2><a href="Mk.html#v12">Rozdział 12</a></h2>
 <div class="verses">
 <h5>Przypowieść o przewrotnych rolnikach<a class="fnref" href="#f-12-1"><sup class="r">※</sup></a></h5>
 <span class="verse" id="v12_1"><sup class="vn"><a href="#v12_1">1</a></sup>I zaczął mówić do nich w przypowieściach: «Pewien człowiek założył winnicę. Otoczył ją murem, wykopał tłocznię i zbudował wieżę<a class="fnref" href="#f-12-2"><sup class="r">※</sup></a>. W końcu oddał ją w dzierżawę rolnikom i wyjechał.</span>
@@ -900,7 +946,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v13">
-<h2><a href="Mk.html">Rozdział 13</a></h2>
+<h2><a href="Mk.html#v13">Rozdział 13</a></h2>
 <div class="verses">
 <h4>MOWA O ZBURZENIU JEROZOLIMYI PRZYJŚCIU CHRYSTUSA</h4>
 <h5>Zniszczenie świątyni<a class="fnref" href="#f-13-1"><sup class="r">※</sup></a></h5>
@@ -966,7 +1012,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v14">
-<h2><a href="Mk.html">Rozdział 14</a></h2>
+<h2><a href="Mk.html#v14">Rozdział 14</a></h2>
 <div class="verses">
 <h4>MĘKA I ZMARTWYCHWSTANIEJEZUSA CHRYSTUSA</h4>
 <h5>Spisek przeciw Jezusowi</h5>
@@ -1080,7 +1126,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v15">
-<h2><a href="Mk.html">Rozdział 15</a></h2>
+<h2><a href="Mk.html#v15">Rozdział 15</a></h2>
 <div class="verses">
 <h5>Jezus przed Piłatem<a class="fnref" href="#f-15-1"><sup class="r">※</sup></a></h5>
 <span class="verse" id="v15_1"><sup class="vn"><a href="#v15_1">1</a></sup>Zaraz wczesnym rankiem arcykapłani wraz ze starszymi i uczonymi w Piśmie i cały Sanhedryn<sup>s</sup> powzięli uchwałę. Kazali Jezusa związanego odprowadzić i wydali Go Piłatowi.</span>
@@ -1160,7 +1206,7 @@ article.introduction {
 </ul>
 </section>
 <section class="chapter" id="v16">
-<h2><a href="Mk.html">Rozdział 16</a></h2>
+<h2><a href="Mk.html#v16">Rozdział 16</a></h2>
 <div class="verses">
 <h4>ZMARTWYCHWSTANIE JEZUSA CHRYSTUSA</h4>
 <h5>Pusty grób<a class="fnref" href="#f-16-1"><sup class="r">※</sup></a></h5>
@@ -1200,6 +1246,20 @@ article.introduction {
 <script>
 (function () {
   'use strict';
+  function fontSize(size) {
+    document.documentElement.style.fontSize = size + 'px';
+    try { localStorage.setItem('btv-font-size', size); } catch (e) {}
+  }
+  var switcher = document.querySelector('.font-switcher');
+  [14, 16, 18, 20, 22].forEach(function (size) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = 'A';
+    b.style.fontSize = size + 'px';
+    b.setAttribute('aria-label', 'Rozmiar czcionki ' + size + ' pikseli');
+    b.addEventListener('click', function () { fontSize(size); });
+    switcher.appendChild(b);
+  });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {
