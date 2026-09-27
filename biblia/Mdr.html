@@ -110,9 +110,25 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   ul.footnotes li:target, span.verse:target, span.verse.sel {
     transition: none;
   }
+  span.verse.armed-start sup.vn a { animation: none; }
 }
 span.verse, ul.footnotes>li {
   scroll-margin-top: 1rem;
+}
+body.range-armed sup.vn a {
+  outline: 1px dashed #0000aa;
+  outline-offset: 2px;
+}
+span.verse.armed-start sup.vn a {
+  display: inline-block;
+  outline: 2px solid #0000aa;
+  outline-offset: 2px;
+  animation: btv-pulse 1s ease-in-out infinite;
+}
+body.range-armed span.verse { cursor: pointer; }
+body.range-armed span.verse:hover { background-color: #eeeeff; }
+@keyframes btv-pulse {
+  50% { outline-color: #9999ff; }
 }
 article.introduction {
   background: #fafafa;
@@ -899,24 +915,85 @@ article.introduction {
     switcher.appendChild(b);
   });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
+  var RE_SINGLE = /^v(\d+_[0-9A-Za-z_.-]+)$/;
+  var armed = null;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {
       el.classList.remove('sel');
     });
+  }
+  function disarm() {
+    armed = null;
+    document.body.classList.remove('range-armed');
+    document.querySelectorAll('span.verse.armed-start').forEach(function (el) {
+      el.classList.remove('armed-start');
+    });
+  }
+  function arm(id) {
+    disarm();
+    armed = id;
+    document.body.classList.add('range-armed');
+    var el = document.getElementById(id);
+    if (el) el.classList.add('armed-start');
+  }
+  function verseIndex(verses, id) {
+    return verses.findIndex(function (el) { return el.id === id; });
+  }
+  function buildRange(a, b) {
+    var verses = Array.from(document.querySelectorAll('span.verse'));
+    var i1 = verseIndex(verses, a);
+    var i2 = verseIndex(verses, b);
+    if (i1 < 0 || i2 < 0) return;
+    if (i1 === i2) { location.hash = '#' + a; return; }
+    if (i1 > i2) { var t = i1; i1 = i2; i2 = t; }
+    location.hash = '#vv' + verses[i1].id.slice(1) + '__' + verses[i2].id.slice(1);
   }
   function applyRange() {
     clearSel();
     var m = RE.exec(location.hash.slice(1));
     if (!m) return;
     var verses = Array.from(document.querySelectorAll('span.verse'));
-    var i1 = verses.findIndex(function (el) { return el.id === 'v' + m[1]; });
-    var i2 = verses.findIndex(function (el) { return el.id === 'v' + m[2]; });
+    var i1 = verseIndex(verses, 'v' + m[1]);
+    var i2 = verseIndex(verses, 'v' + m[2]);
     if (i1 < 0 || i2 < 0) return;
-    if (i1 > i2) return;
+    if (i1 > i2) { var t = i1; i1 = i2; i2 = t; }
     verses.slice(i1, i2 + 1).forEach(function (el) { el.classList.add('sel'); });
     verses[i1].scrollIntoView({ block: 'start' });
   }
-  window.addEventListener('hashchange', applyRange);
+  document.querySelectorAll('sup.vn a').forEach(function (a) {
+    a.title = 'Kliknij, aby zaznaczyć. Kliknij ponownie, aby zaznaczyć zakres.';
+  });
+  document.addEventListener('click', function (e) {
+    try { if (window.getSelection && String(window.getSelection())) return; } catch (err) {}
+    if (e.target.closest && e.target.closest('.font-switcher')) return;
+    var verseEl = e.target.closest ? e.target.closest('span.verse') : null;
+    var numLink = e.target.closest ? e.target.closest('sup.vn a') : null;
+    if (armed) {
+      if (!verseEl) return;
+      e.preventDefault();
+      var target = verseEl.id;
+      if (target === armed) { disarm(); return; }
+      var a = armed;
+      disarm();
+      buildRange(a, target);
+      return;
+    }
+    var cur = RE_SINGLE.exec(location.hash.slice(1));
+    var curId = cur ? 'v' + cur[1] : null;
+    if (numLink && curId && numLink.getAttribute('href') === location.hash) {
+      e.preventDefault();
+      arm(curId);
+      return;
+    }
+    if (e.shiftKey && verseEl && curId && verseEl.id !== curId) {
+      e.preventDefault();
+      buildRange(curId, verseEl.id);
+    }
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') disarm();
+  });
+  window.addEventListener('hashchange', function () { disarm(); applyRange(); });
   document.addEventListener('DOMContentLoaded', applyRange);
   applyRange();
 })();

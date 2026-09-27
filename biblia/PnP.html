@@ -110,9 +110,25 @@ ul.footnotes li:target, span.verse:target, span.verse.sel {
   ul.footnotes li:target, span.verse:target, span.verse.sel {
     transition: none;
   }
+  span.verse.armed-start sup.vn a { animation: none; }
 }
 span.verse, ul.footnotes>li {
   scroll-margin-top: 1rem;
+}
+body.range-armed sup.vn a {
+  outline: 1px dashed #0000aa;
+  outline-offset: 2px;
+}
+span.verse.armed-start sup.vn a {
+  display: inline-block;
+  outline: 2px solid #0000aa;
+  outline-offset: 2px;
+  animation: btv-pulse 1s ease-in-out infinite;
+}
+body.range-armed span.verse { cursor: pointer; }
+body.range-armed span.verse:hover { background-color: #eeeeff; }
+@keyframes btv-pulse {
+  50% { outline-color: #9999ff; }
 }
 article.introduction {
   background: #fafafa;
@@ -138,7 +154,6 @@ article.introduction {
 <h2><a href="PnP.html" title="Pieśń nad Pieśniami">Pnp</a> | <a href="PnP.html#v1">Rozdział 1</a></h2>
 <div class="verses">
 <h4>TYTUŁ</h4>
-<h3></h3>
 <span class="verse" id="v1_1"><sup class="vn"><a href="#v1_1">1</a></sup>Pieśń nad pieśniami Salomona.<br></span>
 <h4>PIEŚŃ PIERWSZA</h4>
 <span class="verse" id="v1_2"><sup class="vn"><a href="#v1_2">2</a></sup><span class="speaker">Oblubienica:</span>Niech mnie ucałuje pocałunkami swych ust!<br>Bo miłość twa przedniejsza od wina.<br></span>
@@ -172,7 +187,6 @@ article.introduction {
 <section class="chapter" id="v2">
 <h2><a href="PnP.html" title="Pieśń nad Pieśniami">Pnp</a> | <a href="PnP.html#v2">Rozdział 2</a></h2>
 <div class="verses">
-<h3></h3>
 <span class="verse" id="v2_1"><sup class="vn"><a href="#v2_1">1</a></sup><span class="speaker">Oblubienica:</span>Jam narcyz Szaronu<sup>s</sup>,<br>lilia dolin.<br></span>
 <span class="verse" id="v2_2"><sup class="vn"><a href="#v2_2">2</a></sup><span class="speaker">Oblubieniec:</span>Jak lilia pośród cierni,<br>tak przyjaciółka ma pośród dziewcząt.<br></span>
 <span class="verse" id="v2_3"><sup class="vn"><a href="#v2_3">3</a></sup><span class="speaker">Oblubienica:</span>Jak jabłoń wśród drzew leśnych,<br>tak ukochany mój wśród młodzieńców.<br>W upragnionym jego cieniu usiadłam,<br>a owoc jego słodki dla mego podniebienia.<br></span>
@@ -203,7 +217,6 @@ article.introduction {
 <section class="chapter" id="v3">
 <h2><a href="PnP.html" title="Pieśń nad Pieśniami">Pnp</a> | <a href="PnP.html#v3">Rozdział 3</a></h2>
 <div class="verses">
-<h3></h3>
 <span class="verse" id="v3_1"><sup class="vn"><a href="#v3_1">1</a></sup>Na łożu mym nocą szukałam<br>umiłowanego mej duszy,<br>szukałam go, lecz nie znalazłam.<br></span>
 <span class="verse" id="v3_2"><sup class="vn"><a href="#v3_2">2</a></sup>Wstanę, obejdę miasto<br>po ulicach i placach,<br>szukać będę ukochanego mej duszy.<br>Szukałam go, lecz nie znalazłam.<br></span>
 <span class="verse" id="v3_3"><sup class="vn"><a href="#v3_3">3</a></sup>Spotkali mnie strażnicy, którzy obchodzą miasto.<br>«Czy widzieliście miłego duszy mej?»<br></span>
@@ -229,7 +242,6 @@ article.introduction {
 <section class="chapter" id="v4">
 <h2><a href="PnP.html" title="Pieśń nad Pieśniami">Pnp</a> | <a href="PnP.html#v4">Rozdział 4</a></h2>
 <div class="verses">
-<h3></h3>
 <span class="verse" id="v4_1"><sup class="vn"><a href="#v4_1">1</a></sup><span class="speaker">Oblubieniec:</span>O jak piękna jesteś, przyjaciółko moja,<br>jakże piękna!<br>Oczy twe jak gołębice<br>za twoją zasłoną.<br>Włosy twe jak stado kóz<br>falujące na górach Gileadu<sup>s</sup>.<br></span>
 <span class="verse" id="v4_2"><sup class="vn"><a href="#v4_2">2</a></sup>Zęby twe jak stado owiec strzyżonych,<br>gdy wychodzą z kąpieli;<br>każda z nich ma bliźniaczą,<br>nie brak żadnej.<br></span>
 <span class="verse" id="v4_3"><sup class="vn"><a href="#v4_3">3</a></sup>Jak wstążeczka purpury wargi twe<br>i mowa twa pełna wdzięku.<br>Jak okrawek granatu skroń twoja<br>za twoją zasłoną.<br></span>
@@ -264,7 +276,6 @@ article.introduction {
 <section class="chapter" id="v5">
 <h2><a href="PnP.html" title="Pieśń nad Pieśniami">Pnp</a> | <a href="PnP.html#v5">Rozdział 5</a></h2>
 <div class="verses">
-<h3></h3>
 <span class="verse" id="v5_1"><sup class="vn"><a href="#v5_1">1</a></sup><span class="speaker">Oblubieniec:</span>Wchodzę do mego ogrodu, siostro ma, oblubienico;<br>zbieram mirrę mą z moim balsamem;<br>spożywam plaster z miodem moim;<br>piję wino moje wraz z mlekiem moim.<br>Jedzcie, przyjaciele, pijcie,<br>upajajcie się, najdrożsi!<br></span>
 <h4>PIEŚŃ CZWARTA</h4>
 <span class="verse" id="v5_2"><sup class="vn"><a href="#v5_2">2</a></sup><span class="speaker">Oblubienica:</span>Ja śpię, lecz serce me czuwa.<br>Dźwięk! Miły mój puka!<br>«Otwórz mi, siostro moja, przyjaciółko moja,<br>gołąbko moja, ty moja nieskalana,<br>bo pełna rosy ma głowa<br>i kędziory me - kropli nocy».<br></span>
@@ -300,7 +311,6 @@ article.introduction {
 <section class="chapter" id="v6">
 <h2><a href="PnP.html" title="Pieśń nad Pieśniami">Pnp</a> | <a href="PnP.html#v6">Rozdział 6</a></h2>
 <div class="verses">
-<h3></h3>
 <span class="verse" id="v6_1"><sup class="vn"><a href="#v6_1">1</a></sup><span class="speaker">Chór:</span>Dokąd odszedł twój umiłowany,<br>o najpiękniejsza z niewiast?<br>W którą zwrócił się stronę miły twój,<br>byśmy go wraz z tobą szukały?<br></span>
 <span class="verse" id="v6_2"><sup class="vn"><a href="#v6_2">2</a></sup><span class="speaker">Oblubienica:</span>Miły mój zszedł do swego ogrodu,<br>ku kwietnikom balsamicznym,<br>aby paść [stado swoje] w ogrodach<br>i zbierać lilie.<br></span>
 <span class="verse" id="v6_3"><sup class="vn"><a href="#v6_3">3</a></sup>Jam miłego mego, a mój miły jest mój,<br>on [stado swoje] pasie wśród lilii.<br></span>
@@ -328,7 +338,6 @@ article.introduction {
 <section class="chapter" id="v7">
 <h2><a href="PnP.html" title="Pieśń nad Pieśniami">Pnp</a> | <a href="PnP.html#v7">Rozdział 7</a></h2>
 <div class="verses">
-<h3></h3>
 <span class="verse" id="v7_1"><sup class="vn"><a href="#v7_1">1</a></sup><span class="speaker">Chór I:</span>Wróć się, wróć, Szulamitko,<br>wróć się, wróć się, niech się twym widokiem nacieszymy!<br></span>
 <span class="verse" id="v7_2"><sup class="vn"><a href="#v7_2">2</a></sup><span class="speaker">Chór II:</span><span class="speaker">Obydwa chóry:</span>Jak piękne są twe stopy w sandałach,<br>księżniczko!<br>Linia twych bioder jak kolia,<br>dzieło rąk mistrza.<br></span>
 <span class="verse" id="v7_3"><sup class="vn"><a href="#v7_3">3</a></sup>Łono twe - jak czasza okrągła,<br>niechaj nie zbraknie w niej wina korzennego!<br>Brzuch twój jak stos pszenicznego ziarna<br>okolony wiankiem lilii.<br></span>
@@ -357,7 +366,6 @@ article.introduction {
 <section class="chapter" id="v8">
 <h2><a href="PnP.html" title="Pieśń nad Pieśniami">Pnp</a> | <a href="PnP.html#v8">Rozdział 8</a></h2>
 <div class="verses">
-<h3></h3>
 <span class="verse" id="v8_1"><sup class="vn"><a href="#v8_1">1</a></sup>O gdybyś był moim bratem,<br>który ssał pierś mojej matki,<br>ucałowałabym cię, spotkawszy na ulicy,<br>i nikt by mną nie mógł pogardzić.<br></span>
 <span class="verse" id="v8_2"><sup class="vn"><a href="#v8_2">2</a></sup>Powiodłabym cię i wprowadziła<br>w dom matki mej, która mnie wychowała;<br>napoiłabym cię winem korzennym,<br>moszczem z granatów.<br></span>
 <span class="verse" id="v8_3"><sup class="vn"><a href="#v8_3">3</a></sup>Lewa jego ręka pod głową moją,<br>a prawica jego obejmuje mnie.<br></span>
@@ -405,24 +413,85 @@ article.introduction {
     switcher.appendChild(b);
   });
   var RE = /^vv(\d+_[0-9A-Za-z_.-]+)__(\d+_[0-9A-Za-z_.-]+)$/;
+  var RE_SINGLE = /^v(\d+_[0-9A-Za-z_.-]+)$/;
+  var armed = null;
   function clearSel() {
     document.querySelectorAll('span.verse.sel').forEach(function (el) {
       el.classList.remove('sel');
     });
+  }
+  function disarm() {
+    armed = null;
+    document.body.classList.remove('range-armed');
+    document.querySelectorAll('span.verse.armed-start').forEach(function (el) {
+      el.classList.remove('armed-start');
+    });
+  }
+  function arm(id) {
+    disarm();
+    armed = id;
+    document.body.classList.add('range-armed');
+    var el = document.getElementById(id);
+    if (el) el.classList.add('armed-start');
+  }
+  function verseIndex(verses, id) {
+    return verses.findIndex(function (el) { return el.id === id; });
+  }
+  function buildRange(a, b) {
+    var verses = Array.from(document.querySelectorAll('span.verse'));
+    var i1 = verseIndex(verses, a);
+    var i2 = verseIndex(verses, b);
+    if (i1 < 0 || i2 < 0) return;
+    if (i1 === i2) { location.hash = '#' + a; return; }
+    if (i1 > i2) { var t = i1; i1 = i2; i2 = t; }
+    location.hash = '#vv' + verses[i1].id.slice(1) + '__' + verses[i2].id.slice(1);
   }
   function applyRange() {
     clearSel();
     var m = RE.exec(location.hash.slice(1));
     if (!m) return;
     var verses = Array.from(document.querySelectorAll('span.verse'));
-    var i1 = verses.findIndex(function (el) { return el.id === 'v' + m[1]; });
-    var i2 = verses.findIndex(function (el) { return el.id === 'v' + m[2]; });
+    var i1 = verseIndex(verses, 'v' + m[1]);
+    var i2 = verseIndex(verses, 'v' + m[2]);
     if (i1 < 0 || i2 < 0) return;
-    if (i1 > i2) return;
+    if (i1 > i2) { var t = i1; i1 = i2; i2 = t; }
     verses.slice(i1, i2 + 1).forEach(function (el) { el.classList.add('sel'); });
     verses[i1].scrollIntoView({ block: 'start' });
   }
-  window.addEventListener('hashchange', applyRange);
+  document.querySelectorAll('sup.vn a').forEach(function (a) {
+    a.title = 'Kliknij, aby zaznaczyć. Kliknij ponownie, aby zaznaczyć zakres.';
+  });
+  document.addEventListener('click', function (e) {
+    try { if (window.getSelection && String(window.getSelection())) return; } catch (err) {}
+    if (e.target.closest && e.target.closest('.font-switcher')) return;
+    var verseEl = e.target.closest ? e.target.closest('span.verse') : null;
+    var numLink = e.target.closest ? e.target.closest('sup.vn a') : null;
+    if (armed) {
+      if (!verseEl) return;
+      e.preventDefault();
+      var target = verseEl.id;
+      if (target === armed) { disarm(); return; }
+      var a = armed;
+      disarm();
+      buildRange(a, target);
+      return;
+    }
+    var cur = RE_SINGLE.exec(location.hash.slice(1));
+    var curId = cur ? 'v' + cur[1] : null;
+    if (numLink && curId && numLink.getAttribute('href') === location.hash) {
+      e.preventDefault();
+      arm(curId);
+      return;
+    }
+    if (e.shiftKey && verseEl && curId && verseEl.id !== curId) {
+      e.preventDefault();
+      buildRange(curId, verseEl.id);
+    }
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') disarm();
+  });
+  window.addEventListener('hashchange', function () { disarm(); applyRange(); });
   document.addEventListener('DOMContentLoaded', applyRange);
   applyRange();
 })();
