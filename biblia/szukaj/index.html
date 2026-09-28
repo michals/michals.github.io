@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try {
+  var s = localStorage.getItem('btv-font-size');
+  if (s) document.documentElement.style.fontSize = s + 'px';
+} catch (e) {}
+</script>
+<title>Biblia Tysiąclecia — Szukaj wersetów i perykop</title>
+<link rel="stylesheet" href="css/search.css">
+</head>
+<body>
+
+<header class="site">
+  <p class="site-title"><a href="./">Wyszukiwarka Biblijna</a></p>
+  <div class="header-nav">
+    <a class="nav-link" href="../index.html" title="Przejdź do spisu ksiąg">📖 Spis ksiąg</a>
+    <div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div>
+  </div>
+</header>
+
+<div class="progress-card" id="progressCard">
+  <div class="progress-header">
+    <span id="progressStatus">Wczytywanie bazy Pisma Świętego...</span>
+    <span id="progressPercent">0%</span>
+  </div>
+  <div class="progress-bar-bg">
+    <div class="progress-bar-fill" id="progressBarFill"></div>
+  </div>
+</div>
+
+<main>
+  <div class="search-box-wrapper">
+    <div class="search-input-group">
+      <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+      <input
+        type="search"
+        id="searchInput"
+        class="search-input"
+        placeholder="Wpisz szukane słowa (np. ojciec sadoka, jezus studnia kobieta, )..."
+        autocomplete="off"
+        autocorrect="off"
+        spellcheck="false"
+      >
+    </div>
+
+    <div class="examples-row" id="examplesRow">
+      <span>Przykłady:</span>
+      <button type="button" class="chip" data-query="ojciec sadoka">ojciec sadoka</button>
+      <button type="button" class="chip" data-query="talenty złota">talenty złota</button>
+      <button type="button" class="chip" data-query="piękna przyjaciółka">piękna przyjaciółka</button>
+      <button type="button" class="chip" data-query="piotr łowił ryby">piotr łowił ryby</button>
+      <button type="button" class="chip" data-query="nowe jeruzalem">nowe jeruzalem</button>
+    </div>
+  </div>
+
+  <div class="controls-container">
+    <div class="control-group">
+      <span class="control-label">Szukaj:</span>
+      <div class="btn-group" role="group" aria-label="Zakres wyszukiwania">
+        <button type="button" id="btnModeVerses" data-mode="verses">Wersety</button>
+        <button type="button" id="btnModePericopes" data-mode="pericopes">Perykopy</button>
+        <button type="button" id="btnModeAll" class="active" data-mode="all">Wszystko</button>
+      </div>
+    </div>
+
+    <div class="control-group">
+      <label for="bookGroupSelect" class="control-label">Księgi:</label>
+      <select id="bookGroupSelect" class="book-select" aria-label="Wybierz grupę ksiąg lub konkretną księgę">
+        <option value="all">Wszystkie księgi</option>
+      </select>
+    </div>
+
+    <div class="control-group">
+      <label for="limitSelect" class="control-label">Maksymalnie wyników:</label>
+      <select id="limitSelect" class="book-select" aria-label="Maksymalna liczba wyników">
+        <option value="5">5</option>
+        <option value="10" selected>10</option>
+        <option value="30">30</option>
+        <option value="50">50</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="results-info" id="resultsInfo" style="display: none;">
+    <div id="resultsCount" class="results-count"></div>
+    <div id="resultsTiming" class="results-timing"></div>
+  </div>
+
+  <div class="results-list" id="resultsList"></div>
+</main>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
