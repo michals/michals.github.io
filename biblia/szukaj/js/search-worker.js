@@ -35,7 +35,7 @@ self.onmessage = async function (e) {
           console.warn("Fetch failed, attempting offline IndexedDB fallback:", netErr);
         }
 
-        const CACHE_SCHEMA_VERSION = "v2";
+        const CACHE_SCHEMA_VERSION = "v3";
         let versionKey = null;
         if (buffer) {
           const hash = await computeDataHash(buffer);
@@ -54,7 +54,7 @@ self.onmessage = async function (e) {
         self.postMessage({ type: "status", message: "Sprawdzanie pamięci podręcznej...", progress: 20 });
         const cached = await getCachedIndex(versionKey);
 
-        if (cached) {
+        if (cached && cached.books && cached.books.length > 0) {
           // CACHE HIT! Instant restore in ~50-100ms
           self.postMessage({ type: "status", message: "Wczytywanie gotowego indeksu z pamięci podręcznej...", progress: 70 });
 
@@ -158,55 +158,74 @@ self.onmessage = async function (e) {
         return;
       }
 
-      const { id, query, mode = "all", filter = "all", limit = 30 } = data;
-      const t0 = performance.now();
+      try {
+        const { id, query, mode = "all", filter = "all", limit = 30 } = data;
+        const t0 = performance.now();
 
-      const filterFn = (doc) => {
-        if (!filter || filter === "all" || filter === "ALL") return true;
-        if (filter.startsWith("testament:")) {
-          const t = filter.split(":")[1];
-          return doc.testament === t;
-        }
-        if (filter.startsWith("book:")) {
-          const b = filter.split(":")[1];
-          return doc.book.toLowerCase() === b.toLowerCase();
-        }
-        if (filter === "cat:pentateuch") return doc.testament === "ST" && doc.cat === "pentateuch";
-        if (filter === "cat:history-st") return doc.testament === "ST" && doc.cat === "history";
-        if (filter === "cat:wisdom-st") return doc.testament === "ST" && doc.cat === "wisdom";
-        if (filter === "cat:prophets-st") return doc.testament === "ST" && doc.cat === "prophets";
-        if (filter === "cat:gospels") return doc.testament === "NT" && doc.cat === "gospels";
-        if (filter === "cat:history-nt") return doc.testament === "NT" && (doc.cat === "history" || doc.book === "Dz");
-        if (filter === "cat:letters") return doc.testament === "NT" && doc.cat === "letters";
-        if (filter === "cat:prophets-nt") return doc.testament === "NT" && (doc.cat === "prophets" || doc.book === "Ap");
-        return true;
-      };
+        const normMode = (mode === "v" || mode === "verses")
+          ? "verses"
+          : (mode === "p" || mode === "pericopes")
+            ? "pericopes"
+            : "all";
 
-      let results = [];
-      if (mode === "verses") {
-        results = verseIndex.search(query, { limit, filterFn });
-      } else if (mode === "pericopes") {
-        results = pericopeIndex.search(query, { limit, filterFn });
-      } else {
-        // "all": query both, then sort by BM25 score
-        const vHits = verseIndex.search(query, { limit, filterFn });
-        const pHits = pericopeIndex.search(query, { limit, filterFn });
-        results = [...vHits, ...pHits]
-          .sort((a, b) => b.score - a.score)
-          .slice(0, limit);
+        const filterFn = (doc) => {
+          if (!filter || filter === "all" || filter === "ALL") return true;
+          const normFilter = filter.replace(":", "-");
+          if (normFilter.startsWith("testament-")) {
+            const t = normFilter.slice("testament-".length).trim().toUpperCase();
+            return doc.testament === t;
+          }
+          if (normFilter.startsWith("book-")) {
+            const b = normFilter.slice("book-".length).replace(/\s+/g, "").toLowerCase();
+            return !!(doc.book && doc.book.replace(/\s+/g, "").toLowerCase() === b);
+          }
+          if (normFilter === "cat-pentateuch") return doc.testament === "ST" && doc.cat === "pentateuch";
+          if (normFilter === "cat-history-st") return doc.testament === "ST" && doc.cat === "history";
+          if (normFilter === "cat-wisdom-st") return doc.testament === "ST" && doc.cat === "wisdom";
+          if (normFilter === "cat-prophets-st") return doc.testament === "ST" && doc.cat === "prophets";
+          if (normFilter === "cat-gospels") return doc.testament === "NT" && doc.cat === "gospels";
+          if (normFilter === "cat-history-nt") return doc.testament === "NT" && (doc.cat === "history" || doc.book === "Dz");
+          if (normFilter === "cat-letters") return doc.testament === "NT" && doc.cat === "letters";
+          if (normFilter === "cat-prophets-nt") return doc.testament === "NT" && (doc.cat === "prophets" || doc.book === "Ap");
+          return false;
+        };
+
+        let results = [];
+        if (normMode === "verses") {
+          results = verseIndex.search(query, { limit, filterFn });
+        } else if (normMode === "pericopes") {
+          results = pericopeIndex.search(query, { limit, filterFn });
+        } else {
+          // "all": query both, then sort by BM25 score
+          const vHits = verseIndex.search(query, { limit, filterFn });
+          const pHits = pericopeIndex.search(query, { limit, filterFn });
+          results = [...vHits, ...pHits]
+            .sort((a, b) => b.score - a.score)
+            .slice(0, limit);
+        }
+
+        const t1 = performance.now();
+        const queryStems = Array.from(new Set(tokenize(query, stemmer)));
+
+        self.postMessage({
+          type: "results",
+          id,
+          query,
+          results,
+          queryStems,
+          durationMs: t1 - t0
+        });
+      } catch (err) {
+        console.error("Search worker error:", err);
+        self.postMessage({
+          type: "results",
+          id: data.id,
+          query: data.query,
+          results: [],
+          queryStems: [],
+          error: err.message
+        });
       }
-
-      const t1 = performance.now();
-      const queryStems = Array.from(new Set(tokenize(query, stemmer)));
-
-      self.postMessage({
-        type: "results",
-        id,
-        query,
-        results,
-        queryStems,
-        durationMs: t1 - t0
-      });
       break;
     }
   }

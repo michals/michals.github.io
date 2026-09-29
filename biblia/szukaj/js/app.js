@@ -12,13 +12,11 @@ const progressCard = document.getElementById("progressCard");
 const progressStatus = document.getElementById("progressStatus");
 const progressPercent = document.getElementById("progressPercent");
 const progressBarFill = document.getElementById("progressBarFill");
-const resultsInfo = document.getElementById("resultsInfo");
-const resultsCount = document.getElementById("resultsCount");
-const resultsTiming = document.getElementById("resultsTiming");
 const resultsList = document.getElementById("resultsList");
 const bookGroupSelect = document.getElementById("bookGroupSelect");
 const limitSelect = document.getElementById("limitSelect");
 const examplesRow = document.getElementById("examplesRow");
+const bottomControls = document.getElementById("bottomControls");
 
 const modeButtons = {
   all: document.getElementById("btnModeAll"),
@@ -73,17 +71,17 @@ function populateBookGroups(books) {
   // 1. General presets
   const optAll = document.createElement("option");
   optAll.value = "all";
-  optAll.textContent = "Wszystkie księgi (cała Biblia)";
+  optAll.textContent = "Cała Biblia";
   bookGroupSelect.appendChild(optAll);
 
   const optST = document.createElement("option");
-  optST.value = "testament:ST";
-  optST.textContent = "Stary Testament (cały — 46 ksiąg)";
+  optST.value = "testament-ST";
+  optST.textContent = "Stary Testament";
   bookGroupSelect.appendChild(optST);
 
   const optNT = document.createElement("option");
-  optNT.value = "testament:NT";
-  optNT.textContent = "Nowy Testament (cały — 27 ksiąg)";
+  optNT.value = "testament-NT";
+  optNT.textContent = "Nowy Testament";
   bookGroupSelect.appendChild(optNT);
 
   // 2. Canonical groups (matching biblia/index.html categories)
@@ -91,14 +89,14 @@ function populateBookGroups(books) {
   optGroupCats.label = "Grupy ksiąg (zbiory)";
 
   const groups = [
-    { value: "cat:pentateuch", label: "Pięcioksiąg (Rdz – Pwt)" },
-    { value: "cat:history-st", label: "Księgi historyczne ST (Joz – 2 Mch)" },
-    { value: "cat:wisdom-st", label: "Dydaktyczne / Mądrościowe ST (Hi – Syr)" },
-    { value: "cat:prophets-st", label: "Prorockie ST (Iz – Ml)" },
-    { value: "cat:gospels", label: "Ewangelie (Mt – J)" },
-    { value: "cat:history-nt", label: "Dzieje Apostolskie (Dz)" },
-    { value: "cat:letters", label: "Listy Apostolskie (Rz – Jud)" },
-    { value: "cat:prophets-nt", label: "Apokalipsa św. Jana (Ap)" }
+    { value: "cat-pentateuch", label: "Pięcioksiąg"},
+    { value: "cat-history-st", label: "Księgi historyczne ST" },
+    { value: "cat-wisdom-st", label: "Mądrościowe ST" },
+    { value: "cat-prophets-st", label: "Prorockie ST" },
+    { value: "cat-gospels", label: "Ewangelie" },
+    { value: "cat-history-nt", label: "Dzieje Apostolskie" },
+    { value: "cat-letters", label: "Listy Apostolskie" },
+    { value: "cat-prophets-nt", label: "Apokalipsa św. Jana" }
   ];
 
   groups.forEach((g) => {
@@ -114,7 +112,7 @@ function populateBookGroups(books) {
   optGroupST.label = "Stary Testament (pojedyncze księgi)";
   books.filter(b => b.testament === "ST").forEach((b) => {
     const opt = document.createElement("option");
-    opt.value = `book:${b.short}`;
+    opt.value = `book-${b.short.replace(/\s+/g, "")}`;
     opt.textContent = `${b.title} (${b.short})`;
     optGroupST.appendChild(opt);
   });
@@ -125,7 +123,7 @@ function populateBookGroups(books) {
   optGroupNT.label = "Nowy Testament (pojedyncze księgi)";
   books.filter(b => b.testament === "NT").forEach((b) => {
     const opt = document.createElement("option");
-    opt.value = `book:${b.short}`;
+    opt.value = `book-${b.short.replace(/\s+/g, "")}`;
     opt.textContent = `${b.title} (${b.short})`;
     optGroupNT.appendChild(opt);
   });
@@ -136,7 +134,7 @@ function populateBookGroups(books) {
 function initEngine() {
   let workerSupported = false;
   try {
-    worker = new Worker("js/search-worker.js", { type: "module" });
+    worker = new Worker("js/search-worker.js?v=2.3", { type: "module" });
     workerSupported = true;
   } catch (err) {
     console.warn("Web Worker unavailable, falling back to main-thread execution:", err);
@@ -221,29 +219,33 @@ async function initMainThreadFallback() {
 
 function matchesFilter(doc, filter) {
   if (!filter || filter === "all" || filter === "ALL") return true;
-  if (filter.startsWith("testament:")) {
-    return doc.testament === filter.split(":")[1];
+  const normFilter = filter.replace(":", "-");
+  if (normFilter.startsWith("testament-")) {
+    const t = normFilter.slice("testament-".length).trim().toUpperCase();
+    return doc.testament === t;
   }
-  if (filter.startsWith("book:")) {
-    return doc.book.toLowerCase() === filter.split(":")[1].toLowerCase();
+  if (normFilter.startsWith("book-")) {
+    const b = normFilter.slice("book-".length).replace(/\s+/g, "").toLowerCase();
+    return !!(doc.book && doc.book.replace(/\s+/g, "").toLowerCase() === b);
   }
-  if (filter === "cat:pentateuch") return doc.testament === "ST" && doc.cat === "pentateuch";
-  if (filter === "cat:history-st") return doc.testament === "ST" && doc.cat === "history";
-  if (filter === "cat:wisdom-st") return doc.testament === "ST" && doc.cat === "wisdom";
-  if (filter === "cat:prophets-st") return doc.testament === "ST" && doc.cat === "prophets";
-  if (filter === "cat:gospels") return doc.testament === "NT" && doc.cat === "gospels";
-  if (filter === "cat:history-nt") return doc.testament === "NT" && (doc.cat === "history" || doc.book === "Dz");
-  if (filter === "cat:letters") return doc.testament === "NT" && doc.cat === "letters";
-  if (filter === "cat:prophets-nt") return doc.testament === "NT" && (doc.cat === "prophets" || doc.book === "Ap");
-  return true;
+  if (normFilter === "cat-pentateuch") return doc.testament === "ST" && doc.cat === "pentateuch";
+  if (normFilter === "cat-history-st") return doc.testament === "ST" && doc.cat === "history";
+  if (normFilter === "cat-wisdom-st") return doc.testament === "ST" && doc.cat === "wisdom";
+  if (normFilter === "cat-prophets-st") return doc.testament === "ST" && doc.cat === "prophets";
+  if (normFilter === "cat-gospels") return doc.testament === "NT" && doc.cat === "gospels";
+  if (normFilter === "cat-history-nt") return doc.testament === "NT" && (doc.cat === "history" || doc.book === "Dz");
+  if (normFilter === "cat-letters") return doc.testament === "NT" && doc.cat === "letters";
+  if (normFilter === "cat-prophets-nt") return doc.testament === "NT" && (doc.cat === "prophets" || doc.book === "Ap");
+  return false;
 }
 
 function triggerSearch() {
   const query = searchInput.value.trim();
 
   if (!isReady || !query) {
-    if (resultsInfo) resultsInfo.style.display = "none";
     if (resultsList) resultsList.innerHTML = "";
+    if (examplesRow) examplesRow.style.display = "flex";
+    if (bottomControls) bottomControls.style.display = "none";
     updateUrlParams();
     return;
   }
@@ -299,13 +301,11 @@ function getDocUrl(url) {
 }
 
 function renderResults({ query, results, queryStems, durationMs }) {
-  if (!resultsList || !resultsInfo) return;
-
-  resultsInfo.style.display = "flex";
-  resultsCount.textContent = `Wyniki dla: „${query}” (${results.length})`;
-  resultsTiming.textContent = `${durationMs.toFixed(1)} ms`;
+  if (!resultsList) return;
 
   if (results.length === 0) {
+    if (examplesRow) examplesRow.style.display = "none";
+    if (bottomControls) bottomControls.style.display = "none";
     resultsList.innerHTML = `
       <div class="empty-state">
         <div class="empty-state-icon">🔍</div>
@@ -315,6 +315,9 @@ function renderResults({ query, results, queryStems, durationMs }) {
     `;
     return;
   }
+
+  if (examplesRow) examplesRow.style.display = "none";
+  if (bottomControls) bottomControls.style.display = "flex";
 
   const stemmer = new PolishSnowballStemmer();
 
@@ -353,7 +356,7 @@ function renderResults({ query, results, queryStems, durationMs }) {
 
         passageHtml = `
           <div class="passage has-more">
-            <span class="text-content">${allVersesHtml} <span class="collapse-hint">[zwiń]</span></span>
+            <span class="text-content" title="Kliknij, aby rozwinąć lub zwinąć fragment">${allVersesHtml} <span class="collapse-hint">[zwiń]</span></span>
           </div>
         `;
       } else if (verses && verses.length === 1) {
@@ -373,14 +376,11 @@ function renderResults({ query, results, queryStems, durationMs }) {
 
       const docUrl = getDocUrl(doc.url);
       return `
-        <article class="result-card" data-index="${index}" title="Kliknij, aby rozwinąć lub zwinąć fragment">
+        <article class="result-card" data-index="${index}">
           <div class="result-header">
             <span class="result-rank">${rank}.</span>
             <span class="result-score" title="Wynik trafności (BM25: ${r.score.toFixed(2)})">${pctString}</span>
-            <span class="result-ref">${refTitle}</span>
-            <a class="open-link" href="${docUrl}" target="_blank" rel="noopener" title="Otwórz tę perykopę w Biblii w nowej karcie">
-              Otwórz ↗
-            </a>
+            <a class="result-ref" href="${docUrl}" target="_new" rel="noopener" title="Otwórz w Biblii">${refTitle}</a>
           </div>
           <div class="pericope-title-highlight">${highlightedTitle}</div>
           ${passageHtml}
@@ -391,14 +391,11 @@ function renderResults({ query, results, queryStems, durationMs }) {
       const docUrl = getDocUrl(doc.url);
       const highlightedVerse = highlightText(doc.text, stemsSet, stemmer);
       return `
-        <article class="result-card" data-index="${index}" title="Kliknij, aby rozwinąć lub zwinąć fragment">
+        <article class="result-card" data-index="${index}">
           <div class="result-header">
             <span class="result-rank">${rank}.</span>
             <span class="result-score" title="Wynik trafności (BM25: ${r.score.toFixed(2)})">${pctString}</span>
-            <span class="result-ref">${refTitle}</span>
-            <a class="open-link" href="${docUrl}" target="_blank" rel="noopener" title="Otwórz ten werset w Biblii w nowej karcie">
-              Otwórz ↗
-            </a>
+            <a class="result-ref" href="${docUrl}" target="_new" rel="noopener" title="Otwórz w Biblii">${refTitle}</a>
           </div>
           <div class="passage">
             <span class="text-content"><sup class="vn">${doc.verse}</sup>${highlightedVerse}</span>
@@ -410,20 +407,19 @@ function renderResults({ query, results, queryStems, durationMs }) {
 
   resultsList.innerHTML = html;
 
-  // Click on the entire result card to toggle expand/collapse
-  resultsList.querySelectorAll(".result-card").forEach((card) => {
-    card.addEventListener("click", (e) => {
+  // Click on .text-content of multi-verse pericopes to toggle expand/collapse
+  resultsList.querySelectorAll(".passage.has-more .text-content").forEach((textContent) => {
+    textContent.addEventListener("click", (e) => {
       // Do not toggle if user clicked on a link or is selecting text
       if (e.target.closest("a") || (window.getSelection && window.getSelection().toString().length > 0)) {
         return;
       }
+      const card = textContent.closest(".result-card");
+      if (!card) return;
       const wasExpanded = card.classList.contains("expanded");
       card.classList.toggle("expanded");
       if (wasExpanded) {
-        const textContent = card.querySelector(".text-content");
-        if (textContent) {
-          textContent.scrollTop = 0;
-        }
+        textContent.scrollTop = 0;
       }
     });
   });
@@ -431,44 +427,70 @@ function renderResults({ query, results, queryStems, durationMs }) {
 
 function updateUrlParams() {
   const query = searchInput.value.trim();
-  const url = new URL(window.location);
-  if (query) url.searchParams.set("q", query);
-  else url.searchParams.delete("q");
+  const sp = new URLSearchParams();
 
-  if (currentMode !== "all") url.searchParams.set("mode", currentMode);
-  else url.searchParams.delete("mode");
+  // Mode: m (p = pericopes, v = verses, omitted if all)
+  if (currentMode === "pericopes") sp.set("m", "p");
+  else if (currentMode === "verses") sp.set("m", "v");
 
-  if (currentFilter !== "all") url.searchParams.set("filter", currentFilter);
-  else url.searchParams.delete("filter");
+  // Filter: f (omitted if all)
+  if (currentFilter && currentFilter !== "all") sp.set("f", currentFilter);
 
-  if (currentLimit !== 10) url.searchParams.set("limit", String(currentLimit));
-  else url.searchParams.delete("limit");
+  // Limit: l (omitted if default 10)
+  if (currentLimit !== 10) sp.set("l", String(currentLimit));
 
-  window.history.replaceState({}, "", url);
+  // Query: q - always placed at the very end
+  if (query) sp.set("q", query);
+
+  const searchStr = sp.toString();
+  const newUrl = window.location.pathname + (searchStr ? "?" + searchStr : "") + window.location.hash;
+  window.history.replaceState({}, "", newUrl);
 }
 
 function checkInitialUrl() {
   const params = new URLSearchParams(window.location.search);
-  const q = params.get("q");
-  const mode = params.get("mode");
-  const filter = params.get("filter");
-  const limit = params.get("limit");
+  const q = params.get("q") || "";
 
-  if (mode && modeButtons[mode]) {
+  // Mode: accept short 'm' (p, v, all) with fallback to legacy 'mode' (pericopes, verses, all)
+  const rawMode = params.get("m") || params.get("mode") || "all";
+  let mode = "all";
+  if (rawMode === "p" || rawMode === "pericopes") mode = "pericopes";
+  else if (rawMode === "v" || rawMode === "verses") mode = "verses";
+
+  // Filter: accept short 'f' with fallback to legacy 'filter'
+  const rawFilter = params.get("f") || params.get("filter") || "all";
+  let filter = rawFilter.replace(":", "-");
+  if (filter.startsWith("book-")) {
+    const bSlug = filter.slice("book-".length).replace(/\s+/g, "");
+    filter = `book-${bSlug}`;
+  }
+
+  // Limit: accept short 'l' with fallback to legacy 'limit'
+  const limit = params.get("l") || params.get("limit") || "10";
+
+  if (modeButtons[mode]) {
     setMode(mode, false);
   }
-  if (filter && bookGroupSelect) {
+  if (bookGroupSelect) {
     bookGroupSelect.value = filter;
-    currentFilter = filter;
+    if (!bookGroupSelect.value) {
+      const opt = Array.from(bookGroupSelect.options).find(o =>
+        o.value.replace(/\s+/g, "").toLowerCase() === filter.replace(/\s+/g, "").toLowerCase()
+      );
+      if (opt) {
+        bookGroupSelect.value = opt.value;
+      }
+    }
+    currentFilter = bookGroupSelect.value || filter;
   }
-  if (limit && limitSelect) {
+  if (limitSelect) {
     limitSelect.value = limit;
     currentLimit = parseInt(limit, 10) || 10;
   }
-  if (q) {
-    searchInput.value = q;
-    triggerSearch();
-  } else {
+
+  searchInput.value = q;
+  triggerSearch();
+  if (!q) {
     searchInput.focus();
   }
 }
@@ -497,16 +519,20 @@ searchInput.addEventListener("keydown", (e) => {
   }
 });
 
-// Example chips
+// Example chips navigation & history popstate
 if (examplesRow) {
   examplesRow.addEventListener("click", (e) => {
-    const chip = e.target.closest(".chip");
-    if (chip && chip.dataset.query) {
-      searchInput.value = chip.dataset.query;
-      triggerSearch();
-    }
+    const chip = e.target.closest("a.chip");
+    if (!chip || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button !== 0) return;
+    e.preventDefault();
+    window.history.pushState({}, "", chip.href);
+    checkInitialUrl();
   });
 }
+
+window.addEventListener("popstate", () => {
+  checkInitialUrl();
+});
 
 // Mode segmented buttons
 Object.keys(modeButtons).forEach((key) => {
