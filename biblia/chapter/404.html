@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Przekierowanie... — Biblia Tysiąclecia</title>
+<script>
+(function() {
+  var path = window.location.pathname;
+  // Match e.g. /Rdz/3/14 or /Rdz/3/14-20 or /Rdz/3/2,24-3,3
+  var m = path.match(/(.*?\/)?([0-9A-Za-z]+)\/(\d+)\/([0-9A-Za-z_.,-]+)\/?$/);
+  if (m) {
+    var prefix = m[1] || '';
+    var book = m[2];
+    var ch = m[3];
+    var frag = m[4];
+    var target = prefix + book + '/' + ch + '/#' + frag;
+    window.location.replace(target);
+  }
+})();
+</script>
+<style>
+body { font-family: -apple-system, 'Segoe UI', sans-serif; text-align: center; padding: 3rem 1rem; color: #444; }
+a { color: #0000aa; }
+</style>
+</head>
+<body>
+<h1>Przekierowanie...</h1>
+<p>Jeśli strona nie otworzy się automatycznie, przejdź do <a href="index.html">indeksu ksiąg Biblii</a>.</p>
+</body>
+</html>

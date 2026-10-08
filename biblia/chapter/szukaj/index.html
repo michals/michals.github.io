@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+try {
+  var s = localStorage.getItem('btv-font-size');
+  if (s) document.documentElement.style.fontSize = s + 'px';
+} catch (e) {}
+</script>
+<title>Biblia Tysiąclecia - wyszukiwanie</title>
+<link rel="stylesheet" href="css/search.css">
+</head>
+<body>
+
+<header class="site">
+  <p class="site-title"><a href="../index.html">Biblia Tysiąclecia</a> 🔍</p>
+  <div class="header-nav">
+    <div class="font-switcher" role="group" aria-label="Rozmiar czcionki"></div>
+  </div>
+</header>
+
+<div class="progress-card" id="progressCard">
+  <div class="progress-header">
+    <span id="progressStatus">Wczytywanie bazy Pisma Świętego...</span>
+    <span id="progressPercent">0%</span>
+  </div>
+  <div class="progress-bar-bg">
+    <div class="progress-bar-fill" id="progressBarFill"></div>
+  </div>
+</div>
+
+<main>
+
+  <div class="search-widget">
+    <div class="search-box-wrapper">
+      <div class="search-input-group">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input
+          type="search"
+          id="searchInput"
+          class="search-input"
+          placeholder="Wpisz szukane słowa (np. ojciec sadoka)"
+          autocomplete="off"
+          autocorrect="off"
+          spellcheck="false"
+        >
+      </div>
+    </div>
+    <div class="controls-container">
+      <div class="control-group">
+        <div class="btn-group" role="group" aria-label="Zakres wyszukiwania">
+          <button type="button" id="btnModeVerses" data-mode="verses">Wersety</button>
+          <button type="button" id="btnModePericopes" data-mode="pericopes">Perykopy</button>
+          <button type="button" id="btnModeAll" class="active" data-mode="all">Wszystko</button>
+        </div>
+      </div>
+
+      <div class="control-group">
+        <select id="bookGroupSelect" class="book-select" aria-label="Wybierz grupę ksiąg lub konkretną księgę">
+          <option value="all">Wszystkie księgi</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="examples-row" id="examplesRow">
+    <span>Przykłady wyszukiwań:</span>
+    <a href="?q=ojciec+sadoka" class="chip">ojciec sadoka</a>
+    <a href="?m=p&amp;f=cat-gospels&amp;q=Jezus+kobieta" class="chip">Ewangelie (perykopy): Jezus kobieta</a>
+    <a href="?f=book-Pnp&amp;q=pi%C4%99kna+przyjaci%C3%B3%C5%82ka" class="chip">Pieśń nad Pieśniami: piękna przyjaciółka</a>
+    <a href="?m=v&amp;f=testament-ST&amp;q=talenty+z%C5%82ota" class="chip">Stary Testament: talenty złota</a>
+    <a href="?f=book-1Kor&amp;q=hymn+o+mi%C5%82o%C5%9Bci" class="chip">1 Kor: hymn o miłości</a>
+    <a href="?q=nowe+jeruzalem" class="chip">nowe jeruzalem</a>
+  </div>
+
+  <div class="results-list" id="resultsList"></div>
+
+  <div class="bottom-controls" id="bottomControls" style="display: none;">
+    <div class="control-group">
+      <label for="limitSelect" class="control-label">Maksymalnie wyników:</label>
+      <select id="limitSelect" class="book-select" aria-label="Maksymalna liczba wyników">
+        <option value="5">5</option>
+        <option value="10" selected>10</option>
+        <option value="30">30</option>
+        <option value="50">50</option>
+      </select>
+    </div>
+  </div>
+</main>
+
+<script type="module" src="js/app.js?v=2.3"></script>
+</body>
+</html>

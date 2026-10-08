@@ -1,0 +1,90 @@
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 1rem 1.5rem 3rem;
+  color: #222;
+  background: #eeeddd;
+}
+header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+h2 a, .site-title a {
+  color: inherit;
+  text-decoration: none;
+}
+h2 a:hover, .site-title a:hover {
+  text-decoration: underline;
+}
+header.site a.search:hover {
+  text-decoration: none;
+  opacity: 0.7;
+}
+.font-switcher {
+  margin-left: auto;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  border: 1px solid #808080;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.font-switcher button {
+  margin-left: 0.25rem;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+  font-family: inherit;
+}
+a.tile {
+  display: inline-block;
+  font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: 0.85rem;
+  min-width: 3rem;
+  text-align: center;
+  text-decoration: none;
+  color: #222;
+  border: 1px solid #00000022;
+  border-radius: 4px;
+  padding: 0.25rem 0.45rem;
+  margin: 0.33rem 0.5rem;
+}
+a.tile:hover {
+  border-color: #00000055;
+}
+a.tile.cat-piecioksiag { background: #eef3e6; }
+a.tile.cat-historyczne { background: #d5ddf0; }
+a.tile.cat-dydaktyczne { background: #fdf3e3; }
+a.tile.cat-prorockie { background: #f3e9ef; }
+a.tile.cat-ewangelie { background: #e6f2ec; }
+a.tile.cat-listy { background: #e9f3fa; }
+a.tile.cat-inne { background: #f5f5f5; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
+@media (max-width: 480px) {
+  body { padding: 0.8rem 0.8rem 2rem; }
+  a.tile { font-size: 0.8rem; padding: 0.2rem 0.35rem; }
+}
